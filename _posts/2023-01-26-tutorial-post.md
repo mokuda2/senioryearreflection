@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Utilizing Seaborn"
+title:  "Using Seaborn"
 author: Michael Okuda
 description: 
-image: /assets/images/"Data Visualization Cover Photo".jpg
+image: /assets/images/Data-Visualization-Cover-Photo.jpg
 ---

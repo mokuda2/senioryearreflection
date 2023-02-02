@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "How to create a blog post"
-author: Shannon Tass
+author: Michael Okuda
 description: A sample post instructions on how to create a new blog post
-image: 
+image: /assets/images/seaborn-collaboration.jpg
 ---
 
 ## Steps for creating a new post.  
@@ -15,7 +15,7 @@ image:
 ---
 layout: post
 title:  "Post Name"
-author: Your name
+author: Michael Okuda
 description: Short yet informative description
 image: /assets/images/blog-image.jpg
 ---

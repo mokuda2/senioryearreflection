@@ -13,11 +13,11 @@ Seaborn is a Python data visualization library based on Matplotlib. I personally
 
 The first step is to install Seaborn. You can do this by running the following command in your terminal or command prompt:
 
-![Figure]()
+![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/pip-install-seaborn.png)
 
 Next, you will need to import Seaborn into your Python environment. You can do this by using the following code:
 
-**import-seaborn-as-sns
+![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/import-seaborn.png)
 
 ## Loading data into Seaborn
 

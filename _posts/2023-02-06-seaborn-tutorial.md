@@ -74,9 +74,9 @@ Analysis: We can see that setosa has the smallest sepal length compared to the o
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/boxplot.png)
 
-## The Kernel Density (KDE) Plot
+## The Kernel Density Estimation (KDE) Plot
 
-The kernel density estimate (KDE) shows the distributions of certain data.  More information on Seaborn KDEs can be found here: https://seaborn.pydata.org/generated/seaborn.kdeplot.html.
+The KDE plot shows the distributions of certain data.  More information on Seaborn KDEs can be found here: https://seaborn.pydata.org/generated/seaborn.kdeplot.html.
 
 From the code below, the following arguments are used:
 
@@ -86,7 +86,7 @@ _**sns.kdeplot(x='sepal_width', hue='species', data=iris)**_
 * "hue=": differentiates between levels of a variable and is most useful if the variable is categorical.  In the code below, "species" has three different levels, and the legend shows which species is associated with what color.
 * "data=": specifies which data frame to use.  In this case, it is the "iris" variable.
 
-Analysis: To interpret this graph, we see that setosa overall has the longest sepal width.  The peak of the graph shows where most of the sepal width values lie.  Notice that the y-axis automatically plots the density of the KDE.  For example, about one-third of the sepal width values for the setosa species is around 3.5.  However, we see that the versicolor and virginica species have about 40 percent on their sepal width values around 3.0.
+Analysis: To interpret this graph, we see that setosa overall has the longest sepal width.  The peak of the graph shows where most of the sepal width values lie.  Notice that the y-axis automatically plots the density of the KDE.  For example, about one-third of the sepal width values for the setosa species is around 3.5.  However, we see that the versicolor and virginica species have about 40 percent of their sepal width values around 3.0.
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/kdeplot.png)
 

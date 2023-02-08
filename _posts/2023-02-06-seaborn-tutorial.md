@@ -27,7 +27,7 @@ _**import seaborn as sns**_
 
 The following code will allow you access to the iris dataset, which is a data frame with 150 measurements of iris petal widths and lengths of three different species.
 
-_**iris = sns.load_dataset("iris)**_\
+_**iris = sns.load_dataset("iris")**_\
 _**iris**_
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/iris-dataframe2.png)
@@ -52,7 +52,7 @@ _**sns.scatterplot(x="petal_length", y="petal_width", data=iris)**_
 
 * "hue=": differentiates between levels of a variable and is most useful if the variable is categorical.  In the code below, "species" has three different levels, and the legend shows which species is associated with what color.
 
-Analysis: This graphic is more descriptive than the previous graph, where we can see that the setosa species has the smallest petal length and petal width, whereas the virginica species overall has the longest petal length and petal width.
+Analysis: The graph below is more descriptive than the graph above, where we can see in the graph below that the setosa species has the smallest petal length and petal width, whereas the virginica species overall has the longest petal length and petal width.
 
 _**sns.scatterplot(x="petal_length", y="petal_width", hue="species", data=iris)**_
 
@@ -71,6 +71,8 @@ _**sns.boxplot(x="species", y="sepal_length", data=iris)**_
 * "data=": specifies which data frame to use.  In this case, it is the "iris" variable.
 
 Analysis: We can see that setosa has the smallest sepal length compared to the other species.  We can also observe that there is an outlier in the virginica boxplot.
+
+![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/boxplot.png)
 
 ## The Kernel Density (KDE) Plot
 

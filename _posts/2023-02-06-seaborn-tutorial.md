@@ -9,8 +9,6 @@ image: /assets/images/seaborn-collaboration.jpg
 
 Seaborn is a Python data visualization library based on Matplotlib. I personally like it over Matplotlib and Pandas visualizations because Seaborn provides more beautiful statistical graphics. Seaborn is designed to work with Pandas data frames and to make visualizations of complex data easier and more attractive. [This website](https://seaborn.pydata.org/api.html) is a great resource for learning the details of how to create visualizations in Seaborn.
 
-<a name=https://seaborn.pydata.org/api.html></a>
-
 ## Getting Started with Seaborn
 
 The first step is to install Seaborn. You can do this by running the following command in your terminal or command prompt:

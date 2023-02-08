@@ -7,7 +7,7 @@ image: /assets/images/seaborn-collaboration.jpg
 ---
 ## What is Seaborn?
 
-Seaborn is a Python data visualization library based on Matplotlib. I personally like it over Matplotlib and Pandas visualizations because Seaborn provides more beautiful statistical graphics. Seaborn is designed to work with Pandas data frames and to make visualizations of complex data easier and more attractive. [This website](https://seaborn.pydata.org/api.html) is a great resource for learning the details of how to create visualizations in Seaborn.
+Seaborn is a Python data visualization library based on Matplotlib. I personally like it over Matplotlib and Pandas visualizations because Seaborn provides more beautiful statistical graphics. Seaborn is designed to work with Pandas data frames and to make visualizations of complex data easier and more attractive. [This website is a great resource for learning the details of how to create visualizations in Seaborn](https://seaborn.pydata.org/api.html).
 
 ## Getting Started with Seaborn
 
@@ -38,7 +38,7 @@ In this tutorial, we will go over the basics of how to create some common types 
 
 ## The Scatter Plot
 
-The scatter plot graphs two quantitative variables against each other, one on the x-axis and the other on the y-axis.  More information on Seaborn scatter plots can be found [here](https://seaborn.pydata.org/generated/seaborn.scatterplot.html).
+The scatter plot graphs two quantitative variables against each other, one on the x-axis and the other on the y-axis. [More information on Seaborn scatter plots can be found here](https://seaborn.pydata.org/generated/seaborn.scatterplot.html).
 
 From the code below, the following arguments are used:
 
@@ -60,7 +60,7 @@ _**sns.scatterplot(x="petal_length", y="petal_width", hue="species", data=iris)*
 
 ## The Boxplot
 
-Boxplots are useful visualizations to compare the spread or variance of the data.  The bottom of the "box" is the 25th percentile, the middle line is the median, and the top of the "box" is the 75th percentile.  More information on Seaborn boxplots can be found [here](https://seaborn.pydata.org/generated/seaborn.boxplot.html).
+Boxplots are useful visualizations to compare the spread or variance of the data.  The bottom of the "box" is the 25th percentile, the middle line is the median, and the top of the "box" is the 75th percentile. [More information on Seaborn boxplots can be found here](https://seaborn.pydata.org/generated/seaborn.boxplot.html).
 
 From the code below, the following arguments are used:
 
@@ -76,7 +76,7 @@ Analysis: We can see that setosa has the smallest sepal length compared to the o
 
 ## The Kernel Density Estimation (KDE) Plot
 
-The KDE plot shows the distributions of certain data.  More information on Seaborn KDEs can be found [here](https://seaborn.pydata.org/generated/seaborn.kdeplot.html).
+The KDE plot shows the distributions of certain data. [More information on Seaborn KDEs can be found here](https://seaborn.pydata.org/generated/seaborn.kdeplot.html).
 
 From the code below, the following arguments are used:
 
@@ -92,7 +92,7 @@ Analysis: To interpret this graph, we see that setosa overall has the longest se
 
 ## The Pairplot
 
-Pairplots graph every combination pair of quantitative variables. More information on Seaborn pairplots can be found [here](https://seaborn.pydata.org/generated/seaborn.pairplot.html).
+Pairplots graph every combination pair of quantitative variables. [More information on Seaborn pairplots can be found here](https://seaborn.pydata.org/generated/seaborn.pairplot.html).
 
 From the code below, the following arguments are used:
 

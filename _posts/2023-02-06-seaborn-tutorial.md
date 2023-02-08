@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using the Iris Dataset with Seaborn"
+title:  "Creating Visually Appealing Visualizations with Seaborn and the Iris Dataset"
 author: Michael Okuda
 description: Learn how to create basic visualizations with Seaborn.
 image: /assets/images/seaborn-collaboration.jpg

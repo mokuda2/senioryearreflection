@@ -3,7 +3,7 @@ layout: post
 title:  A Perspective on Meredith Broussard's _Artificial Unintelligence_
 author: Michael Okuda
 description: Opinions on the differences between humans and machines and how machines are not necessarily better at doing certain tasks than humans
-image: /assets/images/artificial-unintelligence.avif
+image: /assets/images/artificial-unintelligence.png
 ---
 
 ## Book Summary
@@ -18,7 +18,7 @@ Broussard's theory of why mathematicians, computer scientists, and engineers are
 
 I would not say that I did not like this book, but one thing that I could see that people may not like about this book is how "simple" Broussard explains technical concepts, which may be boring for technical audiences.  For example, she elaborates how a computer runs and works.  I think this is great for a non-technical audience, and I would probably be included in that audience.  As a statistics student, I do not feel like I have a basic concept of how a computer works or its parts.  I am not sure if computer science classes assume that people know how a computer works, but I am thankful for Broussard's details.  She definitely tried to appeal to a non-technical audience.
 
-![Figure]
+![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/parts-of-a-computer.png)
 
 ## Review Summary
 

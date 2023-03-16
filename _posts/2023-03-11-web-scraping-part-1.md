@@ -106,7 +106,7 @@ pokemon_df
 
 The data frame should look something like the following:
 
-![Figure]
+![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/pokemon_data_frame.png)
 
 Finally, we'll save the data frame to a CSV file.  This will help us have to run this code only once and not have to worry about rerunning the list comprehensions.
 

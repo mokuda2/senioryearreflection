@@ -8,11 +8,11 @@ image: /assets/images/pokeball.png
 
 # Introduction
 
-Pokémon is a classic video game played by many people.  Personally, playing Pokémon during my teenage years helped me develop an interest and love for numbers.  I loved getting to see the stats increase each time my Pokémon would level up.  After understanding the game and beating it several times, I wondered what Pokémon would be the strongest to put in my team.
+[Pokémon](https://www.pokemon.com/us) is a classic video game played by many people.  Personally, playing Pokémon during my teenage years helped me develop an interest and love for numbers.  I loved getting to see the stats increase each time my Pokémon would level up.  After understanding the game and beating it several times, I wondered what Pokémon would be the strongest to put in my team.
 
 # Gathering the Data
 
-Several websites contain data of Pokémon's base stats, including [this website](https://pokeapi.co/docs/v2#wrap), which will be used for web scraping to collect the data.  I was able to determine that it was ethical to use the data from the above website because it states that it is "free and open to use."  The repository of the data that I collected is available [here](https://github.com/mokuda2/pokemon).
+
 
 To start, use a Jupyter notebook file to web scrape data from the website.  I used the following packages:
 

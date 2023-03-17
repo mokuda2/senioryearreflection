@@ -8,7 +8,7 @@ image: /assets/images/pokeball.png
 
 # Introduction
 
-Pokémon is a classic video game played by many people.  Personally, playing Pokémon during my teenage years helped me develop an interest and love for numbers.  I loved getting to see the stats increase each time my Pokémon would level up.  After understanding the game and beating it several times, I wondered what Pokémon would be the strongest to put in my team.
+[Pokémon](https://www.pokemon.com/us) is a classic video game played by many people.  Personally, playing Pokémon during my teenage years helped me develop an interest and love for numbers.  I loved getting to see the stats increase each time my Pokémon would level up.  After understanding the game and beating it several times, I wondered what Pokémon would be the strongest to put in my team.
 
 # Gathering the Data
 

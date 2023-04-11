@@ -20,6 +20,8 @@ I also created another data frame that concatenated all the top 20 Pokémon for 
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/value-counts.png)
 
+% include value-counts.html %
+
 It is interesting to observe that although Hydreigon has the highest base stats total, it is listed in three of the data frames, whereas Serperior and Archeops are listed in four.  For instance, Serperior is listed in the top 20 for defense, special defense, speed, and base stats total.
 
 For those who are not familiar with Pokémon games, this analysis may not be that exciting or interesting since Pokémon names may have no meaning whatsoever.  However, for those who are familiar with Pokémon games, here are the Pokémon I would choose to be part of my team:

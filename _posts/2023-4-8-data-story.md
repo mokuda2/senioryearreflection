@@ -20,7 +20,7 @@ I also created another data frame that concatenated all the top 20 Pokémon for 
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/value-counts.png)
 
-{% include value-counts.html %}
+[//]: # ({% include value-counts.html %})
 
 <iframe src="{{site.url}}/{{site.baseurl}}/assets/images/value-counts.html"></iframe>
 

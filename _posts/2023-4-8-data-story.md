@@ -20,7 +20,7 @@ I also created another data frame that concatenated all the top 20 Pokémon for 
 
 ![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/value-counts.png)
 
-{% include_relative ../images/assets/value-counts.html %}
+{% include value-counts.html %}
 
 It is interesting to observe that although Hydreigon has the highest base stats total, it is listed in three of the data frames, whereas Serperior and Archeops are listed in four.  For instance, Serperior is listed in the top 20 for defense, special defense, speed, and base stats total.
 

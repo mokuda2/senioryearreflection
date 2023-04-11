@@ -14,11 +14,9 @@ In my [first post of this project](https://mokuda2.github.io/my386blog/2023/03/1
 
 Recall the graph below of the base stats total of the top 20 Pokémon from the previous post:
 
-![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/base-stats-total-barplot.png)
+<iframe src="{{site.url}}/{{site.baseurl}}/assets/images/base-stats-total.html" width="100%" height="500px"></iframe>
 
 I also created another data frame that concatenated all the top 20 Pokémon for each base stat as well as the base stats total.  I then did a count of the Pokémon names to see which Pokémon appeared in the data frame how many times.  The graph below shows the top 20 Pokémon names that were most prevalent in the data frame:
-
-![Figure](https://raw.githubusercontent.com/mokuda2/my386blog/main/assets/images/value-counts.png)
 
 <iframe src="{{site.url}}/{{site.baseurl}}/assets/images/value-counts.html" width="100%" height="500px"></iframe>
 

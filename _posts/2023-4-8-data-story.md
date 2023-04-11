@@ -31,7 +31,7 @@ For those who are not familiar with Pokémon games, this analysis may not be tha
 * Klinklang
 * Seismitoad
 
-So why did I choose these Pokémon?  Why didn't I choose the top six from the above graphs?  One reason is that Serperior, Emboar, and Samurott are the fully-evolved forms of the starter Pokémon, and a player can choose only one of them.  After playing a few rounds of Pokémon White, I know what Pokémon appear at what point in the game and when they evolve.  For example, Hydreigon's pre-evolution evolves at level 64, which is usually not reached until after beating the game.  I also chose Seismitoad—even though it was towards the bottom of the graph—because it is almost essential to have a water-type Pokémon in order to cross water.  It does take some context to understand what Pokémon to choose from the list, but the insights of the data are helpful in making that decision.
+So why did I choose these Pokémon?  Why didn't I choose the top six from the above graphs?  One reason is that Serperior, Emboar, and Samurott are the fully-evolved forms of the [starter Pokémon](https://bulbapedia.bulbagarden.net/wiki/Starter_Pok%C3%A9mon), and a player can choose only one of them.  After playing a few rounds of Pokémon White, I know what Pokémon appear at what point in the game and when they evolve.  For example, Hydreigon's pre-evolution evolves at level 64, which is usually not reached until after beating the game.  I also chose Seismitoad—even though it was towards the bottom of the graph—because it is almost essential to have a water-type Pokémon in order to cross water.  It does take some context to understand what Pokémon to choose from the list, but the insights of the data are helpful in making that decision.
 
 ## Conclusion
 

@@ -14,11 +14,11 @@ In my [first post of this project](https://mokuda2.github.io/my386blog/2023/03/1
 
 Recall the graph below of the base stats total of the top 20 Pokémon from the previous post:
 
-<iframe src="{{site.url}}/{{site.baseurl}}/assets/images/base-stats-total.html" width="100%" height="500px"></iframe>
+<iframe src="{{site.url}}/{{site.baseurl}}/assets/images/base-stats-total1.html" width="100%" height="500px"></iframe>
 
 I also created another data frame that concatenated all the top 20 Pokémon for each base stat as well as the base stats total.  I then did a count of the Pokémon names to see which Pokémon appeared in the data frame how many times.  The graph below shows the top 20 Pokémon names that were most prevalent in the data frame:
 
-<iframe src="{{site.url}}/{{site.baseurl}}/assets/images/value-counts.html" width="100%" height="500px"></iframe>
+<iframe src="{{site.url}}/{{site.baseurl}}/assets/images/value-counts1.html" width="100%" height="500px"></iframe>
 
 It is interesting to observe that although Hydreigon has the highest base stats total, it is listed in three of the data frames, whereas Serperior and Archeops are listed in four.  For instance, Serperior is listed in the top 20 for defense, special defense, speed, and base stats total.
 

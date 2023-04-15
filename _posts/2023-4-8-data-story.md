@@ -10,11 +10,11 @@ image: /assets/images/pokeball.png
 
 In my [first post of this project](https://mokuda2.github.io/my386blog/2023/03/14/web-scraping-part-1.html), I web scraped Pokémon data involving their base stats.  In my [previous post](https://mokuda2.github.io/my386blog/2023/03/26/eda.html), I did exploratory data analysis to figure out which Pokémon would be the strongest to train.  In this blog post, I will share the story that the data is telling and the high-level takeaways.  This [GitHub repository](https://github.com/mokuda2/pokemon) contains the code I used to create the visualization in this blog post.
 
-## The Stor
+## The Story
 
 <iframe src="{{site.url}}/{{site.baseurl}}/assets/images/base-stats-total-with-frequency-count.html" width="100%" height="500px"></iframe>
 
-I also created another data frame that concatenated all the top 20 Pokémon for each base stat as well as the base stats total.  I then did a count of the Pokémon names to see which Pokémon appeared in the data frame how many times.  The graph below shows the top 20 Pokémon names that were most prevalent in the data frame:
+In the above visualization, I arranged the top 20 Pokémon with the highest base stats total in descending order.  The color of a bar represents the count of a Pokémon's name in the data frames of the highest base stats as well as the highest base stats total.
 
 It is interesting to observe that although Hydreigon has the highest base stats total, it is listed in three of the data frames, whereas Serperior and Archeops are listed in four.  For instance, Serperior is listed in the top 20 for defense, special defense, speed, and base stats total.
 

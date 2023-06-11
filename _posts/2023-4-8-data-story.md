@@ -4,8 +4,8 @@ title:  1.1 Perspectives from an Atheist
 author: Michael Okuda
 ---
 
-**Part 1: Summer 2022
-- Chapter 1: Perspectives from an Atheist (6/17/2022 – 8/28/2022)**
+### **Part 1: Summer 2022**
+### - **Chapter 1: Perspectives from an Atheist (6/17/2022 – 8/28/2022)**
 
 Part 2: Fall 2022 
 - Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)

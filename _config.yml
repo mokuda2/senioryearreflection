@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Blog # Make a title for your blog
+title: Junior Year Reflection # Make a title for your blog
 email: michael.okuda99@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
  A novice blogger wanting to share and learn more about data science
-baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
+baseurl: "/junioryearreflection" # keep this the same or change it to the name of the repository 
 url: "https://mokuda2.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/Data-Visualization-Cover-Photo.jpg
 author: Michael Okuda

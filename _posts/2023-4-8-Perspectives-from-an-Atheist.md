@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  1.1 Perspectives from an Atheist
+title:  Part 1: Summer 2022, Chapter 1: Perspectives from an Atheist
 author: Michael Okuda
 ---
 

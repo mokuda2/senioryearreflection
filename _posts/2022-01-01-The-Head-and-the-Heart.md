@@ -292,29 +292,29 @@ April 7, 2023.  Ever since the day that Connor said he wasn’t interested in me
 
 A couple days ago, Hyeji texted me saying that she had been struggling on an IS project and that she'd have to turn it in late.
 
-Hyeji: 😭😭😭😭😭
+```Hyeji: 😭😭😭😭😭```
 
-😭😭😭😭😭
+```😭😭😭😭😭```
 
-😭😭😭😭😭😭😭😭😭
+```😭😭😭😭😭😭😭😭😭```
 
-😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+```😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭```
 
-😭
+```😭```
 
-Me: Same
+```Me: Same```
 
-But in a different way
+```But in a different way```
 
-Hyeji: What do you mean?
+```Hyeji: What do you mean?```
 
-Me: I'll have to tell you sometime later. In private.
+```Me: I'll have to tell you sometime later. In private.```
 
-Hyeji: What happened to you!!!!!!
+```Hyeji: What happened to you!!!!!!```
 
-Me: Oh, I better tell you in person lol
+```Me: Oh, I better tell you in person lol```
 
-Maybe we can hang out sometime Friday night? What does your Friday look like?
+```Maybe we can hang out sometime Friday night? What does your Friday look like?```
 
 I actually had thought a bit about coming out to Hyeji.  She and I occasionally hung out during the semester, but we mostly studied together in the West View Building.
 

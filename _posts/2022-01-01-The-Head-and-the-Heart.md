@@ -688,13 +688,11 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 (Hopefully this song now makes more sense and has more context.  It’s my mood song this past school year.)
 
-마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
+### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-```
-Source: https://www.youtube.com/watch?v=Amq-qlqbjYA
-```
+```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```
 
 ```
 (Gimme little bit of that) Who are you to make me keep thinking about you?

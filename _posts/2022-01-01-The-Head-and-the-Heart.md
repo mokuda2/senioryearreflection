@@ -294,14 +294,6 @@ A couple days ago, Hyeji texted me saying that she had been struggling on an IS 
 
 ```Hyeji: 😭😭😭😭😭```
 
-``` 😭😭😭😭😭```
-
-``` 😭😭😭😭😭😭😭😭😭```
-
-``` 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭```
-
-``` 😭```
-
 ```Me: Same```
 
 ```But in a different way```
@@ -648,7 +640,7 @@ I guess that explained where my boring-man genes came from.
 
 “So…  Marriage is more than just a ceremony?  You have to feel a certain way about someone?”
 
-Both Mom and Dad nodded.  Well, I guess they weren’t as mechanical as I thought they were.  It sounded like they knew what romantic love was.  Maybe they’d have a level of understanding of my situation.  Or maybe they wouldn’t and would act like privileged straight people.  Either way, there was something that they should’ve been happy about.  If they were more mechanical when it came to emotions, then all of the times when I was with Gyuna and Hyeji would’ve fit Mom and Dad’s definition of a date.  I definitely went on countless “dates” with them.  But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally grown from dating guys.  And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality.
+Both Mom and Dad nodded.  Well, I guess they weren’t as mechanical as I thought they were.  It sounded like they knew what romantic love was.  Maybe they’d have a level of understanding of my situation.  Or maybe they wouldn’t and would act like privileged straight people.  Either way, there was something that they should’ve been happy about.  If they were more mechanical when it came to emotions, then all the times when I was with Gyuna and Hyeji would’ve fit Mom and Dad’s definition of a date.  I definitely went on countless “dates” with them.  But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally grown from dating guys.  And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality.
 
 Taking a dating hiatus was honestly pretty nice.  I've had a lot of time to ponder and reflect this past school year about my dating life.  Even though a long-term relationship is the goal, I think I want to find friends for now—friends who will be good influences on me.  The beginnings of friendship and dating are very similar from my experiences: figuring out if the other person would be a good fit.  Both parties involved had to desire and maintain that friendship and reciprocate, much like a long-term relationship.  Maybe a friendship level was more of what I had been perceiving than a long-term relationship when I went on first dates.  But one thing I feel is different about friendships than dating is that friendships can last, even if there is no romantic interest.  With long-term relationships, it seems like if either person doesn’t find romantic interest, then that’s the end.  Plus, I feel like it’s normal for people to be friends before they become couples.
 
@@ -764,4 +756,4 @@ As if it’s your last, as if it’s your l-l-last
 As if there is no tomorrow, love.
 ```
 
-THE END
+## THE END

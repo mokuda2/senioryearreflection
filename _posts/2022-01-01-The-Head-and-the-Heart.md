@@ -300,19 +300,19 @@ Hyeji: 😭😭😭😭😭
 
 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
 
-```😭```
+😭
 
-```Me: Same```
+Me: Same
 
-```But in a different way```
+But in a different way
 
-```Hyeji: What do you mean?```
+Hyeji: What do you mean?
 
-```Me: I'll have to tell you sometime later. In private.```
+Me: I'll have to tell you sometime later. In private.
 
-```Hyeji: What happened to you!!!!!!```
+Hyeji: What happened to you!!!!!!
 
-```Me: Oh, I better tell you in person lol```
+Me: Oh, I better tell you in person lol
 
 Maybe we can hang out sometime Friday night? What does your Friday look like?
 

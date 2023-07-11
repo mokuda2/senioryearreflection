@@ -4,6 +4,24 @@ title:  Part 3--Winter Semester 2023, Chapter 1--Opposites versus Complements
 author: Michael Okuda
 ---
 
+Part 1: Summer 2022
+- Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
+
+Part 2: Fall 2022
+- Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+- Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
+
+### **Part 3: Winter 2023**
+### **Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)**
+- Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+- Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
+
+---
+
+## Section 1
+
 January 10, 2023.  It was the beginning of another semester.  On Mondays, Wednesdays, and Fridays, I had STAT 340 (a probability theory class) and CS 236 (mathematical theory concepts with programming).  Then on Tuesdays and Thursdays, I had STAT 386 (data science process) and STAT 251 (Bayesian statistics).
 I had a date set up with a guy named Dylan today.  He was the first femme-appearing guy I went on a date with.  He wore pink sweatpants and a beige scarf with a cardigan.
 For our date, we went to CHOM Burger.  I felt pretty vulnerable, but I also felt like those kinds of situations were good to be in.  It definitely got me out of my comfort zone.  I was pretty sure other people knew he was gay just by looking at him, and I was the only one who was talking to him.

@@ -4,7 +4,23 @@ title:  Part 2--Fall Semester 2022, Chapter 1--Hollow Space
 author: Michael Okuda
 ---
 
-Section 1
+Part 1: Summer 2022
+- Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
+
+### **Part 2: Fall 2022**
+### **Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)**
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+- Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
+
+Part 3: Winter 2023
+- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+- Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+- Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
+
+---
+
+## Section 1
 
 August 29, 2022.  I couldn’t believe it was the start of another semester.
 I had five classes.  On Mondays, Wednesdays, and Fridays, I had STAT 240 (probability and inference), STAT 286 (Linux, Python, and SQL), and CS 180—the data science class that Gyuna was also in.  She messaged me this morning asking for the time and the place, so I let her know where she could find her general class schedule.

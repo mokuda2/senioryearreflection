@@ -5,38 +5,44 @@ author: Michael Okuda
 ---
 
 Part 1: Summer 2022
-Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
+- Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
 
 Part 2: Fall 2022
-	Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
-	Chapter 2: Shadows (10/23/2022 – 11/8/2022)
-	Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
-	Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
+- Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+- Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
 
-Part 3: Winter 2023
-	Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
-	Chapter 2: Triangles (2/13/2023 – 3/18/2023)
-	Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
- 
-	February 13, 2023.  Bryce told me that he was studying in one of the reserved rooms tonight, so I walked over when I was finished with dinner.
-	“I’m trying to make a list of things that we could do together,” I said.  I had made categories of things we could do, including hikes, restaurants, and movies.  I added Bryce to the note so that he could add some ideas too.  We came up with a lot of things: orchestra, escape room, axe throwing, shooting, clothes shopping, and a bunch of other things I wouldn’t have done by myself.
-	We studied for the rest of the night.  I noticed that Bryce would occasionally look at me.  “What?” I asked.
-	“You’re just really distracting,” he said.  “This is really embarrassing, but one of the reasons I started going back to dating was because I was watching this one Thai drama, and it made me feel so lonely.”
-	“What kind of Thai drama?”
-	“It was a gay romance drama.  I can’t believe I’m talking about this to you.”
-	“I don’t think it’s embarrassing.  My dad would show my family these Japanese rom-com dramas.  A lot of it didn’t make sense to me, but thinking back on them, I think I’d understand them a lot better if I watched them now.  Maybe we can watch that Thai drama!  What does your schedule look like?”
-	“I’m pretty busy during the daytime.  But most evenings around this time are good.”
-	“Yeah, I’m pretty busy during the daytime too,” I said.  “But we should spend time together.  You know, I think one of the things that turned me off about dating before I started dating guys was that it seemed to be an unspoken rule that a couple had to be around each other as much as possible.  And I just didn’t understand why anyone would want to do that to themselves or why people would want to make that kind of time commitment as a full-time student.”
-	“I know that dating takes a lot of time and money, but I actually want to spend time with you.  It’s not like I want to just go through the motions.”
-	“Yeah, same.  I want to spend time with you too.”
-	Most nights, Bryce and I would spend time at the library studying.  It wasn't as productive as studying by myself, but I liked seeing and talking to him.  At least it was more productive than studying with Gyuna.  Sometimes Bryce and I did other things, including watching the Thai drama.  He’d drop me off at my apartment at night, and we’d hold hands in the car.  Getting to see Bryce at the end of the day gave me something to look forward to.
-	We usually listened to the radio.  “Did that song just say, ‘I just killed my ex.’?” Bryce said.
-	I didn’t know who the singer was or what she was saying, but I heard her say it again.  I laughed.  The radio played that song pretty frequently.
-	“You told me you like that one K-pop group, Blackpink?” Bryce asked.  He opened his phone for me to play some music.
-	“Yes!” I exclaimed.  I played “ddu du ddu du.”  “This one is a classic K-pop song.  It’s got over two billion views.”
-	We listened to the song for a bit.  “I feel like I know you, but then I get these kinds of surprises,” he said.  “I wouldn’t ever think you’d listen to songs like this.”  I also played “As If It’s Your Last.”
+### **Part 3: Winter 2023**
+- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+### **Chapter 2: Triangles (2/13/2023 – 3/18/2023)**
+- Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
 
-	It was around Valentine’s Day, which usually didn’t mean anything to me, but at the end of the week, we planned on going to Itto Sushi.  Bryce said he never had sushi before.
+---
+
+## Section 1
+
+February 13, 2023.  Bryce told me that he was studying in one of the reserved rooms tonight, so I walked over when I was finished with dinner.
+“I’m trying to make a list of things that we could do together,” I said.  I had made categories of things we could do, including hikes, restaurants, and movies.  I added Bryce to the note so that he could add some ideas too.  We came up with a lot of things: orchestra, escape room, axe throwing, shooting, clothes shopping, and a bunch of other things I wouldn’t have done by myself.
+We studied for the rest of the night.  I noticed that Bryce would occasionally look at me.  “What?” I asked.
+“You’re just really distracting,” he said.  “This is really embarrassing, but one of the reasons I started going back to dating was because I was watching this one Thai drama, and it made me feel so lonely.”
+“What kind of Thai drama?”
+“It was a gay romance drama.  I can’t believe I’m talking about this to you.”
+“I don’t think it’s embarrassing.  My dad would show my family these Japanese rom-com dramas.  A lot of it didn’t make sense to me, but thinking back on them, I think I’d understand them a lot better if I watched them now.  Maybe we can watch that Thai drama!  What does your schedule look like?”
+“I’m pretty busy during the daytime.  But most evenings around this time are good.”
+“Yeah, I’m pretty busy during the daytime too,” I said.  “But we should spend time together.  You know, I think one of the things that turned me off about dating before I started dating guys was that it seemed to be an unspoken rule that a couple had to be around each other as much as possible.  And I just didn’t understand why anyone would want to do that to themselves or why people would want to make that kind of time commitment as a full-time student.”
+“I know that dating takes a lot of time and money, but I actually want to spend time with you.  It’s not like I want to just go through the motions.”
+“Yeah, same.  I want to spend time with you too.”
+Most nights, Bryce and I would spend time at the library studying.  It wasn't as productive as studying by myself, but I liked seeing and talking to him.  At least it was more productive than studying with Gyuna.  Sometimes Bryce and I did other things, including watching the Thai drama.  He’d drop me off at my apartment at night, and we’d hold hands in the car.  Getting to see Bryce at the end of the day gave me something to look forward to.
+We usually listened to the radio.  “Did that song just say, ‘I just killed my ex.’?” Bryce said.
+I didn’t know who the singer was or what she was saying, but I heard her say it again.  I laughed.  The radio played that song pretty frequently.
+“You told me you like that one K-pop group, Blackpink?” Bryce asked.  He opened his phone for me to play some music.
+“Yes!” I exclaimed.  I played “ddu du ddu du.”  “This one is a classic K-pop song.  It’s got over two billion views.”
+We listened to the song for a bit.  “I feel like I know you, but then I get these kinds of surprises,” he said.  “I wouldn’t ever think you’d listen to songs like this.”  I also played “As If It’s Your Last.”
+
+...
+
+It was around Valentine’s Day, which usually didn’t mean anything to me, but at the end of the week, we planned on going to Itto Sushi.  Bryce said he never had sushi before.
 "I went here for the first time on Christmas Eve with my brother and sister-in-law," I said when we were seated.  "Then I went here again on New Year's Eve with the guy that I thought I'd get serious with.  And now I'm here again.  Talk about progress."
 	I also watched him use chopsticks for the first time.  He wasn’t too shabby for a first timer.  Watching Bryce experience new things was so much fun!
 	That weekend, Gyuna and Christian invited me to a party that Christian’s friend was DJing.  Aubree and some of Gyuna’s other friends were there as well.  After the party, Aubree, Bryce, and I were waiting outside for Gyuna and Christian to finish talking to their friend.

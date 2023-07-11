@@ -4,6 +4,24 @@ title:  Part 2--Fall Semester 2022, Chapter 4--The Color Red
 author: Michael Okuda
 ---
 
+Part 1: Summer 2022
+- Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
+
+### **Part 2: Fall 2022**
+- Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+### **Chapter 4: The Color Red (12/3/2022 – 1/8/2023)**
+
+Part 3: Winter 2023
+- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+- Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+- Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
+
+---
+
+## Section 1
+
 December 3, 2022.  Just as Gyuna had told me on the phone, she went to Rexburg today.  It was weird not getting to see her over the weekend.  I didn’t hang out with anyone else that much outside of class.  Since I didn’t know what else to do, I went to the Engineering Building to study.  I felt super lonely.  I couldn’t believe I lived a life of solitude like this last school year.  I didn’t know how I did it.
 I had been messaging a guy named Peter for about a week.  He asked me how I was doing during this particular moment.  I said that I felt a bit lonely without my friend for the weekend, so he asked me if I was available to go on a date!  I honestly didn’t think he was that interested, but I was down.
 The next day, I drove up to Liberty Park in Salt Lake City.  It was the first time I had driven to Salt Lake City by myself, so I was a bit nervous.  And I was nervous that I was going on another first date.  I sometimes still got SO freaking nervous, especially on first dates.

@@ -4,6 +4,22 @@ title:  Part 3--Winter Semester 2023, Chapter 3--The Head and the Heart
 author: Michael Okuda
 ---
 
+Part 1: Summer 2022
+- Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)
+
+Part 2: Fall 2022
+- Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+- Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
+
+### **Part 3: Winter 2023**
+- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+- Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+### **Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)**
+
+---
+
 ## Section 1
 March 20, 2023.  A multistake FHE was happening at one of the stake centers, and they had free food, so I invited Gyuna if she wanted to go.  She asked if her friend could join, so the three of us went in her friend’s car.  Gyuna sat behind me, and she kept poking the back of my neck.  Dang it, of course she wanted me to sit up front so she could do that to me.
 
@@ -809,10 +825,8 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 ```As if there is no tomorrow, love.```
 
-...
-
 # THE END
 
-...
+---
 
 ## Other Videos and Sites Used Throughout Reflection

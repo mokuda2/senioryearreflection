@@ -121,7 +121,7 @@ I didn’t know what losing three children at the same time felt like, but it so
 
 (“Gethsemane” by Rob Gardner from _The Lamb of God_ (again, the cello represents Christ))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 (Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13) 
 

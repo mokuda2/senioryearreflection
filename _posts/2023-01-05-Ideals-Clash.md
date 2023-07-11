@@ -410,7 +410,14 @@ Gyuna: As hurtful as it is, it is as natural process of finding someone to date.
 There are three songs that I think might help you! Cry as much as you need and let those feelings wash out. And have a knock out sleep Michael!
 
 I didn’t get her last text until the following morning.  I felt like absolute trash when I woke up.  I didn’t want to go to class.  I didn’t want to do homework.  I didn’t want to do anything at all.  But I managed to get out of bed.
-Gyuna had sent three songs, all of which had to do with love.  Those kinds of songs never made sense to me in the past, but as I really listened to the lyrics, I felt like I could actually relate to them.  What I used to find unrelatable and disgusting actually RESONATED with me!  Did other people go through these emotions too?  (Here is one song that Gyuna sent me: “Like I Can” by Sam Smith https://www.youtube.com/watch?v=7AjKWWk0KDQ)
+Gyuna had sent three songs, all of which had to do with love.  Those kinds of songs never made sense to me in the past, but as I really listened to the lyrics, I felt like I could actually relate to them.  What I used to find unrelatable and disgusting actually RESONATED with me!  Did other people go through these emotions too?
+
+(Here is one song that Gyuna sent me: “Like I Can” by Sam Smith)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7AjKWWk0KDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+```(Source: https://www.youtube.com/watch?v=7AjKWWk0KDQ)```
+
 It wasn’t until I had class in the afternoon that I began to feel a bit better.  Maybe this was the end of it.  I could finally move on.
 That was what I thought.  That evening, I was in the Talmage basement in one of the soundproof study pods.  Gyuna said she’d meet me there.  I began to feel really sad again.  I didn’t want to do homework at all!
 “Hey,” Gyuna greeted.

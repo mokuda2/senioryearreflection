@@ -694,65 +694,122 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 ```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```
 
-```
-(Gimme little bit of that) Who are you to make me keep thinking about you?
-(Gimme little bit of this) This hurts my pride, but I’m all worked up.
-My face goes red and my heart’s racing.
-I can’t control myself.  I’m getting dizzy.
-(Gimme little bit of that) You’re like a handful of sand.
-(Gimme little bit of this) I think I have you, but you slip from my grasp.
-You’re not an easy catch, so I want you more.
-My heart just can’t get what it wants.  It’s ridiculous.
 
-Can you feel it in my breath, how much I want you now?
-Even when I look at you, I’m missing you.
-On clumsy days, won’t you set me free?
+```(Gimme little bit of that) Who are you to make me keep thinking about you?```
 
-Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love.
+```(Gimme little bit of this) This hurts my pride, but I’m all worked up.```
 
-Uh, I’ma fall in love, baby.
-You gon’ finna catch me.
-Uh, give you all of this, baby.
-Call me pretty and nasty.
-‘Cause we gonna get it, my love, you can bet it on black we gon’ double the stack on them, whoa!
-I be the Bonnie and you be my Clyde.
-We ride or die.  X’s and O’s.
+```My face goes red and my heart’s racing.```
 
-For every tick and tock, the more desperate I feel.
-You run my world, and I’m missing you.
-On clumsy days, won’t you set me free?
+```I can’t control myself.  I’m getting dizzy.```
 
-Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love.
+```(Gimme little bit of that) You’re like a handful of sand.```
 
-One, two, three, it’s a new beginning.
-I won’t ever be looking back.
-If I throw myself at you, please catch me.
-The world can’t bring us down.
-BLACKPINK in your area (BLACKPINK in your area)
+```(Gimme little bit of this) I think I have you, but you slip from my grasp.```
 
-Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love.
-```
+```You’re not an easy catch, so I want you more.```
+
+```My heart just can’t get what it wants.  It’s ridiculous.```
+
+.
+
+```Can you feel it in my breath, how much I want you now?```
+
+```Even when I look at you, I’m missing you.```
+
+```On clumsy days, won’t you set me free?```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+.
+
+```Uh, I’ma fall in love, baby.```
+
+```You gon’ finna catch me.```
+
+```Uh, give you all of this, baby.```
+
+```Call me pretty and nasty.```
+
+```‘Cause we gonna get it, my love, you can bet it on black we gon’ double the stack on them, whoa!```
+
+```I be the Bonnie and you be my Clyde.```
+
+```We ride or die.  X’s and O’s.```
+
+.
+
+```For every tick and tock, the more desperate I feel.```
+
+```You run my world, and I’m missing you.```
+
+```On clumsy days, won’t you set me free?```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+.
+
+```One, two, three, it’s a new beginning.```
+
+```I won’t ever be looking back.```
+
+```If I throw myself at you, please catch me.```
+
+```The world can’t bring us down.```
+
+```BLACKPINK in your area (BLACKPINK in your area)```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+...
 
 # THE END
 

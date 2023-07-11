@@ -4,65 +4,143 @@ title:  Part 1--Summer 2022, Chapter 1--Perspectives from an Atheist
 author: Michael Okuda
 ---
 
-# 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
+### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
 
-(Gimme little bit of that) Who are you to make me keep thinking about you?
-(Gimme little bit of this) This hurts my pride, but I’m all worked up.
-My face goes red and my heart’s racing.
-I can’t control myself.  I’m getting dizzy.
-(Gimme little bit of that) You’re like a handful of sand.
-(Gimme little bit of this) I think I have you, but you slip from my grasp.
-You’re not an easy catch, so I want you more.
-My heart just can’t get what it wants.  It’s ridiculous.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-Can you feel it in my breath, how much I want you now?
-Even when I look at you, I’m missing you.
-On clumsy days, won’t you set me free?
+```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```
 
-_Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love._
 
-Uh, I’ma fall in love, baby.
-You gon’ finna catch me.
-Uh, give you all of this, baby.
-Call me pretty and nasty.
-‘Cause we gonna get it, my love, you can bet it on black we gon’ double the stack on them, whoa!
-I be the Bonnie and you be my Clyde.
-We ride or die.  X’s and O’s.
+```(Gimme little bit of that) Who are you to make me keep thinking about you?```
 
-For every tick and tock, the more desperate I feel.
-You run my world, and I’m missing you.
-On clumsy days, won’t you set me free?
+```(Gimme little bit of this) This hurts my pride, but I’m all worked up.```
 
-_Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love._
+```My face goes red and my heart’s racing.```
 
-One, two, three, it’s a new beginning.
-I won’t ever be looking back.
-If I throw myself at you, please catch me.
-The world can’t bring us down.
-BLACKPINK in your area (BLACKPINK in your area)
+```I can’t control myself.  I’m getting dizzy.```
 
-_Baby, hold me tight as if I might burst.
-Don’t stop to think.  What’s so hard about this?
-Kiss me like it’s too good to be true
-As if I’m your last love.
-As if it’s your last, as if it’s your l-l-last
-As if this is our last night, love.
-As if it’s your last, as if it’s your l-l-last
-As if there is no tomorrow, love._
+```(Gimme little bit of that) You’re like a handful of sand.```
+
+```(Gimme little bit of this) I think I have you, but you slip from my grasp.```
+
+```You’re not an easy catch, so I want you more.```
+
+```My heart just can’t get what it wants.  It’s ridiculous.```
+
+.
+
+```Can you feel it in my breath, how much I want you now?```
+
+```Even when I look at you, I’m missing you.```
+
+```On clumsy days, won’t you set me free?```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+.
+
+```Uh, I’ma fall in love, baby.```
+
+```You gon’ finna catch me.```
+
+```Uh, give you all of this, baby.```
+
+```Call me pretty and nasty.```
+
+```‘Cause we gonna get it, my love, you can bet it on black we gon’ double the stack on them, whoa!```
+
+```I be the Bonnie and you be my Clyde.```
+
+```We ride or die.  X’s and O’s.```
+
+.
+
+```For every tick and tock, the more desperate I feel.```
+
+```You run my world, and I’m missing you.```
+
+```On clumsy days, won’t you set me free?```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+.
+
+```One, two, three, it’s a new beginning.```
+
+```I won’t ever be looking back.```
+
+```If I throw myself at you, please catch me.```
+
+```The world can’t bring us down.```
+
+```BLACKPINK in your area (BLACKPINK in your area)```
+
+.
+
+```Baby, hold me tight as if I might burst.```
+
+```Don’t stop to think.  What’s so hard about this?```
+
+```Kiss me like it’s too good to be true```
+
+```As if I’m your last love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if this is our last night, love.```
+
+```As if it’s your last, as if it’s your l-l-last```
+
+```As if there is no tomorrow, love.```
+
+...
+
+**Part 1: Summer 2022**
+- **Chapter 1: Perspectives from an Atheist (5/9/2022 – 8/28/2022)**
+
+Part 2: Fall 2022
+- Chapter 1: Hollow Space (8/29/2022 – 10/22/2022)
+- Chapter 2: Shadows (10/23/2022 – 11/8/2022)
+- Chapter 3: Ideals Clash (11/8/2022 – 12/2/2022)
+- Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
+
+Part 3: Winter 2023
+- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+- Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+- Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)
+
 
 ## Section 1
 

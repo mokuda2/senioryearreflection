@@ -117,7 +117,13 @@ I drove home, still unable to comprehend that Sam and I had had that conversatio
 I sight-read it, and the melody did sound familiar.  It definitely didn’t compare to the cello; nothing could replace the cello.  But when I finished playing the piece, I saw Zach and Nerissa in tears.
 “It’s really sentimental for us,” Nerissa said.  “It’s been months now, but Zach and I had triplets.  It was one of the most beautiful and precious moments to be with them.  But none of them made it after I gave birth to them.  That moment of holding our precious children is something I long for again.”
 I didn’t know what losing three children at the same time felt like, but it sounded like a difficult thing to go through.
-“Thank you for bringing the Spirit into our home,” Zach said.  After some talk, we said goodbye and drove back to our apartment for the night.  (“Gethsemane” by Rob Gardner from The Lamb of God (again, the cello represents Christ): https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13) 
+“Thank you for bringing the Spirit into our home,” Zach said.  After some talk, we said goodbye and drove back to our apartment for the night.
+
+(“Gethsemane” by Rob Gardner from _The Lamb of God_ (again, the cello represents Christ))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+(Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13) 
 
 January 16, 2023.  “I just love those cheeks,” Shari said as she held Kiyoshi.  Today was MLK Day, and I didn’t have much going on, so I decided to take some time to help out Shari and David.  I couldn’t help but think about Sam when I looked at Kiyoshi—how Sam used to be just as young and innocent as my nephew.  What would Kiyoshi become when he grew up?
 David and I made dinner together.  “I think your mom is a very sweet person, but I think she and I have very different opinions when it comes to making friends,” he said.

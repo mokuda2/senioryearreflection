@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Part 3--Winter Semester 2023, Chapter 3--The Head and the Heart
+title:  Part 3–Winter Semester 2023, Chapter 3–The Head and the Heart
 author: Michael Okuda
 ---
 
@@ -14,7 +14,7 @@ Part 2: Fall 2022
 - Chapter 4: The Color Red (12/3/2022 – 1/8/2023)
 
 ### **Part 3: Winter 2023**
-- Chapter 1: Opposites versus Complements (1/9/2023 – 2/12/2023)
+- Chapter 1: Opposites versus Complements (1/9/2023 C 2/12/2023)
 - Chapter 2: Triangles (2/13/2023 – 3/18/2023)
 ### **Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)**
 

@@ -704,7 +704,7 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 (Hopefully this song now makes more sense and has more context.  It’s my mood song this past school year.)
 
-### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
+### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (watch with subtitles)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -718,6 +718,8 @@ I'm grateful for the experiences and the people I've met this past school year. 
 ```My face goes red and my heart’s racing.```
 
 ```I can’t control myself.  I’m getting dizzy.```
+
+.
 
 ```(Gimme little bit of that) You’re like a handful of sand.```
 

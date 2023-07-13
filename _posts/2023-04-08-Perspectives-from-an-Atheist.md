@@ -4,7 +4,7 @@ title:  Part 1–Summer 2022, Chapter 1–Perspectives from an Atheist
 author: Michael Okuda
 ---
 
-### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation
+### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (watch with subtitles)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -18,6 +18,8 @@ author: Michael Okuda
 ```My face goes red and my heart’s racing.```
 
 ```I can’t control myself.  I’m getting dizzy.```
+
+.
 
 ```(Gimme little bit of that) You’re like a handful of sand.```
 
@@ -148,14 +150,14 @@ Part 3: Winter 2023
 June 2022.  <u>I never told anyone, but ever since last semester, I envisioned a future where I would live to be single my entire life.  I couldn’t pinpoint why though.  But I definitely didn’t see the point of making new friends unless I felt like I was going to be in their lives.</u>  On the mission, I had hoped to continue to keep in contact with the missionaries that I felt closer to, but that didn’t happen.  Physical distance didn’t help either, but it was difficult to keep in touch with even those who went to BYU.
 
 <u>So, what was the point of putting effort into things that wouldn’t last?  Sure, they might have been 
-<span style="color:red">**Steppingstones**</span>—these 
+<span style="color:red">Steppingstones</span>—these 
 people that would help me move into the next stage of my life.  But after that, I would no longer see them again.  It was almost as if they were dead.</u>  Of course, I was going to be respectful and kind to others I interacted with.  I was on a team for my on-campus internship last semester, and I was also in a team with my research group.  It wasn’t like I was a stereotypical antisocial nerd.  But going to activities like ward prayer seemed useless to me.  I didn’t think it was unusual of me to think that way though.  From people I had talked to, if they didn’t have friends in a social setting and couldn’t make friends, they would end up leaving.  I guess what was unusual about me was that I couldn’t make friends easily.
 
 <u>Along the lines of a social life, I hadn’t gone on a single date since before my mission.</u>  I guess I wasn’t interested in dating anyway, and it seemed like no one was interested in going on a date with me, so it didn’t come to my mind.  <u>I knew that marriage was an essential step to exaltation, and my goal was to live with God and my family forever, so I felt like I would have to figure out a way to do that.  I had heard people say that attraction was God-given, but I had a hard time believing that.  Those feelings led to unclean thoughts, promiscuous acts, and all sorts of drama.  It was what I called a 
-<span style="color:red">**Disease**</span>.</u>  Whenever 
+<span style="color:red">Disease</span>.</u>  Whenever 
 I heard people talk about dating or relationships, I was pretty turned off.  Anytime I saw a couple holding hands or kissing, I usually avoided the situation and walked away.  <u>Eternal marriage—the sealing of a man and a woman—was essential for exaltation, not this extra romantic filth.  Why did people want to deal with this Disease on top of everything else in life?</u>
 
-As far as my future goals, I was excited for the summer internship I was going to have.  My title was a business operations intern, which I heard would involve a lot of data analysis.  Since I still had a couple years of school left, I didn’t see myself working at the company I would be interning for, SelectQuote.  <u>But as a general vision, I saw myself finding a job that would keep me secure.  I’d go back to my nice home and enjoy the rest of the day to myself.  Maybe I’d get into cooking or some other hobby.  I wouldn’t have to worry about taking care of kids; I would be all alone.  It honestly sounded like the life.</u>
+As far as my future goals, I was excited for the summer internship I was going to have.  My title was a business operations intern, which I heard would involve a lot of data analysis.  Since I still had a couple years of school left, I didn’t see myself working at the company I would be interning for.  <u>But as a general vision, I saw myself finding a job that would keep me secure.  I’d go back to my nice home and enjoy the rest of the day to myself.  Maybe I’d get into cooking or some other hobby.  I wouldn’t have to worry about taking care of kids; I would be all alone.  It honestly sounded like the life.</u>
 
 ## Section 2
 
@@ -163,9 +165,9 @@ June 17, 2022.  I had finished about a month of my internship at this point.  Th
 
 ...
 
-I felt like each of my family members was going through some big changes.  Nozomu had earned his PhD and had accepted an offer to work at The Hartford as a data engineer.  Nozomu and Deanna had lived in Buffalo—the city where Nozomu had gotten his PhD—but they had moved to Connecticut within the past week or so.  Deanna had been a high school Latin teacher and was offered a job teaching human geography and history.
+I felt like each of my family members was going through some big changes.  Nozomu had earned his PhD and had accepted an offer to work at The Hartford as a data engineer.  Nozomu and Deanna had lived in Buffalo—the city where Nozomu received his PhD—but they moved to Connecticut within the past week or so.  Deanna had been a high school Latin teacher and was offered a job teaching human geography and history.
 
-Shari was going through mid-pregnancy.  I only heard what was going on from Mom, but it sounded like she was feeling a lot of morning sickness.  It also sounded like she and David had caught COVID at some point.  Meanwhile, David had switched jobs and was doing something with data analytics.  I wasn’t entirely sure what his role was.
+Shari was going through mid-pregnancy.  I only heard what was going on from Mom, but it sounded like she was feeling a lot of morning sickness.  Meanwhile, David had switched jobs and was doing something with data analytics.  I wasn’t entirely sure what his role was.
 
 Probably the biggest change in the family was that Dad and Mom were going to become mission president and wife in the Micronesia Guam Mission.  They were preparing the house for their moveout and had weekly meetings with the current mission president and wife.  That was all I knew about their preparations.
 
@@ -191,91 +193,27 @@ Sister Atkin asked if Brother Atkin could exchange numbers with me, so he and I 
 
 “Yes, anything,” Brother Atkin said to me.  “You’re welcome to come over anytime.”
 
-_(June 2019; the beginning of my mission) Before I knew it, I was on a plane to Seattle.  After several meetings, I met my trainer, Elder Wingard.
-
-_The main way of doing missionary work was tracting—knocking on doors.  We had something called 5 to 7 finding where we knocked on doors or street contacted during that entire time because it was considered prime time finding.  We had dinner from 4 to 5, which was pretty early.  We also had a designated 8pm to 9pm member lesson time.  We were told that this was the time when most strangers didn’t want to talk to us, so it was reserved for members.  Honestly, it didn’t sound like members were that important in missionary work; at least they sounded last-priority.  We were allowed to have meals with them only on the weekends.  8pm to 9pm sounded like a “can’t really do much with non-members, so do something with members” kind of time.  And members didn’t count towards our numbers—our key indicators._
-
-_Knocking doors was difficult and monotonous at times.  I had a hard time not saying the same thing at every single door.  Elder Wingard told me it would take practice and time before I’d feel comfortable and natural at it._
-
-_“I just want to get married!” Elder Wingard always said._
-
-_I felt like I was at BYU all over again.  He talked about how he’d meet his future wife at the airport when he got home.  He also scrolled through all of my Facebook friends and asked me about girls he was interested in.  I guess Elder Wingard was BYU._
-
-...
-
-_During the first Saturday of the transfer, we had something called a finding festival.  All of the missionaries in the zone would get into different companionships and go knocking on doors.  We had three different sessions where we got into different companionships._
-
-_For my last session, I went with one of the Spanish elders to an apartment complex.  For one door, a lady answered and said she wasn’t interested and was feeling sick.  So we continued on like usual._
-
-_However, as we were going back downstairs, the lady opened the door and said, “Hey, you’re not supposed to be soliciting here.  There are a bunch of elderly people.”_
-
-_I didn’t know what to say.  My companion tried to go along with what she said._
-
-_“Don’t ‘uh-huh’ me,” she said.  “If you don’t get out of the complex, I will call the office about this.  Do you want me to go do that?”_
-
-_After she finished, we went back downstairs.  “What should we do, Elder?” my companion asked._
-
-I wasn’t sure.  We could’ve gone to a different complex.  But what could that lady do to us?  We weren’t soliciting, right?  “Let’s keep knocking,” I said.  “I don’t know what she’d be able to do.”
-So that was what we did.
-There was another door we knocked on, and an old man answered.  To my surprise, he immediately invited us in.
-It smelled heavily of smoke.  It was just him and his wife and their dog.  We learned that the old man’s name was Joe, and his wife’s name was Tammy.  As we continued to get to know them, we learned that Joe was a less-active member and that his wife wasn’t a member.  For some reason, Joe wasn’t in our area book planner, so it was a surprise.  I didn’t know what to talk about, but I remember feeling the Spirit as we taught a short Restoration lesson.  It was the first lesson I participated in within someone’s home since coming into the mission field.  We were able to grab Tammy’s number, and she said she’d be okay with us stopping by again.
-As we headed out, my companion saw someone about to get out of the car, so we went and talked to him.  “YOU AWFUL CHRISTIANS!” I heard someone say.  It was that same lady who threatened to call the office on us.
-My companion tried to offer a picture of Jesus Christ to the person we were initially talking to, but he seemed a little flustered and said no.  “I will escort you out of this complex right now!” the lady screamed.  “Come on, now.  Move!”
-On the way out, she said that the Bible said nothing about what she considered to be soliciting.  “Jesus said to teach all nations,” my companion replied.
-But she wasn’t having it.  “Walk faster!  Damn you!  The office said for you guys to get out!”
-As we were walking out, there was a man who asked us if we were from the church of the latter-day saints, and we said we were.  He said he wanted us to come over.  But the lady told him that we weren’t supposed to be here.
-When we were on the border of the complex, I overheard the lady say to the man, “I called the damn office four times, and no one answered.”  So she lied about how the office wanted to kick us out, and she was telling someone who invited us over that we weren’t invited?  I didn’t get it.
-I was honestly kind of scared of the whole situation.  We had a few lessons in that complex later that evening, but Elder Wingard was chill about it.  “They invited us over, so it’s not like we’re ‘soliciting,’” he said.
-It bothered me a lot, the way that lady treated us.  I didn’t get what made her so mad at us or why she was accusing us when we were doing something good.  I would’ve told my younger missionary self to get used to it because this was basically what my mission experience was like for a good chunk of it.
-A week later, I went on exchanges with my district leader, Elder Rhoades.  We were going to visit a few people, but one thing I noticed about Elder Rhoades was that he’d talk to basically anyone within range.
-As we were going to visit someone, we walked past a lady.  As usual, we said hi, but then she said, “Hey, you’re not supposed to be here.  There’s no soliciting in this complex.”
-“We’re not soliciting,” Elder Rhoades said calmly.
-“Yeah?  I’ll report you to the police if you don’t get out.”  She took out her phone and was about to take a picture of me.  Elder Rhoades covered my name badge.
-“We’re here to visit someone,” Elder Rhoades said.
-“Yeah?  Who?”
-“It’s someone over there, just a few doors down.  He invited us to come back.”
-She looked pretty upset, but we were able to go to the door, even though she followed us.  No one answered the door, unfortunately.  As we were coming back down, we saw her take out her phone.  She then took a picture of me.  “I’ll report you the next time I find you.”
-It wasn’t that I was afraid of the police because the law was on our side; it was the contention I didn’t like.  So we headed back to our car, to which she yelled out, “You’re probably not thinking Christian-like thoughts!”  It sounded like she was talking about herself though.
-“Just take a deep breath,” Elder Rhoades told me.  Honestly, I wasn’t mad; I was just confused.  Why was she acting the way she was?  I had never met such rude people in my life.
-We went to another complex to try to visit another person, but the person who answered said that the person we were trying to find had moved a while ago.  Elder Rhoades tried to take this as an opportunity to teach the gospel, but the guy was pretty bashy.  He asked us questions, and then told us that we were wrong.  Anytime Elder Rhoades tried to speak, the guy would interrupt him.  I had nothing to say.
-“And what’s your name?” he asked me.
-“Elder Okuda,” I answered.
-“You should speak up.  People will take advantage of you if you don’t speak.”  Not that it would’ve mattered for him because it wasn’t like he was listening to Elder Rhoades anyway.
-“I’m so tired of this opposition,” I said when we got back into the car.
-“Let’s say a prayer,” Elder Rhoades suggested, so we did.
-Near the end of our exchange, we went to a member’s home to have dinner.  I’d have to say that members really helped keep me going, especially at the beginning of my mission.  The members were really nice.  My birthday was the day before, and they surprised me with a birthday cake.  I was so astonished by their kindness.  It felt like the world to me after all that had happened today.
-
-Members really were the best.  After another hard day of finding, we usually had a member lesson scheduled in the evenings.  We always tried to bring one of the ward missionaries with us to those member lessons.
-About halfway through my first transfer, I met a member named Bob Wilson.  He had recently gotten called to be a ward missionary, and he took us to a new missionary orientation meeting in Renton.  He was willing to take us out to eat somewhere afterwards, so we went to Wendy’s.  As we were about to turn left off the main road, the car in front of us had turned left but was doing a three-point turn.  Oncoming cars had to stop as well.  “What was that?!” Brother Wilson exclaimed.
-We were then able to see who the driver was: an Asian woman.  “Asians are literally the worst drivers,” Brother Wilson blurted out.  I was just sitting in the back chilling.
-“You know that Elder Okuda is in the back,” Elder Wingard pointed out.
-Brother Wilson looked at me through the rearview mirror.  “I’m sorry, Elder, but Asians are just the worst drivers.”
-But Brother Wilson was pretty cool.  When he got to know me, he asked, “Where are you from?”
-“Kentucky,” I answered.
-“Kentucky?  You’re from Kentucky?”
-“That was my reaction too,” Elder Wingard said.
-“Do you know what a Kentucky wonder is?” Brother Wilson asked.
-I didn’t.  But I knew Brother and Sister Wilson really liked gardening.  He told me that it was some sort of bean plant.
-During member lessons, we usually shared the Restoration lesson.  By the middle of my first transfer, Brother Wilson would usually go to lessons with us at least twice a week.  He always shared his reconversion story with the members.  He had been inactive for two decades.  He was a long-haul truck driver, which made him not be able to attend church on Sundays, and along with that, he started to struggle with an addiction.  Over time, the adversary told him that he was just too far to be able to turn back.  One of his friends asked him if he’d ever go back to church, to which he replied that he was long too gone.  When the missionaries came to his door, he’d kick them off his property.  During that entire time, his wife was still active and sometimes listened to general conference talks.  One day, she had left with a general conference talk still playing, and Brother Wilson said it was a talk from Elder Holland about how no one was too far from the power of the Savior’s Atonement.  Somehow, something sparked within Brother Wilson.  Over time, he read more and more and more of Elder Holland’s talks, and he said that he couldn’t get enough.  After some time, he said that he couldn’t recognize his former self.  He had no desire to continue his addiction and felt an inner peace he had never felt before.  He had been coming to church for the past two months since then.
-Brother Wilson didn’t seem like someone who’d kick missionaries off his property.  I couldn’t believe that someone like his former self could become the person he was now.  I thought about all of the rude and bashy people we had come across.  It was hard to believe that an experience like Brother Wilson’s could happen to those people too.
+After some talk, President Eyring invited us all in as Mom and Dad got set apart for their three-year service.
 
 _(August 2019; 2 to 3 months into my mission) I had my two suitcases open in the bedroom as I was kneeling and packing away everything.  I remembered having to pack every single item I had: my clothes, my shoes, my shampoo bottle, everything.  My district leader—Elder Rhoades—was at my apartment, and he helped me pack my suitcases into the car.  The drive to Seattle was the worst.  When I was dropped off, I hugged my trainer—Elder Wingard—as I bawled my eyes out on his shoulder._
 
-_Before I knew it, I was on the plane.  I looked at my name tag; I'd be wearing it for less than 24 hours.  My parents left to go to Japan this past week, so I was flying to Tokyo.  I'd have to interrupt my parents' plans, and I felt so bad and embarrassed for having to come home early.  When I got off the plane, I saw my parents waiting in the open space by the gate, and I ran and hugged them and cried on their shoulders.  I felt like I let everyone down, especially my parents.  Time zoomed by from that time until the time I was in a church building about to take off my name tag as I was getting released.  What would I do in Japan?  I felt like my depression wasn't going to go away now that I was home.  I literally had no idea what to do with my life as I took my name tag off for the very last time..._
+_Before I knew it, I was on the plane.  I looked at my name tag; I'd be wearing it for less than 24 hours.  My parents left to go to Japan this past week, so I was flying to Tokyo.  I'd have to interrupt my parents' plans, and I felt so bad and embarrassed for having to come home early._
+
+_When I got off the plane, I saw my parents waiting in the open space by the gate, and I ran and hugged them and cried on their shoulders.  I felt like I let everyone down, especially my parents.  Time zoomed by from that time until the time I was in a church building about to take off my name tag as I was getting released.  What would I do in Japan?  I felt like my depression wasn't going to go away now that I was home.  I literally had no idea what to do with my life as I took my name tag off for the very last time..._
 
 ...
 
 _The alarm went off.  My heart pounded.  I couldn’t put into words how I felt.  I did not want to get out of bed at all.  But I scraped myself out of bed to turn off the alarm and got ready for the day._
 
-_At this point in my mission, I felt extremely anxious and depressed every day.  To flat out say it, I had little to no desire trying to form connections with people, much less even want to talk to anyone—strangers, members of the congregation, other missionaries.  I had become so indifferent that I felt like my mind was going crazy.  I wasn’t just nervous when I was around people; I was SCARED of them.  Now I was really fulfilling the stereotype of a quiet person, and that scared me.  My thoughts especially raced about 5 to 7 finding.  I absolutely dreaded tracting._
+_At this point in my mission, I felt extremely anxious and depressed every day.  To flat out say it, I had little to no desire trying to form connections with people, much less even want to talk to anyone—strangers, members of the congregation, other missionaries.  I had become so indifferent that I felt like my mind was going crazy.  I wasn’t just nervous when I was around people; I was SCARED of them.  Now I was really fulfilling the stereotype of a quiet person, and that scared me.  My thoughts especially raced about 5 to 7 finding.  I absolutely dreaded knocking on doors._
 
-_Elder Rhoades told me that I needed to reach out to Sister Beardall—the mission president’s wife—for help.  When I called her, I told her that I was not doing well at all.  She referred me to a counseling clinic and said that I’d receive a survey.  She told me to be completely honest with it.  While I was filling out the survey, some of the things it asked sort of scared me.  I was also scared that I’d get sent home early._
+_Elder Rhoades told me that I needed to reach out to Sister Beardall—the mission president’s wife—for help.  When I called her, I told her that I was not doing well at all.  She referred me to a counseling clinic and said that I’d receive a survey.  She told me to be completely honest with it.  While I was filling out the survey, some of the things it asked sort of scared me._
 
-_There was something that I didn’t understand though.  <u>As long as I was supposed to be doing what I was supposed to do, I was supposed to be happy, right?</u>  I woke up on time, we did service, we did our 5 to 7 finding, we did our studies, we had member lessons.  But how come I didn’t feel happy?  I thought that doing the right thing was supposed to bring blessings, but why was I always feeling this… this crippling anxiety?_
+_But I didn’t understand why I was going through what I was going through.  <u>As long as I was supposed to be doing what I was supposed to do, I was supposed to be happy, right?</u>  I woke up on time, we did service, we did our 5 to 7 finding, we did our studies, we had member lessons.  But how come I didn’t feel happy?  I thought that doing the right thing was supposed to bring blessings, but why was I always feeling this… this crippling anxiety?_
 
-_Even though Elder Wingard and I had completely opposite personalities, he said that I was one of his better companions.  However, he and I sort of had an argument on one particular occasion.  Elder Wingard said he was frustrated by how rigid I was.  He basically told me that the reason why I felt so miserable doing the work was because I wasn't making it enjoyable and that it was giving him a hard time enjoying missionary work as well.  The things he said really made me think.  To be brutally honest, I did feel miserable doing missionary work.  Teaching lessons and doing service weren't that bad, but when 90 percent of the contacts and lessons we scheduled would fall through, or when we got kicked out of three different apartment complexes within the first three weeks of being out in the mission, or when we got all kinds of disrespect and bashing, it was super discouraging.  And when it came to knocking doors, I absolutely dreaded it, and I felt excessively nervous.  I didn't say anything about it because I felt like not complaining was the best remedy to do things I didn’t want to do, but I was pretty sure Elder Wingard could tell after a few weeks that I felt absolutely miserable all morning and afternoon, waiting for 5 to 7 finding to be over.  Why did I feel so miserable and feel so crippled with anxiety?  Wasn’t sharing the gospel supposed to bring joy?_
+_Even though Elder Wingard and I had completely opposite personalities, he said that I was one of his better companions.  However, he and I had an argument on one particular occasion.  Elder Wingard said he was frustrated by how rigid I was.  He told me that the reason why I felt so miserable doing the work was because I wasn't making it enjoyable and that it was giving him a hard time enjoying missionary work as well.  The things he said really made me think.  To be brutally honest, I did feel miserable doing missionary work.  Teaching lessons and doing service weren't that bad, but when 90 percent of the contacts and lessons we scheduled would fall through, or when we got kicked out of three different apartment complexes within the first three weeks of my time in the mission, or when we got all kinds of disrespect and bashing, it was super discouraging.  And when it came to knocking doors, I absolutely dreaded it, and I felt excessively nervous.  I didn't say anything about it because I felt like not complaining was the best remedy to do things I didn’t want to do, but I was pretty sure Elder Wingard could tell after a few weeks that I felt absolutely miserable all morning and afternoon, waiting for 5 to 7 finding to be over.  Why did I feel so miserable and feel so crippled with anxiety?  Wasn’t sharing the gospel supposed to bring joy?_
 
-_I wished it were enough for someone to say, "Elder Okuda, forget yourself and go to work," but in reality, it wasn’t good enough for me to hop on my feet and get out the door sometimes.  <u>When it came to obedience, at least to me, it didn’t matter what someone’s feelings or opinions were.  God's commandments were His commandments: He had executed them regardless of anyone’s feelings.</u>  But when it came to the point where my feelings got in the way of being exactly obedient because of my fear of talking to people, then I knew that something wasn’t right either._
+_I wished it were enough for someone to say, "Elder Okuda, forget yourself and go to work," but in reality, it wasn’t good enough for me to hop on my feet and get out the door sometimes.  <u>When it came to obedience, it didn’t matter what someone’s feelings or opinions were.  God's commandments were His commandments: He had executed them regardless of anyone’s feelings.</u>  But when it came to the point where my feelings got in the way of being exactly obedient because of my fear of talking to people, then I knew that something wasn’t right either._
 
 _Everything back at home felt like a dream.  Just four months ago, I was finishing up my second semester at BYU.  It felt so surreal._
 
@@ -285,9 +223,9 @@ _When I went to my first counseling session, my counselor told me the results I 
 
 _On one of my p-days, Shari was also on the call.  It felt unusual that I talked to my parents every week.  At BYU, I probably called my parents a total of five times during the school year, but I was SO glad that I was able to call home on a weekly basis._
 
-_Shari suggested that I try to take medication.  “I know it’s something you’ve always tried to avoid,” she said.  “If you get the right medication though, it helps you perceive things more clearly, much like how glasses help you with your eyesight.”_
+_Shari suggested that I try taking medication.  “I know it’s something you’ve always tried to avoid,” she said.  “If you get the right medication though, it helps you perceive things more clearly, much like how glasses help you with your eyesight.”_
 
-_Shari was right about how scared I was about taking medication.  In high school, medication was a definite no.  I didn’t feel like it was a necessity.  People were able to survive without medication.  It costed money, and I was afraid I’d become dependent on it.  But if I felt crippling anxiety just from walking past someone at the grocery store, I knew I was going to have to find an alternative.  I really didn’t want to go home.  As a matter of fact, I was scared that I was going to get sent home.  I had forgotten what it felt like to be a normal person with all of the anxiety and depression I was facing._
+_Shari was right about how scared I was about taking medication.  In high school, medication was a definite no.  I didn’t feel like it was a necessity.  People were able to survive without medication.  It costed money, and I was afraid I’d become dependent on it.  But if I felt crippling anxiety just from walking past someone at the grocery store, I knew I was going to have to find an alternative.  I really didn’t want to go home.  As a matter of fact, I was scared that I was going to get sent home.  I had forgotten what it felt like to be a normal person with all the anxiety and depression I was facing._
 
 _The following week, I told my counselor that I wanted to consider medication and asked him all my questions about it.  He told me that he’d help me set up an appointment with a psychiatrist in Issaquah, which was about half an hour northeast of Federal Way.  I was going to face another fear in hopes of being able to quench them._
 
@@ -347,7 +285,7 @@ _During my last hour with him as a companion, we reflected on the time that we s
 
 _I honestly wasn’t sure that I was going to make it for the entire two years.  During most of the transfer, I thought I was going to go home with Elder Wingard._
 
-_“I’ll have to admit that I learned more about patience with you,” Elder Wingard continued, “but you’re one of the humblest and Christlike missionaries here.  You’re just going to have to have a companion who’s on fire.”_
+_“I’ll have to admit that I learned more about patience with you,” Elder Wingard continued, “but you’re one of the humblest and most Christlike missionaries here.  You’re just gonna need a companion who’s on fire.”_
 
 _When it was time to go, I said my last goodbye to Elder Wingard._
 
@@ -355,63 +293,101 @@ _When it was time to go, I said my last goodbye to Elder Wingard._
 
 _It wasn’t until Monday morning when I found out where I was going to get transferred.  I thought I was going to get transferred to a different zone, but I ended up getting transferred within the zone, which wasn’t common.  I was going to be serving in a Korean branch and a YSA branch, which meant that I was going to be learning Korean!  I was sort of excited about it._
 
-_I learned that I was going to be in a trio, and my companions’ names were Elder Leishman and Elder Mejia.  Elder Leishman had been in the area since I came into the mission, but he and I didn’t really talk to each other much.  Elder Wingard said he knew Elder Mejia when he came into the mission, and he said that I’d like Elder Mejia._
-
-_When I finally found my companions, we packed up our stuff and headed back the long road down to Federal Way.  My training period was tough, and I was ready for something new.  I hoped that I would like this new area and my new companions._
+_I learned that I was going to be in a trio, and my companions’ names were Elder Leishman and Elder Mejia.  When I finally found my companions, we packed up our stuff and headed back the long road down to Federal Way.  My training period was tough, and I was ready for something new.  I hoped that I would like this new area and my new companions._
 
 ## Section 3
 
 “When do you think will be the next time we’ll see each other?” I asked.  Cadee was giving me a tour of BYU-I’s campus.
+
 “I don’t know,” she answered.  “Maybe you could come to my graduation next July.”
+
 “Well, I’ll hopefully be doing an internship at that point.”
+
 “Dang.”
+
 “But if there’s a way that I can watch it over Zoom, I would.”
+
 Cadee showed me a place with a bridge and lots of plants.  “This is where I’d like to have my first kiss with a date,” she said.
+
 I looked around.  “Why here?” I asked.
+
 “Oh, you know, it’s really quiet, and it’d be a romantic spot.  I just wish a guy would be interested in me and that I’d be interested too.  But all the guys I’m into say they’re not interested, and I’m not interested in the guys who seem to be interested in me.  And I feel so old compared to a lot of guys here.  Like, anyone who’s just returned from their mission?  They’re so young.  It’s like dating one of my nephews.”  (Cadee was much younger than her siblings.)
+
 I didn’t understand why any of that mattered.  It was beneficial to find someone I could get along with, but being “interested” in someone seemed to involve the Disease.  “I haven’t gone on a single date since I’ve returned from my mission, and I’m still counting.”
+
 “You sound so proud of it,” Cadee said.
+
 “Yeah.  I am.”
+
 When it got dark, Cadee headed home.  “Say hi to your parents for me,” she said.  We gave each other one last hug and went our separate ways.
 
+...
+
 June 18, 2023.  I was heading down to Provo to move into my apartment.
+
 “It would’ve been nice if you roomed with a friend,” Mom said.
+
 “He’ll make friends this school year,” Dad said reassuringly.  “You should take a dating class.  It’ll help you make some new friends.  I’m sure there’s some sort of online class offered somewhere.”
+
 I obviously had no interest in dating classes, nor did I want to make friends through dating.  It sounded very risky.  I guess YSA wards did encourage guys and girls to mingle, as it would expedite the process of exaltation.  But I really didn’t like BYU’s culture of dating.  People thought that they had to have these feelings of the Disease in order to be dating material.  Plus, I felt like victims were very discriminatory.  I especially felt that way at BYU looking different from white people—the majority of the BYU population.  Those who looked like dating material probably had a larger network of people to connect with and had an easier time connecting with new people.  Because I looked different from the majority, people didn’t think I was worth associating with.  It was difficult finding people I could connect with.
-People wanted what was most economical—the easiest or most convenient route to meet their own needs.  One example of this concept of economics was friendships.  People built friendships by spending time with each other.  Even though time was infinite, it also had a finite dimension to it: while time went on and on and on, there were only 24 hours in a day, 60 minutes in an hour, 60 seconds in a minute.  Time was analogous to money: what people invested was a risk, but they hoped it would be worth it in the long run.  If one had 100 dollars he could spend and invested 20 dollars into five “businesses,” he’d only have five businesses, but he’d probably get more out of them than if he were to invest one dollar for 100 businesses.
-The same concept applied to friendships.  If one had made 100 friends, he’d only be able to invest one dollar per individual, which probably meant that he wouldn’t feel close to any of his “friends” compared to investing 20 dollars per person for only five people.
-However, trying to make friends with people who were different would take more money—more time.  The person would have to find ways of establishing common ground or camaraderie with the other.  It might mean that instead of investing 20 dollars each for five people, it meant investing 40 dollars for only one person, which meant investing only 15 dollars each for the other four friends.  That was probably why society taught people at such a young age that they should make friends who liked doing similar things.  It was more economical to make friends with those who had common ground.  And with that mentality stuck in people’s minds at a young age, they formed stereotypes about certain groups of people and found where they belonged.  As part of human nature, when people came across someone who looked or acted differently, they naturally or even subconsciously asked, “Why would I want to invest my money on him or her?”  People wanted it the most efficient, convenient, and economical way.  They didn’t want to invest more money in someone if another person had the same benefits for a lower price tag.
-Some of the groups people formed were larger than others.  It meant that people within that group were more likely to connect with each other.  They could help each other out by investing their money together to receive an even greater amount of money than if each person invested individually.  The larger the group—and the greater the collaboration—the more economical the result could be.  A larger network of people in a group could mean more opportunities, money, power, and other benefits.  These advantageous groups are what I will call the Majority in this reflection.
+
+People want what is most economical—the easiest or most convenient route to meet their own needs.  One example of this concept of economics is friendships.  People build friendships by spending time with each other.  Even though time is infinite, it also has a finite dimension to it: while time goes on and on and on, there are only 24 hours in a day, 60 minutes in an hour, 60 seconds in a minute.  Time is analogous to money: what people invest is a risk, but they hope it will be worth it in the long run.  If one has 100 dollars to spend and invests 20 dollars into five “businesses,” he’d only have five businesses, but he’d probably get more out of them than if he were to invest one dollar for 100 businesses.
+
+The same concept applies to friendships.  If one makes 100 friends, he’d only be able to invest one dollar per individual, which probably means that he wouldn’t feel close to any of his “friends” compared to investing 20 dollars per person for only five people.
+
+However, trying to make friends with people who are different would take more money—more time.  The person would have to find ways of establishing common ground or camaraderie with the other.  It might mean that instead of investing 20 dollars each for five people, it means investing 40 dollars for only one person, which means investing only 15 dollars each for the other four friends.  That is probably why society teaches people at such a young age that they should make friends who like doing similar things.  It is more economical to make friends with those who have common ground.  And with that mentality stuck in people’s minds at a young age, they form stereotypes about certain groups of people and find where they belong.  As part of human nature, when people come across someone who looks or acts differently, they naturally or even subconsciously ask, “Why would I want to invest my money on him or her?”  <u>People want it the most efficient, convenient, and economical way.  They don't want to invest more money in someone if another person has the same benefits for a lower price tag.</u>
+
+Some of the groups people form are larger than others.  It means that people within that group are more likely to connect with each other.  They could help each other out by investing their money together to receive an even greater amount of money than if each person invested individually.  The larger the group—and the greater the collaboration—the more economical the result could be.  A larger network of people in a group could mean more opportunities, money, power, and other benefits.  These advantageous groups are what I will call the 
+<span style="color:red">Majority</span> in this reflection.
+
 The term can be a bit deceiving.  For example, the poor and middle classes far outnumber the wealthy, yet the wealthy are usually the ones who have more power, money, and access to resources.  Maybe “the advantaged” would be a more accurate phrase, though I feel like the term “Majority” implies advantage.
-The opposite of the Majority was the Minority.  Though it is difficult to imagine a world where resources are finite, imagine an experiment where several brown and white mice are placed on a large island that had only brown soil and enough food for the mice to eat.  Now, place an eagle in that self-contained environment.  The eagle preys on the mice, but what mice would it most likely prey on?  The white mice—they stood out against the brown soil compared to the brown mice.  As time progresses, the mice reproduce and continue to try to survive.  Sure, the eagle might prey on some brown mice, but in the end, the brown mice would outnumber the white mice.
-Again, time has both a finite and infinite dimension to it.  While the Majority prospered, that money didn’t appear out of thin air.  Smaller groups lost money.  With a wider gap in the amount of money that the Majority had compared to these smaller groups, the Majority would receive even more money the next cycle, and the smaller groups would continue to lose money.  It was a negative feedback loop for the smaller groups—the Minority.  Similarly, the white mice had a disadvantage compared to the brown mice because the white mice were a smaller group.  After each cycle of reproduction, the gap between the number of white mice and brown mice would widen.  The white mice were part of the Minority.
-In real life, a group of people was part of the Majority or Minority depending on the situation and scope of society.  For example, the LDS community made up the Minority from a global scope, but that same community made up the Majority at a place like BYU.
+
+The opposite of the Majority was the <span style="color:red">Minority</span>.Though 
+it is difficult to imagine a world where resources are finite, I hope the following analogy makes things more relatable.  Imagine an experiment where several brown and white mice are placed on a large island that had only brown soil and enough food for the mice to eat.  Next, place an eagle in that self-contained environment.  The eagle preys on the mice, but what mice would it most likely prey on?  The white mice—they stand out against the brown soil compared to the brown mice.  As time progresses, the mice reproduce and continue to try to survive.  Sure, the eagle might prey on some brown mice, but in the end, the brown mice would outnumber the white mice.
+
+Again, time has both a finite and infinite dimension to it.  While the Majority prosper, that money doesn't’t appear out of thin air.  Smaller groups lose money.  With a wider gap in the amount of money that the Majority has compared to these smaller groups, the Majority would receive even more money the next cycle, and the smaller groups would continue to lose money.  It's a negative feedback loop for the smaller groups—the Minority.  Similarly, the white mice have a disadvantage compared to the brown mice because the white mice are a smaller group.  After each cycle of reproduction, the gap between the number of white mice and brown mice widens.  The white mice are part of the Minority.
+
+In real life, a group of people is part of the Majority or Minority depending on the situation and scope of society.  For example, the LDS community makes up the Minority from a global scope, but that same community makes up the Majority at a place like BYU.
+
 It seemed like the Majority of society thought that catching the Disease was normal.  This was especially true at BYU.  I didn’t understand though.  Christ didn’t have a romantic life.  At least the scriptures never described anything where Christ felt the Disease.  It seemed rather ironic that the perfect example Himself was a single man, at least as far as we knew.  Living in a society where the Majority felt that they needed to catch the Disease in order for things to progress towards marriage made it seemed like they were blind to the long-term goal of exaltation.  If marriage really was such an important event, why didn’t people just pair off with someone of the opposite gender after serving a mission?
+
 I learned that one of my roommates was going to get married in August.  After a couple weeks of moving into my apartment, I went to his bachelor party.  I didn't know what that was, but I ate food while my roommate opened sex toy gifts and received advice about how to have sex according to different people's perspectives.  Even the non-married people were giving advice about ways to have more enjoyable sex.  I didn’t want to go to another bachelor party after that.  I couldn’t believe that society expected me to do such things to a woman.
 
 _(October 2018; college freshman) Dating was another thing that I didn’t feel good about either.  I talked to Nozomu on the phone one day before I went to BYU, and I asked him, “Is dating a big thing at BYU?”_
 
 _Nozomu just laughed like it was a naïve question for me to ask.  “What do you think?”_
 
-_I mean, it seemed like it would be.  None of my high school friends ever talked about dating, so I wasn’t sure how much BYU emphasized dating.  “I guess they might emphasize it,” I answered._
+_It seemed like it would be.  None of my high school friends ever talked about dating, so I wasn’t sure how much BYU emphasized dating.  “I guess they might emphasize it,” I answered._
 
-_“Oh, they will emphasize it quite a lot,” Nozomu said.  “One of the purposes of a YSA ward is to prepare people to date and get married.  They call members of the bishopric who have families and really nice houses to show how wonderful married life is like.  I think one of the biggest regrets I have is not dating someone at BYU.  There were definitely plenty of opportunities, but I didn’t seize them.  You know how I told you that I got really depressed on my mission?  Before my mission, I wanted to go on a mission because I felt that God had told me to do so.  Because I felt like my mission wasn’t a good experience, I felt like the next step I had to take—dating and marriage—was going to be a bad experience as well, so I avoided dating as much as possible.”_
+_“Oh, they will emphasize it quite a lot,” Nozomu said.  “One of the purposes of a YSA ward is to prepare people to date and get married.  They call members of the bishopric who have families and really nice houses to show how wonderful married life is.  I think one of the biggest regrets I have is not dating someone at BYU.  There were definitely plenty of opportunities, but I didn’t seize them.  You know how I told you that I got really depressed on my mission?  Before my mission, I wanted to go on a mission because I felt that God had told me to do so.  Because I felt like my mission wasn’t a good experience, I felt like the next step I had to take—dating and marriage—was going to be a bad experience as well, so I avoided dating as much as possible.”_
 
-“I still have a mission to serve, so I don’t plan on trying to find someone to date,” I said.
-“I don’t think you have to worry so much about finding someone to date as awkward as you and I are in social situations.  Now is a good time to get practice.”
-One of the main reasons I wanted to go to BYU was because I wanted to be around people who lived the same standards as I did, but now it seemed like my standards of dating and marriage diverged from the majority of BYU.  As a matter of fact, church leaders seemed so desperate about getting people to date that I felt like it did more harm than good.
-One thing I truly found out about myself was that I was Asian.  And while that sounds obvious, I didn’t really think about myself as someone from Japanese descent in high school.  I felt like everyone else, and it didn’t really occur to me that I looked different from other people or that I was “Asian.”  Here at BYU, however, I saw that the pressure of getting married was huge; people were so picky about their appearance.  You think that Asians all look the same, but white people at BYU all looked the same—same hairstyles, same physique, same everything about the way people should look.  And because people stuck to the idea that those with an attractive appearance were dating material, I felt like I was excluded because of how different I looked from everyone else.  Not that I wanted to look like an object, but I felt like because of the desperation of dating and marriage, people must have thought that those who weren’t dating material weren’t worth associating with.
-Before every weekend, I thought about how I needed to fulfill my commitment of going on a date with Carli, and it hit me how it seemed like she fit into BYU.  She was white, and she was pretty.  I even heard people in Kentucky say that she was really attractive.  I guess all of the guys thought she was good dating material, but I didn’t want to think of her that way.  I was pretty sure she had the same standard of “good-looking equals worth associating with” when it came to dating, and I wondered if she still wanted to go on a date with me.  She probably found some other guy who was better in every way, basically a returned missionary.
-My expectation of a social life becoming a disappointment was the second reason why I felt like my experience here at BYU wasn’t that great, especially during my first semester.  Even though I looked Asian, I was born in the United States, and English was the only language I knew fluently.  But just because I looked different meant the difference between whether or not I was worth associating with—whether or not I’d be good “dating material.”  To be completely honest, I hated being Asian at BYU.  I thought that students at BYU wouldn’t be so judgmental about appearance, but they sure were some of the most judgmental people I ever knew when it came to stuff like that.
-For the past few weeks, I had prayed to have some close friends.  I always struggled when it came to talking to people and developing friendships—it was something I knew about myself very well—but I didn’t think I’d still have that same struggle at BYU.
+_“I still have a mission to serve, so I don’t plan on trying to find someone to date,” I said._
+
+_“I don’t think you have to worry so much about finding someone to date as awkward as you and I are in social situations.  Now is a good time to get practice.”_
+
+_One of the main reasons I wanted to go to BYU was because I wanted to be around people who lived the same standards as I did, but now it seemed like my standards of dating and marriage diverged from the majority of BYU.  As a matter of fact, church leaders seemed so desperate about getting people to date that I felt like it did more harm than good._
+
+_<u>One thing I truly found out about myself was that I was Asian.</u>  And while that sounds obvious, I didn’t really think about myself as someone from Japanese descent in high school.  I felt like everyone else, and it didn’t really occur to me that I looked different from other people or that I was “Asian.”  Here at BYU, however, I saw that the pressure of getting married was huge; people were so picky about their appearance.  You think that Asians all look the same, but white people at BYU all looked the same—same hairstyles, same physique, same everything about the way people should look.  And because people stuck to the idea that those with an attractive appearance were dating material, I felt like I was excluded because of how different I looked from everyone else.  Not that I wanted to look like an object, but I felt like because of the desperation of dating and marriage, people must have thought that those who weren’t dating material weren’t worth associating with._
+
+_Before every weekend, I thought about how I needed to fulfill my commitment of going on a date with Carli, and it hit me how it seemed like she fit into BYU.  She was white, and she was pretty.  I even heard people in Kentucky say that she was really attractive.  I guess all the guys thought she was good dating material, but I didn’t want to think of her that way.  I was pretty sure she had the same standard of “good-looking equals worth associating with” when it came to dating, and I wondered if she still wanted to go on a date with me.  She probably found some other guy who was better in every way, basically a returned missionary._
+
+_My expectation of a social life becoming a disappointment was the second reason why I felt like my experience here at BYU wasn’t that great, especially during my first semester.  Even though I looked Asian, I was born in the United States, and English was the only language I knew fluently.  But just because I looked different meant the difference between whether or not I was worth associating with—whether or not I’d be good “dating material.”  To be completely honest, I hated being Asian at BYU.  I thought that students at BYU wouldn’t be so judgmental about appearance, but they sure were some of the most judgmental people I ever knew when it came to stuff like that._
+
+_For the past few weeks, I had prayed to have some close friends.  I always struggled when it came to talking to people and developing friendships—it was something I knew about myself very well—but I didn’t think I’d still have that same struggle at BYU._
+
+...
 
 June 25, 2023.  “Thank you so much for helping me out,” I said.  I was at Paige’s place picking up some of my belongings she stored for me over the summer.
+
 “Well, if you’re ever in San Antonio or Texas, let me know,” she said.  She and her husband Jimmy were moving to San Antonio since he got a job there.  Paige was a good friend to me during my freshman year at BYU.  I was glad she had moved back to Provo the past school year.
 
-(October 2018; college freshman) “Hey, so did you happen to get my text the other day?” Paige asked.
-A text?  I didn’t recall giving her my number.  “No, I don’t think so,” I answered.  “Why do you ask?”
-“Uhhmm, just because…” she said.  “Is your number correct in LDS Tools?”
-So that was probably where she tried to access my number.  “I’m not sure,” I said.  “I haven’t checked.”
+_(October 2018; college freshman) “Hey, so did you happen to get my text the other day?” Paige asked.
+A text?  I didn’t recall giving her my number.  “No, I don’t think so,” I answered.  “Why do you ask?”_
+
+_“Uhhmm, just because…” she said.  “Is your number correct in LDS Tools?”_
+
+_So that was probably where she tried to access my number.  “I’m not sure,” I said.  “I haven’t checked.”_
+
 “I’ll try calling you.”  Paige then tried to call me, but I didn’t get any ring.  She then looked at her phone, which said that it was calling a number from New Mexico.  “Is this your number?” Paige showed me her phone.  “And did you say you’re from New Mexico?”
 “Oh.  No, that’s my home phone number, but I think we ended up not using it once we moved to Rexburg.”
 “Well, that’s just awkward.  I just texted some random guy in New Mexico, and he was probably like, ‘Who that?’”
@@ -436,58 +412,95 @@ Paige:  Michael, hey! It’s Paige Firl, you know, the girl in the ward you prob
  
 It was super nice of Paige to reach out to me.  I’d have to get out of my comfort zone and give her a chance; it was my opportunity to make a good friend.
 
-...
+## Section 4
 
 July 16, 2022.  President and Sister Beardall had recently finished their calling as mission president and wife, and they invited all the missionaries to a mission reunion in Sandy today.  I thought it would be cool to see what it would be like, so I made plans to go.  I planned to say hi to a few people and then leave in half an hour since I didn’t feel like I had anyone close to talk to.  In social events like these, I guess I went only to be informed, not really to make new friends.  My purpose was to see what a mission reunion looked like, how people interacted, and what activities would go on.
+
 I did see some familiar faces.  Actually, most everyone looked familiar since I saw everyone’s faces being an office elder for nearly 10 months.  But I didn’t talked to almost any of them.  I had some conversations with missionaries who had served in the same zone as me, but that was about it.
-“Okuda janglo (Elder Okuda!)!”  I turned around.  It was Sister Bak!  Well, I guess her name was Gyuna now.  I hadn’t seen or talked to her ever since she finished her mission, which was a transfer before I finished.
+
+“Okuda janglo (Elder Okuda!)!”  I turned around.  It was Sister Bak!  Well, I guess her name was <span style="color:red">Gyuna</span> now.  I 
+hadn’t seen or talked to her ever since she finished her mission, which was a transfer before I finished.
+
 “Sister Bak!”  I exclaimed.
+
 We talked a bit.  “Guess what?” she said.  “I’m transferring to BYU-Provo!”  She was at BYU-I the last time I heard from her.
+
 “Really?  When are you transferring?” I asked.
+
 “I’ll be starting this fall.  We should hang out sometime!”
+
 I was always skeptical when people said things like that.  It sounded like a bunch of empty words with no meaning or action behind it.  “Sure,” I casually said.
+
 “Your parents are mission president and wife in Guam, right?  I actually saw your dad’s name in one of the buildings, and I wanted to say hi to him!  Why didn’t you text me about him?”
+
 I didn’t understand why she acted like I had ever thought about her from the time she finished her mission.  “Uh, it never came to mind.  Why didn’t you text me about wanting to meet him?”
 “You know, I’d hang out with some of the Japanese people at BYU-I, and they’d all be like, ‘Oh yeah, I went to the Okuda’s the other day.’  Why didn’t I get invited?!”
+
 “Well, probably because you’re Korean, and they all would speak Japanese.”
+
 “Nihongo wo chotto hanasemasu (I can speak a little Japanese.).  Shinjimasenka? Shinjirarenai desuka” (You don’t believe me?  You really don’t believe me?!)?!”
+
 “Well, it’s not my fault that I didn’t know your intentions,” I said.
+
 “Anyway.  I should introduce you to my boyfriend!  I don’t know where he is.  Probably still in the bathroom.”
+
 After a bit, I saw Gyuna with a guy I didn’t recognize.  We all wore name tags, and his name tag had “hot boyfriend” written on it.  I was pretty sure that wasn’t his name.
-“This is Christian,” Gyuna introduced him to me.  “This is Elder Okuda.  Michael.  I came into the mission when he was serving in the Korean branch, and we served in the same zone.  He’s one of my best elder friends.”
+
+“This is <span style="color:red">Christian</span>,” Gyuna introduced him to me.  “This is Elder Okuda.  Michael.  I came into the mission when he was serving in the Korean branch, and we served in the same zone.  He’s one of my best elder friends.”
+
 “Hi, nice to meet you,” I greeted.
+
 After a bit of conversation, they went on their way.  “We drove from Rexburg to get here,” Gyuna said.  “We better get back up before it’s too late.  We’re going to be pretty tired.”
+
 While I originally thought I was going to be at the mission reunion for half an hour, I ended up staying until an hour past the time that it was supposed to end.
+
 But after I left, I felt sad—sad that the mission and the people I had met were all merely Steppingstones.  I honestly had hoped that I could keep some of those connections, but it looked like that didn’t happen.  Even after a realization of this reality, I still felt saddened by it.
+
 My perspective on the social aspect of life had changed too.  One of the aspects that made me feel like my apartment complex would be a good place to live was the social aspect, but now I didn’t care about it.  If it had been my freshman year or even the beginning of my sophomore year, I felt like I would've had a much better time.  But in my mind, I didn’t see the point of having a social aspect in my life.  All of the people I would interact with would be Deaths of Steppingstones too once I graduated.  I guess it was nice in the moment to think that I could do things and try to make connections, but they seemed to fade away eventually.  It was especially difficult for me to make those connections in the first place too.
 
-(September 2019; three months into my mission) “So how much Korean do you both know?” Elder Mejia asked while we were driving down to Federal Way from transfers.
-“I know the alphabet and how to read,” Elder Leishman answered.  “It’s not that hard to do those.  I feel like I can understand okay.  It’s just speaking it that’s hard for me.”
-“I don’t know any,” I said.  “I don’t even know how to say ‘hi’ in Korean.”
-“Annyeonghaseyo,” Elder Mejia said.
-“A…what?”
-“Annyeong.  Haseyo.  I think it literally means, ‘Have peace.’  I asked President if I could be in the Korean branch, and I got my wish granted.  I don’t know much, but I used to study a bit before the mission.”
-Elder Leishman was called to be a district leader, so things were a bit different from a regular companionship.  He did accounting calls almost every other day.  I liked having a bit of a closer distance to leadership.  I felt like I was more informed, and it motivated me to do the work.
-As a trio, we did 5 to 7 finding basically every single day.  We didn’t cut it short.  As usual, we went knocking on doors, and by the end of our 16-week trio, we tracted a LOT of Federal Way.  It was definitely difficult at the start of each day, but we’d say a prayer and then scrape ourselves out of the car and start tracting.  “We’re going on an adventure!” I’d always say before we’d start our 5 to 7 grinds.  I felt like saying something light-hearted was my way of coping with tracting.
-One of my favorite parts of being in the Korean branch was language study.  That was different from my previous area.  Every day, we dedicated an hour to study Korean.  Reading and writing Korean weren’t difficult like Elder Leishman had said.  It took me about two days to learn the Korean alphabet, and learning the phonetics took me about a week or two before I felt comfortable reading on my own.  Surprisingly, Korean and Japanese had very similar grammar, and the Korean language had its own words with nuances that were just like Japanese nuances.  Even outside of language study, I’d take any time I could to study Korean.
-“Do you remember how to say ‘hi’ in Korean?” Elder Mejia asked me.  We were about to knock on some doors.  The Korean branch council gave us some flyers about an upcoming activity.  We said that we’d try to invite as many Koreans as we could.
-“Annyeonghaseyo,” I answered.
-“Yes.  Annyeong-casserole.  And do you remember how to say, ‘My name is Elder Okuda.’?”
-I had to think hard about it.  At this point, it still sounded like absolute gibberish.  “Cha nun… Okuda janglo… imnida?”
-“‘Cheo.’  ‘Neun.’”
-“I still don’t get how you make that sound.”  I was still trying to get used to that “eu” sound.
-Previous missionaries put pins that marked “Korean neighborhood,” but they were more like neighborhoods that were interspersed with Koreans.  Elder Mejia and I kind of depended on Elder Leishman to lead the conversations when it came to speaking in Korean, but he didn’t really say anything.  Even when we were having a conversation with people in English, he didn’t say much either.
-“Annyeong-casserole, annyeong-casserole,” Elder Mejia would say from time to time.
-“I guess I can’t really say that I don’t know anything about Korea,” I said.  “I listened to a few K-pop songs in high school, but I’m not a fan.  It’s just way too abstract.”
-“What did you listen to?” Elder Mejia asked.
-“I remember there was something called Blackpink.”
-“Yas!  Blackpink!”
-“There was a song where they were like, ‘Hit you with that ddu du ddu du ddu.’”  It had been a couple years since I last heard that song.
-Elder Mejia laughed.  “‘Hit you with that ddu du ddu du ddu.’”  He sang and danced to it.  Later into the transfer, he taught me the choreography of the chorus.  I didn’t know how he knew it.
-It was finally almost 7, and we were about to finish up the end of the street.  “Okay, one more time,” Elder Mejia said, “how do you say, ‘Hi, my name is Elder Okuda.’?”
-“Annyeong-casero—”
+_(September 2019; three months into my mission) “So how much Korean do you both know?” Elder Mejia asked while we were driving down to Federal Way from transfers._
 
-_Elder Mejia laughed.  “I got you saying it too now.”  I just shook my head._
+_“I know the alphabet and how to read,” Elder Leishman answered.  “It’s not that hard to do those.  I feel like I can understand okay.  It’s just speaking it that’s hard for me.”_
+
+_“I don’t know any,” I said.  “I don’t even know how to say ‘hi’ in Korean.”_
+
+_“Annyeonghaseyo,” Elder Mejia said._
+
+_“A…what?”_
+
+_“Annyeong.  Haseyo.  I think it literally means, ‘Have peace.’  I asked President if I could be in the Korean branch, and I got my wish granted.  I don’t know much, but I used to study a bit before the mission.”_
+
+_Elder Leishman was called to be a district leader, so things were a bit different from a regular companionship.  He did accounting calls almost every other day.  I liked having a bit of a closer distance to leadership.  I felt like I was more informed, and it motivated me to do the work._
+
+_As a trio, we did 5 to 7 finding basically every single day.  We didn’t cut it short.  As usual, we went knocking on doors, and by the end of our 16-week trio, we tracted a LOT of Federal Way.  It was definitely difficult at the start of each day, but we’d say a prayer and then scrape ourselves out of the car and start tracting.  “We’re going on an adventure!” I’d always say before we’d start our 5 to 7 grinds.  I felt like saying something light-hearted was my way of coping with tracting._
+
+_One of my favorite parts of being in the Korean branch was language study.  That was different from my previous area.  Every day, we dedicated an hour to study Korean.  Reading and writing Korean weren’t difficult like Elder Leishman had said.  It took me about two days to learn the Korean alphabet, and learning the phonetics took me about a week or two before I felt comfortable reading on my own.  Surprisingly, Korean and Japanese had very similar grammar, and the Korean language had its own words with nuances that were just like Japanese nuances.  Even outside of language study, I’d take any time I could to study Korean._
+
+_“Do you remember how to say ‘hi’ in Korean?” Elder Mejia asked me.  We were about to knock on some doors.  The Korean branch council gave us some flyers about an upcoming activity.  We said that we’d try to invite as many Koreans as we could._
+
+_“Annyeonghaseyo,” I answered._
+
+_“Yes.  And do you remember how to say, ‘My name is Elder Okuda.’?”_
+
+_I had to think hard about it.  At this point, it still sounded like absolute gibberish.  “Cha nun… Okuda janglo… imnida?”_
+
+_“‘Cheo.’  ‘Neun.’”_
+
+_“I still don’t get how you make that sound.”  I was still trying to get used to that “eu” sound._
+
+_Previous missionaries put pins that marked “Korean neighborhood,” but they were more like neighborhoods that were interspersed with Koreans.  Elder Mejia and I kind of depended on Elder Leishman to lead the conversations when it came to speaking in Korean, but he didn’t really say anything.  Even when we were having a conversation with people in English, he didn’t say much either._
+
+_“I guess I can’t really say that I don’t know anything about Korea,” I said.  “I listened to a few K-pop songs in high school, but I’m not a fan.  It’s just way too abstract.”_
+
+_“What did you listen to?” Elder Mejia asked._
+
+_“I remember there was something called Blackpink.”_
+
+_“Yas!  Blackpink!”_
+
+_“There was a song where they were like, ‘Hit you with that ddu du ddu du ddu.’”  It had been a couple years since I last heard that song._
+
+_Elder Mejia laughed.  “‘Hit you with that ddu du ddu du ddu.’”  He sang and danced to it.  Later into the transfer, he taught me the choreography of the chorus.  I didn’t know how he knew it._
 
 _Elder Mejia and I ended up being companions for four transfers, and I honestly didn’t mind.  One of the reasons why he was such a great companion to me was because he was very people-oriented.  He tried to put other people first.  Anytime we went to YSA activities and he noticed someone sitting alone, he’d always tell me that we should sit by that person.  Elder Mejia was one of the most inclusive people when it came to me.  During p-day activities or zone conferences, I usually had a hard time interacting with the other missionaries, but Elder Mejia didn’t mind it when I tagged along.  I told him about how I didn’t feel like I was good at connecting with other people, and he verbally told me to just tag along with him.  It was nice knowing that even if I was in the middle of a conversation, at least someone knew I was there._
 
@@ -497,108 +510,178 @@ _It was kind of awkward when I first let Elder Leishman and Elder Mejia know tha
 
 _Sometimes during my personal study, I would go into the bedroom alone and do a session from the Calm app in hopes to soothe my nerves.  I wasn’t sure if it helped me.  But one thing I knew for sure was that every morning when I took out my prescription bottle, poured one of the pills into my hand, and ingested it, I always felt a sense of defeat.  I couldn’t believe that I had to rely on these pills to function.  I didn’t understand why I had to do this.  But if these really were making me feel better, I couldn’t complain.  That was how I saw it._
 
-_If people didn’t have feelings, missionary work and life in general would’ve been so much easier.  Truth was truth; it was independent of people’s feelings and opinions.  Sure, people could have feelings that the Book of Mormon was true, but wouldn’t the Book of Mormon be true whether or not people felt it was true?_
+_If people didn’t have feelings, missionary work and life in general would’ve been so much easier.  <u>Truth was truth; it was independent of people’s feelings and opinions.  Sure, people could have feelings that the Book of Mormon was true, but wouldn’t the Book of Mormon be true whether or not people felt it was true?</u>_
 
-_I also didn’t understand why God thought putting us here on Earth was a good idea in the first place.  If such a plan didn’t exist, we’d all still live in the presence of God.  Sure, we probably wouldn’t know the feeling of joy as we know it, but wasn’t that better than God having to separate so many of His children for rebelling against His plan?  Not only that, but how many people would actually make it to the celestial kingdom to return to His presence?  Probably only a very small fraction.  Wouldn’t it have been better to live life in ignorance of feelings if we all lived in His presence?  I also didn't understand why Adam and Eve were so happy after they partook of the fruit of the tree of knowledge of good and evil.  Didn't they want to live in the presence of God forever?  We all would've also lived in the presence of God, and no one would have to experience sorrow, pain, and death._
+_I also didn’t understand why God thought putting us here on Earth was a good idea in the first place.  If such a plan didn’t exist, we’d all still live in the presence of God.  Sure, we probably wouldn’t know the feeling of joy as we know it, but wasn’t that better than God having to separate so many of His children for rebelling against His plan?  Not only that, but how many people would actually make it to the celestial kingdom to return to His presence?  Probably only a very small fraction.  <u>Wouldn’t it have been better to live life in ignorance of feelings if we all lived in His presence?</u>  I also didn't understand why Adam and Eve were so happy after they partook of the fruit of the tree of knowledge of good and evil.  Didn't they want to live in the presence of God forever?  We all would've also lived in the presence of God, and no one would have to experience sorrow, pain, and death._
 
 _My experiences with anxiety and depression on the mission amplified my desire that feelings should’ve been numbed.  Anxiety and depression were some of the worst feelings to deal with.  I never in my lifetime thought that I’d experiment with medication, and I hated that my body was dependent on it.  I felt like an addict or someone who couldn’t do it on his own.  Plus, if people didn’t have feelings and only cared about truth, missionary work would’ve been so much easier.  People would’ve been more receptive._
 
 _I also got an email from Carli telling me about a guy she had been dating.  She said she met an amazing guy over the summer and that they were going to get engaged.  They broke up about a week before their engagement.  She told me she was heartbroken because of it and asked me how I was able to cope with my own challenges.  I had a hard time understanding things when it came to dating and relationships.  If Carli thought this guy was amazing, why did they break up?  Was it because he wanted to break up?  It didn’t make sense because it sounded like both parties were thinking about engagement.  And if things didn’t work out, then it wasn’t like he was the right person anyway, so why feel sad about it?  I also didn’t understand why people who broke up didn’t talk to each other like they never existed in the first place.  It sounded toxic to me._
 
-## Section
+## Section 5
 
-August 19, 2022.  At this point, I finished my internship.  I was kind of glad that it was over.  Some days that were boring; sometimes I’d just stare at my laptop screen trying to figure out what I needed to do with the data.  I was sure it would’ve been a different experience if I were to work in person.  But I was glad that the internship was remote since I could spend time with Mom and Dad before they left.  I was also glad that the internship was over because some of my roommates and their friends didn’t know how to be quiet at night, even after telling them multiple times to be quiet.  I wouldn’t have to worry about waking up before 7am anymore.
-I also finished my summer term class.  I was glad that it could keep me busy.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I was in the most, it was the LSB, even though I never had a class in that building. (Picture)
+August 19, 2022.  At this point, I finished my internship.  I was kind of glad that it was over.  Some days that were boring; sometimes I’d just stare at my laptop screen trying to figure out what I needed to do with the data.  I was sure it would’ve been a different experience if I were to work in person.  But I was glad that the internship was remote since I could spend time with Mom and Dad before they left.
 
-August 23, 2022.  I ended up moving to the third floor.  I didn’t want to move floors, but the manager said that all of the units had been occupied.  It meant hauling all of my stuff upstairs.
-Initially, it was just me and a guy who had lived in the apartment since the beginning of winter semester.  Since he and I would be roommates for at least the next eight months, I felt like it would be worth trying to get to know him a little bit.  I tried making conversation with him several times, but he didn’t seem to be a fan of it.  One night, I got out Exploding Kittens, to which he half-heartedly agreed to play.  He was usually just in his room doing whatever, and he didn’t seem like he wanted to interact with me that much.  Well, I tried.
+I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building. (Picture)
+
+...
+
+August 23, 2022.  I didn’t want to move apartments for fall semester, but the manager said that the apartment I was staying in was fully occupied.  It meant hauling all of my stuff upstairs.
+
+Initially, it was just me and a guy who had lived in the new apartment for a semester.  Since he and I would be roommates for at least the next eight months, I felt like it would be worth trying to get to know him a bit.  I tried making conversation with him several times, but he didn’t seem to be a fan of it.  One night, I got out Exploding Kittens, to which he half-heartedly agreed to play.  He was usually just in his room doing whatever, and he didn’t seem like he wanted to interact with me that much.  Well, I tried.
+
+...
+
 I learned that Carli and her mom were in town, so they came by to say hi.
+
 “I took the MCAT over the summer, and I cried all the way home,” Carli said.  “I thought I scored in like the 50th percentile.”
+
 “Now she got hired to be an MCAT tutor,” her mom said.  “She did really well.”
 “I’m not surprised,” I said.
+
 Carli’s younger brother moved into the complex on the third floor too.  He and I occasionally saw each other during the school year and said hi, but he usually went to a different ward with his mission friends.
+
 Carli was one of my best friends in high school.  She and I always hung out at stake youth activities, and we also hung out during our freshman year of BYU.  She and I got back from our missions around the same time, but we didn’t hang out that often since that time.  To me, she was now a pastime friend.
 
-(October 2018; college freshman) For my honors intro class, I had an analysis paper due at the end of the week on top of my other midterms, so I made sure to balance my time.  However, during today’s class, someone came by with the announcement that there was going to be a Harry Potter murder mystery activity on Friday night.  “You can bring someone else with you, so it’d be a great date night!” the guy announced.  Usually I tried to disregard those kinds of promiscuous statements, but then I thought about Carli.  I wasn’t planning on doing anything this coming weekend, so I thought it wouldn’t be a bad way to check off my commitment.  Later that day, I decided to text her about it.
+_(October 2018; college freshman) For my honors intro class, I had an analysis paper due at the end of the week on top of my other midterms, so I made sure to balance my time.  However, during today’s class, someone came by with the announcement that there was going to be a Harry Potter murder mystery activity on Friday night.  “You can bring someone else with you, so it’d be a great date night!” the guy announced.  Usually I tried to disregard those kinds of promiscuous statements, but then I thought about Carli.  I wasn’t planning on doing anything this coming weekend, so I thought it wouldn’t be a bad way to check off my commitment.  Later that day, I decided to text her about it._
  
-Me:  Hey, do you have anything going on this Friday night?
-Carli:  Not much. Just studying. How about you?
-Me:  Do you want to go to an activity that the honors program is hosting with me? It’s a Harry Potter murder mystery thing, and I initially wasn’t thinking about going to it, but if you want to go, I’ll go. I can bring one other person to the activity, so you’ll be allowed to go. They have dinner at 6:30, and it ends at 9.
-Carli:  That sounds like a lot of fun!
-Where is it? And what is the dress?
+```Me:  Hey, do you have anything going on this Friday night?```
+
+```Carli:  Not much. Just studying. How about you?```
+
+```Me:  Do you want to go to an activity that the honors program is hosting with me? It’s a Harry Potter murder mystery thing, and I initially wasn’t thinking about going to it, but if you want to go, I’ll go. I can bring one other person to the activity, so you’ll be allowed to go. They have dinner at 6:30, and it ends at 9.```
+
+```Carli:  That sounds like a lot of fun!```
+
+```Where is it? And what is the dress?```
  
 I didn’t get that last set of texts until later in the day when she also texted:
  
-Carli:  Hey, I’m studying for my chem test Saturday morning and I’m thinking it may not be wise for me to take that evening off. I’m sorry :( I’m just stressed about this test.
+```Carli:  Hey, I’m studying for my chem test Saturday morning and I’m thinking it may not be wise for me to take that evening off. I’m sorry :( I’m just stressed about this test.```
  
 It was totally understandable.  But thinking about being more social made me want to go, especially over the weekends when I had time.  I didn’t have any friends in my honors class, and I felt a little nervous thinking about going by myself.  But I wanted to go…  And then…
  
-Me:  Btw do you like Harry Potter? I don’t remember if we talked about this.
-Paige:  No we didn’t talk about this too much… But heck yes I do!!! Why?
-Me:  Lol well, the honors program is hosting a Harry Potter themed murder mystery activity on Friday night from 6:30 to 9. I can bring along one other person. There’ll be a dinner and then the activity. I wasn’t really planning on going, but if you’re up for going, then I’ll plan on going too.
-Paige:  Wowwww how fancy. XD
-MICHAEL. ARE YOU ASKING ME ON A DATE?
+```Me:  Btw do you like Harry Potter? I don’t remember if we talked about this.```
+
+```Paige:  No we didn’t talk about this too much… But heck yes I do!!! Why?```
+
+```Me:  Lol well, the honors program is hosting a Harry Potter themed murder mystery activity on Friday night from 6:30 to 9. I can bring along one other person. There’ll be a dinner and then the activity. I wasn’t really planning on going, but if you’re up for going, then I’ll plan on going too.```
+
+```Paige:  Wowwww how fancy. XD```
+
+```MICHAEL. ARE YOU ASKING ME ON A DATE?```
  
 I almost tripped over myself when I read that text.  Like honey, it was going to be a “date” with Carli, but now I was going to change the word to “hangout”…
  
-Me:  Oh gosh please don’t even go there…
-I mean, the dinner is an incentive for me to go, but I feel kinda anxious going by myself for the activity.
-Paige:  Hahah but that’s what it seems like (;
-No, I get it. I’ll go with you! Why not? And we can always just leave after the dinner if you want xD
-Me:  True. It’s just awkward to be like, Hi bye
-Paige:  Lol so that’s college students for you
-Btw just coming home from institute and I’m coming to your apt. So you better be home.
-Me:  Lol um okay. I’m studying though. And about to eat some pasta.
-Paige:  Lol yay! xD
-Wow! You’re cooking.??? But those dishes
+```Me:  Oh gosh please don’t even go there…```
+
+```I mean, the dinner is an incentive for me to go, but I feel kinda anxious going by myself for the activity.```
+
+```Paige:  Hahah but that’s what it seems like (;```
+
+```No, I get it. I’ll go with you! Why not? And we can always just leave after the dinner if you want xD```
+
+```Me:  True. It’s just awkward to be like, Hi bye```
+
+```Paige:  Lol so that’s college students for you```
+
+```Btw just coming home from institute and I’m coming to your apt. So you better be home.```
+
+```Me:  Lol um okay. I’m studying though. And about to eat some pasta.```
+
+```Paige:  Lol yay! xD```
+
+```Wow! You’re cooking.??? But those dishes```
  
 Next thing I knew, I heard a knock on the door, and Paige opened it herself.  “Heeeyyy,” she greeted as she put her stuff on the kitchen table across from me.
+
 Troy was lying on the couch, and as usual, he went on about his movies and his Harry Potter theories.  Paige then gave me a look and then laughed.  “MICHAEL ASKED ME ON A DAAAAAAAAATTTTEEE!!!”
+
 “No, I did not!” I insisted.
+
 “You asked her on a date?” Troy asked me.
+
 “YES!” Paige insisted.  “He asked me to have dinner with him and then to attend an activity.”
+
 “Yeah, that’s a date,” Troy agreed.
+
 Okay wow.  Biggest smh.
+
 It was nice to have someone over for studying, but I usually got distracted easily because Paige would bring something up, or Troy would keep rambling on and on about his movies and theories.  About an hour later, Paige said, “So I found out that I have an overdue book that I have to return to the library, so I’m thinking about walking to campus to return it.  Do you want to go with me?”
+
 It was already past 10:00, and it was about a 20-minute walk from the apartment to the library.  Plus, I had to study for my religion final and was currently trying to type up my eight- to ten-page analytical essay since my professor had talked about getting started on it.  “I’ve gotta study for my religion midterm and finish this paper,” I said.
+
 “When’s your religion midterm?”
+
 “Tomorrow and Friday.”
+
 “Well, you could study tomorrow and take it on Friday.”
+
 “Yeah, but…”
+
 “Pleeeeease?”
+
 “I have to study and do this paper,” I repeated myself.
+
 “When’s your paper due?”
+
 I paused for a moment.  “December 4.”
+
 Paige just looked at me.  “Boi, it’s October 24, and your paper isn’t due for over a month.  You crackhead.”
+
 “Yeah, but I need to get started with it.  It has to be eight to ten pages.”
+
 “Come with me to the library.  Pleeeeeeeeeease?”
+
 I shook my head.
+
 “Pleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeease???”
-            Well, after about seven or eight attempts of Paige trying to convince me to go with her, she finally gave in.  “Fine,” she said.  “I guess I’ll go alone since you’re being such a loser.”
+
+Well, after about seven or eight attempts of Paige trying to convince me to go with her, she finally gave in.  “Fine,” she said.  “I guess I’ll go alone since you’re being such a loser.”
+
 Okay wow, said the one who had an overdue book.
 
 …
 
 I had received a text from Carli saying that she was going to take her chem test today and that she could go to the Harry Potter activity, but by that point, it was too late for me to ask her since I didn’t want to ditch Paige.  As I went to the Maeser building for the Harry Potter activity, I saw Paige waiting by the Maeser statue, and we waited in line.  “Wow, some people went all out,” she said.  The majority of people were dressed up in their wizard robes and hats.  I didn’t get how people had space to bring such stuff with them.
+
 When we entered the building, we received a couple of letters and then headed downstairs to eat food.  They had rolls, meatballs, butter beer, and punch, so Paige and I tried to stock up on food.  After all, free food was basically heaven for college students.
+
 After a few minutes into dinner, Paige said, “I’m not sure if I’m feeling this.  We should leave.”
 I honestly wasn’t feeling it either, but I wasn’t sure how to get out.  I felt like we’d get caught leaving and stealing their food.  I hesitated.
+
 “We should leave before they start the activity,” Paige said.
+
 “How are we going to leave?” I asked.
+
 “Well, there are some people going back upstairs.  See?  Or…”  She then walked toward the center of the hallway and found some steps leading up to a door.  I quickly followed her as I tried to step around the students’ food.  Paige opened the door, and I realized that it was an exit from below the usual stairs that I usually went up.
+
 “Wow, I didn’t know that was an entrance,” I said.
+
 “Yeah, I saw that door there, and I thought it’d be an exit,” Paige said.
+
 We still had the letters in our hands, and we decided to open them up.  I had never done a murder mystery before, and it was a little confusing what I had gotten.  “Murder mysteries can actually be fun, but I wasn’t really up for it,” Paige said.  “Dang, I’m such a bad example to you, am I?”
+
 We then noticed that some other people had left because they had their wizard clothes on.  “See?  They snuck out too,” Paige said.  Right when she said that, there was a guy who literally zoomed right past us as he sprinted across the sidewalk.  “Yeah, that how it be.”  Paige laughed.  We ended up going back to my apartment to play card games past midnight again.
- 
-	August 25, 2022.  Brother and Sister Atkin invited me to go to their place.  Brother Atkin taught me how to ride one of the horses and then we ate dinner.
-	“How are your parents doing?” Sister Atkin asked me.
-	“I think they’re good,” I answered.  “The last time I talked to them was at the beginning of this month.  It was a group call.  They said they got COVID at the MTC, so they had to quarantine for a bit.”
-	Brother Atkin told me about what it was like to serve in Japan and how he met Dad.  “I still have journal entries and letters about your dad,” he said.
-	“We were dating at the time, and he sometimes wrote letters about your dad too,” Sister Atkin said.
-	I honestly felt so at home.  Sister Atkin talked to me for the most part, and I got to play the piano for them too.  I forgot that such hospitable people still existed after a school year of solitude.
+
+...
+
+August 25, 2022.  Brother and Sister Atkin invited me to go to their place.  Brother Atkin taught me how to ride one of the horses, and then we ate dinner.
+
+“How are your parents doing?” Sister Atkin asked me.
+
+“I think they’re good,” I answered.  “The last time I talked to them was at the beginning of this month.  It was a group call.  They said they got COVID at the MTC, so they had to quarantine for a bit.”
+
+Brother Atkin told me about what it was like to serve in Japan and how he met Dad.  “I still have journal entries and letters about your dad,” he said.
+
+“We were dating at the time, and he sometimes wrote letters about your dad too,” Sister Atkin said.
+
+I honestly felt so at home.  Sister Atkin talked to me for the most part, and I got to play the piano for them too.  I forgot that such hospitable people still existed after a school year of solitude.
+
+...
 
 August 28, 2022.  While I was scrolling through the rosters of my classes to see if I recognized anyone’s names, I was surprised to see Gyuna’s name in my CS 180 class!  I reached out to her to confirm if she was taking the class, to which she said yes.  She also said that she was majoring in data science, so maybe she and I would have classes together in the future.
-	I was ready for fall semester to start—another semester of classes, research, and studying at the LSB all day, every day.  That was what I thought.
+
+I was ready for fall semester to start—another semester of classes, research, and studying at the LSB all day, every day.  That was what I thought.
 
 (End of Chapter 1, end of Part 1…)

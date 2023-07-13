@@ -16,6 +16,7 @@ Part 2: Fall 2022
 ### **Part 3: Winter 2023**
 - Chapter 1: Opposites versus Complements (1/9/2023 C 2/12/2023)
 - Chapter 2: Triangles (2/13/2023 – 3/18/2023)
+
 ### **Chapter 3: The Head and the Heart (3/19/2023 – 4/27/2023)**
 
 ---

@@ -24,17 +24,17 @@ Part 3: Winter 2023
 
 August 29, 2022.  I couldn’t believe it was the start of another semester.
 
-Gyuna had texted about half an hour before our CS 180 class saying that she was sitting near the front of the classroom.  The classroom was in the basement of the JFSB, which was a complete maze to me.  I walked around, trying to find the room number.  Suddenly, I felt someone pull the handle of my backpack.
+Gyuna texted about half an hour before our CS 180 class saying that she was sitting near the front of the classroom.  The classroom was in the basement of the JFSB, which was a complete maze to me.  I walked around, trying to find the room number.  Suddenly, I felt someone pull the handle of my backpack.
 
 “Hey.”  It was Gyuna.
 
 “Oh, hey,” I greeted, a bit surprised.  “Where’s the classroom?”
 
-“You passed it.  It’s over here.”  She guided me to the room while still pulling on the handle of my backpack.
+“You passed it.  It’s over here.”  She guided me to the room while she continued to pull on the handle of my backpack.
 
 After class, we walked up the stairs outside the JFSB that led to the ground floor.  “What are you going to do?” Gyuna asked.
 
-“I’m thinking about going to the gym to exercise,” I answered.  “I’m going to try to do better about exercising this semester.”
+“I’m thinking about going to the gym to exercise,” I answered.  “I’m gonna do better about exercising this semester.”
 
 “Where’s the gym?  I think I’ll tag along just to see what it’s like.  I’ve got my next class in about an hour.”
 

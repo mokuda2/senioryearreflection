@@ -403,7 +403,7 @@ I found it ironic that the gay community tried to inform people that sexual orie
 
 At this point, I felt like flirting was so fake.  I even grew skeptical when guys would flirt over text or on the first date because I wondered if they said or did the same things with every guy, especially since things usually wouldn’t progress past a first date.  Even when I went on my date with Kent, I sure felt excited before the date, but during the date, it felt very matter of fact.  Now I was confused.  What was romance supposed to feel like on a date?
 
-I also texted Connor again how he was doing.  He and I texted a few lines, but I felt like if I wasn’t going to meet him in person, there wasn’t any point in texting him.  He was just this mysterious, online person to me.  I also noticed that he had deleted his Hinge profile, so it seemed like he wasn’t interested in dating.  I decided to let go of him too since there wasn’t any sign of progress that he’d want to see me.
+I also texted Connor again how he was doing.  He and I texted a few lines, but I felt like if I wasn’t going to meet him in person, texting him seemed useless.  He was just this mysterious, online person to me.  I also noticed that he had deleted his Hinge profile, so it seemed like he wasn’t interested in dating.  I decided to let go of him too since there wasn’t any sign of progress that he’d want to see me.
 
 That was what I thought.  <u>He’s definitely got a story in the remaining chapters.</u>
 
@@ -411,7 +411,8 @@ That was what I thought.  <u>He’s definitely got a story in the remaining chap
 
 December 20, 2022.  All of my roommates were out of the apartment at this point.  I was the only one left.  Gyuna and Christian were on vacation down in Arizona where Christian’s family lived, so I wasn’t going to have them around for most of the break.  I also knew that Shari was expecting her baby sometime soon, so I kept that in mind.
 
-I had messaged a guy named Sam for a week or two.  I asked if he and I could meet in person, and he said we could after finals.  He was a BYU student studying mechanical engineering.  He was a pretty dry texter, so I didn’t expect much from the date.  Plus, I was just the usual skeptical me with how my dates had been going for the past month.  We planned to go to Black Bear Diner and then play some games at his place.
+I had messaged a guy named <span style="color:red">Sam</span> for a week or two. 
+I asked if he and I could meet in person, and he said we could after finals.  He was a BYU student studying mechanical engineering.  He was a pretty dry texter, so I didn’t expect much from the date.  Plus, I was just the usual skeptical me with how my dates had been going for the past month.  We planned to go to Black Bear Diner and then play some games at his place.
 
 I drove to his place and texted him when I got there.  A few seconds later, I saw a guy walking towards my car.  Initially, I didn’t think it was him because he was REALLY cute!  But he waved at me and hopped in the car.  Dang, he sure was good-looking in person.
 
@@ -535,7 +536,7 @@ Nozomu and Deanna flew into Utah on Christmas Eve, and Mom flew in a few days la
 
 “You have to get up close so he can see you,” Shari said as she held Kiyoshi.  “His eyes are still developing.  After some time, he’ll be able to see a bit farther, and then he’ll begin to see color.  Babies usually see the color red first.”  It made sense.
 
-Initially, I was a bit intimidated holding such a small human being, but I did.  Nozomu seemed to enjoy himself.  I didn’t find it quite as enjoyable; Kiyoshi didn’t do anything but sleep and eat and cry and poop.
+Initially, I was a bit intimidated holding such a small human being.  Nozomu seemed to enjoy himself.  I didn’t find it quite as enjoyable; Kiyoshi didn’t do anything but sleep and eat and cry and poop.
 
 “I felt the same way when my niece was born,” Deanna said.  She was also the youngest in her family.  “Give him a year or two, and he’ll be more interactive.  You can make him your minion.”  She continued.  “Have you tried your cookies ‘n cream milk?”
 

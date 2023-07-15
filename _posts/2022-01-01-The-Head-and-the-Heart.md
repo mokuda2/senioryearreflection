@@ -605,7 +605,7 @@ _I took a look at my Korean name tag.  Although I had taken off my name tag ever
 
 ## Section
 
-If you’ve read this far into my reflection, I thank you for the time you’ve read it.  I know it’s been a LOT.
+If you’ve read this far into my reflection, I thank you for the time you’ve read it.  I know it’s a LOT.
 
 So why did I think that sharing this very long story was the right way for me to come out?  And why is coming out such a big deal in the first place?  When someone genuinely admits, "I'm gay," it's so much more than having feelings for the same gender.  It's difficult to sit down and articulate everything in one sitting.  That's why I've turned to writing.  My experience of dating guys isn't every gay person’s experience, much like how straight people go through different dating experiences, but mine is just a glimpse of what it's like to be gay (and Asian) at BYU.  It's tough, especially when everyone around me is talking about dating and marriage and how much they want it.  When I began dating guys, that was when I saw that I wanted those things too.  Many gay guys have told me that their dating experiences haven’t been that great, so I feel fortunate to feel like my experiences have been good overall.  Not all of them have been good, but I feel like I’ve had an overall positive experience.
 
@@ -613,7 +613,7 @@ As much as I hope that each of you—my family members—will support me and res
 
 If you don't support my decisions, I will find those who will support me.  I'm so glad for the support I've received from especially Gyuna and Christian this past school year.  I feel that their support has helped me navigate my own feelings and has helped me avoid situations that could've taken me down a bad path.  I know that the kind of life I want to live may not be the kind of life that you saw for my future, and I can sort of understand that.  I used to think that I'd marry a girl, but I've learned that marriage is more than a mechanical matter.  Maybe it might sound weird for a heterosexual couple to think that the kind of love and the chemicals that are released are the same for a gay couple, but that's my reality.  And I'd imagine that the same kind of aversion that I feel towards a relationship with a girl would be the same feeling of aversion that a straight person would feel towards a same-sex relationship.
 
-Also of note, the names of all the guys I’ve dated or who are gay are not their actual names.  I do that mostly to keep people safe, which might sound weird.  The gay community is very small and vulnerable, so I don’t want to “out” someone intentionally.  I want to respect that some people may not be comfortable being publicly out.  It’s not an easy thing to do.  So yes, Gyuna’s boyfriend’s name is Christian, but no, my ex’s name is not Bryce.  If you had read Tate’s blog story, you probably would’ve noticed that the author’s name is not Tate.  I don’t know if anyone would’ve caught onto that.
+Also of note, the names of all the guys I’ve dated or who are gay are not their actual names.  I do that mostly to keep people safe, which might sound weird.  The gay community is very small and vulnerable, so I don’t want to “out” someone intentionally.  I want to respect that some people may not be comfortable being publicly out.  It’s not an easy thing to do.  So yes, Gyuna’s boyfriend’s name is Christian, but no, my ex’s name is not Bryce.  If you had read Tate’s blog story, you probably noticed that the author's name is not Tate.  I don’t know if anyone would’ve caught onto that.
 
 When Mom, Dad, and I were in Palau, they asked me if I had been going on dates.  I wasn’t ready to come out at that point.  They probably still stuck to their definition of a “date”: when a guy and a girl plan to do something together and then do it.  I was curious about what they felt about dating, not merely their definition.  I decided to ask the questions I used to ask in my atheist days.  “Why is it important to date?” I asked.
 
@@ -637,11 +637,11 @@ Per the usual, baptism, receiving the gift of the Holy Ghost, the priesthood, th
 
 I guess that explained where my boring-man genes came from.
 
-“Everyone has different strengths and weaknesses,” Dad continued.  “We’re not a very expressive family.  I think one of the reasons why people have a hard time talking to Mom is because she doesn’t open up.  And our children are like that, times 2.  I used to be that way too.  I was really shy talking to girls.”
+“Everyone has different strengths and weaknesses,” Dad continued.  “We’re not a very expressive family.  I think one of the reasons why people have a hard time talking to Mom is because she doesn’t open up.  And our children are like that, times two.  I used to be that way too.  I was really shy talking to girls.”
 
 “What about talking to guys?”
 
-“I think I just had a hard time talking to people in general.  But now after all of the church callings I’ve had, they got me out of my comfort zone, and I had to talk to people.  I’ve become a lot better and more confident.  But when you’re interested in a girl, if you were to go on a date, you’d have to ask her.”
+“I think I just had a hard time talking to people in general.  But now after all the church callings I’ve had, they got me out of my comfort zone, and I had to talk to people.  I’ve become a lot better and more confident.  But when you’re interested in a girl, if you were to go on a date, you’d have to ask her.”
 
 “Why would I be interested in her?”
 
@@ -649,13 +649,13 @@ I guess that explained where my boring-man genes came from.
 
 “Why are there some people who say no to a date?” I asked.
 
-“Well, there are some people who may not feel comfortable.  Maybe the guy just wants to kiss, and the girl doesn’t want that.  But when you ask a girl on a date, most will say yes.”
+“Well, some people may not feel comfortable.  Maybe the guy just wants to kiss, and the girl doesn’t want that.  But when you ask a girl on a date, most will say yes.”
 
 “Why is it convention that a guy asks the girl?  Why can’t the girl ask the guy?”
 
 “Girls can ask guys out.  But I guess it’s not the standard.  You shouldn’t expect girls to ask you out.”
 
-“So…  Marriage is more than just a ceremony?  You have to feel a certain way about someone?”
+“So...  Marriage is more than just a ceremony?  You have to feel a certain way about someone?”
 
 Both Mom and Dad nodded.  Well, I guess they weren’t as mechanical as I thought they were.  It sounded like they knew what romantic love was.  Maybe they’d have a level of understanding of my situation.  Or maybe they wouldn’t and would act like privileged straight people.  Either way, there was something that they should’ve been happy about.  If they were more mechanical when it came to emotions, then all the times when I was with Gyuna and Hyeji would’ve fit Mom and Dad’s definition of a date.  I definitely went on countless “dates” with them.  But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally grown from dating guys.  And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality.
 
@@ -667,9 +667,9 @@ Being marginalized is not an unfamiliar feeling.  It's how I've felt looking lik
 
 Dad was a stake president throughout my middle school and high school years.  I often felt like people liked me and wanted to get to know me merely because I was "the stake president's son."  Looking in retrospect, I could've taken advantage of Dad's title by networking with people, but I wondered if people would've treated me the same if Dad wasn't a stake president or a bishop or any calling.  I didn't think that would've been the case, at least attending YSA wards at BYU.  I didn't openly tell people that my parents were mission president and wife, and they probably wouldn't have cared much anyway since Dad had no direct involvement with the wards I attended.  But it was sickening to think that people would've had a different perception of me if Dad didn't have such a title.  The pattern probably would've been the same with Mom.
 
-As for now, like I stated previously, I will try to find some friends, hopefully those in the gay community.  My experiences primarily with Sam, Connor, and Bryce have made me re-evaluate my dating goals.  I'm glad that Sam and I didn't jump into a relationship and that we were able to communicate our values.  I feel like my skepticism has made me want to date a guy a bit longer if I do have a romantic interest in him.
+As for now, like I stated previously, I will try to find some friends, hopefully those in the gay community.  My experiences primarily with Sam, Connor, and Bryce have made me re-evaluate my dating goals.  I'm glad that Sam and I didn't jump into a relationship and that we were able to communicate our values.  I feel like my skepticism has made me want to date a guy a bit longer if I do have a romantic interest.
 
-I did reach out to Connor, and I’m honestly glad he told me no to a relationship now.  Not only do I think he doesn’t know what he wants, but he isn’t the person I knew when I first met him.  I do feel sad about it.  I hope that I can find someone who likes me for who I am and not just for my body.  I can’t believe that I didn’t notice a red flag when he asked me to make out with him and then to tell me that he was looking for a long-term relationship after I said no to making out.  Ugh!  I feel so dumb!  I think fetishizing is just as shallow as someone not being interested in me simply because of my race; neither one wants to get to know me as an actual person.
+I did reach out to Connor, and I’m honestly glad he told me no to a relationship now.  Not only do I think he doesn’t know what he wants, but he isn’t the person I knew when I first met him.  I do feel sad about it.  I hope that I can find someone who likes me for who I am and not just for my body.  I can’t believe that I didn’t notice that red flag when he asked me to make out with him and then to tell me that he was looking for a long-term relationship after I said no to making out.  It makes me feel so dumb.  I think fetishizing is just as shallow as someone not being interested in me simply because of my race; neither one wants to get to know me as an actual person.
 
 With Bryce, I think I've learned that it's okay not to rush into a relationship.  It's easier to say that now than back then since I really, really wanted to know what being in a long-term relationship was like.  I think it would've been better to have said no to a relationship, mostly for his sake.  And if a guy isn't patient enough to take things slow, then he probably wouldn't be right for me.  We’d have to be on the same page about stuff like that.
 
@@ -687,13 +687,13 @@ One of my favorite scripture passages is when Christ taught what the great comma
 
 39 And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
-It’s a well-known passage.  What I love about it is the paradox between what a commandment is and this particular commandment itself.  Most people think of commandments as dos and don’ts.  In this particular commandment, the thing to do is to love God and our neighbors.  The paradox is that loving someone isn’t a mechanical matter.
+It’s a well-known passage.  What I love about it is the paradox between what a commandment is and this particular commandment itself.  Most people think of commandments as dos and don’ts.  In this particular commandment, the thing to do is to love God and our neighbors.  The paradox is that loving someone, romantically or not, isn’t a mechanical matter.
 
 I’ve often thought about how cool it would be if an algorithm existed where two parties could get along with each other, no matter their backgrounds, personalities, and perspectives.  Those two parties could be as small as two individuals or as large as two nations.  As I’ve dated guys, I’ve realized that such an algorithm is next to non-existent.  Yes, there are ways to show love, but that’s only a starting point.  Two people can do or say the very same thing yet have completely opposite intentions.  I think feelings are what make us human.  For me, I often try to understand another person’s intentions.  I feel like most people don’t have malicious intentions; they may simply not know better, or they may have different experiences.  Going back to what Christ taught, He probably confounded that Pharisee for only going through the motions and not the emotions or the intentions of the commandments.  Again, loving someone isn’t a mechanical matter.
 
-As I had stated in an earlier chapter, I think that it’s hard for someone to empathize what it’s like to have a spiritual experience or what it’s like to be gay unless that person experiences AND acknowledges it.  I often think about a world where feelings don’t matter.  Marriage would simply be a ritual: have an XX-chromosome being and an XY-chromosome being go through the motions of the ceremony, just as God commands.  But what happens if the couple realizes that they can’t have children?  The logical thing to do would be to divorce each other, and if one of the spouses is fertile, he or she would find someone else who isn’t infertile so that they can keep the commandment to multiply and replenish the earth.  The hope is for the infertile to die out of society so that they wouldn’t burden the fertile.  Maybe divorce sounds harsh, but it’s like marriage; a divorce is another ritual where an XX-chromosome being and an XY-chromosome being break off their marriage.
+As I had stated in an earlier chapter, I think it’s difficult for someone to empathize what it’s like to have a spiritual experience or what it’s like to be gay unless that person experiences AND acknowledges it.  I often think about a world where feelings don’t matter.  Marriage would simply be a ritual: have an XX-chromosome being and an XY-chromosome being go through the motions of the ceremony, just as God commands.  But what happens if the couple realizes that they can’t have children?  The logical thing to do would be to divorce each other, and if one of the spouses is fertile, he or she would find someone else who isn’t infertile so that they can keep the commandment to multiply and replenish the earth.  The hope is for the infertile to die out of society so that they wouldn’t burden the fertile.  Maybe divorce sounds harsh, but it’s like marriage; a divorce is another ritual where an XX-chromosome being and an XY-chromosome being break off their marriage.
 
-I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
+I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together through their love for each other as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
 
 Similarly, I feel that sort of hope when it comes to faith and sexuality.  Even though I don’t know how gay people fit into the plan of salvation, I have hope that God does have a plan for me—that maybe there’s an inkling of hope that I CAN be with my family after this life.  I know that there are people out there who marginalize gay people and who tear down their faith by telling them that their life isn’t right, that they’re “threats” or “attackers” to the family, or that they don’t have a place in the celestial kingdom, and I can sort of understand why gay members of the Church leave for those reasons.  Living a life of faith isn’t easy.  But I’m doing what I can to have faith, just as I’m sure black members of the Church in the 1950s faced a similar faith crisis pertaining to their exaltation.
 
@@ -701,12 +701,11 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 -Michael Okuda
 
-…
+...
 
 (Hopefully this song now makes more sense and has more context.  It’s my mood song this past school year.)
 
 ### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (watch with subtitles)
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```

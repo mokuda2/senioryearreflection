@@ -243,8 +243,7 @@ _I didn’t know what losing three children at the same time felt like, but it s
 
 _“Thank you for bringing the Spirit into our home,” Zach said.  After some talk, we said goodbye and drove back to our apartment for the night._
 
-(“Gethsemane” by Rob Gardner from _The Lamb of God_ (again, the cello represents Christ))
-
+**_(“Gethsemane” by Rob Gardner from _The Lamb of God_ (again, the cello represents Christ))_**
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ```(Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13) ```
@@ -373,16 +372,23 @@ I usually said no to people who just wanted to be physical since I felt creeped 
 After some more texting, he and I planned to meet in a couple days.  I was so excited!  The guy that I had wanted to meet in person actually wanted to meet in person too!
 
 ```Me: You better not ghost me lol. At least I don’t think you’re creepy. There have been some guys I’ve met that I’ve kinda ghosted just cuz I’ve felt sketched out being around them.```
+
 ```Connor: Oh I do that all the time```
+
 ```So many creepy guys out there```
+
 ```I won’t ghost you don’t worry. The only reason this won’t happen is if homework starts to kick my butt and need to finish stuff haha```
+
 ```I am honestly tempted to ditch my homework and meet up tonight tho haha```
+
 ```But idk if I can```
 
 Dang, I was tempted to ditch my homework too.  I really wanted to meet him!  But I just had to be patient.
 
 ```Me: Lol well I hope I’m not creepy to you. And I hope you’re not creepy to me.```
+
 ```Lolol I’ve been kinda distracted from homework too. But don’t worry, I won’t ditch you on Thursday, so you can focus on your hw```
+
 ```Connor: I just want cuddles tonight😂😂 what time do you sleep usually?```
 
 After some texts, Connor decided to meet up tonight, so I headed home.  After some time, Connor texted me saying that he was parked across from my complex.
@@ -415,104 +421,174 @@ After some conversation, Connor arrived at the park, and he and I cuddled for a 
 “Ii tenki desu ne (The weather is nice, isn’t it?),” Connor said.
 
 It was still slightly snowing outside.  “Uh.  Iie (No),” I responded.  He and I laughed.  “I think it’s nice to look at, but I definitely don’t like walking in it.”
+
 He and I talked some more.  “So how has dating been so far?” Connor asked.
+
 “It’s been quite a roller coaster,” I answered.  “I know I texted you about my heartbreak with Kent.  It took about a couple weeks before I felt better, but I’m definitely over him now.  I thought I’d get serious with this other guy, but I didn’t feel like his values aligned with mine.  So that was tough.  What about you?”
+
 “Dating is tough, especially at BYU.  I’d see all of these straight couples going on dates, and I’d feel kind of angry.  I was like, ‘Why can’t I feel and enjoy dating the way they do?’  I haven’t had a ton of great experiences with dating, but I can relate to heartbreak.  I feel like I’ve moved on from the guy that I was basically dating for about two months.”  I remembered him texting me on Thanksgiving about this guy he had liked.
+
 “When did you stop talking to him?” I asked.
+
 “It was around October when he and I kind of broke up.”
+
 “Ohhh, makes sense.  Cuz at the end of October, that was when we matched.  You were my first match ever.”
+
 Connor thought for a bit.  “Yeah, I guess that sounds about right.  I did get Hinge around that time.”
+
 “I was pretty scared about downloading dating apps.  I prayed a lot about if I should try dating guys.  I didn’t get any clear yes-or-no answer, so I acted.  And looking back, I’m glad that I’ve had the experiences I’ve had with dating, even if I’ve had to experience heartbreak.”
+
 “I like that you prayed about it.  I don’t feel like many people talk about their faith when it comes to dating other guys.”
+
 I didn’t know why, but cuddling with Connor felt really good!  He gave me a kiss on the top of my head, and well, we made out a bit too.  But for the most part, he and I cuddled in silence.
+
 “I’ll need to head home around 11:30,” he said.  It was about 11 when he said that.  Somehow, time didn’t feel like it existed, so by the time that he checked his watch again, it was past midnight.  “I really need to go to bed,” he then said.  “But… I really like cuddling with you…”
+
 I laughed.  I could see the struggle in his face of going back home or continuing to cuddle.  “I can tell you’re a thinker,” I said.
+
 “Yeah, I definitely am.  Plus, I need to catch up on homework.”
+
 “Did you not finish what you needed to?”
+
 “No, I’ll have to catch up.”
+
 “Oh.  Dang, I’m sorry.  Now I feel bad that I took you away from your homework.”
+
 “No, don’t feel bad!  This was a lot better than doing homework!”  He then held me tighter for a bit before he let go.
+
 As Connor and I got out of the car to sit up front he asked, “Hey, could I just give you one more hug?”
+
 “Sure!” I answered.  So in the snow-covered landscape, he gave me one last hug and then gave me a kiss.  He looked extremely happy as if I had made his day.  I was taken by surprise.
+
 On the way back to my apartment, he held my hand, and we conversed some more.
+
 “Well, it was nice to meet you, Connor,” I said when he dropped me off at my apartment.
+
 “Nice to meet you too,” he said.
+
 I was surprised he texted me later that night.
 
-Connor: Michael, you’re a cool guy😊
-Glad we finally met each other😂
-Me: Haha thanks, you seem cool too! I know school and work are super busy, but I wouldn’t mind just meeting on campus and studying together or something chill. And bruh, we definitely could’ve met earlier🤣🤣🤣 like waaaaay earlier. But it’s ok, I guess you weren’t ready for it.
-Connor: Hahaha yeah I just wasn’t ready at the time!! But yeah I’d like to hangout soon and study or something!!
+```Connor: Michael, you’re a cool guy😊```
+
+```Glad we finally met each other😂```
+
+```Me: Haha thanks, you seem cool too! I know school and work are super busy, but I wouldn’t mind just meeting on campus and studying together or something chill. And bruh, we definitely could’ve met earlier🤣🤣🤣 like waaaaay earlier. But it’s ok, I guess you weren’t ready for it.```
+
+```Connor: Hahaha yeah I just wasn’t ready at the time!! But yeah I’d like to hangout soon and study or something!!```
 
 He and I texted back and forth for a bit about where to meet on campus tomorrow, and I eventually fell asleep.  The next morning, I woke up and read a text he had sent later last night.
 
-Connor: Hey so I was thinking after I dropped you off… After meeting you tonight I’d love to get to know you better. Like on a more real connection level and see where things go. I’m wondering where you are at with that, is it something you would be interested in? Just want to manage expectations between us. Hope you sleep well!
+```Connor: Hey so I was thinking after I dropped you off… After meeting you tonight I’d love to get to know you better. Like on a more real connection level and see where things go. I’m wondering where you are at with that, is it something you would be interested in? Just want to manage expectations between us. Hope you sleep well!```
 
 Wait.  Was he actually interested in me?
 
-Me: I’d love to get to know you better! Lol I actually am not the biggest fan of just getting physical, but I was pretty tempted lol. But I’m glad you want more than just physical. I guess just so we’re on the same page, what do you see as far as what you’re hoping for?
-Connor: I guess it would be great to go on an actual date, pull back from the physical a bit, and see where things go. I’m totally open to a relationship if things feel that way!
-Me: Wowwwwww did Connor just say the d word? So he finally admits it.
+```Me: I’d love to get to know you better! Lol I actually am not the biggest fan of just getting physical, but I was pretty tempted lol. But I’m glad you want more than just physical. I guess just so we’re on the same page, what do you see as far as what you’re hoping for?```
+
+```Connor: I guess it would be great to go on an actual date, pull back from the physical a bit, and see where things go. I’m totally open to a relationship if things feel that way!```
+
+```Me: Wowwwwww did Connor just say the d word? So he finally admits it.```
 
 Connor and I agreed to meet at the Tanner Building in the afternoon after his class.
 
-Connor: Excited to see you :)
-Me: Lol same
-Connor: Haha good ;)
-I’m glad haha
-How did you sleep?
+```Connor: Excited to see you :)```
+
+```Me: Lol same```
+
+```Connor: Haha good ;)```
+
+```I’m glad haha```
+
+```How did you sleep?```
 
 He and I occasionally texted each other throughout the day.  Like wow, I couldn’t believe that he was interested in me!!
 
 …
 
 Gyuna and I met at the Cougareat after our classes in the afternoon.
+
 “So… do you remember Connor, my first match?” I asked.
+
 “Yeah, the one who served in Japan?” Gyuna responded.
+
 “Yeah.”  I told her about how he and I had reconnected last night.  “… And we ended up cuddling and making out, and—”
+
 “Wait!  You made out with him?!”  Gyuna was shocked.  “Michael!  Oh my gosh!  You are literally such a ho!”
+
 I laughed.  “In about half an hour, I’ll be heading over to the Tanner Building to study with him for a bit.”
+
 Gyuna gave me that look of hers.  “Listening about your dating life is so funny sometimes.  You’ll meet a new guy and get so excited about him, and then a week later, it doesn’t work out.  But then you have like five other guys you’ve been talking to as well.  And then you find someone else.  And then it doesn’t work out.  But gosh, Michael, you’re doing so good!”
+
 I didn’t think so.  “Most of the guys I’ve dated have only been once or twice.  And I still haven’t found anyone.”
+
 “You’re doing SO good!  You’re actually really good at asking people out.”
+
 “Well, I definitely prefer meeting in person.  And I guess I’ve got a first date with a different guy tonight too.”
+
 Gyuna wanted to tell me about how she was probably going to host a party at some venue that she and Christian went to.  It sounded pretty overwhelming.
+
 Once it was a bit past 3, I headed over to the Tanner Building and found Connor.  “Hey,” I greeted.
 He gave a small, shy wave.  “Hey, how are you?” he greeted.
+
 “Well, I’ve got a blog post I need to do.  We’re learning how to use Git and GitHub.  Do you know about those?”
+
 “Oh yeah, we use those all the time.”
+
 “What are you doing?”
+
 “I’m just reading a few things for my global supply chain class.  I’m not sure why, but they make all the MISM students take it.  It seems pretty useless to me.”
+
 He and I occasionally talked.  It was kind of weird because there were other students silently studying in the couch area too.  Plus, I had butterflies sitting right beside Connor.
+
 After about half an hour, I had to go to a research meeting, so Connor followed me up to the stairs.  “Good to see you!” he said with a big smile on his face.
+
 “You too!” I said back.
+
 He and I texted each other more and planned an “official date” for the following day going to Panda Express and watching Iron Man.  I wanted to watch more movies, and that was what he recommended I watch.
+
 Falling asleep and staying asleep were difficult.  It was so weird.  It reminded me of the nights when I was so excited about going on a date with Kent.  So far, I really liked Connor too.  He seemed like a really sweet guy, and I wanted to get to know him better.
 
 …
 
 January 26, 2023.  It felt like forever before Connor came by to pick me up for our date.
+
 “So would you consider yourself an introvert or an extrovert?” I asked as we conversed.
+
 “I’ve taken a few personality tests, and I’m slightly a bit more introverted,” Connor answered.  “I do like spending time with people, but I also need time to myself.  What about you?”
+
 “I’m also more of an introvert than an extrovert.  I like getting to know others, but I can be pretty quiet in group settings.  On my mission, especially if someone was with me for at least two transfers, I was pretty quiet.  But my friends are more extroverted.  One of them was asked to host a party at some venue, so she’s trying to plan for that.”
+
 We went to the Panda Express in Orem since it was less crowded.  “What would you say are your pet peeves?” I asked.
+
 “People not washing their dishes.  I just don’t like seeing a sink that’s filled with dirty dishes.  So gross.  I’d also say people who act fake.  You know, people who act one way when that’s not really them.”
+
 “I’d have to say disrespectful people peeve me.  It definitely tested me on the mission.”
+
 Connor and I went to his place to watch Iron Man.  We sat on the couch under a blanket and cuddled.  And we actually watched the entire thing.  It felt so good laying my head on his chest.  I could feel his heart racing the entire time.
+
 And yeah, he and I ended up making out a bunch after the movie ended.  We then laid in silence for a while.
+
 “Can you tap my watch to see what time it is?” Connor asked.
+
 I tapped his watch.  “Oh shoot!” I whispered.  It looked like it said 12:55am.
+
 “Oh, sometimes it goes to my stopwatch.”  He switched it to his clock.  It said it was 1:12am.
+
 “Oh SHOOT!” I whispered even louder.  I couldn’t believe how fast time passed.
+
 He drove me home, and with a goodnight kiss, I went back to my apartment.
 
 …
 
 January 28, 2023.  Christian had come down to Provo again.  One of Gyuna’s companions invited her to go to a sibling’s baby shower up in Eagle Mountain, so Gyuna, Christian, and I went up there.  I told Christian all about Connor.
+
 “You know, I’ve learned that guys kiss differently,” I observed.  “I don’t know how to describe it.  But I’d say I like Sam’s kisses the most so far.”
+
 “Wow, I wish I knew what it was like kissing different guys,” Gyuna said.  “Look at you!  You have more experience than I do!”
+
 “Gyuna…”  Christian didn’t sound the happiest.
+
 She laughed.  “Christian’s jealous.”
+
 Connor said he was back home skiing with his family but was going to come back to Provo sometime tonight.  I wanted to see him, but I understood if he wanted to spend time with his family.  In the middle of the baby shower activities, I got a text from him:
 
 ```Connor: Would you want to go hot tubbing tonight with my friend and his boyfriend??```
@@ -620,19 +696,24 @@ But I was a bit scared.  Things seemed to go a complete 180.
 ## Section 5
 
 January 30, 2023.  “… I mean, I was a little surprised that he wanted to go on a date with me,” I said.  I told Gyuna about Connor and how he said he wanted some space.  “He said he still wasn't down to go on dates before I met him in person.  Maybe he feels like he’s going to take things too far and wants some space in order to calm down.  But I don't know!  I'm kind of scared.  He's the first person where I've felt like I have no interest in dating anyone else.  That didn't even happen with Kent or Sam."
+
 “Dang, why are you so invested in him so quickly?” she responded.
+
 Connor didn't text me that often, and when he did, his texts were pretty dry.  "What am I supposed to say to this?" I asked.  "He doesn't even sound like himself."
+
 “It doesn't sound like he's interested,” Gyuna replied.  “If he's gotten dry, just be like, ‘Why are you so dry?’”
+
 A couple days later, I was at the library studying like usual.  I hadn’t heard from him in a couple days, and if I wasn’t going to hear from him tomorrow, I was thinking about dropping off some treats at his door.  I wanted to respect his want for space, but I wanted to let him know that I still cared about him.
+
 I wrote a letter:
 
-“Connor,
+```Connor,```
 
-“Hope this finds you well.  Just wanted to send a small pick-me-up.  You're awesome!  I'm really sorry if I did anything to make you feel scared or upset last week.  I hope you can forgive me.
+```Hope this finds you well.  Just wanted to send a small pick-me-up.  You're awesome!  I'm really sorry if I did anything to make you feel scared or upset last week.  I hope you can forgive me.```
 
-“I miss your face! :)
+```I miss your face! :)```
 
-“-Michael”
+```-Michael```
 
 Even though I still felt invested in Connor, I wanted to keep my word and not put all my eggs in one basket until a committed relationship was established.  I swiped through my dating apps, but I mostly swiped left.  Gyuna was right; I was so invested in Connor!
 
@@ -640,24 +721,37 @@ However, I had been messaging a guy named Bryce for a couple days.  I texted him
 
 Gyuna called me about getting her scholarship application finished, and I told her to come to the library.  "Why can't you come to the study pod in the Talmage?" she asked.
 "I'm with someone right now," I answered.  I wished I knew how to say that in Japanese or Korean, but I couldn't.  "Seloun saram (A new person).”
+
 "Ohhh.  Are you gonna make out with him?”
+
 "Uh.  No.  We're in the library.  But you can come to the main floor.  We're around the snack zone.”
+
 So she came by.  "This is Gyuna.  This is Bryce," I introduced them to each other.  They talked for a bit.  Bryce sat to my left while Gyuna sat to my right.  She beckoned me to lean in closer to her.
 
 "Kawaii!  (He's cute!)” she said.
 
 I gave her a look.  Honestly, I still had feelings for Connor.  I wasn't that crazy about Bryce.  "Shh," I said.  "Ilboneo arayo?  What if?  (I tried to say, “What if he knows Japanese?”)”
 "So what do you want to do after you graduate, Bryce?" Gyuna then asked.
+
 "I want to go into the police academy.  But I'm studying exercise science since I just need to get a degree, and I've been in school way too long."
+
 "Oo, the police academy?  Have you ever considered being in a police calendar?  You know, modeling?"
+
 What the heck did she just ask him?  Bryce just laughed.
+
 After some studying, I said I was heading home, at which point Bryce also packed up his stuff.  "I can give you a ride home," he said.
+
 "I don't live too far away," I said.  But then I thought about wanting to get to know his background and his journey.  "Actually, I wouldn't mind if you took me home."
+
 On the car ride back home, he told me that he had dated a guy about a year ago and that for the past year, Bryce had been working on himself.  "So what do you want from dating guys?" he asked.
 "Definitely a long-term relationship is the goal,” I answered.  “What about you?"
+
 "Yeah, I definitely want to find a long-term relationship.  Is there anything you don't want, I guess in general?"
+
 I wasn't sure what he meant by that.  "Uh, I guess don't be creepy."  He and I laughed.  "I've met some guys who give off vibes that they just want my body."
+
 "Yeah, they're not great.  But I'm very loyal.  We'll just have to get to know each other better.  And all I ask is honesty.  If you want to just be friends or never see each other again or be in a relationship, I'd love any of them.  Of course, I'd like some more than others.  But I don't want to waste time."
+
 It sounded like Bryce knew what he wanted.  I liked that.
 
 “What are your thoughts about the Church?” Bryce asked.

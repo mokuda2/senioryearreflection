@@ -5,7 +5,6 @@ author: Michael Okuda
 ---
 
 ### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (watch with subtitles)
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```
@@ -525,7 +524,7 @@ August 19, 2022.  At this point, I finished my internship.  I was kind of glad t
 I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building.
 
 **_A usual view in the Life Sciences Building_**
-[!Figure]()
+![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/LSB.jpg)
 
 ...
 
@@ -558,11 +557,11 @@ _(October 2018; college freshman) For my honors intro class, I had an analysis p
 
 ```Where is it? And what is the dress?```
  
-I didn’t get that last set of texts until later in the day when she also texted:
+_I didn’t get that last set of texts until later in the day when she also texted:_
  
 ```Carli:  Hey, I’m studying for my chem test Saturday morning and I’m thinking it may not be wise for me to take that evening off. I’m sorry :( I’m just stressed about this test.```
  
-It was totally understandable.  But thinking about being more social made me want to go, especially over the weekends when I had time.  I didn’t have any friends in my honors class, and I felt a little nervous thinking about going by myself.  But I wanted to go…  And then…
+_It was totally understandable.  But thinking about being more social made me want to go, especially over the weekends when I had time.  I didn’t have any friends in my honors class, and I felt a little nervous thinking about going by myself.  But I wanted to go…  And then…_
  
 ```Me:  Btw do you like Harry Potter? I don’t remember if we talked about this.```
 
@@ -574,7 +573,7 @@ It was totally understandable.  But thinking about being more social made me wan
 
 ```MICHAEL. ARE YOU ASKING ME ON A DATE?```
  
-I almost tripped over myself when I read that text.  Like honey, it was going to be a “date” with Carli, but now I was going to change the word to “hangout”…
+_I almost tripped over myself when I read that text.  Like honey, it was going to be a “date” with Carli, but now I was going to change the word to “hangout”…_
  
 ```Me:  Oh gosh please don’t even go there…```
 
@@ -596,76 +595,76 @@ I almost tripped over myself when I read that text.  Like honey, it was going to
 
 ```Wow! You’re cooking.??? But those dishes```
  
-Next thing I knew, I heard a knock on the door, and Paige opened it herself.  “Heeeyyy,” she greeted as she put her stuff on the kitchen table across from me.
+_Next thing I knew, I heard a knock on the door, and Paige opened it herself.  “Heeeyyy,” she greeted as she put her stuff on the kitchen table across from me._
 
-Troy was lying on the couch, and as usual, he went on about his movies and his Harry Potter theories.  Paige then gave me a look and then laughed.  “MICHAEL ASKED ME ON A DAAAAAAAAATTTTEEE!!!”
+_Troy was lying on the couch, and as usual, he went on about his movies and his Harry Potter theories.  Paige then gave me a look and then laughed.  “MICHAEL ASKED ME ON A DAAAAAAAAATTTTEEE!!!”_
 
-“No, I did not!” I insisted.
+_“No, I did not!” I insisted._
 
-“You asked her on a date?” Troy asked me.
+_“You asked her on a date?” Troy asked me._
 
-“YES!” Paige insisted.  “He asked me to have dinner with him and then to attend an activity.”
+_“YES!” Paige insisted.  “He asked me to have dinner with him and then to attend an activity.”_
 
-“Yeah, that’s a date,” Troy agreed.
+_“Yeah, that’s a date,” Troy agreed._
 
-Okay wow.  Biggest smh.
+_Okay wow.  Biggest smh._
 
-It was nice to have someone over for studying, but I usually got distracted easily because Paige would bring something up, or Troy would keep rambling on and on about his movies and theories.  About an hour later, Paige said, “So I found out that I have an overdue book that I have to return to the library, so I’m thinking about walking to campus to return it.  Do you want to go with me?”
+_It was nice to have someone over for studying, but I usually got distracted easily because Paige would bring something up, or Troy would keep rambling on and on about his movies and theories.  About an hour later, Paige said, “So I found out that I have an overdue book that I have to return to the library, so I’m thinking about walking to campus to return it.  Do you want to go with me?”_
 
-It was already past 10:00, and it was about a 20-minute walk from the apartment to the library.  Plus, I had to study for my religion final and was currently trying to type up my eight- to ten-page analytical essay since my professor had talked about getting started on it.  “I’ve gotta study for my religion midterm and finish this paper,” I said.
+_It was already past 10:00, and it was about a 20-minute walk from the apartment to the library.  Plus, I had to study for my religion final and was currently trying to type up my eight- to ten-page analytical essay since my professor had talked about getting started on it.  “I’ve gotta study for my religion midterm and finish this paper,” I said._
 
-“When’s your religion midterm?”
+_“When’s your religion midterm?”_
 
-“Tomorrow and Friday.”
+_“Tomorrow and Friday.”_
 
-“Well, you could study tomorrow and take it on Friday.”
+_“Well, you could study tomorrow and take it on Friday.”_
 
-“Yeah, but…”
+_“Yeah, but…”_
 
-“Pleeeeease?”
+_“Pleeeeease?”_
 
-“I have to study and do this paper,” I repeated myself.
+_“I have to study and do this paper,” I repeated myself._
 
-“When’s your paper due?”
+_“When’s your paper due?”_
 
-I paused for a moment.  “December 4.”
+_I paused for a moment.  “December 4.”_
 
-Paige just looked at me.  “Boi, it’s October 24, and your paper isn’t due for over a month.  You crackhead.”
+_Paige just looked at me.  “Boi, it’s October 24, and your paper isn’t due for over a month.  You crackhead.”_
 
-“Yeah, but I need to get started with it.  It has to be eight to ten pages.”
+_“Yeah, but I need to get started with it.  It has to be eight to ten pages.”_
 
-“Come with me to the library.  Pleeeeeeeeeease?”
+_“Come with me to the library.  Pleeeeeeeeeease?”_
 
-I shook my head.
+_I shook my head._
 
-“Pleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeease???”
+_“Pleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeease???”_
 
-Well, after about seven or eight attempts of Paige trying to convince me to go with her, she finally gave in.  “Fine,” she said.  “I guess I’ll go alone since you’re being such a loser.”
+_Well, after about seven or eight attempts of Paige trying to convince me to go with her, she finally gave in.  “Fine,” she said.  “I guess I’ll go alone since you’re being such a loser.”_
 
-Okay wow, said the one who had an overdue book.
+_Okay wow, said the one who had an overdue book._
 
 …
 
-I had received a text from Carli saying that she was going to take her chem test today and that she could go to the Harry Potter activity, but by that point, it was too late for me to ask her since I didn’t want to ditch Paige.  As I went to the Maeser building for the Harry Potter activity, I saw Paige waiting by the Maeser statue, and we waited in line.  “Wow, some people went all out,” she said.  The majority of people were dressed up in their wizard robes and hats.  I didn’t get how people had space to bring such stuff with them.
+_I had received a text from Carli saying that she was going to take her chem test today and that she could go to the Harry Potter activity, but by that point, it was too late for me to ask her since I didn’t want to ditch Paige.  As I went to the Maeser building for the Harry Potter activity, I saw Paige waiting by the Maeser statue, and we waited in line.  “Wow, some people went all out,” she said.  The majority of people were dressed up in their wizard robes and hats.  I didn’t get how people had space to bring such stuff with them._
 
-When we entered the building, we received a couple of letters and then headed downstairs to eat food.  They had rolls, meatballs, butter beer, and punch, so Paige and I tried to stock up on food.  After all, free food was basically heaven for college students.
+_When we entered the building, we received a couple of letters and then headed downstairs to eat food.  They had rolls, meatballs, butter beer, and punch, so Paige and I tried to stock up on food.  After all, free food was basically heaven for college students._
 
-After a few minutes into dinner, Paige said, “I’m not sure if I’m feeling this.  We should leave.”
-I honestly wasn’t feeling it either, but I wasn’t sure how to get out.  I felt like we’d get caught leaving and stealing their food.  I hesitated.
+_After a few minutes into dinner, Paige said, “I’m not sure if I’m feeling this.  We should leave.”
+I honestly wasn’t feeling it either, but I wasn’t sure how to get out.  I felt like we’d get caught leaving and stealing their food.  I hesitated._
 
-“We should leave before they start the activity,” Paige said.
+_“We should leave before they start the activity,” Paige said._
 
-“How are we going to leave?” I asked.
+_“How are we going to leave?” I asked._
 
-“Well, there are some people going back upstairs.  See?  Or…”  She then walked toward the center of the hallway and found some steps leading up to a door.  I quickly followed her as I tried to step around the students’ food.  Paige opened the door, and I realized that it was an exit from below the usual stairs that I usually went up.
+_“Well, there are some people going back upstairs.  See?  Or…”  She then walked toward the center of the hallway and found some steps leading up to a door.  I quickly followed her as I tried to step around the students’ food.  Paige opened the door, and I realized that it was an exit from below the usual stairs that I usually went up._
 
-“Wow, I didn’t know that was an entrance,” I said.
+_“Wow, I didn’t know that was an entrance,” I said._
 
-“Yeah, I saw that door there, and I thought it’d be an exit,” Paige said.
+_“Yeah, I saw that door there, and I thought it’d be an exit,” Paige said._
 
-We still had the letters in our hands, and we decided to open them up.  I had never done a murder mystery before, and it was a little confusing what I had gotten.  “Murder mysteries can actually be fun, but I wasn’t really up for it,” Paige said.  “Dang, I’m such a bad example to you, am I?”
+_We still had the letters in our hands, and we decided to open them up.  I had never done a murder mystery before, and it was a little confusing what I had gotten.  “Murder mysteries can actually be fun, but I wasn’t really up for it,” Paige said.  “Dang, I’m such a bad example to you, am I?”_
 
-We then noticed that some other people had left because they had their wizard clothes on.  “See?  They snuck out too,” Paige said.  Right when she said that, there was a guy who literally zoomed right past us as he sprinted across the sidewalk.  “Yeah, that how it be.”  Paige laughed.  We ended up going back to my apartment to play card games past midnight again.
+_We then noticed that some other people had left because they had their wizard clothes on.  “See?  They snuck out too,” Paige said.  Right when she said that, there was a guy who literally zoomed right past us as he sprinted across the sidewalk.  “Yeah, that how it be.”  Paige laughed.  We ended up going back to my apartment to play card games past midnight again._
 
 ...
 

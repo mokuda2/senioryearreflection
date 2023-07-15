@@ -833,9 +833,11 @@ The subject changed, but Christian went back to Sam.  "Okay, so tell me more abo
 “Oh, he's a really bad texter," Gyuna added.  She had made some noodles to eat, so Christian went to grab some.  "Shaberu (Say it!)!" Gyuna whispered to me.
 
 After a bit, we talked about Hyeji and how she was doing.  Christian had never met her, but he acted as if I had a romantic interest in her.  "Hey, look at that," he said.  He noticed my hickey.
+
 "Yep!" I exclaimed.
 
 Christian then turned to Gyuna.  "Wait..." he said.  Gyuna was just laughing the entire time.
+
 "Guess who did it," I said.
 
 "I don't know."  He pointed at Gyuna.  She and I shook our heads.  "Hyeji?"
@@ -850,7 +852,7 @@ Christian's mouth dropped for about five seconds.  "Wait, is Sam a guy or a girl
 
 "Sam’s a guy," I said.
 
-"Okay, Sam HAS to be a code name for something."  Christian looked like he wasn’t having it as if I Gyuna and I were trying to play a trick on him.
+"Okay, Sam HAS to be a code name for something."  Christian looked like he wasn’t having it as if I Gyuna and I were playing a trick on him.
 
 Gyuna laughed.  "I can't believe this is your reaction."
 
@@ -866,7 +868,7 @@ Gyuna laughed.  "I can't believe this is your reaction."
 
 "I'm not.  Gyuna has known for a couple months.”
 
-Gyuna laughed.  I was actually really surprised how surprised Christian was.  I felt like she would've somehow given hints to him considering how much I texted her about my dates.  "Remember that time when I said that Michael and I had a really good conversation?” she asked.  “And then you asked if Michael had come out to me?  I had to act like it wasn't true because I had to keep it a secret.  Or remember the times when I'd ask you questions about my Korean friend being shy and wanting to find dates?  I'd ask for advice so that I could give it to Michael."
+Gyuna laughed.  I was really surprised how surprised Christian was.  I felt like she would've somehow given hints to him considering how much I texted her about my dates.  "Remember that time when I said that Michael and I had a really good conversation?” she asked.  “And then you asked if Michael had come out to me?  I had to act like it wasn't true because I had to keep it a secret.  Or remember the times when I'd ask you questions about my Korean friend being shy and wanting to find dates?  I'd ask for advice so that I could give it to Michael."
 
 "Wow, my mind is kind of blown.  Dang, it must be hard to have to go through those feelings.  I'm sorry."  I knew he was saying that not out of pity that I couldn't change my feelings but because I had to learn how to adapt to my circumstances with society.
 
@@ -874,18 +876,19 @@ Gyuna laughed.  I was actually really surprised how surprised Christian was.  I 
 
 "So how long have you known?"
 
-"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves are the same.  That’s what I’ve gathered from dating.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
+"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appeared to be the same.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
 
 After some discussion, Gyuna said, "Remember that time when you and I were at the library for a really long time during the last week of the semester?  I asked a lot of questions pertaining to exaltation and stuff like that to Christian to see what his thoughts were."
 
 "We're taught that God loves all His children,” Christian said.  “If he were to create a certain race or sexual orientation or gender that was inferior to another, then God would cease to be God.  He has to have some sort of plan for those in your situation."
 
-"That's the thing that I don't really understand yet,” I said.  “It seems like the plan of salvation that we taught it as missionaries is advantageous to straight people.  Of course it's easy for straight people to say that it's for everyone because it's natural for them to find a romantic interest and love for someone of the opposite gender.  But one of the biggest things I've learned on the mission is that keeping the commandments isn't just about merely doing them.  It's definitely a starting point.  But you have to feel it too.  It has to be something you have a desire from the core.  I mean, a sealing is merely a ceremony.  Anyone can mechanically go through the motions of a sealing as long as it's between a man and a woman, right?  But marriage is so much deeper than a ceremony.  That's what I've found out from dating guys.  I've never been romantically interested in dating girls.  I didn't even know what it meant to be 'romantically interested' until I started dating guys."
+"That's the thing that I don't really understand yet,” I said.  “It seems like the plan of salvation that we taught it as missionaries is advantageous to straight people.  Of course it's easy for straight people to say that it's for everyone because it's natural for them to find a romantic interest and love for someone of the opposite gender.  But one of the biggest things I've learned on the mission is that keeping the commandments isn't just about merely doing them.  It's definitely a starting point.  But you have to feel it too.  It has to be a desire from the core.  I mean, a sealing is merely a ceremony.  Anyone can mechanically go through the motions of a sealing as long as it's between a man and a woman, right?  But marriage is so much deeper than a ceremony.  That's what I've found out from dating guys.  I've never been romantically interested in dating girls.  I didn't even know what it meant to be 'romantically interested' until I started dating guys."
 
 "Hey, I think it's really good that you've decided to explore this side of you,” Christian said.  “If you hadn't had a knowledge of what romantic love was, life would be pretty hollow.”
+
  "I think it's just frustrating that there aren't answers for people in my situation.  I don't think the prophets have really tried to empathize with our situation.  They talk ABOUT us.  But they rarely ever talk TO us.  And that's why I can empathize with gay members who leave the Church because what's the point of following the gospel and having a hope in the plan of salvation if exaltation isn't achievable for us, even if we mechanically marry a woman?"
 
-I also talked to them about my dates with Sam.  "The thing that I'm scared of is that he told me that ever since he's been exploring his sexuality, his faith has been non-existent.  And I think it's sad that people think that they have to choose between their faith or their sexuality and leave the other one behind."
+I also talked to them about my dates with Sam.  "The thing that I'm scared of is that he told me that ever since he's been dating guys, his faith has been non-existent.  And I think it's sad that people think that they have to choose between their faith or their sexuality and leave the other one behind."
 
 "Well, you can talk to him about your expectations with faith and see what his expectations are,” Christian said.  “Then you can see if you want to pursue something or not."
 
@@ -907,7 +910,7 @@ I also talked to them about my dates with Sam.  "The thing that I'm scared of is
 
 "Yeah, she definitely knows what actually happened."
 
-"But she didn't say anything or give me a look.  Not even my sister or my brother-in-law said anything."
+"But she didn't say anything or give me a look.  Not even my sister or brother-in-law said anything."
 
 "I think it's more out of respect,” Gyuna said.  “But your sister and brother-in-law are so young!  Of course they know what a hickey is!  It sounds like your family isn't very expressive, but they definitely know.  I can't believe how clumsy you are!"
 

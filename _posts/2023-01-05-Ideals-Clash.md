@@ -366,7 +366,7 @@ I had to go to the bathroom to take another dump.  Just breathe in!  And breathe
 
 I walked to the Kimball Tower and nervously waited inside.  After a few texts, Kent found me.  I just needed to relax.  It was time for another date.
 
-## Section 3
+...
 
 “How was your day, Michael?” Kent greeted.
 
@@ -859,9 +859,13 @@ After some walking, I thought, “You know what, what if we took some pictures r
 So we took some pictures.  And Gyuna took a video of me explaining how heartbroken I felt.  She didn’t send that video to me though.  “I’m going to send it a year from now so that you can see how you felt,” she said.  (She better show me that video in November.)
 
 **_All smiles_**
+
 ![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/Happy%20Pic.jpg)
 
+.
+
 **_How I actually felt (I could tell Gyuna was trying to be a good sport lol)_**
+
 ![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/How%20I%20Actually%20Felt%20Pic.jpg)
 
 “Do you know Lady Gaga?” Gyuna asked.

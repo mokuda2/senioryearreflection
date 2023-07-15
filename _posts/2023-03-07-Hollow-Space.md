@@ -76,7 +76,7 @@ After a bit of studying, I saw that she was about to take a selfie with me.
 
 So she did and posted it on her story.
 
-(Picture)
+![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/blob/main/assets/images/First-Week-of-the-Fall-Semester.jpg)
 
 And then on Friday after class…
 

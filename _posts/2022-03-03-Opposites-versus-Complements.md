@@ -22,7 +22,7 @@ Part 2: Fall 2022
 
 ## Section 1
 
-January 10, 2023.  It was the beginning of another semester.  On Mondays, Wednesdays, and Fridays, I had STAT 340 (a probability theory class) and CS 236 (mathematical theory concepts with programming).  Then on Tuesdays and Thursdays, I had STAT 386 (data science process) and STAT 251 (Bayesian statistics).
+January 10, 2023.  It was the beginning of another semester.
 
 I had a date set up with a guy named Dylan today.  He was the first femme-appearing guy I went on a date with.  He wore pink sweatpants and a beige scarf with a cardigan.
 

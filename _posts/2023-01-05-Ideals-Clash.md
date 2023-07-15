@@ -33,93 +33,168 @@ November 8, 2022.  “Hey, Michael!” Kent greeted.  He sounded as if I was one
 Shoot.  I was NOT expecting that.  Even though it was probably just a friendly hug, I felt SO vulnerable being hugged by a guy in front of a bunch of people.  I also saw his friend.  Thankfully, I didn’t recognize her.
 
 I settled in an empty seat next to Kent and tried my best to remain calm.  Thankfully, he made me feel comfortable talking to me and including me in conversations with his friend.
-“You said you served in San Diego?” I asked Kent’s friend.  Her name was Hannah.
+
+“You said you served in San Diego?” I asked Kent’s friend.
+
 “Yeah,” she answered.
+
 “Did you know an Hermana Frederich?”
+
 “Actually, yeah!  She was my trainer!”
+
 “What?!  No way!  I lived in the same stake as her in Kentucky.  She and I were really good friends in high school.”
+
 “Wait, were you at her birthday party?” she asked.
+
 “Yeah, I was!”
+
 “Okay, I was there too!”
+
 “You actually do look vaguely familiar.  That’s crazy.”
+
 “Yes, Carli is so amazing!”
-After about half an hour, Hannah left to go to a choir rehearsal.
+
+After about half an hour, Kent's friend left to go to a choir rehearsal.
+
 “Thanks for being so flexible,” Kent said.  “I know it was probably awkward to have someone else there.  Sorry if I made you feel uncomfortable.  Also, sorry that I look like this.”  He stroked his chin and cheeks.  “I haven’t shaved in a while.”
+
 “No worries,” I said.  “It’s good to get to know new people.”
+
 “You were really nice to her.  Don’t think I was trying to judge or test you, but it’s something that I observe in people.  But how has school been?”
+
 “Pretty busy, but it’s been good.  I’ve got a midterm coming up in one of my stat classes.”
+
 “Oh yeah, you’re studying statistics.  You seem smart.”
+
 “Thanks.  You said you want to become a doctor?”
+
 “Yep!  I’m hoping to graduate in August next year and maybe do a year of work before I go to medical school.”
+
 “You seem pretty smart too,” I said.  “I liked science in high school, but biology and chemistry classes here sound terrible.  I used to study at the LSB all the time, and I’d sometimes listen to people studying for their biology or chemistry test.”
+
 “It’s a lot of studying for sure, but it’s not too bad.  Most biology and chemistry classes have a 75-percent weight on just tests, so if you don’t do well on a test, then it really affects your overall grade.  So far, I’m not doing too hot in my biochemistry class, but if I can do well on this next midterm, then maybe I could bump my grade up to an A-.  I had a 4.0 in high school, so when I came here to BYU, I realized how hard it was to maintain a 4.0.  I guess the Spanish classes I’m taking aren’t hard to get A’s in, so my GPA is still high, even with a few A-’s and a B+.”
+
 “Yeah, I made an A- my first semester, so I ruined my 4.0 then.  But I still have yet to make a B+ in a class, so I guess I have that to look forward to.”
+
 “So what would you say is your type of humor?” Kent asked.
+
 Type of humor?  I wasn’t sure if there was a category of things that made me laugh.  “I don’t know,” I answered.  I felt dumb.  It sounded like I didn’t laugh about anything.  “I’d say inside jokes.”
+
 “What about memes?  Do you like memes?”
+
 “Yeah, I like memes.”
+
 “Okay, good, I LOVE memes.  I live off of them.”
+
 “Would you consider yourself an introvert or an extrovert?” I asked.
+
 “I’ve become a bit more introverted.  In high school, I was more outgoing, but with the pandemic and stuff, I’ve definitely become more introverted.  What about you?”
+
 “I’d say I’m more of an introvert, though I don’t like being by myself for too long.  I like studying where there are other people around me.  I’m definitely more of a one-on-one person, but I’m pretty quiet in group settings.”
+
 “Yeah, I’m pretty quiet in groups too.  Sometimes family reunions can be crazy.  Sometimes I’ll just walk up and leave in the middle of it without saying bye if I’m not feeling it.”
+
 “That’s actually so relatable.  I usually leave activities if I don’t find it to be a productive use of my time.”
+
 Kent and I talked for about a couple hours.  I began to feel a lot more comfortable.  It actually felt natural to hold a conversation, and he kept it going, which I liked.  “So how long have you been out?” he asked in a lower voice.
+
 “I actually haven’t come out to anyone,” I answered, also lowering my voice.
+
 “You haven’t come out to ANYONE?!”  He sounded so surprised.  “That must be so hard!”
+
 I shrugged.  “I guess I won’t know how hard it will be until I tell someone.”
+
 “I guess that’s true.  Have you ever thought about coming out to your family or to your friends?”
+
 I actually wasn’t sure.  Coming out to someone wasn’t on my mind that much.  “I guess it kind of depends on if I really want to date guys.  You’re actually the first person I’ve met in person from dating apps.  If I have good experiences from it, then I’ll continue, but if not, then I can just act like I don’t have these feelings at all.”
+
 “Well, hopefully I don’t make you run away.  I can be a bit crazy sometimes.  But dang!  I can’t believe you haven’t told anyone!  It’s so interesting because at least with dating, I was in your shoes about a year ago.  I had come out to my parents as a teenager, but I still dated girls.  But after coming back from my mission, I sort of had a crisis.  I have lots of friends who are girls, but when I’d date girls, I just didn’t feel anything.  I don’t know how descriptive you want me to be, but I’d try to make out with girls, but I still didn’t feel anything.  Dating guys feels so much different from dating girls.”
+
 “I still do have a lot of fears about dating guys.  I mean, it’s BYU, first of all.  But I’m also scared if I’m dating a guy that I’ll randomly come across someone I know.  It’s scary.”
+
 “Yeah, I get that.  It is scary.  But I think you’ll find that you’ll receive a lot more support from people than you think.  I told my roommates that I was gay, and we all kind of laughed about it and moved on.  I also have a relative who used to talk about how ‘those gay liberals were always messing everything up,’ but when he found out that I was gay, he seems more respectful now and doesn’t say anything shallow like that, at least around me.  Also, when I told my mom that I made out with a guy for the first time, she was like, ‘Oh my gosh!  I lost my son!’  And I was like, ‘Mom.  I’m still here.’  Sometimes it takes a bit of explaining and understanding, but most people have been supportive.”
+
 “What are you hoping to get from dating guys?” I asked.
+
 “I definitely see myself getting married at some point.  I don’t want to remain celibate for the rest of my life.  I want to raise a family with kids.  What about you?”
+
 I still found it difficult to find the words to express my feelings.  I had never talked or even written about what I had felt.  “I’m not entirely sure,” I answered.  “I think marrying a guy would be a possibility.  But… I don’t know.  I don’t know what I’d do about the Church or what my family would think.  Last school year, I didn’t really have any friends, so I thought I’d live to be single for the rest of my life.”
+
 “Aww, that’s really sad!” Kent exclaimed.
+
 “But one of my friends from the mission transferred to BYU-Provo this semester, and she’s been such a good friend to me.  I think I realized then that I can’t be alone for the rest of my life.”
 “Do you hang out with your friend a lot?”
+
 “Yeah, she and I hang out almost every day.  Her name is Gyuna.  She’s from Korea.  She and I usually try to study together, but we end up having really long conversations and get pretty distracted.”
+
 “I think that’s typical.  I mean, if you’re around your friends, you’re bound to talk to them.  But she sounds like a good friend!  She could possibly be someone you come out to.”
+
 Maybe she would be a good person to tell this about.  I wasn’t exactly sure what she’d help me with, but I knew that it would probably manifest itself at some point, especially if I was going to continue dating guys.
+
 “Well, I’m going to get a drink of water,” Kent said after some more conversation.  “Do you want water too?”
+
 “I think I’m good,” I replied.
+
 “You’re probably like, ‘This guy talks way too much.’  I’ve probably distracted you from studying for your midterm, haven’t I?”
+
 “Oh no, you’re good!  It’s good getting to know you in person.”
+
 While Kent was gone, I checked my phone to see that I had gotten a reply from Connor.  I had asked him a couple days ago what his week looked like, and it sounded like he was going to be busy with a test and some projects.  I wasn’t sure if he was going to be available this week, but I asked him if he wanted to go on a date.  Maybe he was saying he was busy because he didn’t want to go on a date with me, but I hoped that at least he and I could be… friends or allies?  I wasn’t sure what the word was, but I didn’t want to burn bridges with guys in our tiny pool.  I felt like a divide within the gay community would’ve been extremely detrimental, especially at BYU.
 
-Connor: Michael, I think I am actually going to say no to a date. There’s a lot going on in my life and I think I need to focus on myself for a bit before I get back into dating. I hope you understand. You seem like a really great person so it’s nothing about you. Yes of course we can be friends. I know that beginning to come out to yourself and dating can be a lot so just know I’m here if you need someone to talk to.
+```Connor: Michael, I think I am actually going to say no to a date. There’s a lot going on in my life and I think I need to focus on myself for a bit before I get back into dating. I hope you understand. You seem like a really great person so it’s nothing about you. Yes of course we can be friends. I know that beginning to come out to yourself and dating can be a lot so just know I’m here if you need someone to talk to.```
 
 Well, it was a bit of a bummer.  But at least he was being honest.  Maybe that was why it took him a couple days to respond back to me.  I honestly didn’t understand what he meant when he said he needed to focus on himself before getting back into dating, but maybe I’d walk that same path as well.  I had no right to judge.
 
 Me: Hey, thanks for being honest. I think honesty is super attractive ;) I hope that whatever’s happening in your life turns out to be the best for you!
 
 After a few minutes, Kent came back.  I had my STAT 330 notes out to study, but I had such a hard time focusing.  Even though I felt more comfortable talking to Kent, I still felt butterflies in my stomach.  It was so weird that I felt this way.
+
 “So you said you’ve been dating guys for about a year,” I said.  “Have you ever been in a relationship?”
+
 “I have with one guy,” Kent said.  “But it only lasted for three or four months.  Guys can sometimes be the worst.  He’s not a bad person, but as we got to know each other more, our personalities were pretty different.  Our relationship got kind of toxic.  I didn’t go on dates over the summer, and I guess I got sad, so that’s why I downloaded dating apps again.  Have you ever been in a relationship with any girls?”
+
 “I haven’t,” I answered.  “I’ve never been interested in dating girls.  I went on ‘dates’ in high school.  Honestly, I don’t really even know what a date is or what it’s supposed to feel like, but ever since I’ve seen straight people in relationships here at BYU, it’s something I’ve never wanted.  Even thinking about holding a girl’s hand kinda disgusts me.  But I’ve always suppressed these feelings I’ve had for guys.  I can be pretty stoic, and I’d try not to express my feelings.  That was kind of how I was in high school.  I did a year at BYU before my mission, and I’d always make the excuse not to go on a date by saying that I was going on a mission.  I don’t think anyone was interested in going on a date with me anyway, which I guess was a good thing.  Thinking back, if I did have feelings for a guy, the way I’d try to suppress them was to live in denial of those feelings or to tell myself that I felt ‘good’ around them.  But I’ve learned that I can’t run away from my own shadow.  These feelings have always shown up from time to time, and I’ve never had those kinds of feelings for girls.  That’s been my reality.”
+
 “Yeah, I think everyone tries to live in denial at some point.  It’s hard.  When I was in a relationship, my ex and I hadn’t come out to many of our friends, so we had to keep things pretty hidden.”
+
 “Is he a BYU student?” I asked.
+
 “Yeah.  He’s doing an internship in Washington DC right now though.”  He continued, “So tell me more about your Gyuna!  What do you like about her?  What kinds of stuff do you do together?”
+
 “Well, we have a CS class together, so we usually work on the labs together.  She makes good food, so she’ll sometimes invite me over to have dinner with her.  On the weekends, she sometimes goes to Rexburg to meet her boyfriend, and he sometimes comes down here to Provo.  The three of us usually hang out over the weekends together.  I think she’s been a really good friend to me because she talks to me.  I don’t feel like a lot of people are like that to me.  I’d say my love language is when people talk to me, and she’s good at that.”
+
 “When I get comfortable around people, I’m a very touchy person.”  I thought about how Gyuna’s love language was physical touch as well.  But unlike how cringy I thought it was that Gyuna would touch me, I didn’t think I’d mind Kent being touchy.  He was really nice, he seemed smart, and I felt like I vibed with him.
+
 Wait.  I felt like I wouldn’t mind if Kent was touchy?  Where did that feeling come from?
 “But it really does sound like you and Gyuna are tight,” Kent continued.  “I think she’d be a great person to talk to.  And I’m here as well if you need to talk.  I know it can be hard.  It’s definitely a journey.”
+
 Kent and I had been at the library for about four hours, at which point I needed to leave to attend a data science leadership meeting.  “Well, I think I’ll need to go,” I said.  “It’s a Zoom meeting, but I think I’ll chill in the Talmage since that’s where we usually meet.”
 “No worries!  It was really nice to meet you!”
+
 “Do you want to plan something to do later?”
+
 “Sure!  I could do Friday night if you’re available.”
+
 “Yeah, that sounds good.”
+
 “I’ve got a movie that I need to watch for my Spanish class at the Kimball Tower.  It’s at 5.  So we could get something to eat at 6:30 if you want.  Or if you want to watch the movie with me, we can do that too.”
+
 “I’d be down to watch the movie,” I said.
+
 “Okay cool, let’s shoot for Friday at 5 then.”
+
 I put it in my calendar.
+
 “Well, it was nice to meet you, Michael,” Kent said.  He stood up and gave me another hug.  This time, I didn’t feel as stunned, so I actually gave him a hug back.
+
 “Nice, to meet you too, Kent!”
+
 As I headed over to the Talmage building, I got a text from him:
 
 ```Kent: Super fun to meet you Michael! You’re way nice and I’m glad we got to study together.```
+
 ```Me: Good to meet you too Kent! Honestly kinda had butterflies the entire time, so it was hard to study lol. And I think you still look good even without shaving ;) I kinda felt awkward to say that in public lol```
+
 ```Kent: Haha, thanks man. You’re pretty cute yourself ;). Yeah, sorry I wasn’t studying very well either.```
 
 I didn’t think he looked as cute as Connor, but as I got to know Kent and his personality, I really liked him!  And it sounded like he liked me as well!  Wow, I didn’t realize that my body could feel the way it did.  Talk about hormones.
@@ -155,18 +230,31 @@ It was a bit of an awkward conversation.  From the start, I definitely didn’t 
 “Yeah, I’m a member, but I haven’t told anyone.”
 
 “Wow, that must be hard.”
+
 “The first I guy I went on a date with said the same thing, but I guess I won’t know how hard this life is until I tell someone.”
+
 “Well, it’s the beginning of a new journey for sure.  And it’ll be tough.  I can tell you that.”  He continued, “So how open are you when it comes to talking about the Church?”
+
 “I’m an active member,” I answered.  I thought it was an odd question, but I realized that there were probably many gay people who didn’t like the Church.
+
 Chris talked about the Family Proclamation and how people thought it was rather random and straightforward that marriage should be between a man and a woman and that children should be raised in a nurturing environment.  He told me that Hawaii had been talking about legalizing gay marriage around the time that the Family Proclamation was written.  It was something that the First Presidency wanted to address, as gay marriage was an extremely exotic and taboo thing in its time.  I guess it was an interesting… theory.  “I’ve talked to my bishop about my feelings,” Chris continued.  “I’ve pondered a lot about my feelings for guys and have prayed for answers about what I should do about them, and I feel like I’ve gotten an answer to pursue a relationship with a guy.  I think heterosexual couples have the same kinds of feelings for the opposite gender as the feelings that homosexual couples have for each other.  I asked my bishop why the Church doesn’t allow gay couples to be sealed in the temple, and he said he can’t do anything about that because the First Presidency says that sealings can only be between a man and a woman.  I just pray that the First Presidency will actually take time to think and to pray about people who are in similar situations as ours.”  He talked for about 20 minutes, at which point I had finished my food.  I saw that he barely touched his.
+
 “Are you finished with your food?” I asked.  It looked like he was going to get up to pay.
+
 “Yeah,” he answered.  “I mean, it was pretty good, but I guess all that talking didn’t make me hungry anymore.”
+
 He and I planned on going to BYU’s Museum of Art, but it was closed by the time we got there.  Instead, we got apple pies from McDonald’s and ate in the parking lot.
+
 “So do you think you’d tell your family sometime soon?” Chris asked.
+
 “Maybe,” I answered.  “I do want to be in a long-term relationship with someone, and I definitely don’t want to try to hide that part of my life from them.  That would be extremely painful for me to do.”
+
 “Why did you want to go on a date with me?  I mean, I’m considerably older than you.”
+
 “I’m trying to be open with my options.  I want to date different guys to see what qualities I like.”
+
 I could tell Chris was trying to hold back from saying something.  “I want to give you advice, but I know that it’s your life.  But if I were in your shoes, I’d tell your family.  Or tell at least someone you’re close to.  This kind of life is not easy to do by yourself.  I don’t know your parents, but at least being a parent of three kids, I’d hope your parents would still accept you.  These feelings have been with you, no matter if your parents had a knowledge of them or not.  They may be initially shocked to hear it, but hopefully they’ll even say something like, ‘You’re still my son,’ you know.”
+
 After some conversation, he dropped me off at my apartment.  I didn’t feel like I vibed with him, not like I did with Kent.  I definitely felt like Chris was in a different stage of his life.  It was probably why people pursued others who were closer in age.  I did get a text from Chris a couple weeks later that he was pursuing a relationship with someone else and that he wouldn’t text me again.  I didn’t feel like I would’ve wanted to pursue a relationship with him anyway, but I didn’t think it was thoughtful of him to just block me from his life.  Again, there weren’t many people in the gay community, and I felt like a united community was what would help bring understanding to others.
 
 ...
@@ -354,23 +442,41 @@ I also saw Deanna!  I was surprised since I didn’t know about the baby shower 
 “I haven’t,” I answered.  I sort of forgot that was a thing.
 
 “Well, my challenge to you is to drink one before we come here for Christmas.  Otherwise, I’ll buy you a bunch of cookies ‘n cream milk, and you’ll have to drink it all.”
+
 After a short visit with Shari and Deanna, I headed out to go pick up Hyeji.  She was only a couple minutes away from where Shari and David lived, so I picked her up there.
+
 “How was the test?” I asked when she got into the car.
+
 “It was bad,” she answered.  “I didn’t pass, so I’ll probably take it again in January.”
+
 Gyuna was down in Provo at Deseret Industries, so I picked her up there before we went off to Feast Buffet in the northern part of Orem.  It was about a 15-minute drive, and Gyuna and Hyeji spoke to each other in Korean for most of the time.  It was entertaining to hear them talk to each other.  It seemed like they felt comfortable talking.
+
 Feast Buffet was pretty cheap for a buffet of its type, but it was pretty good.  I ate only one slice of David’s pizza so that I wouldn’t get too full, but I guess it was still too much.  I didn’t eat as much as I had hoped.
+
 “Eat some more!” Hyeji exclaimed after my second plate.
+
 “I’m honestly pretty full,” I said.
+
 “Really?  You get a bunch of chow mein?  You get the cheap stuff?” Gyuna said.  “So picky.  You’re just eating more pasta!”
+
 “Chow mein is good,” I said with a mouthful of it.
+
 “So you said that you knew Gyuna from your mission?” Hyeji asked.
+
 “Yeah, we served in Seattle,” I answered.  “I was serving in the Korean branch there when she came into the mission.”
+
 “Wow, that’s cool!  I’m actually not a member.  I’ve taken the discussions before, but I always feel a lot of pressure from the missionaries, so I’ve not met them anymore.”
+
 “Yeah, you definitely shouldn’t feel pressured to do anything,” I said.
+
 “So out of all places, how did you find BYU?” Gyuna asked.
+
 “I just typed ‘cheapest colleges in the US,’ and BYU was at the top,” Hyeji answered.  “And even though I’m not a member, it’s still pretty cheap.  But leaving Korea was really hard.  I literally cried on my way to the airplane.”
+
 “I TOTALLY know what that feels like,” Gyuna said.  “I went to BYU-Idaho for college before coming down here, and when I flew to the US, I was so scared and cried too.”
+
 “I came to the US when COVID was still pretty bad, and I heard a lot about the ‘stop Asian hate’ movement here.  It was really scary.  I didn’t know if I’d be safe living here.”
+
 Gyuna, Hyeji, and I were in the restaurant for about three hours just eating and talking.  Afterwards, I dropped them off.  What they didn’t know was that I had plans for tonight: another date.
 
 ...
@@ -433,35 +539,65 @@ Afterwards, Gyuna and I went to her place.  She planned on cooking for a bunch o
 Ever since Kent and I had that conversation at the library about coming out to someone, I thought a lot about Gyuna.  And when I went to Gyuna’s place before my date just a couple days ago, I felt strongly impressed to come out to her.  It kept coming to mind.  But I was SO scared!
 
 It was even weirder that Gyuna had brought up about my fake future wife.  I didn’t know how to come out to her.  “Uh…” I said.
+
 “What?”
+
 I sighed.
+
 “What??  You look like something’s on your mind.”
+
 My heart raced.  “Yeah,” I nervously chuckled.
+
 “Are you going to tell me?”
+
 “I will.”
+
 “When?  Like, in a week?  Or right now?  Do you have to think about what you’re going to say?”
+
 “Yeah, I just need to think about how to say it,” I said.
+
 Gyuna continued to chop some vegetables.  “I’m just saying, once you get yourself a girl you’ll fall in love with, you’ll understand.”
+
 For five minutes, my heart was racing like crazy.  I just needed to open my mouth and say it!  “So…”
+
 Gyuna continued chopping.  “Huh?” she asked as if I had said something more.
+
 I sighed and squirmed.  Why couldn’t I do it?!
+
 “So… I actually like guys.”
+
 It was silent for about three seconds.  With a surprised expression on her face, Gyuna stopped chopping and looked up at me.  The tense silence felt like FOREVER.  “What?” she asked as if she had misheard me.
+
 “I like guys,” I repeated.  I was SO nervous.
+
 “Aw, Michael.” She put down her knife.  “I think I should give you hug.”  She walked over and gave me a long hug.  And it was one of the few times when I didn’t mind that she touched me.
+
 “I’ve been so scared,” I said as she and I continued to hug.  “I’ve wanted to tell you this, but I was so scared.  You’re the first person I’ve come out to.  Literally I haven’t told anyone else.”
-“Really?!” Gyuna sounded surprised.  “I feel so honored!  I can’t believe that after all of the days of class I’ve missed and all of the help I’ve needed on our data science labs that I’d be the first one to know something so personal like this.  No one has ever come out to me.  So it’s my first too!”
+
+“Really?!” Gyuna sounded surprised.  “I feel so honored!  I can’t believe that after all the days of class I’ve missed and all the help I’ve needed on our data science labs that I’d be the first one to know something so personal like this.  No one has ever come out to me.  So it’s my first too!”
+
 “It’s my first, and it’s your first.  It’s our first!”
+
 Gyuna and I laughed.  “Sounds weird, but yeah,” she said.  “Oh, Michael!  Your lips are twitching so much.  And your fingers!”
+
 “I know, I’m so freaking nervous!  I’ve had these feelings for guys for a long time, but I’ve always suppressed them.  After my mission, I thought I was going to live single for the rest of my life.”
+
 “Aww, Michael!  That’s really sad!” Gyuna exclaimed.
+
 “When I got my internship offer at AT&T, I thought that if I liked the job and received a full-time offer that I’d move to Dallas and work and then do whatever at home by myself.  But I’ve realized that I can’t live a life like that forever.  It would be so hard, maybe even impossible.  I know that faith and feelings can seem like polar opposites, but I don’t feel like it’s a black-and-white thing where I can choose only one and leave the other behind.  I don’t plan on leaving the Church until the Church kicks me out.  The thing that’s hard for me is why God would allow people to have feelings for the same gender.  It’s not something that I have any control over.”
+
 “Well, why does God allow someone to murder someone else?”  I guess Gyuna was trying to show compassion, although I didn’t feel like her analogy was at the same level.  “Love is such a core part of one’s identity.  It’s definitely a difficult situation when it comes to feelings of love.”
+
 Gyuna and I sat on the couch and talked for an hour.  I talked to her about how I had been using dating apps and had been on a few dates.  I also talked to her about how much I liked Kent and my date with him.
+
 After our conversation, Gyuna went back to cooking.  I knew I took up a lot of her time, and the people she had invited were coming soon.  “Could I help you?” I asked.
+
 “Yes, please!” she answered.  So we made food together as her friends came by.
+
 After I finished eating, I had plans to go to campus since Hyeji said she wanted to study with me.  As I left, Gyuna walked me out.  “Be safe!” she exclaimed.
+
 “I will!  I’ll see you later!”
+
 Coming out to Gyuna was one of the hardest things I did the past school year.  But a feeling of relief came over me.  I remembered Kent and Chris telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders.  I wouldn’t realize until later how much harder things would’ve been if I hadn’t come out to her.
 
 ## Section 5
@@ -621,7 +757,7 @@ I tried to fall asleep, but the emotional and physical pain were so sharp.  I co
 
 ```Me: I can’t fall asleep. I’m really, really sad. Why can’t he like me back?```
 
-```Gyuna:	 Hey there’s nothing wrong with you as he said! U r an amazing guy, but we don’t have power over somebody’s feelings or forcing them. Maybe he is just not ready for you right now maybe it’s something else, and if you keep on thinking, you will only go into the rabbit hole. If he is right for you, it will happen at the right time. If not, you will find someone who you will like so much and love! You are stellar and you will be happy and find love in your own time, another stellar one just for you. I love you babe stay strong!```
+```Gyuna: Hey there’s nothing wrong with you as he said! U r an amazing guy, but we don’t have power over somebody’s feelings or forcing them. Maybe he is just not ready for you right now maybe it’s something else, and if you keep on thinking, you will only go into the rabbit hole. If he is right for you, it will happen at the right time. If not, you will find someone who you will like so much and love! You are stellar and you will be happy and find love in your own time, another stellar one just for you. I love you babe stay strong!```
 
 ```Me: I’ve just been crying all night. I literally feel like such a teenager. I just wish he’d like me!!```
 
@@ -637,8 +773,7 @@ I didn’t get her last text until the following morning.  I felt like absolute 
 
 Gyuna had sent three songs, all of which had to do with love.  Those kinds of songs never made sense to me in the past, but as I really listened to the lyrics, I felt like I could actually relate to them.  What I used to find unrelatable and disgusting actually RESONATED with me!  Did other people go through these emotions too?
 
-(Here is one song that Gyuna sent me: “Like I Can” by Sam Smith)
-
+**_Here is one song that Gyuna sent me: “Like I Can” by Sam Smith._**
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7AjKWWk0KDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ```(Source: https://www.youtube.com/watch?v=7AjKWWk0KDQ)```
@@ -723,7 +858,11 @@ After some walking, I thought, “You know what, what if we took some pictures r
 
 So we took some pictures.  And Gyuna took a video of me explaining how heartbroken I felt.  She didn’t send that video to me though.  “I’m going to send it a year from now so that you can see how you felt,” she said.  (She better show me that video in November.)
 
-(Pictures)
+**_All smiles_**
+![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/Happy%20Pic.jpg)
+
+**_How I actually felt (I could tell Gyuna was trying to be a good sport lol)_**
+![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/How%20I%20Actually%20Felt%20Pic.jpg)
 
 “Do you know Lady Gaga?” Gyuna asked.
 
@@ -1022,17 +1161,22 @@ In the middle of the game night, I got a text from Tate asking me if I had time 
 
 After our conversation, I was curious to see what he had posted on his social media, so I may or may not have Facebook stalked him.  I saw a blog post he wrote about his experiences, and it was unbelievably relatable, especially about living in the darkness of denial.  I also found it super attractive that he still went to church and attended activities.  I couldn’t believe there were cute guys like that!  I had texted some guys that said they had left the Church, and it was sad to hear.  Understandable, but still sad.  (I’ll talk more about that in the next chapter.)
 
-I was still skeptical about my feelings though.  I was still trying to get over my feelings for Kent, and I wasn’t sure if a date would’ve happened with Tate anyway.  He lived up in Logan, which was about two and a half hours away from Provo.  And I wasn’t sure how interested he was after video calling me.  Nonetheless, I still thought he had a great story to share.  (Here is his blog post: Hearts That Know and Feel.  I think it’s great to get more than one person’s perspective on the topics of sexuality and the Church.  https://medium.com/@parker.goldsberry/hearts-that-know-and-feel-7f89b419536d)
+I was still skeptical about my feelings though.  I was still trying to get over my feelings for Kent, and I wasn’t sure if a date would’ve happened with Tate anyway.  He lived up in Logan, which was about two and a half hours away from Provo.  And I wasn’t sure how interested he was after video calling me.  Nonetheless, I still thought he had a great [story](https://www.parksnrec.dev/hearts/?fbclid=IwAR3efca_6sGdj0KeCS-B21xz7yT0jOzmkYTztOMUG-1mPONgCNDAdVbMJi8) to share.  (I think it’s great to get more than one person’s perspective on the topics of sexuality and the Church.)
 
 ...
 
 November 30, 2022.  I had a first date tonight with a guy named Trevor.  He and I ate at a restaurant called Saida.  He was from a small town in the middle of Utah and worked at a credit union.  "It's been a great place to work,” he said in the middle of our conversation.  “I wouldn't say that I'd want to work there forever, but I've had positive experiences in the workplace.  When I first met my manager, I told her that I was gay.  She reacted so positively to it.  She's my boss, my second mom, and my therapist.  She's worked there for over 30 years, so I guess she has some of her own experiences.  I guess people can have opinions about a working mom when she had young kids, so she could somewhat understand my situation.  She's really strong in the Church, but she’s been so supportive of me.  I even told her that I was going on a date tonight, and she says she wants to hear all about it tomorrow."
 
 I smiled.  “I’ve only come out to my best friend.  It’s been less than a month since I’ve started dating.  I’ve thought a lot about coming out to my family, but it hasn’t felt right.  Have you come out to your family?”
+
 "I told my parents and then eventually my siblings.  My mom—bless her heart.  She cried when I told her.  She didn't cry because I was gay but because I had been holding back and suffering in silence for such a long time."
+
 "Even just six months ago, I thought that I would live a life by myself, and I thought that I'd get my degree, find a job, and find a way to settle and to work every day of my life without much of a life outside of it."
+
 "I’ve had those kinds of thoughts too.  They were definitely a low point in my life.  I don't mean to make our first date somber, but years ago, I got into a really bad car accident, and I wasn't sure if I'd make it.  There was one fatality from that accident.  And after that experience, if I had died, no one would've known me for who I was.  And that was when I knew that I couldn't just keep this part of me to myself.  I needed to let people know."
+
 "I'm honestly not sure how my family would react, especially my parents.  They're not really expressive.  I just remember when my brother was starting college that my parents tried pushing him to start dating, but he wasn't interested at the time.  My parents aren't as pushy with me, but before they left for Guam, they told me that I should take dating classes, which I wasn't interested in at all.  But now I sort of am.  I had a lot of friends who were girls in high school, so they probably thought, 'He'll be fine.'  I guess jokes on them."
+
 Later that night, Trevor texted me saying that it was nice getting to meet me and that he was down to go on another date next week if I wanted.  I didn’t feel anything romantic, but at least he was nice and didn’t seem creepy.  I was still trying to figure things out with my feelings and wondered if going on a second date would change anything.  Plus, he was one of the few guys who had asked me on a date.  I was usually the one who reached out and asked, mostly because I didn’t like texting.  So I said yes to another date.
 
 ## Section 8

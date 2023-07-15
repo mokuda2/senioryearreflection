@@ -6,40 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="31297d60-b579-48bb-9049-cfc692f98cab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-04-04-The-Color-Red.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-04-04-The-Color-Red.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-01-05-Ideals-Clash.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-01-05-Ideals-Clash.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-03-07-Hollow-Space.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-07-Hollow-Space.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/236 project2 datalogprogram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/artificial-unintelligence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/attack-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/base-stats-total-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/base-stats-total-df.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/base-stats-total-with-frequency-count.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/base-stats-total1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/correlation-matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/defense-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/describe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hp-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hp-df.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/import-seaborn2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iris-dataframe2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/kdeplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/lamb-of-god.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pairplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/parts-of-a-computer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pikachu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pip-install-seaborn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pokeball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/pokemon_data_frame.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/scatterplot-with-hue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/scatterplot-without-hue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/seaborn-collaboration.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/special-attack-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/special-defense-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/speed-barplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/value-counts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/value-counts1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

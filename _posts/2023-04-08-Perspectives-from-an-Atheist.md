@@ -522,7 +522,10 @@ _I also got an email from Carli telling me about a guy she had been dating.  She
 
 August 19, 2022.  At this point, I finished my internship.  I was kind of glad that it was over.  Some days that were boring; sometimes I’d just stare at my laptop screen trying to figure out what I needed to do with the data.  I was sure it would’ve been a different experience if I were to work in person.  But I was glad that the internship was remote since I could spend time with Mom and Dad before they left.
 
-I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building. (Picture)
+I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building.
+
+**_A usual view in the Life Sciences Building_**
+[!Figure]()
 
 ...
 

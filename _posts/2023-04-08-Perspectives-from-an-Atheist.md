@@ -542,8 +542,8 @@ August 19, 2022.  At this point, I finished my internship.  I was kind of glad t
 
 I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building.
 
-**_A usual view in the Life Sciences Building_**
-![Figure](https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/LSB.jpg)
+**_A usual view in the Life Sciences Building_**  
+<img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/LSB.jpg" width="200" />
 
 ...
 
@@ -630,7 +630,7 @@ _Okay wow.  Biggest smh._
 
 _It was nice to have someone over for studying, but I usually got distracted easily because Paige would bring something up, or Troy would keep rambling on and on about his movies and theories.  About an hour later, Paige said, “So I found out that I have an overdue book that I have to return to the library, so I’m thinking about walking to campus to return it.  Do you want to go with me?”_
 
-_It was already past 10:00, and it was about a 20-minute walk from the apartment to the library.  Plus, I had to study for my religion final and was currently trying to type up my eight- to ten-page analytical essay since my professor had talked about getting started on it.  “I’ve gotta study for my religion midterm and finish this paper,” I said._
+_It was already past 10:00, and it was about a 20-minute walk from the apartment to the library.  Plus, I had to study for my religion midterm and was currently trying to type up my eight- to ten-page analytical essay since my professor had talked about getting started on it.  “I’ve gotta study for my religion midterm and finish this paper,” I said._
 
 _“When’s your religion midterm?”_
 

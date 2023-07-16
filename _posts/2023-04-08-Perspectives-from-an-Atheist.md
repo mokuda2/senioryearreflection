@@ -543,7 +543,7 @@ August 19, 2022.  At this point, I finished my internship.  I was kind of glad t
 I also finished my summer term class.  Every day after work, I went to the gym to exercise and then studied at the Life Sciences Building (LSB).  That was my study spot last school year too.  If I had one building that I spent the most time in, it was the LSB, even though I never had a class in that building.
 
 **_A usual view in the Life Sciences Building_**  
-<img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/LSB.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/LSB.jpg" width="400" />
 
 ...
 

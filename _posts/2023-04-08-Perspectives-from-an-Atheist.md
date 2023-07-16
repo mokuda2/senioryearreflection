@@ -4,7 +4,7 @@ title:  Part 1, Summer 2022; Chapter 1, Perspectives from an Atheist
 author: Michael Okuda
 ---
 
-### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (watch with subtitles)
+### 마지막처럼 (“As If It’s Your Last”) by Blackpink with English translation (or watch with subtitles)
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Amq-qlqbjYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ```Source: https://www.youtube.com/watch?v=Amq-qlqbjYA```
@@ -388,29 +388,47 @@ _“Uhhmm, just because…” she said.  “Is your number correct in LDS Tools?
 
 _So that was probably where she tried to access my number.  “I’m not sure,” I said.  “I haven’t checked.”_
 
-“I’ll try calling you.”  Paige then tried to call me, but I didn’t get any ring.  She then looked at her phone, which said that it was calling a number from New Mexico.  “Is this your number?” Paige showed me her phone.  “And did you say you’re from New Mexico?”
-“Oh.  No, that’s my home phone number, but I think we ended up not using it once we moved to Rexburg.”
-“Well, that’s just awkward.  I just texted some random guy in New Mexico, and he was probably like, ‘Who that?’”
-I looked up my information on LDS Tools, which I had to fill out a clipboard with my information at church.  “Hm, yeah, it says my home phone number.”  I decided to change it to my cell number.
-“Okay, gotcha,” Paige said when I told her my actual phone number.
-I also noticed that my apartment number said “19” instead of “3.”  “I think I accidentally put my age instead of my apartment number,” I said.
-“You’re 19?  Oh, baby!”  Paige laughed.  “That’s how old my younger brother is.  And he’s kind of like you too.  He can be quiet sometimes.  When’s your birthday?”
-“June 28.”
-“Oh my gosh, my birthday is only a few days away from yours.  July 1.”
-After a small conversation with Thane about our classes, I told them about how I was taking piano lessons.  “What are you practicing?” Paige asked.
-“I’m doing a Chopin etude and a Rachmaninoff etude,” I answered.
-“Oo, Rachmaninoff.  Yaaaassss.”
-“You like Rachmaninoff?”
-“Yeah, I like playing Rachmaninoff.”
-“You play the piano too?”
-            “She ‘plays’ the piano,” Thane said casually.
-“Thane,” Paige turned around.  “You crackhead.”  She turned to me.  “He jokes about that since I played the piano for church during summer term.  But yeah, I used to take lessons in high school.  What’s the name of the Rachmaninoff piece you’re playing?”
-“I think it’s opus 39, number 6,” I answered.  When she looked it up, I pointed at her phone screen and said, “I watched her play it, and she plays it super fast.  I don’t think I’ll ever be able to play it that fast.”
-After a few minutes, we headed out to go to ward prayer, and I went back to my apartment to do some more homework.  When I checked my phone later that night, I saw that I got a text from Paige.
+_“I’ll try calling you.”  Paige then tried to call me, but I didn’t get any ring.  She then looked at her phone, which said that it was calling a number from New Mexico.  “Is this your number?” Paige showed me her phone.  “And did you say you’re from New Mexico?”_
+
+_“Oh.  No, that’s my home phone number, but I think we ended up not using it once we moved to Rexburg.”_
+
+_“Well, that’s just awkward.  I just texted some random guy in New Mexico, and he was probably like, ‘Who that?’”_
+
+_I looked up my information on LDS Tools, which I had to fill out a clipboard with my information at church.  “Hm, yeah, it says my home phone number.”  I decided to change it to my cell number._
+
+_“Okay, gotcha,” Paige said when I told her my actual phone number._
+
+_I also noticed that my apartment number said “19” instead of “3.”  “I think I accidentally put my age instead of my apartment number,” I said._
+
+_“You’re 19?  Oh, baby!”  Paige laughed.  “That’s how old my younger brother is.  And he’s kind of like you too.  He can be quiet sometimes.  When’s your birthday?”_
+
+_“June 28.”_
+
+_“Oh my gosh, my birthday is only a few days away from yours.  July 1.”_
+
+_After a small conversation with Thane about our classes, I told them about how I was taking piano lessons.  “What are you practicing?” Paige asked._
+
+_“I’m doing a Chopin etude and a Rachmaninoff etude,” I answered._
+
+_“Oo, Rachmaninoff.  Yaaaassss.”_
+
+_“You like Rachmaninoff?”_
+
+_“Yeah, I like playing Rachmaninoff.”_
+
+_“You play the piano too?”_
+
+_“She ‘plays’ the piano,” Thane said casually._
+
+_“Thane,” Paige turned around.  “You crackhead.”  She turned to me.  “He jokes about that since I played the piano for church during summer term.  But yeah, I used to take lessons in high school.  What’s the name of the Rachmaninoff piece you’re playing?”_
+
+_“I think it’s opus 39, number 6,” I answered.  When she looked it up, I pointed at her phone screen and said, “I watched her play it, and she plays it super fast.  I don’t think I’ll ever be able to play it that fast.”_
+
+_After a few minutes, we headed out to go to ward prayer, and I went back to my apartment to do some more homework.  When I checked my phone later that night, I saw that I got a text from Paige._
  
-Paige:  Michael, hey! It’s Paige Firl, you know, the girl in the ward you probably think is a bit crazy, lives in apt 12? Anyways, how has your semester been thus far, school and not school? I really hope your first year is going ok, because I know how hard it can be academically, socially, financially, etc. I just want you to know that I think you’re a wonderful human being who just cracks me up. :) So. If you need anything, literally ANYTHING, please let me know! I have a car and I’d be more than happy to help you by going grocery shopping, other stores, to campus later at night, or even just to go do something outside of the little space here in Provo! Or if you just want to not be in your apartment, mine is always open and I’d be happy to let you chill out, do homework, use our Netflix! I know, at least for me, things can get kind of lonely at the start of something and somewhere new. So if you ever want to talk to someone I’m more than happy to hang out, or even just be another person sitting next to you to keep you company, because let’s be real. Being far away from home is harder than you expect, as exciting as it seems at first, because it still feels hard for me sometimes! So yeah, don’t EVER hesitate to text/call/show up at my door whenever you’re free/stressed/homesick/hungry/need a ride/bored/etc. :)
+```Paige:  Michael, hey! It’s Paige Firl, you know, the girl in the ward you probably think is a bit crazy, lives in apt 12? Anyways, how has your semester been thus far, school and not school? I really hope your first year is going ok, because I know how hard it can be academically, socially, financially, etc. I just want you to know that I think you’re a wonderful human being who just cracks me up. :) So. If you need anything, literally ANYTHING, please let me know! I have a car and I’d be more than happy to help you by going grocery shopping, other stores, to campus later at night, or even just to go do something outside of the little space here in Provo! Or if you just want to not be in your apartment, mine is always open and I’d be happy to let you chill out, do homework, use our Netflix! I know, at least for me, things can get kind of lonely at the start of something and somewhere new. So if you ever want to talk to someone I’m more than happy to hang out, or even just be another person sitting next to you to keep you company, because let’s be real. Being far away from home is harder than you expect, as exciting as it seems at first, because it still feels hard for me sometimes! So yeah, don’t EVER hesitate to text/call/show up at my door whenever you’re free/stressed/homesick/hungry/need a ride/bored/etc. :)```
  
-It was super nice of Paige to reach out to me.  I’d have to get out of my comfort zone and give her a chance; it was my opportunity to make a good friend.
+_It was super nice of Paige to reach out to me.  I’d have to get out of my comfort zone and give her a chance; it was my opportunity to make a good friend._
 
 ## Section 4
 

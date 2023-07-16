@@ -243,10 +243,10 @@ _I didn’t know what losing three children at the same time felt like, but it s
 
 _“Thank you for bringing the Spirit into our home,” Zach said.  After some talk, we said goodbye and drove back to our apartment for the night._
 
-**_(“Gethsemane” by Rob Gardner from The Lamb of God (again, the cello represents Christ))_**
+**_(“Gethsemane” by Rob Gardner from_ The Lamb of God _(again, the cello represents Christ))_**
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-```(Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13) ```
+```(Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13)```
 
 ...
 

@@ -832,3 +832,27 @@ I'm grateful for the experiences and the people I've met this past school year. 
 ---
 
 ## Other Videos and Sites Used Throughout Reflection
+
+**_("Fantaisie Impromptu" by Chopin)_**
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/633gi2nbPOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+```https://www.youtube.com/watch?v=633gi2nbPOU```
+
+**_“Like I Can” by Sam Smith._**
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/7AjKWWk0KDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+```(Source: https://www.youtube.com/watch?v=7AjKWWk0KDQ)```
+
+[Parker Goldsberry's Story](https://www.parksnrec.dev/hearts/?fbclid=IwAR3efca_6sGdj0KeCS-B21xz7yT0jOzmkYTztOMUG-1mPONgCNDAdVbMJi8)
+
+[Connor Berg's Story](https://podcasts.apple.com/us/podcast/episode-416-connor-berg-rm-age-22-gay-latter-day-saint/id1347971725?i=1000523866703)
+
+**_“Gethsemane” by Rob Gardner from_ The Lamb of God**
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sIJbOsfV2io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+```(Source: https://www.youtube.com/watch?v=vEBDuOv6VXw&list=PLG9AmH-JxGol5kXELTa625Q05XVIwbyDR&index=13)```
+
+**_"Let Her Go" by Passenger_**
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UqaApGePWVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+```(Source: https://www.youtube.com/watch?v=UqaApGePWVE)```

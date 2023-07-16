@@ -77,7 +77,7 @@ After a bit of studying, I saw that she was about to take a selfie with me.
 So she did and posted it on her story.
 
 _**With Gyuna at the library**_  
-<img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/First%20Week%20of%20Fall%20Semester.jpg" width=200 />
+<img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/First%20Week%20of%20Fall%20Semester.jpg" width=400 />
 
 And then on Friday after class…
 

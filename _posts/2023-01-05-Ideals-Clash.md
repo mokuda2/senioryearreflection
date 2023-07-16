@@ -271,7 +271,7 @@ Wait.  Was this what people called “romantic feelings”?  I began to question
 
 For the first time in such a long time, I felt SO happy!  Even “happy” didn’t feel like the right word.  It was a weird feeling that I felt this way, but I felt so good inside!  It made me want to be a little kinder, a little more thoughtful.
 
-In STAT 240, I had finished my second midterm.  I sat by a Korean named Hyeji whom I first met at an actuary info session near the beginning of the semester.  She decided to sit by me since then.
+In STAT 240, I had finished my second midterm.  I sat by a Korean named <span style="color:red">Hyeji</span> whom I first met at an actuary info session near the beginning of the semester.  She decided to sit by me since then.
 “How did you do on the midterm?” she asked during class.
 
 “I missed one question,” I answered.  “I’m really surprised.  It wasn’t an easy midterm.”

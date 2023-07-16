@@ -716,7 +716,7 @@ I really did want to be in a long-term relationship.  But now that things were s
 
 …
 
-Even though I had gone on a few dates with Sam, I was still trying to talk to other people on dating apps.  It sounded like Sam was doing the same thing.  I had been texting another guy named Mason for a couple weeks, and he and I decided to get lunch at an Asian restaurant downtown.
+Even though I had gone on a few dates with Sam, I was still trying to talk to other people on dating apps.  It sounded like Sam was doing the same thing.  I had been texting another guy named <span style="color:red">Mason</span> for a couple weeks, and he and I decided to get lunch at an Asian restaurant downtown.
 
 Personality-wise, Mason was almost the complete opposite of Sam.  I could tell that Mason loved talking to people and got his energy that way.  He was probably the most extroverted person I went on a date with.  “One of my friends and I are going on a trip to San Francisco during MLK weekend,” he said.  “It’s pretty spontaneous, but it’s going to be short.  Plus, we found really cheap tickets, so we’re taking our chances.  You can go with us if you want.”
 

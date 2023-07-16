@@ -717,7 +717,8 @@ I wrote a letter:
 
 Even though I still felt invested in Connor, I wanted to keep my word and not put all my eggs in one basket until a committed relationship was established.  I swiped through my dating apps, but I mostly swiped left.  Gyuna was right; I was so invested in Connor!
 
-However, I had been messaging a guy named Bryce for a couple days.  I texted him saying that I was at the library, and he said he was going to be at the library too.  I thought I’d meet with Hyeji tonight, as it had been a while since she and I had hung out, but she said she wasn’t going to be able to make it.  So that was when Bryce and I first met in person.
+However, I had been messaging a guy named <span style="color:red">Bryce</span> for a couple days.
+I texted him saying that I was at the library, and he said he was going to be at the library too.  I thought I’d meet with Hyeji tonight, as it had been a while since she and I had hung out, but she said she wasn’t going to be able to make it.  So that was when Bryce and I first met in person.
 
 Gyuna called me about getting her scholarship application finished, and I told her to come to the library.  "Why can't you come to the study pod in the Talmage?" she asked.
 "I'm with someone right now," I answered.  I wished I knew how to say that in Japanese or Korean, but I couldn't.  "Seloun saram (A new person).”

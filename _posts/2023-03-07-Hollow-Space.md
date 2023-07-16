@@ -475,7 +475,7 @@ I went to work on writing up that letter:
 
 I saw Carli coming downstairs.  I flipped the paper over and hid it with my folder.  "Hey, Michael, what are you studying?" she asked.
 
-"Just some stats," I said as I switched my tab to my STAT 286 homework.  "What are you doing for the weekend?"
+"Just some stats," I said as I switched my tab to my stats homework.  "What are you doing for the weekend?"
 
 "Erika invited me to watch conference with her.  You should come along if you're available tomorrow."
 
@@ -611,14 +611,14 @@ Even though it was great getting to hang out mostly with Gyuna and also Christia
 
 Initially, I got really scared that I was feeling these social withdrawals.  I felt like maybe I needed to break off ties with Gyuna.  I was still skeptical trying to develop connections and relationships with people because who knew when Gyuna and I wouldn’t be friends anymore?  Then what would be the point of all of it?  If I were to break off ties with her now, then maybe I wouldn’t worsen the hurt.
 
-But something made me feel like I shouldn’t give up.  Honestly, I couldn’t imagine what it would’ve been like to have a life like I did last school year: studying at the LSB by myself all day, every day.  Gyuna, Christian, and I had made so many memories.  There was nothing memorable about studying Linux commands or the hypergeometric distribution or the issues of multicollinearity in a regression model other than for midterms and my future career.  Sure, navigating my career path was very important to me, but there was something different about having a social aspect in my life.  It was something that I LIKED, and I was initially scared that I liked feeling that way.  It had been years when I last felt like I had a social life.
+But something made me feel like I shouldn’t give up.  Honestly, I couldn’t imagine what it would’ve been like to have a life like I did last school year: studying at the LSB by myself all day, every day.  Gyuna, Christian, and I had made so many memories.  Nothing was memorable about studying Linux commands or the hypergeometric distribution or the issues of multicollinearity in a regression model other than for exams and my future career.  Sure, navigating my career path was very important to me, but something was different about having a social aspect in my life.  It was something that I LIKED, and I was initially scared that I liked feeling that way.  It had been years when I last felt like I had a social life.
 
 I also noticed Gyuna and Christian’s relationship with each other.  I often wondered why they liked to hug and cuddle and kiss, but they seemed generally happy being in a relationship.  What was great about it?  I guess I wouldn’t ever know.  But maybe there was something about being in a relationship that helped those people feel some sort of connection.  What was different about being in a committed relationship from any other kind of relationship?  At least from an outsider’s perspective like mine, there seemed to be talk about each other’s families, an openness to vulnerability, and lots of touch that friends normally wouldn’t do.
 
-Now I was curious.  I wondered if a relationship was the kind of connection that I needed.  Even in high school and throughout the mission, I felt like something was missing, but I didn’t know what it was.  Maybe that missing thing was the knowledge of being in a relationship with someone.  After all these years of not listening to people talk about dating and relationships, I had no idea how people started relationships like that.  I was still a bit hesitant about how susceptible I might be to the Disease.  But for the first time in my entire life, I was open to the idea of being in a relationship with someone because maybe I would feel some sort of connection that would help fill this emptiness inside me.
+Now I was curious.  <u>I wondered if a relationship was the kind of connection that I needed.</u>  Even in high school and throughout the mission, I felt like something was missing, but I didn’t know what it was.  Maybe that missing thing was the knowledge of being in a relationship with someone.  After all these years of not listening to people talk about dating and relationships, I had no idea how people started relationships like that.  I was still a bit hesitant about how susceptible I might be to the Disease.  But for the first time in my entire life, I was open to the idea of being in a relationship with someone because maybe I would feel some sort of connection that would help fill this emptiness inside me.
 
 But I was really nervous.  I didn’t know anyone.  Would it be best to get to know someone I didn’t know and work from there?  I had heard a lot about people meeting each other through dating apps during COVID.  I had heard mixed things about dating apps, but it seemed like my only choice.
-So I decided to download some dating apps and started to learn the game of swiping.
+So I downloaded some dating apps and started to learn the game of swiping.
 
 ...
 

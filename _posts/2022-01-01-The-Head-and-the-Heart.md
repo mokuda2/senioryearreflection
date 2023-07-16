@@ -831,7 +831,7 @@ I'm grateful for the experiences and the people I've met this past school year. 
 
 ---
 
-## Other Videos and Sites Used Throughout Reflection
+## Videos and Sites Used Throughout Reflection
 
 **_("Fantaisie Impromptu" by Chopin)_**
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/633gi2nbPOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>

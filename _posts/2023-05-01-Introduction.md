@@ -1,4 +1,4 @@
-I normally write my reflections via Word, but a "blog" website looks and functions a lot more nicely.  There are a few links to music videos and other media that make them more accessible on a website.  They're completely optional to watch/listen, but I feel like they help set the mood of the reflection.
+I normally write my reflections via Word, but a "blog" website looks and functions a lot more nicely.  There are a few links to music videos and other media that make them more accessible on a website.  They're completely optional to understand my reflection, but I feel like they help set the mood.  Music and other people's perspectives convey things that I can't in my own words.
 
 My reflection's audience is primarily my family, so I've kept them in mind as I've written this.
 

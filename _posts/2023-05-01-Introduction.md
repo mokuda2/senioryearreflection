@@ -2,7 +2,7 @@ I normally write my reflections via Word, but a "blog" website looks and functio
 
 My reflection's audience is primarily my family, so I've kept them in mind as I've written this.
 
-_Passages in italics are flashbacks of the past._  They typically are copy-and-paste passages from previous reflections, but I've also written some flashbacks to parts of my mission.  The first chapter has a lot of flashback reading to help build context for the rest of my reflection.  The first two chapters may seem a bit slow, as they set the foundation of my reflection, but I promise that I've made sure that everything I write about is relevant by the end of the reflection.
+_Passages in italics are flashbacks of the past._  They typically are copy-and-paste passages from previous reflections, but I've also written some flashbacks to parts of my mission.  The first chapter has a lot of flashback reading to help build context for the rest of my reflection.  The first two chapters may seem a bit slow, as they set the foundation of my reflection, but I promise that I've made sure that everything I wrote is relevant by the end of the reflection.
 
 <u>I underline passages of my reflection that I feel are extremely important and relevant for understanding later parts of my reflection.</u>  Hopefully those passages will help guide you in understanding what I feel is the purpose of this reflection.
 

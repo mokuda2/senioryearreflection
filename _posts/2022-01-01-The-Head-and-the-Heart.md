@@ -22,6 +22,7 @@ Part 2: Fall 2022
 ---
 
 ## Section 1
+
 March 20, 2023.  A multistake FHE was happening at one of the stake centers, and they had free food, so I invited Gyuna if she wanted to go.  She asked if her friend could join, so the three of us went in her friend’s car.  Gyuna sat behind me, and she kept poking the back of my neck.  Dang it, of course she wanted me to sit up front so she could do that to me.
 
 "Oh my gosh, the line is way too long," Gyuna complained at least five times while waiting in line.  It took about half an hour before we got our food.
@@ -88,6 +89,7 @@ That was all she texted after a few hours.  I asked her to help me with my piece
 
 I knew how girls were when they were in a mood similar to Gyuna's from high school experiences.  They'd get into a mood and then ignore me for whatever reason.  I wasn't sure if it was because they thought such a tactic was a great way to hurt me or if they were too scared or ashamed to resolve the issue because of what they had done or if they just needed time to breathe.  But it would've been nice to at least communicate that they needed some space to reflect on the situation.  At least from high school, girls wouldn't confront the situation and instead gossip to other people to feel validated and justified for what they did.  Then they'd try to find ways to intentionally provoke the person to be hurtful and then complain more about how so-and-so had been trying to be hurtful.  I didn't think it was a healthy way of resolving conflict.  She didn't necessarily hurt me, but it seemed like that was her intention from her behavior of ignoring me.  I felt like she and I would have to communicate about our boundaries because I didn't want to hurt her, and I didn't want her to blow up.  But if she didn't want to respond or be friends anymore, that was outside my control.  I was going to move on and find other people if that was going to be the case.
 
+## Section 2
 
 March 23, 2023.  Healing from my breakup was weird.  I felt like it should've taken a lot longer for me to heal than it did with Kent, but I felt pretty normal after only a few days.  It was as if my relationship was all a dream.  I had met Bryce for only a month and a half, and now it was as if he and I had never met before.  I couldn't believe I had been in a relationship.
 
@@ -133,6 +135,8 @@ I noticed in the middle of the reunion that Christian messaged me and asked if I
 
 ```Me: I think I’ll let her take the initiative on this one. I already hit the ball a couple times to her side, and she didn’t take them. It’s her turn now. If she feels like she can’t forgive me over a silly fight, that’s too bad, but I’m not going to force anything on her. She shouldn’t feel like she can get whatever she wants just because she feels a certain way, even if it means she has to swallow her pride.```
 
+...
+
 March 28, 2023.  Connor and I planned on eating at K’s Kitchen and then bowling at Fat Cats.
 “How was the Taylor Swift concert?” I asked.
 
@@ -157,6 +161,8 @@ After bowling, we found a place to cuddle in the back of his car.  Wow, I didn�
 He then took me home.  I wanted to spend more time with him not just on dates.  I hoped that he and I could study together on campus or something more casual.  I knew that Bryce and Connor were two different people, so studying together might not have been Connor’s thing.  But I still wanted to spend time with Connor somehow.
 
 He said he and I could possibly hang out in a couple days, but he told me later that day that he was busy trying to get homework done.  Even though I told him that we could study together, he didn’t bring that up as an option.  Maybe he just needed his full attention on his homework.
+
+## Section 3
 
 March 30, 2023.  I noticed that Gyuna had tried calling me while I was on my date with Connor, so I tried calling her back a few times.  She didn’t pick up.  After she tried calling me again today, I called her back, and she picked up.
 
@@ -204,6 +210,8 @@ Well, it seemed like she just wanted to argue and find every excuse to be offend
 
 I guess I didn't realize how much of a prideful sac Gyuna could be.  People who wanted to find someone to blame were people who thought they didn’t have to be accountable for their own actions.  I wasn't sure if our friendship was going to last that much longer if she was going to be so emotionally immature.  I didn’t want to be around someone who was going to be toxic.  No one did.
 
+...
+
 March 31, 2023.  I was finishing up my STAT 340 homework.  This week’s homework was a lot more difficult and took a bit longer, so I was in the stats lab for the entire afternoon.  Hyeji was there too.  “I’ve been so burned out this semester,” she said.  She was taking three STAT core classes, an upper level IS class, and a linear algebra programming class.  I definitely would’ve burned out too with that kind of schedule.  “Sometimes I wake up, and I don’t want to get out of bed.  And I’ve been going to bed a lot later than usual this week.”
 
 I heard that some of the graduate students were going to Chicken in the Kitchen—a Korean fried chicken restaurant.  I had never been there before, but the STAT 340 TA invited both Hyeji and me to go.  “It depends on if I can get my linear algebra lab finished,” Hyeji said.
@@ -226,6 +234,8 @@ We then went to the new Music Building on campus.  On our way out of the buildin
 “It was fun!” she said when I dropped her off.  “Thanks for hanging out!”
 
 “Yeah, it was fun!” I said.  “It’s nice to take breaks like these.  It’s a good way to recharge from studying a bunch.”
+
+## Section 4
 
 April 3, 2023.  I asked Connor if he was interested in going on another date or doing homework together.  I wasn’t sure how interested he was anymore because we didn’t have any plans of seeing each other.  He responded saying he was interested in going on another date and that it would be good to continue to get to know me and figure out how he was feeling.  He recommended that I watch Iron Man 2 as the next Marvel movie, so I suggested that.  I also wanted to pay for dinner since he paid for the last two meals, so we planned on going to Olive Garden.  So those were our plans.
 
@@ -259,11 +269,13 @@ After the movie, he and I walked to my car.  "Well, I feel like it would be good
 
 "So... it doesn't sound like you're interested."
 
-"Mmmm, Michael, I kinda don't want to talk about this right now.  I know exactly what your mind is doing!  But I still need to think about it."
+"Mmmm, Michael, I kinda don't wanna talk about this right now.  I know exactly what your mind is doing!  But I still need to think about it."
 
 "Well, I'm pretty patient, and I don't want you to make a rash decision.  But if you're not interested anymore, I don't want you to come back to me a month later or a few months later.  I want to be able to move on."
 
 So we planned on meeting tomorrow evening.
+
+...
 
 April 4, 2023.  It was the last time it snowed in Provo.  It was a super long winter, but thankfully, the snow didn’t stick to the ground too long since it got warm enough for the snow to melt pretty quickly.
 
@@ -304,6 +316,8 @@ I wasn't sure if I fully understood how he was feeling, but it wasn't like I cou
 And with that, we parted.  I was so nervous only an hour ago, but now, I felt absolutely heartbroken.  I couldn't believe that things with Connor were officially over.  He was my first match, and something about that was oddly sentimental.  From the time that he and I had chatted at the end of October to the time that he and I met in person for the first time at the end of January to this time where he and I tried to date for the past couple weeks, it was so difficult for me to grasp that it was going to be the end.
 
 I went back to my apartment and tried to do my homework, but I was too unmotivated and heartbroken.  I cried and cried.  It was definitely a lot more painful than my heartbreak with Bryce, maybe even sharper than my heartbreak with Kent.  I learned that getting physical so soon could be detrimental to something long-term, yet for some odd reason, I still had feelings for Connor.  But he didn't have those same kinds of feelings for me.  He did say that he had learned a lot from the dates he and I had been on.  Maybe he learned that getting physical too soon could confuse the head and the heart, just as much as it had mine.
+
+## Section 5
 
 April 7, 2023.  Ever since the day that Connor said he wasn’t interested in me anymore, I woke up feeling like absolute trash.  I had to tell myself several times in the morning that I could make it through another day.  My motivation and appetite decreased quite a bit.  I just had to let time pass to heal this one.
 
@@ -400,7 +414,7 @@ I laughed.  "I do think Connor is a sweet guy.  I really do.  And I think deep d
 
 Hyeji ended up walking me all the way back to my apartment, which was really sweet of her.  I also told her about how I needed to go shoe shopping, so she came with me.  She definitely was like Mom.  She went through a bunch of shoes and handed me shoe boxes one at a time for me to try on.  Then she’d put the ones that didn’t fit me back on the shelf.  She was also bold asking all of the workers where she could find shoes for me.  I finally found a pair that I liked and bought it.  It was so much more fun doing things with friends, and I was glad Hyeji was with me.
 
-…
+...
 
 April 12, 2023.  Hyeji usually studied in one of the smaller lab rooms, and one of her classmates was sometimes there too.  I went to do homework with them.  After a couple hours, her classmate left.
 
@@ -444,13 +458,13 @@ Hyeji recommended some other Taylor Swift songs.  It was fun and educational for
 
 We left around midnight and planned on studying for finals together.
 
-…
+...
 
 April 15, 2023.  One of my roommates was a CS major, and he helped me a TON with my CS 236 projects.  I wanted to treat him to dinner as a thank-you, so he and I went to Itto Sushi.
 
 It felt a bit weird.  Even though I had no romantic feelings for him and—as far as I knew—even though he was straight, all of the mechanics seemed like it was a date: planning on going out to dinner, having conversation, walking around the mall while waiting for our reservation.  Plus, I went to Itto Sushi on dates with Sam and Bryce, so that added to the confusion.  Now I began to question myself: what was the difference between hanging out with another guy and going on a date, especially a first date?  At least for most of my first dates, they felt the same as this occasion of simply taking my roommate to dinner.  I still didn’t get how guys knew from the first date if things weren’t going to work out.  I needed more time than just a first date.  So yeah, it was weird to come to that realization.
 
-## Section
+## Section 6
 
 April 25, 2023.  Mom recently forwarded my itinerary for my flight to Guam and Dallas.  I was going to be leaving on April 27, so just in a couple days!  For the whole semester, I was excited to visit somewhere outside the country, but things leading up to the trip were a bit stressful.  Thankfully, the Atkins were willing to store my extra stuff in their basement, and they were SO accommodating for allowing me to stay with them between the time I’d finish my internship and the time that I could move back into my apartment.  I was going to have to help them with their yardwork or their horses or whatever they needed help with as a thank-you.
 
@@ -558,7 +572,7 @@ After Gyuna finished eating, we were about to part ways.  "Well, I guess we'll s
 
 "Good to see you too."  And with that, we parted ways.
 
-## Section
+## Section 7
 
 April 27, 2023.  Today was the day!  Early that morning, David drove me to the airport.
 
@@ -583,7 +597,7 @@ _“This is why I’m a missionary,” Elder Candari said as he gazed at the cha
 
 _I felt the same way.  Exaltation was the goal, and it so was refreshing to remember that._
 
-…
+_..._
 
 _May 30, 2021.  “It’s the end of an era,” Elder Candari said._
 
@@ -603,7 +617,7 @@ _After I bore my testimony, the stake president said, “Well, Elder, you are of
 
 _I took a look at my Korean name tag.  Although I had taken off my name tag every night before going to bed, it was so sentimental realizing that I was going to be taking my name tag off for the very last time as a full-time missionary.  I thought about my companions.  I thought about the people I had taught.  I thought about the excitements, the discouragements, the office, studying Korean, tracting after dark, COVID, just a flood of memories.  As I took off my name tag, I couldn’t help but break down in tears.  Even though the mission was one of the most difficult things I had done, I was for a moment so sad that it was the end of an era.  It was a reconfirmation that serving a mission really was worth it._
 
-## Section
+## Section 8
 
 If you’ve read this far into my reflection, I thank you for the time you’ve read it.  I know it’s a LOT.
 
@@ -657,19 +671,21 @@ I guess that explained where my boring-man genes came from.
 
 “So...  Marriage is more than just a ceremony?  You have to feel a certain way about someone?”
 
-Both Mom and Dad nodded.  Well, I guess they weren’t as mechanical as I thought they were.  It sounded like they knew what romantic love was.  Maybe they’d have a level of understanding of my situation.  Or maybe they wouldn’t and would act like privileged straight people.  Either way, there was something that they should’ve been happy about.  If they were more mechanical when it came to emotions, then all the times when I was with Gyuna and Hyeji would’ve fit Mom and Dad’s definition of a date.  I definitely went on countless “dates” with them.  But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally grown from dating guys.  And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality.
+Both Mom and Dad nodded.  I guess they weren’t as mechanical as I thought they were.  It sounded like they knew what romantic love was.  Maybe they’d have a level of understanding of my situation.  Or maybe they wouldn’t and would act like privileged straight people.  Either way, there was something that they should’ve been happy about.  If they were more mechanical when it came to emotions, then all the times when I was with Gyuna and Hyeji would’ve fit Mom and Dad’s definition of a date.  I definitely went on countless “dates” with them.  But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally developed from dating guys.  And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality.
 
 Taking a dating hiatus was honestly pretty nice.  I've had a lot of time to ponder and reflect this past school year about my dating life.  Even though a long-term relationship is the goal, I think I want to find friends for now—friends who will be good influences on me.  The beginnings of friendship and dating are very similar from my experiences: figuring out if the other person would be a good fit.  Both parties involved had to desire and maintain that friendship and reciprocate, much like a long-term relationship.  Maybe a friendship level was more of what I had been perceiving than a long-term relationship when I went on first dates.  But one thing I feel is different about friendships than dating is that friendships can last, even if there is no romantic interest.  With long-term relationships, it seems like if either person doesn’t find romantic interest, then that’s the end.  Plus, I feel like it’s normal for people to be friends before they become couples.
 
-I think trying to find friends will be just as difficult as finding a long-term relationship.  Making friends has always been difficult for me, especially at BYU.  People like Gyuna and Paige have liked me for my qualities and character, not merely because of my intelligence, talent, or Dad's "status" in the Church.  I've also found that it takes time for me to feel an emotional connection with a romantic interest, and I think other people would need just as much time to realize that I'm more than just my race.  I'm obviously not perfect, but I feel like I don't have shallow character like so many guys complain about.  I think that if I had the appearance of a white person, I'd have a larger network, which would mean more opportunities, which would also mean more power.  Not that I'm power-hungry, but I feel like connecting with people would be so much easier.
+While I've been doing my internship at AT&T, it's been nice to have some roommates.  I can't imagine living by myself.  I can't say that I've made any close friends though, both at work and at church.  I do feel like I'll get a full-time offer, and I'm 90 percent sure that I'll accept it.  One of the things that's caught my eye is AT&T's sponsorship with Georgia Tech, which has one of the top data science master's programs in the country.  The other 10 percent of me is scared about what will happen if I end up being alone in Dallas after I graduate.  I've downloaded dating apps again, and I haven't gotten much out of them.  I've met one guy once, and that's it.
+
+I think trying to find friends will be just as difficult as finding a long-term relationship.  Making friends has always been difficult for me, especially at BYU.  I can tell that Gyuna and Paige have liked me for my qualities and character, not merely because of my intelligence, talent, or Dad's "status" in the Church.  I've also found that it takes time for me to feel an emotional connection with a romantic interest, and I think other people will need just as much time to realize that I'm more than just my race.  I'm obviously not perfect, but I feel like I don't have shallow character like so many guys complain about.  It's sad to think that if I had the appearance of a white person, I'd have a larger network, which would mean more opportunities, which would also mean more power.  Not that I'm power-hungry, but I feel like connecting with people would be so much easier because they'd have an interest in me.
 
 Being marginalized is not an unfamiliar feeling.  It's how I've felt looking like an Asian at BYU.  Sexual orientation isn't always as apparent as someone's race, but I do wonder what people's perception of me would be if people in my ward knew I was gay.  I've heard stories of bishops saying that being gay is an abomination or that people shouldn't associate with the gays.  I thought that such comments were dramatic and exaggerated, but now I can see how that could be some people's unfortunate reality.
 
-Dad was a stake president throughout my middle school and high school years.  I often felt like people liked me and wanted to get to know me merely because I was "the stake president's son."  Looking in retrospect, I could've taken advantage of Dad's title by networking with people, but I wondered if people would've treated me the same if Dad wasn't a stake president or a bishop or any calling.  I didn't think that would've been the case, at least attending YSA wards at BYU.  I didn't openly tell people that my parents were mission president and wife, and they probably wouldn't have cared much anyway since Dad had no direct involvement with the wards I attended.  But it was sickening to think that people would've had a different perception of me if Dad didn't have such a title.  The pattern probably would've been the same with Mom.
+Dad was a stake president throughout my middle school and high school years.  I often felt like people liked me and wanted to get to know me merely because I was "the stake president's son."  Looking in retrospect, I could've taken advantage of Dad's title by networking with people, but I wondered if people would've treated me the same if Dad wasn't a stake president or a bishop or any calling.  I didn't think that would've been the case, at least attending my YSA wards at BYU.  I didn't openly tell people that my parents were mission president and wife, and they probably wouldn't have cared much anyway since Dad had no direct involvement with the wards I attended.  But it was sickening to think that people would've had a different perception of me if Dad didn't have such a title.  The pattern probably would've been the same with Mom.
 
 As for now, like I stated previously, I will try to find some friends, hopefully those in the gay community.  My experiences primarily with Sam, Connor, and Bryce have made me re-evaluate my dating goals.  I'm glad that Sam and I didn't jump into a relationship and that we were able to communicate our values.  I feel like my skepticism has made me want to date a guy a bit longer if I do have a romantic interest.
 
-I did reach out to Connor, and I’m honestly glad he told me no to a relationship now.  Not only do I think he doesn’t know what he wants, but he isn’t the person I knew when I first met him.  I do feel sad about it.  I hope that I can find someone who likes me for who I am and not just for my body.  I can’t believe that I didn’t notice that red flag when he asked me to make out with him and then to tell me that he was looking for a long-term relationship after I said no to making out.  It makes me feel so dumb.  I think fetishizing is just as shallow as someone not being interested in me simply because of my race; neither one wants to get to know me as an actual person.
+I did reach out to Connor, and I’m honestly glad he told me no to a relationship now.  Not only do I think he doesn’t know what he wants, but he isn’t the person I knew when I first met him.  I do feel sad about it.  I hope that I can find someone who likes me for who I am and not just for my body.  I can’t believe that I didn’t notice that red flag when he asked me to make out with him and then to tell me that he was looking for a long-term relationship when I said no to making out.  It makes me feel so dumb.  I think fetishizing is just as shallow as someone not being interested in me simply because of my race; neither one wants to get to know me as an actual person.
 
 With Bryce, I think I've learned that it's okay not to rush into a relationship.  It's easier to say that now than back then since I really, really wanted to know what being in a long-term relationship was like.  I think it would've been better to have said no to a relationship, mostly for his sake.  And if a guy isn't patient enough to take things slow, then he probably wouldn't be right for me.  We’d have to be on the same page about stuff like that.
 
@@ -693,11 +709,11 @@ I’ve often thought about how cool it would be if an algorithm existed where tw
 
 As I had stated in an earlier chapter, I think it’s difficult for someone to empathize what it’s like to have a spiritual experience or what it’s like to be gay unless that person experiences AND acknowledges it.  I often think about a world where feelings don’t matter.  Marriage would simply be a ritual: have an XX-chromosome being and an XY-chromosome being go through the motions of the ceremony, just as God commands.  But what happens if the couple realizes that they can’t have children?  The logical thing to do would be to divorce each other, and if one of the spouses is fertile, he or she would find someone else who isn’t infertile so that they can keep the commandment to multiply and replenish the earth.  The hope is for the infertile to die out of society so that they wouldn’t burden the fertile.  Maybe divorce sounds harsh, but it’s like marriage; a divorce is another ritual where an XX-chromosome being and an XY-chromosome being break off their marriage.
 
-I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together through their love for each other as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
+I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together because of their love for each other as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
 
 Similarly, I feel that sort of hope when it comes to faith and sexuality.  Even though I don’t know how gay people fit into the plan of salvation, I have hope that God does have a plan for me—that maybe there’s an inkling of hope that I CAN be with my family after this life.  I know that there are people out there who marginalize gay people and who tear down their faith by telling them that their life isn’t right, that they’re “threats” or “attackers” to the family, or that they don’t have a place in the celestial kingdom, and I can sort of understand why gay members of the Church leave for those reasons.  Living a life of faith isn’t easy.  But I’m doing what I can to have faith, just as I’m sure black members of the Church in the 1950s faced a similar faith crisis pertaining to their exaltation.
 
-I hope that the religious community and the LGBTQ community will learn to do what they say: to love one another.  Being gay in a religious community is tough.  Many stereotypes about gay people abound.  As far as the economics of the Majority and the Minority, people in a "higher" part of the hierarchy tend to not associate with people in a "lower" part of the hierarchy possibly because those of the higher part don't want to be viewed by their group as someone who associates with people "lower" than them.  Maybe religious people don't want to associate with gay people because of the fear of also being marginalized by people in the higher part of the hierarchy.  As terrible as that sounds, I think it's a huge barrier that people in general need to overcome, not just the religious community.  I also hope that the LGBTQ community can also develop love for those in the religious community.  While it can be frustrating for people to not understand the challenges and unfairness we go through, I think both patience and speaking about our experiences in an uplifting manner will go a long way.  A society where gay people have been looked down upon for several generations will take a lot of time and understanding.  Even though people may not understand, I'm grateful for a Savior who does.
+I hope that the religious community and the LGBTQ community will learn to do what they say: to love one another.  Being gay in a religious community is tough.  Many stereotypes about gay people abound.  As far as the economics of the Majority and the Minority, people in a "higher" part of the hierarchy tend to not associate with people in a "lower" part of the hierarchy possibly because those of the higher part don't want to be viewed by their group as someone who associates with people "lower" than them.  Maybe religious people don't want to associate with gay people because of the fear of also being marginalized by people in the higher part of the hierarchy.  As terrible as that sounds, I think it's a huge barrier that people in general need to overcome, not just the religious community.  I also hope that the LGBTQ community can develop love for those in the religious community.  While it can be frustrating for people to not understand the challenges and unfairness we go through, I think both patience and speaking about our experiences in an uplifting manner will go a long way.  A society where gay people have been looked down upon for several generations will take a lot of time and understanding.  Even though people may not understand, I'm grateful for a Savior who does.
 
 I'm grateful for the experiences and the people I've met this past school year.  I know that God knows the details of our lives.  Sometimes He may seem silent, but for me, it means trusting that He trusts me and will direct me otherwise.  And I say these things in the name of Jesus Christ.  Amen.
 

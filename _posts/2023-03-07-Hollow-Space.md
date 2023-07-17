@@ -105,13 +105,13 @@ So I sang “ddu du ddu du.”  One of Gyuna’s friends found us, and I ended u
 
 ...
 
-September 9, 2022.  Christian had come down to Rexburg and was spending a few days with Gyuna.  It was my second time seeing Christian in person.  Gyuna said she video chatted with him every day.
+September 9, 2022.  Christian came down from Rexburg and spent a few days with Gyuna.  It was my second time seeing Christian in person.  Gyuna said she video chatted with him every day.
 
-After Gyuna and I were finished with our CS 180 class, she and I went to the Talmage building where Christian was hanging out.  The three of us decided to go to a restaurant right outside of campus.  I wasn’t expecting to hang out with them, as I was thinking I’d just go do homework in the West View Building—the stats building.  But I didn’t mind tagging along, especially since Christian actually talked to me.  I felt like most dating relationships didn’t like it when there were other people around.
+After Gyuna and I were finished with our CS 180 class, she and I went to the Talmage building where Christian was hanging out.  The three of us decided to go to a restaurant right outside of campus.  I wasn’t expecting to hang out with them, as I was thinking I’d do homework in the West View Building—the stats building.  But I didn’t mind tagging along, especially since Christian actually talked to me.  I felt like most dating relationships didn’t like it when other people were around.
 
 “So, Michael, what are your hobbies?” Christian asked when the three of us were settled down with our food.
 
-Hobbies?  Did I actually have any?  “Hm…” I had to think.  “I don’t do much these days that I’d consider hobbies.  Maybe working out.  It’s a good stress reliever.”
+Hobbies?  Did I actually have any?  “Hm...” I had to think.  “I don’t do much these days that I’d consider hobbies.  Maybe working out.  It’s a good stress reliever.”
 
 “If you didn’t have school or work or anything like that to worry about, what would you do?”
 
@@ -131,7 +131,7 @@ That was basically my life: school, work, sleep, repeat.  I didn’t know what I
 
 “Do you know AKB48?” I asked.
 
-“Oh yeah, they’re the ones who are like…”  Gyuna made some sort of Japanese imitation.
+“Oh yeah, they’re the ones who are like...”  Gyuna made some sort of Japanese imitation.
 
 “Yeah.  Exactly like that,” I said sarcastically.  “And Babymetal.  I listen to some.”
 
@@ -147,7 +147,7 @@ I didn’t know what he meant by that.  Life was just fine without a relationshi
 
 “No, I don’t really know celebrities.”  It was kind of true.  I didn’t have any celebrity “crushes.”  I honestly didn’t know what that meant.  Someone I obsessively thought about?  No, I didn’t have that kind of Disease.
 
-Gyuna and Christian kind of gave each other a look like I did or said something wrong.  “You know Howl’s Moving Castle, right?” Gyuna asked.  “Would you date Sophie?”
+Gyuna and Christian kind of gave each other a look like I did or said something wrong.  “You know _Howl’s Moving Castle_, right?” Gyuna asked.  “Would you date Sophie?”
 
 “No,” I answered.  I didn’t get why I would want to date an animated character.
 
@@ -161,7 +161,7 @@ Gyuna and Christian gave each other another look.
 
 “Yeah, and you’ll know what it’s like to like being touched,” Gyuna said.  For the past few days, she liked to pinch the tip of my elbow.  I thought it was weird.  She said that physical touch was her love language, but that kind of touch?  It didn’t feel natural or loving to me.
 
-After we finished eating, we went back to campus to work on some homework, and we chatted some more.   Gyuna was taking another CS class, so she went to the lab for that.  So far, the labs for CS 180 weren’t terribly difficult, but I knew Gyuna was struggling a little bit, so I also took time to help her with the concepts.
+After we finished eating, we went back to campus to work on homework, and we chatted some more.  So far, the labs for CS 180 weren’t terribly difficult, but I knew Gyuna was struggling a bit, so I also took time to help her with the concepts.
 
 “Why isn’t it working?” she asked after she ran the code.
 
@@ -179,7 +179,7 @@ So she did, and she seemed to figure things out after I explained what was going
 
 “No.”
 
-“Can I kiss you?” Christian asked.
+“Can _I_ kiss you?” Christian asked as he puckered his lips.
 
 “Uh, no.”
 
@@ -199,17 +199,17 @@ On another day, Gyuna and I went to the library to study together again.  She di
 
 I had heard about Korea and Japan not having the greatest relationship with each other, but I didn’t know anything about the history.  So Gyuna explained a bit about it.  She also talked about some sort of political issue about this one island between Japan and South Korea that Japan owned, even though she claimed that it was Korea’s territory from history.  I guess it was an issue because lots of resources were around and under that island.  I didn’t get why it was such a big deal.  It wasn’t going to matter at all after we died.
 
-“I do love Japanese people,” Gyuna said.  “I’ve met some great Japanese people and have even made friends at the MTC with them.  But the Japanese history and even their government these days… Not as much.  I probably wouldn’t be telling you all of this if you were actually from Japan, but you always tell people that you’re from uh… Kentucky.”
+“I do love Japanese people,” Gyuna said.  “I’ve met some great Japanese people and have even made friends at the MTC with them.  But the Japanese history and even their government these days... Not as much.  I probably wouldn’t be telling you all of this if you were actually from Japan, but you always tell people that you’re from uh... Kentucky.”
 
 ...
 
-September 23, 2022.  I had been applying to several internships, and unlike last school year, I was getting a surprising number of responses that weren’t rejection letters.  I had done video interviews for Goldman Sachs, JPMorgan, KPMG, and others and averaged about three interviews a week in September.  It was a lot of interviews, but I felt more confident in my interviewing skills, especially behavioral interviews.
+I had been applying to several internships, and unlike last school year, I was getting a surprising number of responses that weren’t rejection letters.  I had done video interviews for Goldman Sachs, JPMorgan, KPMG, and others and averaged about three interviews a week in September.  It was a lot of interviews, but I felt more confident in my interviewing skills, especially behavioral interviews.
 
 As far as apartment life, I wasn’t at my apartment that often since I didn’t like being there during the daytime, but it seemed like most of my roommates liked studying in the apartment.  I didn’t feel connected to my roommates, at least not as much as I felt like they connected with each other.  Sure, I wasn’t at the apartment as often, but even when I was there, they didn’t really talk to me.  Oh well.  At least what I liked about my roommates was that they kept the place fairly clean, and they went to bed early.  It helped me go to bed early too.
 
 ...
 
-It was Friday today, but I hadn’t seen Gyuna since Monday.  She didn’t come to class on Wednesday or today, so I was a little concerned about where she was.  She said she had gotten sick, but it sounded like she was getting a bit overwhelmed as well.  There was a project in her other CS class that she was supposed to do, but for some reason, she didn’t start it.  It sounded like the project would take several hours to complete, and it was going to be due the following Monday.  She said she had submitted a petition to withdraw from the class and take a lower-level CS class.
+September 23, 2022.  It was Friday today, but I hadn’t seen Gyuna since Monday.  She didn’t come to class on Wednesday or today, so I was a little concerned about where she was.  She said she had gotten sick, but it sounded like she was getting a bit overwhelmed as well.  She had a project in her other CS class, but for some reason, she didn’t start it.  It sounded like the project would take several hours to complete, and it was going to be due the following Monday.  She said she had submitted a petition to withdraw from the class and take a lower-level CS class.
 
 But today, she asked if I could meet with her at the Cougareat at 5 to help her with the CS 180 labs.  Later in the day, I texted:
 
@@ -243,7 +243,7 @@ After we ate, she and I got to work on the CS 180 labs.  "It's so bad that for s
 
 “I don’t know why I can’t figure this stuff out at home.  I get so distracted, and then I try to do some CS homework, and then I get stuck.  I’m honestly rethinking about my major.  I don’t think data science is for me.  I can’t imagine myself programming all day.  But I’d be so bougie.”
 
-“Well, it looks like you’re figuring out that even though you’d make lots of money, it’s not worth doing something that’ll make you miserable for the rest of your life, right?”
+“Well, it looks like you’re figuring out that even though you’d make lots of money, it’s more worth doing something you'd like to do, even if it means not as much money, right?”
 
 Gyuna looked at me.  “No.”  She and I laughed.  “I’ll do my programming and then go on vacation.  And then go back to work and be miserable.  And then go on vacation and feel better.  Being bougie would be so nice.  That’s what you’re going to be: a rich, bougie data scientist.  Like, can you adopt me?  If I had a rich husband, I’d just stay at home and Amazon shop all day.  And I’d cook for you.”
 
@@ -260,6 +260,7 @@ After some research, Gyuna said, “You’re a hind let loose.  In other words, 
 That was quite a conclusion.  Plus, I didn't feel like I emanated affection.  Probably the complete opposite.
 
 “Well, I’m going to need to go soon,” I said when it was nearing 11.  Carli had invited me to her birthday party at her place, and it was going to start at 11.  So we walked together outside.
+
 “I like you,” Gyuna said.
 
 Uh.  What?
@@ -273,13 +274,14 @@ I wasn't sure if "happy" was the word, maybe more like "nice."  It was weird bec
 I was an easy person to read?  “That’s the first time anyone has ever said that about me,” I said.  “I don’t think I’m easy to read at all.”
 
 “Yes you are.  Your face tells everything.  When you immediately say no to something, then I know you mean it.  But when you hesitate and make your face and then say no, it actually means yes.”
+
 I laughed.
 
 “You’re also very much a tsundere,” Gyuna added.
 
 “What’s that?”
 
-“A tsundere?  You don’t know what that is?  It’s a Japanese term.  Basically it means that you can seem very cold on the outside, and if people don’t know you, they might judge you to be very cold-hearted.  But when people get to know you, you’re actually really warm and friendly.  I think people just need to get to know you.”
+“A tsundere?  You don’t know what that is?  Basically it means that you can seem very cold on the outside, and if people don’t know you, they might judge you to be very cold-hearted.  But when people get to know you, you’re actually really warm and friendly.  I think people just need to get to know you.”
 
 Hm.  Interesting.  My past friends didn’t talk much about my qualities or personality.  One thing that I liked about Gyuna was how she liked me for my character.  She might have liked me for my musical talent or my intelligence or being “the mission president’s son,” but I felt like she primarily liked me for who I was, no matter who was in my network.  I learned qualities about myself from her that I didn’t know I had.  She and I hung out almost every day at this point.  Not seeing each other for four days was the longest time we hadn’t seen each other ever since the beginning of the semester.
 
@@ -425,7 +427,7 @@ That word again.  “Define ‘like.’”
 
 "Well, with BYU culture, you know that 'like' can have several different meanings."
 
-"Bro, I HATE BYU culture.  I came here only because education is better than BYU-Idaho and tuition is cheap.  BYU culture freaking pisses me off."  She continued, "But when I tell you that I like you, you just say, 'Oh, thanks.'  You don't say anything back like saying, 'I love you.'  Don't you see?  How about right now, you say six sentences about how you feel about me.  Even if it's complete trash like one of my companions did to me, I'll probably just leave you, but I hope that's not going to be the case."
+"Bro, I HATE BYU culture.  I came here only because education is better than BYU-Idaho and tuition is cheap.  BYU culture freaking pisses me off."  She continued, "But when I tell you that I like you, you just say, 'Oh, thanks.'  You don't say anything back like, 'I love you.'  Don't you see?  How about right now, you say six sentences about how you feel about me.  Even if it's complete trash like one of my companions did to me, I'll probably just leave you, but I hope that's not going to be the case."
 
 "Six sentences?"  I was kind of at a loss.  "I don't even know.  I'm speechless."
 
@@ -449,6 +451,8 @@ That word again.  “Define ‘like.’”
 
 She and I ended up talking for about an hour.  "Well, I'll let you go,” Gyuna said.  “It's almost midnight, but don't forget to write me a letter."
 
+...
+
 The next day, I was doing my homework when I thought about writing Gyuna’s letter.  It wasn’t mandatory, but it seemed like a good exercise for me.  I honestly didn’t feel like I did too much for her, so maybe this would be an opportunity to show appreciation.
 
 I was still lost about what I was supposed to write.  I got out a sheet of paper and put today’s date on it.
@@ -467,7 +471,7 @@ I went to work on writing up that letter:
 
 ```This semester has been quite eventful mostly due to you, and I'm grateful for it. Idk what life would be like w/o having you as a friend. And I'm glad Christian approves of me. I feel like most dating relationships prefer to not want to associate w/ other people.```
 
-```At the beginning of the semester, I was anticipating another semester of going to classes, doing research, doing something to contribute to the data science club, and studying at the LSB all day every day like I did last school year. Maybe I would've been fine w/ that, but after all of the times that we've hung out, I can't imagine what it would've been like if I was just studying at the LSB all day every day, even though that was my life last school year. You make really good food, you actually talk to me, and I feel like I've met people and gone places that I wouldn't have w/o you.```
+```At the beginning of the semester, I was anticipating another semester of going to classes, doing research, and studying at the LSB all day every day like I did last school year. Maybe I would've been fine w/ that, but after all of the times that we've hung out, I can't imagine what it would've been like if I was just studying at the LSB all day every day, even though that was my life last school year. You make really good food, you actually talk to me, and I feel like I've met people and gone places that I wouldn't have w/o you.```
 
 ```I know I told you this during our phone call last night, but when you invited me to go sing karaoke at the end of the first week of the semester, I was pretty hesitant. I had already made plans to just study, study, study like usual and not have a social life. But I actually enjoyed my time. Even during that week when you'd tag along to study w/ me at the library, I didn't expect anything like that to happen.```
 
@@ -475,7 +479,7 @@ I went to work on writing up that letter:
 
 I saw Carli coming downstairs.  I flipped the paper over and hid it with my folder.  "Hey, Michael, what are you studying?" she asked.
 
-"Just some stats," I said as I switched my tab to my stats homework.  "What are you doing for the weekend?"
+"Just some stats," I said as I quickly switched my tab to my stats homework.  "What are you doing for the weekend?"
 
 "Erika invited me to watch conference with her.  You should come along if you're available tomorrow."
 
@@ -500,6 +504,7 @@ October 1, 2022.  "How are your parents?" Carli asked.  I was at her place for t
 "I don't know,” I answered.  “I don't talk to them too often.  I think my mom called me about a month ago."
 
 "Michael!  You haven't talked to your parents in a month?  I talk to my mom like six times a day.  But it's only for like five minutes per time between classes.  Maybe I'm annoying her."
+
 "My mom just called me out of the blue.  They're probably really busy, and the time zone difference is pretty big."
 
 "Michael, those sound like excuses."
@@ -550,7 +555,7 @@ _“Everyone says that about her.”_
 
 ## Section 3
 
-October 9, 2022.  It was another busy week with interviews.  I had done a fourth and final interview with AT&T.  It was a pretty rigorous process, but I felt really good about my last interview.
+October 9, 2022.  It was another busy week with interviews.  I finished a fourth and final interview with AT&T.  It was a pretty rigorous process, but I felt really good about my last interview.
 
 It was also that season of first-round midterms.  Things were getting pretty busy at this point, but I felt like I was doing pretty well balancing school, work, sleep, finding a summer internship, and even my social life thanks to Gyuna.
 
@@ -565,6 +570,7 @@ Gyuna was lying on the couch.  It obviously looked like she wasn’t in the mood
 “My sleep schedule is messed up.  And I don’t feel like doing anything.  And I hate my major.  I go to CS 180, and I don’t understand what’s going on.  I feel like it’s so pointless to go to that class.  Ever since that car trouble on Sunday night, I’ve been going to bed really late.  Like, usually past 2am.  And I get all these nightmares, and it’s hard to stay asleep.  Also, the meat didn’t turn out right.  I’m pretty sure it’s rotten because the texture isn’t good.  I just feel like trash.”  She kept scrolling through her phone.
 
 I saw the beef she had cooked on the stove and tried a few pieces.  “It’s not that bad,” I said.
+
 “Don’t get sick,” Christian said.  “It’s probably not good to eat.”
 
 I kept eating it anyway.
@@ -573,7 +579,7 @@ I kept eating it anyway.
 
 “That looks extremely uncomfortable,” I said.  “I think it would be easier to at least sit up and eat.”
 
-The following day, I actually invited them to come over to my apartment for lunch.  I made some fettucine alfredo sauce, pasta, and Jimmy Dean sausage.  They said they actually enjoyed it, even though they complained that eating plain pasta every single day for lunch was gross.
+The following day, I invited them to come over to my apartment for lunch.  I made some fettucine alfredo sauce, pasta, and Jimmy Dean sausage.  They said they actually enjoyed it, even though they complained that eating plain pasta every day for lunch was gross.
 
 The three of us then went to the LSB and studied until about 9:30, at which point we went to SLAB pizza.  Gyuna and Christian wanted to go to the movie theater to see a horror movie, or as Christian said, a "suspense" movie.  I wasn’t a fan of those kinds of movies, and it was rated R, so I felt like it would be too much for me.
 
@@ -581,7 +587,7 @@ The three of us then went to the LSB and studied until about 9:30, at which poin
 
 Well, that was okay.  What was bad about third wheeling?  "We can watch something else," I suggested.
 
-"Do you really want to watch _Lyle, Lyle, Crocodile_?" she asked.  She didn't seem like she was going to enjoy it, and Christian felt the same.
+"Do you really want to watch _Lyle, Lyle, Crocodile_?" she asked.  She sounded like she wasn't going to enjoy it, and Christian felt the same.
 
 "Why can't we just watch a movie on your laptop and project it onto a TV?  Like at the library?" I asked.  Well, I guess it sounded like they wanted to watch a movie at 10pm and not any earlier.  They had their chances.
 
@@ -603,7 +609,7 @@ Gyuna and Christian came about an hour late, so I waited outside.  When they arr
 
 “Fuego is a bit more intense,” Gyuna said.  “You need to go there too!”
 
-The first part of it was dancing.  I sort of forgot what dancing was like, but Gyuna and Christian did their best to make me feel included.  The second part of the activity was the actual performances.  It was pretty fancy since some professional video people were videoing performances.  Some of them were actual K-pop dance groups in the area, and others were students who decided to do something together.  One of those student groups did a Blackpink song whose English-translated title was “As If It’s Your Last” (the song at the very beginning of the reflection).  I wasn’t much of a fan of the song since it talked about love and all that stuff.  I couldn’t relate to any of it.  But it was fun.  I was glad that Gyuna and Christian wanted me to go.
+The first part of it was dancing.  I sort of forgot what dancing was like, but Gyuna and Christian did their best to make me feel included.  The second part of the activity was the actual performances.  It was pretty fancy since some professional video people were videoing the performances.  Some of them were actual K-pop dance groups in the area, and others were students who decided to do something together.  One of those student groups did a Blackpink song whose English-translated title was “As If It’s Your Last” (the song at the very beginning of the reflection).  I wasn’t much of a fan of the song since it talked about love and all that stuff.  I couldn’t relate to any of it.  But it was fun.  I was glad that Gyuna and Christian wanted me to go.
 
 ## Section 4
 

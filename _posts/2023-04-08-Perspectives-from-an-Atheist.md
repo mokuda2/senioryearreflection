@@ -375,7 +375,7 @@ _My expectation of a social life becoming a disappointment was the second reason
 
 _For the past few weeks, I had prayed to have some close friends.  I always struggled when it came to talking to people and developing friendships—it was something I knew about myself very well—but I didn’t think I’d still have that same struggle at BYU._
 
-...
+## Section 4
 
 June 25, 2023.  “Thank you so much for helping me out,” I said.  I was at Paige’s place picking up some of my belongings she stored for me over the summer.
 
@@ -430,7 +430,7 @@ _After a few minutes, we headed out to go to ward prayer, and I went back to my 
  
 _It was super nice of Paige to reach out to me.  I’d have to get out of my comfort zone and give her a chance; it was my opportunity to make a good friend._
 
-## Section 4
+## Section 5
 
 July 16, 2022.  President and Sister Beardall had recently finished their calling as mission president and wife, and they invited all the missionaries to a mission reunion in Sandy today.  I thought it would be cool to see what it would be like, so I made plans to go.  I planned to say hi to a few people and then leave in half an hour since I didn’t feel like I had anyone close to talk to.  In social events like these, I guess I went only to be informed, not really to make new friends.  My purpose was to see what a mission reunion looked like, how people interacted, and what activities would go on.
 
@@ -533,7 +533,7 @@ _My experiences with anxiety and depression on the mission amplified my desire t
 
 _I also got an email from Carli telling me about a guy she had been dating.  She said she met an amazing guy over the summer and that they were going to get engaged.  They broke up about a week before their engagement.  She told me she was heartbroken because of it and asked me how I was able to cope with my own challenges.  I had a hard time understanding things when it came to dating and relationships.  If Carli thought this guy was amazing, why did they break up?  Was it because he wanted to break up?  It didn’t make sense because it sounded like both parties were thinking about engagement.  And if things didn’t work out, then it wasn’t like he was the right person anyway, so why feel sad about it?  I also didn’t understand why people who broke up didn’t talk to each other like they never existed in the first place.  It sounded toxic to me._
 
-## Section 5
+## Section 6
 
 August 19, 2022.  At this point, I finished my internship.  I was kind of glad that it was over.  Some days that boring; sometimes I’d just stare at my laptop screen trying to figure out what I needed to do with the data.  I was sure it would’ve been a different experience if I were to work in person.  But I was glad that the internship was remote since I could spend time with Mom and Dad before they left.
 
@@ -683,7 +683,7 @@ _We still had the letters in our hands, and we decided to open them up.  I had n
 
 _We then noticed that some other people had left because they had their wizard clothes on.  “See?  They snuck out too,” Paige said.  Right when she said that, there was a guy who literally zoomed right past us as he sprinted across the sidewalk.  “Yeah, that how it be.”  Paige laughed.  We ended up going back to my apartment to play card games past midnight again._
 
-...
+## Section 7
 
 August 25, 2022.  Brother and Sister Atkin invited me to go to their place.  Brother Atkin taught me how to ride one of the horses, and then we ate dinner.
 

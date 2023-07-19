@@ -56,7 +56,7 @@ After some exploring, Gyuna left to go to class.  But what was surprising was th
 
 We went to the second floor of the library where I usually studied during my freshman year.
 
-“What do you think of these pictures?” Gyuna asked me after a few minutes of settling down in some seats.  “I’m thinking about posting them to my Instagram.”
+“What do you think of these pictures?” Gyuna asked me after a few minutes of settling down in some seats.  “I’m thinking about posting them on my Instagram.”
 
 “I know where that is,” I said as she showed me a picture of her at the stairs of the Wilk.
 
@@ -64,7 +64,7 @@ We went to the second floor of the library where I usually studied during my fre
 
 “I don’t think so.”
 
-She then asked a girl who was sitting on the other side of me.  I was surprised how outgoing Gyuna was to talk to someone she didn’t know like that.  “…Yeah, this is my first semester at BYU, and it’s been a lot.  But thanks so much!”
+She then asked a girl who was sitting on the other side of me.  I was surprised how outgoing Gyuna was to talk to someone she didn’t know like that.  “...Yeah, this is my first semester at BYU, and it’s been a lot.  But thanks so much!”
 
 After a bit of studying, I saw that she was about to take a selfie with me.
 
@@ -79,11 +79,11 @@ So she did and posted it on her story.
 _**With Gyuna at the library**_  
 <img src="https://raw.githubusercontent.com/mokuda2/junioryearreflection/main/assets/images/First%20Week%20of%20Fall%20Semester.jpg" width=400 />
 
-And then on Friday after class…
+And then on Friday after class...
 
 “Hey, I’m going to sing some karaoke right now,” Gyuna said.  “Wanna join?”
 
-I was thinking about studying for the rest of the day and then shopping afterwards.  Honestly, I was a bit nervous when she tagged along with me to the gym and the library on Monday and Wednesday.  It was…weird to have someone hang out with me.  But maybe I needed to give her a chance.  “Sure,” I said.  I didn’t think it would be too long.  “Where are you going to go karaoke?”
+I was thinking about studying for the rest of the day and then shopping afterwards.  Honestly, I was a bit nervous when she tagged along with me to the gym and the library on Monday and Wednesday.  It was... weird to have someone hang out with me.  But maybe I needed to give her a chance.  “Sure,” I said.  I didn’t think it would be too long.  “Where are you going to go karaoke?”
 
 “I reserved a room in the library.”
 
@@ -97,7 +97,7 @@ I was thinking about studying for the rest of the day and then shopping afterwar
 
 Gyuna and I went to the fourth floor of the library.  There was a studio area, and we went into a room with a bunch of audio equipment in it.  “What do you want to sing?” she asked as she set stuff up.
 
-“Uh, I don’t know,” I answered.  “I don’t really know that many songs.”  I had to think for a moment.  “Hm… I know!  ‘Ddu du ddu du.’”
+“Uh, I don’t know,” I answered.  “I don’t really know that many songs.”  I had to think for a moment.  “Hm... I know!  ‘Ddu du ddu du.’”
 
 Gyuna laughed.  “‘Ddu du ddu du’!  That was your song on the mission.”
 
@@ -145,7 +145,7 @@ I didn’t know what he meant by that.  Life was just fine without a relationshi
 
 “Any celebrity crushes you’ve had?” he asked.
 
-“No, I don’t really know celebrities.”  It was kind of true.  I didn’t have any celebrity “crushes.”  I honestly didn’t know what that meant.  Someone I obsessively thought about?  No, I didn’t have that kind of Disease.
+“No, I don’t really know celebrities.”  It was kind of true.  I didn’t khave any celebrity “crushes.”  I honestly didn’t know what that meant.  Someone I obsessively thought about?  No, I didn’t have that kind of Disease.
 
 Gyuna and Christian kind of gave each other a look like I did or said something wrong.  “You know _Howl’s Moving Castle_, right?” Gyuna asked.  “Would you date Sophie?”
 
@@ -255,7 +255,7 @@ For the most part, she and I just talked about stuff.  The topic somehow transit
 
 "I don’t remember.  I had done some research on it, but I don't remember what it meant."
 
-After some research, Gyuna said, “You’re a hind let loose.  In other words, you’re a scout who goes out and comes back with good news.  You’re also one with natural affection.”  She turned to me and smiled.  “No wonder I feel so much better now.  You're one who emanates natural affection.  And smartness too.  You know, when I have smart people around me and I feel smart, then I’m going to think that they’re from the tribe of Naphtali."
+After some research, Gyuna said, “You’re a hind let loose.  In other words, you’re a scout who goes out and comes back with good news.  You’re also one with natural affection.”  She turned to me and smiled.  “No wonder I feel so much better now!  You're one who emanates natural affection.  And smartness too.  You know, when I have smart people around me and I feel smart, then I’m going to think that they’re from the tribe of Naphtali."
 
 That was quite a conclusion.  Plus, I didn't feel like I emanated affection.  Probably the complete opposite.
 
@@ -343,7 +343,7 @@ September 29, 2022.
 
 ```It's intriguing yet disappointing to see how my roommates seem to connect with each other but I can’t do the same. Basically the story of my life.```
 
-```Gyuna: That does piss me off… maybe they r freaking racist lol```
+```Gyuna: That does piss me off... maybe they r freaking racist lol```
 
 ```Me: Maybe. But maybe not. It’s been a pretty common pattern throughout my life.```
 
@@ -379,7 +379,7 @@ September 29, 2022.
 
 ```They could paint themselves black.```
 
-```Gyuna: I don’t understand that either…but lots of time it is easier for me to be connected w Asians or some different races```
+```Gyuna: I don’t understand that either...but lots of time it is easier for me to be connected w Asians or some different races```
 
 ```Me: It’s interesting that most of the people who do approach me are Asians. And they seem more approachable and connectable.```
 
@@ -391,7 +391,7 @@ September 29, 2022.
 
 ```Me: Like even in our class, you can kind of see the dichotomy. The Asians all sit together. The whites all sit together. There’s not much of a mix.```
 
-```Gyuna: Yea…I try not to do it most of the time lol. The reason why im sitting w ya is because u r my friend hehe```
+```Gyuna: Yea...I try not to do it most of the time lol. The reason why im sitting w ya is because u r my friend hehe```
 
 ```Have you never felt you are different and being looked and judged differently from these white kids who are the majority in your life?```
 
@@ -421,7 +421,7 @@ I then saw that Gyuna was trying to call me.  I was already in bed, but I decide
 
 “Connections don’t just go away when people move.  They’re there, but it’s different being far away.  It’s a time to connect with other people who are around you.”  She then asked, “Michael, do you like me?”
 
-That word again.  “Define ‘like.’”
+That word again.  “Define 'like.’”
 
 "Oh.  My.  Goodness.  Okuda, you know EXACTLY what I mean."
 
@@ -581,7 +581,7 @@ I kept eating it anyway.
 
 The following day, I invited them to come over to my apartment for lunch.  I made some fettucine alfredo sauce, pasta, and Jimmy Dean sausage.  They said they actually enjoyed it, even though they complained that eating plain pasta every day for lunch was gross.
 
-The three of us then went to the LSB and studied until about 9:30, at which point we went to SLAB pizza.  Gyuna and Christian wanted to go to the movie theater to see a horror movie, or as Christian said, a "suspense" movie.  I wasn’t a fan of those kinds of movies, and it was rated R, so I felt like it would be too much for me.
+The three of us then went to the LSB and studied until about 9:30, at which point we went to SLAB pizza.  Gyuna and Christian wanted to go to the movie theater to see a horror movie, or as Christian said, a "suspense" movie.  I wasn’t a fan of those kinds of movies though.
 
 “Pleeeeeeease, can you go with us?” Gyuna asked for the tenth time.  “I’ve asked all my friends, and they said that they’ve already got plans.  Except there’s this one friend who said she could make it, but if you don’t go, then she’ll just be third wheeling, and we’d hate for that to happen.”
 
@@ -605,11 +605,11 @@ October 21, 2022.  I received an internship offer with AT&T!  After those four s
 
 Gyuna and Christian came about an hour late, so I waited outside.  When they arrived, they were playing “ddu du ddu du.”
 
-“Is this what Fuego is like?” I asked when the three of us went inside the Wilk Ballroom.  Gyuna and Christian liked to go to this one popular party place called Fuego that had Latin dancing.  They had tried to convince me to go for the past month or so.
+“Is this what Fuego is like?” I asked when the three of us went inside the Wilk Ballroom.  Gyuna and Christian liked to go to this one popular party place called Fuego that had Latin dancing.  They had tried to convince me to go for the past month.
 
 “Fuego is a bit more intense,” Gyuna said.  “You need to go there too!”
 
-The first part of it was dancing.  I sort of forgot what dancing was like, but Gyuna and Christian did their best to make me feel included.  The second part of the activity was the actual performances.  It was pretty fancy since some professional video people were videoing the performances.  Some of them were actual K-pop dance groups in the area, and others were students who decided to do something together.  One of those student groups did a Blackpink song whose English-translated title was “As If It’s Your Last” (the song at the very beginning of the reflection).  I wasn’t much of a fan of the song since it talked about love and all that stuff.  I couldn’t relate to any of it.  But it was fun.  I was glad that Gyuna and Christian wanted me to go.
+The first part of it was dancing.  I sort of forgot what dancing was like, but Gyuna and Christian did their best to make me feel included.  The second part of the activity was the actual performances.  It was pretty fancy since some professional video people were videoing the performances.  Some of the performers were in actual K-pop dance groups in the area, and others were students who decided to do something together.  One of those student groups did a Blackpink song whose English-translated title was “As If It’s Your Last” (the song at the very beginning of the reflection).  I wasn’t much of a fan of the song since it talked about love and all that stuff.  I couldn’t relate to any of it.  But it was fun.  I was glad that Gyuna and Christian wanted me to go.
 
 ## Section 4
 

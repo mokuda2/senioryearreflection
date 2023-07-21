@@ -72,11 +72,7 @@ After about half an hour, Kent's friend left to go to a choir rehearsal.
 
 “You seem pretty smart too,” I said.  “I liked science in high school, but biology and chemistry classes here sound terrible.  I used to study at the LSB all the time, and I’d sometimes listen to people studying for their biology or chemistry test.”
 
-“It’s a lot of studying for sure, but it’s not too bad.  Most biology and chemistry classes have a 75-percent weight on just tests, so if you don’t do well on a test, then it really affects your overall grade.  So far, I’m not doing too hot in my biochemistry class, but if I can do well on this next midterm, then maybe I could bump my grade up to an A-.  I had a 4.0 in high school, so when I came here to BYU, I realized how hard it was to maintain a 4.0.  I guess the Spanish classes I’m taking aren’t hard to get A’s in, so my GPA is still high, even with a few A-’s and a B+.”
-
-“Yeah, I made an A- my first semester, so I ruined my 4.0 then.  But I still have yet to make a B+ in a class, so I guess I have that to look forward to.”
-
-“So what would you say is your type of humor?” Kent asked.
+“It’s a lot of studying for sure, but it’s not too bad.  Most biology and chemistry classes have a 75-percent weight on just tests, so if you don’t do well on a test, then it really affects your overall grade."  He continued.  “So what would you say is your type of humor?”
 
 Type of humor?  I wasn’t sure if there was a category of things that made me laugh.  “I don’t know,” I answered.  I felt dumb.  It sounded like I didn’t laugh about anything.  “I’d say inside jokes.”
 
@@ -92,11 +88,11 @@ Type of humor?  I wasn’t sure if there was a category of things that made me l
 
 “I’d say I’m more of an introvert, though I don’t like being by myself for too long.  I like studying where there are other people around me.  I’m definitely more of a one-on-one person, but I’m pretty quiet in group settings.”
 
-“Yeah, I’m pretty quiet in groups too.  Sometimes family reunions can be crazy.  Sometimes I’ll just walk up and leave in the middle of it without saying bye if I’m not feeling it.”
+“Yeah, I’m pretty quiet in groups too.  Family reunions can be crazy.  Sometimes I’ll just walk up and leave in the middle of it without saying bye if I’m not feeling it.”
 
 “That’s actually so relatable.  I usually leave activities if I don’t find it to be a productive use of my time.”
 
-Kent and I talked for about a couple hours.  I began to feel a lot more comfortable.  It actually felt natural to hold a conversation, and he kept it going, which I liked.  “So how long have you been out?” he asked in a lower voice.
+Kent and I talked for about a couple hours.  I began to feel a lot more comfortable.  It actually felt natural to hold a conversation, and he kept it going, which I liked.  “So how long have you been out?” he asked, lowering his voice.
 
 “I actually haven’t come out to anyone,” I answered, also lowering my voice.
 
@@ -123,11 +119,12 @@ I still found it difficult to find the words to express my feelings.  I had neve
 “Aww, that’s really sad!” Kent exclaimed.
 
 “But one of my friends from the mission transferred to BYU-Provo this semester, and she’s been such a good friend to me.  I think I realized then that I can’t be alone for the rest of my life.”
+
 “Do you hang out with your friend a lot?”
 
 “Yeah, she and I hang out almost every day.  Her name is Gyuna.  She’s from Korea.  She and I usually try to study together, but we end up having really long conversations and get pretty distracted.”
 
-“I think that’s typical.  I mean, if you’re around your friends, you’re bound to talk to them.  But she sounds like a good friend!  She could possibly be someone you come out to.”
+“I think that’s typical.  I mean, if you’re around your friends, you’re bound to talk to them.  But she sounds like a good friend!  <u>She could possibly be someone you come out to.</u>”
 
 Maybe she would be a good person to tell this about.  I wasn’t exactly sure what she’d help me with, but I knew that it would probably manifest itself at some point, especially if I was going to continue dating guys.
 
@@ -139,13 +136,13 @@ Maybe she would be a good person to tell this about.  I wasn’t exactly sure wh
 
 “Oh no, you’re good!  It’s good getting to know you in person.”
 
-While Kent was gone, I checked my phone to see that I had gotten a reply from Connor.  I had asked him a couple days ago what his week looked like, and it sounded like he was going to be busy with a test and some projects.  I wasn’t sure if he was going to be available this week, but I asked him if he wanted to go on a date.  Maybe he was saying he was busy because he didn’t want to go on a date with me, but I hoped that at least he and I could be… friends or allies?  I wasn’t sure what the word was, but I didn’t want to burn bridges with guys in our tiny pool.  I felt like a divide within the gay community would’ve been extremely detrimental, especially at BYU.
+While Kent was gone, I checked my phone to see that I had gotten a reply from Connor.  I had asked him a couple days ago what his week looked like, and it sounded like he was going to be busy with a test and some projects.  I wasn’t sure if he was going to be available this week, but I asked him if he wanted to go on a date.  Maybe he was saying he was busy because he didn’t want to go on a date with me, but I hoped that at least he and I could be… friends or allies?  I wasn’t sure what the word was, but <u>I didn’t want to burn bridges with guys in our tiny pool.  I felt like a divide within the gay community would’ve been extremely detrimental, especially at BYU.</u>
 
 ```Connor: Michael, I think I am actually going to say no to a date. There’s a lot going on in my life and I think I need to focus on myself for a bit before I get back into dating. I hope you understand. You seem like a really great person so it’s nothing about you. Yes of course we can be friends. I know that beginning to come out to yourself and dating can be a lot so just know I’m here if you need someone to talk to.```
 
-Well, it was a bit of a bummer.  But at least he was being honest.  Maybe that was why it took him a couple days to respond back to me.  I honestly didn’t understand what he meant when he said he needed to focus on himself before getting back into dating, but maybe I’d walk that same path as well.  I had no right to judge.
+Well, it was a bit of a bummer.  But at least he was being honest.  Maybe that was why it took him a couple days to respond back to me.  I didn’t understand what he meant when he said he needed to focus on himself before getting back into dating, but maybe I’d walk that same path as well.  I had no right to judge.
 
-Me: Hey, thanks for being honest. I think honesty is super attractive ;) I hope that whatever’s happening in your life turns out to be the best for you!
+```Me: Hey, thanks for being honest. I think honesty is super attractive ;) I hope that whatever’s happening in your life turns out to be the best for you!```
 
 After a few minutes, Kent came back.  I had my STAT 330 notes out to study, but I had such a hard time focusing.  Even though I felt more comfortable talking to Kent, I still felt butterflies in my stomach.  It was so weird that I felt this way.
 
@@ -159,16 +156,18 @@ After a few minutes, Kent came back.  I had my STAT 330 notes out to study, but 
 
 “Is he a BYU student?” I asked.
 
-“Yeah.  He’s doing an internship in Washington DC right now though.”  He continued, “So tell me more about your Gyuna!  What do you like about her?  What kinds of stuff do you do together?”
+“Yeah.  He’s doing an internship in Washington DC right now though.”  He continued, “So tell me more about your friend Gyuna!  What do you like about her?  What kinds of stuff do you do together?”
 
 “Well, we have a CS class together, so we usually work on the labs together.  She makes good food, so she’ll sometimes invite me over to have dinner with her.  On the weekends, she sometimes goes to Rexburg to meet her boyfriend, and he sometimes comes down here to Provo.  The three of us usually hang out over the weekends together.  I think she’s been a really good friend to me because she talks to me.  I don’t feel like a lot of people are like that to me.  I’d say my love language is when people talk to me, and she’s good at that.”
 
-“When I get comfortable around people, I’m a very touchy person.”  I thought about how Gyuna’s love language was physical touch as well.  But unlike how cringy I thought it was that Gyuna would touch me, I didn’t think I’d mind Kent being touchy.  He was really nice, he seemed smart, and I felt like I vibed with him.
+“When I get comfortable around people, I’m a very touchy person,” Kent said.  I thought about how Gyuna’s love language was physical touch as well.  But unlike how cringy I thought it was that Gyuna would touch me, I didn’t think I’d mind Kent being touchy.  He was really nice, he seemed smart, and I felt like I vibed with him.
 
 Wait.  I felt like I wouldn’t mind if Kent was touchy?  Where did that feeling come from?
+
 “But it really does sound like you and Gyuna are tight,” Kent continued.  “I think she’d be a great person to talk to.  And I’m here as well if you need to talk.  I know it can be hard.  It’s definitely a journey.”
 
 Kent and I had been at the library for about four hours, at which point I needed to leave to attend a data science leadership meeting.  “Well, I think I’ll need to go,” I said.  “It’s a Zoom meeting, but I think I’ll chill in the Talmage since that’s where we usually meet.”
+
 “No worries!  It was really nice to meet you!”
 
 “Do you want to plan something to do later?”
@@ -267,14 +266,16 @@ I was surprised to hear from Kent!  After meeting him yesterday and after my dat
 
 I woke up to a racing heart.  I was SO excited for my date with him on Friday!  I hadn’t felt so excited like this in a long time.  The last time I felt like this was when I got my driver’s license.  There was nothing romantic about getting a driver’s license though.
 
-Wait.  Was this what people called “romantic feelings”?  I began to question my perceptions of romantic feelings.  Maybe it wasn’t bad to have those kinds of emotions.  At least to me, they felt good!  It wasn’t just a feeling of excitement about something: it was a feeling of excitement about SOMEONE.  It was a feeling where I couldn’t stop thinking about that someone.  Even though I hung out with Gyuna almost every day, I didn’t feel anything like that with her.  Heck, I was kind of disgusted even thinking about viewing her like that.
+Wait.  Was this what people called “romantic feelings”?  I began to question my previous perceptions.  Maybe it wasn’t bad to have these kinds of emotions.  At least to me, they felt good!  It wasn’t just a feeling of excitement about something: it was a feeling of excitement about SOMEONE.  It was a feeling where I couldn’t stop thinking about that someone.  Even though I hung out with Gyuna almost every day, I didn’t feel anything like that with her.  Heck, I was kind of disgusted even thinking about viewing her like that.
 
 For the first time in such a long time, I felt SO happy!  Even “happy” didn’t feel like the right word.  It was a weird feeling that I felt this way, but I felt so good inside!  It made me want to be a little kinder, a little more thoughtful.
 
 In STAT 240, I had finished my second midterm.  I sat by a Korean named <span style="color:red">Hyeji</span> whom I first met at an actuary info session near the beginning of the semester.  She decided to sit by me since then.
+
 “How did you do on the midterm?” she asked during class.
 
 “I missed one question,” I answered.  “I’m really surprised.  It wasn’t an easy midterm.”
+
 “Yeah, I think I did the worst on any midterm I’ve ever taken.  I missed ten questions.  Would you happen to have time outside of class to help me go over the questions I missed?  Maybe explain them so that I can understand?”
 
 “Sure!”
@@ -295,20 +296,21 @@ The following day, she and I went to the fourth floor of the library and spent a
 
 ## Section 2
 
-As I started dating, I had a lot of thoughts and questions floating around in my mind.
+As I started dating, many thoughts and questions filled my mind.
+
 Many people in the Church—and I assumed people outside the Church as well—said that same-sex attraction and homosexuality were feelings of “unnatural affection,” that there was a cure to the same-sex Disease.  I knew that the Church taught that marriage between a man and a woman was ordained of God.  What I didn’t understand was why people—especially at BYU—made such a big deal about romance or having “feelings” for another person.  The ceremony of a marriage sealing was mechanical: take someone with XX sex chromosomes and another with XY sex chromosomes, and allow them to take that next steppingstone towards exaltation.  Of course, they weren’t guaranteed exaltation; they both had to keep their covenants together.  But why try to involve emotions?  I didn’t like it when people talked about how they FELT when they went on a date and why they made it such a big deal.  Wasn’t there a way to cure the Disease—these feelings of “romance,” whether the victims inflicted were straight or gay?
 
-If anything felt like “unnatural affection” to me, it was the thought of trying to date and marry a girl.  The thought of even touching a girl felt perverted and offended my mind.  And maybe that was what straight guys thought about dating and marrying a guy.  I could now sort of understand why straight guys would say it was “unnatural affection” to be in a homosexual relationship, but what about gay guys being in a heterosexual relationship?  That definitely would’ve felt like “unnatural affection” to me.
+If anything felt like “unnatural affection” to me, it was the thought of trying to date and marry a girl whom I had "feelings" for.  The thought of even touching a girl felt perverted and offended my mind.  And maybe that was what straight guys thought about dating and marrying a guy.  I could now sort of understand why straight guys would say it was “unnatural affection” to be in a homosexual relationship, but what about gay guys being in a heterosexual relationship?  That definitely would’ve felt like “unnatural affection” to me.
 
 Along with “unnatural affection,” another thing I heard from many members of the Church was that people can choose to be gay.  I didn’t understand that either.  Even though I had tried to suppress and even deny my feelings for guys the past 16 years, I didn’t make a conscious choice to have these feelings.  Did straight guys get to weigh the options of liking girls or liking guys and made a choice to like girls?  If that was the case, I was sure that almost 100 percent of “straight” guys chose to like girls.  I was pretty sure that they didn’t choose their sexual orientation just as much as I didn’t get to choose mine.
 
 Plus, from a logical perspective, life would’ve been much easier if I had been attracted to girls in the first place.  Straight people made up the Majority of society.  Men and women could have children of their own and not have to adopt.  And having an attraction towards the opposite sex allowed a natural flow towards exaltation.
 
-One of the greatest lessons I learned from my mission was that keeping the commandments and obeying mission rules didn’t mean merely going through the motions.  It also had to come from the heart.  It had to have desire behind the motions.  Of course, going through the motions was a possible starting point, but it wasn’t enough.  That too must have applied with marriage.  Now I realized what Gyuna meant when she said she’d run away from Christian if he never touched her.  It wasn’t merely to satisfy her love language.  Physical touch was supposed to feel like a natural thing, just like she said.  Following the directions from a romantic-love manual by extending the arm where the phalanges of one person touched the clavicle of the other wasn’t how romance should’ve sounded or felt or looked like.  Romantic love wasn’t a mechanical matter.  I began to understand that with my feelings toward Kent.  Physical touch from Kent wasn’t something I thought I needed; it was something I WANTED.
+<u>One of the greatest lessons I learned from my mission was that keeping the commandments and obeying mission rules didn’t mean merely going through the motions.  It also had to come from the heart.  It had to have desire behind the motions.</u>  Of course, going through the motions was a possible starting point, but it wasn’t enough.  That too must have applied with marriage.  Now I realized what Gyuna meant when she said she’d run away from Christian if he never touched her.  It wasn’t merely to satisfy her love language.  Physical touch was supposed to feel like a natural thing, just like she said.  Following the directions from a romantic-love manual by extending the arm where the phalanges of one person touched the clavicle of the other wasn’t how romance should’ve sounded or felt or looked like.  Romantic love wasn’t a mechanical matter.  I began to understand that with my feelings toward Kent.  Physical touch from Kent wasn’t something I thought I needed; it was something I WANTED.
 
 However, I felt conflicted with my emotions and my logical mind.  My goal was to receive exaltation.  I felt like my family raised me well on gospel principles, and I felt like living the gospel shaped so much of my life.  I wanted to return to live with my Heavenly Father and to be with my family in the eternities.  That was why in high school, I thought I would marry a woman and raise a family.  But there were more implications about marriage than my innocent mind thought there were.  I didn’t understand why society made such a big deal about physical touch, but now I understood the question of how a couple could be happy if there was no desire for physical touch.  And how would that affect their posterity?  If I had natural inclinations towards guys and had no desire for a girl, how could I receive exaltation?  Now I understood that question from a non-mechanical perspective.  Even if I went through the motions, would that be enough?  No, not from the lessons I had learned from my mission.
 
-I also knew some members of the Church theorized that in the spirit world, the “unnatural affections” would correct themselves—that everyone would be straight.  I didn’t understand that though.  Of course it would be easy for straight people to say that we’d all become straight because that was how they naturally felt all the time.  But the scriptures said that we would carry the desires of the heart with us after this life.  Weren’t romantic feelings one of the desires of the heart?  Sure, things like anxiety and depression would dissipate when we’d be resurrected.  I was looking forward to that.  But a complete change in my sexual orientation?  That just sounded wrong and perverted.  In a hypothetical situation, what if God created man and woman such that men had children with men and women had children with women?  Would straight people feel hopeful that their sexual orientation would change in the spirit world so that they’d become gay?  I wouldn’t think so.  If people were mechanical, straight people would kill themselves so that they could feel gay.  Even that sounded ironic.  And sure, it was a hypothetical situation, but this kind of hypothetical situation was my reality.
+I also knew some members of the Church theorized that in the spirit world, the “unnatural affections” would correct themselves—that everyone would be straight.  I didn’t understand that though.  Of course it would be easy for straight people to say that we’d all become straight because that was how they naturally felt all the time.  But the scriptures said that we would carry the desires of the heart with us after this life.  Weren’t romantic feelings one of the desires of the heart?  Sure, things like anxiety and depression would dissipate when we’d be resurrected.  I was looking forward to that.  But a complete change in my sexual orientation?  That just sounded wrong and perverted.  In a hypothetical situation, if God created man and woman such that men had children with men and women had children with women, would straight people feel hopeful that their sexual orientation would change in the spirit world so that they’d become gay?  I wouldn’t think so.  If people were mechanical, straight people would kill themselves so that they could feel gay.  Even that sounded ironic.  And sure, it was a hypothetical situation, but this kind of hypothetical situation was my reality.
 
 When I tried to find ways to cure the Disease, I couldn’t find a real answer.  No methods were shown on the Church’s website, and the Internet said that meditating could help.  But it was only a temporary thing.  Those romantic feelings didn’t permanently go away.  I also read articles about the unethical practices of conversion therapy.  It was something that the Church didn’t support either.  Some of the practices of conversion therapy included electrocution, self-harm when romantic feelings arose, and even priests chanting a prayer or reading scripture.  Obviously, they were abusive methods, but I thought it was interesting that the Church didn’t support methods of changing one’s sexual orientation to becoming straight.
 
@@ -354,7 +356,7 @@ November 11, 2022.
 
 ...
 
-Today was the day of the date!  Finally!  It felt like forever.  The plan was to watch the movie that Kent had invited me to at 5 and then eat at Costa Vida, which wasn’t too far from campus.
+Today was the day of the date!  Finally!  It felt like forever.  The plan was to watch the movie that Kent had invited me to at 5 and then to eat at Costa Vida, which wasn’t too far from campus.
 
 Class for CS 180 got cancelled, so Gyuna invited me to her place to eat lunch.  “What do you plan on doing for the rest of the day?” she asked.
 
@@ -380,17 +382,17 @@ But for the entire movie, I was just a nervous wreck.  For the first time ever, 
 
 After the movie, he and I walked to Costa Vida, which was about a 10-minute walk.  “So what did you think of the movie?” Kent asked.
 
-“It was interesting,” I replied.  “It was a different movie from others.”
+“It was interesting,” I replied.  “It was a different movie from others I've seen.”
 
-“You were probably like, ‘This was the most boring thing I’ve ever seen.’  I didn’t expect the movie to be that slow.  It’s probably the first time you’ve watched a movie like that, and it might be your last.  But what movies have you watched?”
+“You were probably like, ‘That was the most boring thing I’ve ever seen.’  I didn’t expect the movie to be that slow.  It’s probably the first time you’ve watched a movie like that, and it might be your last.  But what movies have you watched?”
 
 “I’ve watched some Disney.”
 
 “SOME Disney?  Only some?  Like what?”
 
-“I like Tangled.  I also watched Frozen.  I heard there’s a Frozen II, but I think it came out on my mission.  I haven’t watched it though.”
+“I like _Tangled_.  I also watched _Frozen_.  I heard there’s a _Frozen II_, but I think it came out on my mission.  I haven’t watched it though.”
 
-“I watched Frozen II, and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch Frozen II sometime.”
+“I watched _Frozen II_, and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch _Frozen II_ sometime.”
 
 “So what was it like in Bolivia?  Were people pretty receptive to the gospel?”
 
@@ -409,19 +411,19 @@ Kent and I finally arrived at Costa Vida and got in line.  “I eat here a lot,�
 
 It felt kind of weird being in public and saying stuff like that.  “Thanks, me too,” I said shyly.
 
-I knew the date wasn’t going to be extravagant, but it was sort of odd.  It felt like hanging out, even when I met Kent at the library or when I went on my date with Chris.  I guess I was subconsciously suppressing my feelings for Kent because I didn’t feel them as strongly as I did the past few days.  It was still nice to get to talk to each other, but it just didn’t feel… right.
+I knew the date wasn’t going to be extravagant, but it was sort of odd.  It felt like hanging out, even when I met Kent at the library or when I went on my date with Chris.  I guess I was subconsciously suppressing my feelings for Kent because I didn’t feel them as strongly as I did the past few days.  It was still nice to get to talk to each other, but it just didn’t feel... right.
 
 After Kent and I finished our meal at Costa Vida, he and I were about to part ways at the traffic light.  It sounded like he was going to do something with one of his roommates.  “Well, it was really nice spending time with you!” Kent said.  He and I gave each other a hug.  “I feel so bad that you came along to watch the movie.”
 
-I didn’t mind at all.  “No, don’t.  I’m glad I got to spend time with you,” I said shyly.
+I didn’t mind at all.  “No, don’t.  I’m glad I got to spend time with you,” I said.
 
-“Aw, thanks.  Maybe we can plan on doing something next week.  By the way, how have you felt about your sexuality and being at BYU?  Have you had any sorts of experiences with that?”
+“Aw, thanks.  Maybe we can plan on doing something next week.  By the way, how have you felt about your sexuality and being at BYU?  Have you had any sort of experiences with that?”
 
-I shrugged.  “I haven’t had any bad experiences,” I answered.  “I don’t make a big deal out of it.”
+I shrugged and shook my head.  “I haven’t had any bad experiences,” I answered.  “I don’t make a big deal out of it.”
 
 “That’s good.  I haven’t felt that way either.  And if people say shallow things to you, well, they’re just dumb.”
 
-After that, Kent and I went our separate ways.  For some reason, I left feeling… kind of sad.  I wasn’t even sure if I wanted a kiss from him, but it sounded nice.  Maybe next time.
+After that, Kent and I went our separate ways.  For some reason, I left feeling... kind of sad.  I wasn’t even sure if I wanted a kiss from him, but it sounded nice.  Maybe next time.
 
 I was studying on the main floor of the library when I got a video call from Gyuna.  She called about getting some help from the labs.
 
@@ -429,7 +431,7 @@ That was it!  Maybe I could do video chats with Kent!  It wasn’t as great as m
 
 ...
 
-November 12, 2022.  While I was studying at the library last night, I received a text from Shari inviting me to attend a pizza party with David and his relatives.  She was going to have a baby shower at someone else’s place.  So I decided to go.
+November 12, 2022.  While I was studying at the library last night, I received a text from Shari inviting me to attend a pizza party with David and his relatives.  She was going to have a baby shower at someone else’s place.
 
 David’s family and relatives definitely had a different family dynamic, which I was okay with, except that I never felt like I was part of the family.  I guess I wasn’t related by blood, but still.
 
@@ -443,13 +445,13 @@ I also saw Deanna!  I was surprised since I didn’t know about the baby shower 
 
 “Well, my challenge to you is to drink one before we come here for Christmas.  Otherwise, I’ll buy you a bunch of cookies ‘n cream milk, and you’ll have to drink it all.”
 
-After a short visit with Shari and Deanna, I headed out to go pick up Hyeji.  She was only a couple minutes away from where Shari and David lived, so I picked her up there.
+After a short visit with Shari and Deanna, I headed out to go pick up Hyeji for dinner.  She was only a couple minutes away from where Shari and David lived, so I picked her up there.
 
 “How was the test?” I asked when she got into the car.
 
 “It was bad,” she answered.  “I didn’t pass, so I’ll probably take it again in January.”
 
-Gyuna was down in Provo at Deseret Industries, so I picked her up there before we went off to Feast Buffet in the northern part of Orem.  It was about a 15-minute drive, and Gyuna and Hyeji spoke to each other in Korean for most of the time.  It was entertaining to hear them talk to each other.  It seemed like they felt comfortable talking.
+Gyuna was down in Provo at Deseret Industries, so I picked her up there before we went off to Feast Buffet in the northern part of Orem.  It was about a 15-minute drive, and Gyuna and Hyeji spoke to each other in Korean for most of the time.  It was entertaining to hear them talk to each other.  It sounded like they felt comfortable talking.
 
 Feast Buffet was pretty cheap for a buffet of its type, but it was pretty good.  I ate only one slice of David’s pizza so that I wouldn’t get too full, but I guess it was still too much.  I didn’t eat as much as I had hoped.
 
@@ -465,7 +467,7 @@ Feast Buffet was pretty cheap for a buffet of its type, but it was pretty good. 
 
 “Yeah, we served in Seattle,” I answered.  “I was serving in the Korean branch there when she came into the mission.”
 
-“Wow, that’s cool!  I’m actually not a member.  I’ve taken the discussions before, but I always feel a lot of pressure from the missionaries, so I’ve not met them anymore.”
+“Wow, that’s cool!  I’m actually not a member.  I’ve taken the discussions before, but I always felt a lot of pressure from the missionaries, so I’ve not met them anymore.”
 
 “Yeah, you definitely shouldn’t feel pressured to do anything,” I said.
 
@@ -502,6 +504,7 @@ It was another sort of awkward date.  John didn’t talk too much.  He seemed a 
 “I remember feeling something for a guy when I was seven,” I answered.  “I didn’t think much about it.  But when I was 10, I really began to notice.  I suppressed those feelings though.  But I’ve learned that I can’t live to be alone my entire life.  I can’t continue to suppress these feelings.  What about you?”
 
 “I started to notice that I had feelings for guys when I was in high school.  And when I went on my mission, that was when I really noticed those feelings.  Have you come out to anyone?”
+
 “No,” I answered.  “Not even to my closest friends or family.”
 
 “I’ve come out to a few people in my family.  I kind of did it weird though.  I just sent them a text, and I think it ended up spreading to other people.  But you definitely have to be careful about who you come out to.  I came out to past roommates, and they began to treat me differently.  Like, they’d get nervous being around me.  So I didn’t have a good experience with that.”
@@ -520,7 +523,7 @@ John leaned in until I said, “I’ve never done this before.  I’m really ner
 
 And that was when I had my first kiss.  It was sort of weird: definitely not what I had imagined it to be.  And it wasn’t just lips involved.  John was trying to put his tongue inside my mouth, so I tried to do the same.
 
-He and I kissed for about half an hour.  It honestly didn’t feel like it was that long.  But it left me with a sour taste in my mouth, maybe even literally.  I didn’t understand why people made such a big deal about kissing.
+He and I kissed for a few minutes.  It honestly didn’t feel like it was that long.  But it left me with a sour taste in my mouth, maybe even literally.  I didn’t understand why people made such a big deal about kissing.
 
 John took me back home, where we set up another date.  Honestly, I didn’t even know if our make-out session was considered a “date,” but at least he said that we could eat out somewhere next time.
 
@@ -532,7 +535,7 @@ I felt kind of bad that my first kiss wasn’t Kent.  The thing though was that 
 
 November 13, 2022.  Instead of going to my local ward, Gyuna and I decided to go to one of the Asian wards.  She invited a couple of her friends as well.  Church started an hour later than we thought, so we hung out at the JSB taking pictures.
 
-Afterwards, Gyuna and I went to her place.  She planned on cooking for a bunch of Korean people she had met.  I sat on the couch while she took out her cutting board and knife.
+Afterwards, Gyuna and I went to her place.  She planned on cooking for a bunch of Korean people she had met the past week.  I sat on the couch while she took out her cutting board and knife.
 
 “Michael, you were so cute in those pictures!” she exclaimed.  “Why don’t you go get yourself a wife?  And again, you can adopt me.  I’ll cook for you all the time, and I’ll make purchases on Amazon all day.”
 
@@ -548,13 +551,13 @@ I sighed.
 
 My heart raced.  “Yeah,” I nervously chuckled.
 
-“Are you going to tell me?”
+“Are you gonna tell me?”
 
 “I will.”
 
 “When?  Like, in a week?  Or right now?  Do you have to think about what you’re going to say?”
 
-“Yeah, I just need to think about how to say it,” I said.
+“Yeah, I just need to think about how to say it."
 
 Gyuna continued to chop some vegetables.  “I’m just saying, once you get yourself a girl you’ll fall in love with, you’ll understand.”
 
@@ -566,7 +569,7 @@ I sighed and squirmed.  Why couldn’t I do it?!
 
 “So… I actually like guys.”
 
-It was silent for about three seconds.  With a surprised expression on her face, Gyuna stopped chopping and looked up at me.  The tense silence felt like FOREVER.  “What?” she asked as if she had misheard me.
+It was silent for about three seconds.  With a surprised expression on her face, Gyuna paused and looked up at me.  The tense silence felt like FOREVER.  “What?” she asked as if she misheard me.
 
 “I like guys,” I repeated.  I was SO nervous.
 
@@ -584,7 +587,7 @@ Gyuna and I laughed.  “Sounds weird, but yeah,” she said.  “Oh, Michael!  
 
 “Aww, Michael!  That’s really sad!” Gyuna exclaimed.
 
-“When I got my internship offer at AT&T, I thought that if I liked the job and received a full-time offer that I’d move to Dallas and work and then do whatever at home by myself.  But I’ve realized that I can’t live a life like that forever.  It would be so hard, maybe even impossible.  I know that faith and feelings can seem like polar opposites, but I don’t feel like it’s a black-and-white thing where I can choose only one and leave the other behind.  I don’t plan on leaving the Church until the Church kicks me out.  The thing that’s hard for me is why God would allow people to have feelings for the same gender.  It’s not something that I have any control over.”
+“When I got my internship offer at AT&T, I thought that if I liked the job and received a full-time offer that I’d move to Dallas and work and then do whatever at home by myself.  But I’ve realized that I can’t live a life like that forever.  It would be so hard, maybe even impossible.  I know that faith and feelings can seem like polar opposites, but I don’t feel like it’s a black-and-white thing where I can choose only one and leave the other behind.  I don’t plan on leaving the Church until the Church kicks me out.  The thing that’s hard for me to understand is why God would allow people to have feelings for the same gender.  It’s not something that I have any control over.”
 
 “Well, why does God allow someone to murder someone else?”  I guess Gyuna was trying to show compassion, although I didn’t feel like her analogy was at the same level.  “Love is such a core part of one’s identity.  It’s definitely a difficult situation when it comes to feelings of love.”
 
@@ -594,11 +597,11 @@ After our conversation, Gyuna went back to cooking.  I knew I took up a lot of h
 
 “Yes, please!” she answered.  So we made food together as her friends came by.
 
-After I finished eating, I had plans to go to campus since Hyeji said she wanted to study with me.  As I left, Gyuna walked me out.  “Be safe!” she exclaimed.
+After I finished eating, I had plans to go to campus since Hyeji wanted to study with me.  As I left, Gyuna walked me out.  “Be safe!” she exclaimed.
 
 “I will!  I’ll see you later!”
 
-Coming out to Gyuna was one of the hardest things I did the past school year.  But a feeling of relief came over me.  I remembered Kent and Chris telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders.  I wouldn’t realize until later how much harder things would’ve been if I hadn’t come out to her.
+Coming out to Gyuna was one of the hardest things I did the past school year.  But a feeling of relief came over me.  I remembered Kent and Chris telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders.  I don't like to think about what the past school year would've been like if I hadn't come out to her.
 
 ## Section 5
 
@@ -607,13 +610,14 @@ November 14, 2022.  Gyuna and I met at the basement of the Talmage building in o
 “He asked me what my type of humor is, and I didn’t know how to answer that,” I said.  “What would you say is my type of humor?”
 
 “You’re very direct and to the point,” Gyuna answered.  “And what’s even better is that you’re not intentionally mean or offensive.  You just state what’s on your mind, so it can come off humorous.”
+
 Some people had told me that before.
 
 “Do you have pictures of him?  Is he Caucasian?” Gyuna asked.
 
  “Yeah, he’s Caucasian,” I answered as I pulled up Instagram.  “I’d say that I like white guys.  This is him.”
 
-She took my phone and scrolled through the pictures.  “Really?” she said in an unenthusiastic voice.  “You like him?  And he has so many followers.  He must be one of those popular white kids that I wouldn’t get along with.  He’s not really my type either.  By the way… do you like Christian?”
+She took my phone and scrolled through his pictures.  “Really?” she said in an unenthusiastic voice.  “You like him?  And he has so many followers.  He must be one of those popular white kids that I wouldn’t get along with.  He’s not really my type either.  By the way… do you like Christian?”
 
 “No,” I answered.  “He’s not my type.”
 
@@ -659,11 +663,11 @@ Gyuna looked shocked for a moment.  “Oh my gosh!” she exclaimed.  “That lo
 
 “I had the idea of video chatting Kent, just short but frequent calls.  I remember you and I video chatting later that night, and it felt natural.  Like, we feel comfortable just doing something like that.  Plus, I know you said that you video chat with Christian every day.  So I texted Kent about the idea, but I haven’t heard from him.”
 
-“Hm, that is a little fishy,” Gyuna said.
+“Hm, that's a little fishy,” Gyuna said.
 
 “When did you and Christian start video chatting?”
 
-“Hm, I can call Christian right now.”  So Gyuna did.  “Hey, look who I’m with.”  She turned the camera towards me.
+“I can call him right now.”  So Gyuna did.  “Hey, look who I’m with.”  She turned the camera towards me.
 
 “Hey, baby girl,” Christian said to me as he made smooching noises.
 
@@ -765,7 +769,7 @@ I tried to fall asleep, but the emotional and physical pain were so sharp.  I co
 
 ```Me: It’s so frickin hard! I wish there was another guy there for me, but I just don’t see it. Even with the guy that I’ll be going on a date with on Saturday, idk how I feel about it. I mean, I’m not as into him as I thought, but then I’d be my own Kent to him…```
 
-```Gyuna: As hurtful as it is, it is as natural process of finding someone to date. It’s natural, and a journey to take on for everybody to find that one person who you will love and who will love you back even more. It applies equally to you, Kent, and the other guy. You can’t force yourself or anybody else to like someone and be liked```
+```Gyuna: As hurtful as it is, it is a natural process of finding someone to date. It’s natural, and a journey to take on for everybody to find that one person who you will love and who will love you back even more. It applies equally to you, Kent, and the other guy. You can’t force yourself or anybody else to like someone and be liked```
 
 ```There are three songs that I think might help you! Cry as much as you need and let those feelings wash out. And have a knock out sleep Michael!```
 
@@ -786,15 +790,15 @@ That was what I thought.  That evening, I was in the Talmage basement in one of 
 
 “Hey,” I said unenthusiastically.
 
-“Oh, Michael.  Is this your first time ever feeling heartbroken?”
+“Oh, Michael.  Is this your first time feeling heartbroken?”
 
-“I guess that’s what I’m feeling.  I’ve never felt this way before, and it hurts.  I freaking hate it!  Have you ever felt heartbroken?”
+“I guess that’s what I’m feeling.  I’ve never felt this way before, and it HURTS.  I freaking hate it!  Have you ever felt heartbroken?”
 
 “Oh yeah.  I definitely have.  I think everyone has felt heartbroken at some point.  It’s part of life.”
 
 “What was it like feeling heartbroken for you?”
 
-“Well, when my ex and I broke up, it was really hard.  When he got back from his mission, he acted like he was avoiding me.  We didn’t tell a lot of people in the ward that we were dating, but it sounded like some things were getting spread around about us.  To make a long story short, when I was about to leave for my mission, I tried to talk things out with him, and he said that I needed to go find a better guy than him.  And I cried on the way to the MTC.”
+“Well, when my ex and I broke up, it was really hard.  When he got back from his mission, he acted like he was avoiding me.  We didn’t tell a lot of people in the ward that we were dating, but it sounded like some things were getting spread around about us.  To make a long story short, when I was about to leave for my mission, I tried to talk things out with him, but he said that I needed to go find a better guy than him.  And I cried on the way to the MTC.”
 
 “Wow, that sounds awful.  I can't imagine what it would be like to be in a relationship with someone and then break up.  Maybe I now know why it's so hard.”
 
@@ -804,7 +808,7 @@ That was what I thought.  That evening, I was in the Talmage basement in one of 
 
 “Who knows, things could’ve been worse.  Kent might be a psychopath, so you would’ve definitely dodged a bullet.”
 
-“If Kent was a psychopath, anyone would be a psychopath.”
+“If Kent's a psychopath, anyone would be a psychopath.”
 
 “Plus, Kent is ugly.  There are so many cuter-looking guys.”  It sounded like Gyuna’s taste in guys was an acquired one.
 
@@ -820,7 +824,7 @@ That was what I thought.  That evening, I was in the Talmage basement in one of 
 
 “Yes!  I’m sure your parents have felt heartbreak.  I’m sure your siblings have felt heartbreak too.  Everyone goes through it.  That’s why so many people make songs about love and heartbreak.  It’s something that everyone can relate to.  Not everyone is going to relate to knowing what it’s like to get a poor grade on an exam.  They’re not going to be like, ‘I made… a B on… my exaaaaaaam!’  No.  That’s not as relatable as love and heartbreak.”
 
-Gyuna and I talked for a couple hours.  She could probably tell that I still felt absolutely miserable.  “Do you want to get ice cream?” she suggested.  “We could go to Baskin-Robbins.”
+Gyuna and I talked for a couple hours.  She probably could tell that I still felt absolutely miserable.  “Do you want to get ice cream?” she suggested.  “We could go to Baskin-Robbins.”
 
 I sighed.  “Sure,” I answered.  “I honestly don’t feel like doing homework at all.  Might as well keep my mind occupied doing something else.”
 
@@ -834,9 +838,7 @@ But the walk to Baskin-Robbins was the same path that Kent and I had taken to Co
 
 “No, it won’t be…”
 
-We got some ice cream and talked some more.  I had never been to Baskin-Robbins, even though I walked past it every day my freshman year.
-
-Afterwards, Gyuna and I were going to walk home.  I decided to go down the road she was going to take before we went our separate ways.
+We got some ice cream and talked some more.  Afterwards, Gyuna and I walked home.  I decided to go down the road she was going to take before we went our separate ways.
 
 “Oh SHOOT!” I cried.
 
@@ -922,7 +924,7 @@ We studied a bit but ended up talking more.  “When I get comfortable around pe
 
 “I wouldn’t say I’m that emotional of a person.  I’m pretty stoic.  I’d say I’m pretty much the same person by myself as I am around other people.”  Maybe Gyuna was right.  Maybe Kent was a psychopath.  “I think I’ve learned that these emotions are a risk of dating.  I mean, I’ve never felt the way that I did before.  And I know you weren’t trying to be intentionally hurtful.”
 
-“Heartbreak is super painful, but I’d rather go through the emotions of the joy of dating and the pain of heartbreak than to feel nothing at all.”  That was an interesting statement.  It stuck with me.
+“Heartbreak is super painful, but <u>I’d rather go through the emotions of the joy of dating and the pain of heartbreak than to feel nothing at all.</u>”  That was an interesting statement.  It stuck with me.
 
 I checked my phone to see that Gyuna had texted saying she ended up not having class, so she was at the library.  After giving her a call to meet us, I saw her and waved.  “Hey, this is Kent.  Kent, this is Gyuna.”
 
@@ -1042,18 +1044,19 @@ November 19, 2022.  I had two dates tonight: a second date with John and a first
 
 John and I got food at Panda Express.  He and I vibed even less, at least that was how I felt.  It wasn’t like he was disrespectful towards strangers, but he didn’t show that much respect towards them either.  I learned that kindness and respect—especially towards strangers— were qualities that I found attractive.  He didn’t have that.
 
-Not only that, but after we got our food, he drove up to the Y Mountain parking lot, and he wanted to cuddle and make out.  I couldn’t find myself being able to say no; there was a part of me that wanted to experience physical touch.  But I felt a bit disgusted when he cuddled, and I was left with a sour taste in my mouth again after making out.  Again, I didn’t feel like I was on a date: it was just another make-out session.
+Not only that, but after we got our food, he drove up to the Y Mountain parking lot, and he wanted to cuddle and make out.  I couldn’t find myself being able to say no; there was a part of me that wanted physical touch.  But I felt a bit disgusted when he cuddled, and I was left with a sour taste in my mouth again after making out.  Again, I didn’t feel like I was on a date: it was just another make-out session.
 
 John asked me if I’d be down to go hiking sometime next week before Thanksgiving break.  Part of me wanted to say no because this “date” made me feel even less for him, but another part of me didn’t want to say no because I wanted to at least keep an acquaintance with those in the gay community.  Plus, the fact that Kent had broken my heart was something I didn’t want to do to John.
-My date with Roger was a lot better though.  He and I went to watch Black Panther: Wakanda Forever.  It was my first Marvel movie, so I didn’t understand what was going on.  But at least it was a new experience for me.
 
-Afterwards, he and I went to get hot chocolate at a shop downtown, and we talked for about an hour or two in the car.  “I haven’t come out to my parents,” I said in the middle of our conversation.  “I’ve thought about it, but it doesn’t feel right.  The only person I’ve come out to is my best friend.  And I’ve gotten my heart broken by this one guy.  When people told me they felt heartbroken, I thought, ‘Oh, they’re sad, but they’ll be fine after a few hours.’  No.  It’s been five days, and I haven’t gotten over it yet.  I’ve never felt this way before.  Have you ever felt heartbroken?”
+My date with Roger was a lot better though.  He and I went to watch _Black Panther: Wakanda Forever_.  It was my first Marvel movie, so I didn’t understand what was going on.  But at least it was a new experience for me.
+
+Afterwards, he and I got hot chocolate at a shop downtown, and we talked for about an hour or two in the car.  “I haven’t come out to my parents,” I said in the middle of our conversation.  “I’ve thought about it, but it doesn’t feel right.  The only person I’ve come out to is my best friend.  And I’ve gotten my heart broken by this one guy.  When people told me they felt heartbroken, I thought, ‘Oh, they’re sad, but they’ll be fine after a few hours.’  No.  It’s been five days, and I haven’t gotten over it yet.  I’ve never felt this way before.  Have you ever felt heartbroken?”
 
 “I can’t say that I’ve felt heartbroken, but there have been some difficult experiences,” Roger answered.  “Actually, there was this one guy from Brazil where I thought he and I would get serious, but he wanted to marry me just so he could get a green card or something like that.  I served my mission in Korea, and I had one companion that I got along with really well.  We were companions for a long time.  I learned that he was gay, and he told me that we should go home early and start a relationship.  I was like, ‘Nah.’  He ended up getting sent home, and he sort of threatened me to come home or else he would never talk to me again.  After a bit, he blocked me on social media, and I haven’t talked to him since.  So that was a bit sad, especially since he and I got along so well.”
 
 “Dang.  I’m still trying to figure out how to overcome these feelings of heartbreak.  It’s not easy.  But now I know what people mean, at least from my experiences.”  I told him about what led me to start dating guys.  He shared his story too.  Getting to know other guys’ stories was one of my favorite parts of dating.  Even though everyone had different circumstances, one thing we all had in common was that love was a lot deeper than the mechanics, and no one chose to have these feelings.
 
-“I think for me, I had to overcome my own homophobia,” Roger continued.  “But I’ve come to learn that God is our loving Heavenly Father, and that’s what matters most.  He knows who I am, and I’ve learned that being gay is not a defect.  It’s just a part of who I am—of who we are—and that’s okay.  I’ve struggled a lot about what to do with my sexuality, and I’ve learned that it’s something that each of us can ask God about.  There's a guy in the BYU Office of Belonging who's gay, and I asked him what he's decided to do.  He said that he's prayed and thought a lot about what to do with his circumstances, and he's made the decision to be completely celibate while living the gospel.  I asked him, ‘How do you feel about that?’  He said, ‘I'm doing just that, but I'm not very happy with my life.  But it's up to you and God what you want to do with yours.’  For me, I feel that I can’t live to be single for the rest of my life and that dating girls isn’t a great option either.  I’ve talked to a few gay people who were married to women, and they say that things work out, except all of them are divorced now.  They've told me that while they're having sex, they just think of guys, which I think is absolutely wrong.  It's hurtful for the guy.  It's hurtful for his wife.  And it's hurtful for their children.”
+“I think for me, I had to overcome my own homophobia,” Roger continued.  “But I’ve come to learn that God is our loving Heavenly Father, and that’s what matters most.  He knows who I am, and I’ve learned that being gay is not a defect.  It’s just a part of who I am—of who we are—and that’s okay.  I’ve struggled a lot about what to do with my sexuality, and I’ve learned that it’s something that each of us can ask God about.  There's a guy in the BYU Office of Belonging who's gay, and I asked him what he's decided to do.  He said that he's prayed and thought a lot about what to do with his circumstances, and he's made the decision to be completely celibate.  I asked him, ‘How do you feel about that?’  He said, ‘I'm doing just that, but I'm not very happy with my life.  But it's up to you and God what you want to do with yours.’  For me, I feel that I can’t live to be single for the rest of my life and that dating girls isn’t a great option either.  I’ve talked to a few gay people who were married to women, and they said that things work out, except all of them are divorced now.  They've told me that while they're having sex, they just think of guys, which I think is absolutely wrong.  It's hurtful for the guy.  It's hurtful for his wife.  And it's hurtful for their children.”
 
 Thinking about having sex with a girl disgusted my mind too.  I didn’t know how gay guys could do it.  “One thing I’ve learned on my mission is that going through the motions isn’t enough,” I said.  “At the beginning of my mission, I thought that I would be blessed merely following the mission rules.  And while that’s a starting point, that isn’t enough.  It wasn’t until later in my mission when I learned how to love the people I served that I felt happier and saw the blessings of serving a mission.  That important lesson is something that I’ve been trying to understand with my sexual orientation.  I could go through the motions of dating and marrying a woman, but would I really feel happy?  I don’t think so.  And even though I’ve been dating guys for only a couple weeks, I find it hard to understand why straight people can’t empathize with us.  They have desires to date and marry and raise a family, just like a lot of gay people do too.  Maybe because straight people make up the majority of society, they think that being straight is the ‘correct’ sexual orientation.  But regardless, based on how I’ve felt about girls and the experiences of other guys I’ve gone on dates with, I wonder if straight people would do as they say and marry someone of the same gender if that was what God wanted the world to be from the beginning.”
 
@@ -1065,21 +1068,23 @@ Even though I didn’t feel anything romantic from Roger, he seemed chill.  He a
 
 November 21, 2022.  I had been texting Kent about my dates.  Gyuna told me that he probably knew about dating better than she did.  Plus, I didn’t think she wanted to hear every single detail about my dates.  I still wasn’t a fan of texting behind a screen though.  I tried arranging a time I could meet him at the library again.  He said he’d let me know when he’d be available, but he never texted me back.  I was discouraged.
 
-Gyuna invited me to her place in the evening, and we ended up watching Frozen II.  I was on the brink of tears the entire movie though.
+Gyuna invited me to her place in the evening, and we ended up watching _Frozen II_.  I was on the brink of tears the entire movie though.
 
-_(November 2022; college junior) “I watched Frozen II, and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch Frozen II sometime.”_
+_(November 2022; college junior) “I watched_ Frozen II, _and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch_ Frozen II _sometime.”_
 
 “Are you crying?” Gyuna asked.
 
-“Yeah,” I answered.  It was at the part where Olaf was dying, but that obviously wasn’t the reason why I was crying.  After the movie, I said, "You're gonna hate me for saying this, but the entire time I was watching the movie, I wanted to break down and cry because it reminded me of my date with Kent and how he said that he and I could watch Frozen II together sometime.  He seems to be on my mind all the time, and I talk about my heartbreak on my dates."
+“Yeah,” I answered.  It was at the part where Olaf was dying, but that obviously wasn’t the reason why I was crying.  After the movie, I said, "You're gonna hate me for saying this, but the entire time I was watching the movie, I wanted to break down and cry because it reminded me of my date with Kent and how he said that he and I could watch _Frozen II_ together sometime.  He seems to be on my mind all the time, and I talk about my heartbreak on my dates."
 
-"Oh, I thought you were sad that Olaf died," Gyuna said.  "Wow, you can kind of be a jerk when it comes to dating.  Talking about heartbreak with your other dates?  That can be so rude and uncomfortable."
+"Oh, I thought you were sad that Olaf died," Gyuna said.  "Wow, you're kind of a jerk when it comes to dating.  Talking about heartbreak with your other dates?  That can be so rude and uncomfortable."
 
 "I want to stop feeling this way, but I can't.  Why does it have to hurt so much?  It hasn't even been a full week.  This literally happened last Monday night right before midnight.  It's felt like a WHOLE month!"
 
 "Well, time does feel distorted when you're going through a heartbreak."  She ended up calling Christian since I was feeling pretty sad.  In the middle of their conversation, she asked, "How would you get over a girl you really liked?  Or what would you do if she broke your heart?"
+
 "I'd just move on,” Christian answered.  “Just accept that this is the way it is.  I know some people cope with heartbreak by going into another relationship.  My ex-girlfriend did that, and she told me that this guy wasn't anything like me.  But she did that to herself."
-"Yeah, I think it's kind of toxic.  But what would you do if you and I broke up?  Not saying that that’s going to happen."
+
+"Yeah, I think that's kind of toxic.  But what would you do if you and I broke up?  Not saying that that’s going to happen."
 
 There was a pause.  "That would be really hard," Christian said as he thought.  "I think I would need some time.  I probably wouldn't date for a while, but I think it differs from person to person."
 

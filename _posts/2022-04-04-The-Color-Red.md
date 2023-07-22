@@ -117,9 +117,7 @@ December 4, 2022.
 
 ```Did you say that to his face could you adopt me?? That would have been so sooooo cute u learned something good from me lol```
 
-```Aye that’s cute look at you hehehehheehhr```
-
-_And you miss me look at you missing your bf_
+```And you miss me look at you missing your bf```
 
 ```Me: Lolol, if I had a boyfriend, maybe I wouldn’t end up missing my best friend as much```
 

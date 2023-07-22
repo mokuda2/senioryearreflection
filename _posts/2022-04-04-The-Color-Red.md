@@ -109,71 +109,71 @@ When he dropped me off at Liberty Park, he and I gave each other a hug and a kis
 
 December 4, 2022.
 
-_Me:  I’ll have to tell you more about yesterday, but basically there’s this guy I had been texting for about a week, and he reached out to me on Friday evening asking how my weekend was going, and I told him I was feeling pretty lonely without you. I can’t believe I lived this kind of life of being by myself on campus last school year, but he invited me to go on a date! Lol that’s how I ended up getting to go yesterday. I drove up to SLC to meet him. He’s eight years older than me, and he was fine over text and in pics, but I liked his personality. He’s a software engineer and is really smart. I just thought about you and was thinking, Could you adopt me?_
+```Me:  I’ll have to tell you more about yesterday, but basically there’s this guy I had been texting for about a week, and he reached out to me on Friday evening asking how my weekend was going, and I told him I was feeling pretty lonely without you. I can’t believe I lived this kind of life of being by myself on campus last school year, but he invited me to go on a date! Lol that’s how I ended up getting to go yesterday. I drove up to SLC to meet him. He’s eight years older than me, and he was fine over text and in pics, but I liked his personality. He’s a software engineer and is really smart. I just thought about you and was thinking, Could you adopt me?```
 
-_Idk if there’s gonna be any kind of commitment because he’s much older than me and is in a different stage of life, but we’re planning on meeting back up on Thursday._
+```Idk if there’s gonna be any kind of commitment because he’s much older than me and is in a different stage of life, but we’re planning on meeting back up on Thursday.```
 
-_Gyuna: Awwwweeeeeeeee that’s cuteeeeeeeeeeeee_
+```Gyuna: Awwwweeeeeeeee that’s cuteeeeeeeeeeeee```
 
-_Did you say that to his face could you adopt me?? That would have been so sooooo cute u learned something good from me lol_
+```Did you say that to his face could you adopt me?? That would have been so sooooo cute u learned something good from me lol```
 
-_Aye that’s cute look at you hehehehheehhr_
+```Aye that’s cute look at you hehehehheehhr```
 
 _And you miss me look at you missing your bf_
 
-_Me: Lolol, if I had a boyfriend, maybe I wouldn’t end up missing my best friend as much_
+```Me: Lolol, if I had a boyfriend, maybe I wouldn’t end up missing my best friend as much```
 
-_Gyuna: Hey I still missed you up here in Rexburg_
+```Gyuna: Hey I still missed you up here in Rexburg```
 
-_But I got my physical touch and love that I needed that you don’t give me lol_
+```But I got my physical touch and love that I needed that you don’t give me lol```
 
-_Me: Lolol. I got some physical touch from my date yesterday._
+```Me: Lolol. I got some physical touch from my date yesterday.```
 
-_And I actually didn’t mind it._
+```And I actually didn’t mind it.```
 
-_Gyuna: DANG_
+```Gyuna: DANG```
 
-_WHAT KIND?_
+```WHAT KIND?```
 
-_Me: Uh lol_
+```Me: Uh lol```
 
-_Well, we cuddled._
+```Well, we cuddled.```
 
-_And we ended up making out._
+```And we ended up making out.```
 
-_Oh my gosh, I can’t believe I’m telling you that._
+```Oh my gosh, I can’t believe I’m telling you that.```
 
-_Gyuna: WHAT?????????????????_
+```Gyuna: WHAT?????????????????```
 
-_To tbtirbtridusbsbrirhd_
+```To tbtirbtridusbsbrirhd```
 
-_Brorbehsisjnsgeowksbds_
+```Brorbehsisjnsgeowksbds```
 
-_Dbrhskaoquegbsnaizyy go xa_
+```Dbrhskaoquegbsnaizyy go xa```
 
-_Fucnckcnx_
+```Fucnckcnx```
 
-_For rrralllllllll?????????_
+```For rrralllllllll?????????```
 
-_Me: The thing though is that Idk if this is going to be a long term thing._
+```Me: The thing though is that Idk if this is going to be a long term thing.```
 
-_So... Idk_
+```So... Idk```
 
-_Gyuna: Hey you made out_
+```Gyuna: Hey you made out```
 
-_That's all that matters for now_
+```That's all that matters for now```
 
-_Me: Yeah. It happened_
+```Me: Yeah. It happened```
 
-_Gyuna: What the helllllllllllllllllllpoppoooooooooopp_
+```Gyuna: What the helllllllllllllllllllpoppoooooooooopp```
 
-_Did you like it?????_
+```Did you like it?????```
 
-_Bro brobtirbrrobrorrbrorbo_
+```Bro brobtirbrrobrorrbrorbo```
 
-_What rhebshsusyys_
+```What rhebshsusyys```
 
-_Me: Haha yeah_
+```Me: Haha yeah```
 
 I invited Gyuna to my FHE.  I usually didn’t go anymore these days, but a ward Christmas party was happening at my bishop’s place, so I knew Gyuna would be happy to have free food.  Plus, it had been five whole days since we last saw each other.
 

@@ -35,11 +35,12 @@ When I got to Liberty Park, I got a text from him with a pin dropped of his loca
 
 "Yep!  Nice to meet you!"  He gave me a one-arm hug and caressed my back.
 
-We walked around the park and got to know each other.  He graduated from BYU in 2016 and was a software engineer.  His parents were in Hong Kong on an 18-month mission, and he had grown up in Salt Lake.  Over Tinder, he told me that he had left the Church three years ago.  Peter was the first person I dated who left the Church.  On the mission, I tried visiting lots of less-active members, but some of them were pretty rude and didn’t want anything to do with us.  I had my own assumptions about why LGBTQ members left the Church, but I wanted to learn from actual individuals why they left.
+We walked around the park and got to know each other.  He graduated from BYU in 2016 and was a software engineer.  His parents were in Hong Kong on an 18-month mission, and he had grown up in Salt Lake.  Over Tinder, he told me that he had left the Church three years ago.  Peter was the first person I went on a date with who left the Church.  On the mission, I tried visiting lots of less-active members, but some of them were pretty rude and didn’t want anything to do with us.  I had my own assumptions about why LGBTQ members left the Church, but I wanted to learn from actual individuals why they left.
 
 “I served my mission in Guatemala,” he said in the middle of the conversation.  “I don’t keep up my Spanish much, but I’ve found it useful.  Sometimes I can understand what people are saying, and I can speak back.”
 
 “I served in a Korean branch for about seven months, but I didn’t pick it up well,” I said.  “My parents are Japanese, but I can’t say I know much Japanese either.  I wish I knew.”
+
 “So what are you studying at BYU?”
 
 “I’m studying statistics.  I’m hoping to do data science, so I plan on doing a master’s degree at some point.  It depends on my summer internship.  I got a position as a data analyst intern at AT&T in Dallas, so if I get a full-time offer, I’ll accept it since they’ll pay for my graduate school.”
@@ -53,6 +54,7 @@ It was starting to get dark and cold, so we decided to go to the Gateway Mall to
 “So what got you started dating guys?” Peter asked when we sat down.  “I’m sure it’s difficult to date guys at BYU.”
 
 I told him my story, which took about half an hour.  He and I didn’t touch our food the entire time.  “Looking back, I remember having feelings for a guy when I was seven, but I didn’t think much of it.  But then when I was ten, that was when I really started to notice an attraction towards guys.  But I suppressed and denied those feelings as a teenager.  I thought that maybe my feelings would change, but they obviously never did.  I did go on dates with girls, but they all felt like hanging out.  I went to BYU for a year before my mission, and when I saw what the dating culture was like there and what dating REALLY was like, that was when I sort of realized that I didn’t want to date girls like that.  I had no desire to touch girls like couples did on campus.  And when people asked me why I was opposed to going on dates, I told them that I had a mission to serve.  Plus, I thought that romantic feelings were bad anyway.  Then I went on my mission, and nothing about my feelings changed.  I still suppressed them, so it wasn’t a big deal to me.  The way that elders and sisters are separated made me even less interested in wanting to even talk to girls, and that was when I definitely learned that I had no interest in dating girls.  So when I came back from my mission, dating and marriage seemed like a non-existent thing for me.  I had zero interest in dating girls, and no one was interested in dating me, which I guess was fine.  At the beginning of this year, I began to think that I’d live to be single my entire life.”
+
 “Aw!  That’s sad, Michael!” Peter expressed.
 
 _(November 2022; college junior) “Aww, that’s really sad!” Kent exclaimed._
@@ -71,7 +73,8 @@ I still didn’t think that faith and feelings were black and white, that I coul
 
 “Even though I didn’t date girls much, I had a close friend who was really awesome,” Peter continued.  “She checked all the boxes: she was really smart, she had a great personality, she was super nice.  But I had no desire to marry her.”
 
-For some reason, his description of his friend made me think of Carli: She was smart.  She was sweet.  And people said she was pretty.  But I definitely had no desire to date or marry her.
+For some reason, his description of his friend made me think of Carli. She was smart.  She was sweet.  And people said she was pretty.  But I definitely had no desire to date or marry her.
+
 After we ate, we went to his parents’ house and watched a British cooking show.  I told him that I wanted to get more educated with movies and TV shows.
 
 "Do you wanna cuddle?" he asked.
@@ -80,11 +83,11 @@ I kind of liked him, so I actually wanted to cuddle.  "Sure," I answered.  "I've
 
 Peter taught me how to cuddle, and we switched around on occasion.  So this was what it was like to cuddle someone that I wanted to cuddle with.  It did feel nice.
 
-"Your heart is racing so fast," Thomas said.
+"Your heart is racing so fast," Peter said.
 
 I kind of laughed.  "I mean... yeah."
 
-After the show was over, we cuddled in silence.  My heart was still racing.  Thomas was playing with my ear with one hand, and I was holding his other hand.  I really wanted to kiss him, but I wasn’t sure how to ask.  "What are you thinking?" I decided to ask.
+After the show was over, we cuddled in silence.  My heart was still racing.  Peter was playing with my ear with one hand, and I was holding his other hand.  I really wanted to kiss him, but I wasn’t sure how to ask.  "What are you thinking?" I decided to ask.
 
 "I don't know,” he responded.  “What are you thinking?"
 

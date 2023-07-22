@@ -87,7 +87,7 @@ Peter taught me how to cuddle, and we switched around on occasion.  So this was 
 
 I kind of laughed.  "I mean... yeah."
 
-After the show was over, we cuddled in silence.  My heart was still racing.  Peter was playing with my ear with one hand, and I was holding his other hand.  I really wanted to kiss him, but I wasn’t sure how to ask.  "What are you thinking?" I decided to ask.
+After the show was over, we cuddled in silence.  My heart was still racing.  I really wanted to kiss him, but I wasn’t sure how to ask.  "What are you thinking?" I decided to ask.
 
 "I don't know,” he responded.  “What are you thinking?"
 

@@ -176,11 +176,12 @@ December 4, 2022.
 I invited Gyuna to my FHE.  I usually didn’t go anymore these days, but a ward Christmas party was happening at my bishop’s place, so I knew Gyuna would be happy to have free food.  Plus, it had been five whole days since we last saw each other.
 
 “So how was the make-out session?” Gyuna asked first thing when she got into the car.
-I laughed.  “It was good,” I answered.  I told her the whole story.  “…and we were just watching a British cooking show, and my heart was racing so fast.  The show was about an hour long, so I waited until after the show finished.”
+
+I laughed.  “It was good,” I answered.  I told her the whole story.  “...and we were just watching a British cooking show, and my heart was racing so fast.  The show was about an hour long, so I waited until after the show finished.”
 
 “You know, when you watch a movie, you don’t see a thing cuz you’re too busy making out.”
 
-She and I laughed.  “Well, I didn’t want to be rude and not watch the show.  But I’m not entirely sure how I feel about him.  He said he’s not the kind of person to be committed, and he’s a bit older than me, so we’re both in different stages in our lives.  But plot twist.  Peter wasn’t my first kiss.”
+She and I laughed.  “Well, I didn’t want to be rude and not watch the show.  But I’m not entirely sure how I feel about him.  He said he’s not the kind of person to be committed.  But plot twist.  Peter wasn’t my first kiss.”
 
 “WHAT?!!!”
 
@@ -192,12 +193,13 @@ She and I laughed.  “Well, I didn’t want to be rude and not watch the show. 
 
 “Wow, Michael’s a ho!”
 
-When Gyuna and I went to the activity, we sat down at a table with some other people from the ward.  They had said hi to me in line and decided to join me at the table, which I guess was nice.  We didn't really talk to each other though.
+When Gyuna and I went to the activity, we sat down at a table with some other people from the ward.  They said hi to me in line and decided to join me at the table, which I guess was nice.  We didn't really talk to each other though.
 
 "Is that a taco Christmas sweater?" Gyuna asked one of the guys.  I was surprised that she initiated a conversation.  I knew she was a people-person, but I knew she found white people intimidating.  She introduced herself to a few of the people at the table, but then they kind of went back to having their own conversation amongst themselves.  I was glad that Gyuna came with me.  Otherwise, I probably wouldn't have attended the activity, even if there was food.
+
 "I just don't get white people," Gyuna said after the activity.  "They form their own little groups, and they didn't even talk to us that much."
 
-"I mean, isn't that pretty normal?" I said.
+"I mean, isn't that pretty normal?" I asked.
 
 "It shouldn't be normal.  Sorry, but your ward sucks.  If this is what all YSA wards are like, I'd honestly probably leave the Church."
 
@@ -207,11 +209,11 @@ When Gyuna and I went to the activity, we sat down at a table with some other pe
 
 "Yeah, it sucks to not feel networked among the people, but in those kinds of circumstances, you just have to change your perspective."  I knew that being in the Asian community was different.  People seemed a lot more approachable and inclusive, especially when I hung out with Gyuna’s friends or Hyeji and her friends.
 
-We dipped a little early since no one really talked to us.  We decided to go to a park to see Christmas lights and took some pictures there.  There was a couple that probably thought Gyuna and I were dating, and the woman offered to take our picture.  We posed in front of a giant Christmas tree while Gyuna held onto my wrist.  The couple also asked if we could take their picture, and they made actual couple poses.
+We dipped a little early since no one really talked to us.  We decided to go to a park to see Christmas lights and took some pictures there.  A couple was walking around that probably thought Gyuna and I were dating, and the woman offered to take our picture.  We posed in front of a giant Christmas tree while Gyuna held onto my wrist.  The couple also asked if we could take their picture, and they made actual couple poses.
 
 "They probably thought we were dating," I said.
 
-“Yeah, well, you can see in the picture that I'm holding your wrist,” Gyuna said.  We looked at the couple as they walked off into the distance, holding hands.  “See, that's what a couple does.  But you know, I hope you’re not offended by me saying this, but I’ve always wanted to have a gay best friend.”
+“Yeah, well, you can see in the picture that I'm holding your wrist,” Gyuna said.  We looked at the couple as they walked off into the distance, holding hands.  “See? That's what a couple does.  But you know, I hope you’re not offended by me saying this, but I’ve always wanted to have a gay best friend.”
 
 I laughed.  “Why?”
 
@@ -266,6 +268,7 @@ I was surprised.  "So do you believe that there’s some sort of life after this
 "I don't know.  I'd probably lean more towards thinking that once I die, it's the end."
 
 I still had a hard time comprehending what he said.  He had been a missionary teaching people about the plan of salvation.  What got him to believe that death was the end, as if a blackness fell upon those who died?  "So I guess what are you hoping to do before that end happens?" I asked.
+
 "That's a good question.  I definitely want to live a good life."
 
 "What do you find to be a good life?"
@@ -288,13 +291,13 @@ We headed down the trail.
 
 “Yeah, just my best friend,” I answered.
 
-“What makes you hesitant about coming out to them if you don’t mind me asking?”
+“What makes you hesitant about coming out to your family if you don’t mind me asking?”
 
 “I honestly haven’t felt like it’s right to tell them, even though I’ve thought a lot about coming out to them.  I think I’d tell my parents first, but I could definitely see my mom telling everyone else in the family, so I feel like it should be no one or everyone when I come out.  I should be the one telling that story.  Even though it was scary to tell my best friend, I felt like it was right for me to tell her when I did.  Plus, my family isn’t really my go-to when I want to talk about concerns or problems.”
 
 “How do you think your parents would react if you told them?”
 
-“Hm…  I don’t know.  They’re not very expressive.  In the past, I feel like when I’ve gone to them for help with life situations like these, they don’t seem to care that much unless it affects their reputation.  My dad was a stake president when I was in middle school and high school, and he’s a mission president now.  Maybe they’ll care because ‘the mission president’s son’ is gay.  But I honestly don’t know.  I don’t see them kicking me out of the family, but I could see them not being supportive.”
+“Hm…  I don’t know.  They’re not very expressive.  In the past, I feel like when I’ve gone to them for help with life situations like these, they don’t seem to care that much unless it affects their reputation.  My dad was a stake president when I was in middle school and high school, and he’s a mission president now.  Maybe they’ll care because ‘the mission president’s son’ is gay.  But I honestly don’t know.  I don’t see them kicking me out of the family, but I could see them not caring or being supportive.”
 
 “Do your parents show affection at all?”
 
@@ -316,9 +319,7 @@ After we finished eating, we went back to his house and played a few card games.
 
 “Not really,” Peter answered.  “It hasn’t been played in a while.  I can read one hand, but that’s basically it.  I wish I knew more about music.”  He opened the hymn book to a Christmas song and played with one hand.  “Do you play?”
 
-“Yeah!  I’d be down to play something.”  I sat at the piano bench.  “Wow, it’s a Yamaha.”
-
-“Oh, didn’t even realize they had brands.”
+“Yeah!  I’d be down to play something.”  I played the Fantaisie Impromptu.
 
 My dates with Peter were fun, but I didn’t think things would work out values-wise.  It ended up being the last time I saw him.  But I thought a lot about what he and I had talked about on the hike.  Exaltation was the goal, but what was it like to live during the Great Apostasy?  If there wasn’t a true church, then people would have had to find a way to make the best of the situation.  Of course, it was easy for people these days to say that we could do proxy work for them in the temple, but the people back then didn’t know anything about that.  What hope did they have?  Or, in more recent times, how did black people keep their faith in the gospel?
 
@@ -328,24 +329,27 @@ I also wondered what it would’ve been like being a white person in the 1950s. 
 
 For a white child to grow up in a society where being white was definitely a privilege and part of the Majority, no wonder they would’ve seen black people as inferior.  White people had better education, more job opportunities, and better-paying jobs.  That was the society they and many generations before them lived in.  It wasn’t like black people could do anything to easily convince white people that black people were just as worthy of rights and opportunities when the way that white people saw the world was painted with privilege.
 
-I also wondered what it would have been like being a black member and a white member in the 1950s.  Black people couldn’t go through the temple or receive the priesthood during that time, which also implied that they couldn’t receive exaltation.  Of course, it’s easy to look back in retrospect and say that anyone can enjoy the blessings of the priesthood, but how did black members back then keep to the faith?  It must have been pretty normalized to receive discouraging news like that living in a society where black people were treated poorly anyway.  White members who had hopes for exaltation probably thought black people weren’t dating material.  What was the point of marrying a black person if the marriage couldn’t last into the eternities?  Plus, interracial marriages back then were considered taboo in society.  I had read a few accounts of black people being turned down for receiving their endowments.  I wondered what that interview would’ve been like.  “Look at you, you’re black,” I could’ve heard the bishop say.  Or maybe he would’ve awkwardly tried to hint the obvious but not actually address the reason.
+I also wondered what it would have been like being a black member and a white member in the 1950s.  Black people couldn’t go through the temple or receive the priesthood during that time, which also implied that they couldn’t receive exaltation.  Of course, it’s easy to look back in retrospect and say that anyone can enjoy the blessings of the priesthood, but <u>how did black members back then keep to the faith?</u>  It must have been pretty normal to receive discouraging news like that living in a society where black people were treated poorly anyway.
+
+White members who had hopes for exaltation probably thought black people weren’t dating material.  What was the point of marrying a black person if the marriage couldn’t last into the eternities?  Plus, interracial marriages back then were considered taboo in society.  I had read a few accounts of black people being turned down for receiving their endowments.  I wondered what that interview would’ve been like.  “Look at you, you’re black,” I could’ve heard the bishop say.  Or maybe he would’ve awkwardly tried to hint the obvious but not actually address the reason.
 
 I also wondered what it would’ve been like being black when segregation was ruled unconstitutional.  I heard how it was quite an adjustment for white people.  The society that white people lived in for several generations changed.  How could these black, inferior creatures be raised to a status equal to the white society?  They’d pollute the country and take over jobs.
 
-I realized that—in some ways—I was like a black person in the 1950s.  The gay community was part of the Minority.  I had heard many people especially in the religious community say that this world was getting more evil because gay people were perverting people’s morals.  Maybe that was how white people felt about black people.  I could’ve gone through the motions of going through the ritual of marriage with a human being who had XY chromosomes, but I knew that I didn’t have to go down that route for it to be detrimental to all involved.  And sure, some gay people could do it.  I was pretty sure that if God commanded marriage between man and man or woman and woman and created them so that they could reproduce with only the same gender, straight people would realize that they couldn’t just change their sexual orientation or their desire for the opposite gender.  Their sexuality was something they took for granted.  If straight people were in a situation similar to gay people, some may choose to marry the same gender, some may remain celibate, but most straight people probably would’ve left the Church.  The pattern would’ve been the same.  Similarly, it wasn’t like black people could paint themselves white so they could be considered “white.”  Gay people couldn’t paint themselves straight either.  Being straight was definitely a privilege.  I heard straight people wonder why gay people talked so much about sexuality, but talking about dating or marriage or liking someone implied sexuality.  Straight people just took it for granted; it was a privilege that they could talk so openly about it without feeling vulnerable, especially at BYU.  They probably would’ve made a fuss too if they were told that they had to live like a missionary their entire lives—no dating or marriage or heterosexual acts.
+I realized that—in some ways—I was like a black person in the 1950s.  The gay community was part of the Minority.  I had heard many people especially in the religious community say that this world was getting more evil because gay people were perverting people’s morals.  Maybe that was how white people felt about black people.  I could’ve gone through the motions of going through the ritual of marriage with a human being who had XY chromosomes, but I knew that I didn’t have to go down that route to realize how detrimental it would be to all involved.  And sure, some gay people could do it.  I was pretty sure that if God commanded marriage between man and man or woman and woman and created them so that they could reproduce with only the same gender, straight people would realize that they couldn’t just change their sexual orientation or their desire for the opposite gender.  Their sexuality was something they took for granted.  If straight people were in a situation similar to gay people, some may choose to marry the same gender, some may remain celibate, but most probably would’ve left the Church.  The pattern would’ve been the same.  Similarly, it wasn’t like black people could paint themselves white so they could be considered “white.”  Gay people couldn’t paint themselves straight either.  <u>Being straight was definitely a privilege.</u>  I heard straight people wonder why gay people talked so much about sexuality, but talking about dating or marriage or liking someone implied sexuality.  Straight people just took it for granted; it was a privilege that they could talk so openly about it without feeling vulnerable, especially at BYU.  They probably would’ve made a fuss too if they were told that they had to live like a missionary their entire lives—no dating or marriage or heterosexual acts.
 
 Maybe so many gay members left the Church because what was the point of keeping the commandments and making covenants if exaltation wasn’t a realistic goal?  I could understand that feeling of hopelessness.  I had also heard a lot of stories about gay members feeling marginalized for not being part of the Majority.  I could also somewhat relate to that looking like an Asian at BYU.  I wondered if black people in the 1950s had similar questions about the state of their souls in the eternities.  That probably didn’t discourage them to have families of their own just like people today who weren’t interested in the gospel had families of their own, even if they knew that they’d part at death.  It seemed like the feelings and the desire of creating a family surpassed the knowledge of the inevitable—the sorrow of separation at death.  From a mechanical perspective, it was intriguing to think why people would inflict such pain on themselves.  So what did black people do to keep to the faith when they realized that their skin color and heritage were the reasons they couldn’t receive exaltation?
 
 "Three years of being less active is a long time,” Gyuna said.  She and I were walking to a taco restaurant for a late dinner.  “I think some people try to shove those memories of spiritual experiences from themselves.  They don’t want to remember.”  I had told her about Peter and how I felt like things wouldn’t have worked out with him, even if he wasn’t thinking about being in a relationship with someone else.
 
-“"It's really sad,” I said.  “I wonder what kept him going on a mission for the whole two years.  But I think I can understand why so many gay members leave the Church.  I’ve thought a lot about exaltation.  I don’t know if I’ll get to be with my family after this life.  I mean, I guess I don’t talk to them that much.  Even though my sister lives only 15 minutes away, I don’t see her that often.  My brother-in-law and his family don’t really talk to me at all, but the idea of being with my family forever sounds desirable."
+“"It's really sad,” I said.  “I wonder what kept him going on a mission for the whole two years.  But I think I can understand why so many gay members leave the Church.  I’ve thought a lot about exaltation.  <u>I don’t know if I’ll get to be with my family after this life.</u>  I mean, I guess I don’t talk to them that much.  Even though my sister lives only 15 minutes away, I don’t see her that often.  My brother-in-law and his family don’t really talk to me at all, but the idea of being with my family forever sounds desirable."
 
-"I talked to my Book of Mormon professor about those questions about the state of the soul or what happens when we're judged.  And my professor gave me some things that we'll be judged for, and I wrote them down.  God will judge us according to our works, our desires, our obedience to His commandments, our recordkeeping.  Those are just a few.  But God knows the desires of your heart.  I think that’s why receiving personal revelation is so important because it’s specifically for YOU.  God knows you better than anyone else.”
+"I've asked my Book of Mormon professor questions about the state of the soul or what happens when we're judged.  And my professor gave me some things that we'll be judged for, and I wrote them down.  God will judge us according to our works, our desires, our obedience to His commandments, our recordkeeping.  Those are just a few.  But God knows the desires of your heart.  <u>I think that’s why receiving personal revelation is so important because it’s specifically for YOU.  God knows you better than anyone else.</u>”
 
 “You know, I did pray a lot before I started downloading dating apps to see if this was the right thing for me.  I never got a ‘no’ or a bad feeling about it.  And honestly, I feel like I’ve grown so much from dating guys.  It’s just confusing when people say that this kind of thing is a sin when I feel the opposite way.  I’m sure I feel just as happy dating guys as straight people are happy dating those of the opposite gender.”
 
 Gyuna and I headed back to the library to study.  We mostly just talked until the library closed at 2am.  She shared some personal spiritual experiences from the MTC.  They probably would've sounded like hallucinations to someone who didn't understand or have spiritual experiences.
-One thing I noticed was that people often found that being gay and being religious were complete opposites.  Being gay was a Minority in the religious community, and being religious was a Minority in the gay community.  But one thing I learned was that trying to describe a spiritual experience to someone who never had such experiences probably would’ve sounded delusional to that person.  The same thing applied with trying to describe what it was like being gay to someone who was straight or who didn’t know what romantic feelings were.  Hearing a voice in your head telling you to do something and calling that the Spirit?  Or a guy kissing another guy and saying that it felt amazing?  Of course someone who didn’t understand would call either of those situations delusional.
+
+<u>One thing I noticed was that people often found that being gay and being religious were complete opposites.</u>  Being gay was a Minority in the religious community, and being religious was a Minority in the gay community.  <u>But one thing I learned was that trying to describe a spiritual experience to someone who never had such experiences probably would’ve sounded delusional to that person.  The same thing applied with trying to describe what it was like being gay to someone who was straight or who didn’t know what romantic feelings were.  Hearing a voice in your head telling you to do something and calling that the Spirit?  Or a guy kissing another guy and saying that it felt amazing?  Of course someone who didn’t understand would call either of those situations delusional.</u>
 
 "Don't forget them,” I said when Gyuna finished sharing her spiritual experiences.  “Always remember those experiences, especially when faith is difficult to hold onto."  That was one thing that I was pretty good at: remembering.
 
@@ -355,7 +359,7 @@ Around this time, I found a podcast where people in the LGBTQ community talked a
 
 December 16, 2022.  The semester was finally over.  Hyeji and I studied a lot together, mostly her wanting to ask for help with STAT 240.  She invited some of her friends and me to her place for an end-of-the-semester celebration.
 
-She got out some fancy cake for dessert and told me about this one guy in our major that she had feelings for.  After a long and complicated story, she said she wanted to put closure and do something nice for him, so she bought this fancy cake to celebrate his birthday.  “He didn’t show up!” she continued.  “So that’s why I have this cake.  I wanted to do something nice for him, but he didn’t communicate.  Isn’t he a jerk?”
+She got out some fancy cake for dessert and told me about this one guy in our major whom she had feelings for.  After a long and complicated story, she said she wanted to put closure and do something nice for him, so she bought this fancy cake to celebrate his birthday.  “He didn’t show up!” she continued.  “So that’s why I have this cake.  I wanted to do something nice for him, but he didn’t communicate.  Isn’t he a jerk?”
 
 “Well, I’d like to get his point of view,” I said.  “I want to know his side of the story.”
 
@@ -370,9 +374,10 @@ I was sure dating was complicated for straight people too.  At this point, I was
 I had matched with a guy who had served in the same mission as me.  His name was Carl.  I was surprised when I saw his profile.  I didn’t know him that much, as he and I had never served in the same zone together.  But he wasn’t a bad-looking guy.  I asked him if we could meet, so we met on the main floor of the library.
 
 “I knew there had to be someone else in the mission!” Carl said in the middle of our conversation.
+
 “Yeah, I definitely kept those feelings deeply suppressed though,” I said.  “Dating guys never crossed my mind until about a month ago.”
 
-“I was actually writing to a girl during my mission.  When I came home, my parents set me up on a date with her and me.  I broke up with her after that date.  I started using dating apps soon after that, and I dated a guy named Will for a few months.  He and I actually thought about getting married.”
+“I was actually writing to a girl during my mission.  When I came home, my parents set me up on a date with her.  I broke up with her after that date.  I started using dating apps soon after that, and I dated a guy named Will for a few months.  He and I actually thought about getting married.”
 
 I had never heard about a gay couple at BYU thinking about getting married.  “You dated a guy?  Are you not dating him anymore?”
 
@@ -394,7 +399,7 @@ Aaron introduced me to his friends.  I was expecting that the gay community woul
 
 I realized that being Asian was another Minority in the gay community.  Even just being an Asian man in general was a Minority when it came to dating life.  Being gay wasn’t something someone could see, but features characteristic to a person’s race definitely were.  Even during my freshman and sophomore years of college, I felt like people weren’t as open to me simply because I looked like an Asian.  Asians were considered to be an uglier race, and with the BYU dating culture, I saw that.  I guess that was why Asians tended to hang out with other Asians.  Even I didn’t find many of my own kind to initially be physically attractive.  But to treat people to the point that they weren’t worth associating with because they weren’t considered dating material?  That was so toxic.
 
-I found it ironic that the gay community tried to inform people that sexual orientation wasn’t a choice and then chose to marginalize people in their own community merely because of their race—another factor that wasn’t a choice for people.  The gay community and even society in general idealized a tall, fit, white guy as the paragon of "pretty."  Asian men were typically not that tall, had naturally slim body structure, and were obviously not white.  The Minority of the gay community and the marginalization of Asian men within that community was a similar pattern to how the LDS community was a Minority in society, yet when they made up the Majority like at BYU, they marginalized groups like the LGBTQ community.  It was a never-ending pattern of economic advantage.
+<u>I found it ironic that the gay community tried to inform people that sexual orientation wasn’t a choice and then chose to marginalize people in their own community merely because of their race—another factor that wasn’t a choice for people.</u>  The gay community and even society in general idealized a tall, fit, white guy as the paragon of "pretty."  Asian men were typically not that tall, had naturally slim body structure, and were obviously not white.  The Minority of the gay community and the marginalization of Asian men within that community was a similar pattern to how the LDS community was a Minority in society, yet when they made up the Majority like at BYU, they marginalized groups like the LGBTQ community.  It was a never-ending pattern of economic advantage.
 
 “Yeah, they’re still privileged white people,” Gyuna said when I told her about my time with Aaron and his friends.
 
@@ -402,11 +407,11 @@ I found it ironic that the gay community tried to inform people that sexual orie
 
 “You just gotta flirt, Michael.”
 
-At this point, I felt like flirting was so fake.  I even grew skeptical when guys would flirt over text or on the first date because I wondered if they said or did the same things with every guy, especially since things usually wouldn’t progress past a first date.  Even when I went on my date with Kent, I sure felt excited before the date, but during the date, it felt very matter of fact.  Now I was confused.  What was romance supposed to feel like on a date?
+At this point, I felt like flirting was so fake.  I even grew skeptical when guys flirted over text or on the first date because I wondered if they said or did the same things with every guy, especially since things usually didn’t progress past a first date.  Even when I went on my date with Kent, I sure felt excited before the date, but during the date, it felt very matter of fact.  Now I was confused.  What was romance supposed to feel like on a date?
 
 I also texted Connor again how he was doing.  He and I texted a few lines, but I felt like if I wasn’t going to meet him in person, texting him seemed useless.  He was just this mysterious, online person to me.  I also noticed that he had deleted his Hinge profile, so it seemed like he wasn’t interested in dating.  I decided to let go of him too since there wasn’t any sign of progress that he’d want to see me.
 
-That was what I thought.  <u>He’s definitely got a story in the remaining chapters.</u>
+Or so I thought.  <u>He’s definitely got a story in the remaining chapters.</u>
 
 ## Section 4
 

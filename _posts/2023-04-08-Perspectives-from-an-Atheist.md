@@ -323,7 +323,7 @@ When it got dark, Cadee headed home.  “Say hi to your parents for me,” she s
 
 ...
 
-June 18, 2023.  I was heading down to Provo to move into my apartment.
+June 18, 2022.  I was heading down to Provo to move into my apartment.
 
 “It would’ve been nice if you roomed with a friend,” Mom said.
 
@@ -662,7 +662,7 @@ _Okay wow, said the one who had an overdue book._
 
 …
 
-_I had received a text from Carli saying that she was going to take her chem test today and that she could go to the Harry Potter activity, but by that point, it was too late for me to ask her since I didn’t want to ditch Paige.  As I went to the Maeser building for the Harry Potter activity, I saw Paige waiting by the Maeser statue, and we waited in line.  “Wow, some people went all out,” she said.  The majority of people were dressed up in their wizard robes and hats.  I didn’t get how people had space to bring such stuff with them._
+_I received a text from Carli saying that she was going to take her chem test today and that she could go to the Harry Potter activity, but by that point, it was too late for me to ask her since I didn’t want to ditch Paige.  As I went to the Maeser building for the Harry Potter activity, I saw Paige waiting by the Maeser statue, and we waited in line.  “Wow, some people went all out,” she said.  The majority of people were dressed up in their wizard robes and hats.  I didn’t get how people had space to bring such stuff with them._
 
 _When we entered the building, we received a couple of letters and then headed downstairs to eat food.  They had rolls, meatballs, butter beer, and punch, so Paige and I tried to stock up on food.  After all, free food was basically heaven for college students._
 
@@ -674,10 +674,6 @@ _“We should leave before they start the activity,” Paige said._
 _“How are we going to leave?” I asked._
 
 _“Well, there are some people going back upstairs.  See?  Or...”  She then walked toward the center of the hallway and found some steps leading up to a door._
-
-_“Wow, I didn’t know that was an entrance,” I said._
-
-_“Yeah, I saw that door there, and I thought it’d be an exit,” Paige said._
 
 _We still had the letters in our hands, and we decided to open them up.  I had never done a murder mystery before, and it was a little confusing what I had gotten.  “Murder mysteries can actually be fun, but I wasn’t really up for it,” Paige said.  “Dang, I’m such a bad example to you, am I?”_
 
@@ -701,6 +697,6 @@ I honestly felt so at home.  Sister Atkin talked to me for the most part, and I 
 
 August 28, 2022.  While I was scrolling through the rosters of my classes to see if I recognized anyone’s names, I was surprised to see Gyuna’s name in my CS 180 class!  I reached out to her to confirm if she was taking the class, to which she said yes.  She also said that she was majoring in data science, so maybe she and I would have classes together in the future.
 
-I was ready for fall semester to start—another semester of classes, research, and studying at the LSB all day, every day.  That was what I thought.
+I was ready for fall semester to start—another semester of classes, research, and studying at the LSB all day, every day.  Or so I thought.
 
-(End of Chapter 1, end of Part 1…)
+(End of Chapter 1, end of Part 1...)

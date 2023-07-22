@@ -444,11 +444,11 @@ Sam and I talked for a bit.  Anytime I asked him a question, he’d smile really
 
 “Would you consider yourself an introvert or an extrovert?” I asked when we sat down at the restaurant.
 
-“Definitely an introvert,” Sam answered.  “I’d consider myself an introvert with social anxiety.  I do prefer being in a bigger city though.  Somewhere outside of Utah.”
+“Definitely an introvert,” Sam answered.  “I’d consider myself an introvert with social anxiety.  I do prefer being in a bigger city though, somewhere outside of Utah.”
 
-“I’d say I’m more introverted, but I do like getting to know new people, at least people who want to get to know me.  That was obviously not so on the mission.  I’m definitely pretty quiet in group settings, but I like having people around me.  I do like the city vibe, except I wish it was less expensive and safer.”
+“I’d say I’m more introverted, but I do like getting to know new people, at least people who want to get to know me.  That was obviously not so on the mission.  I’m definitely pretty quiet in group settings, but I like having people around me.  I do like the city vibe, except I wish it were less expensive and safer.”
 
-I learned that he was the seventh of eight children in his family and that he grew up in Colorado.  He said he was going back home at the end of the week for Christmas.  He also liked learning, so school was his thing.  On top of a mechanical engineering degree, he was also doing a CS minor.  That sounded like a nightmare to me.
+I learned that he grew up in Colorado and that he was going back home at the end of the week for Christmas.  He also liked learning, so school was his thing.  On top of a mechanical engineering degree, he was also doing a CS minor.  That sounded like a nightmare to me.
 
 When we finished eating, we got back to his place and played some games.  “Do your roommates know Korean too?” I asked.
 
@@ -462,7 +462,7 @@ I also asked about his dating life.  “How long have you been dating guys?”
 
 “Oh cool, I’ve been dating about that long too.  What got you into dating guys?”
 
-“I think I’m still trying to figure myself out.  I was in a relationship with a couple girls, but I didn’t feel anything.”
+“I think I’m still trying to figure that out.  I was in a relationship with a couple girls, but I didn’t feel anything.”
 
 “I’ve never been in a relationship with girls or guys, but that’s the goal, being in a relationship with a guy.”  I told him my story.  “How has dating been for you?”
 
@@ -488,7 +488,7 @@ I noticed that his hand was inching closer and closer to my leg very slowly.  Th
 
 “You’re really cute,” I said.  I couldn’t believe I had the guts to tell him that.  I laid my head on his shoulder, and he laid his head on mine.
 
-After about five minutes, Sam leaned in for a kiss.  And we basically made out for almost the rest of the movie.  I remembered when Gyuna told me that I wouldn’t see a thing if I watched a movie with a date.  Now I understood what she meant.
+After about five minutes, Sam leaned in for a kiss.  And we basically made out for almost the rest of the movie.  I remembered when Gyuna told me that I wouldn’t see a thing if I watched a movie on a date.  Now I understood what she meant.
 
 By the time my eyes were back on the TV screen, I had no idea what was going on in the movie.  I guess I couldn’t say I watched whatever movie we were watching.  (I obviously don’t remember what we “watched.”)
 
@@ -582,7 +582,7 @@ I shrugged again.  “I still look like an Asian.”
 
 “I know what it’s like to be discriminated.  But you should try to talk to people.  And if you do, then people will do the same.  If you help others, then they’ll help you back.”
 
-I never understood that.  When I initiated social things, I rarely ever felt reciprocation.  I guess that was why I rarely initiated things.  I usually felt closer to those who initiated first.  That included people like Gyuna, Cadee back in Kentucky, and Paige from freshman year of college.  Even with dating, I was usually the one to ask about meeting in person, but not much would happen after that first date.
+I never understood that.  When I initiated social things, I rarely ever felt reciprocation.  I guess that was why I rarely initiated things.  I usually felt closer to those who initiated first.  That included people like Gyuna and Paige during my time at BYU.  Even with dating, I was usually the one to ask about meeting in person, but not much would happen after that first date.
 
 Soon after that conversation, I was helping David change a lightbulb in the bathroom.  “I overheard your conversation with your mom,” he said.  “I just want to say that I think you’re great the way you are.”
 
@@ -595,6 +595,7 @@ I could overhear Mom talking to Shari about the conversation in the kitchen.  �
 “Same,” I said.
 
 “I know she cares about us, but I think she just has some very different perspectives from us.”
+
 It must have been nice that Mom felt reciprocation from people when she initiated things.
 
 ## Section 5
@@ -605,7 +606,7 @@ December 31, 2022.  While Sam was with his family, he and I occasionally texted 
 
 ```But we should definitely at least hang```
 
-By this time, he was back in Provo, so I asked if he was doing anything for New Year’s Eve.  He said he was pretty open, so we set up another date.  We planned on going to Itto Sushi.  When I picked up Nozomu and Deanna, the three of us ate there for lunch, and I thought it was pretty good.  The two of them were back in Connecticut at this point.
+By this time, he was back in Provo, so I asked if he was doing anything for New Year’s Eve.  He said he was pretty open, so we planned on going to Itto Sushi.  When I picked up Nozomu and Deanna, the three of us ate there for lunch, and I thought it was pretty good.  The two of them were back in Connecticut at this point.
 
 It was hard to believe that I was going on a third date.  I had never been on a third date with the same guy.  I wondered when things would feel right before deciding to get serious.  I guess that was where communication was important.
 
@@ -614,6 +615,7 @@ It was hard to believe that I was going on a third date.  I had never been on a 
 “Yeah, I’d be fine with that,” Sam said.
 
 “She’s on vacation right now, but you can meet her at the beginning of next semester for sure.”
+
 After Itto Sushi, we went to Walmart to buy ice cream, pie, and a Martinelli to celebrate the new year.
 
 Shari and David were nice enough to arrange Christmas stockings, and I got a game called Dos.  Sam and I played it together and then ate our desserts.
@@ -624,7 +626,8 @@ Shari and David were nice enough to arrange Christmas stockings, and I got a gam
 
 “I don’t think that’s gonna happen.”
 
-We also watched Spirited Away.  I really wanted to kiss him, but I also wanted to watch the movie.
+We also watched _Spirited Away_.  I really wanted to kiss him, but I also wanted to watch the movie.
+
 “Do you want to watch the movie?” Sam asked as I laid my head against his in the middle of the movie.
 
 I laughed.  “Yeah,” I answered.
@@ -640,11 +643,12 @@ We actually watched the movie all the way through!  I kind of felt bad though.  
 “I’m definitely slower when it comes to knowing if I want to be in a relationship,” Sam answered.  “But if I go past a second date, I’m definitely more interested.”
 
 “Gotcha.  Hopefully we can continue to get to know each other better.  I mean, so far, I like you.”
+
 “I like you too.”
 
-When it turned midnight, Sam and I said happy new year and gave each other another kiss.  And even when I was dropping him off at his place, we gave each other a goodnight kiss.
+When it turned midnight, Sam and I said happy new year and gave each other another kiss.  Even when I was dropping him off at his place, we gave each other a goodnight kiss too.
 
-…
+...
 
 The next day, I woke up to see something purple on my neck.  It looked like a bruise, but at least it didn’t hurt when I touched it.  And then I realized…
 
@@ -686,13 +690,13 @@ I really did want to be in a long-term relationship.  But now that things were s
 
 ```Me: Lol yeah. A break up will prolly happen.```
 
-```I talked to him about it, and he said he could see us being friends.```
-
-```But Kent said that we could be friends, but that didn’t happen.```
-
 ```Gyuna: Then why do u think it’s gonna work out```
 
 ```Me: Well. That’s the thing. I know I have to take a risk. But it’s scary.```
+
+```I talked to him about it, and he said he could see us being friends.```
+
+```But Kent said that we could be friends, but that didn’t happen.```
 
 ```Gyuna: He said he can see you being friends?```
 
@@ -756,9 +760,9 @@ After the hike, I told Sam about how Deanna wanted me to try BYU’s cookies ‘
 
 “I know the vending machines have them,” Sam said.  He looked up places on his phone.  It looked like there was a vending machine at the Wilk, so we walked there.
 
-No one could go wrong with cookies ‘n cream anything, but a water bottle-sized drink that costed 2.25…  “It tastes good,” I said.  “I don’t think it’s to die for though.”
+No one could go wrong with cookies ‘n cream anything, but a water bottle-sized drink that costed $2.25…  “It tastes good,” I said.  “I don’t think it’s to die for though.”
 
-“I could buy chocolate milk at Walmart for much cheaper, and it tastes the same,” Sam said.  “At least you can tell your sister-in-law that you finally tried cookies ‘n cream milk.”
+“I could buy chocolate milk at Walmart for much cheaper, and it basically tastes the same,” Sam said.  “At least you can tell your sister-in-law that you finally tried cookies ‘n cream milk.”
 
 Afterwards, we took the Myers-Briggs personality test together.  Sam said he had taken it a few times and that he always got INTJ.  That was what he got this time around as well, and I was ISFJ like last time.  We each read the personality descriptions.  The “romantic relationships” section stated that INTJs were pretty difficult when it came to romance.
 
@@ -770,13 +774,13 @@ Afterwards, we took the Myers-Briggs personality test together.  Sam said he had
 
 “I know I mentioned this before, but a dealbreaker for me is someone who’s ambitious.  I definitely want someone like that—someone who’s passionate about something and has goals and wants to make it to the top.  I also value someone who can carry intellectual conversations.  Also someone who is able to be independent.  But dating isn’t easy.  It’s hard to find someone who physically and emotionally and intellectually aligns.”
 
-“Yeah.  Dating is hard.  During the first month of dating, dating was my top priority.  I just wanted to go on as many dates with as many guys as I could so I could figure out what qualities were important to me.  But now I've realized how difficult finding a long-term relationship can be.  Now I'm kinda like, ‘Meh.’  Sometimes it feels pointless and a waste of time to text a guy, go on one date, and then never see him again after that, even if we left on good terms.  I mean, I still want to date, but sometimes it feels like I won’t find the right person."
+“Yeah.  Dating is hard.  During the first month of dating, dating was my top priority.  I just wanted to go on as many dates with as many guys as I could so I could figure out what qualities were important to me.  But now I've realized how difficult finding a long-term relationship can be.  Now I'm kinda like, ‘Meh.’  Sometimes it feels pointless and a waste of time to text a guy, go on one date, and then never see him again after that, even if we left on good terms.  I mean, I still want to date, but sometimes it feels like I won’t ever find the right person."
 
 "I can see us being at least friends," Sam said.  "It could be more."
 
 "I mean, I do think about you from time to time.  And I always look forward to seeing you.  I remember that our first date was on Tuesday, and then our second date was on Friday, and I thought, ‘I just want it to be Friday!’  I mean, I really like you."
 
-"I looked forward to today too.  And I like you too."
+"I looked forward to today.  And I like you too."
 
 “I guess I am a bit nervous about getting into a relationship.  I’ve never been in one before, girl or guy.  It’s completely new territory for me.  I’m not sure what I’m going to get myself into, but it’s ultimately what I want.  Like, if we were to get into a relationship and things didn’t work out, where would you see us?  Do you think we’d still talk or hang out?”
 
@@ -785,21 +789,22 @@ Afterwards, we took the Myers-Briggs personality test together.  Sam said he had
 “If people were to ask us how we knew each other, how would we talk about it?”
 
 We thought for a bit.  It was honestly a bit sad that we had to make up a story for our own safety.  A straight couple could easily say that they were dating and had met wherever.  “I did take STAT 201 a few semesters ago,” Sam said.  “We could say that we knew each other at the stats lab.”
+
 “Yeah, I guess that could work.  And we’d just say that we’re friends, right?”
 
-“Right.  So…”  Sam paused for a bit.  “I'm not sure if I've told you about where I stand with my faith.  Basically, ever since I chose to explore this side of my sexuality, my faith has been non-existent.  And at least for me, I think it’s important that I find someone who has the same morals as me.”
+“Right.  So...”  Sam paused for a bit.  “I'm not sure if I've told you about where I stand with my faith.  Basically, ever since I chose to date guys, my faith has been non-existent.  And at least for me, I think it’s important that I find someone who has the same morals as me.”
 
 I didn’t understand what he meant by that.  I knew he talked about how his faith wasn’t always there, but he also talked about going to church on Sundays.  I guess he and I hadn’t talked much about the gospel and where we stood in regard to our sexuality.
 
 Sam and I had spent quite a long time together.  He said he didn’t want to spend too long on a date, which I could understand why.  It was a bit exhausting.  Plus, he had work at 2 or 3 in the morning.  I dropped him off, and we kissed each other goodnight.
 
-However, <u>I began to feel unsettled about what Sam had told me about his faith.  Non-existent…</u>
+However, <u>I began to feel unsettled about what Sam had told me about his faith.  Non-existent...</u>
 
 ## Section 6
 
 January 7, 2023.  Gyuna asked me if I could pick her and Christian up at the airport, so that was what I planned on doing tonight.
 
-“Do you remember the day that you came out to me?” Gyuna asked.  It was a conversation she and I had a few weeks ago.  “After you left, I called Christian, and I was like, ‘Michael and I had a really good talk.’  And he was like, ‘What, did he come out?’  And that completely threw me off, so I was like, ‘No!’ and accused him of thinking that.  But I feel like he already knows.”
+“Do you remember the day that you came out to me?” Gyuna asked during a conversation she and I had a couple weeks before.  “After you left, I called Christian, and I was like, ‘Michael and I had a really good talk.’  And he was like, ‘What, did he come out?’  And that completely threw me off, so I was like, ‘No!’ and accused him of thinking that.  But I feel like he already knows.”
 
 “Really?  Since when?” I asked.
 
@@ -837,7 +842,7 @@ The subject changed, but Christian went back to Sam.  "Okay, so tell me more abo
 
 "I mean, yeah.  He's not the greatest at texting though."
 
-“Oh, he's a really bad texter," Gyuna added.  She had made some noodles to eat, so Christian went to grab some.  "Shaberu (Say it!)!" Gyuna whispered to me.
+“Oh, he's a really bad texter," Gyuna added.  She made some noodles to eat, so Christian went to grab some.  "Shaberu (Say it!)!" Gyuna whispered to me.
 
 After a bit, we talked about Hyeji and how she was doing.  Christian had never met her, but he acted as if I had a romantic interest in her.  "Hey, look at that," he said.  He noticed my hickey.
 
@@ -859,7 +864,7 @@ Christian's mouth dropped for about five seconds.  "Wait, is Sam a guy or a girl
 
 "Sam’s a guy," I said.
 
-"Okay, Sam HAS to be a code name for something."  Christian looked like he wasn’t having it as if I Gyuna and I were playing a trick on him.
+"Okay, Sam HAS to be a code name for something."  Christian looked like he wasn’t having it as if Gyuna and I were playing a trick on him.
 
 Gyuna laughed.  "I can't believe this is your reaction."
 
@@ -883,11 +888,11 @@ Gyuna laughed.  I was really surprised how surprised Christian was.  I felt like
 
 "So how long have you known?"
 
-"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appeared to be the same.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
+"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appear to be the same.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
 
 After some discussion, Gyuna said, "Remember that time when you and I were at the library for a really long time during the last week of the semester?  I asked a lot of questions pertaining to exaltation and stuff like that to Christian to see what his thoughts were."
 
-"We're taught that God loves all His children,” Christian said.  “If he were to create a certain race or sexual orientation or gender that was inferior to another, then God would cease to be God.  He has to have some sort of plan for those in your situation."
+"We're taught that God loves all His children,” Christian said.  “If He were to create a certain race or sexual orientation or gender that was inferior to another, then God would cease to be God.  He has to have some sort of plan for those in your situation."
 
 "That's the thing that I don't really understand yet,” I said.  “It seems like the plan of salvation that we taught it as missionaries is advantageous to straight people.  Of course it's easy for straight people to say that it's for everyone because it's natural for them to find a romantic interest and love for someone of the opposite gender.  But one of the biggest things I've learned on the mission is that keeping the commandments isn't just about merely doing them.  It's definitely a starting point.  But you have to feel it too.  It has to be a desire from the core.  I mean, a sealing is merely a ceremony.  Anyone can mechanically go through the motions of a sealing as long as it's between a man and a woman, right?  But marriage is so much deeper than a ceremony.  That's what I've found out from dating guys.  I've never been romantically interested in dating girls.  I didn't even know what it meant to be 'romantically interested' until I started dating guys."
 
@@ -895,7 +900,7 @@ After some discussion, Gyuna said, "Remember that time when you and I were at th
 
  "I think it's just frustrating that there aren't answers for people in my situation.  I don't think the prophets have really tried to empathize with our situation.  They talk ABOUT us.  But they rarely ever talk TO us.  And that's why I can empathize with gay members who leave the Church because what's the point of following the gospel and having a hope in the plan of salvation if exaltation isn't achievable for us, even if we mechanically marry a woman?"
 
-I also talked to them about my dates with Sam.  "The thing that I'm scared of is that he told me that ever since he's been dating guys, his faith has been non-existent.  And I think it's sad that people think that they have to choose between their faith or their sexuality and leave the other one behind."
+I also talked to them about my dates with Sam.  "The thing that I'm scared of is that he told me that ever since he's been dating guys, his faith has been non-existent.  And I think it's sad that people think that they have to choose between their faith and their sexuality and leave the other one behind."
 
 "Well, you can talk to him about your expectations with faith and see what his expectations are,” Christian said.  “Then you can see if you want to pursue something or not."
 

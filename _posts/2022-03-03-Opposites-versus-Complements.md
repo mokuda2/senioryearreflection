@@ -28,7 +28,7 @@ I had a date set up with a guy named Dylan today.  He was the first femme-appear
 
 For our date, we went to CHOM Burger.  I felt pretty vulnerable, but I also felt like those kinds of situations were good to be in.  It definitely got me out of my comfort zone.  I was pretty sure other people knew he was gay just by looking at him, and I was the only one who was talking to him.
 
-Dylan was studying philosophy at BYU and planned to do a PhD in poetry.  It was something I had never heard of, but it sounded interesting.  We then went to his place and watched Inception.  I kind of got clues that he liked me.  Anytime there was a pause in our conversation, he'd look at me kinda dreamily.  Or when we were watching the movie, he asked if he could hold my hand.
+Dylan was studying philosophy at BYU and planned to do a PhD in poetry.  It was something I had never heard of, but it sounded interesting.  We then went to his place and watched _Inception_.  I kind of got clues that he liked me.  Anytime there was a pause in our conversation, he'd look at me kinda dreamily.  Or when we were watching the movie, he asked if he could hold my hand.
 
 “Sure,” I said plainly.  But I didn't feel anything romantic with him.
 

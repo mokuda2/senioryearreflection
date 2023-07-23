@@ -64,7 +64,7 @@ We went to the second floor of the library where I usually studied during my fre
 
 “I don’t think so.”
 
-She then asked a girl who was sitting on the other side of me.  I was surprised how outgoing Gyuna was to talk to someone she didn’t know like that.  “...Yeah, this is my first semester at BYU, and it’s been a lot.  But thanks so much!”
+She then asked a girl who was sitting on the other side of her.  I was surprised how outgoing Gyuna was to talk to someone she didn’t know like that.  “...Yeah, this is my first semester at BYU, and it’s been a lot.  But thanks so much!”
 
 After a bit of studying, I saw that she was about to take a selfie with me.
 
@@ -107,7 +107,7 @@ So I sang “ddu du ddu du.”  One of Gyuna’s friends found us, and I ended u
 
 September 9, 2022.  Christian came down from Rexburg and spent a few days with Gyuna.  It was my second time seeing Christian in person.  Gyuna said she video chatted with him every day.
 
-After Gyuna and I were finished with our CS 180 class, she and I went to the Talmage building where Christian was hanging out.  The three of us decided to go to a restaurant right outside of campus.  I wasn’t expecting to hang out with them, as I was thinking I’d do homework in the West View Building—the stats building.  But I didn’t mind tagging along, especially since Christian actually talked to me.  I felt like most dating relationships didn’t like it when other people were around.
+After Gyuna and I were finished with our CS 180 class, she and I went to the Talmage Building where Christian was hanging out.  The three of us decided to go to a restaurant right outside of campus.  I wasn’t expecting to hang out with them, as I was thinking I’d do homework in the West View Building—the stats building.  But I didn’t mind tagging along, especially since Christian actually talked to me.  I felt like most dating relationships didn’t like it when other people were around.
 
 “So, Michael, what are your hobbies?” Christian asked when the three of us were settled down with our food.
 
@@ -145,7 +145,7 @@ I didn’t know what he meant by that.  Life was just fine without a relationshi
 
 “Any celebrity crushes you’ve had?” he asked.
 
-“No, I don’t really know celebrities.”  It was kind of true.  I didn’t khave any celebrity “crushes.”  I honestly didn’t know what that meant.  Someone I obsessively thought about?  No, I didn’t have that kind of Disease.
+“No, I don’t really know celebrities.”  It was kind of true.  I didn’t have any celebrity “crushes.”  I honestly didn’t know what that meant.  Someone I obsessively thought about?  No, I didn’t have that kind of Disease.
 
 Gyuna and Christian kind of gave each other a look like I did or said something wrong.  “You know _Howl’s Moving Castle_, right?” Gyuna asked.  “Would you date Sophie?”
 
@@ -613,7 +613,7 @@ The first part of it was dancing.  I sort of forgot what dancing was like, but G
 
 ## Section 4
 
-Even though it was great getting to hang out mostly with Gyuna and also Christian, I realized that I was starting to feel social withdrawals for the past month.  I noticed that on days that I didn’t hang out with Gyuna, I felt pretty sad and lonely.  I didn’t really talk to anyone else.  Sure, I had my research teammates and the TAs in the stats lab and some of my classmates, but it wasn’t like I did anything outside of school with them.  It didn’t help that I didn’t connect with any of my roommates.
+Even though it was great getting to hang out mostly with Gyuna and also Christian, I realized that I was starting to feel social withdrawals for the past month.  I noticed that on days that I didn’t hang out with Gyuna, I felt pretty sad and lonely.  I didn’t really hang out with anyone else.  Sure, I had my research teammates and the TAs in the stats lab and some of my classmates, but it wasn’t like I did anything outside of school with them.  It didn’t help that I didn’t connect with any of my roommates.
 
 Initially, I got really scared that I was feeling these social withdrawals.  I felt like maybe I needed to break off ties with Gyuna.  I was still skeptical trying to develop connections and relationships with people because who knew when Gyuna and I wouldn’t be friends anymore?  Then what would be the point of all of it?  If I were to break off ties with her now, then maybe I wouldn’t worsen the hurt.
 

@@ -938,4 +938,6 @@ After about an hour or two of talk, I went back to my apartment and texted Sam a
 
 But I was still somewhat unsettled about where we were as far as faith and the gospel.  I knew that I needed to figure that out before committing to a relationship.
 
-(End of Chapter 4, end of Part 2…)
+(End of Chapter 4, end of Part 2...)
+
+Next page -> [Part 3, Chapter 1: Opposites versus Complements](https://mokuda2.github.io/junioryearreflection/2023/03/03/Opposites-versus-Complements.html)

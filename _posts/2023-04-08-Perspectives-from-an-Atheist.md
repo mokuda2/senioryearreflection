@@ -701,4 +701,4 @@ I was ready for fall semester to start—another semester of classes, research, 
 
 (End of Chapter 1, end of Part 1...)
 
-Next page -> [Part 2, Chapter 1: Hollow Space](https://mokuda2.github.io/junioryearreflection/2023/03/07/Hollow-Space.html)
+Next page -> [Part 2, Chapter 1: Hollow Space](https://mokuda2.github.io/junioryearreflection/2023/04/07/Hollow-Space.html)

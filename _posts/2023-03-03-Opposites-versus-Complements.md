@@ -1326,4 +1326,6 @@ Today really was the day that I was waiting for: getting to the point that I'd b
 
 I definitely didn't expect myself to be in a relationship after experiencing all the painful heartbreaks within the last month, but how else could I have expected to be in a relationship?  I still somewhat had feelings for Connor, but I knew that I’d move on eventually, just like I did with Kent and Sam.  That was what kept me going.  I was excited about experiencing another first—a first relationship.
 
-(End of Chapter 1…)
+(End of Chapter 1...)
+
+Next page -> [Part 3, Chapter 2: Triangles](https://mokuda2.github.io/junioryearreflection/2023/02/02/Triangles.html)

@@ -632,4 +632,4 @@ So I downloaded some dating apps and started to learn the game of swiping.
 
 (End of Chapter 1...)
 
-Next page -> [Part 2, Chapter 2: Shadows](https://mokuda2.github.io/junioryearreflection/2023/02/06/Shadows.html)
+Next page -> [Part 2, Chapter 2: Shadows](https://mokuda2.github.io/junioryearreflection/2023/04/06/Shadows.html)

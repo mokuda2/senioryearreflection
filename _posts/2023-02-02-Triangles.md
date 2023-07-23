@@ -873,4 +873,6 @@ On the car ride home, I listened to the song that Bryce told me he thought about
 
 ```(Source: https://www.youtube.com/watch?v=UqaApGePWVE)```
 
-(End of Chapter 3…)
+(End of Chapter 2...)
+
+Next page -> [Part 3, Chapter 3: The Head and the Heart](https://mokuda2.github.io/junioryearreflection/2023/01/01/The-Head-and-the-Heart.html)

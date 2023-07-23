@@ -630,5 +630,6 @@ So I downloaded some dating apps and started to learn the game of swiping.
 
 “Heavenly Father, I’m thankful for Gyuna and Christian.  They have been so good to me.  Please bless them that they can do well in school.  I’m just confused though.  Even though they’ve been such great friends and the kind of friends that I had wanted a year ago, I don’t get why I still feel so empty and lonely.  Please help me to know if I should be using these dating apps, and please especially help me to know if I should try to pursue a relationship.  In the name of Jesus Christ.  Amen.”
 
-(End of Chapter 1…)
+(End of Chapter 1...)
 
+Next page -> [Part 2, Chapter 2: Shadows](https://mokuda2.github.io/junioryearreflection/2023/02/06/Shadows.html)

@@ -700,3 +700,5 @@ August 28, 2022.  While I was scrolling through the rosters of my classes to see
 I was ready for fall semester to start—another semester of classes, research, and studying at the LSB all day, every day.  Or so I thought.
 
 (End of Chapter 1, end of Part 1...)
+
+Next page -> [Part 2, Chapter 1: Hollow Space](https://mokuda2.github.io/junioryearreflection/2023/03/07/Hollow-Space.html)

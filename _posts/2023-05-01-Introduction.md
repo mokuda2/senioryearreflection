@@ -9,3 +9,5 @@ _Passages in italics are flashbacks of the past._  They typically are copy-and-p
 <span style="color:red">Words or phrases in red are important concepts or people to keep in mind while reading.</span>  I hope this will also help with relevance and purpose of my reflection.
 
 I hope you enjoy reading my reflection as much as I've enjoyed putting it together!
+
+Next page -> [Part 1, Chapter 1: Perspectives from an Atheist](https://mokuda2.github.io/junioryearreflection/2023/04/08/Perspectives-from-an-Atheist.html)

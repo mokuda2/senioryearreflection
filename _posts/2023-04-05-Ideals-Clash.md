@@ -1262,4 +1262,6 @@ I honestly couldn’t say that I had met any other guy who had changed me the wa
 
 And that concludes the story of my first real crush and my first heartbreak ever: Kent.
 
-(End of Chapter 3…)
+(End of Chapter 3...)
+
+Next page -> [Part 2, Chapter 4: The Color Red](https://mokuda2.github.io/junioryearreflection/2023/04/04/The-Color-Red.html)

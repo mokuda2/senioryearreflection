@@ -599,7 +599,7 @@ Connor said he was back home skiing with his family but was going to come back t
 
 “Look at this,” I said to Gyuna and Christian.
 
-“It’s gonna be a make out party with all four of you,” Christian whispered to me.
+“It’s gonna be a make-out party with all four of you,” Christian whispered to me.
 
 “Uh, no.”
 
@@ -627,7 +627,7 @@ Later that night, he picked me up, and we headed up to Vineyard.  I was a little
 
 “Yeah, I’m at BYU.”
 
-Connor’s friends asked me if I had been to certain places in Utah.  I obviously didn’t.  It made me realize how much I hadn’t experienced in life.
+Connor’s friends asked me if I had been to certain places in Utah.  I obviously didn’t.  It made me realize how much I hadn’t experienced life.
 
 “We’ll need to take you to Lagoon,” his friends said.  “And maybe we’ll take you down to St. George.”
 
@@ -645,7 +645,7 @@ After hot tubbing, we played some games and then headed out for the night.
 
 “So you said that you haven’t come out to your family, right?” Connor asked as we drove back to Provo.
 
-“I haven’t,” I answered.  “I’ve thought a lot about it, but it hasn’t felt right.  I’ve only come out to my best friend and her boyfriend.  What about you?  You said you came out to your family, right?”
+“I haven’t,” I answered.  “I’ve only come out to my best friend and her boyfriend.  What about you?  You said you came out to your family, right?”
 
 “Yeah, I’ve come out to my immediate family.  I’m still thinking about coming out to my extended family.  But all my friends that I usually hang out with know.  I’ve been pretty lucky by how supportive my family and friends have been.”
 
@@ -667,13 +667,13 @@ I smiled.  “Same.”  I was sort of worried that Connor wouldn’t be as inter
 
 “So, a more serious question,” Connor said.  “Where do you stand as far as the Church?”
 
-“I definitely don’t think faith and sexuality is a black-and-white thing,” I answered.  “The gospel has been such a great influence in my life and has shaped me for who I am now.  But I’ve definitely had lots of questions.  I know that a lot of gay members leave the Church, and I can sort of understand where they come from.  Exaltation wouldn’t really be an achievable goal for most of us, so they probably think there isn’t a point in following the gospel if reaching that end goal isn’t realistic.  But there’s something inside me that tells me to keep going with faith.  I know that lots of people think that faith and sexuality are complete opposites, but I think the one thing that they have in common is that people can find it hard to empathize when they don’t know what it’s like to have a spiritual experience or what it’s like to be gay.  And I hope the Church continues to build its understanding of our situation.  What about you?”
+“I definitely don’t think faith and sexuality is a black-and-white thing,” I answered.  “The gospel has been such a great influence in my life and has shaped me for who I am now.  But I’ve definitely had lots of questions.  I know that a lot of gay members leave the Church, and I can sort of understand where they come from.  Exaltation wouldn’t really be an achievable goal for most of us, so maybe they think there isn’t a point in following the gospel.  But there’s something inside me that tells me to keep going with faith.  I know that lots of people think that faith and sexuality are complete opposites, but I think the one thing that they have in common is that people can find it hard to empathize when they don’t know what it’s like to have a spiritual experience or what it’s like to be gay.  And I hope the Church continues to build its understanding of our situation.  What about you?”
 
 “The gospel has been a great influence in my life too,” Connor said.  “It’s not something that I can just throw away.  But on the other hand, there are some things that the Church has said and done about gay people that really make me question about the Church.  It’s a battle of feelings.”
 
 “Have you ever tried dating girls?” I asked.
 
-“I have.  I was in a relationship with two.  They’re super smart, super talented, and super sweet.  If I was straight, I’d probably marry one of them.  But anytime it came to physical touch, I just couldn’t.  I remember trying to kiss them and then going home panicking and crying.  But I still keep in touch with them.  They’re both married now.”
+“I have.  I was in a relationship with two.  They’re super smart, super talented, and super sweet.  If I were straight, I’d probably marry one of them.  But anytime it came to physical touch, I just couldn’t.  I remember trying to kiss them and then going home panicking and crying.  But I still keep in touch with them.  They’re both married now.”
 
 “I’ve never kissed a girl, and I never plan to.  I’ve gone on dates in high school with girls, and they all felt like hangouts.  I had no desire for physical touch.  And then in college, my interest in simply talking to girls declined.  I know that I don’t have to date girls to know that I’m not interested in them.  So… what is it that you like about going on dates with me?”
 
@@ -697,7 +697,7 @@ But I was a bit scared.  Things seemed to go a complete 180.
 
 ## Section 5
 
-January 30, 2023.  “… I mean, I was a little surprised that he wanted to go on a date with me,” I said.  I told Gyuna about Connor and how he said he wanted some space.  “He said he still wasn't down to go on dates before I met him in person.  Maybe he feels like he’s going to take things too far and wants some space in order to calm down.  But I don't know!  I'm kind of scared.  He's the first person where I've felt like I have no interest in dating anyone else.  That didn't even happen with Kent or Sam."
+January 30, 2023.  “...I mean, I was a little surprised that he wanted to go on a date with me,” I said.  I told Gyuna about Connor and how he said he wanted some space.  “He said he still wasn't down to go on dates before I met him in person.  Maybe he feels like he’s going to take things too far and wants some space in order to calm down.  But I don't know!  I'm kind of scared.  He's the first person where I've felt like I have no interest in dating anyone else.  That didn't even happen with Kent or Sam."
 
 “Dang, why are you so invested in him so quickly?” she responded.
 
@@ -720,9 +720,10 @@ I wrote a letter:
 Even though I still felt invested in Connor, I wanted to keep my word and not put all my eggs in one basket until a committed relationship was established.  I swiped through my dating apps, but I mostly swiped left.  Gyuna was right; I was so invested in Connor!
 
 However, I had been messaging a guy named <span style="color:red">Bryce</span> for a couple days.
-I texted him saying that I was at the library, and he said he was going to be at the library too.  I thought I’d meet with Hyeji tonight, as it had been a while since she and I had hung out, but she said she wasn’t going to be able to make it.  So that was when Bryce and I first met in person.
+I texted him saying that I was at the library, and he said he was going to be at the library too.  I thought I’d meet with Hyeji tonight, as it had been a while since she and I had last hung out, but she said she wasn’t going to be able to make it.  So that was when Bryce and I first met in person.
 
 Gyuna called me about getting her scholarship application finished, and I told her to come to the library.  "Why can't you come to the study pod in the Talmage?" she asked.
+
 "I'm with someone right now," I answered.  I wished I knew how to say that in Japanese or Korean, but I couldn't.  "Seloun saram (A new person).”
 
 "Ohhh.  Are you gonna make out with him?”
@@ -734,6 +735,7 @@ So she came by.  "This is Gyuna.  This is Bryce," I introduced them to each othe
 "Kawaii!  (He's cute!)” she said.
 
 I gave her a look.  Honestly, I still had feelings for Connor.  I wasn't that crazy about Bryce.  "Shh," I said.  "Ilboneo arayo?  What if?  (I tried to say, “What if he knows Japanese?”)”
+
 "So what do you want to do after you graduate, Bryce?" Gyuna then asked.
 
 "I want to go into the police academy.  But I'm studying exercise science since I just need to get a degree, and I've been in school way too long."
@@ -742,11 +744,18 @@ I gave her a look.  Honestly, I still had feelings for Connor.  I wasn't that cr
 
 What the heck did she just ask him?  Bryce just laughed.
 
+"My boyfriend is up in Rexburg, and he's studying graphic design," Gyuna said.
+
+"My uncle does stuff related to that," Bryce said.
+
+"Really?  My boyfriend has been trying to find a job or internship to do with graphic design."
+
 After some studying, I said I was heading home, at which point Bryce also packed up his stuff.  "I can give you a ride home," he said.
 
 "I don't live too far away," I said.  But then I thought about wanting to get to know his background and his journey.  "Actually, I wouldn't mind if you took me home."
 
 On the car ride back home, he told me that he had dated a guy about a year ago and that for the past year, Bryce had been working on himself.  "So what do you want from dating guys?" he asked.
+
 "Definitely a long-term relationship is the goal,” I answered.  “What about you?"
 
 "Yeah, I definitely want to find a long-term relationship.  Is there anything you don't want, I guess in general?"
@@ -757,7 +766,7 @@ I wasn't sure what he meant by that.  "Uh, I guess don't be creepy."  He and I l
 
 It sounded like Bryce knew what he wanted.  I liked that.
 
-“What are your thoughts about the Church?” Bryce asked.
+“What are your thoughts about the Church?” he then asked.
 
 “I don’t think faith and feelings are a black-and-white thing,” I answered.  “The Church is still an important part of my life.”
 
@@ -771,7 +780,9 @@ Bryce and I planned on a date for Friday evening, and if things didn't work out,
 
 ...
 
-February 2, 2023.  I still hadn’t heard from Connor, so I planned on taking a short shopping break later in the afternoon.  After my classes, I checked my phone to see the following text:
+February 2, 2023.  I still hadn’t heard from Connor, so I planned on taking a short shopping break later in the afternoon.
+
+After my classes, I checked my phone to see the following text:
 
 ```Connor: Hi Michael, hope you've had a good couple days. I just want you to know how I'm feeling because I don't want you sitting and wondering what is going on in my head. You are a very nice guy, and I'm glad we met and got to know each other a bit. I don't think I am interested in continuing going on dates though. I just feel like we're a little different. I don't know exactly what to say, it just feels like the best move for me, which is probably not a fun reason to hear because it's so abstract. Let's definitely keep in touch every now and then okay? I hope you can understand kinda where I'm coming from.```
 
@@ -837,9 +848,10 @@ I didn't think that would be the case.  "I don't see that with him."
 
 "But I want him to feel emotionally connected to me.  Except I do feel like he's a bit crazy for not knowing what he wants after a year and a half of dating.  It really did sound like he wanted to get to know me and wanted to go on dates with me.  And I genuinely think he has a good heart.  When he and I started texting, he was super nice.  I envisioned that if he and I were to get serious that we would go on lots of fun adventures and do fun things together."
 
-"I know it sucks that you don't get to do things that you thought you would do with him, but it sounds like he's not interested in any of that.  I like Bryce though.  Brycie-boo would seem like a good first boyfriend."
+"I know it sucks that you don't get to do things with him that you thought you would, but it sounds like he's not interested in any of that.  I like Bryce though.  Brycie-boo would seem like a good first boyfriend."
 
 I shrugged.  "I still don't know him that well.  So far, I think he's chill, but it's not like my heart is like, 'Oh my gosh, I want him!' or anything like that.  I guess with Connor, maybe I did sound a bit brutal over text, which is why I prefer talking about these kinds of things in person.  But it doesn't sound like he wants to talk about this kind of stuff anymore."
+
 "Michael, don't you see that Connor is a red flag?"
 
 "But I really like him!  He's really nice.  And I wish there was a way that he'd want to emotionally connect with me, even as friends."
@@ -860,7 +872,7 @@ We talked some more.  "You know, I feel like today is a good day to have a tea p
 
 She made herbal tea and got out some pineapple cakes.  "Christian has been kind of depressed lately," Gyuna said.  "He's not liking his living situation since all of his roommates party so much.  And I've been kind of depressed too.  And you seem like you're also depressed."
 
-"Yay, we're all depressed," I said unenthusiastically.  I sighed.  "Whyyy.  Why does life suck?"
+"Yay, we're all depressed," I said unenthusiastically.  I sighed.  "Whyyy?  Why does life suck?"
 
 "It happens.  But you've got a date with Bryce tonight!  You better not hurt him.  And you better pay for his meal."
 
@@ -880,9 +892,10 @@ Later that night, Bryce picked me up at my apartment, and we went to Black Bear 
 
 I learned that Bryce worked with BYU security and was a supervisor for parking.  I guess it was relevant for wanting to go into the police academy.
 
-“There are three things that turn me off,” he said in the middle of our conversation.  “One, facial hair.  Two, people who smoke weed.  I’ve run into lots of situations with people around the Salt Lake City area when I patrolled.  And three, people who are into pride and all the rainbow flags and stuff.”
+“There are three things that turn me off,” he said in the middle of our conversation.  “One, facial hair.  I've never found facial hair attractive.  Two, people who smoke weed.  I’ve run into lots of situations with people around the Salt Lake City area when I patrolled.  And three, people who are into pride and all the rainbow flags and stuff.”
 
 “I served my mission in Seattle, and weed is legal in Washington,” I said.  “It’s absolutely disgusting though.  And I’m not really into all the pride stuff either.  But I do wonder what being in a pride parade is like.  I’d do it once just to say I’d been there and done that.”
+
  “When they were doing the pride parade last summer, we had to make sure that they didn’t get onto BYU property and cause a riot.”
 
 We talked for a bit, getting to know each other.  He liked guns and cars—things I didn’t know much about.  He also said he wanted to be a state trooper.
@@ -937,7 +950,7 @@ I laughed.  “I should’ve known.  White people in Seattle were some of the ru
 
 “Wearing clothes that are too tight,” he answered.
 
-“Oh, really?” Gyuna exclaimed.  “I’d say that most guys like to show off their muscles.  And you’re kind of built too.”
+“Oh, really?” Gyuna exclaimed.  “I’d say that most guys like to show off their muscles.  And you’re kinda built too.”
 
 “I’m not that kind of guy.”
 
@@ -991,16 +1004,17 @@ Even though I didn't have strong romantic feelings with Bryce as I did with Conn
 
 ...
 
-The next day, I didn't want to get out of bed at all.  I felt so defeated and heartbroken.  Since the beginning of the semester, I had my heart broken by four guys: Sam, Mason, Connor, and now Bryce.  It hadn’t been a whole month since the beginning of the semester, and the pain was becoming hard to endure.  I felt like I was running out of options for dating, at least while being in Provo.  Maybe I just needed to take a break from dating and try to prioritize school somehow.  But I had invested so much time into dating and socializing, and I wanted to have a better dating and social life.  I realized that I really did want to find a serious relationship.  I understood now why some people focused on dating one person at a time.  Maybe I needed to put 90 percent of my eggs in one basket if I really did want a serious relationship to form.  But it also meant I'd be more vulnerable to heartbreak like I did with Connor.
+February 7, 2023. I didn't want to get out of bed at all.  I felt so defeated and heartbroken.  Since the beginning of the semester, I had my heart broken by four guys: Sam, Mason, Connor, and now Bryce.  It hadn’t been a whole month since the beginning of the semester, and the pain was becoming hard to endure.  I felt like I was running out of options for dating, at least while being in Provo.  Maybe I just needed to take a break from dating and try to prioritize school somehow.  But I had invested so much time into dating and socializing, and I wanted to have a better dating and social life.  I realized that I wanted to transition from going on dates with a bunch of different guys to finding something serious.  I understood now why some people focused on dating one person at a time.  Maybe I needed to put 90 percent of my eggs in one basket if I really did want a serious relationship to form.  But it also meant I'd be more vulnerable to heartbreak and discouragement like I did with Connor.
 
 "You're doing so well," Gyuna said.  She and I were on the phone later in the evening.  "You've been meeting so many different guys."
 
 "I've really been wanting to find something serious," I said.  "It's been cool getting to know different guys, but sometimes it just feels kinda pointless to get to know some people and then not really ever see them again.  I guess if I did feel like I could be serious with someone, I'd continue dating that person.  But it also has to be a mutual kind of thing."
 
 "I'm sorry about Brycie-boo.  I really thought he would be a great first boyfriend.  Dang!  And I was hoping that his uncle could connect with Christian about that graphic design internship."
+
 I laughed.  "I guess that's all you care about Bryce."
 
-"No, Bryce is so kind.  And he really does remind me of Christian.  I told that to Christian the other day, and he kind of got jealous."
+"No, Bryce is so kind.  And he really does remind me of Christian.  I told that to Christian the other day, and he kinda got jealous."
 
 "I mean, I probably would too."
 
@@ -1022,7 +1036,7 @@ I didn't really see that.  "Really?  Because with Connor, he asked me if I'd get
 
 "Yeah, please don't go cuddle and make out with him."
 
-"I won't.  And I'll let him know how I feel about it if he texts me."
+"I won't.  <u>And I'll let him know how I feel about it if he texts me.</u>"
 
 Gyuna and I had been talking for about an hour, at which point I got a text from Bryce that he was going to be at the library at 8 tonight and was wondering if I'd be available to meet him.  I didn’t get his text until a few minutes past 8.  I told Gyuna about it.
 
@@ -1032,7 +1046,7 @@ Gyuna and I had been talking for about an hour, at which point I got a text from
 
 "I don't know if I'd say it like that, but flirt with him.  You have to learn to flirt!  If he says something funny, just touch his arm or something and laugh.  Or say something witty.  And then when it's right, just be like, 'Today's been a rough day.  Could we just, like, maybe cuddle?'  I don't know.  You do you."  She and I talked for another 15 minutes before I headed over to the library.
 
-Bryce and I studied for a bit, and then he invited me to go to In-N-Out, for which he paid for my meal.  He also said that he needed to do some grocery shopping, so we went to the neighborhood Walmart.  I really wanted to ask him about trying to cuddle, but I was so nervous.  When we got into the car after shopping, he asked if I wanted to go home, but I had the courage to ask.  "So...  I have a weird request.  Do you want to try cuddling?"
+Bryce and I studied for a bit, and then he invited me to go to In-N-Out.  He also said that he needed to do some grocery shopping, so we went to the neighborhood Walmart.  I really wanted to ask him about trying to cuddle, but I was so nervous.  When we got into the car after shopping, he asked if I wanted to go home, but I had the courage to ask.  "So...  I have a weird request.  Do you want to try cuddling?"
 
 “Sure,” he answered.  “I guess we can go to my apartment then.”
 
@@ -1046,11 +1060,12 @@ I was pretty nervous.  I was scared that things might turn out like they did wit
 
 “Only if it feels right.”
 
-It wasn’t long after that when he kissed.  And we made out.  It felt good, though I did have mixed feelings.  I still had feelings for Connor for some reason.
+It wasn’t long after that when we made out.
 
 “So, I’m curious,” Bryce said.  “What made you like my profile?”
 
 “Hm…”  I had to think about that one for a bit.  “One thing that I really look at is lifestyle habits.  I saw that you put that you don’t drink or smoke or do drugs.”  Even if a guy looked physically attractive, not being smoke- and drug-free were pretty big turnoffs for me.
+
 “What else?”
 
 “I mean, I think you’re kinda cute.”
@@ -1067,9 +1082,9 @@ Already talk about a long-term relationship?  “Uh, I think it’s kinda fast t
 
 “Like, if things don’t work out, then we can just be friends?”
 
-“Yeah,” Bryce said.  “I think I can see us being friends if things don’t work out.”
+“Yeah,” Bryce said.  “I can see us being friends if things don’t work out.”
 
-I guess it sounded more relieving.  Being in a serious relationship sometimes sounded like two people were almost impossibly inseparable unless someone forcefully ripped those bands to hurt both involved.  But trying to be in a relationship didn’t sound as daunting.  It was like a test run, and if it was successful such that both people in the relationship could continue it for a lifetime, then great.  Otherwise, both people involved wouldn’t get hurt as much if things didn’t work out.  “Again, I’ve never been in a relationship before,” I said.  “I feel like most people’s first relationships don’t work out.  So I guess that’s one of my fears too.  What would we do if someone asks us how we know each other?”
+I guess it sounded more relieving.  Being in a serious relationship sometimes sounded like two people were almost impossibly inseparable unless someone forcefully ripped those bands to hurt both involved.  But _trying_ to be in a relationship didn’t sound as daunting.  It was like a test run, and if it was successful such that both people in the relationship could continue it for a lifetime, then great.  Otherwise, both people involved wouldn’t get hurt as much if things didn’t work out.  “Again, I’ve never been in a relationship before,” I said.  “I feel like most people’s first relationships don’t work out.  So I guess that’s one of my fears too.  What would we do if someone asks us how we know each other?”
 
 “We can just say we’re friends,” Bryce answered.  “No one would need to know that we’re in a serious relationship.”
 
@@ -1086,13 +1101,14 @@ I was still kind of hesitant.  I felt like it was so fast to decide something li
 “And again, we can try a relationship.”
 
 He and I still occasionally met at the library and texted during that time.  I prayed about it too.
+
 “Wow, that’s kinda fast,” Gyuna said.
 
 “Yeah, says the one who says he’d be a good boyfriend,” I said.
 
 “I think he would, but it’s a big decision.”
 
-Sam happened to text me how I was doing, and I told him that I might be in a serious relationship.  Gyuna was right about how up and down my dating life was.  My text conversation with Sam transitioned from how down in the dumps I was with things not working out with Connor, and then a week later, I was talking about how I might get serious with Bryce.  Sam and I met at the Wilk one evening to hang out.
+Sam texted me how I was doing, and I told him that I might be in a serious relationship.  Gyuna was right about how up and down my dating life was.  My text conversation with Sam transitioned from how down in the dumps I was with things not working out with Connor, and then a week later, I was talking about how I might get serious with Bryce.  Sam and I met at the Wilk one evening to hang out.
 
 “I met him in person like a week ago,” I said.  “It was definitely not love at first sight.  But he seems like a good guy, and I think if he and I try a relationship and it doesn’t work out, he said he could see us still being friends.”
 
@@ -1115,9 +1131,10 @@ Actually, while I was going through Tinder and Hinge, I saw Connor’s profile. 
 ## Section 6
 
 February 11, 2023.  “Hey,” I greeted when I picked up the phone.  “Long time, no see.”
+
 “Hey.  I know, right?” Cadee greeted back.  “It’s been a while.  For some reason, I felt like I needed to call you.  How’s life been?”
 
-She and I hadn't talked to each other at all last semester.  So much had happened, obviously the biggest thing being dating guys.  Somehow, we got on the topic of dating.  She talked about some guys she really liked but weren't interested in her, and I could actually relate to her!  For once, I didn't feel confused by what she was talking about, and I was even able to ask her questions.  And I actually understood her answers!  Before my phone call with her, I had no intention of coming out to her, but I sort of felt impressed to do so.  I was kind of scared though.
+She and I hadn't talked to each other at all last semester.  So much had happened, obviously the biggest thing being dating guys.  We somehow got on the topic of dating.  She talked about some guys she really liked but weren't interested in her (a pretty common pattern with her), but this time, I could actually relate to her!  For once, I didn't feel confused by what she was talking about, and I was even able to ask her questions.  And I actually understood her answers!  Before my phone call with her, I had no intention of coming out to her, but I sort of felt impressed to do so.  I was kind of scared though.
 
 “Have you found any cute girls, Michael?” she asked.  “Asked any of them to go on dates with you?”
 
@@ -1215,15 +1232,13 @@ _(January 28, 2023; college junior) “You have a good heart,” Connor said.  �
 
 "Well, if you feel that this is what God wants you to do, then keep going on dates with guys and see if there's any progression.  And, Michael, I mean this in the most sincere way: I love you.  You're still my little brother."
 
-I didn't really know what to say.  "Thank you."
-
 We still kept talking.  Cadee was in Tennessee, and it was past 1am over there when she and I finished talking.  But it was good.  I felt like she really was inspired to call me.  I definitely didn't expect myself to come out to her at all, but I was glad I did.
 
 ## Section 7
 
 February 12, 2023.  Bryce and I hung out for about an hour or two.  We went for a drive around Provo since he said that a huge Super Bowl party was going on at his apartment.  He and I talked for a bit before he parked his car alongside a street by the MTC.  "So how are you feeling about a relationship?" he asked.
 
-"I'd be down," I answered.  Bryce knew what he wanted, he was kind to others, and he seemed like an honest guy.  "I feel good about it.  What about you?"
+"I'd be down," I answered.  Bryce knew what he wanted, he seemed like an honest guy, and he wasn't the kind of guy who liked drama.  "I feel good about it.  What about you?"
 
 "I'm down to try this too."
 
@@ -1238,9 +1253,10 @@ February 12, 2023.  Bryce and I hung out for about an hour or two.  We went for 
 "Did you like her?"
 
 "She was really cool and was a really good friend,” Bryce answered.  “I thought that was what people meant when they said they liked someone.  I thought that my feelings for guys was something that everyone had, so it took some time before I realized that that wasn't the case.”
+
 "Have you come out to anyone other than your family?"
 
-"I have to some of my friends.  All of my friends would talk about dating girls and how nervous they'd get, but I never understood that.  And I never was interested in dating girls.  So when I told them I was gay, it was a big aha moment to them.  They were like, 'So that's why you were never interested in going on group dates with us.'  I like guns and cars and other stuff that guys are into, so it was also a bit of a surprise to them.  But I've been thinking a lot about why I really like you.  Our interests are pretty different."
+"I have to some of my friends.  All of my friends would talk about dating girls and how nervous they'd get, but I never understood that.  And I never was romantically interested in dating girls.  So when I told them I was gay, it was a big aha moment to them.  They were like, 'So that's why you were never interested in going on group dates with us.'  I like guns and cars and other stuff that guys are into, so it was also a bit of a surprise to them.  But I've been thinking a lot about why I really like you.  Our interests are pretty different."
 
 "I feel like most moms and dads have different interests.  Plus, I've never met anyone who's quite like me.  All of my companions were pretty different from me, but for the most part, I got along with them.  I actually liked having companions who were different from me because I felt like they had strengths that I didn’t.  I didn’t see them as opposites; I saw them as complements.  Even Gyuna and I are super different, but she and I are best friends.  I’d say someone’s character is more important to me than their personality or interests."
 
@@ -1294,7 +1310,7 @@ I laughed.  "You said he'd be a good first boyfriend."
 
 "Hm...  I don't know if I'd say it to him like that.  If Christian were to tell me that he had feelings for another girl and that was it, I'd probably be hesitant about wanting to be in a relationship with him.  You'd need to tell Bryce that you do have feelings for another guy but that you want to focus your attention and love on him."
 
-"I don't know why I still have feelings for Connor.  I wish I could just get over it.  Maybe I will get over it being in a relationship.  I’ve also found that dating around is like trying to find an internship.  You know, with internships, you apply and then get interviewed several times to see if you’re a good fit.  With dating, you meet someone and go on dates to see if they’re good for you.  And at least when I had an offer with AT&T, I was like, ‘What if there’s another internship out there that’s better for me?’  You know, the fear of missing out on something better.  That’s how I’ve felt when I’ve considered being in relationships.  Like, ‘What if he’s not the right guy?’  And I used to think, ‘Maybe there’s something wrong with him,’ when guys tell me that they’ve been in several relationships, but I feel like I’m a bit looked down upon that I haven’t been in a relationship because I don’t know what it’s like.  It’s like trying to get that first internship without previous experience.  You know what I’m saying?"
+"I don't know why I still have feelings for Connor.  I wish I could just get over it.  Maybe I will get over it being in a relationship.  I’ve also found that dating around is like trying to find an internship.  You know, with internships, you apply and then get interviewed several times to see if you’re a good fit.  With dating, you meet someone and go on dates to see if they’re good for you.  And at least when I had an offer with AT&T, I was like, ‘What if there’s another internship out there that’s better for me?’  You know, the fear of missing out on something better.  That’s how I’ve felt when I’ve considered being in relationships.  Like, ‘What if he’s not the right guy?’  And I used to think, ‘Maybe there’s something wrong with him,’ when guys told me that they had been in several relationships, but I feel like I’m a bit looked down upon for not being in a relationship because I don’t know what it’s like.  It’s like trying to get that first internship without previous experience.  You know what I’m saying?"
 
 "Well, I think one of the most important things is to make sure that you know that Bryce is loved.  That's what really helps keep a relationship afloat.  And I can totally see Bryce being emotionally supportive of you, just like how Christian is to me."
 

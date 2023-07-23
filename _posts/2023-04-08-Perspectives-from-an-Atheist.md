@@ -383,8 +383,9 @@ June 25, 2022.  “Thank you so much for helping me out,” I said.  I was at Pa
 
 “Well, if you’re ever in San Antonio or Texas, let me know,” she said.  She and her husband Jimmy were moving to San Antonio since he got a job there.  Paige was a good friend to me during my freshman year at BYU.  I was glad she had moved back to Provo the past school year.
 
-_(October 2018; college freshman) “Hey, so did you happen to get my text the other day?” Paige asked.
-A text?  I didn’t recall giving her my number.  “No, I don’t think so,” I answered.  “Why do you ask?”_
+_(October 2018; college freshman) “Hey, so did you happen to get my text the other day?” Paige asked._
+
+_A text?  I didn’t recall giving her my number.  “No, I don’t think so,” I answered.  “Why do you ask?”_
 
 _“Uhhmm, just because…” she said.  “Is your number correct in LDS Tools?”_
 

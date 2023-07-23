@@ -195,7 +195,9 @@ Sister Atkin asked if Brother Atkin could exchange numbers with me, so he and I 
 
 After some talk, President Eyring invited us all in as Mom and Dad got set apart for their three-year service.
 
-_(August 2019; 2 to 3 months into my mission) I had my two suitcases open in the bedroom as I was kneeling and packing away everything.  I remembered having to pack every single item I had: my clothes, my shoes, my shampoo bottle, everything.  My district leader—Elder Rhoades—was at my apartment, and he helped me pack my suitcases into the car.  The drive to Seattle was the worst.  When I was dropped off, I hugged my trainer—Elder Wingard—as I bawled my eyes out on his shoulder._
+_(August 2019; 2 to 3 months into my mission) I had my two suitcases open in the bedroom as I was kneeling and packing away everything.  I remembered having to pack every single item I had: my clothes, my shoes, my shampoo bottle, everything.  My district leader—Elder Rhoades—was at my apartment, and he helped me pack my suitcases into the car.
+
+The drive to Seattle was the worst.  When I was dropped off, I hugged my trainer—Elder Wingard—as I bawled my eyes out on his shoulder._
 
 _Before I knew it, I was on the plane.  I looked at my name tag; I'd be wearing it for less than 24 hours.  My parents left to go to Japan this past week, so I was flying to Tokyo.  I'd have to interrupt my parents' plans, and I felt so bad and embarrassed for having to come home early._
 
@@ -205,7 +207,7 @@ _When I got off the plane, I saw my parents waiting in the open space by the gat
 
 _The alarm went off.  My heart pounded.  I couldn’t put into words how I felt.  I did not want to get out of bed at all.  But I scraped myself out of bed to turn off the alarm and got ready for the day._
 
-_At this point in my mission, I felt extremely anxious and depressed every day.  To flat out say it, I had little to no desire trying to form connections with people, much less even want to talk to anyone—strangers, members of the congregation, other missionaries.  I had become so indifferent that I felt like my mind was going crazy.  I wasn’t just nervous when I was around people; I was SCARED of them.  Now I was really fulfilling the stereotype of a quiet person, and that scared me.  My thoughts especially raced about 5 to 7 finding.  I absolutely dreaded knocking on doors._
+_At this point in my mission, I felt extremely anxious and depressed every day.  To flat out say it, I had little to no desire trying to form connections with people, much less even want to talk to anyone—strangers, members of the congregation, other missionaries.  I had become so indifferent that I felt like my mind was going crazy.  I wasn’t just nervous when I was around people; I was SCARED of them.  Now I was really fulfilling the stereotype of a quiet person, and that scared me.  My thoughts especially raced about knocking doors from 5 to 7.  I absolutely dreaded it every day._
 
 _Elder Rhoades told me that I needed to reach out to Sister Beardall—the mission president’s wife—for help.  When I called her, I told her that I was not doing well at all.  She referred me to a counseling clinic and said that I’d receive a survey.  She told me to be completely honest with it.  While I was filling out the survey, some of the things it asked sort of scared me._
 
@@ -239,8 +241,6 @@ _It was finally time for me to go to the doctor.  The Spanish elders gave us a r
 
 _One of the health assistants checked my vitals.  She said they were all good, which I was surprised to hear considering that I didn’t feel good at all.  When I met my doctor, he gave me a few surveys to fill out and then suggested that I take a medication called Sertraline.  He told me that it might take up to two weeks before I could feel the effects kick in.  I was a little scared what he meant by “effects.”  What was this drug going to do to me?_
 
-_I went to Walgreens to pick up my medication.  Again, I was really scared.  I felt so out of place with my white shirt and tie and name tag on.  But I was able to get my medication okay._
-
 _I was directed by the doctor to take one pill every night, so that night, I opened the bottle.  I couldn’t believe that I was actually going to do the very thing that I told myself I was never going to do—to take antidepressants.  I poured one of the pills into my hand, plopped it into my mouth, and ingested it with some water.  It was time to see what these pills would do to me._
 
 ...
@@ -261,11 +261,13 @@ _Unfortunately, as I took my dose of Sertraline each night, my headache got wors
 
 _The last week of August 2019 was THE hardest week of my entire mission.  Elder Wingard had become extremely trunky halfway through the transfer.  He was finishing his mission in a couple weeks.  Even though my doctor told me that it would take about two weeks for the effects of the medication to kick in, I felt like the medication was backfiring on me._
 
-_On Tuesday, we had zone conference, and after that zone conference to Friday, Elder Wingard and I didn’t get out of the apartment.  I was extremely depressed.  There was no way I was going to be able to continue my mission like this.  I felt so guilty that I couldn’t do the work.  Literally all day after getting out of bed, I curled up in a ball on the floor, just wanting the day to be over.  I told myself to do just one simple thing, like doing my laundry, but even that seemed overwhelming.  Even looking at a Restoration pamphlet brought a cloud of depression to my mind.  One of the mission nurses called me, and I told her about my situation.  President Beardall also called and found out about my mental and emotional health.  I grasped my name tag.  I was convinced that I was going to get sent home with Elder Wingard at the end of the transfer.  Each painful day, I thought about how it could be my last day as a full-time missionary._
+_On Tuesday, we had zone conference, and after that zone conference to Friday, Elder Wingard and I didn’t get out of the apartment.  I was extremely depressed.  There was no way I was going to be able to continue my mission like this.  I felt so guilty that I couldn’t do the work.  Literally all day after getting out of bed, I curled up in a ball on the floor, just wanting the day to be over.  I told myself to do just one simple thing, like to do my laundry, but even that seemed overwhelming.  Even looking at a Restoration pamphlet brought a cloud of depression to my mind.  One of the mission nurses called me, and I told her about my situation.  President Beardall also called and found out about my mental and emotional health.
+
+I grasped my name tag.  I was convinced that I was going to get sent home with Elder Wingard at the end of the transfer.  Each painful day, I thought about how it could be my last day as a full-time missionary._
 
 ...
 
-_On Saturday, Elder Rhoades said he wanted to do exchanges with me.  He and I literally had a four-and-a-half-hour companion study alone.  I basically dumped all of my feelings and struggles, and he was so attentive and understanding.  I felt like he could relate better to my situation because Elder Wingard said he didn’t know what depression felt like, lucky him.  Elder Rhoades and I read a few scriptures and a few passages from something that talked about stress._
+_On Saturday, Elder Rhoades said he wanted to do exchanges with me.  He and I literally had a four-and-a-half-hour companion study alone.  I basically dumped all of my feelings and struggles, and he was so attentive.  I felt like he could relate better to my situation because Elder Wingard said he didn’t know what depression felt like, lucky him.  Elder Rhoades and I read a few scriptures and a few passages from something that talked about stress._
 
 _I learned many lessons from that transfer, one of which was the realization that <u>we really did have the potential to become gods.  Jesus Christ performed the Atonement where He knew exactly the way each of us felt, and in my talks with Elder Rhoades, my counselor, and my family, I felt like they tried to understand where I was coming from.  Sure, they didn’t know my exact circumstances, but the fact that they had a desire to understand and help me was like their manifestation of a mini-Atonement.  And just like how Christ’s Atonement gave us hope, these mini-Atonements gave me a glimmer of hope.  I felt like I could see Christ’s Atonement through these people.</u>_
 
@@ -277,7 +279,7 @@ _I eventually switched to a different medication called Fluoxetine, and after a 
 
 ...
 
-_(September 2019) I learned that not only was Elder Wingard going home, but I was also getting transferred to a different area._
+_(September 2019) I learned that I was getting transferred to a different area._
 
 _Elder Wingard’s family was going to pick him up later in the evening at the mission home, so Elder Wingard had all of his stuff packed up.  “I can’t believe I’m going home,” he said.  “For some reason, I feel so nervous.  It honestly feels like another transfer.”  It was hard to believe that two years could pass by as a missionary.  I was out for only three months, and it felt like such a long time._
 
@@ -291,9 +293,9 @@ _When it was time to go, I said my last goodbye to Elder Wingard._
 
 ...
 
-_It wasn’t until Monday morning when I found out where I was going to get transferred.  I thought I was going to get transferred to a different zone, but I ended up getting transferred within the zone, which wasn’t common.  I was going to be serving in a Korean branch and a YSA branch, which meant that I was going to learn Korean!  I was sort of excited about it._
+_It wasn’t until Monday morning when I found out that I was going to be serving in a Korean branch and a YSA branch, which meant that I was going to learn Korean!  I was sort of excited about it._
 
-_I learned that I was going to be in a trio, and my companions’ names were Elder Leishman and Elder Mejia.  When I finally found my companions, we packed up our stuff and headed back the long road down to Federal Way.  My training period was tough, and I was ready for something new.  I hoped that I would like this new area and my new companions._
+_I learned that I was going to be in a trio, and my companions’ names were Elder Leishman and Elder Mejia.  When I finally found my companions at transfers, we packed up our stuff and headed back the long road down to Federal Way.  My training period was tough, and I was ready for something new.  I hoped that I would like this new area and my new companions._
 
 ## Section 3
 
@@ -311,7 +313,7 @@ Cadee showed me a place with a bridge and lots of plants.  “This is where I’
 
 I looked around.  “Why here?” I asked.
 
-“Oh, you know, it’s really quiet, and it’d be a romantic spot.  I just wish a guy would be interested in me and that I’d be interested too.  But all the guys I’m into say they’re not interested, and I’m not interested in the guys who seem to be interested in me.  And I feel so old compared to a lot of guys here.  Like, anyone who’s just returned from their mission?  They’re so young.  It’s like dating one of my nephews.”  (Cadee was much younger than her siblings.)
+“Oh, you know, it’s really quiet, and it’d be a romantic spot.  I just wish a guy would be interested in me and that I’d be interested too.  But all the guys I’m into say they’re not interested, and I’m not interested in the guys who seem to be interested in me.  And I feel so old compared to a lot of guys here.  Like, anyone who’s just returned from their mission?  They’re so young.  It’s like dating one of my nephews.”
 
 I didn’t understand why any of that mattered.  It was beneficial to find someone I could get along with, but being “interested” in someone seemed to involve the Disease.  “I haven’t gone on a single date since I’ve returned from my mission, and I’m still counting.”
 
@@ -337,15 +339,15 @@ The same concept applies to friendships.  If one makes 100 friends, he’d only 
 
 However, trying to make friends with people who are different would take more money—more time.  The person would have to find ways of establishing common ground or camaraderie with the other.  It might mean that instead of investing 20 dollars each for five people, it means investing 40 dollars for only one person, which means investing only 15 dollars each for the other four friends.  That is probably why society teaches people at such a young age that they should make friends who like doing similar things.  It is more economical to make friends with those who have common ground.  And with that mentality stuck in people’s minds at a young age, they form stereotypes about certain groups of people and find where they belong.  As part of human nature, when people come across someone who looks or acts differently, they naturally or even subconsciously ask, “Why would I want to invest my money on him or her?”  <u>People want it the most efficient, convenient, and economical way.  They don't want to invest more money in someone if another person has the same benefits for a lower price tag.</u>
 
-Some groups people form are larger than others.  It means that people within that group are more likely to connect with each other.  They could help each other out by investing their money together to receive an even greater amount of money than if each person invested individually.  The larger the group—and the greater the collaboration—the more economical the result could be.  A larger network of people in a group could mean more opportunities, money, power, and other benefits.  These advantageous groups are what I will call the 
+Some groups of people are larger than others.  It means that people within that group are more likely to connect with each other.  They could help each other out by investing their money together to receive an even greater amount of money than if each person invested individually.  The larger the group—and the greater the collaboration—the more economical the result could be.  A larger network of people in a group could mean more opportunities, money, power, and other benefits.  These advantageous groups are what I will call the 
 <span style="color:red">Majority</span> in this reflection.
 
-The term can be a bit deceiving.  For example, the poor and middle classes far outnumber the wealthy, yet the wealthy are usually the ones who have more power, money, and access to resources.  Maybe “the advantaged” would be a more accurate phrase, though I feel like the term “Majority” implies advantage.
+The term can be a bit deceiving.  The Majority doesn't necessarily mean the group that has the greatest quantity.  For example, the poor and middle classes far outnumber the wealthy, yet the wealthy are usually the ones who have more power, money, and access to resources.  Maybe “the advantaged” would be a more accurate phrase, though I feel like the term “Majority” implies advantage.
 
-The opposite of the Majority is the <span style="color:red">Minority</span>.Though 
+The opposite of the Majority is the <span style="color:red">Minority</span>. Though 
 it is difficult to imagine a world where resources are finite, I hope the following analogy makes things more relatable.  Imagine an experiment where several brown and white mice are placed on a large island that had only brown soil and enough food for the mice to eat.  Next, place an eagle in that self-contained environment.  The eagle preys on the mice, but what mice would it most likely prey on?  The white mice—they stand out against the brown soil compared to the brown mice.  As time progresses, the mice reproduce and continue to try to survive.  Sure, the eagle might prey on some brown mice, but in the end, the brown mice would outnumber the white mice.
 
-Again, time has both a finite and infinite dimension to it.  While the Majority prosper, that money doesn't’t appear out of thin air.  Smaller groups lose money.  With a wider gap in the amount of money that the Majority has compared to these smaller groups, the Majority would receive even more money the next cycle, and the smaller groups would continue to lose money.  It's a negative feedback loop for the smaller groups—the Minority.  Similarly, the white mice have a disadvantage compared to the brown mice because the white mice are a smaller group.  After each cycle of reproduction, the gap between the number of white mice and brown mice widens.  The white mice are part of the Minority.
+Again, time has both a finite and infinite dimension to it.  While the Majority prosper, that money doesn't appear out of thin air.  Smaller groups lose money.  With a wider gap in the amount of money that the Majority has compared to these smaller groups, the Majority would receive even more money the next cycle, and the smaller groups would continue to lose money.  It's a negative feedback loop for the smaller groups—the Minority.  Similarly, the white mice have a disadvantage compared to the brown mice because the white mice end up becoming a smaller group.  After each cycle of reproduction, the gap between the number of white mice and brown mice widens.  The white mice are part of the Minority.
 
 In real life, a group of people is part of the Majority or Minority depending on the situation and scope of society.  For example, the LDS community makes up the Minority from a global scope, but that same community makes up the Majority at a place like BYU.
 
@@ -377,7 +379,7 @@ _For the past few weeks, I had prayed to have some close friends.  I always stru
 
 ## Section 4
 
-June 25, 2023.  “Thank you so much for helping me out,” I said.  I was at Paige’s place picking up some of my belongings she stored for me over the summer.
+June 25, 2022.  “Thank you so much for helping me out,” I said.  I was at Paige’s place picking up some of my belongings she stored for me over the summer.
 
 “Well, if you’re ever in San Antonio or Texas, let me know,” she said.  She and her husband Jimmy were moving to San Antonio since he got a job there.  Paige was a good friend to me during my freshman year at BYU.  I was glad she had moved back to Provo the past school year.
 

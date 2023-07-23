@@ -64,7 +64,7 @@ After some more talk, Dylan said, “This Saturday, I’ll be hosting a party, a
 
 “Oh no, please don’t do that to me.”
 
-He laughed.  “I won’t.  But you know, I don't think you're just cute, but more handsome.  And I don't say that to many people."
+He laughed.  “I won’t.  But you know, I don't think you're just cute but more handsome.  And I don't say that to many people."
 
 I didn’t know what to say to that.  “Thanks.”  I was sort of dying from laughter inside because it sounded like something I used to say to Gyuna.  “I don’t really feel that way though.  I guess ever since I came here to BYU, I became a lot more conscious that I’m Asian.  And I think ‘Asian’ is like seafood; it’s a very acquired taste.  It doesn’t help that the dating culture here is all about finding and interacting with people who look good.”
 
@@ -79,6 +79,7 @@ January 11, 2023.  Gyuna ended up not seeing Sam on the first day of the semeste
 "So do you think you'll keep going on dates this semester?" he asked.
 
 "I don't know," I answered.  "Dating is so hard.  And it takes up so much time.  What about you?"
+
 "I think so," he said hesitantly.  "I went on a date this past weekend."
 
 "Do you have a return appointment?"
@@ -103,7 +104,9 @@ But today, Gyuna said she’d be able to meet Sam and me, so I told her that we 
 
 “Oh yeah!  Hyeji told me about it.”  She and I sat together in STAT 340.  “I’ll have to ask her for more details, but she said it’s much better than some of the other karaoke places around here.  We could make a group chat of the three of us, and we can talk more about it.”  So I made a group chat.
 
-“Make sure that Michael plans everything right,” Sam said to Gyuna.  Uh...  I gave him a look.  I was the one who initiated all of the dates he and I went on.
+“Make sure that Michael plans everything right,” Sam said to Gyuna.
+
+Uh...  I gave him a look.  I was the one who initiated all the dates he and I went on.
 
 After about half an hour, Sam was off to see one of his friends, so Gyuna and I said bye.  “Wow, he does grin a lot,” she said when he left.  “He didn’t talk that much.  Did he not like me?”
 
@@ -119,7 +122,7 @@ Mason picked me up at my complex, and we went to Cupbop right by my place.  “Y
 
 “If I lived right next to Cupbop, I’d come here a lot.”  He ordered food for both of us, after which we went to Swig.  He paid for both of us as well.
 
-After that, we went to his apartment.  He talked about a few shows we could watch.  Again, I didn’t know what I liked when it came to movies and shows, but we ended up watching Community.  I actually didn’t mind it, so we ended up watching three or so episodes of the first season and then talked for a while.
+After that, we went to his apartment.  He talked about a few shows we could watch.  Again, I didn’t know what I liked when it came to movies and shows, but we ended up watching _Community_.  I actually didn’t mind it, so we ended up watching three or so episodes of the first season and then talked for a while.
 
 “I’ve been dating guys for about two months,” I said in the middle of the conversation.  “It’s been a roller coaster, but I’d say I’ve had good experiences overall.”  I told him my story.  “Have you ever been in a relationship with someone?”
 
@@ -135,23 +138,23 @@ We continued to talk.  “When I was called into the bishopric, the bishopric at
 
 “Like, leave the Church?” I asked.
 
-“No, not leave the Church, but just attend a different ward.  But thankfully, the current bishopric has been supportive as well.”
+“No, not leave the Church, just attend a different ward.  But thankfully, the current bishopric has been supportive as well.”
 
 “That’s good.”
 
 "It’s been interesting knowing what it was like being a member in the pews and now being a member of the bishopric on the pulpit.”  Being in a calling as a member of the bishopric and being gay did seem like complete opposites.  “I might get fired for saying this, but for someone who's going through a situation like us, I think sometimes it can be appropriate for someone to take a step back from external influences and take some time to figure things out with their sexuality, even if it means stepping back from the Church.  I put my relationship with God before I put my relationship with the Church.”
 
-“I’ve heard a lot about how gay people in the Church feel marginalized,” I said.  “I sort of empathize with them.  BYU was my top choice primarily because I wanted to be around people who had the same standards and values as me.  There weren’t that many members in Kentucky.  But I feel like the dating culture here isn’t that great.  It was when I came to BYU when I discovered that I was Asian.  I felt like because I looked different from the majority, I didn’t belong.”
+“I’ve heard a lot about how gay people in the Church feel marginalized,” I said.  “I sort of empathize with them.  BYU was my top choice primarily because I wanted to be around people who had the same standards and values as me.  There weren’t many members in Kentucky.  But I feel like the dating culture here isn’t that great.  It was when I came to BYU when I discovered that I was Asian.  I felt like because I looked different from the majority, I didn’t belong.”
 
-“Really?  Dang, that’s terrible.  I mean, I can empathize with people in the gay community, but I didn’t know that you felt like the way you did based on your race.”
+“Really?  Dang, that’s terrible.  I mean, I can empathize with people in the gay community, but I didn’t know you felt like that based on your race.”
 
 “White people hang out with white people, and Asians hang out with Asians.  That’s how it typically is.  As long as BYU’s dating culture exists, I don’t see things changing.”
 
-The following day, Mason spontaneously asked me if I wanted to go shopping with him to get some things before his trip to San Francisco, so I decided to join.  We also went to Crumbl Cookies with his two sisters.  Afterwards, Mason and I watched some more Community and talked for a couple hours.
+The following day, Mason spontaneously asked me if I wanted to go shopping with him to get some things before his trip to San Francisco, so I decided to join.  We also went to Crumbl Cookies with his two sisters.  Afterwards, Mason and I watched some more _Community_ and talked for a couple hours.
 
 He was a really nice guy, but I didn’t feel anything romantic.  It was weird that I didn’t feel a romantic connection, even though I thought it was logical that he and I could’ve gotten serious.  He was kind, I liked his personality, and it seemed like my values aligned more with him than with Sam’s.  As far as romance and logic, Sam was the complete opposite.  I definitely felt a romantic connection, but I didn’t think it was logical for me to get serious with him.  Even Mason and Sam seemed like completely opposite people.
 
-I remembered Mom and Dad telling me in high school not to hang out with the same girl.  They never explicitly told me why, but looking back, maybe they told me that because I could’ve developed feelings and become serious.  Maybe the more that I spent time with Mason, I’d feel romantically connected with him.  And even if that didn’t happen, I felt like he would’ve been a good influence and friend.  I didn’t want to give up on him yet.
+I remembered Mom and Dad telling me in high school not to hang out with the same girl.  They never explicitly told me why, but looking back, maybe they told me that because they thought I could’ve developed romantic feelings and become serious.  Maybe the more that I spent time with Mason, I’d feel romantically connected with him.  And even if that didn’t happen, I felt like he would’ve been a good influence and friend.  I didn’t want to give up on him yet.
 
 ## Section 2
 
@@ -163,7 +166,7 @@ We started things off on the right foot singing a “ddu du ddu du” duet by Gy
 
 After karaoke, Gyuna, Christian, Sam, and I weren’t sure what to do next.  “Aubree is having a birthday party at my apartment, so I don’t want to disturb her,” Gyuna said.
 
-We decided that Gyuna and Christian could still chill at her apartment.  They said that Sam and I could have our “privacy”—whatever that was supposed to mean—so I dropped off Gyuna and Christian.  I drove around for a bit before settling at one of the football parking lots.
+We decided that Gyuna and Christian could still chill at her apartment.  They said that Sam and I could have our “privacy,” so I dropped off Gyuna and Christian.  I drove around for a bit before settling at one of the football parking lots.
 
 I knew it was important to know where exactly Sam and I stood in regard to our faith, but I was nervous.  It eventually got brought up when we talked about the purpose of life.  "I think it's about living in the present that's more important," he said in the middle of our discussion.  "I think it's more comforting to not know everything that would happen after this life."
 
@@ -183,7 +186,7 @@ Sam shook his head.  "I don't believe in God.  I differentiate the 'Christian go
 
 "Yeah.  I'll probably just ask them to remove my records."
 
-For the next half hour or so, he told me about how he felt like the Church cared more about protecting its name than doing what he believed to be moral or ethical, stuff like how the Church treated human trafficking or child abuse incidents.  I wasn't sure how much of it was true or what it was that made him believe that it was true, but it was really sad to hear him talk about all he had said.  He also said that even if Mormonism was true, he wouldn’t want to live with the “Mormon god” because he believed that He was evil.  I didn’t understand.  How did he end up at this place?
+For the next half hour or so, he told me about how he felt like the Church cared more about protecting its name than doing what he believed to be moral or ethical, stuff like how the Church treated human trafficking incidents.  I wasn't sure how much of it was true or what it was that made him believe that it was true, but it was really sad to hear him talk about all he had said.  He also said that even if Mormonism was true, he wouldn’t want to live with the “Mormon god” because he believed that He was evil.  I didn’t understand.  How did he end up at this place?
 
 "Dang.  You must have gone through so much to be where you are."  That was all I could say.
 
@@ -223,7 +226,7 @@ I drove home, still unable to comprehend that Sam and I had had that conversatio
 	
 _(December 2020; 19 months into my mission) “I can’t believe you knew how to play the piano like that this whole time!” Zach and Nerissa exclaimed.  Elder Walker and I were in a member lesson with them.  They were a young couple, probably in their mid-20s.  We shared a short lesson and talked a bunch, which led them to ask me to play something on the piano._
 
-_“Wow, you have the whole Lamb of God sheet music?” I asked, looking at a binder of sheet music._
+_“Wow, you have the whole_ Lamb of God _sheet music?” I asked, looking at a binder of sheet music._
 
 _“Yeah, we can share it with you if you want,” Zach answered.  “It’s such a great soundtrack.”_
 
@@ -255,15 +258,14 @@ January 16, 2023.  “I just love those cheeks,” Shari said as she held Kiyosh
 David and I made dinner together.  “I think your mom is a very sweet person, but I think she and I have very different opinions when it comes to making friends,” he said.
 
 “You feel that my mom’s perspective is different when it comes to making friends?” I asked.
+
 “Yeah, definitely.  I don’t think you have to change yourself in order to make friends.  As I told you before, I like you the way you are, and I don’t think you need to change yourself or be transactional in order to please others.  That’s something I’m working on.  I’m definitely a people-pleaser.”
 
 “At least when I was in middle school and high school, I never saw my mom socialize with people, especially people who weren’t members of the Church.”
 
-“I feel like our mom definitely did a lot of social things when we were in Pittsburgh,” Shari said.
-
 “It sounds like you’ve been doing just fine with people though,” David said.  “It sounds like you’ve got friends and that you hang out with them.”
 
-After dinner, I did a grocery run to WinCo.  It sounded like Shari was planning on making spaghetti with me, so I felt bad telling her that I was going to be watching Community with a “friend.”  “David loves that show,” she said.  “Thanks for helping with dinner and groceries!”  It was about 9pm when I left.
+After dinner, I did a grocery run to WinCo.  It sounded like Shari was planning on making spaghetti with me, so I felt bad telling her that I was going to be watching _Community_ with a “friend.”  “David loves that show,” she said.  “Thanks for helping with dinner and groceries!”  It was about 9pm when I left.
 
 ## Section 3
 
@@ -273,7 +275,7 @@ After dinner, I did a grocery run to WinCo.  It sounded like Shari was planning 
 
 “That’s so nice of you to help her out.  I’m sure she appreciated it.”
 
-We watched a few more episodes of Community.  Mason and I had spent several days together watching TV shows and movies during the past week, but I still didn’t feel a romantic connection.  He initiated trying to invite me to get closer to him a few times and even asked if I wanted to sit under his blanket with him while we were watching a movie.  But I felt a bit uncomfortable.  It just didn’t feel natural.
+We watched a few more episodes of _Community_.  Mason and I had spent several days together watching TV shows and movies during the past week, but I still didn’t feel a romantic connection.  He initiated trying to invite me to get closer to him a few times and even asked if I wanted to sit under his blanket with him while we were watching a movie.  But I felt a bit uncomfortable.  It just didn’t feel natural.
 
 A few days later, Mason texted me asking if I’d be interested in going on more dates or to keep hanging out.
 
@@ -291,7 +293,7 @@ I really was bummed.  I learned that just because I hung out with the same perso
 
 “I don’t even know how to describe that conversation to you,” I said.  “His perspectives are SO different from mine.  It was just a lot to take in.  When he and I were about to set up our third date, I felt like things might actually get more serious.  I didn’t know where he stood with his faith.  But now that I do, I feel like things would clash between us.”
 
-“Dang, that sucks.  It probably means that one of you would have to change your values in order to keep the relationship going.  But maybe you guys could be make-out partners.”
+“Dang, that sucks.  It probably means that at least one of you would have to change your values in order to keep the relationship going.  But maybe you guys could be make-out partners.”
 
 What?  “I mean, that’s tempting.”  I sighed.  “I don’t think there’s anyone for me,” I said miserably.
 
@@ -316,6 +318,7 @@ We headed out of the library.  "Actually, the other day, Gyuna was like, ‘You 
 "What, Gyuna said that?” Sam said, a bit surprised.  “I think that would make things more complicated.  And you know how I don't like it when things get complicated.”
 
 “It's so weird that we're just ‘friends’ now.  I mean, don't you still have feelings?"
+
 He paused.  “Well yeah.  But I'm just suppressing them.”
 
 “I guess because I've unsuppressed them, it's harder to suppress them back.  Don't you wanna... you know... kiss or make out?”
@@ -340,13 +343,16 @@ Initially, I was a bit confused.  But then I got scared.  I didn’t understand 
 
 “If you do hear from BYU, you can know who reported you, and you should report that professor to the Office of Belonging for discrimination.  I know you don’t have a problem with speaking up for yourself, but just letting you know.”
 
-“Yeah, I’ll do that if I hear anything from BYU, but hopefully it doesn’t get to that point.”  But I wasn’t sure what the Office of Belonging would do.  It wasn’t like they were going to understand the lessons and experiences I had learned the past couple months of dating guys and how I had felt so much happier knowing what romance felt like and being able to have more compassion and empathy for others.  They weren’t going to understand, especially if the people I’d have to confront were homophobic.  Plus, they’d probably listen to the one who had more money, more education, and more experience—the one who was part of the Majority.  That was how society worked.  A single college student’s voice wasn’t enough.  It would’ve been different if BYU was like the mission where no one could date or marry.  Then everyone would’ve been on the same ground.
+“Yeah, I’ll do that if I hear anything from BYU, but hopefully it doesn’t get to that point.”
+
+But I wasn’t sure what the Office of Belonging would do.  It wasn’t like they were going to understand the lessons and experiences I had learned the past couple months of dating guys and how I had felt so much happier knowing what romance felt like and being able to have more compassion and empathy for others.  They weren’t going to understand, especially if the people I’d have to confront were homophobic.  Plus, they’d probably listen to the one who had more money, more education, and more experience—the one who was part of the Majority.  That was how society worked.  A single college student’s voice wasn’t enough.  It would’ve been different if BYU was like the mission where no one could date or marry.  Then everyone would’ve been on the same ground.
 
 “I was surprised when I read that BYU doesn’t allow romantic touch and expressions between the same gender,” Gyuna said.
 
 “Have you ever seen a gay couple hold hands on campus?  You and Christian don’t need to think twice about holding hands.  I could get in trouble for holding a guy’s hand.  That’s one of the reasons why we feel so vulnerable.”
 
-Later in the week, Mason and I watched some more Community, and I told him about the incident.
+Later in the week, Mason and I watched some more _Community_, and I told him about the incident.
+
 “I think he’s being manipulative,” he said.
 
 “My date?” I asked.
@@ -367,7 +373,7 @@ After some talk about it, I did feel a little less scared about the situation.  
 
 January 24, 2023.  Tonight, I was chilling at the basement of the Talmage Building doing homework by myself when I got a message from… Connor?  I was surprised that he and I reconnected.  I told him that I was still looking for dates, but he said he still didn’t feel ready to go on dates.  He wanted to find someone to cuddle with though.
 
-I usually said no to people who just wanted to be physical since I felt creeped out by those kinds of people, but Connor and I had texted each other back and forth the past couple months, and he seemed like a nice guy.  I really did want to get to know him in person.  And I still thought he was pretty cute too…
+I usually said no to people who just wanted to be physical since I felt creeped out by those kinds of people, but Connor and I had texted each other back and forth the past couple months, and he seemed like a nice guy.  I really did want to get to know him in person.  And I still thought he was pretty cute too...
 
 After some more texting, he and I planned to meet in a couple days.  I was so excited!  The guy that I had wanted to meet in person actually wanted to meet in person too!
 
@@ -391,7 +397,7 @@ Dang, I was tempted to ditch my homework too.  I really wanted to meet him!  But
 
 ```Connor: I just want cuddles tonight😂😂 what time do you sleep usually?```
 
-After some texts, Connor decided to meet up tonight, so I headed home.  After some time, Connor texted me saying that he was parked across from my complex.
+After some texts, Connor and I decided to meet up tonight, so I headed home.  After some time, he texted me saying that he was parked across from my complex.
 
 I was so nervous but excited!  I was finally going to meet my first match ever.
 
@@ -411,13 +417,14 @@ It was a dark, cold night.  Snow was still falling, but it wasn’t as terrible 
 
 “Yeah, I did.  I’ll be going with some of my family, but I am a bit scared since I’ve definitely lost a lot of my Japanese.  We’ll probably visit some shrines and stuff, but we haven’t planned everything out yet.”
 
-“You said you’re from Alpine, right?  And you have three sisters?”
+“You said you’re from Alpine, right?”
 
-“I’ve got three older sisters and a younger sister.  And you said you’re from Kentucky?”
+“Yep, and you said you’re from Kentucky?”
 
 “Yeah, I grew up there.  But my parents and I moved to Rexburg after I graduated high school, and now my parents are in Guam as mission president and wife.”
 
 After some conversation, Connor arrived at the park, and he and I cuddled for a bit in the backseat.  We still talked, but I eventually got comfortable.  He still had his car on, playing some pop music.  It was definitely the kind of music I vibed with when I was in high school.
+
 “Ii tenki desu ne (The weather is nice, isn’t it?),” Connor said.
 
 It was still slightly snowing outside.  “Uh.  Iie (No),” I responded.  He and I laughed.  “I think it’s nice to look at, but I definitely don’t like walking in it.”
@@ -478,7 +485,7 @@ I was surprised he texted me later that night.
 
 He and I texted back and forth for a bit about where to meet on campus tomorrow, and I eventually fell asleep.  The next morning, I woke up and read a text he had sent later last night.
 
-```Connor: Hey so I was thinking after I dropped you off… After meeting you tonight I’d love to get to know you better. Like on a more real connection level and see where things go. I’m wondering where you are at with that, is it something you would be interested in? Just want to manage expectations between us. Hope you sleep well!```
+```Connor: Hey so I was thinking after I dropped you off... After meeting you tonight I’d love to get to know you better. Like on a more real connection level and see where things go. I’m wondering where you are at with that, is it something you would be interested in? Just want to manage expectations between us. Hope you sleep well!```
 
 Wait.  Was he actually interested in me?
 
@@ -524,9 +531,10 @@ I didn’t think so.  “Most of the guys I’ve dated have only been once or tw
 
 “Well, I definitely prefer meeting in person.  And I guess I’ve got a first date with a different guy tonight too.”
 
-Gyuna wanted to tell me about how she was probably going to host a party at some venue that she and Christian went to.  It sounded pretty overwhelming.
+<u>Gyuna wanted to tell me about how she was probably going to host a party at some venue that she and Christian went to.</u>  It sounded pretty overwhelming.
 
 Once it was a bit past 3, I headed over to the Tanner Building and found Connor.  “Hey,” I greeted.
+
 He gave a small, shy wave.  “Hey, how are you?” he greeted.
 
 “Well, I’ve got a blog post I need to do.  We’re learning how to use Git and GitHub.  Do you know about those?”
@@ -543,7 +551,7 @@ After about half an hour, I had to go to a research meeting, so Connor followed 
 
 “You too!” I said back.
 
-He and I texted each other more and planned an “official date” for the following day going to Panda Express and watching Iron Man.  I wanted to watch more movies, and that was what he recommended I watch.
+He and I texted each other more and planned an “official date” for the following day going to Panda Express and watching _Iron Man_.  I wanted to watch more movies, and that was what he recommended I watch.
 
 Falling asleep and staying asleep were difficult.  It was so weird.  It reminded me of the nights when I was so excited about going on a date with Kent.  So far, I really liked Connor too.  He seemed like a really sweet guy, and I wanted to get to know him better.
 
@@ -551,19 +559,13 @@ Falling asleep and staying asleep were difficult.  It was so weird.  It reminded
 
 January 26, 2023.  It felt like forever before Connor came by to pick me up for our date.
 
-“So would you consider yourself an introvert or an extrovert?” I asked as we conversed.
+“So would you consider yourself an introvert or an extrovert?” I asked as we conversed.  That always seemed to be my go-to question.
 
 “I’ve taken a few personality tests, and I’m slightly a bit more introverted,” Connor answered.  “I do like spending time with people, but I also need time to myself.  What about you?”
 
 “I’m also more of an introvert than an extrovert.  I like getting to know others, but I can be pretty quiet in group settings.  On my mission, especially if someone was with me for at least two transfers, I was pretty quiet.  But my friends are more extroverted.  One of them was asked to host a party at some venue, so she’s trying to plan for that.”
 
-We went to the Panda Express in Orem since it was less crowded.  “What would you say are your pet peeves?” I asked.
-
-“People not washing their dishes.  I just don’t like seeing a sink that’s filled with dirty dishes.  So gross.  I’d also say people who act fake.  You know, people who act one way when that’s not really them.”
-
-“I’d have to say disrespectful people peeve me.  It definitely tested me on the mission.”
-
-Connor and I went to his place to watch Iron Man.  We sat on the couch under a blanket and cuddled.  And we actually watched the entire thing.  It felt so good laying my head on his chest.  I could feel his heart racing the entire time.
+We went to the Panda Express in Orem since it was less crowded and then went to Connor's place to watch _Iron Man_.  We sat on the couch under a blanket and cuddled.  And we actually watched the entire thing.  It felt so good laying my head on his chest.  I could feel his heart racing the entire time.
 
 And yeah, he and I ended up making out a bunch after the movie ended.  We then laid in silence for a while.
 
@@ -657,7 +659,7 @@ After hot tubbing, we played some games and then headed out for the night.
 
 “Dang.  In some ways, I feel like I wouldn’t be as scared coming out to people I don’t know than people I do know.”
 
-“Yeah, it can difficult being vulnerable to those you care about because you don’t want to lose them or feel that they’re judging you.”
+“Yeah, it can be difficult being vulnerable to those you care about because you don’t want to lose them or feel that they’re judging you.”
 
 As we were heading to Provo, it was around midnight.  “It’s so late, but I kinda wanna cuddle with you,” Connor said.
 

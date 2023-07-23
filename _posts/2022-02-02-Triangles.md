@@ -26,9 +26,9 @@ Part 2: Fall 2022
 
 February 13, 2023.  Bryce told me that he was studying in one of the reserved rooms tonight, so I walked over when I was finished with dinner.
 
-“I’m trying to make a list of things that we could do together,” I said.  I had made categories of things we could do, including hikes, restaurants, and movies.  I added Bryce to the note so that he could add some ideas too.  We came up with a lot of things: orchestra, escape room, axe throwing, shooting, clothes shopping, and a bunch of other things I wouldn’t have done by myself.
+“I’m trying to make a list of things that we could do together,” I said.  I had made categories of things we could do, including hikes, restaurants, and movies.  I added Bryce to the note so that he could add ideas too.  We came up with a lot of things: orchestra, escape room, axe throwing, shooting, clothes shopping, and a bunch of other things I wouldn’t have done by myself.
 
-We studied for the rest of the night.  I noticed that Bryce would occasionally look at me.  “What?” I asked.
+We studied for the rest of the night.  I noticed that Bryce would occasionally stare at me.  “What?” I asked.
 
 “You’re just really distracting,” he said.  “This is really embarrassing, but one of the reasons I started going back to dating was because I was watching this one Thai drama, and it made me feel so lonely.”
 
@@ -42,7 +42,7 @@ We studied for the rest of the night.  I noticed that Bryce would occasionally l
 
 “Yeah, I’m pretty busy during the daytime too,” I said.  “But we should spend time together.  You know, I think one of the things that turned me off about dating before I started dating guys was that it seemed to be an unspoken rule that a couple had to be around each other as much as possible.  And I just didn’t understand why anyone would want to do that to themselves or why people would want to make that kind of time commitment as a full-time student.”
 
-“I know that dating takes a lot of time and money, but I actually want to spend time with you.  It’s not like I want to just go through the motions.”
+“I know that dating takes a lot of time and money, but I actually want to spend time with you.  It’s not like I just want to go through the motions.”
 
 “Yeah, same.  I want to spend time with you too.”
 
@@ -101,7 +101,7 @@ Gyuna laughed.  “Yeah.  I guess I’m just not motivated to come back to campu
 
 “Honestly, not really,” I answered.  “We’re not really like that.”
 
-“What?  What do you do then?”
+“What?!  What do you do then?”
 
 “Mostly just study at the library.  And then he drops me off at my apartment at night.”
 
@@ -109,7 +109,7 @@ Gyuna laughed.  “Yeah.  I guess I’m just not motivated to come back to campu
 
 “No.  But we hold hands in the car.”
 
-“Bro, if you’re not going to make out with him, you should just hang out with me.”
+“Bro, if you’re not gonna make out with him, you should just hang out with me.”
 
 Today, I went to Gyuna’s apartment doing homework.  “Aubree broke up with Bryan the other day,” she said.
 
@@ -195,9 +195,9 @@ February 26, 2023.  As I got to know Bryce better, I did feel more and more attr
 
 ```Just let him go, ew he's a big dump don't touch it```
 
-I felt like it was appropriate for me to talk to Bryce about my feelings for Connor.  Tonight, Bryce asked me about how I felt about our relationship, so I felt like it was appropriate to be completely transparent with him, even if it was going to be tough.
+I felt like it was appropriate for me to talk to Bryce about my feelings for Connor.  Tonight, Bryce asked me about how I felt about our relationship, so I felt like it was appropriate to be completely transparent with him.
 
-“So… I do have something to talk to you about,” I said when Bryce parked his car in front of my apartment complex.
+“So... I do have something to talk to you about,” I said when Bryce parked his car in front of my apartment complex.
 
 “Yeah, what is it?” Bryce asked.
 
@@ -206,6 +206,7 @@ I felt like it was appropriate for me to talk to Bryce about my feelings for Con
 "I am a bit jealous," Bryce answered.  "I'm that type.  But I'll get over it in a few days.  I guess it’s hard to believe that you have feelings for someone else since I’m pretty loyal when it comes to commitment."
 
 I squeezed his arm.  "I’m so sorry!  I really want to get over Connor.  He was really sweet, but now all he wants is my body.  I don't want to deal with him anymore.  I want to focus on you."
+
 "Do you have feelings for me?"
 
 "I do!  I think you're very mature.  You know what you want.  Connor said he wants to be in a long-term relationship 'eventually.'  And you're straightforward and honest, which I like too."
@@ -244,7 +245,9 @@ After some talk, I could tell Bryce was thinking again.  "What's on your mind?" 
 
 I was glad that I told him about Connor because it was not easy still having these feelings.  They were fading away slowly, but talking to Bryce about it felt as if a huge weight had come off my shoulders.
 
-Bryce and I occasionally did have deeper conversations like that.  "You're a very rare person," he said.
+Bryce and I occasionally did have deeper conversations like that.  On another night, he drove us around Provo.
+
+"You're a very rare person," he said.
 
 "What do you mean?" I asked.  It was true that I had never met anyone who was quite like me, but I wanted to know what he meant.
 
@@ -254,7 +257,7 @@ Bryce and I occasionally did have deeper conversations like that.  "You're a ver
 
 Bryce thought for a long moment.  "Everything.  The teachings, the doctrine.  Of course, there are some things that I question, but I know the Church is true."
 
-"Have you ever wondered what will happen after this life?  I mean, I know we're taught that we’ll go to the spirit world and then we'll all be resurrected and then we'll all be judged before getting placed into one of the kingdoms of glory.  When I was in high school, exaltation was the goal, and I still find exaltation desirous, but I don't know if that's realistic for me.  I feel like my mission was what propelled me to start dating guys.  At the beginning of my mission, I thought that if I obeyed all the mission rules and the commandments that I'd be happy.  That's what we're told.  But I wasn't happy.  It wasn't until later in my mission that keeping the commandments and learning to love the people were things that had to come from the heart.  Of course, going through the motions can be a starting point, but it's not enough.  And I think that applies to marriage.  If I were to have a wife, I don't think I'd be able to love her, even if I were to go through the motions.  I have no desire to touch a girl or have that sort of connection with any girl.  And I wouldn't want to put that kind of hurt on anyone or on myself or on our posterity if it gets to that point."
+"Have you ever wondered what will happen after this life?  I know we're taught that we’ll go to the spirit world and then we'll all be resurrected and then we'll all be judged before getting placed into one of the kingdoms of glory.  When I was in high school, exaltation was the goal, and I still find exaltation desirous, but I don't know if that's realistic for me.  I feel like my mission was what propelled me to start dating guys.  At the beginning of my mission, I thought that if I obeyed all the mission rules and the commandments that I'd be happy.  That's what we're told.  But I wasn't happy.  It wasn't until later in my mission that keeping the commandments and learning to love the people were things that had to come from the heart.  Of course, going through the motions can be a starting point, but it's not enough.  And I think that applies to marriage.  If I were to have a wife, I don't think I'd be able to fully love her in all aspects of a healthy marriage, even if I were to go through the motions.  I have no desire to touch a girl or have that sort of connection with any girl.  And I wouldn't want to put that kind of hurt on anyone or on myself or on our posterity if it gets to that point."
 
 "I used to think a lot about my exaltation too, but I don't think about it as much anymore.  It's depressing to think about.  Sometimes I wonder, 'Why me?'  You know?"
 
@@ -274,7 +277,7 @@ I was glad that he and I also had that deep conversation.  And I was glad to hea
 
 March 3, 2023.  Bryce told me about an Asian cultural night that was happening at the Wilk tonight.  I told Gyuna about it, and she invited some of her friends.  Christian was in Provo too.
 
-“There’s a girl at my work who’s clearly been flirting with me,” Bryce said while we were waiting for Gyuna and her friends to arrive.  “She asked me how many relationships I’ve been in, and I was like, ‘Three.’  And she was like, ‘What were they like?’  And I just avoided the question.  But today was the day when she asked me out.  And I told her no.”
+“There’s a girl at my work who’s clearly been flirting with me,” Bryce said while we were waiting for Gyuna and her friends to arrive.  “She asked me how many relationships I’ve been in, and I was like, ‘Three.’  And she was like, ‘What were they like?’  And I just avoided the question.  But today was the day when she asked me out.  And I just tried to change the subject.”
 
 “Wow, what a heartbreaker,” I said.
 
@@ -324,7 +327,7 @@ A few hours later, he texted back:
 
 I wasn’t sure if he was implying another try at dating or being friends.  I thought he wasn’t interested in going on dates with me anymore.
 
-```Me: So… Kinda awkward, but I recently just got a boyfriend. It’s a long story. He and I are taking things slowly together, but so far, things have been good. And I hope it stays that way. So I’d say I’m not available dating-wise. But again, I’m not opposed to being friends. I don’t want you to be some mysterious, online person. But if you want space, I will respect that too.```
+```Me: So... Kinda awkward, but I recently just got a boyfriend. It’s a long story. He and I are taking things slowly together, but so far, things have been good. And I hope it stays that way. So I’d say I’m not available dating-wise. But again, I’m not opposed to being friends. I don’t want you to be some mysterious, online person. But if you want space, I will respect that too.```
 
 ```Connor: Oh wow congrats! Who is he?```
 
@@ -353,7 +356,7 @@ Gyuna and her friend occasionally talked in Korean.  Then her friend asked me ra
 
 “Yeah, it’s pretty complicated,” Gyuna agreed.
 
-Her friend kept insisting on telling me if I was in a relationship with someone though.
+Her friend kept insisting on telling her if I was in a relationship with someone though.
 
 “No, I’m not in a relationship,” I lied.  “Again, things are complicated.”
 
@@ -418,11 +421,13 @@ Initially, I was a bit confused and devastated.  He had texted me that he really
 "What do you mean?"
 
 "I could tell something was off, especially when we became official.  You seemed hesitant about it."
+
 "Really?  Was I that obvious?"
 
 "I'm pretty good at reading people and gauging what they're thinking."
 
 "Dang.  Well...  This was what I meant when I said I wanted to talk to you about something before we got official.  And when I told you that I wanted to get over him, I really meant it.  I wanted to focus on you, but if you don't feel like a relationship is going to work anymore, then..."
+
 "You won't get hurt, will you?"
 
 I wasn't sure what to say.  Even though I still had feelings for Connor, I knew Bryce a whole lot better.  He treated me well, and he and I made so many good memories.  But I also knew that we were "trying" this new thing called “being in a relationship” and that things might not work out.  I just couldn't believe that things were going to end like this.  "If we were to continue this relationship, wouldn’t both of us get hurt more later down the road?”
@@ -453,7 +458,7 @@ I hesitated again.  I wanted to say yes, but I didn't want to say yes and then n
 
 "No."
 
-I told him all about it: the time when he and I matched on Hinge to the time that he and I first met in person to the time that he said he needed space to last week when he reconnected with me.  "I was a bit scared telling you about Connor because I felt like you'd get jealous."
+I told him all about it: the time when he and I matched on Hinge to the time that he and I first met in person to the time that he said he needed space to last week when he reconnected with me.  "I was a bit scared telling you about how I had messaged Connor last week because I felt like you'd get jealous."
 
 "Yeah, I'm definitely the jealous type.  But it sounds like you really like him.  It sounds like you think about him a lot."  He gave me a side-eye.  I sort of shrugged.  It was kind of true unfortunately.  "I think that's what love is," Bryce continued.  "You just can't stop thinking about that person."
 
@@ -467,7 +472,7 @@ I told him all about it: the time when he and I matched on Hinge to the time tha
 
 I began to wonder what Bryce thought a relationship was supposed to look and feel like.  It was true that I felt more and more attracted to him as time passed, but it wasn’t like I always got butterflies around him or that he was constantly on my mind.
 
-We talked some more but made sure to head out before parking security would check the lot that Bryce was parked in.  He gave me a big hug before we left.  “Oh, I think I’m starting to feel hurt,” he said.
+We talked some more but made sure to head out before parking security would check the lot that Bryce was parked in.  He gave me a big hug before we left.  “I think I’m starting to feel the **hurt,” he said.
 
 “Do you remember that one Blackpink song ‘As If It’s Your Last’?  That song has basically been my mood ever since I started dating guys.  I’ll have to share the lyrics with you.”
 
@@ -549,7 +554,7 @@ After some time, Bryce drove me back to my apartment.
 
 “I think I’ve learned that even though I do have worries and concerns that they shouldn’t be reasons to stop a relationship.  And I don’t think I realized that I had feelings for you until I was about to lose you.  Before I started dating, I was really lonely.  Maybe even borderline depressed.  But for the past month, I haven't felt that way.  I'm so sorry about being wishy washy, but I still want to try this together.”
 
-Well dang.  I had thought a lot about how Connor might have been someone I could pursue.  But Bryce was such a great guy.  I really did like being around him, and it seemed like he really liked being around me.  "I love that you love me as much as you do, but it doesn't seem fair that I don't love you as much as you do to me."
+I had thought a lot about how Connor might have been someone I could pursue.  But Bryce was such a great guy.  I really did like being around him, and it seemed like he really liked being around me.  "I love that you love me as much as you do, but it doesn't seem fair that I don't love you as much as you do to me."
 
 "And that's okay.  I don't expect that you absolutely love me after only a month of dating.  I'd be down to keep giving this relationship a try.  I think I realized that what I thought was love really wasn't what it was.  But I don't want you to be stuck in a relationship that you don't want to be in.  And I don't want to be in that kind of relationship either.  So do you want to continue this relationship?"
 
@@ -648,6 +653,7 @@ She was probably saying that as a joke, so she looked shocked when I nodded.  �
 “You got defensive.  When he said that he felt like breaking up with you, you put up a wall so that you wouldn’t feel as hurt.  But if he pulls out the breakup card and then wants to take it back, he’ll need to put in a lot more effort into the relationship and to make sure that you know he loves you.”
 
 “He and I haven’t had any major relationship issues, so I want to continue to try our relationship.”
+
 “Michael, you can’t TRY a relationship.”
 
 “What do you mean?”
@@ -688,9 +694,9 @@ After some more talk, Gyuna and I left.  But I thought a lot about her question.
 
 ```I want someone whom I find physically attractive. I want someone who finds me physically attractive.```
 
-...
+## Section 6
 
-March 16, 2023.  President and Sister Beardall reached out asking if I’d be available to play a musical number for the upcoming mission reunion.  I decided to play the piano version of “Gethsemane” from The Lamb of God.  Even though I could’ve played it without narration, I thought it would be fun to have someone narrate.  I asked Gyuna if she could narrate in Korean, so we met at the JSB tonight to rehearse.
+March 16, 2023.  President and Sister Beardall reached out asking if I’d be available to play a musical number for the upcoming mission reunion.  I decided to play the piano version of “Gethsemane” from _The Lamb of God_.  Even though I could’ve played it without narration, I thought it would be fun to have someone narrate.  I asked Gyuna if she could narrate in Korean, so we met at the JSB tonight to rehearse.
 
 We practiced a few times.  “Nothing can replace the cello,” I said.  “The piano version is okay, but the cello sounds way better.”
 
@@ -762,7 +768,9 @@ I took time to sketch out the pros and cons.  I felt like the same thoughts were
 
 ```Even though Bryce and I say that we want to be friends if things don't work out, I'm not sure how he'd feel being around Connor if it ever gets to that point.```
 
-I didn’t know how to make this decision.  I was leaning more towards breaking up.  I really was.  And it hurt.  I cried a few times about it.  But I felt it was best for both Bryce and me.  I didn’t want to keep hurting him for not having feelings for him like I did.  He didn’t deserve someone who didn’t love him with all his heart.  He also expressed concerns that made him feel like things might not work out.  Plus, he said he didn't want to be with someone who was constantly thinking about someone else.  In some ways, I felt stupid for being so vulnerable with Connor.  After telling him that I had feelings for him, I wasn’t sure if they were as strong as they were before I told him.  Maybe I just needed to tell him to relieve some tension.  But I also did have feelings for him and wanted to see if things would work out.  And deep down inside, I really DID hope things work out between Connor and me.
+I didn’t know how to make this decision.  I was leaning more towards breaking up.  I really was.  And it hurt.  I cried a few times about it.  But I felt it was best for both Bryce and me.  I didn’t want to keep hurting him for not having feelings for him like I did.  He didn’t deserve someone who didn’t love him with all his heart.  He also expressed concerns that made him feel like things might not work out.  Plus, he said he didn't want to be with someone who was constantly thinking about someone else.
+
+In some ways, I felt stupid for being so vulnerable with Connor.  After telling him that I had feelings for him, I wasn’t sure if they were as strong as they were before I told him.  Maybe I just needed to tell him to relieve some tension.  But I also did have feelings for him and wanted to see if things would work out.  And deep down inside, I really DID hope things would work out between Connor and me.
 
 Bryce knew that he still had feelings for me, and Connor expressed interest in going on a date with me, so now it was up to me to make a decision.  Everyone was waiting for me!  It was absolutely stressful.  I just wished there was a way for everyone to be happy!  Maybe date both of them at the same time?  No.  Bryce and Connor wouldn't like that at all.  I just needed to hear Connor say no to a date!  But he didn't say no, and that was what I needed to know.  I didn’t even know if things were going to work out between Connor and me, in which case that would absolutely suck.  If it had been Connor that had broken up with me instead of Bryce, that probably would've left me extremely heartbroken—the kind of physical pain that Bryce had felt himself.  I didn’t feel that way when I thought Bryce and I had broken up.  But if things didn’t work out with Connor, I’d start all over on ground zero, and I didn’t feel like there was anyone else out there for me.  I felt pretty hopeless about it.  Connor told me that he didn’t want to be the reason for a breakup, which was understandable.  It would’ve sounded awful to say that I broke up with Bryce just because I wanted to go on a date with Connor.  It might even end up being my last date with him for good.
 
@@ -772,7 +780,7 @@ I also began to understand why it was so hard for Gyuna and Christian to break u
 
 So that was my decision.  I was going to break up.  Even though Bryce and I would have the title of “ex,” it didn’t mean it was a negative thing.  He and I would still do things together and be friends.  I planned on letting him know my decision, express gratitude for the relationship, and ask what our expectations would be being friends.
 
-## Section 6
+## Section 7
 
 March 18, 2023.  Bryce texted me asking how I was doing.  After some text conversation, he said he’d rather meet today than tomorrow, so I told him to meet me in one of the rooms of the library later in the afternoon to talk about my decision.
 
@@ -795,6 +803,7 @@ I decided to go straight to business.  "So, I texted Connor, and long story shor
 There was about a 10-second pause before he spoke.  "I think being friends would be too hard.  I don't think I'd want to see you that much."
 
 I was a bit devastated—so much so that I didn’t ask him why he felt that way.  He and I had talked about being friends if things didn’t work out.  He even talked about it earlier in the week.  But I guess I could see how that would be really difficult, especially if I wanted to focus on Connor.
+
 "Really?" I didn't know what to say.
 
 "I mean, if we see each other, we can say hi and stuff."
@@ -846,6 +855,7 @@ The four of us went to an Asian market and then went to Asa Ramen.  We also sang
 By the time we finished karaoke, it was past midnight.  "Usually Bryce is asleep at this point," I said.  "I wonder if he's sleeping well."
 
 "You still care about him, see?" Gyuna said.  "It'll be okay though.  You'll be able to move on."
+
 "What if I were to go back to someone I had dated before?"
 
 "Mm, no, don't.  Especially Connor.  He just wants to have sex with you."

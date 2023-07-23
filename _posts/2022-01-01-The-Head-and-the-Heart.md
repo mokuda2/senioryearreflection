@@ -87,11 +87,11 @@ That was all she texted after a few hours.  I asked her to help me with my piece
 
 ```Gyuna: Ok fine```
 
-I knew how girls were when they were in a mood similar to Gyuna's from high school experiences.  They'd get into a mood and then ignore me for whatever reason.  I wasn't sure if it was because they thought such a tactic was a great way to hurt me or if they were too scared or ashamed to resolve the issue because of what they had done or if they just needed time to breathe.  But it would've been nice to at least communicate that they needed some space to reflect on the situation.  At least from high school, girls wouldn't confront the situation and instead gossip to other people to feel validated and justified for what they did.  Then they'd try to find ways to intentionally provoke the person to be hurtful and then complain more about how so-and-so had been trying to be hurtful.  I didn't think it was a healthy way of resolving conflict.  She didn't necessarily hurt me, but it seemed like that was her intention from her behavior of ignoring me.  I felt like she and I would have to communicate about our boundaries because I didn't want to hurt her, and I didn't want her to blow up.  But if she didn't want to respond or be friends anymore, that was outside my control.  I was going to move on and find other people if that was going to be the case.
+I knew how girls were when they were in a mood similar to Gyuna's from high school experiences.  They'd get into a mood and then ignore me for whatever reason.  I wasn't sure if it was because they thought such a tactic was a great way to hurt me or if they were too scared or ashamed to resolve the issue because of what they had done or if they just needed time to breathe.  But it would've been nice to at least communicate that they needed some space to reflect on the situation.  At least from high school, girls wouldn't confront the situation and instead gossip to other people to feel validated and justified for what they did.  Then they'd try to find ways to intentionally provoke the person to be hurtful and then complain more about how so-and-so had been trying to be hurtful.  I didn't think it was a healthy way to resolve conflict.  She didn't necessarily hurt me, but it seemed like that was her intention from her behavior of ignoring me.  I felt like she and I would have to communicate about our boundaries because I didn't want to hurt her, and I didn't want her to blow up.  But if she didn't want to respond or be friends anymore, that was outside my control.  I was going to move on and find other people if that was going to be the case.
 
 ## Section 2
 
-March 23, 2023.  Healing from my breakup was weird.  I felt like it should've taken a lot longer for me to heal than it did with Kent, but I felt pretty normal after only a few days.  It was as if my relationship was all a dream.  I had met Bryce for only a month and a half, and now it was as if he and I had never met before.  I couldn't believe I had been in a relationship.
+March 23, 2023.  Healing from my breakup was weird.  I felt like it should've taken a lot longer for me to heal than it did, but I felt pretty normal after only a few days.  It was as if my relationship was all a dream.  I had met Bryce for only a month and a half, and now it was as if he and I had never met before.  I couldn't believe I had been in a relationship.
 
 I decided to give Connor a text about the breakup and how I was still trying to heal completely from it.  He said he was willing to listen, so I told him some of the story.  He and I texted each other for the next couple days.  He said he was going to a Taylor Swift concert in Las Vegas with some of his friends over the weekend.  He was going to leave on Friday, and we both wanted to see each other before he left.  I guess it was a good thing that I wanted to see him.  It was sort of a last-minute arrangement, but he picked me up from my apartment Thursday night.
 
@@ -99,9 +99,9 @@ I was pretty nervous.  But it was a good kind of nervous.  It seemed like he lik
 
 "Hey, long time no see," I greeted when I got into his car.  It was weird seeing him again.  It had been about two months since I last saw him in person.
 
-Connor said he wanted to grab something to eat, so we went to In 'N Out. "So how long were you and Bryce dating?" he asked.
+Connor said he wanted to grab something to eat, so we went to In-N-Out. "So how long were you and Bryce dating?" he asked.
 
-"It was about a month and a half," I answered.  "It was short, but it was a good experience.  I'm really glad he was my first relationship.  I feel like I've been trying to learn how to balance what my logical mind and what my emotions are telling me."
+"It was about a month and a half," I answered.  "It was short, but it was a good experience.  I'm really glad he was my first relationship.  I feel like I've been trying to learn how to balance what my logical mind and my emotions are telling me."
 
 "Aren't we all trying to figure that out?"
 
@@ -127,7 +127,9 @@ Fair enough.  I thought it was a vague question when I was first asked that.  "A
 
 I was probably a bit direct saying that because he looked a bit flustered.  “I think I’m still trying to figure out my feelings about that.”
 
-But it was good seeing him again.  When he dropped me off, he and I got out of the car and gave each other a big hug.  The way he looked at me afterwards reminded me of the time he and I hugged outside in the snow the first time I met him in person.  He and I planned on a date next week, and I was actually excited about it!
+But it was good seeing him again.  When he dropped me off, he and I got out of the car and gave each other a big hug.  The way he looked at me afterwards reminded me of the time he and I hugged outside in the snow the first time I met him in person.  He and I planned a date for next week, and I was actually excited about it!
+
+...
 
 March 24, 2023.  Today was the day of the mission reunion.  As far as people, there wasn’t anything particularly exciting.  There were a lot of familiar faces, but I didn’t know anyone well enough to feel like I could just start talking to them.  The performance went well too.
 
@@ -227,9 +229,10 @@ Like I said, I was confused.  “So… do you actually see him as a friend, or d
 “Maybe that’ll be a good thing.  Hopefully that’ll help you move on from these confusing feelings.”
 
 One of Hyeji’s roommates and one of our classmates from STAT 340 ended up going to Chicken in the Kitchen with us.  The graduate students were still there, but they left after about five minutes.  The four of us then made some spontaneous plans to drive around Rock Canyon and Y Mountain.  We listened to some country music and Taylor Swift and, of course, “As If It’s Your Last.”
+
 “‘Majimak cheoreom, ma-ma-majimak cheoreom (“As if it’s your last, as if it’s your l-l-last.”),’” Hyeji sang.
 
-We then went to the new Music Building on campus.  On our way out of the building, it looked like something caught Hyeji’s eye.  “There’s an organ!” she exclaimed.  I heard her open the door and ask, “Hey, can you play something on the organ for us?”  I didn’t realize it was a practice room with someone already there.  But he was a good sport and played something for us.  Dang, I didn’t realize Hyeji went out of her way like that.
+We then went to the new Music Building on campus, and I played the Fantaisie Impromptu.  On our way out of the building, it looked like something caught Hyeji’s eye.  “There’s an organ!” she exclaimed.  I heard her open the door and ask, “Hey, can you play something on the organ for us?”  I didn’t realize it was a practice room with someone already there.  But he was a good sport and played something for us.  Dang, I didn’t realize Hyeji went out of her way like that.
 
 “It was fun!” she said when I dropped her off.  “Thanks for hanging out!”
 
@@ -237,7 +240,7 @@ We then went to the new Music Building on campus.  On our way out of the buildin
 
 ## Section 4
 
-April 3, 2023.  I asked Connor if he was interested in going on another date or doing homework together.  I wasn’t sure how interested he was anymore because we didn’t have any plans of seeing each other.  He responded saying he was interested in going on another date and that it would be good to continue to get to know me and figure out how he was feeling.  He recommended that I watch Iron Man 2 as the next Marvel movie, so I suggested that.  I also wanted to pay for dinner since he paid for the last two meals, so we planned on going to Olive Garden.  So those were our plans.
+April 3, 2023.  I asked Connor if he was interested in going on another date or doing homework together.  I wasn’t sure how interested he was anymore because we didn’t have any plans of seeing each other.  He responded saying he was interested in going on another date and that it would be good to continue to get to know me and figure out how he was feeling.  He recommended that I watch _Iron Man 2_ as the next Marvel movie, so I suggested that.  I also wanted to pay for dinner since he paid for the last two meals, so we planned on going to Olive Garden.  So those were our plans.
 
 ```Me: Also, I’m thinking it’d be wise if we hold off on the making out stuff until we figure things out. I think that kind of stuff can mess with our head and heart. Don’t get me wrong, I do enjoy that kind of stuff when I feel an emotional connection, and I still have feelings for you and think you’re really cute, but I hope those feelings can grow into something more and that we can spend time together and feel more comfortable around each other. I don’t mind hugs or holding hands in the car, but again, I think it’d be wise to save the more passionate kinda stuff for someone we want to invest time and love in. Does that make sense?```
 
@@ -249,15 +252,15 @@ But we went on our date today.  We went to Olive Garden first.
 
 "I forgot, have you come out to your family?" Connor asked.
 
-"No, I haven't," I answered.  "It hasn't felt right.  I've actually been thinking about writing a reflection about the past school year.  I know it might be weird or unconventional to come out that way, but I feel like I'm a lot better at expressing myself through writing."
+"No, I haven't," I answered.  "I've actually been thinking about writing a reflection about the past school year.  I know it might be weird or unconventional to come out that way, but I feel like I'm a lot better at expressing myself through writing."
 
 "Is there anything that makes you feel uneasy about coming out to them?  Like, are they pretty traditional?"
 
-"I guess my family wouldn't be the first people I'd go to when it comes to personal problems and issues.  I usually go to my friends.  Plus, I don't feel like my parents share much about their personal lives.  As people have asked me questions about my parents, the more I realize I don't know them that well."
+"I guess my family wouldn't be the first people I'd go to when it comes to personal problems and issues.  I usually go to my friends.  Plus, I don't feel like my parents share much about their personal lives.  As people have asked me questions about my parents, the more I've realized I don't know them that well."
 
 "Yeah, I get that.  I sometimes don't go to my parents as the first people to ask for help or advice.  But maybe your parents would open up more when you come out to them.  It's a very personal part of you, and it's extremely vulnerable.  I feel like it's helped strengthen my relationship with my family members.  I also feel like I come out to someone at least once a month.  Like, without fail.  Some people think I'm kidding, but I'm like, 'No!'  It's a really personal part of my life I'm sharing."
 
-We then watched Iron Man 2.  Well, "watched."  After about 15 minutes, we ended up making out for the rest of the movie.  Dang, even though my head was telling me to wait until something more serious would form, my heart just wanted kisses from him.  And I guess he felt the same way too.
+We then watched _Iron Man 2_.  Well, "watched."  After about 15 minutes, we ended up making out for the rest of the movie.  Dang, even though my head was telling me to wait until something more serious would form, my heart just wanted kisses from him.  And I guess he felt the same way too.
 
 After the movie, he and I walked to my car.  "Well, I feel like it would be good to talk in person about what you're thinking as far as going on more dates," I said.
 
@@ -313,7 +316,7 @@ I wasn't sure if I fully understood how he was feeling, but it wasn't like I cou
 
 "I know.  I wish I wasn't the cause of the pain, but I think it's best for me and you.  If we don’t see each other again before summer, I hope you have fun in Guam and Dallas.  And I’ll be sure to post pictures on Instagram when I go to Japan."
 
-And with that, we parted.  I was so nervous only an hour ago, but now, I felt absolutely heartbroken.  I couldn't believe that things with Connor were officially over.  He was my first match, and something about that was oddly sentimental.  From the time that he and I had chatted at the end of October to the time that he and I met in person for the first time at the end of January to this time where he and I tried to date for the past couple weeks, it was so difficult for me to grasp that it was going to be the end.
+And with that, we parted.  I was so nervous only an hour ago, but now, I felt absolutely heartbroken.  I couldn't believe that things with Connor were officially over.  He was my first match, and something about that was oddly sentimental.  From the time that he and I had chatted at the end of October to the time that he and had I met in person for the first time at the end of January to this time where he and I had tried to date for the past couple weeks, it was so difficult for me to grasp that it was the end.
 
 I went back to my apartment and tried to do my homework, but I was too unmotivated and heartbroken.  I cried and cried.  It was definitely a lot more painful than my heartbreak with Bryce, maybe even sharper than my heartbreak with Kent.  I learned that getting physical so soon could be detrimental to something long-term, yet for some odd reason, I still had feelings for Connor.  But he didn't have those same kinds of feelings for me.  He did say that he had learned a lot from the dates he and I had been on.  Maybe he learned that getting physical too soon could confuse the head and the heart, just as much as it had mine.
 
@@ -353,13 +356,15 @@ Today, she and I were in the stats lab in the afternoon.  We planned on getting 
 
 “I’m actually with Hyeji right now, and we’re about to go eat somewhere.”
 
-“Oh, you’re with Hyeji?  Okay, bye.”  I heard Christian in the background telling Gyuna that I had asked what they were doing tomorrow.
+“Oh, you’re with Hyeji?  Okay, bye.”
+
+I heard Christian in the background telling Gyuna that I had asked what they were doing tomorrow.
 
 “You can go!” Hyeji said.  But I had prepared myself to come out to her and didn’t want to miss the opportunity.
 
-Hyeji and I decided to go to a new restaurant called Moyamo for a late dinner.  "So what did you want to talk to me about?" she asked as we were heading out of the West View Building.  I was surprised that she had remembered the topic and that she brought it up first.
+Hyeji and I decided to go to a new restaurant called Moyamo for a late dinner.  "So what did you want to talk to me about?" she asked as we were heading out of the West View Building.  I was surprised that she brought up the topic first.  We came across several people as we walked to Moyamo, so I was a bit scared.
 
-I felt like it was the right thing to do.  We came across several people as we walked to Moyamo, so I was a bit scared.  "Hm... it’s not easy for me to say," I began.
+"Hm... it’s not easy for me to say," I began.
 
 "Well, does it involve other people?"
 
@@ -367,11 +372,13 @@ I felt like it was the right thing to do.  We came across several people as we w
 
 "Were these people mean to you?  When did you start feeling this way?"
 
-"It was Tuesday.  And uh, it wasn't intentional, but it still hurt.  I feel like I should just tell you directly instead of you trying to ask questions."  I took a deep breath.  We were walking by the Tanner Building, and all I could think about was Connor.  "So...  I like guys."  I waited for a bit to see her reaction.  She wasn't taken aback or shocked or anything like that, which was a bit of a surprise to me.  “Can you guess what I've been going through?"
+"It was Tuesday.  And uh, it wasn't intentional, but it still hurt.  I feel like I should just tell you directly instead of you trying to ask questions."  I took a deep breath.  We were walking by the Tanner Building, and all I could think about was Connor.  "So...  I like guys."
 
-"Did you get your heart broken?" she asked.
+I waited for a bit to see her reaction.  She wasn't taken aback or shocked or anything like that, which was a bit of a surprise to me.  “Can you guess what I've been going through?" I asked.
 
-"... Yeah."
+"Did you get your heart broken?"
+
+"...Yeah."
 
 "Wow!  Michael!  I thought you didn't know what those kinds of feelings were like!  And I'm glad you were able to somewhat understand what I've been going through too with that one guy.  I've felt the same way, just heartbroken.  But I've been feeling better.  But how did you get your heart broken?"
 
@@ -379,7 +386,7 @@ I felt like it was the right thing to do.  We came across several people as we w
 
 "Oh, I do!" she said without hesitation.
 
-So I basically had a two-hour storytelling session about how I felt when I came to BYU my freshman year and how I downloaded dating apps and matched with Connor and how I met him in person and how I had gotten into a relationship with Bryce and all of the complicated feelings I had and how I met Connor again.  "...And then on Tuesday, he and I talked, and he said he wasn't interested in going on dates with me anymore," I continued.  "I was able to keep my composure, but it still hurt a lot.  And when I went back to my apartment, I cried.  So I've been telling myself every morning that I can get through this day.  I have to tell that to myself out loud several times."
+So I basically had a two-hour storytelling session about how I felt when I came to BYU my freshman year and how I downloaded dating apps and matched with Connor and how I met him in person and how I had gotten into a relationship with Bryce and all the complicated feelings I had and how I met Connor again.  "...And then on Tuesday, he and I talked, and he said he wasn't interested in going on dates with me anymore," I continued.  "I was able to keep my composure, but it still hurt a lot.  And when I went back to my apartment, I cried.  So I've been telling myself every morning that I can get through this day.  I have to tell that to myself out loud several times."
 
 "Feeling heartbroken is a tough emotion," Hyeji said.  "What do you do to cope with it?"
 
@@ -396,6 +403,7 @@ Hyeji and I walked to her apartment, and she made some ramen for us.  It was abo
 I laughed.  “I totally forgot I told you about that!”
 
 “You said you were going with ‘a friend,’ but you were so vague about it.  Now it all makes sense!”
+
 We continued to talk.  "How far are you going to walk?" I asked.
 
 "Probably to the BYU sign.”
@@ -446,7 +454,9 @@ I put on some Taylor Swift since my date yesterday was a Swiftie.  And it remind
 
 “Wow, you like Taylor Swift?” Hyeji asked.
 
-“I’m getting used to it.  Connor liked Taylor Swift, and when I like someone—romantically or not—I want to get to know their interests.”  After listening to some of her songs, I didn’t realize how many of them were from her.  One of my friends from high school liked making fun of her songs because she was so dramatic.  I still thought she was really dramatic, but at least I could relate to how I’d gone on too many dates or how Connor’s face looked like my next mistake.
+“I’m getting used to it.  Connor liked Taylor Swift, and when I like someone—romantically or not—I want to get to know their interests.”
+
+After listening to some of her songs, I didn’t realize how many of them were from her.  One of my friends from high school liked making fun of her songs because she was so dramatic.  I still thought she was really dramatic, but at least I could relate to how I’d gone on too many dates or how Connor’s face looked like my next mistake.
 
 Hyeji recommended some other Taylor Swift songs.  It was fun and educational for me.
 
@@ -462,7 +472,9 @@ We left around midnight and planned on studying for finals together.
 
 April 15, 2023.  One of my roommates was a CS major, and he helped me a TON with my CS 236 projects.  I wanted to treat him to dinner as a thank-you, so he and I went to Itto Sushi.
 
-It felt a bit weird.  Even though I had no romantic feelings for him and—as far as I knew—even though he was straight, all of the mechanics seemed like it was a date: planning on going out to dinner, having conversation, walking around the mall while waiting for our reservation.  Plus, I went to Itto Sushi on dates with Sam and Bryce, so that added to the confusion.  Now I began to question myself: what was the difference between hanging out with another guy and going on a date, especially a first date?  At least for most of my first dates, they felt the same as this occasion of simply taking my roommate to dinner.  I still didn’t get how guys knew from the first date if things weren’t going to work out.  I needed more time than just a first date.  So yeah, it was weird to come to that realization.
+It felt a bit weird.  Even though I had no romantic feelings for him and—as far as I knew—even though he was straight, all of the mechanics seemed like it was a date: planning on going out to dinner, having conversation, walking around the mall while waiting for our reservation.  Plus, I went to Itto Sushi on dates with Sam and Bryce, so that added to the confusion.
+
+Now I began to question myself: what was the difference between hanging out with another guy and going on a date, especially a first date?  At least for most of my first dates, they felt the same as this occasion of simply taking my roommate to dinner.  I still didn’t get how guys knew from the first date if things weren’t going to work out.  I needed more time than just a first date.  So yeah, it was weird to come to that realization.
 
 ## Section 6
 
@@ -534,7 +546,7 @@ I noticed that Gyuna stopped walking.  She had a shocked expression on her face.
 
 "How did that happen?  What made you come out to her?"
 
-"She's been a good friend to me.  And she's been supportive and understanding.  Plus, she sometimes talks about this one guy that she's liked for a whole year, but it doesn't sound like he treats her well, so I'm not sure why she's still into him."
+"She's been a good friend to me.  And she's been supportive and understanding.  Plus, she sometimes talks about this one guy she's liked for a whole year, but it doesn't sound like he treats her well, so I'm not sure why she's still into him."
 
 "Oh, so it's gotta be the same guy from back in November then."
 
@@ -627,9 +639,9 @@ As much as I hope that each of you—my family members—will support me and res
 
 If you don't support my decisions, I will find those who will support me.  I'm so glad for the support I've received from especially Gyuna and Christian this past school year.  I feel that their support has helped me navigate my own feelings and has helped me avoid situations that could've taken me down a bad path.  I know that the kind of life I want to live may not be the kind of life that you saw for my future, and I can sort of understand that.  I used to think that I'd marry a girl, but I've learned that marriage is more than a mechanical matter.  Maybe it might sound weird for a heterosexual couple to think that the kind of love and the chemicals that are released are the same for a gay couple, but that's my reality.  And I'd imagine that the same kind of aversion that I feel towards a relationship with a girl would be the same feeling of aversion that a straight person would feel towards a same-sex relationship.
 
-Also of note, the names of all the guys I’ve dated or who are gay are not their actual names.  I do that mostly to keep people safe, which might sound weird.  The gay community is very small and vulnerable, so I don’t want to “out” someone intentionally.  I want to respect that some people may not be comfortable being publicly out.  It’s not an easy thing to do.  So yes, Gyuna’s boyfriend’s name is Christian, but no, my ex’s name is not Bryce.  If you had read Tate’s blog story, you probably noticed that the author's name is not Tate.  I don’t know if anyone would’ve caught onto that.
+Also of note, the names of all the guys I’ve dated or who are gay are not their actual names.  I do that mostly to keep people safe, which might sound weird.  The gay community is very small and vulnerable, so I don’t want to “out” someone intentionally.  I want to respect that some people may not be comfortable being publicly out.  It’s not an easy thing to do.  So yes, Gyuna’s boyfriend’s name is Christian, but no, my ex’s name is not Bryce.  If you read Tate’s blog story, you probably noticed that the author's name is not Tate.  I don’t know if anyone would’ve caught onto that.
 
-When Mom, Dad, and I were in Palau, they asked me if I had been going on dates.  I wasn’t ready to come out at that point.  They probably still stuck to their definition of a “date”: when a guy and a girl plan to do something together and then do it.  I was curious about what they felt about dating, not merely their definition.  I decided to ask the questions I used to ask in my atheist days.  “Why is it important to date?” I asked.
+When Mom, Dad, and I were in Palau, they asked me if I had been going on dates.  I wasn’t ready to come out at that point.  They probably still stuck to their definition of a “date”: when a guy and a girl plan to do something together and then do it.  I was curious about what they _felt_ about dating, not merely their definition.  I decided to ask the questions I used to ask in my atheist days.  “Why is it important to date?” I asked.
 
 “In the gospel, what ordinances and covenants do we make so that we can live with Heavenly Father?” Mom asked.
 
@@ -695,25 +707,27 @@ Being in the LDS community, the gay community, and the Asian community is a very
 
 One of my favorite scripture passages is when Christ taught what the great commandment was.  To give context, a Pharisee had intentions of “testing” or confounding Christ by asking what the number one commandment to follow was.  The Pharisees were a group of people known for strict obedience to the letter of the law.  The story is found in Matthew 22:36-39:
 
-36 Master, which is the great commandment in the law?
+```36 Master, which is the great commandment in the law?```
 
-37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+```37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.```
 
-38 This is the first and great commandment.
+```38 This is the first and great commandment.```
 
-39 And the second is like unto it, Thou shalt love thy neighbour as thyself.
+```39 And the second is like unto it, Thou shalt love thy neighbour as thyself.```
 
 It’s a well-known passage.  What I love about it is the paradox between what a commandment is and this particular commandment itself.  Most people think of commandments as dos and don’ts.  In this particular commandment, the thing to do is to love God and our neighbors.  The paradox is that loving someone, romantically or not, isn’t a mechanical matter.
 
-I’ve often thought about how cool it would be if an algorithm existed where two parties could get along with each other, no matter their backgrounds, personalities, and perspectives.  Those two parties could be as small as two individuals or as large as two nations.  As I’ve dated guys, I’ve realized that such an algorithm is next to non-existent.  Yes, there are ways to show love, but that’s only a starting point.  Two people can do or say the very same thing yet have completely opposite intentions.  I think feelings are what make us human.  For me, I often try to understand another person’s intentions.  I feel like most people don’t have malicious intentions; they may simply not know better, or they may have different experiences.  Going back to what Christ taught, He probably confounded that Pharisee for only going through the motions and not the emotions or the intentions of the commandments.  Again, loving someone isn’t a mechanical matter.
+I’ve often thought about how cool it would be if an algorithm existed where two parties could get along with each other, no matter their backgrounds, personalities, and perspectives.  Those two parties could be as small as two individuals or as large as two nations.  As I’ve dated guys, I’ve realized that such an algorithm is next to non-existent.  Yes, there are ways to show love, but that’s only a starting point.  Two people can do or say the very same thing yet have completely opposite intentions.  I think feelings are what make us human.  For me, I often try to understand another person’s intentions.  I feel like most people don’t have malicious intentions; they may simply not know better, or they may have different experiences.  Going back to what Christ taught, He probably confounded that Pharisee for only going through the motions and not the _emotions_ or the intentions of the commandments.  Again, loving someone isn’t a mechanical matter.
 
 As I had stated in an earlier chapter, I think it’s difficult for someone to empathize what it’s like to have a spiritual experience or what it’s like to be gay unless that person experiences AND acknowledges it.  I often think about a world where feelings don’t matter.  Marriage would simply be a ritual: have an XX-chromosome being and an XY-chromosome being go through the motions of the ceremony, just as God commands.  But what happens if the couple realizes that they can’t have children?  The logical thing to do would be to divorce each other, and if one of the spouses is fertile, he or she would find someone else who isn’t infertile so that they can keep the commandment to multiply and replenish the earth.  The hope is for the infertile to die out of society so that they wouldn’t burden the fertile.  Maybe divorce sounds harsh, but it’s like marriage; a divorce is another ritual where an XX-chromosome being and an XY-chromosome being break off their marriage.
 
-I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together because of their love for each other as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
+I don’t know what it’s like for a couple to dream of having children and to realize that it isn’t possible, but I would think that such an experience can bring the couple even closer together because of their love for each other as they face that harsh reality.  We’re taught that couples who can’t have children in this life can have that blessing in the next life, even though they can't keep the commandment to multiply and replenish the earth.  I think that promised blessing gives couples hope, even when others may judge or ridicule those couples for not having children.  And even though those couples won’t actually see that they can have children until after this life, their hope drives them.
 
 Similarly, I feel that sort of hope when it comes to faith and sexuality.  Even though I don’t know how gay people fit into the plan of salvation, I have hope that God does have a plan for me—that maybe there’s an inkling of hope that I CAN be with my family after this life.  I know that there are people out there who marginalize gay people and who tear down their faith by telling them that their life isn’t right, that they’re “threats” or “attackers” to the family, or that they don’t have a place in the celestial kingdom, and I can sort of understand why gay members of the Church leave for those reasons.  Living a life of faith isn’t easy.  But I’m doing what I can to have faith, just as I’m sure black members of the Church in the 1950s faced a similar faith crisis pertaining to their exaltation.
 
-I hope that the religious community and the LGBTQ community will learn to do what they say: to love one another.  Being gay in a religious community is tough.  Many stereotypes about gay people abound.  As far as the economics of the Majority and the Minority, people in a "higher" part of the hierarchy tend to not associate with people in a "lower" part of the hierarchy possibly because those of the higher part don't want to be viewed by their group as someone who associates with people "lower" than them.  Maybe religious people don't want to associate with gay people because of the fear of also being marginalized by people in the higher part of the hierarchy.  As terrible as that sounds, I think it's a huge barrier that people in general need to overcome, not just the religious community.  I also hope that the LGBTQ community can develop love for those in the religious community.  While it can be frustrating for people to not understand the challenges and unfairness we go through, I think both patience and speaking about our experiences in an uplifting manner will go a long way.  A society where gay people have been looked down upon for several generations will take a lot of time and understanding.  Even though people may not understand, I'm grateful for a Savior who does.
+I hope that the religious community and the LGBTQ community will learn to do what they say: to love one another.  Being gay in a religious community is tough.  Many stereotypes about gay people abound.  As far as the economics of the Majority and the Minority, people in a "higher" part of the hierarchy tend to not associate with people in a "lower" part of the hierarchy possibly because those of the higher part don't want to be viewed by their group as someone who associates with people "lower" than them.  Maybe religious people don't want to associate with gay people because of the fear of also being marginalized by people in the higher part of the hierarchy.  As terrible as that sounds, I think that viewing another person or group of people as lower on whatever hierarchy is a huge barrier that people in general need to overcome, not just the religious community.
+
+I also hope that the LGBTQ community can develop love for those in the religious community.  While it can be frustrating for people to not understand the challenges and unfairness we go through, I think both patience and speaking about our experiences in an uplifting manner will go a long way.  A society where gay people have been looked down upon for several generations will take a lot of time and understanding.
 
 I'm grateful for the experiences and the people I've met this past school year.  I know that God knows the details of our lives.  Sometimes He may seem silent, but for me, it means trusting that He trusts me and will direct me otherwise.  And I say these things in the name of Jesus Christ.  Amen.
 

@@ -23,7 +23,6 @@ email: michael.okuda99@gmail.com # Add your email
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/junioryearreflection" # keep this the same or change it to the name of the repository 
 url: "https://mokuda2.github.io" #  change this to "https://<your-github-username>.github.io"
-image: 
 author: Michael Okuda
 copyright: MYO # Your initials or what you want the copyright to be.  Leave empty for no copyright
 

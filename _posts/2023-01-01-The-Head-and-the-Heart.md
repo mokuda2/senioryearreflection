@@ -616,7 +616,7 @@ _May 31, 2021.  It was weird when I got on the plane.  I was flying to Salt Lake
 
 _When I got off the plane in Idaho Falls, I was surprised to see Shari and David waving at me from afar.  I didn’t expect them to show up.  After I retrieved my luggage, I got to see Mom and Dad and gave them hugs._
 
-_It was about a half-hour drive to Rexburg, and my stake president—whom I had never met before—was waiting for me at the stake center.  All of us were in his office, and I shared a few experiences and bore my last testimony as a full-time missionary._
+_It was about a half-hour drive to Rexburg, and my stake president was waiting for me at the stake center.  All of us were in his office, and I shared a few experiences and bore my last testimony as a full-time missionary._
 
 _After I bore my testimony, the stake president said, “Well, Elder, you are officially released and will promise not to wear your name badge in public anymore.  You’re allowed to take it off now.”_
 

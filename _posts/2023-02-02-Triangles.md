@@ -134,7 +134,8 @@ So when Aubree came into the living room, that was exactly what I said.
 
 "Honestly, I wasn't a fan of the movie," I said.  "I don't like how they oversexualize things."  That was something that I noticed with gay movies.  I felt like media was a huge influence on people's perspectives about what it was like to be gay.  The gay community made up the Minority in society, so from a revenue perspective, making a movie about a heterosexual couple would've been more relatable to the Majority and therefore would have made a lot more potential revenue.  And the media made it seem like the topic of "being gay" was too mature, as a majority of movies that were gay-related were rated PG-13 or rated R.  If movies with gay romance were as clean as Disney movies, maybe society wouldn't think that "being gay" was wrong or defective.
 
-"And then at the party last week when it was just the three of us outside, remember when I asked Bryce how you two met?” Aubree continued.  “I feel like that's something you'd normally ask, but Bryce just crossed him arms and was like, 'We're just friends.'"  The three of us laughed again.
+"And then at the party last week when it was just the three of us outside, remember when I asked Bryce how you two met?” Aubree continued.  “I feel like that's something you'd normally ask, but Bryce just crossed his arms and was like, 'We're just friends.'"  The three of us laughed again.
+
 Aubree wanted to hear my story, so I told her from the beginning.  "I have a friend who's bi," she said.  "She said that in some ways, she's hesitant about being considered part of the LGBTQ community because of all the pride flags and stuff.  She feels like the symbols behind them are people who ridicule and have that attitude that they're better.  Same thing with stuff like Black Lives Matter."
 
 "I can understand that too," I said.  "I feel like when I see pride flags, I think of people who just scream and protest and patronize others for their narrow-mindedness.  Not a fan of it.  Bryce says he doesn't like pride-related stuff either."
@@ -430,7 +431,7 @@ Initially, I was a bit confused and devastated.  He had texted me that he really
 
 "You won't get hurt, will you?"
 
-I wasn't sure what to say.  Even though I still had feelings for Connor, I knew Bryce a whole lot better.  He treated me well, and he and I made so many good memories.  But I also knew that we were "trying" this new thing called “being in a relationship” and that things might not work out.  I just couldn't believe that things were going to end like this.  "If we were to continue this relationship, wouldn’t both of us get hurt more later down the road?”
+I wasn't sure what to say.  Even though I still had feelings for Connor, I knew Bryce a whole lot better.  He treated me well, and he and I had made so many good memories.  But I also knew that we were "trying" this new thing called “being in a relationship” and that things might not work out.  I just couldn't believe that things were going to end like this.  "If we were to continue this relationship, wouldn’t both of us get hurt more later down the road?”
 
 Bryce nodded.
 
@@ -438,7 +439,7 @@ Another pause.  “Honestly, I don't think I'll be too hurt,” I finally respon
 
 "I've been happy with this relationship too.  It's a million miles better than the last relationship I had.  And I still want to be friends.  I know that a lot of people say that kind of stuff, but I absolutely mean it.  But if you don't want to see me anymore, it'll hurt, but I'll respect it."
 
-"I do want to be friends.  I don't want to ghost you.  But the thing is, I've told people in the past that I want to be friends with them, but sometimes that kind of thing takes up so much time, especially when my goal is to find a long-term relationship—which takes up so much time anyway.  Sam—the guy I thought I'd get serious with—he and I have decided to stay friends.  He and I will occasionally text each other, and we sometimes meet in person, but that's about it.  With Mason, I thought he'd be a really good friend and a good influence on me.  But after I told him that I didn't feel for him, he and I haven't texted each other for a couple months now.  It's kind of sad.  And Kent—my first heartbreak—he told me that he'd be down to be friends.  But I didn't feel like he reciprocated, and it hurt.  So I'm just saying from past experience that I don't know what it would be like if we were to just be friends.  I hang out with Gyuna a lot, and she really likes you, and we've hung out together a few times.  So I could see it working out."
+"I do want to be friends.  I don't want to ghost you.  But the thing is, I've told people in the past that I want to be friends with them, but sometimes that kind of thing takes up so much time, especially when my goal is to find a long-term relationship—which takes up so much time anyway.  Sam and I have decided to stay friends.  He and I will occasionally text each other, and we sometimes meet in person, but that's about it.  With Mason, I thought he'd be a really good friend and a good influence on me.  But after I told him that I didn't feel for him, he and I haven't texted each other for a couple months now.  It's kind of sad.  And Kent, he told me that he'd be down to be friends.  But I didn't feel like he reciprocated, and it hurt.  So I'm just saying from past experience that I don't know what it would be like if we were to just be friends.  I hang out with Gyuna a lot, and she really likes you, and we've hung out together a few times.  So I could see it working out."
 
 "I like Gyuna too."
 
@@ -472,7 +473,7 @@ I told him all about it: the time when he and I matched on Hinge to the time tha
 
 I began to wonder what Bryce thought a relationship was supposed to look and feel like.  It was true that I felt more and more attracted to him as time passed, but it wasn’t like I always got butterflies around him or that he was constantly on my mind.
 
-We talked some more but made sure to head out before parking security would check the lot that Bryce was parked in.  He gave me a big hug before we left.  “I think I’m starting to feel the **hurt,” he said.
+We talked some more but made sure to head out before parking security would check the lot that Bryce was parked in.  He gave me a big hug before we left.  “I think I’m starting to feel the hurt,” he said.
 
 “Do you remember that one Blackpink song ‘As If It’s Your Last’?  That song has basically been my mood ever since I started dating guys.  I’ll have to share the lyrics with you.”
 
@@ -808,11 +809,11 @@ I was a bit devastated—so much so that I didn’t ask him why he felt that way
 
 "I mean, if we see each other, we can say hi and stuff."
 
-I still wanted to express my gratitude and the things I had learned from him.  "I've reflected on this relationship, and I know I've said this before, but I love your honesty, your loyalty, and your love and care for me.  And as far as becoming a better person, I want to love and care for someone, but I feel like I can't do that with you."
+I still wanted to express my gratitude and the things I had learned from him.  "I've reflected on this relationship, and I know I've said this before, but I love your honesty, your loyalty, and your love and care for me.  And as far as becoming a better person, I want to love and care for someone with all my heart, but I feel like I can't do that with you."
 
 "I'm sorry I'm not the one for you."
 
-"No...  I'M sorry..."  Maybe things were a bit too quick.  It probably would’ve been better to hold off becoming official.
+"No...  I'M sorry..."  Maybe things were a bit too quick.  Even though both of us agreed to try a relationship, it probably would’ve been better to hold off.
 
 There was another pause.  "Well," Bryce said as he put on his backpack.  "Say hi to Gyuna for me.  And good luck with everything.” 
 

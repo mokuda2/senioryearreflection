@@ -345,7 +345,7 @@ Initially, I was a bit confused.  But then I got scared.  I didn’t understand 
 
 “Yeah, I’ll do that if I hear anything from BYU, but hopefully it doesn’t get to that point.”
 
-But I wasn’t sure what the Office of Belonging would do.  It wasn’t like they were going to understand the lessons and experiences I had learned the past couple months of dating guys and how I had felt so much happier knowing what romance felt like and being able to have more compassion and empathy for others.  They weren’t going to understand, especially if the people I’d have to confront were homophobic.  Plus, they’d probably listen to the one who had more money, more education, and more experience—the one who was part of the Majority.  That was how society worked.  A single college student’s voice wasn’t enough.  It would’ve been different if BYU was like the mission where no one could date or marry.  Then everyone would’ve been on the same ground.
+But I wasn’t sure what the Office of Belonging would do.  It wasn’t like they were going to understand the lessons and experiences I had learned the past couple months of dating guys and how I had felt so much happier knowing what romance felt like and being able to have more compassion and empathy for others.  They weren’t going to understand, especially if the people I’d have to confront were homophobic.  Plus, they’d probably listen to the one who had more money, more education, and more experience—the one who was part of the Majority.  That was how society worked.  A single college student’s voice wasn’t enough.  It would’ve been different if BYU were like the mission where no one could date or marry.  Then everyone would’ve been on the same ground.
 
 “I was surprised when I read that BYU doesn’t allow romantic touch and expressions between the same gender,” Gyuna said.
 
@@ -517,7 +517,7 @@ Gyuna and I met at the Cougareat after our classes in the afternoon.
 
 “Yeah, the one who served in Japan?” Gyuna responded.
 
-“Yeah.”  I told her about how he and I had reconnected last night.  “… And we ended up cuddling and making out, and—”
+“Yeah.”  I told her about how he and I had reconnected last night.  “...And we ended up cuddling and making out, and—”
 
 “Wait!  You made out with him?!”  Gyuna was shocked.  “Michael!  Oh my gosh!  You are literally such a ho!”
 
@@ -667,7 +667,7 @@ I smiled.  “Same.”  I was sort of worried that Connor wouldn’t be as inter
 
 “So, a more serious question,” Connor said.  “Where do you stand as far as the Church?”
 
-“I definitely don’t think faith and sexuality is a black-and-white thing,” I answered.  “The gospel has been such a great influence in my life and has shaped me for who I am now.  But I’ve definitely had lots of questions.  I know that a lot of gay members leave the Church, and I can sort of understand where they come from.  Exaltation wouldn’t really be an achievable goal for most of us, so maybe they think there isn’t a point in following the gospel.  But there’s something inside me that tells me to keep going with faith.  I know that lots of people think that faith and sexuality are complete opposites, but I think the one thing that they have in common is that people can find it hard to empathize when they don’t know what it’s like to have a spiritual experience or what it’s like to be gay.  And I hope the Church continues to build its understanding of our situation.  What about you?”
+“I definitely don’t think faith and sexuality are a black-and-white thing,” I answered.  “The gospel has been such a great influence in my life and has shaped me for who I am now.  But I’ve definitely had lots of questions.  I know that a lot of gay members leave the Church, and I can sort of understand where they come from.  Exaltation wouldn’t really be an achievable goal for most of us, so maybe they think there isn’t a point in following the gospel.  But there’s something inside me that tells me to keep going with faith.  I know that lots of people think that faith and sexuality are complete opposites, but I think the one thing that they have in common is that people can find it hard to empathize when they don’t know what it’s like to have a spiritual experience or what it’s like to be gay.  And I hope the Church continues to build its understanding of our situation.  What about you?”
 
 “The gospel has been a great influence in my life too,” Connor said.  “It’s not something that I can just throw away.  But on the other hand, there are some things that the Church has said and done about gay people that really make me question about the Church.  It’s a battle of feelings.”
 
@@ -824,7 +824,7 @@ But I was still really confused.  How could someone like me physically without l
 
 I was stung again.  He didn't want to figure out why he was feeling the way he was? At least he wanted me to think that he didn't know why he was feeling the way he was feeling.  That was the message I got from him.  It had been a while since I had felt frustrated with someone, but I did feel pretty frustrated with Connor.  I had given him some time and space, and he wasn’t going to be open about his feelings and intentions?
 
-Not only that, but it sounded like he just wanted my body.  He didn't want anything else.  What was the point of that?  He could’ve found plenty of better-looking guys who wouldn't have wanted any emotional connection with him as much as he wanted with me.  Well, now I realized what he meant when he asked me if I’d get hurt being physical.  I WAS going to get hurt.  He didn't know what he wanted, he didn't have any interest in me emotionally, and he didn't know what made him abruptly lose interest in me?  Now I got really scared.  Now I understood why Sam told me no to making out.  Getting physical with someone when establishing that nothing would get more serious than that was a sign of a person who couldn’t be trusted with commitment.
+Not only that, but it sounded like he just wanted my body.  He didn't want anything else.  What was the point of that?  He could’ve found plenty of better-looking guys who wouldn't have wanted any emotional connection with him as much as he wanted with me.  Now I realized what he meant when he asked me if I’d get hurt being physical.  I WAS going to get hurt.  He didn't know what he wanted, he didn't have any interest in me emotionally, and he didn't know what made him abruptly lose interest in me?  Now I got really scared.  Now I understood why Sam told me no to making out.  Getting physical with someone when establishing that nothing would get more serious than that was a sign of a person who couldn’t be trusted with commitment.
 
 ```Sam: I'd say protect your heart. Don't continue to stay attached if they won't reciprocate. You deserve a real relationship where you both emotionally connect. One sided emotions make it much harder. But you do you```
 
@@ -862,7 +862,7 @@ I shrugged.  "I still don't know him that well.  So far, I think he's chill, but
 
 "'A 'safe place'?  See?  You feel like you're in danger if you were to be with him alone.  Michael, I know I joke around when I call you a ho, but if you become an actual ho, I will NOT be proud of you."  Probably for the first time ever, I saw a genuine look of concern on Gyuna's face.  Was this situation with Connor really that bad?  "Please!  And you have Brycie-boo!  He is SO much better."
 
-"You only met him once.  How do you know?"
+"You met him only once.  How do you know?"
 
 "I could tell.  He was really friendly.  He talked to me.  Plus, he's kinda cute.  He's got some build and has red cheeks.  The first relationship is SO important.  It's what sets you up for future relationships if the first one doesn't work out.  If you have a crappy boyfriend who just wants to be physical with you and take advantage of you, then in future relationships, you'll think that it's normal.  Like, Sam was okay, but Connor is NOT at all okay.  He's literally a walking red flag.  PLEASE don't cuddle and make out with him."
 
@@ -1216,7 +1216,7 @@ I laughed.  "My friend Gyuna said the exact same thing to me."  I told Cadee abo
 
 "No, keep going!  I'm so happy!"
 
-So I did.  “… I thought things were going to work out with him, but then he told me he wasn’t interested in me, and I found out that he’s back on dating apps,” I said when I talked about Connor.
+So I did.  “...I thought things were going to work out with him, but then he told me he wasn’t interested in me, and I found out that he’s back on dating apps,” I said when I talked about Connor.
 
 “Aw, that’s really sad,” Cadee empathized.
 

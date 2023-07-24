@@ -776,7 +776,7 @@ Afterwards, we took the Myers-Briggs personality test together.  Sam said he had
 
 “I know I mentioned this before, but a dealbreaker for me is someone who’s ambitious.  I definitely want someone like that—someone who’s passionate about something and has goals and wants to make it to the top.  I also value someone who can carry intellectual conversations.  Also someone who is able to be independent.  But dating isn’t easy.  It’s hard to find someone who physically and emotionally and intellectually aligns.”
 
-“Yeah.  Dating is hard.  During the first month of dating, dating was my top priority.  I just wanted to go on as many dates with as many guys as I could so I could figure out what qualities were important to me.  But now I've realized how difficult finding a long-term relationship can be.  Now I'm kinda like, ‘Meh.’  Sometimes it feels pointless and a waste of time to text a guy, go on one date, and then never see him again after that, even if we left on good terms.  I mean, I still want to date, but sometimes it feels like I won’t ever find the right person."
+“Yeah.  Dating is hard.  During the first month of dating, dating was my top priority.  I just wanted to go on as many dates with as many guys as I could so I could figure out what qualities were important to me.  But now I've realized how difficult finding a long-term relationship can be.  Now I'm kinda like, ‘Meh.’  Sometimes it feels pointless and a waste of time to text a guy, go on one date, and then never see him again after that, even if we leave on good terms.  I mean, I still want to date, but sometimes it feels like I won’t ever find the right person."
 
 "I can see us being at least friends," Sam said.  "It could be more."
 
@@ -890,7 +890,7 @@ Gyuna laughed.  I was really surprised how surprised Christian was.  I felt like
 
 "So how long have you known?"
 
-"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appear to be the same.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
+"I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appear to be the same.  I used to think that marriage was just a ceremony and that it should've been completely independent of people's feelings.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
 
 After some discussion, Gyuna said, "Remember that time when you and I were at the library for a really long time during the last week of the semester?  I asked a lot of questions pertaining to exaltation and stuff like that to Christian to see what his thoughts were."
 

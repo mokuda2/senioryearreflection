@@ -938,7 +938,7 @@ I also talked to them about my dates with Sam.  "The thing that I'm scared of is
 
 After about an hour or two of talk, I went back to my apartment and texted Sam about successfully coming out to Christian.  I felt somewhat relieved.  Now I could do things with Sam if Christian were also around and not feel uncomfortable.  Winter semester was going to start in two days, and I hoped that I’d be able to introduce Sam to both of them soon.
 
-But I was still somewhat unsettled about where we were as far as faith and the gospel.  I knew that I needed to figure that out before committing to a relationship.
+But I was still somewhat unsettled about where we were as far as faith and sexuality.  I knew that I needed to figure that out before committing to a relationship.
 
 (End of Chapter 4, end of Part 2...)
 

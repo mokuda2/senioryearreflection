@@ -188,7 +188,7 @@ I put it in my calendar.
 
 “Nice, to meet you too, Kent!”
 
-As I headed over to the Talmage building, I got a text from him:
+As I headed over to the Talmage Building, I got a text from him:
 
 ```Kent: Super fun to meet you Michael! You’re way nice and I’m glad we got to study together.```
 
@@ -200,7 +200,7 @@ I didn’t think he looked as cute as Connor, but as I got to know Kent and his 
 
 ...
 
-I also had another date that evening.  A guy named Chris messaged me, and he and I arranged to meet at a Thai restaurant in downtown Provo.  He said he was a high school history teacher and used to work at BYU.  He was also a bit older than me: 39 years old.  I knew that a huge age gap was looked down upon, but I felt like I needed to keep my options open as far as going on dates with guys.
+I also had another date that evening.  His name was Chris, and he and I arranged to meet at a Thai restaurant in downtown Provo.  He said he was a high school history teacher and used to work at BYU.  He was also a bit older than me: 39 years old.  I knew that a huge age gap was looked down upon, but I felt like I needed to keep my options open as far as going on dates with guys.
 
 Again, I was pretty nervous.  I said a prayer that I would be safe, and I headed out the door and took the bus.  Chris said he was already there and was waiting for me.
 
@@ -218,7 +218,7 @@ It was a bit of an awkward conversation.  From the start, I definitely didn’t 
 
 “Yeah, I have three.  So you said you’re studying statistics at BYU?  It must be hard dating guys in that environment.  How long have you been dating?”
 
-“I’ve only been on one date so far.  So I’m still pretty new.”
+“I’ve only been on one date so far, so I’m still pretty new.”
 
 “Have you come out to anyone?” he asked.
 
@@ -252,7 +252,7 @@ He and I planned on going to BYU’s Museum of Art, but it was closed by the tim
 
 “I’m trying to be open with my options.  I want to date different guys to see what qualities I like.”
 
-I could tell Chris was trying to hold back from saying something.  “I want to give you advice, but I know that it’s your life.  But if I were in your shoes, I’d tell your family.  Or tell at least someone you’re close to.  This kind of life is not easy to do by yourself.  I don’t know your parents, but at least being a parent of three kids, I’d hope your parents would still accept you.  These feelings have been with you, no matter if your parents had a knowledge of them or not.  They may be initially shocked to hear it, but hopefully they’ll even say something like, ‘You’re still my son,’ you know.”
+I could tell Chris was trying to hold back from saying something.  “I want to give you advice, but I know that it’s your life.  But if I were in your shoes, I’d tell your family.  Or tell at least someone you’re close to.  This kind of life is not easy to do by yourself.  I don’t know your parents, but at least being a parent of three kids, I’d hope your parents would still accept you.  These feelings have been with you, no matter if your parents had a knowledge of them or not.”
 
 After some conversation, he dropped me off at my apartment.  I didn’t feel like I vibed with him, not like I did with Kent.  I definitely felt like Chris was in a different stage of his life.  It was probably why people pursued others who were closer in age.  I did get a text from Chris a couple weeks later that he was pursuing a relationship with someone else and that he wouldn’t text me again.  I didn’t feel like I would’ve wanted to pursue a relationship with him anyway, but I didn’t think it was thoughtful of him to just block me from his life.  Again, there weren’t many people in the gay community, and I felt like a united community was what would help bring understanding to others.
 
@@ -605,7 +605,7 @@ Coming out to Gyuna was one of the hardest things I did the past school year.  B
 
 ## Section 5
 
-November 14, 2022.  Gyuna and I met at the basement of the Talmage building in one of the soundproof study pods tonight.  She and I were stuck on a data science lab that was going to be due that night.  Plus, I wanted to tell her more about Kent.
+November 14, 2022.  Gyuna and I met at the basement of the Talmage Building in one of the soundproof study pods tonight.  She and I were stuck on a data science lab that was going to be due that night.  Plus, I wanted to tell her more about Kent.
 
 “He asked me what my type of humor is, and I didn’t know how to answer that,” I said.  “What would you say is my type of humor?”
 

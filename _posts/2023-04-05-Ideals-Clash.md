@@ -397,6 +397,7 @@ After the movie, he and I walked to Costa Vida, which was about a 10-minute walk
 “So what was it like in Bolivia?  Were people pretty receptive to the gospel?”
 
 “Yeah, they were definitely kind, though there were many times that people would flake on us.”
+
 “I feel like that’s common anywhere.  Was it pretty diverse there?”
 
 “There were mostly Hispanics, some from Central and South America.  There were also some Germans there too.”

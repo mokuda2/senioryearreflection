@@ -592,7 +592,7 @@ As I reflected on the past school year, I realized I went through so much that I
 
 _(May 2021; end of my mission) I was still an office elder in Bellevue and had about a week left on my mission._
 
-_One of the zone leaders said he had broken up with his girlfriend.  Elder Candari seemed to make a big deal about it trying to comfort our zone leader._
+_One of the zone leaders said he had broken up with his girlfriend.  My last companion, Elder Candari, seemed to make a big deal about it trying to comfort our zone leader._
 
 _“I don’t get why people do that to themselves,” I said.  “Why do people choose to do that and then get sad?”_
 

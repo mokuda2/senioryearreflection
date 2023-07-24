@@ -220,9 +220,9 @@ I heard that some of the graduate students were going to Chicken in the Kitchen�
 
 “We should go!” I said.  “It’ll be fun!  Maybe after you finish your lab.”
 
-So that was the plan.  She also told me more about her… crush?/lover?/friend?  She didn’t make much sense in the way she was explaining her feelings.  “…I see him as a friend,” she continued.  “I really do.  He reminds me of this one friend I had in high school who was kind of a jerk to me, but for some reason, I felt like I needed to take care of her.  I have those same kinds of feelings for this guy too.  But I’m also kind of scared.  I’m scared that I’ll never have the same level of feelings for another guy like him.”
+So that was the plan.  She also told me more about her... crush/lover/friend?  She didn’t make much sense in the way she was explaining her feelings.  “…I see him as a friend,” she continued.  “I really do.  He reminds me of this one friend I had in high school who was kind of a jerk to me, but for some reason, I felt like I needed to take care of her.  I have those same kinds of feelings for this guy too.  But I’m also kind of scared.  I’m scared that I’ll never have the same level of feelings for another guy like him.”
 
-Like I said, I was confused.  “So… do you actually see him as a friend, or do you still have feelings for him?  As in, more than just a friend?”
+Again, I was confused.  “So... do you actually see him as a friend, or do you still have feelings for him?  As in, more than just a friend?”
 
 “I don’t know.  I don’t know anymore.  He’s graduating this semester, so I probably won’t see him again.”
 
@@ -592,8 +592,9 @@ As I reflected on the past school year, I realized I went through so much that I
 
 _(May 2021; end of my mission) I was still an office elder in Bellevue and had about a week left on my mission._
 
-_One of the zone leaders told my companion, Elder Candari, that he had broken up with his girlfriend.  Elder Candari seemed to make a big deal about it trying to comfort our zone leader.
-“I don’t get why people do that to themselves,” I said.  “Why do people choose to do that and then get sad?”_
+_One of the zone leaders said he had broken up with his girlfriend.  Elder Candari seemed to make a big deal about it trying to comfort our zone leader._
+
+_“I don’t get why people do that to themselves,” I said.  “Why do people choose to do that and then get sad?”_
 
 _Elder Candari didn’t answer that question.  He probably got hints that I had never had a romantic life and couldn’t empathize with the situation.  I obviously didn’t know that such a thing would happen to me not even two years later._
 

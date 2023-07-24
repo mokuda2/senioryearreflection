@@ -928,10 +928,6 @@ The following Monday, I invited him and Gyuna to an FHE dinner.  “Are you a fa
 
 “I don’t think so.”
 
-“Bro, you’ve never been in a haunted house,” Gyuna said.
-
-“I did a couple Halloweens ago,” I said.  “When we got to the entrance to pay, they said it was a two-hour wait, so we decided not to go.  But that was enough adrenaline for me.”
-
 We ate some lasagna.  It was just an FHE group dinner, so it wasn’t as big as I thought it would be.  All but one of my roommates were there.
 
 “What would you say is something that makes you feel self-conscious?” I asked on the way back from FHE.

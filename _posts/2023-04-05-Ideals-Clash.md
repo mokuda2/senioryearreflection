@@ -1001,7 +1001,7 @@ A few hours later when I got home, I finally heard back from Jonah!
 
 ```Then I'll be heartbroken all over again.```
 
-Well, my skepticism kinda turned out to be right.  He didn’t text that frequently, and then he eventually just stopped.  Dang.  I didn’t like getting ghosted, and I couldn’t believe he did that to me.  After experiencing my first heartbreak with Kent, I really, really didn’t want to go through it again.  Plus, I was still sort of recovering from it.  But I hoped that Kent and I could be friends.  I was going to take his word about him being supportive and letting him know what I was going through.
+Well, my skepticism kinda turned out to be right.  He didn’t text that frequently, and then he eventually just stopped.  Dang.  So this was what it meant to be ghosted.  I didn’t like it at all, and I couldn’t believe he did that to me.  After experiencing my first heartbreak with Kent, I really, really didn’t want to go through it again.  Plus, I was still sort of recovering from it.  But I hoped that Kent and I could be friends.  I was going to take his word about him being supportive and letting him know what I was going through.
 
 ...
 

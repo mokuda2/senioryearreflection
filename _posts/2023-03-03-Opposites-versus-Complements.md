@@ -186,7 +186,7 @@ Sam shook his head.  "I don't believe in God.  I differentiate the 'Christian go
 
 "Yeah.  I'll probably just ask them to remove my records."
 
-For the next half hour or so, he told me about how he felt like the Church cared more about protecting its name than doing what he believed to be moral or ethical, stuff like how the Church treated human trafficking incidents.  I wasn't sure how much of it was true or what it was that made him believe that it was true, but it was really sad to hear him talk about all he had said.  He also said that even if Mormonism was true, he wouldn’t want to live with the “Mormon god” because he believed that He was evil.  I didn’t understand.  How did he end up at this place?
+For the next half hour or so, he told me about how he felt like the Church cared more about protecting its name than doing what he believed to be moral or ethical, stuff like how the Church treated human trafficking incidents.  I wasn't sure how much of it was true or what it was that made him believe that it was true, but it was really sad to hear him talk about all he had said.  He also said that even if Mormonism were true, he wouldn’t want to live with the “Mormon god” because he believed that He was evil.  I didn’t understand.  How did he end up at this place?
 
 "Dang.  You must have gone through so much to be where you are."  That was all I could say.
 
@@ -204,7 +204,7 @@ Everything that Sam was expressing made me feel really sad.  I knew that God kne
 
 "I mean, do you have romantic feelings for any of the other guys you've gone on dates with?"
 
-"Honestly, I have romantic feelings with you the most,” Sam answered.  “As I told you earlier, I usually go on just one or two dates to see if there's any potential for romance, and if I've gone on more, then... yeah.  I guess if you don't include the times that we met at the library and the Wilk, this would've been our fifth date."
+"Honestly, I have romantic feelings with you the most,” Sam answered.  “As I told you earlier, I usually go on just one or two dates to see if there's any potential for romance, and if I've gone on more, then... yeah.  I guess if you don't include the times that we met at the library and the Wilk, this is our fifth date."
 
 I was so torn.  "Sam!  I'm so sorry you feel this way!"
 

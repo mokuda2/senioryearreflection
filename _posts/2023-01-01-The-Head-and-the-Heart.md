@@ -612,15 +612,7 @@ _I felt the same way.  Exaltation was the goal, and it so was refreshing to reme
 
 _..._
 
-_May 30, 2021.  “It’s the end of an era,” Elder Candari said._
-
-_It really did feel like the end of an era.  I had been an office elder for the past ten months.  It was nearing 9pm, and we were about to head back to the apartment for the night._
-
-_It would be my last trip from the office back to the apartment.  I had taken that route countless times, even before I was transferred to Bellevue: the speed bumps, the left turn at the signal onto 12th Street, the scenic view of the highway.  It was weird._
-
-_I was a little nervous about not waking up early enough to get to the airport on time, but I was able to get out of bed without much trouble the next day—May 31, 2021._
-
-_It was weird when I got on the plane.  I was flying to Salt Lake City and then taking a connecting flight to Idaho Falls.  I couldn’t believe that I was actually leaving.  Two years felt so long in the moment, but now that I was finished, it felt like such a blur._
+_May 31, 2021.  It was weird when I got on the plane.  I was flying to Salt Lake City and then taking a connecting flight to Idaho Falls.  I couldn’t believe that I was actually leaving.  Two years felt so long in the moment, but now that I was finished, it felt like such a blur._
 
 _When I got off the plane in Idaho Falls, I was surprised to see Shari and David waving at me from afar.  I didn’t expect them to show up.  After I retrieved my luggage, I got to see Mom and Dad and gave them hugs._
 

@@ -1005,7 +1005,7 @@ Well, my skepticism kinda turned out to be right.  He didn’t text that frequen
 
 ...
 
-November 18, 2022.  Erika invited me to her birthday party, and she invited some other people within the Paducah stake, including Carli.  I hadn’t seen her since her birthday party.  “So, any updates you have since we last talked?” she asked me.
+November 18, 2022.  Erika invited me to her birthday party, and she invited some other people within the Paducah stake, including Carli.  I hadn’t seen her since general conference.  “So, any updates you have since we last talked?” she asked me.
 
 “I got an internship offer with AT&T, so I’ll be doing that next summer,” I answered.  “What about you?”
 
@@ -1045,7 +1045,7 @@ I still couldn’t say I was a party person, but it was better than I thought it
 
 November 19, 2022.  I had two dates tonight: a second date with John and a first date with a guy named Roger.
 
-John and I got food at Panda Express.  He and I vibed even less, at least that was how I felt.  It wasn’t like he was disrespectful towards strangers, but he didn’t show that much respect towards them either.  I learned that kindness and respect—especially towards strangers— were qualities that I found attractive.  He didn’t have that.
+John and I got food at Panda Express.  He and I vibed even less, at least that was how I felt.  It wasn’t like he was disrespectful towards strangers, but he didn’t show that much respect towards them either.  I learned that kindness and respect—especially towards strangers—were qualities that I found attractive.  He didn’t have that.
 
 Not only that, but after we got our food, he drove up to the Y Mountain parking lot, and he wanted to cuddle and make out.  I couldn’t find myself being able to say no; there was a part of me that wanted physical touch.  But I felt a bit disgusted when he cuddled, and I was left with a sour taste in my mouth again after making out.  Again, I didn’t feel like I was on a date: it was just another make-out session.
 
@@ -1057,23 +1057,23 @@ Afterwards, he and I got hot chocolate at a shop downtown, and we talked for abo
 
 “I can’t say that I’ve felt heartbroken, but there have been some difficult experiences,” Roger answered.  “Actually, there was this one guy from Brazil where I thought he and I would get serious, but he wanted to marry me just so he could get a green card or something like that.  I served my mission in Korea, and I had one companion that I got along with really well.  We were companions for a long time.  I learned that he was gay, and he told me that we should go home early and start a relationship.  I was like, ‘Nah.’  He ended up getting sent home, and he sort of threatened me to come home or else he would never talk to me again.  After a bit, he blocked me on social media, and I haven’t talked to him since.  So that was a bit sad, especially since he and I got along so well.”
 
-“Dang.  I’m still trying to figure out how to overcome these feelings of heartbreak.  It’s not easy.  But now I know what people mean, at least from my experiences.”  I told him about what led me to start dating guys.  He shared his story too.  Getting to know other guys’ stories was one of my favorite parts of dating.  Even though everyone had different circumstances, one thing we all had in common was that love was a lot deeper than the mechanics, and no one chose to have these feelings.
+“Dang.  I’m still trying to figure out how to overcome these feelings of heartbreak.  It’s not easy.  But now I know what people mean, at least from my experiences.”  I told him about what led me to start dating guys.  He shared his story too.  Getting to know other guys’ stories was one of my favorite parts of dating.  Even though everyone had different circumstances, one thing we all had in common was that love was a lot deeper than the mechanics and that no one chose to have these feelings.
 
-“I think for me, I had to overcome my own homophobia,” Roger continued.  “But I’ve come to learn that God is our loving Heavenly Father, and that’s what matters most.  He knows who I am, and I’ve learned that being gay is not a defect.  It’s just a part of who I am—of who we are—and that’s okay.  I’ve struggled a lot about what to do with my sexuality, and I’ve learned that it’s something that each of us can ask God about.  There's a guy in the BYU Office of Belonging who's gay, and I asked him what he's decided to do.  He said that he's prayed and thought a lot about what to do with his circumstances, and he's made the decision to be completely celibate.  I asked him, ‘How do you feel about that?’  He said, ‘I'm doing just that, but I'm not very happy with my life.  But it's up to you and God what you want to do with yours.’  For me, I feel that I can’t live to be single for the rest of my life and that dating girls isn’t a great option either.  I’ve talked to a few gay people who were married to women, and they said that things work out, except all of them are divorced now.  They've told me that while they're having sex, they just think of guys, which I think is absolutely wrong.  It's hurtful for the guy.  It's hurtful for his wife.  And it's hurtful for their children.”
+“I think for me, I had to overcome my own homophobia,” Roger continued.  “But I’ve come to learn that God is our loving Heavenly Father, and that’s what matters most.  He knows who I am, and I’ve learned that being gay is not a defect.  It’s just a part of who I am—of who we are—and that’s okay.  I’ve struggled a lot about what to do with my feelings, and I’ve learned that it’s something that each of us can ask God about.  There's a guy in the BYU Office of Belonging who's gay, and I asked him what he's decided to do.  He said that he's prayed and thought a lot about what to do with his circumstances, and he's made the decision to be completely celibate.  I asked him, ‘How do you feel about that?’  He said, ‘I'm doing just that, but I'm not very happy with my life.  But it's up to you and God what you want to do with yours.’  For me, I feel that I can’t live to be single for the rest of my life and that dating girls isn’t a great option either.  I’ve talked to a few gay people who were married to women, and they said that things work out, except all of them are divorced now.  They've told me that while they're having sex, they just think of guys, which I think is absolutely wrong.  It's hurtful for the guy.  It's hurtful for his wife.  And it's hurtful for their children.”
 
 Thinking about having sex with a girl disgusted my mind too.  I didn’t know how gay guys could do it.  “One thing I’ve learned on my mission is that going through the motions isn’t enough,” I said.  “At the beginning of my mission, I thought that I would be blessed merely following the mission rules.  And while that’s a starting point, that isn’t enough.  It wasn’t until later in my mission when I learned how to love the people I served that I felt happier and saw the blessings of serving a mission.  That important lesson is something that I’ve been trying to understand with my sexual orientation.  I could go through the motions of dating and marrying a woman, but would I really feel happy?  I don’t think so.  And even though I’ve been dating guys for only a couple weeks, I find it hard to understand why straight people can’t empathize with us.  They have desires to date and marry and raise a family, just like a lot of gay people do too.  Maybe because straight people make up the majority of society, they think that being straight is the ‘correct’ sexual orientation.  But regardless, based on how I’ve felt about girls and the experiences of other guys I’ve gone on dates with, I wonder if straight people would do as they say and marry someone of the same gender if that was what God wanted the world to be from the beginning.”
 
 “I think we’re in a position where personal revelation is so important,” Roger said.  “Again, I think that God knows us better than anyone else does.”
 
-Even though I didn’t feel anything romantic from Roger, he seemed chill.  He and I talked for a while, after which I dropped him off at his apartment.
+Even though I didn’t feel anything romantic from Roger, he and I talked for a while, after which I dropped him off at his apartment.
 
 ...
 
 November 21, 2022.  I had been texting Kent about my dates.  Gyuna told me that he probably knew about dating better than she did.  Plus, I didn’t think she wanted to hear every single detail about my dates.  I still wasn’t a fan of texting behind a screen though.  I tried arranging a time I could meet him at the library again.  He said he’d let me know when he’d be available, but he never texted me back.  I was discouraged.
 
-Gyuna invited me to her place in the evening, and we ended up watching _Frozen II_.  I was on the brink of tears the entire movie though.
+Gyuna invited me to her place in the evening, and we watched _Frozen II_.  I was on the brink of tears the entire movie though.
 
-_(November 2022; college junior) “I watched_ Frozen II, _and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch_ Frozen II _sometime.”_
+_(November 11, 2022; college junior) “I watched_ Frozen II, _and it was all right,” Kent said.  “I like the first one more though.  Maybe we could watch_ Frozen II _sometime.”_
 
 “Are you crying?” Gyuna asked.
 
@@ -1117,7 +1117,7 @@ Even though my initial desire was to continue to keep in touch with the guys I�
 
 November 24, 2022.  It was Thanksgiving Day, and Thanksgiving break was much needed.  I was starting to feel burned out from school.
 
-I went to David’s relatives’ place in Vineyard.  Again, I didn’t ever feel like I fit the family dynamic.  Since no one seemed interested in talking to me, I left early to go to hang out with Gyuna and Christian.
+I went to David’s relatives’ place in Vineyard.  Again, I didn’t ever feel like I fit the family dynamic.  Since no one seemed interested in talking to me, I left early to hang out with Gyuna and Christian.
 
 Even though I still hadn’t seen Connor in person, I still wanted to keep in touch.  He seemed like a nice guy; at least I didn’t get any creepy vibes from him.  It had been a few weeks since I last heard from him, so I texted him happy Thanksgiving.  He asked me how I was, and I told him how it was such a roller coaster with dating.
 
@@ -1177,7 +1177,7 @@ I was still skeptical about my feelings though.  I was still trying to get over 
 
 ...
 
-November 30, 2022.  I had a first date tonight with a guy named Trevor.  He and I ate at a restaurant called Saida.  He was from a small town in the middle of Utah and worked at a credit union.  "It's been a great place to work,” he said in the middle of our conversation.  “I wouldn't say that I'd want to work there forever, but I've had positive experiences in the workplace.  When I first met my manager, I told her that I was gay.  She reacted so positively to it.  She's my boss, my second mom, and my therapist.  She's worked there for over 30 years, so I guess she has some of her own experiences.  I guess people can have opinions about a working mom when she had young kids, so she could somewhat understand my situation.  She's really strong in the Church, but she’s been so supportive of me.  I even told her that I was going on a date tonight, and she says she wants to hear all about it tomorrow."
+November 30, 2022.  I had a first date tonight with a guy named Trevor.  He was from a small town in the middle of Utah and worked for a credit union.  "It's been a great place to work,” he said in the middle of our conversation.  “I wouldn't say that I'd want to work there forever, but I've had positive experiences in the workplace.  When I first met my manager, I told her that I was gay.  She reacted so positively to it.  She's my boss, my second mom, and my therapist.  She's worked there for several years, so I guess she has some of her own experiences.  I guess people can have opinions about a working mom when she had young kids, so she could somewhat understand my situation.  She's really strong in the Church, but she’s been so supportive of me.  I even told her that I was going on a date tonight, and she says she wants to hear all about it tomorrow."
 
 I smiled.  “I’ve only come out to my best friend.  It’s been less than a month since I’ve started dating.  I’ve thought a lot about coming out to my family, but it hasn’t felt right.  Have you come out to your family?”
 
@@ -1225,9 +1225,9 @@ December 1, 2022.  “Moshi moshi?” I answered my phone.
 
 "Dang, your social life is getting better, and every other aspect in your life is basically perfect.  And here I am, feeling like my social life is declining and everything else is so crappy."
 
-I guess I was having a better social life, as in, I was getting to know a bunch of people through dating.  "You know, part of me kind of wishes that I could be in a relationship so I know what it's like," I said.
+I guess I was having a better social life, as in, I was getting to know a bunch of people through dating.  "You know, part of me kinda wishes that I could be in a relationship so I know what it's like," I said.
 
-"There are definitely good things about being in a serious relationship.  I've always been in a serious relationship when I date though.  I think it's good that you get to date different people and get to know them, so enjoy it before you get serious.  I know there are some things that are crappy about casual dating, but I kind of wish I got to date around people.  But hey, I'm so proud of you!  I never knew why pride was such a thing in the LGBTQ community, but now I sort of understand."
+"There are definitely good things about being in a serious relationship.  I've always been in a serious relationship when I date though.  I think it's good that you get to date different people and get to know them, so enjoy it before you get serious.  I know there are some things that are crappy about casual dating, but I kinda wished I got to date around people.  But hey, I'm so proud of you!  I never knew why pride was such a thing in the LGBTQ community, but now I sort of understand."
 
 "Really?" I was surprised that she would use that word: "proud."  She was proud of me?
 
@@ -1247,7 +1247,7 @@ It hurt to realize that I trusted him when he said he’d support me and that he
 
 I could have stopped dating after this experience and lived like I wasn’t attracted to guys.  Ironically, my desire to date guys increased.  Even though I didn’t have any conversations with Kent after this experience, I saw that he had brought out a side of me that I never knew I had.
 
-My perspective towards people changed.  I used to wonder why it was worth trying to become friends with people when they’d all become Deaths of Steppingstones.  But through my dating experiences and the feelings that came with them—both romantic and unromantic—I saw the value of getting to know people and making connections.
+My perspective towards people changed.  I used to wonder why it was worth trying to become friends with people when they’d all become Deaths of Steppingstones.  But through my dating experiences and the feelings that came with them—both romantic and unromantic—I saw the value of getting to know people and making connections like I had learned on my mission.
 
 I never fully understood why Adam and Eve were so happy after they partook of the fruit of the tree of knowledge of good and evil.  They could have lived a life without experiencing sorrow, pain, and death.  They could have lived a life where God was always in their presence.  That kind of life sounded amazing.  But I began to understand why Adam and Eve felt joy.  Even though they would experience those emotions of sorrow, pain, and death, <u>there was joy in experiencing mortality and knowing what emotions were.  There was joy in being able to empathize and have compassion for others.</u>  They were excited to live a life of mortality, even if they were deprived of immortality and living in the presence of God.
 
@@ -1257,7 +1257,7 @@ The way I perceived Adam and Eve’s joy and sorrow was the way I felt about the
 
 <u>Maybe my perspective changed partially because I wasn’t sure if exaltation was a realistic goal for me anymore.  My family too would become Deaths of Steppingstones after this life, but that didn’t mean they weren’t worth being in my life anymore.</u>  From the guys I had dated, many of them loved their families, and their family members loved them too, even if being together in the eternities wasn’t realistic.  Plus, several of the guys I’d date in the future would probably become Deaths of Steppingstones, but it didn’t mean that they wouldn’t add value to my life.
 
-In the past, I had worried a lot about my friendship with Gyuna and how close I was to her.  I knew that she and I probably wouldn’t be in each other’s lives anymore after I’d graduate.  I questioned a lot if I needed to take a step back so that when she’d become a Death of a Steppingstone that it wouldn’t hurt both of us as much.  But that worry stopped.  Gyuna was so supportive of me, and she helped me through thick and thin.  And I hoped I was a good friend to her too.
+In the past, I had worried a lot about my friendship with Gyuna and how close I was to her.  I knew that she and I probably wouldn’t be in each other’s lives anymore after I’d graduate.  I questioned a lot if I needed to take a step back so that when she’d become a Death of a Steppingstone that it wouldn’t hurt both of us as much.  But that worry stopped.  Gyuna was so supportive of me, and she helped me through thick and thin.  She definitely added value to my life through memories and conversations. And I hoped I was a good friend to her too.
 
 I honestly couldn’t say that I had met any other guy who had changed me the way Kent did.  I was so excited to see what the future held for me as I continued dating guys.  I knew that I’d go through a roller coaster of emotions, but I’d look back and realize how much joy I had going through those experiences, just like I felt now.
 

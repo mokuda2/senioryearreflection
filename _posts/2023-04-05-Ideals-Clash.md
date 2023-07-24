@@ -102,7 +102,7 @@ I shrugged.  “I guess I won’t know how hard it will be until I tell someone.
 
 “I guess that’s true.  Have you ever thought about coming out to your family or to your friends?”
 
-I actually wasn’t sure.  Coming out to someone wasn’t on my mind that much.  “I guess it kind of depends on if I really want to date guys.  You’re actually the first person I’ve met in person from dating apps.  If I have good experiences from it, then I’ll continue, but if not, then I can just act like I don’t have these feelings at all.”
+I actually wasn’t sure.  Coming out to someone wasn’t on my mind that much.  “I guess it kind of depends on if I really want to date guys.  You’re actually the first person I’ve met in person from dating apps.  If I have good experiences from meeting guys, I’ll continue, but if not, then I can just act like I don’t have these feelings at all.”
 
 “Well, hopefully I don’t make you run away.  I can be a bit crazy sometimes.  But dang!  I can’t believe you haven’t told anyone!  It’s so interesting because at least with dating, I was in your shoes about a year ago.  I had come out to my parents as a teenager, but I still dated girls.  But after coming back from my mission, I sort of had a crisis.  I have lots of friends who are girls, but when I’d date girls, I just didn’t feel anything.  I don’t know how descriptive you want me to be, but I’d try to make out with girls, but I still didn’t feel anything.  Dating guys feels so much different from dating girls.”
 

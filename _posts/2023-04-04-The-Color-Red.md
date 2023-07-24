@@ -57,11 +57,11 @@ I told him my story, which took about half an hour.  He and I didn’t touch our
 
 “Aw!  That’s sad, Michael!” Peter expressed.
 
-_(November 2022; college junior) “Aww, that’s really sad!” Kent exclaimed._
+_(November 8, 2022; college junior) “Aww, that’s really sad!” Kent exclaimed._
 
 _..._
 
-_(November 2022; college junior) “Aww, Michael!  That’s really sad!” Gyuna exclaimed._
+_(November 13, 2022; college junior) “Aww, Michael!  That’s really sad!” Gyuna exclaimed._
 
 Initially, I didn’t realize how miserable living to be single for the rest of my life would be, but the more I thought about it, it definitely was sad.  No wonder people reacted with pity.
 

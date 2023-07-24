@@ -892,7 +892,7 @@ Gyuna laughed.  I was really surprised how surprised Christian was.  I felt like
 
 "I've known since I was really young, before I was a teenager.  But all this time, I've suppressed my feelings and would try to live in self-denial.  Even for the past few years, I thought that these feelings of romance were evil, even for heterosexual couples.  If I were to do something romantic with a guy and it was considered a sin, how could a straight guy doing something romantic with a girl not be a sin?  The emotions themselves appear to be the same.  I used to think that marriage was just a ceremony and that it should've been completely independent of people's feelings.  But I've learned from dating guys that these emotions are good and completely natural.  The advice that Gyuna has given me seems to be relatable for both straight and gay people."
 
-After some discussion, Gyuna said, "Remember that time when you and I were at the library for a really long time during the last week of the semester?  I asked a lot of questions pertaining to exaltation and stuff like that to Christian to see what his thoughts were."
+After some discussion, Gyuna said, "Remember that time when you and I were at the library for a really long time during the last week of the semester?  I asked a lot of questions pertaining to exaltation to Christian to see what his thoughts were."
 
 "We're taught that God loves all His children,” Christian said.  “If He were to create a certain race or sexual orientation or gender that was inferior to another, then God would cease to be God.  He has to have some sort of plan for those in your situation."
 
@@ -932,9 +932,9 @@ I also talked to them about my dates with Sam.  "The thing that I'm scared of is
 
 "Yeah, only you would," Gyuna and Christian said.
 
-“But hey, I did read that part of your reflection that you sent me,” Gyuna said.  “You’re so good at writing!  And you remember everything!”
+“But hey, I did read that part of your reflection that you sent me,” Gyuna said.  “You’re so good at writing!”
 
-“I don’t remember EVERYTHING,” I said.  “But I do feel like this is a way for me to share my story with my family.  I feel like telling my parents first would be the right way to do things, but I feel like they’d tell my whole family.  So I might as well be the one to share my story with everyone.  My family is my audience, so I’m keeping them in mind as I write it.”
+“I do feel like this is a way for me to share my story with my family," I said.  "I feel like telling my parents first would be the right way to do things, but I feel like they’d tell my whole family.  So I might as well be the one to share my story with everyone.  My family is my audience, so I’m keeping them in mind as I write it.”
 
 After about an hour or two of talk, I went back to my apartment and texted Sam about successfully coming out to Christian.  I felt somewhat relieved.  Now I could do things with Sam if Christian were also around and not feel uncomfortable.  Winter semester was going to start in two days, and I hoped that I’d be able to introduce Sam to both of them soon.
 

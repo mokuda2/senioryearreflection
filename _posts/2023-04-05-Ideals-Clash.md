@@ -602,7 +602,7 @@ After I finished eating, I had plans to go to campus since Hyeji wanted to study
 
 “I will!  I’ll see you later!”
 
-Coming out to Gyuna was one of the hardest things I did the past school year.  But a feeling of relief came over me.  I remembered Kent and Chris telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders.  I don't like to think about what the past school year would've been like if I hadn't come out to her.
+Coming out to Gyuna was one of the hardest things I did the past school year.  But a feeling of relief came over me.  I remembered Kent and Chris telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders.  <u>I don't like to think about what the past school year would've been like if I hadn't come out to her.</u>
 
 ## Section 5
 
@@ -823,7 +823,7 @@ That was what I thought.  That evening, I was in the Talmage basement in one of 
 
 “Is heartbreak really something that people know about?”  I was still a bit skeptical considering that I hadn’t ever felt like this in the 23 years of my life.
 
-“Yes!  I’m sure your parents have felt heartbreak.  I’m sure your siblings have felt heartbreak too.  Everyone goes through it.  That’s why so many people make songs about love and heartbreak.  It’s something that everyone can relate to.  Not everyone is going to relate to knowing what it’s like to get a poor grade on an exam.  They’re not going to be like, ‘I made… a B on… my exaaaaaaam!’  No.  That’s not as relatable as love and heartbreak.”
+“Yes!  I’m sure your parents have felt heartbreak.  I’m sure your siblings have felt heartbreak too.  Everyone goes through it.  That’s why so many people make songs about love and heartbreak.  It’s something that everyone can relate to.  Not everyone is going to relate to knowing what it’s like to get a poor grade on an exam.  They’re not gonna be like, ‘I made… a B on… my exaaaaaaam!’  No.  That’s not as relatable as love and heartbreak.”
 
 Gyuna and I talked for a couple hours.  She probably could tell that I still felt absolutely miserable.  “Do you want to get ice cream?” she suggested.  “We could go to Baskin-Robbins.”
 
@@ -859,7 +859,7 @@ After some walking, I thought, “You know what, what if we took some pictures r
 
 “Really?” Gyuna sounded surprised.  “I’m glad you want pictures.  This is quite an eventful moment.  And don’t worry, you WILL get over this heartbreak.  The first one is always really, really tough though.”
 
-So we took some pictures.  And Gyuna took a video of me explaining how heartbroken I felt.  She didn’t send that video to me though.  “I’m going to send it a year from now so that you can see how you felt,” she said.  (She better show me that video in November.)
+So we took some pictures.  And Gyuna took a video of me explaining how heartbroken I felt.  She didn’t send that video to me though.  “I’m gonna send it to you a year from now so that you can see how you felt,” she said.  (She better show me that video in November.)
 
 **_All smiles_**
 
@@ -893,9 +893,9 @@ Kent and I decided to meet at the library to study for about an hour.  I also wa
 
 “Oh yeah, definitely,” Kent answered.  “During my freshman year, one of my roommates was a really touchy person.  And I’m kind of the same way too.  When we’d watch movies, he and I would cuddle on the couch, and I thought it was rather unusual because guys usually aren’t like that.  Near the end of the school year, I came out to him, and he was respectful about it, but he started to date one of the girls within our friend group.  So that was really hard for me.  But now he’s married to her, and I still sometimes keep in contact with him.”
 
-That was interesting.  I never thought that having feelings for a roommate could happen.  I always assumed guys were straight unless they said otherwise.  “How long were you with your boyfriend?” I asked.  “And what would you say is different about being in a relationship?"
+That was interesting.  I never thought that having feelings for a roommate could happen.  I always assumed guys were straight unless they said otherwise.  “How long were you with your ex?” I asked.  “And what would you say is different about being in a relationship?"
 
-"I'd say it's more about commitment.  Like, you don't plan on dating anyone else.  But I dated my boyfriend for only about three or four months.  It didn't really go well.  Our personalities were pretty different as we got to know each other more, and he was pretty political too.  If I told him that I disagreed, he'd get kind of heated.  But I mean, he's still a good guy.  Honestly, I'm still trying to figure out what I want romantically.  I feel like the first few relationships are rough, and they probably won't end up working out.  There's definitely a difference between being friends and being romantically connected with someone.  But I really hope you feel like you can still reach out to me if you have any questions because I know what it was like being in your shoes a year ago.”
+"I'd say it's more about commitment.  Like, you don't plan on dating anyone else.  But I dated my ex for only about three or four months.  It didn't really go well.  Our personalities were pretty different as we got to know each other more, and he was pretty political too.  If I told him that I disagreed, he'd get kinda heated.  But I mean, he's still a good guy.  Honestly, I'm still trying to figure out what I want romantically.  I feel like the first few relationships are rough, and they probably won't end up working out.  There's definitely a difference between being friends and being romantically connected with someone.  But I really hope you feel like you can still reach out to me if you have any questions because I know what it was like being in your shoes a year ago.”
 
 I continued, “What would you say is your type?”
 
@@ -905,7 +905,9 @@ I continued, “What would you say is your type?”
 
 “That little?  You don’t give that many people a chance, huh?  When I first started dating guys, I used to swipe right only on people I thought looked attractive because of my experiences with dating girls.  But I’ve learned that good-looking guys can sometimes be d-bags.  It’s hard to know what people are like judging them based off an online profile.”
 
-Gyuna had said the same thing to me.  Maybe I needed to focus more on people’s bios than their pictures.  Of course, I still didn’t want to date crackheads.  I also told him about my matches.  He seemed to know a lot of people in the gay community.  I guess it was pretty small here.  “Do you know Connor?” I asked.
+Gyuna had said the same thing to me.  Maybe I needed to focus more on people’s bios than their pictures.  Of course, I still didn’t want to date crackheads.
+
+I also told him about my matches.  He seemed to know a lot of people in the gay community.  I guess it was pretty small here.  “Do you know Connor?” I asked.
 
 “Oh yeah, I know Connor!” Kent said.  “He and I were in the same ward a couple years ago.  He’s super cool and nice.  Kind of a nerd too.”
 

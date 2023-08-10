@@ -195,9 +195,9 @@ Sister Atkin asked if Brother Atkin could exchange numbers with me, so he and I 
 
 After some talk, President Eyring invited us all in as Mom and Dad got set apart for their three-year service.
 
-_(August 2019; 2 to 3 months into my mission) I had my two suitcases open in the bedroom as I was kneeling and packing away everything.  I remembered having to pack every single item I had: my clothes, my shoes, my shampoo bottle, everything.  My district leader—Elder Rhoades—was at my apartment, and he helped me pack my suitcases into the car.
+_(August 2019; 2 to 3 months into my mission) I had my two suitcases open in the bedroom as I was kneeling and packing away everything.  I remembered having to pack every single item I had: my clothes, my shoes, my shampoo bottle, everything.  My district leader—Elder Rhoades—was at my apartment, and he helped me pack my suitcases into the car._
 
-The drive to Seattle was the worst.  When I was dropped off, I hugged my trainer—Elder Wingard—as I bawled my eyes out on his shoulder._
+_The drive to Seattle was the worst.  When I was dropped off, I hugged my trainer—Elder Wingard—as I bawled my eyes out on his shoulder._
 
 _Before I knew it, I was on the plane.  I looked at my name tag; I'd be wearing it for less than 24 hours.  My parents left to go to Japan this past week, so I was flying to Tokyo.  I'd have to interrupt my parents' plans, and I felt so bad and embarrassed for having to come home early._
 

@@ -1,0 +1,315 @@
+*Network Ore graph p-Eyak.puc
+
+*vertices 118
+1 'NAXAKTA (1)' triangle
+2 'NNF (2)' ellipse
+3 'NNM (3)' triangle
+4 'NNF (4)' ellipse
+5 'NNF (5)' ellipse
+6 'NNM (6)' triangle
+7 'CHIEF JOE (7)' triangle
+8 'NNF (8)' ellipse
+9 'CHIEF CHARLIE (9)' triangle
+10 'PAULINE (10)' ellipse
+11 'MOLLY (11)' ellipse
+12 'MOLLY (12)' ellipse
+13 'NNF (13)' ellipse
+14 'NNF (14)' ellipse
+15 'NNF (15)' ellipse
+16 'JOHN MacINTYRE (16)' triangle
+17 'EXA*XA*IYU (17)' ellipse
+18 'K*ATTGE* (18)' ellipse
+19 'NNF ESKIMO (19)' ellipse
+20 'NNF ESKIMO (20)' ellipse
+21 'NNM WHITE (21)' triangle
+22 'NNM WHITE (22)' triangle
+23 'STIWUN (23)' triangle
+24 'LUCY (24)' ellipse
+25 'DUNIA (25)' ellipse
+26 'ANNIE (26)' ellipse
+27 'EMMA (27)' ellipse
+28 'TAN.A (28)' triangle
+29 'NNF (29)' ellipse
+30 'NNM (30)' triangle
+31 'NNF (31)' ellipse
+32 'NNM WHITE (32)' triangle
+33 'OLD MAN DUDE (33)' triangle
+34 'WAnTCINUQ (34)' ellipse
+35 'ENACI (35)' triangle
+36 'NNM (36)' triangle
+37 'SEXAQ (37)' triangle
+38 'AnT*AXUL*QMA (38)' ellipse
+39 'NNM (39)' triangle
+40 'NNM (40)' triangle
+41 'NNF (41)' ellipse
+42 'CQEX (42)' triangle
+43 'NNF (43)' ellipse
+44 'NNM (44)' triangle
+45 'GLULUQ (45)' triangle
+46 'SCAR STEVENS (46)' triangle
+47 'MINNIE (47)' ellipse
+48 'MIKE DUVAL (48)' triangle
+49 'PETE (49)' triangle
+50 'PETE (50)' triangle
+51 'QENAQEMA (51)' ellipse
+52 'MALIA (52)' ellipse
+53 'MALIA (53)' ellipse
+54 'SOPHIE (54)' ellipse
+55 'WILLIAM SAITU (55)' triangle
+56 'BILLY (56)' triangle
+57 'MABEL (57)' ellipse
+58 'NNF (58)' ellipse
+59 'ANNIE (59)' ellipse
+60 'GALUSHIA NELSON (60)' triangle
+61 'JOHNNY (61)' triangle
+62 'NNM (62)' triangle
+63 'BILLY DUDE (63)' triangle
+64 'NNF (64)' ellipse
+65 'WILLY DUDE (65)' triangle
+66 'T*E`*n*XTLIX (66)' ellipse
+67 'T*E`*n*XTLIX (67)' ellipse
+68 'ILEANA (68)' ellipse
+69 'XELAIZAQ (69)' triangle
+70 'GUS NELSON (70)' triangle
+71 'MARY (71)' ellipse
+72 'QAMAGI* (72)' ellipse
+73 'NNM (73)' triangle
+74 'OAQAX*IA*YAK* (74)' ellipse
+75 'NIKITA (75)' triangle
+76 'ANNIE (76)' ellipse
+77 'MARY (77)' ellipse
+78 'EVALINE (78)' ellipse
+79 'NNM (79)' triangle
+80 'NNF (80)' ellipse
+81 'NIKOLAI (81)' triangle
+82 'ALFRED (82)' triangle
+83 'ILEANA (83)' ellipse
+84 'NNM ESKIMO (84)' triangle
+85 'PETER SASKI (85)' triangle
+86 'JOHN (86)' triangle
+87 'ROSIE (87)' ellipse
+88 'ALFRED (88)' triangle
+89 'JOHNNY STEVENS (89)' triangle
+90 'NNF ESKIMO (90)' ellipse
+91 'ANNIE (91)' ellipse
+92 'NNF (92)' ellipse
+93 'NNF (93)' ellipse
+94 'WILLIAM (94)' triangle
+95 'DONNY (95)' triangle
+96 'JACK (96)' triangle
+97 'EARL (97)' triangle
+98 'RICHARD (98)' triangle
+99 'KAI (TARAL) (99)' triangle
+100 'LONG JIM (TARAL (100)' triangle
+101 'SHORTY (TLINGIT (101)' triangle
+102 'NNM (1000)' triangle
+103 'NNF (1001)' ellipse
+104 'NNM (1002)' triangle
+105 'NNF (1003)' ellipse
+106 'NNM (1004)' triangle
+107 'NNF (1005)' ellipse
+108 'NNM (1006)' triangle
+109 'NNF (1007)' ellipse
+110 'NNM (1008)' triangle
+111 'NNF (1009)' ellipse
+112 'NNM (1010)' triangle
+113 'NNM ESKIMO (1011)' triangle
+114 'NNM (1112)' triangle
+115 'NNM (1113)' triangle
+116 'NNF (1114)' ellipse
+117 'NNM (1115)' triangle
+118 ' (1116)' triangle
+*arcs
+1 4 1
+1 5 1
+2 4 1
+2 5 1
+3 80 1
+3 66 1
+3 69 1
+3 68 1
+3 67 1
+3 60 1
+3 70 1
+4 80 1
+4 66 1
+4 69 1
+4 68 1
+4 67 1
+4 60 1
+4 70 1
+5 18 1
+5 16 1
+5 15 1
+5 13 1
+5 17 1
+5 12 1
+5 14 1
+6 18 1
+6 16 1
+6 17 1
+7 15 1
+7 13 1
+7 11 1
+7 12 1
+7 14 1
+8 10 1
+8 11 1
+9 10 1
+16 23 1
+18 26 1
+18 25 1
+18 27 1
+18 24 1
+21 26 1
+21 25 1
+21 27 1
+21 24 1
+20 23 1
+29 30 1
+29 31 1
+28 30 1
+28 31 1
+31 65 1
+31 64 1
+34 63 1
+32 65 1
+33 64 1
+33 63 1
+38 58 1
+39 58 1
+36 59 1
+42 43 1
+43 46 1
+43 45 1
+41 43 1
+46 51 1
+46 53 1
+46 52 1
+46 54 1
+46 50 1
+46 49 1
+47 51 1
+47 53 1
+47 52 1
+47 54 1
+47 50 1
+47 49 1
+47 48 1
+44 46 1
+44 45 1
+45 48 1
+55 56 1
+55 57 1
+54 56 1
+54 57 1
+59 62 1
+59 61 1
+58 59 1
+60 62 1
+60 61 1
+70 75 1
+70 77 1
+70 76 1
+71 75 1
+71 77 1
+71 76 1
+65 78 1
+77 78 1
+79 81 1
+79 82 1
+79 83 1
+72 74 1
+73 74 1
+85 88 1
+85 87 1
+85 86 1
+80 81 1
+80 82 1
+80 83 1
+83 88 1
+83 87 1
+83 86 1
+89 92 1
+89 96 1
+89 95 1
+89 98 1
+89 94 1
+89 97 1
+89 93 1
+91 96 1
+91 95 1
+91 98 1
+91 94 1
+91 97 1
+90 92 1
+90 93 1
+102 6 1
+102 3 1
+103 6 1
+103 3 1
+110 72 1
+110 71 1
+111 72 1
+111 71 1
+108 39 1
+108 40 1
+109 39 1
+109 40 1
+106 38 1
+106 37 1
+107 38 1
+107 37 1
+104 35 1
+104 36 1
+104 34 1
+105 35 1
+105 36 1
+105 34 1
+118 116 1
+117 89 1
+116 47 1
+115 47 1
+114 33 1
+113 8 1
+112 7 1
+*edges
+1 2 1
+3 4 1
+6 5 1
+7 5 1
+7 8 1
+9 8 1
+16 20 1
+16 19 1
+21 18 1
+22 18 1
+28 29 1
+33 31 1
+32 31 1
+33 34 1
+39 38 1
+40 38 1
+45 38 1
+36 58 1
+44 43 1
+42 41 1
+46 116 1
+46 47 1
+45 47 1
+55 54 1
+60 59 1
+70 71 1
+65 77 1
+79 80 1
+73 72 1
+84 83 1
+85 83 1
+89 91 1
+89 90 1
+102 103 1
+110 111 1
+108 109 1
+106 107 1
+104 105 1
+115 116 1

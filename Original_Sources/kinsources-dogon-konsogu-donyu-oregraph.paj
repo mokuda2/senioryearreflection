@@ -1,0 +1,996 @@
+*Network Ore graph kinsources-dogon-konsogu-donyu.puc
+
+*vertices 399
+1 'Wanu (1)' triangle
+2 'Ogopema (2)' triangle
+3 'Amagana (3)' triangle
+4 'Badyi (4)' triangle
+5 'Ogopia (5)' triangle
+6 'Amagana (6)' triangle
+7 'Yesa (7)' triangle
+8 'Amperu (8)' triangle
+9 'Napere (9)' triangle
+10 'Amaigre (10)' triangle
+11 'Ansama (11)' triangle
+12 'Nanse (12)' triangle
+13 'F 13 (13)' ellipse
+14 'Dyugo (14)' triangle
+15 'Ogotemelu (15)' triangle
+16 'F 16 (16)' ellipse
+17 'H 17 (17)' triangle
+18 'H 18 (18)' triangle
+19 'H 19 (19)' triangle
+20 'F 20 (20)' ellipse
+21 'F 21 (21)' ellipse
+22 'H 22 (22)' triangle
+23 'H 23 (23)' triangle
+24 'H 24 (24)' triangle
+25 'F 25 (25)' ellipse
+26 'H 26 (26)' triangle
+27 'H 27 (27)' triangle
+28 'H 28 (28)' triangle
+29 'F 29 (29)' ellipse
+30 'F 30 (30)' ellipse
+31 'F 31 (31)' ellipse
+32 'H 32 (32)' triangle
+33 'F 33 (33)' ellipse
+34 'F 34 (34)' ellipse
+35 'F 35 (35)' ellipse
+36 'F 36 (36)' ellipse
+37 'H 37 (37)' triangle
+38 'F 38 (38)' ellipse
+39 'H 39 (39)' triangle
+40 'F 40 (40)' ellipse
+41 'F 41 (41)' ellipse
+42 'H 42 (42)' triangle
+43 'H 43 (43)' triangle
+44 'H 44 (44)' triangle
+45 'H 45 (45)' triangle
+46 'H 46 (46)' triangle
+47 'H 47 (47)' triangle
+48 'F 48 (48)' ellipse
+49 'Angiringo (49)' triangle
+50 'Ankormo (50)' triangle
+51 'Amagedye (51)' triangle
+52 'Anay (52)' triangle
+53 'Andyime (53)' triangle
+54 'Ampindo (54)' triangle
+55 'Amatongono (55)' triangle
+56 'Yene (56)' ellipse
+57 'Sawanu (57)' ellipse
+58 'Amasolu (58)' triangle
+59 'F 59 (59)' ellipse
+60 'H 60 (60)' triangle
+61 'F 61 (61)' ellipse
+62 'H 62 (62)' triangle
+63 'H 63 (63)' triangle
+64 'H 64 (64)' triangle
+65 'H 65 (65)' triangle
+66 'H 66 (66)' triangle
+67 'H 67 (67)' triangle
+68 'H 68 (68)' triangle
+69 'Amayowo (69)' triangle
+70 'H 70 (70)' triangle
+71 'F 71 (71)' ellipse
+72 'Sambi (72)' ellipse
+73 'F 73 (73)' ellipse
+74 'H 74 (74)' triangle
+75 'H 75 (75)' triangle
+76 'H 76 (76)' triangle
+77 'H 77 (77)' triangle
+78 'H 78 (78)' triangle
+79 'H 79 (79)' triangle
+80 'F 80 (80)' ellipse
+81 'F 81 (81)' ellipse
+82 'F 82 (82)' ellipse
+83 'F 83 (83)' ellipse
+84 'H 84 (84)' triangle
+85 'H 85 (85)' triangle
+86 'H 86 (86)' triangle
+87 'H 87 (87)' triangle
+88 'F 88 (88)' ellipse
+89 'H 89 (89)' triangle
+90 'H 90 (90)' triangle
+91 'Bangala (91)' ellipse
+92 'F 92 (92)' ellipse
+93 'F 93 (93)' ellipse
+94 'H 94 (94)' triangle
+95 'Amadinge (95)' triangle
+96 'Pulo-Ire (96)' triangle
+97 'Amabara (97)' triangle
+98 'Nantuin (98)' ellipse
+99 'Mendyi (99)' ellipse
+100 'Yesa (100)' triangle
+101 'Yaigre (101)' ellipse
+102 'Ogo (102)' triangle
+103 'Yene (103)' ellipse
+104 'Kunindyu (104)' triangle
+105 'F 105 (105)' ellipse
+106 'Ambogu (106)' triangle
+107 'H 107 (107)' triangle
+108 'Andogi (108)' triangle
+109 'Barupe (109)' ellipse
+110 'Amasolu (110)' triangle
+111 'Yakundye (111)' ellipse
+112 'Amakadyu (112)' triangle
+113 'Yerengo (113)' ellipse
+114 'Samako (114)' ellipse
+115 'F 115 (115)' ellipse
+116 'F 116 (116)' ellipse
+117 'H 118 (118)' triangle
+118 'F 119 (119)' ellipse
+119 'H 120 (120)' triangle
+120 'F 121 (121)' ellipse
+121 'F 122 (122)' ellipse
+122 'Badyi (123)' triangle
+123 'F 124 (124)' ellipse
+124 'Sodyogu (125)' triangle
+125 'F 126 (126)' ellipse
+126 'F 127 (127)' ellipse
+127 'H 128 (128)' triangle
+128 'F 129 (129)' ellipse
+129 'F 130 (130)' ellipse
+130 'H 131 (131)' triangle
+131 'H 132 (132)' triangle
+132 'H 133 (133)' triangle
+133 'H 134 (134)' triangle
+134 'Pile (135)' triangle
+135 'H 136 (136)' triangle
+136 'F 137 (137)' ellipse
+137 'F 138 (138)' ellipse
+138 'H 139 (139)' triangle
+139 'H 140 (140)' triangle
+140 'H 141 (141)' triangle
+141 'Amoi (142)' triangle
+142 'Ambogo (143)' triangle
+143 'Nansin (144)' triangle
+144 'Antanu (145)' triangle
+145 'Yesa (146)' triangle
+146 'Yaigre (147)' ellipse
+147 'Badyi (148)' triangle
+148 'Yogura (149)' triangle
+149 'F 150 (150)' ellipse
+150 'H 151 (151)' triangle
+151 'F 152 (152)' ellipse
+152 'Ambugo (153)' triangle
+153 'Napere (154)' triangle
+154 'Yasue (155)' ellipse
+155 'Nanindyu (156)' triangle
+156 'Ogopin (157)' triangle
+157 'Merewagu (158)' triangle
+158 'F 159 (159)' ellipse
+159 'F 160 (160)' ellipse
+160 'H 161 (161)' triangle
+161 'H 162 (162)' triangle
+162 'H 163 (163)' triangle
+163 'F 164 (164)' ellipse
+164 'H 165 (165)' triangle
+165 'F 166 (166)' ellipse
+166 'F 167 (167)' ellipse
+167 'H 168 (168)' triangle
+168 'F 169 (169)' ellipse
+169 'F 170 (170)' ellipse
+170 'F 171 (171)' ellipse
+171 'H 172 (172)' triangle
+172 'H 173 (173)' triangle
+173 'F 174 (174)' ellipse
+174 'H 175 (175)' triangle
+175 'F 176 (176)' ellipse
+176 'H 177 (177)' triangle
+177 'H 178 (178)' triangle
+178 'F 179 (179)' ellipse
+179 'H 180 (180)' triangle
+180 'Merepin (181)' ellipse
+181 'F 182 (182)' ellipse
+182 'F 183 (183)' ellipse
+183 'H 184 (184)' triangle
+184 'H 185 (185)' triangle
+185 'Ande (186)' triangle
+186 'Ankerme (187)' triangle
+187 'Amoi (188)' triangle
+188 'Amakadyu (189)' triangle
+189 'Andie (190)' triangle
+190 'Nanindyu (191)' triangle
+191 'Ogo (192)' triangle
+192 'Meba (193)' triangle
+193 'Ansama (194)' triangle
+194 'Amalgre (195)' triangle
+195 'Yatingma (196)' ellipse
+196 'Amborko (197)' triangle
+197 'Yapile (198)' ellipse
+198 'Indyedu (199)' triangle
+199 'F 200 (200)' ellipse
+200 'H 201 (201)' triangle
+201 'Nantuin (202)' ellipse
+202 'Amakene (203)' triangle
+203 'Kodinge (204)' triangle
+204 'Sodyugo (205)' ellipse
+205 'H 206 (206)' triangle
+206 'F 207 (207)' ellipse
+207 'F 208 (208)' ellipse
+208 'Andogolu (209)' triangle
+209 'F 210 (210)' ellipse
+210 'Dyongo (211)' triangle
+211 'Yatime (212)' ellipse
+212 'Amakadyu (213)' triangle
+213 'Ampindo (214)' triangle
+214 'Niene (215)' ellipse
+215 'Ampurolu (216)' triangle
+216 'F 217 (217)' ellipse
+217 'Badyi (218)' triangle
+218 'H 219 (219)' triangle
+219 'F 220 (220)' ellipse
+220 'H 221 (221)' triangle
+221 'H 222 (222)' triangle
+222 'F 223 (223)' ellipse
+223 'F 224 (224)' ellipse
+224 'F 225 (225)' ellipse
+225 'H 226 (226)' triangle
+226 'H 228 (228)' triangle
+227 'F 229 (229)' ellipse
+228 'H 230 (230)' triangle
+229 'F 231 (231)' ellipse
+230 'H 232 (232)' triangle
+231 'H 233 (233)' triangle
+232 'F 234 (234)' ellipse
+233 'H 235 (235)' triangle
+234 'H 236 (236)' triangle
+235 'H 237 (237)' triangle
+236 'H 238 (238)' triangle
+237 'H 240 (240)' triangle
+238 'F 241 (241)' ellipse
+239 'F 242 (242)' ellipse
+240 'H 243 (243)' triangle
+241 'F 244 (244)' ellipse
+242 'F 245 (245)' ellipse
+243 'F 246 (246)' ellipse
+244 'H 247 (247)' triangle
+245 'F 248 (248)' ellipse
+246 'F 249 (249)' ellipse
+247 'H 250 (250)' triangle
+248 'H 251 (251)' triangle
+249 'F 252 (252)' ellipse
+250 'F 253 (253)' ellipse
+251 'H 254 (254)' triangle
+252 'F 255 (255)' ellipse
+253 'F 256 (256)' ellipse
+254 'F 257 (257)' ellipse
+255 'F 258 (258)' ellipse
+256 'F 259 (259)' ellipse
+257 'H 260 (260)' triangle
+258 'H 261 (261)' triangle
+259 'H 262 (262)' triangle
+260 'H 263 (263)' triangle
+261 'H 264 (264)' triangle
+262 'F 265 (265)' ellipse
+263 'H 266 (266)' triangle
+264 'H 267 (267)' triangle
+265 'H 268 (268)' triangle
+266 'H 269 (269)' triangle
+267 'H 270 (270)' triangle
+268 'H 271 (271)' triangle
+269 'H 272 (272)' triangle
+270 'H 273 (273)' triangle
+271 'Ansama (274)' triangle
+272 'Amadomon (275)' triangle
+273 'Ankunyo (276)' triangle
+274 'Ana (277)' triangle
+275 'Amadime (278)' triangle
+276 'Anangale (279)' triangle
+277 'Badye (280)' triangle
+278 'Antime (281)' triangle
+279 'Ogotemeli (282)' triangle
+280 'Nansin (283)' triangle
+281 'Amasogo (284)' triangle
+282 'Ambere (285)' triangle
+283 'H 286 (286)' triangle
+284 'F 287 (287)' ellipse
+285 'Paton (288)' triangle
+286 'Domon (289)' triangle
+287 'Ankonyo (290)' triangle
+288 'Ogere (291)' triangle
+289 'Ogo-i (292)' triangle
+290 'Yatime (293)' ellipse
+291 'Medyugo (294)' triangle
+292 'Amagara (295)' triangle
+293 'Nanidyu (296)' triangle
+294 'Amatege (297)' triangle
+295 'Sege (298)' ellipse
+296 'F 299 (299)' ellipse
+297 'H 300 (300)' triangle
+298 'Dinge (301)' ellipse
+299 'Angime (302)' triangle
+300 'Ankormo (303)' triangle
+301 'Yendi (304)' ellipse
+302 'Kasere (305)' triangle
+303 'F 306 (306)' ellipse
+304 'H 307 (307)' triangle
+305 'F 308 (308)' ellipse
+306 'H 309 (309)' triangle
+307 'F 310 (310)' ellipse
+308 'F 311 (311)' ellipse
+309 'H 312 (312)' triangle
+310 'H 313 (313)' triangle
+311 'H 314 (314)' triangle
+312 'F 315 (315)' ellipse
+313 'Anguno (316)' triangle
+314 'H 317 (317)' triangle
+315 'H 318 (318)' triangle
+316 'F 319 (319)' ellipse
+317 'H 320 (320)' triangle
+318 'F 321 (321)' ellipse
+319 'H 322 (322)' triangle
+320 'F 323 (323)' ellipse
+321 'H 324 (324)' triangle
+322 'H 325 (325)' triangle
+323 'F 326 (326)' ellipse
+324 'H 327 (327)' triangle
+325 'H 328 (328)' triangle
+326 'H 329 (329)' triangle
+327 'H 330 (330)' triangle
+328 'H 331 (331)' triangle
+329 'F 332 (332)' ellipse
+330 'F 333 (333)' ellipse
+331 'H 334 (334)' triangle
+332 'F 335 (335)' ellipse
+333 'H 336 (336)' triangle
+334 'F 337 (337)' ellipse
+335 'F 338 (338)' ellipse
+336 'H 339 (339)' triangle
+337 'F 340 (340)' ellipse
+338 'H 341 (341)' triangle
+339 'F 342 (342)' ellipse
+340 'F 343 (343)' ellipse
+341 'F 344 (344)' ellipse
+342 'F 345 (345)' ellipse
+343 'H 346 (346)' triangle
+344 'H 347 (347)' triangle
+345 'F 348 (348)' ellipse
+346 'H 349 (349)' triangle
+347 'H 350 (350)' triangle
+348 'Badyi (351)' triangle
+349 'Nantuin (352)' ellipse
+350 'H 353 (353)' triangle
+351 'H 354 (354)' triangle
+352 'H 355 (355)' triangle
+353 'H 356 (356)' triangle
+354 'F 357 (357)' ellipse
+355 'F 358 (358)' ellipse
+356 'F 359 (359)' ellipse
+357 'F 360 (360)' ellipse
+358 'H 361 (361)' triangle
+359 'F 362 (362)' ellipse
+360 'H 363 (363)' triangle
+361 'F 364 (364)' ellipse
+362 'H 365 (365)' triangle
+363 'H 366 (366)' triangle
+364 'H 367 (367)' triangle
+365 'H 368 (368)' triangle
+366 'H 369 (369)' triangle
+367 'H 370 (370)' triangle
+368 'H 371 (371)' triangle
+369 'H 372 (372)' triangle
+370 'H 373 (373)' triangle
+371 'F 374 (374)' ellipse
+372 'H 375 (375)' triangle
+373 'H 376 (376)' triangle
+374 'F 377 (377)' ellipse
+375 'H 378 (378)' triangle
+376 'H 379 (379)' triangle
+377 'F 380 (380)' ellipse
+378 'F 381 (381)' ellipse
+379 'F 382 (382)' ellipse
+380 'Amagara (383)' triangle
+381 'F 384 (384)' ellipse
+382 'F 385 (385)' ellipse
+383 'H 386 (386)' triangle
+384 'H 387 (387)' triangle
+385 'H 388 (388)' triangle
+386 'F 389 (389)' ellipse
+387 'H 390 (390)' triangle
+388 'F 391 (391)' ellipse
+389 'H 392 (392)' triangle
+390 'H 393 (393)' triangle
+391 'H 394 (394)' triangle
+392 'F 395 (395)' ellipse
+393 'F 396 (396)' ellipse
+394 'H 397 (397)' triangle
+395 'H 398 (398)' triangle
+396 'H 399 (399)' triangle
+397 'H 400 (400)' triangle
+398 'H 401 (401)' triangle
+399 'F 402 (402)' ellipse
+*arcs
+2 3 1
+3 6 1
+3 10 1
+3 4 1
+3 9 1
+3 7 1
+3 8 1
+3 5 1
+7 11 1
+8 12 1
+10 14 1
+10 15 1
+11 21 1
+11 20 1
+11 18 1
+11 19 1
+11 17 1
+12 24 1
+12 22 1
+12 23 1
+13 32 1
+13 26 1
+13 27 1
+13 33 1
+13 28 1
+13 31 1
+13 30 1
+14 32 1
+14 26 1
+14 27 1
+14 33 1
+14 28 1
+14 31 1
+14 30 1
+15 37 1
+15 34 1
+15 35 1
+15 36 1
+17 40 1
+17 39 1
+17 42 1
+17 44 1
+17 43 1
+17 38 1
+17 41 1
+16 40 1
+16 39 1
+16 42 1
+16 44 1
+16 43 1
+16 38 1
+16 41 1
+18 46 1
+18 45 1
+20 260 1
+25 47 1
+25 48 1
+26 47 1
+26 48 1
+51 53 1
+51 55 1
+51 54 1
+50 51 1
+50 52 1
+55 69 1
+55 67 1
+55 72 1
+55 71 1
+55 68 1
+55 70 1
+54 63 1
+54 66 1
+54 65 1
+54 64 1
+53 62 1
+53 60 1
+52 58 1
+52 57 1
+59 83 1
+59 80 1
+59 81 1
+59 79 1
+59 82 1
+58 78 1
+58 76 1
+58 74 1
+58 77 1
+58 75 1
+56 69 1
+56 67 1
+56 72 1
+56 71 1
+56 68 1
+56 70 1
+60 83 1
+60 80 1
+60 81 1
+60 79 1
+60 82 1
+69 89 1
+71 241 1
+71 238 1
+71 240 1
+71 239 1
+71 242 1
+67 87 1
+67 84 1
+67 88 1
+67 85 1
+67 86 1
+73 91 1
+73 92 1
+73 93 1
+74 91 1
+74 92 1
+74 90 1
+74 93 1
+91 252 1
+91 253 1
+91 251 1
+90 94 1
+102 114 1
+102 115 1
+102 116 1
+103 114 1
+103 115 1
+103 116 1
+100 107 1
+100 112 1
+100 106 1
+100 108 1
+100 110 1
+101 112 1
+98 107 1
+98 106 1
+99 108 1
+99 110 1
+96 97 1
+97 100 1
+97 104 1
+97 102 1
+110 127 1
+110 125 1
+110 126 1
+111 131 1
+111 130 1
+111 129 1
+108 122 1
+108 124 1
+109 127 1
+109 125 1
+109 126 1
+106 117 1
+106 118 1
+106 119 1
+106 121 1
+105 117 1
+105 118 1
+105 119 1
+105 121 1
+119 135 1
+114 224 1
+113 132 1
+113 134 1
+113 133 1
+112 131 1
+112 130 1
+112 132 1
+112 134 1
+112 129 1
+112 133 1
+125 257 1
+125 259 1
+125 256 1
+125 258 1
+123 138 1
+123 136 1
+123 139 1
+123 261 1
+123 262 1
+123 140 1
+123 137 1
+122 138 1
+122 136 1
+122 139 1
+122 140 1
+122 137 1
+120 135 1
+143 145 1
+142 143 1
+142 144 1
+152 170 1
+152 169 1
+152 171 1
+157 172 1
+157 174 1
+157 176 1
+157 177 1
+158 172 1
+158 174 1
+158 176 1
+158 177 1
+159 181 1
+159 179 1
+159 180 1
+159 182 1
+144 148 1
+144 147 1
+145 152 1
+146 156 1
+146 154 1
+146 153 1
+146 157 1
+146 155 1
+147 156 1
+147 154 1
+147 153 1
+147 157 1
+147 155 1
+148 161 1
+148 160 1
+149 166 1
+149 165 1
+149 163 1
+149 162 1
+149 167 1
+149 164 1
+149 168 1
+150 166 1
+150 165 1
+150 163 1
+150 162 1
+150 167 1
+150 164 1
+150 168 1
+151 170 1
+151 169 1
+151 171 1
+160 181 1
+160 179 1
+160 180 1
+160 182 1
+186 187 1
+187 189 1
+187 188 1
+191 196 1
+188 191 1
+188 190 1
+188 192 1
+189 193 1
+189 194 1
+178 184 1
+178 183 1
+179 184 1
+179 183 1
+205 228 1
+205 229 1
+205 231 1
+205 226 1
+205 230 1
+204 228 1
+204 226 1
+207 234 1
+207 233 1
+206 229 1
+206 231 1
+206 230 1
+201 223 1
+201 221 1
+200 223 1
+200 221 1
+203 225 1
+202 224 1
+197 217 1
+196 215 1
+199 218 1
+199 220 1
+199 59 1
+198 218 1
+198 220 1
+198 59 1
+198 217 1
+193 205 1
+193 203 1
+192 198 1
+192 200 1
+192 202 1
+195 212 1
+195 213 1
+195 210 1
+195 208 1
+194 212 1
+194 213 1
+194 210 1
+194 208 1
+221 248 1
+221 250 1
+221 249 1
+222 248 1
+222 250 1
+222 249 1
+223 390 1
+223 393 1
+223 388 1
+223 391 1
+223 392 1
+223 389 1
+216 246 1
+217 246 1
+218 247 1
+219 247 1
+213 241 1
+213 238 1
+213 240 1
+213 239 1
+213 242 1
+214 244 1
+215 244 1
+208 234 1
+208 233 1
+209 236 1
+209 237 1
+209 235 1
+210 236 1
+210 237 1
+210 235 1
+239 398 1
+238 385 1
+238 383 1
+238 384 1
+238 386 1
+238 387 1
+236 260 1
+236 261 1
+236 262 1
+235 257 1
+235 259 1
+235 256 1
+235 258 1
+233 254 1
+233 255 1
+232 254 1
+232 255 1
+226 252 1
+226 253 1
+226 251 1
+224 354 1
+224 353 1
+224 355 1
+244 263 1
+244 269 1
+244 266 1
+244 265 1
+244 268 1
+244 267 1
+244 264 1
+244 270 1
+245 269 1
+245 266 1
+245 268 1
+245 267 1
+245 270 1
+243 263 1
+243 265 1
+243 264 1
+275 287 1
+275 285 1
+275 286 1
+273 282 1
+273 280 1
+273 284 1
+273 283 1
+273 281 1
+272 278 1
+272 279 1
+272 277 1
+279 300 1
+278 291 1
+278 297 1
+278 292 1
+278 299 1
+278 294 1
+278 209 1
+277 151 1
+277 288 1
+277 289 1
+283 321 1
+283 319 1
+283 317 1
+282 313 1
+282 315 1
+282 314 1
+281 309 1
+281 310 1
+281 311 1
+281 243 1
+280 304 1
+280 302 1
+280 306 1
+287 327 1
+287 326 1
+285 322 1
+285 324 1
+285 325 1
+305 358 1
+305 357 1
+305 356 1
+304 354 1
+304 353 1
+304 350 1
+304 351 1
+304 352 1
+304 348 1
+304 355 1
+306 358 1
+306 357 1
+306 356 1
+309 173 1
+309 360 1
+309 364 1
+309 363 1
+309 362 1
+308 173 1
+308 360 1
+308 364 1
+308 363 1
+308 362 1
+311 366 1
+311 365 1
+313 368 1
+313 369 1
+313 227 1
+313 367 1
+312 368 1
+312 369 1
+312 227 1
+312 367 1
+317 372 1
+317 371 1
+317 373 1
+317 370 1
+316 372 1
+316 371 1
+316 373 1
+316 370 1
+289 329 1
+289 328 1
+290 335 1
+290 333 1
+290 334 1
+290 331 1
+291 335 1
+291 333 1
+291 334 1
+291 331 1
+294 336 1
+294 399 1
+294 338 1
+294 337 1
+295 336 1
+295 399 1
+295 338 1
+295 337 1
+297 340 1
+297 339 1
+297 341 1
+297 342 1
+298 340 1
+298 339 1
+298 341 1
+298 342 1
+299 344 1
+299 345 1
+299 343 1
+300 346 1
+300 347 1
+301 346 1
+301 347 1
+303 350 1
+303 351 1
+303 352 1
+303 348 1
+336 390 1
+336 393 1
+336 388 1
+336 391 1
+336 392 1
+336 389 1
+350 394 1
+349 394 1
+324 374 1
+324 375 1
+323 374 1
+323 375 1
+332 381 1
+332 382 1
+332 379 1
+332 380 1
+333 385 1
+333 383 1
+333 384 1
+333 386 1
+333 387 1
+330 376 1
+330 378 1
+330 377 1
+331 381 1
+331 376 1
+331 378 1
+331 382 1
+331 379 1
+331 377 1
+331 380 1
+359 395 1
+359 396 1
+360 395 1
+360 397 1
+360 396 1
+363 398 1
+*edges
+14 13 1
+17 16 1
+236 20 1
+26 25 1
+28 29 1
+55 56 1
+60 59 1
+62 61 1
+213 71 1
+74 73 1
+226 91 1
+102 103 1
+100 101 1
+100 98 1
+100 99 1
+112 111 1
+110 109 1
+106 105 1
+119 120 1
+202 114 1
+112 113 1
+127 128 1
+235 125 1
+236 123 1
+122 123 1
+157 158 1
+160 159 1
+147 146 1
+150 149 1
+152 151 1
+176 175 1
+174 173 1
+179 178 1
+205 206 1
+205 204 1
+208 207 1
+200 201 1
+198 197 1
+198 199 1
+194 195 1
+221 222 1
+336 223 1
+217 216 1
+218 219 1
+215 214 1
+210 209 1
+212 211 1
+363 239 1
+333 238 1
+233 232 1
+226 227 1
+304 224 1
+244 245 1
+244 243 1
+306 305 1
+306 307 1
+309 308 1
+313 312 1
+317 316 1
+319 318 1
+291 290 1
+294 295 1
+297 296 1
+297 298 1
+300 301 1
+304 303 1
+350 349 1
+324 323 1
+321 320 1
+331 330 1
+331 332 1
+360 359 1
+360 361 1

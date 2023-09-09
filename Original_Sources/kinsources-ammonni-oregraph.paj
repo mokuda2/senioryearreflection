@@ -1,0 +1,8473 @@
+*Network Ore graph ammonni.puc
+
+*vertices 3014
+1 'H 1 (1)' triangle
+2 'F 2 (2)' ellipse
+3 'H 3 (3)' triangle
+4 'F 4 (4)' ellipse
+5 'F 5 (5)' ellipse
+6 'H 6 (6)' triangle
+7 'F 7 (7)' ellipse
+8 'F 8 (8)' ellipse
+9 'F 9 (9)' ellipse
+10 'F 10 (10)' ellipse
+11 'F 11 (11)' ellipse
+12 'H 12 (12)' triangle
+13 'F 13 (13)' ellipse
+14 'H 14 (14)' triangle
+15 'F 15 (15)' ellipse
+16 'H 16 (16)' triangle
+17 'F 17 (17)' ellipse
+18 'H 18 (18)' triangle
+19 'F 19 (19)' ellipse
+20 'F 20 (20)' ellipse
+21 'F 21 (21)' ellipse
+22 'F 22 (22)' ellipse
+23 'H 23 (23)' triangle
+24 'F 24 (24)' ellipse
+25 'H 25 (25)' triangle
+26 'F 26 (26)' ellipse
+27 'H 27 (27)' triangle
+28 'H 28 (28)' triangle
+29 'H 29 (29)' triangle
+30 'F 30 (30)' ellipse
+31 'F 31 (31)' ellipse
+32 'F 32 (32)' ellipse
+33 'F 33 (33)' ellipse
+34 'F 34 (34)' ellipse
+35 'F 35 (35)' ellipse
+36 'F 36 (36)' ellipse
+37 'F 37 (37)' ellipse
+38 'F 38 (38)' ellipse
+39 'F 39 (39)' ellipse
+40 'F 40 (40)' ellipse
+41 'H 41 (41)' triangle
+42 'H 42 (42)' triangle
+43 'H 43 (43)' triangle
+44 'F 44 (44)' ellipse
+45 'F 45 (45)' ellipse
+46 'F 46 (46)' ellipse
+47 'F 47 (47)' ellipse
+48 'H 48 (48)' triangle
+49 'H 49 (49)' triangle
+50 'F 50 (50)' ellipse
+51 'F 51 (51)' ellipse
+52 'F 52 (52)' ellipse
+53 'H 53 (53)' triangle
+54 'F 54 (54)' ellipse
+55 'H 55 (55)' triangle
+56 'F 56 (56)' ellipse
+57 'H 57 (57)' triangle
+58 'H 58 (58)' triangle
+59 'F 59 (59)' ellipse
+60 'F 60 (60)' ellipse
+61 'H 61 (61)' triangle
+62 'F 62 (62)' ellipse
+63 'F 63 (63)' ellipse
+64 'H 64 (64)' triangle
+65 'F 65 (65)' ellipse
+66 'H 66 (66)' triangle
+67 'F 67 (67)' ellipse
+68 'F 68 (68)' ellipse
+69 'H 69 (69)' triangle
+70 'F 70 (70)' ellipse
+71 'F 71 (71)' ellipse
+72 'H 72 (72)' triangle
+73 'H 73 (73)' triangle
+74 'H 74 (74)' triangle
+75 'F 75 (75)' ellipse
+76 'F 76 (76)' ellipse
+77 'F 77 (77)' ellipse
+78 'F 78 (78)' ellipse
+79 'H 79 (79)' triangle
+80 'H 80 (80)' triangle
+81 'F 81 (81)' ellipse
+82 'H 82 (82)' triangle
+83 'F 83 (83)' ellipse
+84 'F 84 (84)' ellipse
+85 'F 85 (85)' ellipse
+86 'H 86 (86)' triangle
+87 'F 87 (87)' ellipse
+88 'H 88 (88)' triangle
+89 'F 89 (89)' ellipse
+90 'H 90 (90)' triangle
+91 'H 91 (91)' triangle
+92 'F 92 (92)' ellipse
+93 'F 93 (93)' ellipse
+94 'H 94 (94)' triangle
+95 'F 95 (95)' ellipse
+96 'F 96 (96)' ellipse
+97 'H 97 (97)' triangle
+98 'F 98 (98)' ellipse
+99 'H 99 (99)' triangle
+100 'F 100 (100)' ellipse
+101 'F 101 (101)' ellipse
+102 'F 102 (102)' ellipse
+103 'F 103 (103)' ellipse
+104 'H 104 (104)' triangle
+105 'F 105 (105)' ellipse
+106 'F 106 (106)' ellipse
+107 'F 107 (107)' ellipse
+108 'F 108 (108)' ellipse
+109 'F 109 (109)' ellipse
+110 'H 110 (110)' triangle
+111 'F 111 (111)' ellipse
+112 'H 112 (112)' triangle
+113 'H 113 (113)' triangle
+114 'H 114 (114)' triangle
+115 'F 115 (115)' ellipse
+116 'H 116 (116)' triangle
+117 'F 117 (117)' ellipse
+118 'F 118 (118)' ellipse
+119 'F 119 (119)' ellipse
+120 'H 120 (120)' triangle
+121 'F 121 (121)' ellipse
+122 'F 122 (122)' ellipse
+123 'H 123 (123)' triangle
+124 'F 124 (124)' ellipse
+125 'F 125 (125)' ellipse
+126 'H 126 (126)' triangle
+127 'F 127 (127)' ellipse
+128 'H 128 (128)' triangle
+129 'F 129 (129)' ellipse
+130 'F 130 (130)' ellipse
+131 'H 131 (131)' triangle
+132 'F 132 (132)' ellipse
+133 'F 133 (133)' ellipse
+134 'H 134 (134)' triangle
+135 'F 135 (135)' ellipse
+136 'H 136 (136)' triangle
+137 'F 137 (137)' ellipse
+138 'H 138 (138)' triangle
+139 'H 139 (139)' triangle
+140 'F 140 (140)' ellipse
+141 'H 141 (141)' triangle
+142 'H 142 (142)' triangle
+143 'H 143 (143)' triangle
+144 'F 144 (144)' ellipse
+145 'F 145 (145)' ellipse
+146 'H 146 (146)' triangle
+147 'F 147 (147)' ellipse
+148 'H 148 (148)' triangle
+149 'H 149 (149)' triangle
+150 'F 150 (150)' ellipse
+151 'H 151 (151)' triangle
+152 'H 152 (152)' triangle
+153 'F 153 (153)' ellipse
+154 'F 154 (154)' ellipse
+155 'H 155 (155)' triangle
+156 'F 156 (156)' ellipse
+157 'H 157 (157)' triangle
+158 'F 158 (158)' ellipse
+159 'F 159 (159)' ellipse
+160 'F 160 (160)' ellipse
+161 'H 161 (161)' triangle
+162 'F 162 (162)' ellipse
+163 'H 163 (163)' triangle
+164 'F 164 (164)' ellipse
+165 'H 165 (165)' triangle
+166 'F 166 (166)' ellipse
+167 'F 167 (167)' ellipse
+168 'F 168 (168)' ellipse
+169 'H 169 (169)' triangle
+170 'F 170 (170)' ellipse
+171 'F 171 (171)' ellipse
+172 'F 172 (172)' ellipse
+173 'H 173 (173)' triangle
+174 'H 174 (174)' triangle
+175 'H 175 (175)' triangle
+176 'H 176 (176)' triangle
+177 'F 177 (177)' ellipse
+178 'H 178 (178)' triangle
+179 'F 179 (179)' ellipse
+180 'F 180 (180)' ellipse
+181 'F 181 (181)' ellipse
+182 'F 182 (182)' ellipse
+183 'H 183 (183)' triangle
+184 'F 184 (184)' ellipse
+185 'H 185 (185)' triangle
+186 'F 186 (186)' ellipse
+187 'H 187 (187)' triangle
+188 'H 188 (188)' triangle
+189 'F 189 (189)' ellipse
+190 'H 190 (190)' triangle
+191 'F 191 (191)' ellipse
+192 'H 192 (192)' triangle
+193 'H 193 (193)' triangle
+194 'F 194 (194)' ellipse
+195 'F 195 (195)' ellipse
+196 'H 196 (196)' triangle
+197 'H 197 (197)' triangle
+198 'H 198 (198)' triangle
+199 'H 199 (199)' triangle
+200 'H 200 (200)' triangle
+201 'H 201 (201)' triangle
+202 'F 202 (202)' ellipse
+203 'H 203 (203)' triangle
+204 'H 204 (204)' triangle
+205 'F 205 (205)' ellipse
+206 'F 206 (206)' ellipse
+207 'F 207 (207)' ellipse
+208 'F 208 (208)' ellipse
+209 'F 209 (209)' ellipse
+210 'F 210 (210)' ellipse
+211 'F 211 (211)' ellipse
+212 'F 212 (212)' ellipse
+213 'F 213 (213)' ellipse
+214 'H 214 (214)' triangle
+215 'H 215 (215)' triangle
+216 'H 216 (216)' triangle
+217 'F 217 (217)' ellipse
+218 'H 218 (218)' triangle
+219 'H 219 (219)' triangle
+220 'F 220 (220)' ellipse
+221 'H 221 (221)' triangle
+222 'F 222 (222)' ellipse
+223 'H 223 (223)' triangle
+224 'H 224 (224)' triangle
+225 'F 225 (225)' ellipse
+226 'H 226 (226)' triangle
+227 'F 227 (227)' ellipse
+228 'H 228 (228)' triangle
+229 'F 229 (229)' ellipse
+230 'H 230 (230)' triangle
+231 'F 231 (231)' ellipse
+232 'F 232 (232)' ellipse
+233 'H 233 (233)' triangle
+234 'H 234 (234)' triangle
+235 'F 235 (235)' ellipse
+236 'H 236 (236)' triangle
+237 'F 237 (237)' ellipse
+238 'F 238 (238)' ellipse
+239 'H 239 (239)' triangle
+240 'F 240 (240)' ellipse
+241 'F 241 (241)' ellipse
+242 'F 242 (242)' ellipse
+243 'H 243 (243)' triangle
+244 'F 244 (244)' ellipse
+245 'F 245 (245)' ellipse
+246 'H 246 (246)' triangle
+247 'H 247 (247)' triangle
+248 'F 248 (248)' ellipse
+249 'H 249 (249)' triangle
+250 'F 250 (250)' ellipse
+251 'H 251 (251)' triangle
+252 'H 252 (252)' triangle
+253 'F 253 (253)' ellipse
+254 'F 254 (254)' ellipse
+255 'F 255 (255)' ellipse
+256 'H 256 (256)' triangle
+257 'H 257 (257)' triangle
+258 'H 258 (258)' triangle
+259 'F 259 (259)' ellipse
+260 'H 260 (260)' triangle
+261 'H 261 (261)' triangle
+262 'F 262 (262)' ellipse
+263 'F 263 (263)' ellipse
+264 'H 264 (264)' triangle
+265 'H 265 (265)' triangle
+266 'F 266 (266)' ellipse
+267 'H 267 (267)' triangle
+268 'H 268 (268)' triangle
+269 'H 269 (269)' triangle
+270 'H 270 (270)' triangle
+271 'F 271 (271)' ellipse
+272 'F 272 (272)' ellipse
+273 'H 273 (273)' triangle
+274 'F 274 (274)' ellipse
+275 'H 275 (275)' triangle
+276 'H 276 (276)' triangle
+277 'F 277 (277)' ellipse
+278 'F 278 (278)' ellipse
+279 'H 279 (279)' triangle
+280 'F 280 (280)' ellipse
+281 'F 281 (281)' ellipse
+282 'F 282 (282)' ellipse
+283 'H 283 (283)' triangle
+284 'F 284 (284)' ellipse
+285 'H 285 (285)' triangle
+286 'F 286 (286)' ellipse
+287 'H 287 (287)' triangle
+288 'H 288 (288)' triangle
+289 'F 289 (289)' ellipse
+290 'F 290 (290)' ellipse
+291 'H 291 (291)' triangle
+292 'F 292 (292)' ellipse
+293 'H 293 (293)' triangle
+294 'F 294 (294)' ellipse
+295 'F 295 (295)' ellipse
+296 'H 296 (296)' triangle
+297 'H 297 (297)' triangle
+298 'H 298 (298)' triangle
+299 'F 299 (299)' ellipse
+300 'H 300 (300)' triangle
+301 'F 301 (301)' ellipse
+302 'H 302 (302)' triangle
+303 'H 303 (303)' triangle
+304 'F 304 (304)' ellipse
+305 'F 305 (305)' ellipse
+306 'F 306 (306)' ellipse
+307 'H 307 (307)' triangle
+308 'F 308 (308)' ellipse
+309 'F 309 (309)' ellipse
+310 'H 310 (310)' triangle
+311 'F 311 (311)' ellipse
+312 'H 312 (312)' triangle
+313 'F 313 (313)' ellipse
+314 'H 314 (314)' triangle
+315 'F 315 (315)' ellipse
+316 'H 316 (316)' triangle
+317 'F 317 (317)' ellipse
+318 'F 318 (318)' ellipse
+319 'H 319 (319)' triangle
+320 'F 320 (320)' ellipse
+321 'F 321 (321)' ellipse
+322 'F 322 (322)' ellipse
+323 'H 323 (323)' triangle
+324 'F 324 (324)' ellipse
+325 'H 325 (325)' triangle
+326 'F 326 (326)' ellipse
+327 'H 327 (327)' triangle
+328 'F 328 (328)' ellipse
+329 'H 329 (329)' triangle
+330 'H 330 (330)' triangle
+331 'F 331 (331)' ellipse
+332 'H 332 (332)' triangle
+333 'H 333 (333)' triangle
+334 'F 334 (334)' ellipse
+335 'F 335 (335)' ellipse
+336 'F 336 (336)' ellipse
+337 'H 337 (337)' triangle
+338 'H 338 (338)' triangle
+339 'H 339 (339)' triangle
+340 'H 340 (340)' triangle
+341 'H 341 (341)' triangle
+342 'F 342 (342)' ellipse
+343 'F 343 (343)' ellipse
+344 'F 344 (344)' ellipse
+345 'H 345 (345)' triangle
+346 'H 346 (346)' triangle
+347 'F 347 (347)' ellipse
+348 'H 348 (348)' triangle
+349 'F 349 (349)' ellipse
+350 'F 350 (350)' ellipse
+351 'H 351 (351)' triangle
+352 'F 352 (352)' ellipse
+353 'H 353 (353)' triangle
+354 'H 354 (354)' triangle
+355 'F 355 (355)' ellipse
+356 'F 356 (356)' ellipse
+357 'H 357 (357)' triangle
+358 'H 358 (358)' triangle
+359 'F 359 (359)' ellipse
+360 'H 360 (360)' triangle
+361 'F 361 (361)' ellipse
+362 'F 362 (362)' ellipse
+363 'F 363 (363)' ellipse
+364 'H 364 (364)' triangle
+365 'F 365 (365)' ellipse
+366 'H 366 (366)' triangle
+367 'H 367 (367)' triangle
+368 'F 368 (368)' ellipse
+369 'H 369 (369)' triangle
+370 'F 370 (370)' ellipse
+371 'H 371 (371)' triangle
+372 'F 372 (372)' ellipse
+373 'H 373 (373)' triangle
+374 'H 374 (374)' triangle
+375 'H 375 (375)' triangle
+376 'H 376 (376)' triangle
+377 'H 377 (377)' triangle
+378 'F 378 (378)' ellipse
+379 'F 379 (379)' ellipse
+380 'F 380 (380)' ellipse
+381 'H 381 (381)' triangle
+382 'H 382 (382)' triangle
+383 'F 383 (383)' ellipse
+384 'F 384 (384)' ellipse
+385 'F 385 (385)' ellipse
+386 'F 386 (386)' ellipse
+387 'H 387 (387)' triangle
+388 'H 388 (388)' triangle
+389 'H 389 (389)' triangle
+390 'F 390 (390)' ellipse
+391 'H 391 (391)' triangle
+392 'F 392 (392)' ellipse
+393 'H 393 (393)' triangle
+394 'H 394 (394)' triangle
+395 'F 395 (395)' ellipse
+396 'F 396 (396)' ellipse
+397 'H 397 (397)' triangle
+398 'F 398 (398)' ellipse
+399 'F 399 (399)' ellipse
+400 'F 400 (400)' ellipse
+401 'H 401 (401)' triangle
+402 'H 402 (402)' triangle
+403 'F 403 (403)' ellipse
+404 'F 404 (404)' ellipse
+405 'H 405 (405)' triangle
+406 'F 406 (406)' ellipse
+407 'F 407 (407)' ellipse
+408 'H 408 (408)' triangle
+409 'F 409 (409)' ellipse
+410 'F 410 (410)' ellipse
+411 'H 411 (411)' triangle
+412 'H 412 (412)' triangle
+413 'H 413 (413)' triangle
+414 'F 414 (414)' ellipse
+415 'H 415 (415)' triangle
+416 'H 416 (416)' triangle
+417 'F 417 (417)' ellipse
+418 'H 418 (418)' triangle
+419 'X 419 (419)' diamond
+420 'H 420 (420)' triangle
+421 'F 421 (421)' ellipse
+422 'F 422 (422)' ellipse
+423 'H 423 (423)' triangle
+424 'H 424 (424)' triangle
+425 'F 425 (425)' ellipse
+426 'H 426 (426)' triangle
+427 'H 427 (427)' triangle
+428 'F 428 (428)' ellipse
+429 'F 429 (429)' ellipse
+430 'H 430 (430)' triangle
+431 'H 431 (431)' triangle
+432 'F 432 (432)' ellipse
+433 'H 433 (433)' triangle
+434 'H 434 (434)' triangle
+435 'H 435 (435)' triangle
+436 'F 436 (436)' ellipse
+437 'F 437 (437)' ellipse
+438 'H 438 (438)' triangle
+439 'F 439 (439)' ellipse
+440 'H 440 (440)' triangle
+441 'F 441 (441)' ellipse
+442 'F 442 (442)' ellipse
+443 'H 443 (443)' triangle
+444 'F 444 (444)' ellipse
+445 'F 445 (445)' ellipse
+446 'F 446 (446)' ellipse
+447 'H 447 (447)' triangle
+448 'H 448 (448)' triangle
+449 'F 449 (449)' ellipse
+450 'F 450 (450)' ellipse
+451 'H 451 (451)' triangle
+452 'F 452 (452)' ellipse
+453 'F 453 (453)' ellipse
+454 'F 454 (454)' ellipse
+455 'F 455 (455)' ellipse
+456 'H 456 (456)' triangle
+457 'F 457 (457)' ellipse
+458 'H 458 (458)' triangle
+459 'F 459 (459)' ellipse
+460 'H 460 (460)' triangle
+461 'F 461 (461)' ellipse
+462 'H 462 (462)' triangle
+463 'F 463 (463)' ellipse
+464 'F 464 (464)' ellipse
+465 'H 465 (465)' triangle
+466 'H 466 (466)' triangle
+467 'F 467 (467)' ellipse
+468 'H 468 (468)' triangle
+469 'F 469 (469)' ellipse
+470 'H 470 (470)' triangle
+471 'F 471 (471)' ellipse
+472 'H 472 (472)' triangle
+473 'F 473 (473)' ellipse
+474 'F 474 (474)' ellipse
+475 'H 475 (475)' triangle
+476 'F 476 (476)' ellipse
+477 'H 477 (477)' triangle
+478 'F 478 (478)' ellipse
+479 'H 479 (479)' triangle
+480 'F 480 (480)' ellipse
+481 'H 481 (481)' triangle
+482 'F 482 (482)' ellipse
+483 'F 483 (483)' ellipse
+484 'H 484 (484)' triangle
+485 'H 485 (485)' triangle
+486 'F 486 (486)' ellipse
+487 'H 487 (487)' triangle
+488 'F 488 (488)' ellipse
+489 'H 489 (489)' triangle
+490 'F 490 (490)' ellipse
+491 'H 491 (491)' triangle
+492 'F 492 (492)' ellipse
+493 'H 493 (493)' triangle
+494 'F 494 (494)' ellipse
+495 'F 495 (495)' ellipse
+496 'F 496 (496)' ellipse
+497 'F 497 (497)' ellipse
+498 'H 498 (498)' triangle
+499 'F 499 (499)' ellipse
+500 'F 500 (500)' ellipse
+501 'H 501 (501)' triangle
+502 'F 502 (502)' ellipse
+503 'H 503 (503)' triangle
+504 'F 504 (504)' ellipse
+505 'H 505 (505)' triangle
+506 'F 506 (506)' ellipse
+507 'H 507 (507)' triangle
+508 'F 508 (508)' ellipse
+509 'F 509 (509)' ellipse
+510 'F 510 (510)' ellipse
+511 'H 511 (511)' triangle
+512 'F 512 (512)' ellipse
+513 'F 513 (513)' ellipse
+514 'H 514 (514)' triangle
+515 'H 515 (515)' triangle
+516 'F 516 (516)' ellipse
+517 'H 517 (517)' triangle
+518 'F 518 (518)' ellipse
+519 'F 519 (519)' ellipse
+520 'F 520 (520)' ellipse
+521 'F 521 (521)' ellipse
+522 'H 522 (522)' triangle
+523 'H 523 (523)' triangle
+524 'F 524 (524)' ellipse
+525 'H 525 (525)' triangle
+526 'H 526 (526)' triangle
+527 'F 527 (527)' ellipse
+528 'H 528 (528)' triangle
+529 'H 529 (529)' triangle
+530 'F 530 (530)' ellipse
+531 'F 531 (531)' ellipse
+532 'H 532 (532)' triangle
+533 'F 533 (533)' ellipse
+534 'H 534 (534)' triangle
+535 'H 535 (535)' triangle
+536 'H 536 (536)' triangle
+537 'H 537 (537)' triangle
+538 'F 538 (538)' ellipse
+539 'H 539 (539)' triangle
+540 'F 540 (540)' ellipse
+541 'F 541 (541)' ellipse
+542 'F 542 (542)' ellipse
+543 'H 543 (543)' triangle
+544 'F 544 (544)' ellipse
+545 'H 545 (545)' triangle
+546 'F 546 (546)' ellipse
+547 'H 547 (547)' triangle
+548 'H 548 (548)' triangle
+549 'F 549 (549)' ellipse
+550 'F 550 (550)' ellipse
+551 'H 551 (551)' triangle
+552 'H 552 (552)' triangle
+553 'F 553 (553)' ellipse
+554 'H 554 (554)' triangle
+555 'F 555 (555)' ellipse
+556 'F 556 (556)' ellipse
+557 'F 557 (557)' ellipse
+558 'H 558 (558)' triangle
+559 'F 559 (559)' ellipse
+560 'H 560 (560)' triangle
+561 'F 561 (561)' ellipse
+562 'H 562 (562)' triangle
+563 'F 563 (563)' ellipse
+564 'F 564 (564)' ellipse
+565 'H 565 (565)' triangle
+566 'F 566 (566)' ellipse
+567 'F 567 (567)' ellipse
+568 'H 568 (568)' triangle
+569 'H 569 (569)' triangle
+570 'F 570 (570)' ellipse
+571 'H 571 (571)' triangle
+572 'H 572 (572)' triangle
+573 'F 573 (573)' ellipse
+574 'F 574 (574)' ellipse
+575 'H 575 (575)' triangle
+576 'F 576 (576)' ellipse
+577 'H 577 (577)' triangle
+578 'H 578 (578)' triangle
+579 'F 579 (579)' ellipse
+580 'H 580 (580)' triangle
+581 'F 581 (581)' ellipse
+582 'H 582 (582)' triangle
+583 'H 583 (583)' triangle
+584 'F 584 (584)' ellipse
+585 'F 585 (585)' ellipse
+586 'F 586 (586)' ellipse
+587 'H 587 (587)' triangle
+588 'H 588 (588)' triangle
+589 'F 589 (589)' ellipse
+590 'H 590 (590)' triangle
+591 'H 591 (591)' triangle
+592 'H 592 (592)' triangle
+593 'H 593 (593)' triangle
+594 'H 594 (594)' triangle
+595 'F 595 (595)' ellipse
+596 'F 596 (596)' ellipse
+597 'H 597 (597)' triangle
+598 'H 598 (598)' triangle
+599 'F 599 (599)' ellipse
+600 'F 600 (600)' ellipse
+601 'H 601 (601)' triangle
+602 'F 602 (602)' ellipse
+603 'H 603 (603)' triangle
+604 'F 604 (604)' ellipse
+605 'H 605 (605)' triangle
+606 'H 606 (606)' triangle
+607 'H 607 (607)' triangle
+608 'F 608 (608)' ellipse
+609 'H 609 (609)' triangle
+610 'H 610 (610)' triangle
+611 'F 611 (611)' ellipse
+612 'F 612 (612)' ellipse
+613 'H 613 (613)' triangle
+614 'H 614 (614)' triangle
+615 'F 615 (615)' ellipse
+616 'H 616 (616)' triangle
+617 'H 617 (617)' triangle
+618 'F 618 (618)' ellipse
+619 'H 619 (619)' triangle
+620 'H 620 (620)' triangle
+621 'F 621 (621)' ellipse
+622 'H 622 (622)' triangle
+623 'F 623 (623)' ellipse
+624 'F 624 (624)' ellipse
+625 'H 625 (625)' triangle
+626 'F 626 (626)' ellipse
+627 'H 627 (627)' triangle
+628 'H 628 (628)' triangle
+629 'H 629 (629)' triangle
+630 'F 630 (630)' ellipse
+631 'H 631 (631)' triangle
+632 'H 632 (632)' triangle
+633 'F 633 (633)' ellipse
+634 'H 634 (634)' triangle
+635 'F 635 (635)' ellipse
+636 'F 636 (636)' ellipse
+637 'H 637 (637)' triangle
+638 'F 638 (638)' ellipse
+639 'H 639 (639)' triangle
+640 'H 640 (640)' triangle
+641 'F 641 (641)' ellipse
+642 'F 642 (642)' ellipse
+643 'H 643 (643)' triangle
+644 'F 644 (644)' ellipse
+645 'H 645 (645)' triangle
+646 'F 646 (646)' ellipse
+647 'F 647 (647)' ellipse
+648 'F 648 (648)' ellipse
+649 'H 649 (649)' triangle
+650 'F 650 (650)' ellipse
+651 'F 651 (651)' ellipse
+652 'H 652 (652)' triangle
+653 'F 653 (653)' ellipse
+654 'H 654 (654)' triangle
+655 'F 655 (655)' ellipse
+656 'H 656 (656)' triangle
+657 'F 657 (657)' ellipse
+658 'F 658 (658)' ellipse
+659 'H 659 (659)' triangle
+660 'F 660 (660)' ellipse
+661 'F 661 (661)' ellipse
+662 'F 662 (662)' ellipse
+663 'H 663 (663)' triangle
+664 'H 664 (664)' triangle
+665 'H 665 (665)' triangle
+666 'F 666 (666)' ellipse
+667 'F 667 (667)' ellipse
+668 'F 668 (668)' ellipse
+669 'F 669 (669)' ellipse
+670 'H 670 (670)' triangle
+671 'F 671 (671)' ellipse
+672 'F 672 (672)' ellipse
+673 'F 673 (673)' ellipse
+674 'F 674 (674)' ellipse
+675 'F 675 (675)' ellipse
+676 'F 676 (676)' ellipse
+677 'H 677 (677)' triangle
+678 'F 678 (678)' ellipse
+679 'H 679 (679)' triangle
+680 'F 680 (680)' ellipse
+681 'H 681 (681)' triangle
+682 'F 682 (682)' ellipse
+683 'F 683 (683)' ellipse
+684 'F 684 (684)' ellipse
+685 'F 685 (685)' ellipse
+686 'H 686 (686)' triangle
+687 'F 687 (687)' ellipse
+688 'F 688 (688)' ellipse
+689 'H 689 (689)' triangle
+690 'F 690 (690)' ellipse
+691 'H 691 (691)' triangle
+692 'F 692 (692)' ellipse
+693 'H 693 (693)' triangle
+694 'H 694 (694)' triangle
+695 'F 695 (695)' ellipse
+696 'F 696 (696)' ellipse
+697 'H 697 (697)' triangle
+698 'F 698 (698)' ellipse
+699 'H 699 (699)' triangle
+700 'F 700 (700)' ellipse
+701 'H 701 (701)' triangle
+702 'F 702 (702)' ellipse
+703 'F 703 (703)' ellipse
+704 'H 704 (704)' triangle
+705 'F 705 (705)' ellipse
+706 'F 706 (706)' ellipse
+707 'F 707 (707)' ellipse
+708 'H 708 (708)' triangle
+709 'F 709 (709)' ellipse
+710 'H 710 (710)' triangle
+711 'F 711 (711)' ellipse
+712 'H 712 (712)' triangle
+713 'H 713 (713)' triangle
+714 'H 714 (714)' triangle
+715 'H 715 (715)' triangle
+716 'H 716 (716)' triangle
+717 'F 717 (717)' ellipse
+718 'F 718 (718)' ellipse
+719 'H 719 (719)' triangle
+720 'F 720 (720)' ellipse
+721 'F 721 (721)' ellipse
+722 'F 722 (722)' ellipse
+723 'H 723 (723)' triangle
+724 'F 724 (724)' ellipse
+725 'H 725 (725)' triangle
+726 'F 726 (726)' ellipse
+727 'F 727 (727)' ellipse
+728 'F 728 (728)' ellipse
+729 'H 729 (729)' triangle
+730 'H 730 (730)' triangle
+731 'F 731 (731)' ellipse
+732 'H 732 (732)' triangle
+733 'F 733 (733)' ellipse
+734 'F 734 (734)' ellipse
+735 'H 735 (735)' triangle
+736 'F 736 (736)' ellipse
+737 'H 737 (737)' triangle
+738 'F 738 (738)' ellipse
+739 'H 739 (739)' triangle
+740 'F 740 (740)' ellipse
+741 'F 741 (741)' ellipse
+742 'H 742 (742)' triangle
+743 'H 743 (743)' triangle
+744 'H 744 (744)' triangle
+745 'H 745 (745)' triangle
+746 'H 746 (746)' triangle
+747 'F 747 (747)' ellipse
+748 'H 748 (748)' triangle
+749 'H 749 (749)' triangle
+750 'F 750 (750)' ellipse
+751 'H 751 (751)' triangle
+752 'F 752 (752)' ellipse
+753 'H 753 (753)' triangle
+754 'F 754 (754)' ellipse
+755 'H 755 (755)' triangle
+756 'H 756 (756)' triangle
+757 'H 757 (757)' triangle
+758 'H 758 (758)' triangle
+759 'F 759 (759)' ellipse
+760 'H 760 (760)' triangle
+761 'F 761 (761)' ellipse
+762 'H 762 (762)' triangle
+763 'H 763 (763)' triangle
+764 'H 764 (764)' triangle
+765 'F 765 (765)' ellipse
+766 'H 766 (766)' triangle
+767 'H 767 (767)' triangle
+768 'H 768 (768)' triangle
+769 'H 769 (769)' triangle
+770 'F 770 (770)' ellipse
+771 'H 771 (771)' triangle
+772 'F 772 (772)' ellipse
+773 'F 773 (773)' ellipse
+774 'F 774 (774)' ellipse
+775 'F 775 (775)' ellipse
+776 'H 776 (776)' triangle
+777 'H 777 (777)' triangle
+778 'F 778 (778)' ellipse
+779 'F 779 (779)' ellipse
+780 'F 780 (780)' ellipse
+781 'H 781 (781)' triangle
+782 'F 782 (782)' ellipse
+783 'H 783 (783)' triangle
+784 'F 784 (784)' ellipse
+785 'H 785 (785)' triangle
+786 'F 786 (786)' ellipse
+787 'H 787 (787)' triangle
+788 'H 788 (788)' triangle
+789 'F 789 (789)' ellipse
+790 'F 790 (790)' ellipse
+791 'H 791 (791)' triangle
+792 'F 792 (792)' ellipse
+793 'F 793 (793)' ellipse
+794 'H 794 (794)' triangle
+795 'F 795 (795)' ellipse
+796 'H 796 (796)' triangle
+797 'F 797 (797)' ellipse
+798 'H 798 (798)' triangle
+799 'F 799 (799)' ellipse
+800 'H 800 (800)' triangle
+801 'H 801 (801)' triangle
+802 'F 802 (802)' ellipse
+803 'F 803 (803)' ellipse
+804 'H 804 (804)' triangle
+805 'H 805 (805)' triangle
+806 'F 806 (806)' ellipse
+807 'H 807 (807)' triangle
+808 'H 808 (808)' triangle
+809 'F 809 (809)' ellipse
+810 'H 810 (810)' triangle
+811 'F 811 (811)' ellipse
+812 'F 812 (812)' ellipse
+813 'H 813 (813)' triangle
+814 'H 814 (814)' triangle
+815 'F 815 (815)' ellipse
+816 'H 816 (816)' triangle
+817 'F 817 (817)' ellipse
+818 'H 818 (818)' triangle
+819 'F 819 (819)' ellipse
+820 'F 820 (820)' ellipse
+821 'H 821 (821)' triangle
+822 'H 822 (822)' triangle
+823 'F 823 (823)' ellipse
+824 'H 824 (824)' triangle
+825 'F 825 (825)' ellipse
+826 'F 826 (826)' ellipse
+827 'F 827 (827)' ellipse
+828 'F 828 (828)' ellipse
+829 'F 829 (829)' ellipse
+830 'F 830 (830)' ellipse
+831 'H 831 (831)' triangle
+832 'F 832 (832)' ellipse
+833 'H 833 (833)' triangle
+834 'F 834 (834)' ellipse
+835 'F 835 (835)' ellipse
+836 'F 836 (836)' ellipse
+837 'H 837 (837)' triangle
+838 'H 838 (838)' triangle
+839 'F 839 (839)' ellipse
+840 'H 840 (840)' triangle
+841 'F 841 (841)' ellipse
+842 'H 842 (842)' triangle
+843 'H 843 (843)' triangle
+844 'F 844 (844)' ellipse
+845 'F 845 (845)' ellipse
+846 'H 846 (846)' triangle
+847 'F 847 (847)' ellipse
+848 'F 848 (848)' ellipse
+849 'F 849 (849)' ellipse
+850 'H 850 (850)' triangle
+851 'H 851 (851)' triangle
+852 'F 852 (852)' ellipse
+853 'H 853 (853)' triangle
+854 'H 854 (854)' triangle
+855 'F 855 (855)' ellipse
+856 'F 856 (856)' ellipse
+857 'H 857 (857)' triangle
+858 'H 858 (858)' triangle
+859 'F 859 (859)' ellipse
+860 'H 860 (860)' triangle
+861 'H 861 (861)' triangle
+862 'H 862 (862)' triangle
+863 'F 863 (863)' ellipse
+864 'H 864 (864)' triangle
+865 'F 865 (865)' ellipse
+866 'H 866 (866)' triangle
+867 'F 867 (867)' ellipse
+868 'H 868 (868)' triangle
+869 'H 869 (869)' triangle
+870 'F 870 (870)' ellipse
+871 'H 871 (871)' triangle
+872 'F 872 (872)' ellipse
+873 'F 873 (873)' ellipse
+874 'F 874 (874)' ellipse
+875 'F 875 (875)' ellipse
+876 'F 876 (876)' ellipse
+877 'H 877 (877)' triangle
+878 'F 878 (878)' ellipse
+879 'F 879 (879)' ellipse
+880 'H 880 (880)' triangle
+881 'H 881 (881)' triangle
+882 'F 882 (882)' ellipse
+883 'F 883 (883)' ellipse
+884 'H 884 (884)' triangle
+885 'F 885 (885)' ellipse
+886 'F 886 (886)' ellipse
+887 'H 887 (887)' triangle
+888 'F 888 (888)' ellipse
+889 'H 889 (889)' triangle
+890 'F 890 (890)' ellipse
+891 'H 891 (891)' triangle
+892 'F 892 (892)' ellipse
+893 'F 893 (893)' ellipse
+894 'H 894 (894)' triangle
+895 'F 895 (895)' ellipse
+896 'H 896 (896)' triangle
+897 'F 897 (897)' ellipse
+898 'H 898 (898)' triangle
+899 'F 899 (899)' ellipse
+900 'H 900 (900)' triangle
+901 'F 901 (901)' ellipse
+902 'H 902 (902)' triangle
+903 'F 903 (903)' ellipse
+904 'F 904 (904)' ellipse
+905 'H 905 (905)' triangle
+906 'F 906 (906)' ellipse
+907 'H 907 (907)' triangle
+908 'F 908 (908)' ellipse
+909 'H 909 (909)' triangle
+910 'F 910 (910)' ellipse
+911 'H 911 (911)' triangle
+912 'F 912 (912)' ellipse
+913 'H 913 (913)' triangle
+914 'H 914 (914)' triangle
+915 'H 915 (915)' triangle
+916 'F 916 (916)' ellipse
+917 'F 917 (917)' ellipse
+918 'F 918 (918)' ellipse
+919 'F 919 (919)' ellipse
+920 'H 920 (920)' triangle
+921 'F 921 (921)' ellipse
+922 'H 922 (922)' triangle
+923 'F 923 (923)' ellipse
+924 'H 924 (924)' triangle
+925 'H 925 (925)' triangle
+926 'F 926 (926)' ellipse
+927 'H 927 (927)' triangle
+928 'F 928 (928)' ellipse
+929 'F 929 (929)' ellipse
+930 'H 930 (930)' triangle
+931 'H 931 (931)' triangle
+932 'H 932 (932)' triangle
+933 'F 933 (933)' ellipse
+934 'H 934 (934)' triangle
+935 'F 935 (935)' ellipse
+936 'F 936 (936)' ellipse
+937 'F 937 (937)' ellipse
+938 'H 938 (938)' triangle
+939 'H 939 (939)' triangle
+940 'F 940 (940)' ellipse
+941 'F 941 (941)' ellipse
+942 'H 942 (942)' triangle
+943 'F 943 (943)' ellipse
+944 'F 944 (944)' ellipse
+945 'H 945 (945)' triangle
+946 'F 946 (946)' ellipse
+947 'F 947 (947)' ellipse
+948 'F 948 (948)' ellipse
+949 'F 949 (949)' ellipse
+950 'H 950 (950)' triangle
+951 'H 951 (951)' triangle
+952 'F 952 (952)' ellipse
+953 'F 953 (953)' ellipse
+954 'F 954 (954)' ellipse
+955 'H 955 (955)' triangle
+956 'F 956 (956)' ellipse
+957 'F 957 (957)' ellipse
+958 'H 958 (958)' triangle
+959 'F 959 (959)' ellipse
+960 'F 960 (960)' ellipse
+961 'F 961 (961)' ellipse
+962 'F 962 (962)' ellipse
+963 'H 963 (963)' triangle
+964 'F 964 (964)' ellipse
+965 'F 965 (965)' ellipse
+966 'F 966 (966)' ellipse
+967 'H 967 (967)' triangle
+968 'F 968 (968)' ellipse
+969 'H 969 (969)' triangle
+970 'H 970 (970)' triangle
+971 'X 971 (971)' diamond
+972 'H 972 (972)' triangle
+973 'F 973 (973)' ellipse
+974 'F 974 (974)' ellipse
+975 'H 975 (975)' triangle
+976 'F 976 (976)' ellipse
+977 'F 977 (977)' ellipse
+978 'H 978 (978)' triangle
+979 'F 979 (979)' ellipse
+980 'F 980 (980)' ellipse
+981 'H 981 (981)' triangle
+982 'F 982 (982)' ellipse
+983 'H 983 (983)' triangle
+984 'F 984 (984)' ellipse
+985 'H 985 (985)' triangle
+986 'F 986 (986)' ellipse
+987 'H 987 (987)' triangle
+988 'F 988 (988)' ellipse
+989 'H 989 (989)' triangle
+990 'F 990 (990)' ellipse
+991 'H 991 (991)' triangle
+992 'F 992 (992)' ellipse
+993 'H 993 (993)' triangle
+994 'F 994 (994)' ellipse
+995 'H 995 (995)' triangle
+996 'F 996 (996)' ellipse
+997 'H 997 (997)' triangle
+998 'F 998 (998)' ellipse
+999 'F 999 (999)' ellipse
+1000 'H 1000 (1000)' triangle
+1001 'F 1001 (1001)' ellipse
+1002 'H 1002 (1002)' triangle
+1003 'F 1003 (1003)' ellipse
+1004 'F 1004 (1004)' ellipse
+1005 'F 1005 (1005)' ellipse
+1006 'F 1006 (1006)' ellipse
+1007 'F 1007 (1007)' ellipse
+1008 'H 1008 (1008)' triangle
+1009 'F 1009 (1009)' ellipse
+1010 'F 1010 (1010)' ellipse
+1011 'H 1011 (1011)' triangle
+1012 'F 1012 (1012)' ellipse
+1013 'H 1013 (1013)' triangle
+1014 'H 1014 (1014)' triangle
+1015 'F 1015 (1015)' ellipse
+1016 'H 1016 (1016)' triangle
+1017 'H 1017 (1017)' triangle
+1018 'F 1018 (1018)' ellipse
+1019 'H 1019 (1019)' triangle
+1020 'F 1020 (1020)' ellipse
+1021 'H 1021 (1021)' triangle
+1022 'F 1022 (1022)' ellipse
+1023 'H 1023 (1023)' triangle
+1024 'H 1024 (1024)' triangle
+1025 'F 1025 (1025)' ellipse
+1026 'F 1026 (1026)' ellipse
+1027 'H 1027 (1027)' triangle
+1028 'H 1028 (1028)' triangle
+1029 'H 1029 (1029)' triangle
+1030 'H 1030 (1030)' triangle
+1031 'H 1031 (1031)' triangle
+1032 'F 1032 (1032)' ellipse
+1033 'F 1033 (1033)' ellipse
+1034 'H 1034 (1034)' triangle
+1035 'F 1035 (1035)' ellipse
+1036 'F 1036 (1036)' ellipse
+1037 'H 1037 (1037)' triangle
+1038 'F 1038 (1038)' ellipse
+1039 'H 1039 (1039)' triangle
+1040 'H 1040 (1040)' triangle
+1041 'F 1041 (1041)' ellipse
+1042 'H 1042 (1042)' triangle
+1043 'F 1043 (1043)' ellipse
+1044 'F 1044 (1044)' ellipse
+1045 'H 1045 (1045)' triangle
+1046 'F 1046 (1046)' ellipse
+1047 'H 1047 (1047)' triangle
+1048 'H 1048 (1048)' triangle
+1049 'F 1049 (1049)' ellipse
+1050 'F 1050 (1050)' ellipse
+1051 'H 1051 (1051)' triangle
+1052 'H 1052 (1052)' triangle
+1053 'F 1053 (1053)' ellipse
+1054 'H 1054 (1054)' triangle
+1055 'F 1055 (1055)' ellipse
+1056 'F 1056 (1056)' ellipse
+1057 'F 1057 (1057)' ellipse
+1058 'H 1058 (1058)' triangle
+1059 'H 1059 (1059)' triangle
+1060 'F 1060 (1060)' ellipse
+1061 'F 1061 (1061)' ellipse
+1062 'F 1062 (1062)' ellipse
+1063 'F 1063 (1063)' ellipse
+1064 'X 1064 (1064)' diamond
+1065 'H 1065 (1065)' triangle
+1066 'H 1066 (1066)' triangle
+1067 'F 1067 (1067)' ellipse
+1068 'H 1068 (1068)' triangle
+1069 'F 1069 (1069)' ellipse
+1070 'F 1070 (1070)' ellipse
+1071 'H 1071 (1071)' triangle
+1072 'H 1072 (1072)' triangle
+1073 'F 1073 (1073)' ellipse
+1074 'H 1074 (1074)' triangle
+1075 'H 1075 (1075)' triangle
+1076 'F 1076 (1076)' ellipse
+1077 'H 1077 (1077)' triangle
+1078 'F 1078 (1078)' ellipse
+1079 'H 1079 (1079)' triangle
+1080 'F 1080 (1080)' ellipse
+1081 'H 1081 (1081)' triangle
+1082 'H 1082 (1082)' triangle
+1083 'F 1083 (1083)' ellipse
+1084 'H 1084 (1084)' triangle
+1085 'H 1085 (1085)' triangle
+1086 'F 1086 (1086)' ellipse
+1087 'H 1087 (1087)' triangle
+1088 'H 1088 (1088)' triangle
+1089 'F 1089 (1089)' ellipse
+1090 'F 1090 (1090)' ellipse
+1091 'F 1091 (1091)' ellipse
+1092 'F 1092 (1092)' ellipse
+1093 'H 1093 (1093)' triangle
+1094 'F 1094 (1094)' ellipse
+1095 'F 1095 (1095)' ellipse
+1096 'H 1096 (1096)' triangle
+1097 'F 1097 (1097)' ellipse
+1098 'H 1098 (1098)' triangle
+1099 'H 1099 (1099)' triangle
+1100 'F 1100 (1100)' ellipse
+1101 'H 1101 (1101)' triangle
+1102 'F 1102 (1102)' ellipse
+1103 'H 1103 (1103)' triangle
+1104 'F 1104 (1104)' ellipse
+1105 'H 1105 (1105)' triangle
+1106 'H 1106 (1106)' triangle
+1107 'F 1107 (1107)' ellipse
+1108 'F 1108 (1108)' ellipse
+1109 'H 1109 (1109)' triangle
+1110 'F 1110 (1110)' ellipse
+1111 'F 1111 (1111)' ellipse
+1112 'F 1112 (1112)' ellipse
+1113 'H 1113 (1113)' triangle
+1114 'F 1114 (1114)' ellipse
+1115 'H 1115 (1115)' triangle
+1116 'F 1116 (1116)' ellipse
+1117 'H 1117 (1117)' triangle
+1118 'F 1118 (1118)' ellipse
+1119 'F 1119 (1119)' ellipse
+1120 'H 1120 (1120)' triangle
+1121 'F 1121 (1121)' ellipse
+1122 'F 1122 (1122)' ellipse
+1123 'H 1123 (1123)' triangle
+1124 'H 1124 (1124)' triangle
+1125 'F 1125 (1125)' ellipse
+1126 'F 1126 (1126)' ellipse
+1127 'F 1127 (1127)' ellipse
+1128 'H 1128 (1128)' triangle
+1129 'H 1129 (1129)' triangle
+1130 'F 1130 (1130)' ellipse
+1131 'H 1131 (1131)' triangle
+1132 'F 1132 (1132)' ellipse
+1133 'F 1133 (1133)' ellipse
+1134 'H 1134 (1134)' triangle
+1135 'F 1135 (1135)' ellipse
+1136 'F 1136 (1136)' ellipse
+1137 'F 1137 (1137)' ellipse
+1138 'H 1138 (1138)' triangle
+1139 'H 1139 (1139)' triangle
+1140 'F 1140 (1140)' ellipse
+1141 'H 1141 (1141)' triangle
+1142 'F 1142 (1142)' ellipse
+1143 'H 1143 (1143)' triangle
+1144 'F 1144 (1144)' ellipse
+1145 'H 1145 (1145)' triangle
+1146 'H 1146 (1146)' triangle
+1147 'F 1147 (1147)' ellipse
+1148 'H 1148 (1148)' triangle
+1149 'F 1149 (1149)' ellipse
+1150 'H 1150 (1150)' triangle
+1151 'F 1151 (1151)' ellipse
+1152 'H 1152 (1152)' triangle
+1153 'H 1153 (1153)' triangle
+1154 'F 1154 (1154)' ellipse
+1155 'H 1155 (1155)' triangle
+1156 'X 1156 (1156)' diamond
+1157 'H 1157 (1157)' triangle
+1158 'F 1158 (1158)' ellipse
+1159 'H 1159 (1159)' triangle
+1160 'F 1160 (1160)' ellipse
+1161 'H 1161 (1161)' triangle
+1162 'H 1162 (1162)' triangle
+1163 'H 1163 (1163)' triangle
+1164 'F 1164 (1164)' ellipse
+1165 'H 1165 (1165)' triangle
+1166 'F 1166 (1166)' ellipse
+1167 'H 1167 (1167)' triangle
+1168 'X 1168 (1168)' diamond
+1169 'F 1169 (1169)' ellipse
+1170 'H 1170 (1170)' triangle
+1171 'H 1171 (1171)' triangle
+1172 'F 1172 (1172)' ellipse
+1173 'H 1173 (1173)' triangle
+1174 'H 1174 (1174)' triangle
+1175 'H 1175 (1175)' triangle
+1176 'F 1176 (1176)' ellipse
+1177 'H 1177 (1177)' triangle
+1178 'H 1178 (1178)' triangle
+1179 'F 1179 (1179)' ellipse
+1180 'F 1180 (1180)' ellipse
+1181 'F 1181 (1181)' ellipse
+1182 'H 1182 (1182)' triangle
+1183 'H 1183 (1183)' triangle
+1184 'F 1184 (1184)' ellipse
+1185 'H 1185 (1185)' triangle
+1186 'H 1186 (1186)' triangle
+1187 'F 1187 (1187)' ellipse
+1188 'F 1188 (1188)' ellipse
+1189 'H 1189 (1189)' triangle
+1190 'F 1190 (1190)' ellipse
+1191 'F 1191 (1191)' ellipse
+1192 'H 1192 (1192)' triangle
+1193 'H 1193 (1193)' triangle
+1194 'F 1194 (1194)' ellipse
+1195 'H 1195 (1195)' triangle
+1196 'F 1196 (1196)' ellipse
+1197 'F 1197 (1197)' ellipse
+1198 'F 1198 (1198)' ellipse
+1199 'F 1199 (1199)' ellipse
+1200 'H 1200 (1200)' triangle
+1201 'H 1201 (1201)' triangle
+1202 'F 1202 (1202)' ellipse
+1203 'H 1203 (1203)' triangle
+1204 'F 1204 (1204)' ellipse
+1205 'F 1205 (1205)' ellipse
+1206 'H 1206 (1206)' triangle
+1207 'F 1207 (1207)' ellipse
+1208 'H 1208 (1208)' triangle
+1209 'H 1209 (1209)' triangle
+1210 'F 1210 (1210)' ellipse
+1211 'F 1211 (1211)' ellipse
+1212 'F 1212 (1212)' ellipse
+1213 'F 1213 (1213)' ellipse
+1214 'H 1214 (1214)' triangle
+1215 'F 1215 (1215)' ellipse
+1216 'H 1216 (1216)' triangle
+1217 'H 1217 (1217)' triangle
+1218 'F 1218 (1218)' ellipse
+1219 'F 1219 (1219)' ellipse
+1220 'H 1220 (1220)' triangle
+1221 'F 1221 (1221)' ellipse
+1222 'H 1222 (1222)' triangle
+1223 'F 1223 (1223)' ellipse
+1224 'H 1224 (1224)' triangle
+1225 'H 1225 (1225)' triangle
+1226 'F 1226 (1226)' ellipse
+1227 'H 1227 (1227)' triangle
+1228 'F 1228 (1228)' ellipse
+1229 'H 1229 (1229)' triangle
+1230 'H 1230 (1230)' triangle
+1231 'F 1231 (1231)' ellipse
+1232 'F 1232 (1232)' ellipse
+1233 'H 1233 (1233)' triangle
+1234 'F 1234 (1234)' ellipse
+1235 'F 1235 (1235)' ellipse
+1236 'H 1236 (1236)' triangle
+1237 'F 1237 (1237)' ellipse
+1238 'H 1238 (1238)' triangle
+1239 'F 1239 (1239)' ellipse
+1240 'F 1240 (1240)' ellipse
+1241 'H 1241 (1241)' triangle
+1242 'F 1242 (1242)' ellipse
+1243 'H 1243 (1243)' triangle
+1244 'H 1244 (1244)' triangle
+1245 'F 1245 (1245)' ellipse
+1246 'H 1246 (1246)' triangle
+1247 'F 1247 (1247)' ellipse
+1248 'H 1248 (1248)' triangle
+1249 'H 1249 (1249)' triangle
+1250 'H 1250 (1250)' triangle
+1251 'H 1251 (1251)' triangle
+1252 'F 1252 (1252)' ellipse
+1253 'F 1253 (1253)' ellipse
+1254 'H 1254 (1254)' triangle
+1255 'F 1255 (1255)' ellipse
+1256 'F 1256 (1256)' ellipse
+1257 'F 1257 (1257)' ellipse
+1258 'F 1258 (1258)' ellipse
+1259 'F 1259 (1259)' ellipse
+1260 'H 1260 (1260)' triangle
+1261 'F 1261 (1261)' ellipse
+1262 'H 1262 (1262)' triangle
+1263 'F 1263 (1263)' ellipse
+1264 'H 1264 (1264)' triangle
+1265 'F 1265 (1265)' ellipse
+1266 'F 1266 (1266)' ellipse
+1267 'H 1267 (1267)' triangle
+1268 'H 1268 (1268)' triangle
+1269 'F 1269 (1269)' ellipse
+1270 'H 1270 (1270)' triangle
+1271 'F 1271 (1271)' ellipse
+1272 'H 1272 (1272)' triangle
+1273 'F 1273 (1273)' ellipse
+1274 'F 1274 (1274)' ellipse
+1275 'H 1275 (1275)' triangle
+1276 'F 1276 (1276)' ellipse
+1277 'F 1277 (1277)' ellipse
+1278 'H 1278 (1278)' triangle
+1279 'F 1279 (1279)' ellipse
+1280 'H 1280 (1280)' triangle
+1281 'H 1281 (1281)' triangle
+1282 'F 1282 (1282)' ellipse
+1283 'F 1283 (1283)' ellipse
+1284 'F 1284 (1284)' ellipse
+1285 'H 1285 (1285)' triangle
+1286 'F 1286 (1286)' ellipse
+1287 'F 1287 (1287)' ellipse
+1288 'F 1288 (1288)' ellipse
+1289 'F 1289 (1289)' ellipse
+1290 'F 1290 (1290)' ellipse
+1291 'H 1291 (1291)' triangle
+1292 'H 1292 (1292)' triangle
+1293 'H 1293 (1293)' triangle
+1294 'F 1294 (1294)' ellipse
+1295 'H 1295 (1295)' triangle
+1296 'H 1296 (1296)' triangle
+1297 'H 1297 (1297)' triangle
+1298 'F 1298 (1298)' ellipse
+1299 'F 1299 (1299)' ellipse
+1300 'F 1300 (1300)' ellipse
+1301 'H 1301 (1301)' triangle
+1302 'F 1302 (1302)' ellipse
+1303 'H 1303 (1303)' triangle
+1304 'F 1304 (1304)' ellipse
+1305 'F 1305 (1305)' ellipse
+1306 'H 1306 (1306)' triangle
+1307 'F 1307 (1307)' ellipse
+1308 'H 1308 (1308)' triangle
+1309 'H 1309 (1309)' triangle
+1310 'F 1310 (1310)' ellipse
+1311 'F 1311 (1311)' ellipse
+1312 'H 1312 (1312)' triangle
+1313 'H 1313 (1313)' triangle
+1314 'H 1314 (1314)' triangle
+1315 'F 1315 (1315)' ellipse
+1316 'H 1316 (1316)' triangle
+1317 'F 1317 (1317)' ellipse
+1318 'H 1318 (1318)' triangle
+1319 'F 1319 (1319)' ellipse
+1320 'F 1320 (1320)' ellipse
+1321 'H 1321 (1321)' triangle
+1322 'H 1322 (1322)' triangle
+1323 'F 1323 (1323)' ellipse
+1324 'F 1324 (1324)' ellipse
+1325 'H 1325 (1325)' triangle
+1326 'H 1326 (1326)' triangle
+1327 'F 1327 (1327)' ellipse
+1328 'F 1328 (1328)' ellipse
+1329 'F 1329 (1329)' ellipse
+1330 'H 1330 (1330)' triangle
+1331 'H 1331 (1331)' triangle
+1332 'H 1332 (1332)' triangle
+1333 'F 1333 (1333)' ellipse
+1334 'F 1334 (1334)' ellipse
+1335 'H 1335 (1335)' triangle
+1336 'H 1336 (1336)' triangle
+1337 'F 1337 (1337)' ellipse
+1338 'F 1338 (1338)' ellipse
+1339 'H 1339 (1339)' triangle
+1340 'F 1340 (1340)' ellipse
+1341 'H 1341 (1341)' triangle
+1342 'F 1342 (1342)' ellipse
+1343 'H 1343 (1343)' triangle
+1344 'H 1344 (1344)' triangle
+1345 'H 1345 (1345)' triangle
+1346 'F 1346 (1346)' ellipse
+1347 'H 1347 (1347)' triangle
+1348 'F 1348 (1348)' ellipse
+1349 'F 1349 (1349)' ellipse
+1350 'H 1350 (1350)' triangle
+1351 'H 1351 (1351)' triangle
+1352 'F 1352 (1352)' ellipse
+1353 'H 1353 (1353)' triangle
+1354 'H 1354 (1354)' triangle
+1355 'F 1355 (1355)' ellipse
+1356 'F 1356 (1356)' ellipse
+1357 'H 1357 (1357)' triangle
+1358 'F 1358 (1358)' ellipse
+1359 'F 1359 (1359)' ellipse
+1360 'H 1360 (1360)' triangle
+1361 'F 1361 (1361)' ellipse
+1362 'H 1362 (1362)' triangle
+1363 'F 1363 (1363)' ellipse
+1364 'F 1364 (1364)' ellipse
+1365 'F 1365 (1365)' ellipse
+1366 'F 1366 (1366)' ellipse
+1367 'H 1367 (1367)' triangle
+1368 'H 1368 (1368)' triangle
+1369 'X 1369 (1369)' diamond
+1370 'F 1370 (1370)' ellipse
+1371 'F 1371 (1371)' ellipse
+1372 'H 1372 (1372)' triangle
+1373 'F 1373 (1373)' ellipse
+1374 'H 1374 (1374)' triangle
+1375 'H 1375 (1375)' triangle
+1376 'F 1376 (1376)' ellipse
+1377 'H 1377 (1377)' triangle
+1378 'F 1378 (1378)' ellipse
+1379 'F 1379 (1379)' ellipse
+1380 'H 1380 (1380)' triangle
+1381 'H 1381 (1381)' triangle
+1382 'H 1382 (1382)' triangle
+1383 'F 1383 (1383)' ellipse
+1384 'H 1384 (1384)' triangle
+1385 'H 1385 (1385)' triangle
+1386 'F 1386 (1386)' ellipse
+1387 'F 1387 (1387)' ellipse
+1388 'F 1388 (1388)' ellipse
+1389 'F 1389 (1389)' ellipse
+1390 'H 1390 (1390)' triangle
+1391 'H 1391 (1391)' triangle
+1392 'H 1392 (1392)' triangle
+1393 'F 1393 (1393)' ellipse
+1394 'F 1394 (1394)' ellipse
+1395 'H 1395 (1395)' triangle
+1396 'H 1396 (1396)' triangle
+1397 'F 1397 (1397)' ellipse
+1398 'H 1398 (1398)' triangle
+1399 'F 1399 (1399)' ellipse
+1400 'H 1400 (1400)' triangle
+1401 'F 1401 (1401)' ellipse
+1402 'H 1402 (1402)' triangle
+1403 'F 1403 (1403)' ellipse
+1404 'F 1404 (1404)' ellipse
+1405 'F 1405 (1405)' ellipse
+1406 'F 1406 (1406)' ellipse
+1407 'F 1407 (1407)' ellipse
+1408 'H 1408 (1408)' triangle
+1409 'F 1409 (1409)' ellipse
+1410 'F 1410 (1410)' ellipse
+1411 'F 1411 (1411)' ellipse
+1412 'H 1412 (1412)' triangle
+1413 'F 1413 (1413)' ellipse
+1414 'H 1414 (1414)' triangle
+1415 'F 1415 (1415)' ellipse
+1416 'F 1416 (1416)' ellipse
+1417 'F 1417 (1417)' ellipse
+1418 'F 1418 (1418)' ellipse
+1419 'H 1419 (1419)' triangle
+1420 'H 1420 (1420)' triangle
+1421 'F 1421 (1421)' ellipse
+1422 'H 1422 (1422)' triangle
+1423 'F 1423 (1423)' ellipse
+1424 'H 1424 (1424)' triangle
+1425 'F 1425 (1425)' ellipse
+1426 'F 1426 (1426)' ellipse
+1427 'H 1427 (1427)' triangle
+1428 'F 1428 (1428)' ellipse
+1429 'F 1429 (1429)' ellipse
+1430 'H 1430 (1430)' triangle
+1431 'F 1431 (1431)' ellipse
+1432 'F 1432 (1432)' ellipse
+1433 'H 1433 (1433)' triangle
+1434 'F 1434 (1434)' ellipse
+1435 'H 1435 (1435)' triangle
+1436 'H 1436 (1436)' triangle
+1437 'F 1437 (1437)' ellipse
+1438 'F 1438 (1438)' ellipse
+1439 'H 1439 (1439)' triangle
+1440 'H 1440 (1440)' triangle
+1441 'F 1441 (1441)' ellipse
+1442 'H 1442 (1442)' triangle
+1443 'F 1443 (1443)' ellipse
+1444 'H 1444 (1444)' triangle
+1445 'F 1445 (1445)' ellipse
+1446 'F 1446 (1446)' ellipse
+1447 'H 1447 (1447)' triangle
+1448 'H 1448 (1448)' triangle
+1449 'F 1449 (1449)' ellipse
+1450 'F 1450 (1450)' ellipse
+1451 'F 1451 (1451)' ellipse
+1452 'H 1452 (1452)' triangle
+1453 'F 1453 (1453)' ellipse
+1454 'F 1454 (1454)' ellipse
+1455 'H 1455 (1455)' triangle
+1456 'H 1456 (1456)' triangle
+1457 'H 1457 (1457)' triangle
+1458 'F 1458 (1458)' ellipse
+1459 'F 1459 (1459)' ellipse
+1460 'F 1460 (1460)' ellipse
+1461 'H 1461 (1461)' triangle
+1462 'F 1462 (1462)' ellipse
+1463 'H 1463 (1463)' triangle
+1464 'H 1464 (1464)' triangle
+1465 'F 1465 (1465)' ellipse
+1466 'H 1466 (1466)' triangle
+1467 'F 1467 (1467)' ellipse
+1468 'H 1468 (1468)' triangle
+1469 'F 1469 (1469)' ellipse
+1470 'F 1470 (1470)' ellipse
+1471 'H 1471 (1471)' triangle
+1472 'F 1472 (1472)' ellipse
+1473 'F 1473 (1473)' ellipse
+1474 'H 1474 (1474)' triangle
+1475 'H 1475 (1475)' triangle
+1476 'F 1476 (1476)' ellipse
+1477 'F 1477 (1477)' ellipse
+1478 'H 1478 (1478)' triangle
+1479 'H 1479 (1479)' triangle
+1480 'F 1480 (1480)' ellipse
+1481 'H 1481 (1481)' triangle
+1482 'F 1482 (1482)' ellipse
+1483 'H 1483 (1483)' triangle
+1484 'H 1484 (1484)' triangle
+1485 'F 1485 (1485)' ellipse
+1486 'H 1486 (1486)' triangle
+1487 'H 1487 (1487)' triangle
+1488 'F 1488 (1488)' ellipse
+1489 'H 1489 (1489)' triangle
+1490 'F 1490 (1490)' ellipse
+1491 'H 1491 (1491)' triangle
+1492 'H 1492 (1492)' triangle
+1493 'F 1493 (1493)' ellipse
+1494 'F 1494 (1494)' ellipse
+1495 'H 1495 (1495)' triangle
+1496 'F 1496 (1496)' ellipse
+1497 'F 1497 (1497)' ellipse
+1498 'H 1498 (1498)' triangle
+1499 'F 1499 (1499)' ellipse
+1500 'H 1500 (1500)' triangle
+1501 'F 1501 (1501)' ellipse
+1502 'F 1502 (1502)' ellipse
+1503 'F 1503 (1503)' ellipse
+1504 'H 1504 (1504)' triangle
+1505 'H 1505 (1505)' triangle
+1506 'H 1506 (1506)' triangle
+1507 'F 1507 (1507)' ellipse
+1508 'H 1508 (1508)' triangle
+1509 'F 1509 (1509)' ellipse
+1510 'H 1510 (1510)' triangle
+1511 'H 1511 (1511)' triangle
+1512 'H 1512 (1512)' triangle
+1513 'F 1513 (1513)' ellipse
+1514 'H 1514 (1514)' triangle
+1515 'F 1515 (1515)' ellipse
+1516 'F 1516 (1516)' ellipse
+1517 'F 1517 (1517)' ellipse
+1518 'H 1518 (1518)' triangle
+1519 'F 1519 (1519)' ellipse
+1520 'H 1520 (1520)' triangle
+1521 'H 1521 (1521)' triangle
+1522 'F 1522 (1522)' ellipse
+1523 'H 1523 (1523)' triangle
+1524 'H 1524 (1524)' triangle
+1525 'F 1525 (1525)' ellipse
+1526 'H 1526 (1526)' triangle
+1527 'F 1527 (1527)' ellipse
+1528 'H 1528 (1528)' triangle
+1529 'H 1529 (1529)' triangle
+1530 'F 1530 (1530)' ellipse
+1531 'H 1531 (1531)' triangle
+1532 'F 1532 (1532)' ellipse
+1533 'H 1533 (1533)' triangle
+1534 'F 1534 (1534)' ellipse
+1535 'F 1535 (1535)' ellipse
+1536 'H 1536 (1536)' triangle
+1537 'F 1537 (1537)' ellipse
+1538 'H 1538 (1538)' triangle
+1539 'F 1539 (1539)' ellipse
+1540 'H 1540 (1540)' triangle
+1541 'H 1541 (1541)' triangle
+1542 'F 1542 (1542)' ellipse
+1543 'H 1543 (1543)' triangle
+1544 'F 1544 (1544)' ellipse
+1545 'F 1545 (1545)' ellipse
+1546 'H 1546 (1546)' triangle
+1547 'F 1547 (1547)' ellipse
+1548 'H 1548 (1548)' triangle
+1549 'F 1549 (1549)' ellipse
+1550 'H 1550 (1550)' triangle
+1551 'H 1551 (1551)' triangle
+1552 'F 1552 (1552)' ellipse
+1553 'H 1553 (1553)' triangle
+1554 'F 1554 (1554)' ellipse
+1555 'F 1555 (1555)' ellipse
+1556 'H 1556 (1556)' triangle
+1557 'H 1557 (1557)' triangle
+1558 'F 1558 (1558)' ellipse
+1559 'H 1559 (1559)' triangle
+1560 'H 1560 (1560)' triangle
+1561 'H 1561 (1561)' triangle
+1562 'F 1562 (1562)' ellipse
+1563 'F 1563 (1563)' ellipse
+1564 'H 1564 (1564)' triangle
+1565 'H 1565 (1565)' triangle
+1566 'H 1566 (1566)' triangle
+1567 'H 1567 (1567)' triangle
+1568 'F 1568 (1568)' ellipse
+1569 'H 1569 (1569)' triangle
+1570 'H 1570 (1570)' triangle
+1571 'H 1571 (1571)' triangle
+1572 'F 1572 (1572)' ellipse
+1573 'H 1573 (1573)' triangle
+1574 'F 1574 (1574)' ellipse
+1575 'H 1575 (1575)' triangle
+1576 'F 1576 (1576)' ellipse
+1577 'H 1577 (1577)' triangle
+1578 'F 1578 (1578)' ellipse
+1579 'F 1579 (1579)' ellipse
+1580 'H 1580 (1580)' triangle
+1581 'F 1581 (1581)' ellipse
+1582 'H 1582 (1582)' triangle
+1583 'F 1583 (1583)' ellipse
+1584 'F 1584 (1584)' ellipse
+1585 'F 1585 (1585)' ellipse
+1586 'H 1586 (1586)' triangle
+1587 'F 1587 (1587)' ellipse
+1588 'H 1588 (1588)' triangle
+1589 'H 1589 (1589)' triangle
+1590 'F 1590 (1590)' ellipse
+1591 'H 1591 (1591)' triangle
+1592 'F 1592 (1592)' ellipse
+1593 'F 1593 (1593)' ellipse
+1594 'H 1594 (1594)' triangle
+1595 'F 1595 (1595)' ellipse
+1596 'H 1596 (1596)' triangle
+1597 'F 1597 (1597)' ellipse
+1598 'F 1598 (1598)' ellipse
+1599 'H 1599 (1599)' triangle
+1600 'H 1600 (1600)' triangle
+1601 'F 1601 (1601)' ellipse
+1602 'F 1602 (1602)' ellipse
+1603 'F 1603 (1603)' ellipse
+1604 'F 1604 (1604)' ellipse
+1605 'H 1605 (1605)' triangle
+1606 'H 1606 (1606)' triangle
+1607 'F 1607 (1607)' ellipse
+1608 'F 1608 (1608)' ellipse
+1609 'H 1609 (1609)' triangle
+1610 'H 1610 (1610)' triangle
+1611 'H 1611 (1611)' triangle
+1612 'F 1612 (1612)' ellipse
+1613 'H 1613 (1613)' triangle
+1614 'H 1614 (1614)' triangle
+1615 'H 1615 (1615)' triangle
+1616 'F 1616 (1616)' ellipse
+1617 'F 1617 (1617)' ellipse
+1618 'F 1618 (1618)' ellipse
+1619 'H 1619 (1619)' triangle
+1620 'H 1620 (1620)' triangle
+1621 'F 1621 (1621)' ellipse
+1622 'F 1622 (1622)' ellipse
+1623 'H 1623 (1623)' triangle
+1624 'F 1624 (1624)' ellipse
+1625 'H 1625 (1625)' triangle
+1626 'F 1626 (1626)' ellipse
+1627 'F 1627 (1627)' ellipse
+1628 'H 1628 (1628)' triangle
+1629 'H 1629 (1629)' triangle
+1630 'F 1630 (1630)' ellipse
+1631 'F 1631 (1631)' ellipse
+1632 'F 1632 (1632)' ellipse
+1633 'F 1633 (1633)' ellipse
+1634 'H 1634 (1634)' triangle
+1635 'H 1635 (1635)' triangle
+1636 'H 1636 (1636)' triangle
+1637 'F 1637 (1637)' ellipse
+1638 'H 1638 (1638)' triangle
+1639 'F 1639 (1639)' ellipse
+1640 'H 1640 (1640)' triangle
+1641 'F 1641 (1641)' ellipse
+1642 'H 1642 (1642)' triangle
+1643 'H 1643 (1643)' triangle
+1644 'H 1644 (1644)' triangle
+1645 'F 1645 (1645)' ellipse
+1646 'F 1646 (1646)' ellipse
+1647 'H 1647 (1647)' triangle
+1648 'F 1648 (1648)' ellipse
+1649 'H 1649 (1649)' triangle
+1650 'F 1650 (1650)' ellipse
+1651 'H 1651 (1651)' triangle
+1652 'H 1652 (1652)' triangle
+1653 'F 1653 (1653)' ellipse
+1654 'H 1654 (1654)' triangle
+1655 'F 1655 (1655)' ellipse
+1656 'F 1656 (1656)' ellipse
+1657 'F 1657 (1657)' ellipse
+1658 'F 1658 (1658)' ellipse
+1659 'H 1659 (1659)' triangle
+1660 'F 1660 (1660)' ellipse
+1661 'F 1661 (1661)' ellipse
+1662 'F 1662 (1662)' ellipse
+1663 'F 1663 (1663)' ellipse
+1664 'H 1664 (1664)' triangle
+1665 'F 1665 (1665)' ellipse
+1666 'F 1666 (1666)' ellipse
+1667 'H 1667 (1667)' triangle
+1668 'F 1668 (1668)' ellipse
+1669 'H 1669 (1669)' triangle
+1670 'H 1670 (1670)' triangle
+1671 'F 1671 (1671)' ellipse
+1672 'H 1672 (1672)' triangle
+1673 'F 1673 (1673)' ellipse
+1674 'H 1674 (1674)' triangle
+1675 'H 1675 (1675)' triangle
+1676 'F 1676 (1676)' ellipse
+1677 'F 1677 (1677)' ellipse
+1678 'H 1678 (1678)' triangle
+1679 'H 1679 (1679)' triangle
+1680 'F 1680 (1680)' ellipse
+1681 'H 1681 (1681)' triangle
+1682 'H 1682 (1682)' triangle
+1683 'F 1683 (1683)' ellipse
+1684 'F 1684 (1684)' ellipse
+1685 'F 1685 (1685)' ellipse
+1686 'F 1686 (1686)' ellipse
+1687 'F 1687 (1687)' ellipse
+1688 'H 1688 (1688)' triangle
+1689 'H 1689 (1689)' triangle
+1690 'H 1690 (1690)' triangle
+1691 'F 1691 (1691)' ellipse
+1692 'F 1692 (1692)' ellipse
+1693 'F 1693 (1693)' ellipse
+1694 'H 1694 (1694)' triangle
+1695 'F 1695 (1695)' ellipse
+1696 'F 1696 (1696)' ellipse
+1697 'F 1697 (1697)' ellipse
+1698 'H 1698 (1698)' triangle
+1699 'F 1699 (1699)' ellipse
+1700 'F 1700 (1700)' ellipse
+1701 'H 1701 (1701)' triangle
+1702 'H 1702 (1702)' triangle
+1703 'F 1703 (1703)' ellipse
+1704 'H 1704 (1704)' triangle
+1705 'H 1705 (1705)' triangle
+1706 'F 1706 (1706)' ellipse
+1707 'H 1707 (1707)' triangle
+1708 'F 1708 (1708)' ellipse
+1709 'F 1709 (1709)' ellipse
+1710 'H 1710 (1710)' triangle
+1711 'F 1711 (1711)' ellipse
+1712 'F 1712 (1712)' ellipse
+1713 'H 1713 (1713)' triangle
+1714 'H 1714 (1714)' triangle
+1715 'F 1715 (1715)' ellipse
+1716 'F 1716 (1716)' ellipse
+1717 'F 1717 (1717)' ellipse
+1718 'F 1718 (1718)' ellipse
+1719 'H 1719 (1719)' triangle
+1720 'F 1720 (1720)' ellipse
+1721 'F 1721 (1721)' ellipse
+1722 'H 1722 (1722)' triangle
+1723 'F 1723 (1723)' ellipse
+1724 'H 1724 (1724)' triangle
+1725 'H 1725 (1725)' triangle
+1726 'H 1726 (1726)' triangle
+1727 'H 1727 (1727)' triangle
+1728 'F 1728 (1728)' ellipse
+1729 'H 1729 (1729)' triangle
+1730 'F 1730 (1730)' ellipse
+1731 'F 1731 (1731)' ellipse
+1732 'H 1732 (1732)' triangle
+1733 'F 1733 (1733)' ellipse
+1734 'H 1734 (1734)' triangle
+1735 'F 1735 (1735)' ellipse
+1736 'F 1736 (1736)' ellipse
+1737 'F 1737 (1737)' ellipse
+1738 'H 1738 (1738)' triangle
+1739 'F 1739 (1739)' ellipse
+1740 'H 1740 (1740)' triangle
+1741 'H 1741 (1741)' triangle
+1742 'H 1742 (1742)' triangle
+1743 'F 1743 (1743)' ellipse
+1744 'F 1744 (1744)' ellipse
+1745 'H 1745 (1745)' triangle
+1746 'F 1746 (1746)' ellipse
+1747 'H 1747 (1747)' triangle
+1748 'F 1748 (1748)' ellipse
+1749 'H 1749 (1749)' triangle
+1750 'F 1750 (1750)' ellipse
+1751 'F 1751 (1751)' ellipse
+1752 'H 1752 (1752)' triangle
+1753 'H 1753 (1753)' triangle
+1754 'F 1754 (1754)' ellipse
+1755 'H 1755 (1755)' triangle
+1756 'F 1756 (1756)' ellipse
+1757 'H 1757 (1757)' triangle
+1758 'F 1758 (1758)' ellipse
+1759 'F 1759 (1759)' ellipse
+1760 'H 1760 (1760)' triangle
+1761 'F 1761 (1761)' ellipse
+1762 'F 1762 (1762)' ellipse
+1763 'H 1763 (1763)' triangle
+1764 'H 1764 (1764)' triangle
+1765 'H 1765 (1765)' triangle
+1766 'F 1766 (1766)' ellipse
+1767 'F 1767 (1767)' ellipse
+1768 'H 1768 (1768)' triangle
+1769 'F 1769 (1769)' ellipse
+1770 'F 1770 (1770)' ellipse
+1771 'H 1771 (1771)' triangle
+1772 'H 1772 (1772)' triangle
+1773 'F 1773 (1773)' ellipse
+1774 'H 1774 (1774)' triangle
+1775 'H 1775 (1775)' triangle
+1776 'F 1776 (1776)' ellipse
+1777 'H 1777 (1777)' triangle
+1778 'H 1778 (1778)' triangle
+1779 'F 1779 (1779)' ellipse
+1780 'H 1780 (1780)' triangle
+1781 'F 1781 (1781)' ellipse
+1782 'H 1782 (1782)' triangle
+1783 'F 1783 (1783)' ellipse
+1784 'H 1784 (1784)' triangle
+1785 'F 1785 (1785)' ellipse
+1786 'F 1786 (1786)' ellipse
+1787 'F 1787 (1787)' ellipse
+1788 'H 1788 (1788)' triangle
+1789 'H 1789 (1789)' triangle
+1790 'F 1790 (1790)' ellipse
+1791 'H 1791 (1791)' triangle
+1792 'H 1792 (1792)' triangle
+1793 'H 1793 (1793)' triangle
+1794 'H 1794 (1794)' triangle
+1795 'F 1795 (1795)' ellipse
+1796 'F 1796 (1796)' ellipse
+1797 'H 1797 (1797)' triangle
+1798 'F 1798 (1798)' ellipse
+1799 'F 1799 (1799)' ellipse
+1800 'F 1800 (1800)' ellipse
+1801 'F 1801 (1801)' ellipse
+1802 'H 1802 (1802)' triangle
+1803 'F 1803 (1803)' ellipse
+1804 'H 1804 (1804)' triangle
+1805 'F 1805 (1805)' ellipse
+1806 'F 1806 (1806)' ellipse
+1807 'H 1807 (1807)' triangle
+1808 'H 1808 (1808)' triangle
+1809 'H 1809 (1809)' triangle
+1810 'F 1810 (1810)' ellipse
+1811 'F 1811 (1811)' ellipse
+1812 'F 1812 (1812)' ellipse
+1813 'F 1813 (1813)' ellipse
+1814 'F 1814 (1814)' ellipse
+1815 'F 1815 (1815)' ellipse
+1816 'H 1816 (1816)' triangle
+1817 'F 1817 (1817)' ellipse
+1818 'F 1818 (1818)' ellipse
+1819 'F 1819 (1819)' ellipse
+1820 'H 1820 (1820)' triangle
+1821 'H 1821 (1821)' triangle
+1822 'F 1822 (1822)' ellipse
+1823 'H 1823 (1823)' triangle
+1824 'F 1824 (1824)' ellipse
+1825 'F 1825 (1825)' ellipse
+1826 'F 1826 (1826)' ellipse
+1827 'F 1827 (1827)' ellipse
+1828 'H 1828 (1828)' triangle
+1829 'F 1829 (1829)' ellipse
+1830 'F 1830 (1830)' ellipse
+1831 'H 1831 (1831)' triangle
+1832 'H 1832 (1832)' triangle
+1833 'H 1833 (1833)' triangle
+1834 'F 1834 (1834)' ellipse
+1835 'F 1835 (1835)' ellipse
+1836 'F 1836 (1836)' ellipse
+1837 'H 1837 (1837)' triangle
+1838 'H 1838 (1838)' triangle
+1839 'F 1839 (1839)' ellipse
+1840 'H 1840 (1840)' triangle
+1841 'H 1841 (1841)' triangle
+1842 'F 1842 (1842)' ellipse
+1843 'F 1843 (1843)' ellipse
+1844 'H 1844 (1844)' triangle
+1845 'F 1845 (1845)' ellipse
+1846 'F 1846 (1846)' ellipse
+1847 'H 1847 (1847)' triangle
+1848 'F 1848 (1848)' ellipse
+1849 'F 1849 (1849)' ellipse
+1850 'F 1850 (1850)' ellipse
+1851 'H 1851 (1851)' triangle
+1852 'H 1852 (1852)' triangle
+1853 'H 1853 (1853)' triangle
+1854 'F 1854 (1854)' ellipse
+1855 'H 1855 (1855)' triangle
+1856 'F 1856 (1856)' ellipse
+1857 'F 1857 (1857)' ellipse
+1858 'F 1858 (1858)' ellipse
+1859 'F 1859 (1859)' ellipse
+1860 'H 1860 (1860)' triangle
+1861 'F 1861 (1861)' ellipse
+1862 'H 1862 (1862)' triangle
+1863 'H 1863 (1863)' triangle
+1864 'F 1864 (1864)' ellipse
+1865 'F 1865 (1865)' ellipse
+1866 'H 1866 (1866)' triangle
+1867 'H 1867 (1867)' triangle
+1868 'F 1868 (1868)' ellipse
+1869 'H 1869 (1869)' triangle
+1870 'F 1870 (1870)' ellipse
+1871 'F 1871 (1871)' ellipse
+1872 'H 1872 (1872)' triangle
+1873 'F 1873 (1873)' ellipse
+1874 'F 1874 (1874)' ellipse
+1875 'H 1875 (1875)' triangle
+1876 'F 1876 (1876)' ellipse
+1877 'H 1877 (1877)' triangle
+1878 'F 1878 (1878)' ellipse
+1879 'H 1879 (1879)' triangle
+1880 'F 1880 (1880)' ellipse
+1881 'H 1881 (1881)' triangle
+1882 'H 1882 (1882)' triangle
+1883 'H 1883 (1883)' triangle
+1884 'F 1884 (1884)' ellipse
+1885 'H 1885 (1885)' triangle
+1886 'F 1886 (1886)' ellipse
+1887 'F 1887 (1887)' ellipse
+1888 'H 1888 (1888)' triangle
+1889 'F 1889 (1889)' ellipse
+1890 'F 1890 (1890)' ellipse
+1891 'H 1891 (1891)' triangle
+1892 'F 1892 (1892)' ellipse
+1893 'H 1893 (1893)' triangle
+1894 'H 1894 (1894)' triangle
+1895 'F 1895 (1895)' ellipse
+1896 'F 1896 (1896)' ellipse
+1897 'H 1897 (1897)' triangle
+1898 'H 1898 (1898)' triangle
+1899 'F 1899 (1899)' ellipse
+1900 'H 1900 (1900)' triangle
+1901 'F 1901 (1901)' ellipse
+1902 'H 1902 (1902)' triangle
+1903 'H 1903 (1903)' triangle
+1904 'F 1904 (1904)' ellipse
+1905 'F 1905 (1905)' ellipse
+1906 'H 1906 (1906)' triangle
+1907 'F 1907 (1907)' ellipse
+1908 'F 1908 (1908)' ellipse
+1909 'H 1909 (1909)' triangle
+1910 'H 1910 (1910)' triangle
+1911 'F 1911 (1911)' ellipse
+1912 'H 1912 (1912)' triangle
+1913 'H 1913 (1913)' triangle
+1914 'F 1914 (1914)' ellipse
+1915 'F 1915 (1915)' ellipse
+1916 'F 1916 (1916)' ellipse
+1917 'H 1917 (1917)' triangle
+1918 'F 1918 (1918)' ellipse
+1919 'F 1919 (1919)' ellipse
+1920 'F 1920 (1920)' ellipse
+1921 'F 1921 (1921)' ellipse
+1922 'F 1922 (1922)' ellipse
+1923 'F 1923 (1923)' ellipse
+1924 'H 1924 (1924)' triangle
+1925 'F 1925 (1925)' ellipse
+1926 'H 1926 (1926)' triangle
+1927 'H 1927 (1927)' triangle
+1928 'F 1928 (1928)' ellipse
+1929 'H 1929 (1929)' triangle
+1930 'F 1930 (1930)' ellipse
+1931 'H 1931 (1931)' triangle
+1932 'F 1932 (1932)' ellipse
+1933 'H 1933 (1933)' triangle
+1934 'H 1934 (1934)' triangle
+1935 'F 1935 (1935)' ellipse
+1936 'H 1936 (1936)' triangle
+1937 'F 1937 (1937)' ellipse
+1938 'H 1938 (1938)' triangle
+1939 'F 1939 (1939)' ellipse
+1940 'F 1940 (1940)' ellipse
+1941 'H 1941 (1941)' triangle
+1942 'F 1942 (1942)' ellipse
+1943 'H 1943 (1943)' triangle
+1944 'H 1944 (1944)' triangle
+1945 'H 1945 (1945)' triangle
+1946 'F 1946 (1946)' ellipse
+1947 'F 1947 (1947)' ellipse
+1948 'H 1948 (1948)' triangle
+1949 'F 1949 (1949)' ellipse
+1950 'H 1950 (1950)' triangle
+1951 'F 1951 (1951)' ellipse
+1952 'F 1952 (1952)' ellipse
+1953 'H 1953 (1953)' triangle
+1954 'F 1954 (1954)' ellipse
+1955 'H 1955 (1955)' triangle
+1956 'H 1956 (1956)' triangle
+1957 'H 1957 (1957)' triangle
+1958 'H 1958 (1958)' triangle
+1959 'F 1959 (1959)' ellipse
+1960 'H 1960 (1960)' triangle
+1961 'F 1961 (1961)' ellipse
+1962 'H 1962 (1962)' triangle
+1963 'F 1963 (1963)' ellipse
+1964 'F 1964 (1964)' ellipse
+1965 'F 1965 (1965)' ellipse
+1966 'H 1966 (1966)' triangle
+1967 'F 1967 (1967)' ellipse
+1968 'F 1968 (1968)' ellipse
+1969 'F 1969 (1969)' ellipse
+1970 'H 1970 (1970)' triangle
+1971 'F 1971 (1971)' ellipse
+1972 'H 1972 (1972)' triangle
+1973 'F 1973 (1973)' ellipse
+1974 'H 1974 (1974)' triangle
+1975 'H 1975 (1975)' triangle
+1976 'H 1976 (1976)' triangle
+1977 'F 1977 (1977)' ellipse
+1978 'H 1978 (1978)' triangle
+1979 'F 1979 (1979)' ellipse
+1980 'H 1980 (1980)' triangle
+1981 'F 1981 (1981)' ellipse
+1982 'F 1982 (1982)' ellipse
+1983 'F 1983 (1983)' ellipse
+1984 'H 1984 (1984)' triangle
+1985 'H 1985 (1985)' triangle
+1986 'F 1986 (1986)' ellipse
+1987 'F 1987 (1987)' ellipse
+1988 'F 1988 (1988)' ellipse
+1989 'H 1989 (1989)' triangle
+1990 'H 1990 (1990)' triangle
+1991 'F 1991 (1991)' ellipse
+1992 'H 1992 (1992)' triangle
+1993 'F 1993 (1993)' ellipse
+1994 'F 1994 (1994)' ellipse
+1995 'H 1995 (1995)' triangle
+1996 'F 1996 (1996)' ellipse
+1997 'H 1997 (1997)' triangle
+1998 'F 1998 (1998)' ellipse
+1999 'H 1999 (1999)' triangle
+2000 'F 2000 (2000)' ellipse
+2001 'F 2001 (2001)' ellipse
+2002 'F 2002 (2002)' ellipse
+2003 'H 2003 (2003)' triangle
+2004 'H 2004 (2004)' triangle
+2005 'F 2005 (2005)' ellipse
+2006 'H 2006 (2006)' triangle
+2007 'H 2007 (2007)' triangle
+2008 'F 2008 (2008)' ellipse
+2009 'H 2009 (2009)' triangle
+2010 'H 2010 (2010)' triangle
+2011 'H 2011 (2011)' triangle
+2012 'H 2012 (2012)' triangle
+2013 'F 2013 (2013)' ellipse
+2014 'H 2014 (2014)' triangle
+2015 'H 2015 (2015)' triangle
+2016 'H 2016 (2016)' triangle
+2017 'F 2017 (2017)' ellipse
+2018 'H 2018 (2018)' triangle
+2019 'F 2019 (2019)' ellipse
+2020 'F 2020 (2020)' ellipse
+2021 'F 2021 (2021)' ellipse
+2022 'F 2022 (2022)' ellipse
+2023 'F 2023 (2023)' ellipse
+2024 'F 2024 (2024)' ellipse
+2025 'F 2025 (2025)' ellipse
+2026 'F 2026 (2026)' ellipse
+2027 'F 2027 (2027)' ellipse
+2028 'H 2028 (2028)' triangle
+2029 'F 2029 (2029)' ellipse
+2030 'H 2030 (2030)' triangle
+2031 'F 2031 (2031)' ellipse
+2032 'H 2032 (2032)' triangle
+2033 'F 2033 (2033)' ellipse
+2034 'H 2034 (2034)' triangle
+2035 'F 2035 (2035)' ellipse
+2036 'F 2036 (2036)' ellipse
+2037 'F 2037 (2037)' ellipse
+2038 'H 2038 (2038)' triangle
+2039 'H 2039 (2039)' triangle
+2040 'F 2040 (2040)' ellipse
+2041 'H 2041 (2041)' triangle
+2042 'F 2042 (2042)' ellipse
+2043 'H 2043 (2043)' triangle
+2044 'F 2044 (2044)' ellipse
+2045 'H 2045 (2045)' triangle
+2046 'H 2046 (2046)' triangle
+2047 'F 2047 (2047)' ellipse
+2048 'H 2048 (2048)' triangle
+2049 'F 2049 (2049)' ellipse
+2050 'H 2050 (2050)' triangle
+2051 'F 2051 (2051)' ellipse
+2052 'F 2052 (2052)' ellipse
+2053 'F 2053 (2053)' ellipse
+2054 'H 2054 (2054)' triangle
+2055 'F 2055 (2055)' ellipse
+2056 'F 2056 (2056)' ellipse
+2057 'F 2057 (2057)' ellipse
+2058 'H 2058 (2058)' triangle
+2059 'H 2059 (2059)' triangle
+2060 'F 2060 (2060)' ellipse
+2061 'H 2061 (2061)' triangle
+2062 'F 2062 (2062)' ellipse
+2063 'F 2063 (2063)' ellipse
+2064 'F 2064 (2064)' ellipse
+2065 'H 2065 (2065)' triangle
+2066 'H 2066 (2066)' triangle
+2067 'F 2067 (2067)' ellipse
+2068 'H 2068 (2068)' triangle
+2069 'F 2069 (2069)' ellipse
+2070 'H 2070 (2070)' triangle
+2071 'F 2071 (2071)' ellipse
+2072 'H 2072 (2072)' triangle
+2073 'H 2073 (2073)' triangle
+2074 'F 2074 (2074)' ellipse
+2075 'H 2075 (2075)' triangle
+2076 'F 2076 (2076)' ellipse
+2077 'H 2077 (2077)' triangle
+2078 'H 2078 (2078)' triangle
+2079 'F 2079 (2079)' ellipse
+2080 'F 2080 (2080)' ellipse
+2081 'H 2081 (2081)' triangle
+2082 'F 2082 (2082)' ellipse
+2083 'H 2083 (2083)' triangle
+2084 'F 2084 (2084)' ellipse
+2085 'H 2085 (2085)' triangle
+2086 'H 2086 (2086)' triangle
+2087 'F 2087 (2087)' ellipse
+2088 'H 2088 (2088)' triangle
+2089 'H 2089 (2089)' triangle
+2090 'F 2090 (2090)' ellipse
+2091 'F 2091 (2091)' ellipse
+2092 'H 2092 (2092)' triangle
+2093 'F 2093 (2093)' ellipse
+2094 'F 2094 (2094)' ellipse
+2095 'H 2095 (2095)' triangle
+2096 'F 2096 (2096)' ellipse
+2097 'H 2097 (2097)' triangle
+2098 'F 2098 (2098)' ellipse
+2099 'H 2099 (2099)' triangle
+2100 'F 2100 (2100)' ellipse
+2101 'H 2101 (2101)' triangle
+2102 'H 2102 (2102)' triangle
+2103 'F 2103 (2103)' ellipse
+2104 'H 2104 (2104)' triangle
+2105 'F 2105 (2105)' ellipse
+2106 'H 2106 (2106)' triangle
+2107 'F 2107 (2107)' ellipse
+2108 'H 2108 (2108)' triangle
+2109 'F 2109 (2109)' ellipse
+2110 'H 2110 (2110)' triangle
+2111 'F 2111 (2111)' ellipse
+2112 'F 2112 (2112)' ellipse
+2113 'H 2113 (2113)' triangle
+2114 'F 2114 (2114)' ellipse
+2115 'F 2115 (2115)' ellipse
+2116 'F 2116 (2116)' ellipse
+2117 'H 2117 (2117)' triangle
+2118 'F 2118 (2118)' ellipse
+2119 'H 2119 (2119)' triangle
+2120 'H 2120 (2120)' triangle
+2121 'F 2121 (2121)' ellipse
+2122 'F 2122 (2122)' ellipse
+2123 'H 2123 (2123)' triangle
+2124 'F 2124 (2124)' ellipse
+2125 'F 2125 (2125)' ellipse
+2126 'H 2126 (2126)' triangle
+2127 'F 2127 (2127)' ellipse
+2128 'H 2128 (2128)' triangle
+2129 'F 2129 (2129)' ellipse
+2130 'H 2130 (2130)' triangle
+2131 'F 2131 (2131)' ellipse
+2132 'H 2132 (2132)' triangle
+2133 'F 2133 (2133)' ellipse
+2134 'F 2134 (2134)' ellipse
+2135 'F 2135 (2135)' ellipse
+2136 'H 2136 (2136)' triangle
+2137 'F 2137 (2137)' ellipse
+2138 'H 2138 (2138)' triangle
+2139 'F 2139 (2139)' ellipse
+2140 'H 2140 (2140)' triangle
+2141 'F 2141 (2141)' ellipse
+2142 'H 2142 (2142)' triangle
+2143 'F 2143 (2143)' ellipse
+2144 'H 2144 (2144)' triangle
+2145 'H 2145 (2145)' triangle
+2146 'F 2146 (2146)' ellipse
+2147 'H 2147 (2147)' triangle
+2148 'F 2148 (2148)' ellipse
+2149 'H 2149 (2149)' triangle
+2150 'F 2150 (2150)' ellipse
+2151 'F 2151 (2151)' ellipse
+2152 'H 2152 (2152)' triangle
+2153 'H 2153 (2153)' triangle
+2154 'F 2154 (2154)' ellipse
+2155 'H 2155 (2155)' triangle
+2156 'F 2156 (2156)' ellipse
+2157 'H 2157 (2157)' triangle
+2158 'F 2158 (2158)' ellipse
+2159 'F 2159 (2159)' ellipse
+2160 'F 2160 (2160)' ellipse
+2161 'F 2161 (2161)' ellipse
+2162 'F 2162 (2162)' ellipse
+2163 'F 2163 (2163)' ellipse
+2164 'F 2164 (2164)' ellipse
+2165 'F 2165 (2165)' ellipse
+2166 'H 2166 (2166)' triangle
+2167 'F 2167 (2167)' ellipse
+2168 'H 2168 (2168)' triangle
+2169 'F 2169 (2169)' ellipse
+2170 'H 2170 (2170)' triangle
+2171 'F 2171 (2171)' ellipse
+2172 'H 2172 (2172)' triangle
+2173 'H 2173 (2173)' triangle
+2174 'H 2174 (2174)' triangle
+2175 'F 2175 (2175)' ellipse
+2176 'F 2176 (2176)' ellipse
+2177 'F 2177 (2177)' ellipse
+2178 'F 2178 (2178)' ellipse
+2179 'F 2179 (2179)' ellipse
+2180 'F 2180 (2180)' ellipse
+2181 'H 2181 (2181)' triangle
+2182 'F 2182 (2182)' ellipse
+2183 'H 2183 (2183)' triangle
+2184 'F 2184 (2184)' ellipse
+2185 'H 2185 (2185)' triangle
+2186 'H 2186 (2186)' triangle
+2187 'F 2187 (2187)' ellipse
+2188 'F 2188 (2188)' ellipse
+2189 'H 2189 (2189)' triangle
+2190 'H 2190 (2190)' triangle
+2191 'F 2191 (2191)' ellipse
+2192 'H 2192 (2192)' triangle
+2193 'F 2193 (2193)' ellipse
+2194 'H 2194 (2194)' triangle
+2195 'F 2195 (2195)' ellipse
+2196 'H 2196 (2196)' triangle
+2197 'H 2197 (2197)' triangle
+2198 'F 2198 (2198)' ellipse
+2199 'H 2199 (2199)' triangle
+2200 'H 2200 (2200)' triangle
+2201 'F 2201 (2201)' ellipse
+2202 'H 2202 (2202)' triangle
+2203 'F 2203 (2203)' ellipse
+2204 'F 2204 (2204)' ellipse
+2205 'H 2205 (2205)' triangle
+2206 'F 2206 (2206)' ellipse
+2207 'H 2207 (2207)' triangle
+2208 'F 2208 (2208)' ellipse
+2209 'F 2209 (2209)' ellipse
+2210 'H 2210 (2210)' triangle
+2211 'F 2211 (2211)' ellipse
+2212 'F 2212 (2212)' ellipse
+2213 'F 2213 (2213)' ellipse
+2214 'H 2214 (2214)' triangle
+2215 'F 2215 (2215)' ellipse
+2216 'H 2216 (2216)' triangle
+2217 'F 2217 (2217)' ellipse
+2218 'H 2218 (2218)' triangle
+2219 'F 2219 (2219)' ellipse
+2220 'H 2220 (2220)' triangle
+2221 'F 2221 (2221)' ellipse
+2222 'F 2222 (2222)' ellipse
+2223 'H 2223 (2223)' triangle
+2224 'H 2224 (2224)' triangle
+2225 'H 2225 (2225)' triangle
+2226 'H 2226 (2226)' triangle
+2227 'F 2227 (2227)' ellipse
+2228 'F 2228 (2228)' ellipse
+2229 'H 2229 (2229)' triangle
+2230 'H 2230 (2230)' triangle
+2231 'F 2231 (2231)' ellipse
+2232 'H 2232 (2232)' triangle
+2233 'F 2233 (2233)' ellipse
+2234 'F 2234 (2234)' ellipse
+2235 'H 2235 (2235)' triangle
+2236 'F 2236 (2236)' ellipse
+2237 'H 2237 (2237)' triangle
+2238 'H 2238 (2238)' triangle
+2239 'H 2239 (2239)' triangle
+2240 'H 2240 (2240)' triangle
+2241 'F 2241 (2241)' ellipse
+2242 'F 2242 (2242)' ellipse
+2243 'H 2243 (2243)' triangle
+2244 'H 2244 (2244)' triangle
+2245 'F 2245 (2245)' ellipse
+2246 'F 2246 (2246)' ellipse
+2247 'H 2247 (2247)' triangle
+2248 'F 2248 (2248)' ellipse
+2249 'F 2249 (2249)' ellipse
+2250 'H 2250 (2250)' triangle
+2251 'F 2251 (2251)' ellipse
+2252 'F 2252 (2252)' ellipse
+2253 'H 2253 (2253)' triangle
+2254 'H 2254 (2254)' triangle
+2255 'F 2255 (2255)' ellipse
+2256 'H 2256 (2256)' triangle
+2257 'F 2257 (2257)' ellipse
+2258 'F 2258 (2258)' ellipse
+2259 'F 2259 (2259)' ellipse
+2260 'F 2260 (2260)' ellipse
+2261 'H 2261 (2261)' triangle
+2262 'F 2262 (2262)' ellipse
+2263 'F 2263 (2263)' ellipse
+2264 'H 2264 (2264)' triangle
+2265 'H 2265 (2265)' triangle
+2266 'H 2266 (2266)' triangle
+2267 'F 2267 (2267)' ellipse
+2268 'H 2268 (2268)' triangle
+2269 'F 2269 (2269)' ellipse
+2270 'F 2270 (2270)' ellipse
+2271 'F 2271 (2271)' ellipse
+2272 'H 2272 (2272)' triangle
+2273 'F 2273 (2273)' ellipse
+2274 'F 2274 (2274)' ellipse
+2275 'H 2275 (2275)' triangle
+2276 'F 2276 (2276)' ellipse
+2277 'H 2277 (2277)' triangle
+2278 'F 2278 (2278)' ellipse
+2279 'H 2279 (2279)' triangle
+2280 'F 2280 (2280)' ellipse
+2281 'F 2281 (2281)' ellipse
+2282 'F 2282 (2282)' ellipse
+2283 'F 2283 (2283)' ellipse
+2284 'H 2284 (2284)' triangle
+2285 'F 2285 (2285)' ellipse
+2286 'F 2286 (2286)' ellipse
+2287 'F 2287 (2287)' ellipse
+2288 'F 2288 (2288)' ellipse
+2289 'H 2289 (2289)' triangle
+2290 'F 2290 (2290)' ellipse
+2291 'H 2291 (2291)' triangle
+2292 'F 2292 (2292)' ellipse
+2293 'H 2293 (2293)' triangle
+2294 'H 2294 (2294)' triangle
+2295 'F 2295 (2295)' ellipse
+2296 'H 2296 (2296)' triangle
+2297 'H 2297 (2297)' triangle
+2298 'F 2298 (2298)' ellipse
+2299 'H 2299 (2299)' triangle
+2300 'F 2300 (2300)' ellipse
+2301 'H 2301 (2301)' triangle
+2302 'H 2302 (2302)' triangle
+2303 'F 2303 (2303)' ellipse
+2304 'H 2304 (2304)' triangle
+2305 'F 2305 (2305)' ellipse
+2306 'H 2306 (2306)' triangle
+2307 'F 2307 (2307)' ellipse
+2308 'H 2308 (2308)' triangle
+2309 'H 2309 (2309)' triangle
+2310 'F 2310 (2310)' ellipse
+2311 'F 2311 (2311)' ellipse
+2312 'H 2312 (2312)' triangle
+2313 'H 2313 (2313)' triangle
+2314 'F 2314 (2314)' ellipse
+2315 'H 2315 (2315)' triangle
+2316 'F 2316 (2316)' ellipse
+2317 'F 2317 (2317)' ellipse
+2318 'H 2318 (2318)' triangle
+2319 'H 2319 (2319)' triangle
+2320 'F 2320 (2320)' ellipse
+2321 'F 2321 (2321)' ellipse
+2322 'H 2322 (2322)' triangle
+2323 'F 2323 (2323)' ellipse
+2324 'H 2324 (2324)' triangle
+2325 'F 2325 (2325)' ellipse
+2326 'H 2326 (2326)' triangle
+2327 'F 2327 (2327)' ellipse
+2328 'H 2328 (2328)' triangle
+2329 'H 2329 (2329)' triangle
+2330 'F 2330 (2330)' ellipse
+2331 'H 2331 (2331)' triangle
+2332 'H 2332 (2332)' triangle
+2333 'F 2333 (2333)' ellipse
+2334 'H 2334 (2334)' triangle
+2335 'F 2335 (2335)' ellipse
+2336 'F 2336 (2336)' ellipse
+2337 'H 2337 (2337)' triangle
+2338 'F 2338 (2338)' ellipse
+2339 'F 2339 (2339)' ellipse
+2340 'F 2340 (2340)' ellipse
+2341 'H 2341 (2341)' triangle
+2342 'F 2342 (2342)' ellipse
+2343 'H 2343 (2343)' triangle
+2344 'H 2344 (2344)' triangle
+2345 'H 2345 (2345)' triangle
+2346 'H 2346 (2346)' triangle
+2347 'F 2347 (2347)' ellipse
+2348 'F 2348 (2348)' ellipse
+2349 'F 2349 (2349)' ellipse
+2350 'H 2350 (2350)' triangle
+2351 'F 2351 (2351)' ellipse
+2352 'H 2352 (2352)' triangle
+2353 'F 2353 (2353)' ellipse
+2354 'H 2354 (2354)' triangle
+2355 'F 2355 (2355)' ellipse
+2356 'H 2356 (2356)' triangle
+2357 'H 2357 (2357)' triangle
+2358 'F 2358 (2358)' ellipse
+2359 'H 2359 (2359)' triangle
+2360 'F 2360 (2360)' ellipse
+2361 'F 2361 (2361)' ellipse
+2362 'F 2362 (2362)' ellipse
+2363 'F 2363 (2363)' ellipse
+2364 'H 2364 (2364)' triangle
+2365 'H 2365 (2365)' triangle
+2366 'H 2366 (2366)' triangle
+2367 'F 2367 (2367)' ellipse
+2368 'H 2368 (2368)' triangle
+2369 'F 2369 (2369)' ellipse
+2370 'H 2370 (2370)' triangle
+2371 'F 2371 (2371)' ellipse
+2372 'H 2372 (2372)' triangle
+2373 'F 2373 (2373)' ellipse
+2374 'H 2374 (2374)' triangle
+2375 'F 2375 (2375)' ellipse
+2376 'H 2376 (2376)' triangle
+2377 'H 2377 (2377)' triangle
+2378 'F 2378 (2378)' ellipse
+2379 'F 2379 (2379)' ellipse
+2380 'F 2380 (2380)' ellipse
+2381 'H 2381 (2381)' triangle
+2382 'F 2382 (2382)' ellipse
+2383 'H 2383 (2383)' triangle
+2384 'F 2384 (2384)' ellipse
+2385 'F 2385 (2385)' ellipse
+2386 'F 2386 (2386)' ellipse
+2387 'H 2387 (2387)' triangle
+2388 'F 2388 (2388)' ellipse
+2389 'H 2389 (2389)' triangle
+2390 'H 2390 (2390)' triangle
+2391 'F 2391 (2391)' ellipse
+2392 'F 2392 (2392)' ellipse
+2393 'H 2393 (2393)' triangle
+2394 'H 2394 (2394)' triangle
+2395 'F 2395 (2395)' ellipse
+2396 'F 2396 (2396)' ellipse
+2397 'F 2397 (2397)' ellipse
+2398 'F 2398 (2398)' ellipse
+2399 'H 2399 (2399)' triangle
+2400 'F 2400 (2400)' ellipse
+2401 'H 2401 (2401)' triangle
+2402 'F 2402 (2402)' ellipse
+2403 'F 2403 (2403)' ellipse
+2404 'H 2404 (2404)' triangle
+2405 'H 2405 (2405)' triangle
+2406 'F 2406 (2406)' ellipse
+2407 'F 2407 (2407)' ellipse
+2408 'F 2408 (2408)' ellipse
+2409 'H 2409 (2409)' triangle
+2410 'H 2410 (2410)' triangle
+2411 'F 2411 (2411)' ellipse
+2412 'H 2412 (2412)' triangle
+2413 'H 2413 (2413)' triangle
+2414 'F 2414 (2414)' ellipse
+2415 'H 2415 (2415)' triangle
+2416 'H 2416 (2416)' triangle
+2417 'F 2417 (2417)' ellipse
+2418 'F 2418 (2418)' ellipse
+2419 'H 2419 (2419)' triangle
+2420 'H 2420 (2420)' triangle
+2421 'H 2421 (2421)' triangle
+2422 'H 2422 (2422)' triangle
+2423 'F 2423 (2423)' ellipse
+2424 'F 2424 (2424)' ellipse
+2425 'H 2425 (2425)' triangle
+2426 'F 2426 (2426)' ellipse
+2427 'F 2427 (2427)' ellipse
+2428 'H 2428 (2428)' triangle
+2429 'H 2429 (2429)' triangle
+2430 'H 2430 (2430)' triangle
+2431 'H 2431 (2431)' triangle
+2432 'F 2432 (2432)' ellipse
+2433 'H 2433 (2433)' triangle
+2434 'F 2434 (2434)' ellipse
+2435 'F 2435 (2435)' ellipse
+2436 'H 2436 (2436)' triangle
+2437 'H 2437 (2437)' triangle
+2438 'H 2438 (2438)' triangle
+2439 'F 2439 (2439)' ellipse
+2440 'F 2440 (2440)' ellipse
+2441 'H 2441 (2441)' triangle
+2442 'H 2442 (2442)' triangle
+2443 'F 2443 (2443)' ellipse
+2444 'H 2444 (2444)' triangle
+2445 'H 2445 (2445)' triangle
+2446 'F 2446 (2446)' ellipse
+2447 'F 2447 (2447)' ellipse
+2448 'H 2448 (2448)' triangle
+2449 'H 2449 (2449)' triangle
+2450 'H 2450 (2450)' triangle
+2451 'F 2451 (2451)' ellipse
+2452 'F 2452 (2452)' ellipse
+2453 'F 2453 (2453)' ellipse
+2454 'F 2454 (2454)' ellipse
+2455 'H 2455 (2455)' triangle
+2456 'H 2456 (2456)' triangle
+2457 'F 2457 (2457)' ellipse
+2458 'H 2458 (2458)' triangle
+2459 'F 2459 (2459)' ellipse
+2460 'H 2460 (2460)' triangle
+2461 'H 2461 (2461)' triangle
+2462 'H 2462 (2462)' triangle
+2463 'F 2463 (2463)' ellipse
+2464 'H 2464 (2464)' triangle
+2465 'F 2465 (2465)' ellipse
+2466 'H 2466 (2466)' triangle
+2467 'F 2467 (2467)' ellipse
+2468 'H 2468 (2468)' triangle
+2469 'H 2469 (2469)' triangle
+2470 'H 2470 (2470)' triangle
+2471 'F 2471 (2471)' ellipse
+2472 'F 2472 (2472)' ellipse
+2473 'F 2473 (2473)' ellipse
+2474 'H 2474 (2474)' triangle
+2475 'F 2475 (2475)' ellipse
+2476 'H 2476 (2476)' triangle
+2477 'F 2477 (2477)' ellipse
+2478 'H 2478 (2478)' triangle
+2479 'H 2479 (2479)' triangle
+2480 'F 2480 (2480)' ellipse
+2481 'F 2481 (2481)' ellipse
+2482 'F 2482 (2482)' ellipse
+2483 'F 2483 (2483)' ellipse
+2484 'H 2484 (2484)' triangle
+2485 'F 2485 (2485)' ellipse
+2486 'H 2486 (2486)' triangle
+2487 'H 2487 (2487)' triangle
+2488 'F 2488 (2488)' ellipse
+2489 'H 2489 (2489)' triangle
+2490 'H 2490 (2490)' triangle
+2491 'H 2491 (2491)' triangle
+2492 'H 2492 (2492)' triangle
+2493 'F 2493 (2493)' ellipse
+2494 'F 2494 (2494)' ellipse
+2495 'H 2495 (2495)' triangle
+2496 'H 2496 (2496)' triangle
+2497 'H 2497 (2497)' triangle
+2498 'H 2498 (2498)' triangle
+2499 'F 2499 (2499)' ellipse
+2500 'H 2500 (2500)' triangle
+2501 'F 2501 (2501)' ellipse
+2502 'H 2502 (2502)' triangle
+2503 'F 2503 (2503)' ellipse
+2504 'F 2504 (2504)' ellipse
+2505 'F 2505 (2505)' ellipse
+2506 'H 2506 (2506)' triangle
+2507 'F 2507 (2507)' ellipse
+2508 'H 2508 (2508)' triangle
+2509 'H 2509 (2509)' triangle
+2510 'F 2510 (2510)' ellipse
+2511 'F 2511 (2511)' ellipse
+2512 'H 2512 (2512)' triangle
+2513 'H 2513 (2513)' triangle
+2514 'H 2514 (2514)' triangle
+2515 'H 2515 (2515)' triangle
+2516 'F 2516 (2516)' ellipse
+2517 'H 2517 (2517)' triangle
+2518 'H 2518 (2518)' triangle
+2519 'H 2519 (2519)' triangle
+2520 'H 2520 (2520)' triangle
+2521 'H 2521 (2521)' triangle
+2522 'F 2522 (2522)' ellipse
+2523 'F 2523 (2523)' ellipse
+2524 'F 2524 (2524)' ellipse
+2525 'F 2525 (2525)' ellipse
+2526 'F 2526 (2526)' ellipse
+2527 'H 2527 (2527)' triangle
+2528 'F 2528 (2528)' ellipse
+2529 'H 2529 (2529)' triangle
+2530 'H 2530 (2530)' triangle
+2531 'F 2531 (2531)' ellipse
+2532 'H 2532 (2532)' triangle
+2533 'F 2533 (2533)' ellipse
+2534 'F 2534 (2534)' ellipse
+2535 'H 2535 (2535)' triangle
+2536 'H 2536 (2536)' triangle
+2537 'F 2537 (2537)' ellipse
+2538 'H 2538 (2538)' triangle
+2539 'H 2539 (2539)' triangle
+2540 'F 2540 (2540)' ellipse
+2541 'H 2541 (2541)' triangle
+2542 'F 2542 (2542)' ellipse
+2543 'H 2543 (2543)' triangle
+2544 'F 2544 (2544)' ellipse
+2545 'F 2545 (2545)' ellipse
+2546 'H 2546 (2546)' triangle
+2547 'F 2547 (2547)' ellipse
+2548 'H 2548 (2548)' triangle
+2549 'F 2549 (2549)' ellipse
+2550 'H 2550 (2550)' triangle
+2551 'F 2551 (2551)' ellipse
+2552 'F 2552 (2552)' ellipse
+2553 'F 2553 (2553)' ellipse
+2554 'H 2554 (2554)' triangle
+2555 'H 2555 (2555)' triangle
+2556 'H 2556 (2556)' triangle
+2557 'H 2557 (2557)' triangle
+2558 'F 2558 (2558)' ellipse
+2559 'H 2559 (2559)' triangle
+2560 'H 2560 (2560)' triangle
+2561 'F 2561 (2561)' ellipse
+2562 'F 2562 (2562)' ellipse
+2563 'H 2563 (2563)' triangle
+2564 'F 2564 (2564)' ellipse
+2565 'H 2565 (2565)' triangle
+2566 'H 2566 (2566)' triangle
+2567 'F 2567 (2567)' ellipse
+2568 'H 2568 (2568)' triangle
+2569 'F 2569 (2569)' ellipse
+2570 'H 2570 (2570)' triangle
+2571 'H 2571 (2571)' triangle
+2572 'F 2572 (2572)' ellipse
+2573 'F 2573 (2573)' ellipse
+2574 'F 2574 (2574)' ellipse
+2575 'F 2575 (2575)' ellipse
+2576 'H 2576 (2576)' triangle
+2577 'H 2577 (2577)' triangle
+2578 'F 2578 (2578)' ellipse
+2579 'H 2579 (2579)' triangle
+2580 'H 2580 (2580)' triangle
+2581 'F 2581 (2581)' ellipse
+2582 'F 2582 (2582)' ellipse
+2583 'H 2583 (2583)' triangle
+2584 'F 2584 (2584)' ellipse
+2585 'H 2585 (2585)' triangle
+2586 'H 2586 (2586)' triangle
+2587 'H 2587 (2587)' triangle
+2588 'H 2588 (2588)' triangle
+2589 'F 2589 (2589)' ellipse
+2590 'F 2590 (2590)' ellipse
+2591 'F 2591 (2591)' ellipse
+2592 'F 2592 (2592)' ellipse
+2593 'H 2593 (2593)' triangle
+2594 'H 2594 (2594)' triangle
+2595 'F 2595 (2595)' ellipse
+2596 'F 2596 (2596)' ellipse
+2597 'F 2597 (2597)' ellipse
+2598 'H 2598 (2598)' triangle
+2599 'H 2599 (2599)' triangle
+2600 'F 2600 (2600)' ellipse
+2601 'H 2601 (2601)' triangle
+2602 'F 2602 (2602)' ellipse
+2603 'H 2603 (2603)' triangle
+2604 'F 2604 (2604)' ellipse
+2605 'F 2605 (2605)' ellipse
+2606 'H 2606 (2606)' triangle
+2607 'F 2607 (2607)' ellipse
+2608 'H 2608 (2608)' triangle
+2609 'H 2609 (2609)' triangle
+2610 'F 2610 (2610)' ellipse
+2611 'H 2611 (2611)' triangle
+2612 'F 2612 (2612)' ellipse
+2613 'F 2613 (2613)' ellipse
+2614 'F 2614 (2614)' ellipse
+2615 'H 2615 (2615)' triangle
+2616 'F 2616 (2616)' ellipse
+2617 'F 2617 (2617)' ellipse
+2618 'H 2618 (2618)' triangle
+2619 'F 2619 (2619)' ellipse
+2620 'H 2620 (2620)' triangle
+2621 'H 2621 (2621)' triangle
+2622 'F 2622 (2622)' ellipse
+2623 'F 2623 (2623)' ellipse
+2624 'F 2624 (2624)' ellipse
+2625 'F 2625 (2625)' ellipse
+2626 'H 2626 (2626)' triangle
+2627 'H 2627 (2627)' triangle
+2628 'H 2628 (2628)' triangle
+2629 'F 2629 (2629)' ellipse
+2630 'H 2630 (2630)' triangle
+2631 'F 2631 (2631)' ellipse
+2632 'H 2632 (2632)' triangle
+2633 'F 2633 (2633)' ellipse
+2634 'H 2634 (2634)' triangle
+2635 'F 2635 (2635)' ellipse
+2636 'F 2636 (2636)' ellipse
+2637 'H 2637 (2637)' triangle
+2638 'F 2638 (2638)' ellipse
+2639 'F 2639 (2639)' ellipse
+2640 'F 2640 (2640)' ellipse
+2641 'H 2641 (2641)' triangle
+2642 'F 2642 (2642)' ellipse
+2643 'F 2643 (2643)' ellipse
+2644 'F 2644 (2644)' ellipse
+2645 'H 2645 (2645)' triangle
+2646 'H 2646 (2646)' triangle
+2647 'F 2647 (2647)' ellipse
+2648 'H 2648 (2648)' triangle
+2649 'H 2649 (2649)' triangle
+2650 'F 2650 (2650)' ellipse
+2651 'F 2651 (2651)' ellipse
+2652 'H 2652 (2652)' triangle
+2653 'F 2653 (2653)' ellipse
+2654 'H 2654 (2654)' triangle
+2655 'H 2655 (2655)' triangle
+2656 'F 2656 (2656)' ellipse
+2657 'H 2657 (2657)' triangle
+2658 'F 2658 (2658)' ellipse
+2659 'H 2659 (2659)' triangle
+2660 'H 2660 (2660)' triangle
+2661 'H 2661 (2661)' triangle
+2662 'F 2662 (2662)' ellipse
+2663 'H 2663 (2663)' triangle
+2664 'H 2664 (2664)' triangle
+2665 'F 2665 (2665)' ellipse
+2666 'H 2666 (2666)' triangle
+2667 'F 2667 (2667)' ellipse
+2668 'H 2668 (2668)' triangle
+2669 'F 2669 (2669)' ellipse
+2670 'H 2670 (2670)' triangle
+2671 'H 2671 (2671)' triangle
+2672 'F 2672 (2672)' ellipse
+2673 'F 2673 (2673)' ellipse
+2674 'H 2674 (2674)' triangle
+2675 'F 2675 (2675)' ellipse
+2676 'H 2676 (2676)' triangle
+2677 'F 2677 (2677)' ellipse
+2678 'H 2678 (2678)' triangle
+2679 'F 2679 (2679)' ellipse
+2680 'H 2680 (2680)' triangle
+2681 'H 2681 (2681)' triangle
+2682 'H 2682 (2682)' triangle
+2683 'H 2683 (2683)' triangle
+2684 'F 2684 (2684)' ellipse
+2685 'F 2685 (2685)' ellipse
+2686 'H 2686 (2686)' triangle
+2687 'F 2687 (2687)' ellipse
+2688 'H 2688 (2688)' triangle
+2689 'F 2689 (2689)' ellipse
+2690 'H 2690 (2690)' triangle
+2691 'H 2691 (2691)' triangle
+2692 'H 2692 (2692)' triangle
+2693 'F 2693 (2693)' ellipse
+2694 'F 2694 (2694)' ellipse
+2695 'F 2695 (2695)' ellipse
+2696 'F 2696 (2696)' ellipse
+2697 'H 2697 (2697)' triangle
+2698 'F 2698 (2698)' ellipse
+2699 'F 2699 (2699)' ellipse
+2700 'H 2700 (2700)' triangle
+2701 'F 2701 (2701)' ellipse
+2702 'F 2702 (2702)' ellipse
+2703 'H 2703 (2703)' triangle
+2704 'H 2704 (2704)' triangle
+2705 'H 2705 (2705)' triangle
+2706 'H 2706 (2706)' triangle
+2707 'F 2707 (2707)' ellipse
+2708 'H 2708 (2708)' triangle
+2709 'F 2709 (2709)' ellipse
+2710 'F 2710 (2710)' ellipse
+2711 'F 2711 (2711)' ellipse
+2712 'H 2712 (2712)' triangle
+2713 'F 2713 (2713)' ellipse
+2714 'F 2714 (2714)' ellipse
+2715 'F 2715 (2715)' ellipse
+2716 'H 2716 (2716)' triangle
+2717 'F 2717 (2717)' ellipse
+2718 'H 2718 (2718)' triangle
+2719 'H 2719 (2719)' triangle
+2720 'H 2720 (2720)' triangle
+2721 'H 2721 (2721)' triangle
+2722 'F 2722 (2722)' ellipse
+2723 'F 2723 (2723)' ellipse
+2724 'F 2724 (2724)' ellipse
+2725 'H 2725 (2725)' triangle
+2726 'F 2726 (2726)' ellipse
+2727 'H 2727 (2727)' triangle
+2728 'H 2728 (2728)' triangle
+2729 'F 2729 (2729)' ellipse
+2730 'F 2730 (2730)' ellipse
+2731 'H 2731 (2731)' triangle
+2732 'H 2732 (2732)' triangle
+2733 'F 2733 (2733)' ellipse
+2734 'H 2734 (2734)' triangle
+2735 'F 2735 (2735)' ellipse
+2736 'F 2736 (2736)' ellipse
+2737 'F 2737 (2737)' ellipse
+2738 'H 2738 (2738)' triangle
+2739 'F 2739 (2739)' ellipse
+2740 'H 2740 (2740)' triangle
+2741 'F 2741 (2741)' ellipse
+2742 'H 2742 (2742)' triangle
+2743 'F 2743 (2743)' ellipse
+2744 'H 2744 (2744)' triangle
+2745 'H 2745 (2745)' triangle
+2746 'F 2746 (2746)' ellipse
+2747 'H 2747 (2747)' triangle
+2748 'F 2748 (2748)' ellipse
+2749 'H 2749 (2749)' triangle
+2750 'F 2750 (2750)' ellipse
+2751 'F 2751 (2751)' ellipse
+2752 'H 2752 (2752)' triangle
+2753 'F 2753 (2753)' ellipse
+2754 'H 2754 (2754)' triangle
+2755 'F 2755 (2755)' ellipse
+2756 'F 2756 (2756)' ellipse
+2757 'F 2757 (2757)' ellipse
+2758 'H 2758 (2758)' triangle
+2759 'H 2759 (2759)' triangle
+2760 'F 2760 (2760)' ellipse
+2761 'F 2761 (2761)' ellipse
+2762 'F 2762 (2762)' ellipse
+2763 'H 2763 (2763)' triangle
+2764 'H 2764 (2764)' triangle
+2765 'F 2765 (2765)' ellipse
+2766 'F 2766 (2766)' ellipse
+2767 'H 2767 (2767)' triangle
+2768 'F 2768 (2768)' ellipse
+2769 'F 2769 (2769)' ellipse
+2770 'F 2770 (2770)' ellipse
+2771 'F 2771 (2771)' ellipse
+2772 'H 2772 (2772)' triangle
+2773 'F 2773 (2773)' ellipse
+2774 'H 2774 (2774)' triangle
+2775 'F 2775 (2775)' ellipse
+2776 'H 2776 (2776)' triangle
+2777 'F 2777 (2777)' ellipse
+2778 'H 2778 (2778)' triangle
+2779 'F 2779 (2779)' ellipse
+2780 'F 2780 (2780)' ellipse
+2781 'H 2781 (2781)' triangle
+2782 'H 2782 (2782)' triangle
+2783 'F 2783 (2783)' ellipse
+2784 'F 2784 (2784)' ellipse
+2785 'H 2785 (2785)' triangle
+2786 'F 2786 (2786)' ellipse
+2787 'H 2787 (2787)' triangle
+2788 'F 2788 (2788)' ellipse
+2789 'H 2789 (2789)' triangle
+2790 'H 2790 (2790)' triangle
+2791 'F 2791 (2791)' ellipse
+2792 'H 2792 (2792)' triangle
+2793 'F 2793 (2793)' ellipse
+2794 'F 2794 (2794)' ellipse
+2795 'H 2795 (2795)' triangle
+2796 'H 2796 (2796)' triangle
+2797 'F 2797 (2797)' ellipse
+2798 'H 2798 (2798)' triangle
+2799 'F 2799 (2799)' ellipse
+2800 'F 2800 (2800)' ellipse
+2801 'H 2801 (2801)' triangle
+2802 'H 2802 (2802)' triangle
+2803 'H 2803 (2803)' triangle
+2804 'F 2804 (2804)' ellipse
+2805 'H 2805 (2805)' triangle
+2806 'F 2806 (2806)' ellipse
+2807 'F 2807 (2807)' ellipse
+2808 'H 2808 (2808)' triangle
+2809 'F 2809 (2809)' ellipse
+2810 'H 2810 (2810)' triangle
+2811 'H 2811 (2811)' triangle
+2812 'F 2812 (2812)' ellipse
+2813 'H 2813 (2813)' triangle
+2814 'H 2814 (2814)' triangle
+2815 'H 2815 (2815)' triangle
+2816 'F 2816 (2816)' ellipse
+2817 'H 2817 (2817)' triangle
+2818 'F 2818 (2818)' ellipse
+2819 'H 2819 (2819)' triangle
+2820 'H 2820 (2820)' triangle
+2821 'F 2821 (2821)' ellipse
+2822 'F 2822 (2822)' ellipse
+2823 'H 2823 (2823)' triangle
+2824 'F 2824 (2824)' ellipse
+2825 'H 2825 (2825)' triangle
+2826 'H 2826 (2826)' triangle
+2827 'F 2827 (2827)' ellipse
+2828 'F 2828 (2828)' ellipse
+2829 'H 2829 (2829)' triangle
+2830 'F 2830 (2830)' ellipse
+2831 'H 2831 (2831)' triangle
+2832 'F 2832 (2832)' ellipse
+2833 'H 2833 (2833)' triangle
+2834 'F 2834 (2834)' ellipse
+2835 'H 2835 (2835)' triangle
+2836 'F 2836 (2836)' ellipse
+2837 'H 2837 (2837)' triangle
+2838 'F 2838 (2838)' ellipse
+2839 'H 2839 (2839)' triangle
+2840 'F 2840 (2840)' ellipse
+2841 'H 2841 (2841)' triangle
+2842 'H 2842 (2842)' triangle
+2843 'H 2843 (2843)' triangle
+2844 'F 2844 (2844)' ellipse
+2845 'F 2845 (2845)' ellipse
+2846 'F 2846 (2846)' ellipse
+2847 'H 2847 (2847)' triangle
+2848 'H 2848 (2848)' triangle
+2849 'F 2849 (2849)' ellipse
+2850 'H 2850 (2850)' triangle
+2851 'F 2851 (2851)' ellipse
+2852 'H 2852 (2852)' triangle
+2853 'F 2853 (2853)' ellipse
+2854 'H 2854 (2854)' triangle
+2855 'F 2855 (2855)' ellipse
+2856 'H 2856 (2856)' triangle
+2857 'F 2857 (2857)' ellipse
+2858 'H 2858 (2858)' triangle
+2859 'F 2859 (2859)' ellipse
+2860 'H 2860 (2860)' triangle
+2861 'F 2861 (2861)' ellipse
+2862 'H 2862 (2862)' triangle
+2863 'F 2863 (2863)' ellipse
+2864 'H 2864 (2864)' triangle
+2865 'F 2865 (2865)' ellipse
+2866 'H 2866 (2866)' triangle
+2867 'H 2867 (2867)' triangle
+2868 'F 2868 (2868)' ellipse
+2869 'H 2869 (2869)' triangle
+2870 'H 2870 (2870)' triangle
+2871 'F 2871 (2871)' ellipse
+2872 'H 2872 (2872)' triangle
+2873 'F 2873 (2873)' ellipse
+2874 'H 2874 (2874)' triangle
+2875 'F 2875 (2875)' ellipse
+2876 'H 2876 (2876)' triangle
+2877 'F 2877 (2877)' ellipse
+2878 'F 2878 (2878)' ellipse
+2879 'H 2879 (2879)' triangle
+2880 'F 2880 (2880)' ellipse
+2881 'F 2881 (2881)' ellipse
+2882 'H 2882 (2882)' triangle
+2883 'F 2883 (2883)' ellipse
+2884 'H 2884 (2884)' triangle
+2885 'F 2885 (2885)' ellipse
+2886 'H 2886 (2886)' triangle
+2887 'F 2887 (2887)' ellipse
+2888 'F 2888 (2888)' ellipse
+2889 'F 2889 (2889)' ellipse
+2890 'H 2890 (2890)' triangle
+2891 'F 2891 (2891)' ellipse
+2892 'H 2892 (2892)' triangle
+2893 'H 2893 (2893)' triangle
+2894 'F 2894 (2894)' ellipse
+2895 'H 2895 (2895)' triangle
+2896 'F 2896 (2896)' ellipse
+2897 'F 2897 (2897)' ellipse
+2898 'H 2898 (2898)' triangle
+2899 'F 2899 (2899)' ellipse
+2900 'F 2900 (2900)' ellipse
+2901 'H 2901 (2901)' triangle
+2902 'H 2902 (2902)' triangle
+2903 'F 2903 (2903)' ellipse
+2904 'F 2904 (2904)' ellipse
+2905 'H 2905 (2905)' triangle
+2906 'F 2906 (2906)' ellipse
+2907 'H 2907 (2907)' triangle
+2908 'F 2908 (2908)' ellipse
+2909 'H 2909 (2909)' triangle
+2910 'H 2910 (2910)' triangle
+2911 'H 2911 (2911)' triangle
+2912 'F 2912 (2912)' ellipse
+2913 'H 2913 (2913)' triangle
+2914 'H 2914 (2914)' triangle
+2915 'F 2915 (2915)' ellipse
+2916 'H 2916 (2916)' triangle
+2917 'F 2917 (2917)' ellipse
+2918 'H 2918 (2918)' triangle
+2919 'H 2919 (2919)' triangle
+2920 'H 2920 (2920)' triangle
+2921 'F 2921 (2921)' ellipse
+2922 'H 2922 (2922)' triangle
+2923 'F 2923 (2923)' ellipse
+2924 'H 2924 (2924)' triangle
+2925 'H 2925 (2925)' triangle
+2926 'H 2926 (2926)' triangle
+2927 'H 2927 (2927)' triangle
+2928 'F 2928 (2928)' ellipse
+2929 'H 2929 (2929)' triangle
+2930 'H 2930 (2930)' triangle
+2931 'F 2931 (2931)' ellipse
+2932 'H 2932 (2932)' triangle
+2933 'F 2933 (2933)' ellipse
+2934 'H 2934 (2934)' triangle
+2935 'F 2935 (2935)' ellipse
+2936 'H 2936 (2936)' triangle
+2937 'F 2937 (2937)' ellipse
+2938 'H 2938 (2938)' triangle
+2939 'F 2939 (2939)' ellipse
+2940 'F 2940 (2940)' ellipse
+2941 'H 2941 (2941)' triangle
+2942 'F 2942 (2942)' ellipse
+2943 'F 2943 (2943)' ellipse
+2944 'H 2944 (2944)' triangle
+2945 'F 2945 (2945)' ellipse
+2946 'H 2946 (2946)' triangle
+2947 'F 2947 (2947)' ellipse
+2948 'H 2948 (2948)' triangle
+2949 'F 2949 (2949)' ellipse
+2950 'H 2950 (2950)' triangle
+2951 'F 2951 (2951)' ellipse
+2952 'H 2952 (2952)' triangle
+2953 'F 2953 (2953)' ellipse
+2954 'H 2954 (2954)' triangle
+2955 'F 2955 (2955)' ellipse
+2956 'H 2956 (2956)' triangle
+2957 'F 2957 (2957)' ellipse
+2958 'H 2958 (2958)' triangle
+2959 'F 2959 (2959)' ellipse
+2960 'H 2960 (2960)' triangle
+2961 'F 2961 (2961)' ellipse
+2962 'H 2962 (2962)' triangle
+2963 'F 2963 (2963)' ellipse
+2964 'H 2964 (2964)' triangle
+2965 'F 2965 (2965)' ellipse
+2966 'H 2966 (2966)' triangle
+2967 'F 2967 (2967)' ellipse
+2968 'H 2968 (2968)' triangle
+2969 'F 2969 (2969)' ellipse
+2970 'H 2970 (2970)' triangle
+2971 'F 2971 (2971)' ellipse
+2972 'H 2972 (2972)' triangle
+2973 'F 2973 (2973)' ellipse
+2974 'H 2974 (2974)' triangle
+2975 'F 2975 (2975)' ellipse
+2976 'H 2976 (2976)' triangle
+2977 'F 2977 (2977)' ellipse
+2978 'H 2978 (2978)' triangle
+2979 'H 2979 (2979)' triangle
+2980 'F 2980 (2980)' ellipse
+2981 'H 2981 (2981)' triangle
+2982 'F 2982 (2982)' ellipse
+2983 'H 2983 (2983)' triangle
+2984 'F 2984 (2984)' ellipse
+2985 'H 2985 (2985)' triangle
+2986 'F 2986 (2986)' ellipse
+2987 'H 2987 (2987)' triangle
+2988 'F 2988 (2988)' ellipse
+2989 'H 2989 (2989)' triangle
+2990 'F 2990 (2990)' ellipse
+2991 'H 2991 (2991)' triangle
+2992 'F 2992 (2992)' ellipse
+2993 'H 2993 (2993)' triangle
+2994 'F 2994 (2994)' ellipse
+2995 'H 2995 (2995)' triangle
+2996 'F 2996 (2996)' ellipse
+2997 'H 2997 (2997)' triangle
+2998 'F 2998 (2998)' ellipse
+2999 'H 2999 (2999)' triangle
+3000 'F 3000 (3000)' ellipse
+3001 'H 3001 (3001)' triangle
+3002 'F 3002 (3002)' ellipse
+3003 'H 3003 (3003)' triangle
+3004 'F 3004 (3004)' ellipse
+3005 'H 3005 (3005)' triangle
+3006 'F 3006 (3006)' ellipse
+3007 'H 3007 (3007)' triangle
+3008 'F 3008 (3008)' ellipse
+3009 'H 3009 (3009)' triangle
+3010 'F 3010 (3010)' ellipse
+3011 'H 3011 (3011)' triangle
+3012 'F 3012 (3012)' ellipse
+3013 'H 3013 (3013)' triangle
+3014 'F 3014 (3014)' ellipse
+*arcs
+1 3 1
+2 212 1
+2 213 1
+2 3 1
+2 174 1
+3 149 1
+3 6 1
+3 168 1
+3 170 1
+3 126 1
+3 171 1
+3 113 1
+3 116 1
+4 6 1
+5 149 1
+5 168 1
+5 170 1
+5 126 1
+5 171 1
+5 113 1
+5 116 1
+6 28 1
+6 111 1
+6 12 1
+6 91 1
+6 94 1
+7 28 1
+7 12 1
+8 91 1
+10 94 1
+11 111 1
+12 14 1
+13 14 1
+14 26 1
+14 24 1
+14 22 1
+14 16 1
+15 26 1
+15 24 1
+15 22 1
+15 16 1
+17 18 1
+17 20 1
+17 21 1
+16 18 1
+16 20 1
+16 21 1
+29 73 1
+29 89 1
+29 82 1
+29 40 1
+29 42 1
+29 43 1
+29 61 1
+29 85 1
+29 87 1
+28 29 1
+31 43 1
+30 40 1
+30 42 1
+35 82 1
+32 61 1
+33 73 1
+38 87 1
+39 89 1
+37 85 1
+43 49 1
+43 52 1
+43 48 1
+43 54 1
+43 58 1
+43 56 1
+46 49 1
+47 58 1
+44 48 1
+45 52 1
+45 54 1
+45 56 1
+50 51 1
+49 51 1
+63 1164 1
+62 69 1
+62 64 1
+62 71 1
+62 66 1
+61 69 1
+61 64 1
+61 63 1
+61 172 1
+61 71 1
+61 66 1
+73 74 1
+73 77 1
+73 78 1
+73 80 1
+83 84 1
+82 84 1
+93 1021 1
+93 1023 1
+92 93 1
+95 104 1
+95 108 1
+95 99 1
+94 97 1
+94 104 1
+94 108 1
+94 99 1
+94 109 1
+91 93 1
+102 103 1
+99 103 1
+96 109 1
+108 976 1
+107 702 1
+104 107 1
+119 583 1
+118 572 1
+118 570 1
+117 123 1
+117 118 1
+117 120 1
+117 119 1
+116 123 1
+116 118 1
+116 120 1
+116 119 1
+113 114 1
+127 145 1
+127 128 1
+127 147 1
+126 145 1
+126 128 1
+126 147 1
+124 125 1
+124 600 1
+123 125 1
+123 600 1
+121 122 1
+120 122 1
+136 139 1
+136 137 1
+136 141 1
+129 134 1
+128 134 1
+128 131 1
+131 133 1
+130 131 1
+132 133 1
+135 142 1
+135 136 1
+135 143 1
+134 142 1
+134 136 1
+134 143 1
+152 162 1
+152 164 1
+152 154 1
+152 155 1
+153 164 1
+154 139 1
+154 137 1
+155 157 1
+155 159 1
+155 160 1
+156 157 1
+156 159 1
+156 160 1
+159 294 1
+159 295 1
+149 167 1
+149 166 1
+149 152 1
+149 151 1
+150 167 1
+150 166 1
+150 152 1
+150 151 1
+171 2660 1
+170 606 1
+170 643 1
+170 662 1
+170 663 1
+170 649 1
+175 176 1
+174 183 1
+174 180 1
+174 182 1
+174 181 1
+174 175 1
+173 212 1
+173 213 1
+173 174 1
+167 1069 1
+167 1042 1
+167 1070 1
+167 1034 1
+167 1052 1
+167 1067 1
+167 1029 1
+166 241 1
+166 216 1
+184 209 1
+184 208 1
+184 210 1
+184 200 1
+185 186 1
+185 188 1
+188 192 1
+188 195 1
+188 190 1
+189 192 1
+189 195 1
+189 190 1
+176 178 1
+177 178 1
+182 553 1
+183 209 1
+183 208 1
+183 210 1
+183 200 1
+183 211 1
+183 185 1
+180 1429 1
+180 1430 1
+180 1428 1
+180 1455 1
+181 1263 1
+181 1265 1
+181 1250 1
+181 1259 1
+181 1261 1
+181 1193 1
+181 1266 1
+205 1215 1
+204 205 1
+207 763 1
+206 580 1
+206 1591 1
+206 2378 1
+206 1596 1
+206 578 1
+206 1594 1
+201 202 1
+200 204 1
+200 201 1
+200 207 1
+200 206 1
+192 194 1
+192 193 1
+222 673 1
+222 668 1
+222 1311 1
+222 672 1
+222 669 1
+222 671 1
+216 218 1
+216 222 1
+217 222 1
+218 219 1
+219 220 1
+212 325 1
+212 374 1
+212 324 1
+213 394 1
+213 429 1
+213 413 1
+215 241 1
+215 242 1
+215 216 1
+215 224 1
+208 1351 1
+208 1363 1
+209 97 1
+210 162 1
+210 154 1
+210 155 1
+211 499 1
+211 500 1
+211 1434 1
+211 1435 1
+238 219 1
+227 228 1
+227 234 1
+227 230 1
+227 236 1
+227 232 1
+226 228 1
+226 234 1
+226 230 1
+226 236 1
+226 232 1
+225 226 1
+224 239 1
+224 238 1
+224 226 1
+255 399 1
+250 251 1
+251 252 1
+248 255 1
+248 249 1
+249 251 1
+246 247 1
+246 314 1
+246 287 1
+246 276 1
+246 598 1
+246 322 1
+247 255 1
+247 256 1
+247 270 1
+247 272 1
+247 274 1
+247 249 1
+244 246 1
+244 431 1
+244 323 1
+244 471 1
+244 393 1
+244 387 1
+245 472 1
+245 543 1
+245 596 1
+242 2706 1
+242 2711 1
+243 246 1
+243 431 1
+243 472 1
+243 323 1
+243 543 1
+243 471 1
+243 596 1
+243 393 1
+243 387 1
+241 29 1
+279 281 1
+279 284 1
+279 280 1
+279 282 1
+277 279 1
+277 278 1
+277 285 1
+277 286 1
+276 279 1
+276 278 1
+276 285 1
+276 286 1
+281 298 1
+281 301 1
+281 300 1
+280 493 1
+280 2914 1
+280 2913 1
+280 491 1
+287 288 1
+287 302 1
+287 313 1
+287 303 1
+287 2915 1
+286 517 1
+286 521 1
+286 524 1
+286 527 1
+284 271 1
+256 260 1
+256 257 1
+256 266 1
+256 263 1
+256 262 1
+256 261 1
+257 258 1
+262 560 1
+262 557 1
+262 558 1
+270 271 1
+305 308 1
+305 311 1
+305 309 1
+305 306 1
+308 2698 1
+313 935 1
+313 934 1
+313 932 1
+313 931 1
+315 316 1
+315 319 1
+315 321 1
+314 316 1
+314 319 1
+314 321 1
+317 176 1
+316 318 1
+316 317 1
+319 320 1
+318 375 1
+288 291 1
+288 297 1
+289 291 1
+290 297 1
+291 293 1
+292 293 1
+293 294 1
+293 295 1
+297 298 1
+297 301 1
+297 300 1
+303 308 1
+303 311 1
+303 309 1
+303 306 1
+342 343 1
+341 344 1
+341 343 1
+351 352 1
+351 354 1
+351 356 1
+351 358 1
+347 348 1
+346 348 1
+326 372 1
+326 367 1
+326 327 1
+326 360 1
+326 351 1
+327 350 1
+327 329 1
+327 333 1
+327 340 1
+327 341 1
+327 346 1
+324 218 1
+325 372 1
+325 367 1
+325 327 1
+325 360 1
+325 351 1
+323 325 1
+323 374 1
+323 324 1
+320 1332 1
+321 329 1
+334 336 1
+335 339 1
+335 338 1
+333 336 1
+333 339 1
+333 338 1
+328 350 1
+328 333 1
+328 340 1
+328 341 1
+328 346 1
+329 332 1
+329 330 1
+374 386 1
+374 2911 1
+376 380 1
+376 379 1
+376 377 1
+364 366 1
+365 366 1
+367 370 1
+367 368 1
+360 364 1
+360 363 1
+360 362 1
+361 364 1
+361 363 1
+361 362 1
+363 380 1
+363 379 1
+363 377 1
+414 415 1
+415 424 1
+415 428 1
+415 425 1
+415 416 1
+413 415 1
+405 406 1
+395 407 1
+395 410 1
+395 409 1
+395 397 1
+394 407 1
+394 410 1
+394 405 1
+394 409 1
+394 397 1
+393 394 1
+393 429 1
+393 413 1
+392 252 1
+399 141 1
+398 400 1
+398 402 1
+397 400 1
+397 402 1
+397 399 1
+396 405 1
+387 388 1
+385 332 1
+385 330 1
+384 549 1
+384 550 1
+390 392 1
+389 391 1
+389 392 1
+388 389 1
+432 448 1
+432 433 1
+432 455 1
+432 435 1
+432 434 1
+435 446 1
+435 438 1
+436 446 1
+436 438 1
+438 445 1
+438 440 1
+438 443 1
+439 445 1
+439 440 1
+439 443 1
+428 352 1
+428 354 1
+428 356 1
+428 358 1
+431 448 1
+431 433 1
+431 455 1
+431 435 1
+431 434 1
+417 422 1
+417 418 1
+417 420 1
+416 422 1
+416 418 1
+416 420 1
+478 485 1
+478 486 1
+478 484 1
+478 488 1
+478 479 1
+478 490 1
+478 481 1
+476 2912 1
+476 477 1
+477 485 1
+477 486 1
+477 484 1
+477 488 1
+477 479 1
+477 490 1
+477 481 1
+474 537 1
+474 541 1
+474 501 1
+474 515 1
+474 542 1
+475 496 1
+475 495 1
+475 2912 1
+475 477 1
+475 2909 1
+475 497 1
+472 537 1
+472 541 1
+472 501 1
+472 515 1
+472 498 1
+472 542 1
+472 475 1
+473 498 1
+473 475 1
+471 2266 1
+471 2328 1
+471 2291 1
+471 2342 1
+471 2340 1
+461 467 1
+461 462 1
+461 464 1
+460 467 1
+460 462 1
+460 464 1
+459 460 1
+458 460 1
+457 469 1
+457 458 1
+456 469 1
+456 458 1
+455 2699 1
+455 2691 1
+454 1349 1
+454 1343 1
+450 211 1
+450 185 1
+449 454 1
+449 450 1
+449 451 1
+448 454 1
+448 450 1
+448 451 1
+511 513 1
+504 505 1
+505 510 1
+505 507 1
+505 509 1
+506 510 1
+506 507 1
+506 509 1
+500 320 1
+501 511 1
+501 503 1
+502 511 1
+502 503 1
+503 505 1
+497 556 1
+497 318 1
+497 317 1
+497 555 1
+498 499 1
+498 500 1
+499 281 1
+499 284 1
+499 280 1
+499 282 1
+495 260 1
+495 257 1
+495 266 1
+495 263 1
+495 262 1
+495 261 1
+546 547 1
+546 567 1
+546 552 1
+546 562 1
+547 549 1
+547 548 1
+547 550 1
+544 569 1
+544 545 1
+544 582 1
+544 595 1
+544 577 1
+545 547 1
+545 567 1
+545 566 1
+545 552 1
+545 562 1
+552 560 1
+552 556 1
+552 553 1
+552 557 1
+552 555 1
+552 558 1
+553 258 1
+566 915 1
+563 564 1
+562 564 1
+573 575 1
+572 575 1
+569 572 1
+569 570 1
+516 531 1
+516 533 1
+516 529 1
+512 513 1
+515 531 1
+515 533 1
+515 517 1
+515 521 1
+515 524 1
+515 529 1
+515 527 1
+541 2590 1
+541 2587 1
+541 2591 1
+541 2588 1
+541 2592 1
+540 548 1
+543 569 1
+543 545 1
+543 582 1
+543 595 1
+543 577 1
+542 386 1
+542 2911 1
+537 539 1
+537 540 1
+538 539 1
+538 540 1
+610 611 1
+610 612 1
+608 619 1
+608 609 1
+609 614 1
+609 618 1
+609 617 1
+609 610 1
+614 615 1
+619 620 1
+619 622 1
+619 630 1
+619 625 1
+619 626 1
+626 1355 1
+635 638 1
+635 637 1
+634 638 1
+634 637 1
+634 640 1
+636 640 1
+577 580 1
+577 578 1
+582 583 1
+583 589 1
+583 594 1
+583 592 1
+583 593 1
+583 586 1
+584 586 1
+585 589 1
+585 594 1
+585 592 1
+585 593 1
+595 256 1
+595 270 1
+595 272 1
+595 274 1
+599 504 1
+598 504 1
+601 603 1
+601 743 1
+601 730 1
+603 605 1
+602 603 1
+602 743 1
+602 730 1
+605 606 1
+605 643 1
+605 662 1
+605 663 1
+605 649 1
+604 605 1
+607 619 1
+607 632 1
+607 634 1
+607 609 1
+607 642 1
+606 607 1
+673 1709 1
+672 1314 1
+672 1315 1
+701 702 1
+698 705 1
+697 707 1
+697 699 1
+697 703 1
+697 705 1
+697 708 1
+697 706 1
+697 701 1
+694 713 1
+694 710 1
+694 697 1
+694 722 1
+695 713 1
+695 710 1
+695 697 1
+695 722 1
+654 655 1
+654 657 1
+654 658 1
+654 661 1
+654 660 1
+649 651 1
+649 653 1
+649 654 1
+648 1175 1
+648 1171 1
+650 651 1
+650 653 1
+650 654 1
+645 646 1
+645 647 1
+644 648 1
+644 645 1
+646 769 1
+646 985 1
+646 767 1
+643 648 1
+643 645 1
+642 74 1
+642 77 1
+642 78 1
+642 80 1
+668 107 1
+668 205 1
+669 202 1
+671 2258 1
+671 2257 1
+671 2256 1
+664 665 1
+665 690 1
+665 673 1
+665 686 1
+665 675 1
+665 692 1
+665 668 1
+665 672 1
+665 674 1
+665 688 1
+665 671 1
+665 680 1
+665 681 1
+665 677 1
+665 669 1
+665 679 1
+665 676 1
+666 680 1
+666 677 1
+666 675 1
+666 674 1
+666 679 1
+666 676 1
+667 681 1
+667 690 1
+667 686 1
+667 692 1
+667 688 1
+661 1563 1
+661 1561 1
+663 724 1
+663 728 1
+663 726 1
+663 694 1
+663 664 1
+663 727 1
+746 752 1
+746 754 1
+746 749 1
+746 751 1
+746 748 1
+745 756 1
+745 762 1
+745 746 1
+744 764 1
+744 745 1
+738 741 1
+738 739 1
+737 741 1
+737 739 1
+736 737 1
+743 774 1
+743 766 1
+743 771 1
+743 744 1
+762 763 1
+766 769 1
+766 767 1
+767 768 1
+764 765 1
+752 1212 1
+752 1208 1
+756 760 1
+756 761 1
+756 757 1
+757 758 1
+757 759 1
+713 721 1
+713 719 1
+713 716 1
+713 715 1
+713 718 1
+713 720 1
+713 714 1
+711 712 1
+710 712 1
+728 655 1
+728 657 1
+728 658 1
+728 661 1
+728 660 1
+730 735 1
+730 732 1
+731 735 1
+731 732 1
+732 734 1
+733 734 1
+734 288 1
+734 302 1
+734 313 1
+734 303 1
+734 2915 1
+735 737 1
+722 1360 1
+722 1356 1
+722 1361 1
+722 1354 1
+722 1357 1
+726 1083 1
+727 204 1
+727 201 1
+727 207 1
+727 206 1
+821 822 1
+821 824 1
+821 827 1
+821 826 1
+820 1346 1
+820 1345 1
+820 1348 1
+822 823 1
+817 818 1
+817 820 1
+816 818 1
+816 820 1
+829 1394 1
+828 1855 1
+828 1853 1
+828 1858 1
+828 1859 1
+830 1322 1
+801 806 1
+814 828 1
+814 829 1
+814 816 1
+814 821 1
+815 828 1
+815 829 1
+815 816 1
+815 821 1
+811 980 1
+811 982 1
+811 979 1
+790 802 1
+790 794 1
+789 803 1
+788 795 1
+788 797 1
+788 802 1
+788 794 1
+788 799 1
+788 791 1
+788 803 1
+787 2917 1
+787 811 1
+787 809 1
+787 812 1
+787 788 1
+786 830 1
+786 832 1
+786 814 1
+786 787 1
+785 830 1
+785 832 1
+785 814 1
+785 787 1
+784 833 1
+784 862 1
+784 1028 1
+784 907 1
+784 877 1
+784 785 1
+799 806 1
+774 607 1
+775 777 1
+772 773 1
+773 768 1
+771 773 1
+782 1975 1
+782 1958 1
+783 833 1
+783 862 1
+783 1028 1
+783 907 1
+783 877 1
+783 785 1
+778 779 1
+778 780 1
+778 783 1
+778 782 1
+778 1072 1
+779 774 1
+779 766 1
+779 771 1
+779 744 1
+777 779 1
+777 780 1
+777 783 1
+777 782 1
+777 1072 1
+881 883 1
+881 882 1
+880 885 1
+880 888 1
+880 886 1
+880 881 1
+885 929 1
+885 928 1
+889 891 1
+889 893 1
+888 972 1
+890 891 1
+890 893 1
+895 898 1
+895 896 1
+894 898 1
+894 896 1
+864 866 1
+864 869 1
+864 876 1
+864 871 1
+865 866 1
+865 869 1
+865 876 1
+865 871 1
+866 868 1
+867 868 1
+871 874 1
+871 875 1
+873 874 1
+873 875 1
+875 2689 1
+876 1024 1
+877 906 1
+877 880 1
+877 900 1
+877 889 1
+877 894 1
+878 906 1
+878 880 1
+878 889 1
+878 894 1
+879 900 1
+851 856 1
+851 852 1
+851 854 1
+863 864 1
+862 864 1
+834 835 1
+834 838 1
+834 836 1
+835 1182 1
+832 726 1
+832 694 1
+833 835 1
+833 838 1
+833 836 1
+838 851 1
+838 840 1
+838 858 1
+838 859 1
+839 851 1
+839 840 1
+839 858 1
+839 859 1
+836 1686 1
+843 845 1
+840 846 1
+840 843 1
+840 842 1
+840 849 1
+841 846 1
+841 843 1
+841 842 1
+841 849 1
+844 845 1
+957 2242 1
+957 2236 1
+957 2240 1
+957 2239 1
+953 955 1
+951 955 1
+944 962 1
+944 958 1
+945 949 1
+945 948 1
+945 947 1
+945 946 1
+941 996 1
+941 963 1
+941 994 1
+941 942 1
+941 978 1
+941 970 1
+941 992 1
+943 957 1
+943 951 1
+943 945 1
+942 957 1
+942 951 1
+942 962 1
+942 958 1
+942 945 1
+939 996 1
+939 963 1
+939 985 1
+939 994 1
+939 942 1
+939 978 1
+939 970 1
+939 992 1
+935 1015 1
+935 1012 1
+930 935 1
+930 934 1
+930 932 1
+930 931 1
+926 927 1
+926 937 1
+926 936 1
+926 930 1
+927 929 1
+927 928 1
+925 927 1
+925 937 1
+925 936 1
+925 930 1
+918 2917 1
+918 811 1
+918 809 1
+918 812 1
+918 788 1
+917 885 1
+917 886 1
+917 881 1
+914 915 1
+911 913 1
+910 911 1
+910 919 1
+910 918 1
+910 923 1
+910 917 1
+910 914 1
+910 921 1
+909 911 1
+909 919 1
+909 918 1
+909 923 1
+909 917 1
+909 914 1
+909 921 1
+908 909 1
+908 939 1
+908 925 1
+908 997 1
+907 909 1
+907 939 1
+907 925 1
+907 997 1
+906 1589 1
+906 1604 1
+906 1600 1
+906 1571 1
+901 904 1
+901 902 1
+900 904 1
+900 902 1
+1017 1019 1
+1018 1019 1
+1023 1024 1
+1001 1002 1
+1001 1010 1
+1001 1008 1
+1000 1015 1
+1000 1002 1
+1000 1012 1
+1000 1010 1
+1000 1008 1
+1003 1007 1
+1002 1007 1
+997 1021 1
+997 1023 1
+997 1000 1
+997 1026 1
+997 1017 1
+996 883 1
+996 882 1
+999 1026 1
+998 1000 1
+998 1017 1
+984 988 1
+984 990 1
+984 986 1
+985 988 1
+985 990 1
+985 986 1
+978 980 1
+978 982 1
+978 979 1
+979 949 1
+979 948 1
+979 947 1
+979 946 1
+977 888 1
+970 977 1
+970 972 1
+970 976 1
+970 1097 1
+973 974 1
+972 974 1
+963 966 1
+963 968 1
+965 966 1
+964 968 1
+1100 1139 1
+1100 1134 1
+1100 1101 1
+1100 1117 1
+1100 1113 1
+1101 1103 1
+1101 1106 1
+1101 1112 1
+1101 1110 1
+1101 1111 1
+1101 1108 1
+1102 1103 1
+1102 1106 1
+1102 1112 1
+1102 1110 1
+1102 1111 1
+1102 1108 1
+1103 1105 1
+1099 1139 1
+1099 1134 1
+1099 1101 1
+1099 1117 1
+1099 1113 1
+1117 1124 1
+1117 1127 1
+1117 1120 1
+1117 1133 1
+1117 1131 1
+1117 1129 1
+1117 1119 1
+1119 2611 1
+1119 2609 1
+1119 2608 1
+1119 2614 1
+1118 1124 1
+1118 1127 1
+1118 1120 1
+1118 1133 1
+1118 1131 1
+1118 1129 1
+1118 1119 1
+1113 2919 1
+1112 1130 1
+1114 2919 1
+1110 1458 1
+1110 1459 1
+1104 1105 1
+1134 1136 1
+1134 1137 1
+1135 1136 1
+1135 1137 1
+1133 2335 1
+1133 2332 1
+1133 2333 1
+1129 1130 1
+1124 1126 1
+1125 1126 1
+1120 1122 1
+1121 1122 1
+1142 1147 1
+1142 1143 1
+1142 1149 1
+1142 1145 1
+1142 1146 1
+1141 1147 1
+1141 1143 1
+1141 1149 1
+1141 1145 1
+1141 1146 1
+1140 1141 1
+1140 1151 1
+1139 1141 1
+1139 1151 1
+1136 1183 1
+1136 1188 1
+1136 1187 1
+1033 854 1
+1034 1036 1
+1034 1038 1
+1034 1040 1
+1035 1036 1
+1035 1038 1
+1035 1040 1
+1028 1069 1
+1028 1042 1
+1028 1070 1
+1028 1034 1
+1028 1052 1
+1028 1067 1
+1028 1029 1
+1029 1033 1
+1029 1030 1
+1030 1031 1
+1053 1057 1
+1053 1059 1
+1053 1054 1
+1052 1057 1
+1052 1059 1
+1052 1054 1
+1055 1056 1
+1054 1056 1
+1043 1045 1
+1042 1045 1
+1045 1047 1
+1045 1050 1
+1045 1048 1
+1046 1047 1
+1046 1050 1
+1046 1048 1
+1069 1691 1
+1069 1689 1
+1069 1693 1
+1069 1692 1
+1059 1062 1
+1059 1063 1
+1062 823 1
+1060 1063 1
+1061 1062 1
+1083 1115 1
+1082 1083 1
+1086 1087 1
+1086 1088 1
+1085 1087 1
+1085 1088 1
+1084 1115 1
+1075 1076 1
+1074 1077 1
+1074 1082 1
+1074 1085 1
+1074 1075 1
+1074 1092 1
+1074 1095 1
+1074 1094 1
+1073 1074 1
+1072 1074 1
+1077 1078 1
+1077 1080 1
+1223 1243 1
+1223 1224 1
+1223 1240 1
+1223 1238 1
+1223 1236 1
+1223 1241 1
+1223 1233 1
+1223 1244 1
+1222 1243 1
+1222 1224 1
+1222 1240 1
+1222 1238 1
+1222 1236 1
+1222 1241 1
+1222 1233 1
+1222 1244 1
+1217 1220 1
+1218 1220 1
+1224 1232 1
+1224 1231 1
+1224 1229 1
+1224 1225 1
+1224 1228 1
+1224 1230 1
+1224 1227 1
+1233 1235 1
+1234 1235 1
+1245 1297 1
+1245 1281 1
+1245 2923 1
+1247 665 1
+1255 913 1
+1252 1253 1
+1252 1296 1
+1252 1255 1
+1251 1253 1
+1251 1296 1
+1251 1255 1
+1250 1258 1
+1250 1251 1
+1250 1256 1
+1250 1257 1
+1258 2038 1
+1258 2036 1
+1258 2035 1
+1258 2037 1
+1257 186 1
+1257 188 1
+1256 2411 1
+1256 2394 1
+1256 2399 1
+1256 2410 1
+1270 1272 1
+1271 1272 1
+1269 2704 1
+1269 2661 1
+1269 2715 1
+1269 2680 1
+1269 2681 1
+1266 724 1
+1266 728 1
+1266 664 1
+1266 727 1
+1265 2705 1
+1265 2713 1
+1265 2714 1
+1278 1320 1
+1278 1309 1
+1278 1317 1
+1278 1280 1
+1278 1319 1
+1279 1320 1
+1279 1309 1
+1279 1317 1
+1279 1280 1
+1279 1319 1
+1276 1278 1
+1277 1364 1
+1277 1366 1
+1277 1365 1
+1277 1321 1
+1277 1350 1
+1274 1372 1
+1275 1364 1
+1275 1366 1
+1275 1278 1
+1275 1365 1
+1275 1321 1
+1275 1350 1
+1272 1367 1
+1272 1372 1
+1272 1275 1
+1273 1367 1
+1273 1275 1
+1153 2920 1
+1154 2920 1
+1157 1159 1
+1157 1161 1
+1157 1178 1
+1157 1170 1
+1156 1157 1
+1159 1160 1
+1158 1159 1
+1158 1161 1
+1158 1178 1
+1158 1170 1
+1161 1162 1
+1161 1165 1
+1160 2422 1
+1160 2428 1
+1163 1164 1
+1162 1163 1
+1165 1167 1
+1165 1169 1
+1166 1167 1
+1166 1169 1
+1170 1175 1
+1170 1171 1
+1171 1174 1
+1171 1173 1
+1172 1174 1
+1172 1173 1
+1175 1177 1
+1176 1177 1
+1178 1182 1
+1178 1181 1
+1180 1181 1
+1181 2401 1
+1181 1566 1
+1181 1567 1
+1182 1183 1
+1182 1188 1
+1182 1187 1
+1183 1186 1
+1183 1185 1
+1184 1186 1
+1184 1185 1
+1191 2921 1
+1191 1267 1
+1191 1269 1
+1190 1192 1
+1189 2921 1
+1189 1267 1
+1189 1269 1
+1189 1192 1
+1195 1197 1
+1195 1198 1
+1195 1199 1
+1193 1247 1
+1193 1245 1
+1193 1195 1
+1193 1222 1
+1193 1201 1
+1192 1263 1
+1192 1265 1
+1192 1250 1
+1192 1259 1
+1192 1261 1
+1192 1193 1
+1192 1266 1
+1198 2043 1
+1198 2039 1
+1198 2044 1
+1198 1098 1
+1198 2041 1
+1197 2472 1
+1197 2470 1
+1197 2475 1
+1197 2473 1
+1197 1307 1
+1196 1197 1
+1196 1198 1
+1196 1199 1
+1201 1204 1
+1201 1202 1
+1201 1206 1
+1201 1205 1
+1201 1217 1
+1201 1214 1
+1206 1212 1
+1206 1208 1
+1206 1209 1
+1206 1213 1
+1207 1209 1
+1207 1213 1
+1204 1598 1
+1204 1031 1
+1205 1721 1
+1205 2076 1
+1205 2074 1
+1205 1719 1
+1205 1716 1
+1205 1723 1
+1214 1215 1
+1375 1377 1
+1375 1391 1
+1372 1373 1
+1372 1375 1
+1370 632 1
+1370 634 1
+1370 642 1
+1369 1370 1
+1368 1370 1
+1367 1371 1
+1367 1368 1
+1366 1512 1
+1366 1516 1
+1365 2413 1
+1365 2421 1
+1363 1344 1
+1354 1355 1
+1350 1351 1
+1350 1363 1
+1351 1352 1
+1351 1360 1
+1351 1356 1
+1351 1361 1
+1351 1354 1
+1351 1357 1
+1349 2686 1
+1349 2688 1
+1349 2683 1
+1344 1346 1
+1344 1345 1
+1344 1348 1
+1405 1418 1
+1404 1414 1
+1406 1421 1
+1401 1402 1
+1400 1402 1
+1403 1408 1
+1402 1418 1
+1402 1420 1
+1402 1414 1
+1402 1421 1
+1402 1408 1
+1397 1398 1
+1396 1398 1
+1399 1400 1
+1399 1423 1
+1398 1400 1
+1398 1423 1
+1393 2605 1
+1393 2603 1
+1391 1392 1
+1391 1393 1
+1384 1388 1
+1384 1385 1
+1384 1387 1
+1384 1389 1
+1384 1386 1
+1381 1382 1
+1383 760 1
+1383 761 1
+1383 757 1
+1376 1377 1
+1376 1391 1
+1377 1394 1
+1377 1384 1
+1377 1383 1
+1377 1379 1
+1377 1381 1
+1378 1384 1
+1378 1383 1
+1378 1379 1
+1378 1381 1
+1379 2379 1
+1379 1313 1
+1379 2200 1
+1311 1690 1
+1310 2465 1
+1310 2467 1
+1310 2463 1
+1309 1310 1
+1309 1313 1
+1309 1311 1
+1299 1305 1
+1297 1305 1
+1297 1303 1
+1297 1301 1
+1300 1303 1
+1300 1301 1
+1282 1294 1
+1282 1285 1
+1283 1290 1
+1280 1297 1
+1280 1281 1
+1280 2923 1
+1281 1290 1
+1281 1294 1
+1281 1285 1
+1281 2922 1
+1284 2922 1
+1343 1344 1
+1331 1332 1
+1333 822 1
+1333 824 1
+1333 758 1
+1333 827 1
+1333 759 1
+1333 826 1
+1320 1204 1
+1320 1202 1
+1320 1206 1
+1320 1205 1
+1320 1217 1
+1320 1214 1
+1321 1322 1
+1321 1349 1
+1321 1343 1
+1322 1341 1
+1322 1325 1
+1322 1339 1
+1322 1334 1
+1322 1331 1
+1322 1336 1
+1322 1342 1
+1322 1333 1
+1323 1325 1
+1323 1334 1
+1323 1331 1
+1323 1333 1
+1324 1341 1
+1324 1339 1
+1324 1336 1
+1324 1342 1
+1325 1329 1
+1325 1326 1
+1313 1314 1
+1313 1315 1
+1319 646 1
+1319 647 1
+1495 1497 1
+1492 1503 1
+1492 1506 1
+1492 1505 1
+1492 1501 1
+1492 1502 1
+1492 1495 1
+1492 1499 1
+1493 1503 1
+1493 1506 1
+1493 1505 1
+1493 1501 1
+1493 1502 1
+1493 1495 1
+1493 1499 1
+1488 1489 1
+1488 1491 1
+1496 1497 1
+1478 1507 1
+1477 1507 1
+1476 1483 1
+1476 1485 1
+1476 1484 1
+1476 1479 1
+1476 1481 1
+1476 1477 1
+1475 1483 1
+1475 1485 1
+1475 1484 1
+1475 1479 1
+1475 1481 1
+1475 1477 1
+1472 1475 1
+1472 1509 1
+1472 1487 1
+1472 1473 1
+1472 1492 1
+1487 1489 1
+1487 1491 1
+1524 1551 1
+1524 1526 1
+1525 1551 1
+1525 1526 1
+1526 1549 1
+1526 1541 1
+1526 1528 1
+1526 1543 1
+1527 1549 1
+1527 1541 1
+1527 1528 1
+1527 1543 1
+1521 1523 1
+1522 1523 1
+1523 1524 1
+1528 1537 1
+1528 1529 1
+1528 1533 1
+1528 1531 1
+1528 1539 1
+1528 1535 1
+1511 1512 1
+1511 1516 1
+1516 1635 1
+1516 1798 1
+1516 1794 1
+1516 1793 1
+1512 1513 1
+1512 1514 1
+1426 1851 1
+1427 1429 1
+1427 1430 1
+1427 1428 1
+1427 1455 1
+1424 1427 1
+1424 1426 1
+1425 1427 1
+1425 1426 1
+1430 1448 1
+1430 1432 1
+1430 1433 1
+1431 1448 1
+1431 1432 1
+1431 1433 1
+1428 1915 1
+1428 1913 1
+1429 388 1
+1434 765 1
+1435 1445 1
+1435 1436 1
+1435 1446 1
+1432 2174 1
+1432 2175 1
+1432 2177 1
+1432 2178 1
+1432 2176 1
+1433 1434 1
+1433 1435 1
+1436 1441 1
+1436 1443 1
+1436 1438 1
+1437 1441 1
+1437 1443 1
+1437 1438 1
+1409 1413 1
+1409 1410 1
+1409 1411 1
+1408 1413 1
+1408 1410 1
+1408 1411 1
+1414 1416 1
+1414 1417 1
+1423 1373 1
+1423 1375 1
+1456 1463 1
+1456 1461 1
+1456 1457 1
+1456 1460 1
+1457 1458 1
+1457 1459 1
+1464 1466 1
+1465 1466 1
+1468 1519 1
+1468 1511 1
+1468 1471 1
+1468 1517 1
+1469 1519 1
+1469 1471 1
+1469 1517 1
+1470 1511 1
+1471 1475 1
+1471 1509 1
+1471 1487 1
+1471 1473 1
+1471 1492 1
+1449 1452 1
+1449 1450 1
+1449 1451 1
+1448 1452 1
+1448 1450 1
+1448 1451 1
+1451 1668 1
+1450 1868 1
+1450 1852 1
+1450 1860 1
+1450 2517 1
+1450 2514 1
+1450 1862 1
+1453 1454 1
+1452 1454 1
+1455 1456 1
+1642 1643 1
+1644 1646 1
+1645 1646 1
+1634 1635 1
+1633 1643 1
+1638 1640 1
+1639 1640 1
+1636 1642 1
+1636 1648 1
+1636 1644 1
+1636 1638 1
+1637 1642 1
+1637 1648 1
+1637 1644 1
+1637 1638 1
+1659 1688 1
+1659 1662 1
+1659 1663 1
+1659 1664 1
+1658 1258 1
+1658 1251 1
+1658 1256 1
+1658 1257 1
+1657 764 1
+1657 745 1
+1656 1371 1
+1656 1368 1
+1663 2356 1
+1663 1792 1
+1663 2377 1
+1663 1800 1
+1663 2365 1
+1663 2384 1
+1663 1799 1
+1663 2382 1
+1662 496 1
+1662 495 1
+1662 2909 1
+1662 497 1
+1661 1662 1
+1661 1664 1
+1660 1688 1
+1660 1663 1
+1655 1657 1
+1655 1658 1
+1655 1656 1
+1655 1694 1
+1655 1659 1
+1654 1657 1
+1654 1658 1
+1654 1656 1
+1654 1694 1
+1654 1659 1
+1653 1732 1
+1608 1514 1
+1615 1618 1
+1600 1603 1
+1601 1603 1
+1606 1612 1
+1606 1608 1
+1606 1615 1
+1607 1612 1
+1607 1608 1
+1607 1615 1
+1624 1633 1
+1624 1628 1
+1624 1627 1
+1624 1625 1
+1627 1704 1
+1627 1702 1
+1629 1630 1
+1629 1631 1
+1628 1629 1
+1628 1632 1
+1616 1618 1
+1618 1416 1
+1618 1417 1
+1621 1623 1
+1621 1634 1
+1620 1650 1
+1620 1636 1
+1620 1623 1
+1620 1634 1
+1623 1633 1
+1623 1628 1
+1623 1627 1
+1623 1625 1
+1622 1650 1
+1622 1636 1
+1582 1585 1
+1583 1585 1
+1578 1581 1
+1578 1580 1
+1577 1581 1
+1577 1580 1
+1572 1573 1
+1572 1587 1
+1572 1582 1
+1572 1575 1
+1572 1577 1
+1570 1589 1
+1570 1604 1
+1570 1600 1
+1570 1571 1
+1571 1573 1
+1571 1587 1
+1571 1582 1
+1571 1575 1
+1571 1577 1
+1569 1570 1
+1569 1606 1
+1592 1593 1
+1591 1593 1
+1589 1591 1
+1589 1598 1
+1589 1596 1
+1589 1594 1
+1551 1553 1
+1551 1555 1
+1544 1545 1
+1544 1547 1
+1543 1545 1
+1543 1547 1
+1565 1566 1
+1565 1567 1
+1560 1563 1
+1560 1561 1
+1557 1559 1
+1559 1568 1
+1559 1560 1
+1559 1565 1
+1558 1559 1
+1552 1553 1
+1552 1555 1
+1761 1670 1
+1761 1672 1
+1767 1988 1
+1767 1987 1
+1767 2665 1
+1767 1986 1
+1766 1768 1
+1766 1767 1
+1765 1768 1
+1765 1767 1
+1764 1772 1
+1764 1765 1
+1775 1777 1
+1775 1778 1
+1778 1780 1
+1778 1789 1
+1778 1791 1
+1778 1801 1
+1779 1780 1
+1779 1789 1
+1779 1791 1
+1779 1801 1
+1776 1777 1
+1776 1778 1
+1782 1787 1
+1782 1784 1
+1783 1787 1
+1783 1784 1
+1780 1782 1
+1781 1782 1
+1790 1885 1
+1791 1792 1
+1791 1800 1
+1791 1799 1
+1789 1885 1
+1731 2013 1
+1731 2012 1
+1730 2078 1
+1730 2094 1
+1730 2073 1
+1730 2086 1
+1730 406 1
+1733 1775 1
+1733 1802 1
+1733 1734 1
+1732 1775 1
+1732 1802 1
+1732 1734 1
+1735 1738 1
+1735 1736 1
+1735 1737 1
+1734 1738 1
+1734 1736 1
+1734 1737 1
+1737 2034 1
+1736 1162 1
+1736 1165 1
+1739 1742 1
+1739 1740 1
+1739 1741 1
+1739 1744 1
+1738 1742 1
+1738 1740 1
+1738 1741 1
+1738 1744 1
+1744 344 1
+1745 1747 1
+1746 1747 1
+1747 1761 1
+1747 1749 1
+1747 1762 1
+1748 1761 1
+1748 1749 1
+1748 1762 1
+1749 1773 1
+1749 1751 1
+1749 1753 1
+1749 1757 1
+1749 1759 1
+1749 1755 1
+1750 1751 1
+1702 1703 1
+1701 1704 1
+1701 1702 1
+1700 1730 1
+1700 1731 1
+1699 1714 1
+1699 1701 1
+1699 1705 1
+1698 1714 1
+1698 1701 1
+1698 1705 1
+1698 1730 1
+1698 1731 1
+1697 2347 1
+1697 2346 1
+1697 2345 1
+1697 2349 1
+1697 2348 1
+1696 1568 1
+1696 1560 1
+1696 1565 1
+1707 1709 1
+1706 1712 1
+1706 1711 1
+1706 1710 1
+1706 1707 1
+1705 1712 1
+1705 1711 1
+1705 1710 1
+1705 1707 1
+1716 1392 1
+1716 1393 1
+1714 1721 1
+1714 1729 1
+1714 1728 1
+1714 1725 1
+1714 1719 1
+1714 1726 1
+1714 1727 1
+1714 1716 1
+1714 1723 1
+1715 1729 1
+1669 1670 1
+1669 1672 1
+1669 1945 1
+1668 1945 1
+1665 1666 1
+1665 1675 1
+1665 1667 1
+1665 1669 1
+1664 1666 1
+1664 1675 1
+1664 1667 1
+1664 1669 1
+1667 1668 1
+1677 2566 1
+1677 2557 1
+1677 2575 1
+1677 2565 1
+1676 2595 1
+1678 1679 1
+1678 1682 1
+1678 1681 1
+1678 1685 1
+1678 1684 1
+1673 1674 1
+1672 1674 1
+1675 1678 1
+1675 1687 1
+1675 1686 1
+1675 1676 1
+1675 1677 1
+1686 620 1
+1686 622 1
+1686 630 1
+1686 625 1
+1686 626 1
+1687 795 1
+1687 797 1
+1687 799 1
+1687 791 1
+1692 2669 1
+1692 2664 1
+1692 2668 1
+1694 1696 1
+1694 1697 1
+1694 1698 1
+1695 1696 1
+1695 1697 1
+1695 1698 1
+1688 1691 1
+1688 1689 1
+1688 1693 1
+1688 1692 1
+1689 1690 1
+1913 1914 1
+1912 1915 1
+1912 1913 1
+1915 1772 1
+1915 1765 1
+1914 614 1
+1914 618 1
+1914 617 1
+1914 610 1
+1919 2702 1
+1919 2701 1
+1919 2682 1
+1919 2690 1
+1918 2197 1
+1918 2250 1
+1918 2202 1
+1905 1910 1
+1904 1906 1
+1907 1908 1
+1906 1908 1
+1903 1910 1
+1903 1906 1
+1888 1894 1
+1888 1898 1
+1888 1890 1
+1888 1899 1
+1888 1892 1
+1888 1896 1
+1889 1894 1
+1889 1898 1
+1889 1890 1
+1889 1899 1
+1889 1892 1
+1889 1896 1
+1882 1883 1
+1882 1886 1
+1882 2926 1
+1882 1887 1
+1887 2089 1
+1887 2091 1
+1887 2093 1
+1886 194 1
+1886 193 1
+1873 1876 1
+1873 1874 1
+1872 1876 1
+1872 1874 1
+1864 1865 1
+1870 1878 1
+1870 1872 1
+1870 1880 1
+1871 1901 1
+1871 1882 1
+1871 1888 1
+1869 1901 1
+1869 1878 1
+1869 1882 1
+1869 1888 1
+1869 1872 1
+1869 1880 1
+1858 1382 1
+1859 2570 1
+1859 2571 1
+1859 2569 1
+1859 2567 1
+1859 2574 1
+1859 2573 1
+1859 2572 1
+1862 1867 1
+1862 1863 1
+1863 1865 1
+1860 1861 1
+1861 2667 1
+1861 220 1
+1852 1855 1
+1852 1853 1
+1852 1858 1
+1852 1859 1
+1849 1903 1
+1848 1869 1
+1851 1868 1
+1851 1852 1
+1851 1860 1
+1851 1862 1
+1850 1912 1
+1850 1920 1
+1850 1921 1
+1850 1918 1
+1850 1923 1
+1850 1916 1
+1850 1922 1
+1850 1919 1
+1845 1846 1
+1845 1847 1
+1844 1846 1
+1844 1847 1
+1847 1912 1
+1847 1920 1
+1847 1903 1
+1847 1869 1
+1847 1851 1
+1847 1921 1
+1847 1918 1
+1847 1923 1
+1847 1916 1
+1847 1922 1
+1847 1919 1
+1846 1954 1
+1846 1957 1
+1846 1927 1
+1846 1952 1
+1846 2027 1
+1846 1976 1
+1828 1839 1
+1828 1843 1
+1828 1841 1
+1828 1836 1
+1828 1830 1
+1828 1833 1
+1829 1839 1
+1829 1843 1
+1829 1841 1
+1829 1836 1
+1829 1833 1
+1826 752 1
+1826 754 1
+1826 749 1
+1826 751 1
+1826 748 1
+1826 2630 1
+1827 2216 1
+1827 2010 1
+1822 1823 1
+1821 1823 1
+1815 1796 1
+1815 1795 1
+1814 611 1
+1814 612 1
+1812 2254 1
+1812 1703 1
+1811 1820 1
+1809 1815 1
+1809 1816 1
+1809 1813 1
+1809 1812 1
+1809 1819 1
+1809 1820 1
+1809 1814 1
+1808 1826 1
+1808 1821 1
+1808 1828 1
+1808 1827 1
+1808 1809 1
+1804 1806 1
+1804 1808 1
+1805 1806 1
+1805 1808 1
+1802 1804 1
+1803 1804 1
+1800 1463 1
+1800 1461 1
+1800 1457 1
+1800 1460 1
+1801 1163 1
+1798 977 1
+1798 1420 1
+1798 1097 1
+1794 1796 1
+1794 1795 1
+1792 1798 1
+1792 1794 1
+1792 1793 1
+2032 2034 1
+2032 2038 1
+2032 2036 1
+2032 2035 1
+2032 2037 1
+2036 1867 1
+2036 1863 1
+2036 1861 1
+2038 2043 1
+2038 2039 1
+2038 2044 1
+2038 1098 1
+2038 2041 1
+2046 2048 1
+2047 2048 1
+2017 2022 1
+2017 2020 1
+2017 2018 1
+2017 2019 1
+2017 2021 1
+2016 2022 1
+2016 2020 1
+2016 2018 1
+2016 2019 1
+2016 2021 1
+2023 1815 1
+2023 1816 1
+2023 1813 1
+2023 1812 1
+2023 1814 1
+2025 1819 1
+2024 2230 1
+2024 2229 1
+2024 2225 1
+2024 2226 1
+2024 2231 1
+2027 389 1
+2026 2485 1
+2026 2486 1
+2029 2030 1
+2028 2030 1
+2031 2032 1
+2031 2045 1
+2030 2032 1
+2030 2045 1
+2000 2001 1
+2000 2002 1
+2007 2024 1
+2007 2025 1
+2007 2016 1
+2007 2014 1
+2007 2011 1
+2007 2023 1
+2007 2009 1
+2007 729 1
+2011 2013 1
+2011 2012 1
+2008 2024 1
+2008 2025 1
+2008 2016 1
+2008 2014 1
+2008 2011 1
+2008 2023 1
+2008 2009 1
+2008 729 1
+2009 2010 1
+2014 2015 1
+1985 1988 1
+1985 1987 1
+1985 1986 1
+1991 1992 1
+1990 1992 1
+1995 1997 1
+1993 1994 1
+1992 1994 1
+1999 2001 1
+1999 2002 1
+1998 2005 1
+1998 2004 1
+1998 1999 1
+1997 2005 1
+1997 2004 1
+1997 1999 1
+1996 1997 1
+1980 1983 1
+1980 1985 1
+1981 1983 1
+1982 1985 1
+1983 424 1
+1983 428 1
+1983 425 1
+1983 416 1
+1976 1990 1
+1976 1995 1
+1976 2026 1
+1976 2007 1
+1976 1978 1
+1977 1990 1
+1977 1995 1
+1977 2026 1
+1977 2007 1
+1977 1978 1
+1978 1980 1
+1979 1980 1
+1957 1975 1
+1957 1958 1
+1956 1957 1
+1956 2027 1
+1956 1976 1
+1959 1969 1
+1959 1966 1
+1959 1973 1
+1959 1971 1
+1959 1960 1
+1958 1969 1
+1958 1966 1
+1958 1973 1
+1958 1971 1
+1958 1960 1
+1965 2696 1
+1965 2692 1
+1964 1883 1
+1964 1886 1
+1964 2926 1
+1964 1887 1
+1961 1964 1
+1961 1962 1
+1961 1965 1
+1960 1964 1
+1960 1962 1
+1960 1965 1
+1936 1942 1
+1936 1938 1
+1936 1940 1
+1937 1942 1
+1937 1938 1
+1937 1940 1
+1927 1929 1
+1927 1951 1
+1926 1954 1
+1926 1927 1
+1926 1952 1
+1925 2555 1
+1925 2509 1
+1923 1570 1
+1923 1606 1
+1922 2596 1
+1922 2579 1
+1922 2597 1
+1922 2586 1
+1922 2594 1
+1922 2556 1
+1922 2576 1
+1921 2498 1
+1920 247 1
+1920 314 1
+1920 287 1
+1920 276 1
+1920 598 1
+1920 322 1
+1932 1934 1
+1932 1949 1
+1932 1947 1
+1932 1933 1
+1932 1936 1
+1932 1944 1
+1931 1934 1
+1931 1949 1
+1931 1947 1
+1931 1933 1
+1931 1936 1
+1931 1944 1
+1930 1931 1
+1929 1931 1
+1928 1929 1
+1928 1951 1
+2201 2541 1
+2201 2540 1
+2202 2244 1
+2202 2214 1
+2202 2232 1
+2202 2249 1
+2202 2224 1
+2202 2205 1
+2204 2244 1
+2204 2214 1
+2204 2232 1
+2204 2249 1
+2204 2224 1
+2204 2205 1
+2205 2207 1
+2205 2213 1
+2205 2211 1
+2205 2212 1
+2205 2208 1
+2205 2209 1
+2206 2207 1
+2206 2213 1
+2206 2211 1
+2206 2212 1
+2206 2208 1
+2206 2209 1
+2192 2194 1
+2192 2350 1
+2193 2194 1
+2193 2350 1
+2194 2344 1
+2194 2265 1
+2194 2196 1
+2195 2344 1
+2195 2265 1
+2195 2196 1
+2196 2197 1
+2196 2250 1
+2196 2202 1
+2197 2199 1
+2197 2201 1
+2198 2199 1
+2198 2201 1
+2199 2200 1
+2185 2188 1
+2185 2186 1
+2185 2190 1
+2191 2182 1
+2191 2179 1
+2191 2180 1
+2191 2173 1
+2176 2366 1
+2176 2373 1
+2176 2375 1
+2179 1160 1
+2178 721 1
+2178 719 1
+2178 716 1
+2178 715 1
+2178 718 1
+2178 720 1
+2178 714 1
+2232 2234 1
+2232 2242 1
+2232 2236 1
+2232 2240 1
+2232 2239 1
+2233 2234 1
+2224 2230 1
+2224 2229 1
+2224 2225 1
+2224 2226 1
+2224 2231 1
+2231 615 1
+2208 1232 1
+2208 1231 1
+2208 1229 1
+2208 1225 1
+2208 1228 1
+2208 1230 1
+2208 1227 1
+2215 2218 1
+2215 2220 1
+2215 2222 1
+2214 2218 1
+2214 2216 1
+2214 2220 1
+2214 2222 1
+2268 2270 1
+2268 2271 1
+2269 2270 1
+2269 2271 1
+2271 2442 1
+2271 2438 1
+2265 2266 1
+2265 2328 1
+2265 2291 1
+2265 2342 1
+2265 2340 1
+2266 2290 1
+2266 2287 1
+2266 2272 1
+2266 2288 1
+2266 2268 1
+2267 2290 1
+2267 2287 1
+2267 2272 1
+2267 2288 1
+2267 2268 1
+2262 1679 1
+2259 1682 1
+2259 1681 1
+2259 1685 1
+2259 2380 1
+2259 1684 1
+2253 2254 1
+2253 2258 1
+2253 2257 1
+2253 2256 1
+2252 707 1
+2252 708 1
+2252 706 1
+2249 699 1
+2249 703 1
+2249 701 1
+2251 2263 1
+2251 2262 1
+2251 2252 1
+2251 2259 1
+2251 2253 1
+2251 2260 1
+2250 2263 1
+2250 2262 1
+2250 2252 1
+2250 2259 1
+2250 2253 1
+2250 2260 1
+2245 2246 1
+2245 2248 1
+2244 2246 1
+2244 2248 1
+2294 2295 1
+2294 2305 1
+2294 2303 1
+2294 2307 1
+2294 2300 1
+2294 2309 1
+2294 2298 1
+2292 2293 1
+2292 2325 1
+2292 2327 1
+2292 2319 1
+2293 2317 1
+2293 2314 1
+2293 2311 1
+2293 2316 1
+2293 2294 1
+2291 2293 1
+2291 2325 1
+2291 2327 1
+2291 2319 1
+2287 2317 1
+2287 2314 1
+2287 2311 1
+2287 2316 1
+2287 2294 1
+2285 2286 1
+2284 2286 1
+2283 2295 1
+2283 2305 1
+2283 2303 1
+2283 2307 1
+2283 2300 1
+2283 2309 1
+2283 2298 1
+2280 2282 1
+2280 2281 1
+2279 2282 1
+2279 2281 1
+2276 2277 1
+2275 2277 1
+2274 2283 1
+2274 2284 1
+2274 2279 1
+2273 2275 1
+2272 2275 1
+2272 2283 1
+2272 2284 1
+2272 2279 1
+2067 2070 1
+2067 2100 1
+2067 2068 1
+2071 2072 1
+2071 2096 1
+2071 2098 1
+2070 2072 1
+2070 2096 1
+2070 2098 1
+2073 2076 1
+2073 2074 1
+2072 2078 1
+2072 2094 1
+2072 2073 1
+2072 2086 1
+2079 2080 1
+2079 2082 1
+2079 2084 1
+2078 2080 1
+2078 2082 1
+2078 2084 1
+2048 2050 1
+2048 2054 1
+2048 2057 1
+2049 2050 1
+2049 2054 1
+2049 2057 1
+2056 114 1
+2059 2061 1
+2060 2061 1
+2061 2064 1
+2061 2063 1
+2062 2064 1
+2062 2063 1
+2063 1388 1
+2063 1385 1
+2063 1387 1
+2063 1389 1
+2063 1386 1
+2103 2104 1
+2102 2104 1
+2107 2108 1
+2107 2113 1
+2106 2108 1
+2106 2113 1
+2105 2106 1
+2105 2118 1
+2105 2116 1
+2104 2106 1
+2104 2118 1
+2104 2116 1
+2109 2110 1
+2109 2112 1
+2108 2110 1
+2108 2112 1
+2086 2089 1
+2086 2088 1
+2086 2091 1
+2086 2093 1
+2087 2088 1
+2094 1830 1
+2133 2134 1
+2133 2135 1
+2132 2134 1
+2132 2135 1
+2134 1537 1
+2134 1529 1
+2134 1533 1
+2134 1531 1
+2134 1539 1
+2134 1535 1
+2129 2130 1
+2128 2130 1
+2124 2143 1
+2125 2126 1
+2125 2141 1
+2126 2128 1
+2126 2137 1
+2126 2132 1
+2126 2139 1
+2127 2128 1
+2127 2137 1
+2127 2132 1
+2127 2139 1
+2120 2122 1
+2120 2123 1
+2121 2122 1
+2121 2123 1
+2122 1524 1
+2123 2126 1
+2123 2143 1
+2123 2141 1
+2167 2168 1
+2167 2932 1
+2166 2168 1
+2166 2932 1
+2175 2363 1
+2175 2357 1
+2175 2359 1
+2173 2174 1
+2173 2175 1
+2173 2177 1
+2173 2178 1
+2173 2176 1
+2172 2182 1
+2172 2179 1
+2172 2180 1
+2172 2173 1
+2171 2172 1
+2170 2172 1
+2150 2151 1
+2148 2149 1
+2149 2151 1
+2146 2153 1
+2146 2147 1
+2147 2149 1
+2145 2153 1
+2145 2147 1
+2156 2157 1
+2154 2155 1
+2155 2157 1
+2153 2155 1
+2443 2577 1
+2446 2448 1
+2446 2447 1
+2446 2454 1
+2445 2448 1
+2445 2447 1
+2445 2454 1
+2439 2441 1
+2438 2441 1
+2437 2442 1
+2437 2438 1
+2436 2437 1
+2458 2459 1
+2456 2458 1
+2456 2457 1
+2457 2580 1
+2462 2465 1
+2462 2467 1
+2462 2463 1
+2461 2480 1
+2461 2477 1
+2461 2481 1
+2461 2469 1
+2461 2462 1
+2448 2449 1
+2448 2453 1
+2448 2452 1
+2448 2450 1
+2477 63 1
+2477 172 1
+2469 2472 1
+2469 2470 1
+2469 2475 1
+2469 2473 1
+2469 1307 1
+2482 2329 1
+2483 2513 1
+2483 2518 1
+2483 2534 1
+2483 2519 1
+2483 2533 1
+2483 2520 1
+2484 2485 1
+2484 2486 1
+2485 2548 1
+2485 2539 1
+2485 2552 1
+2485 2543 1
+2485 2547 1
+2486 2487 1
+2486 2494 1
+2486 2492 1
+2486 2498 1
+2487 2488 1
+2511 2536 1
+2510 2512 1
+2509 2512 1
+2509 2536 1
+2508 2555 1
+2508 2509 1
+2507 2599 1
+2507 2646 1
+2505 2458 1
+2505 2457 1
+2504 2578 1
+2504 2618 1
+2504 2617 1
+2504 2619 1
+2503 2504 1
+2503 2505 1
+2502 2504 1
+2502 2505 1
+2499 2500 1
+2498 2500 1
+2522 2526 1
+2522 2528 1
+2520 2531 1
+2520 2521 1
+2521 2526 1
+2521 2528 1
+2514 2515 1
+2512 2513 1
+2512 2518 1
+2512 2534 1
+2512 2519 1
+2512 2533 1
+2512 2520 1
+2513 2517 1
+2513 2514 1
+2540 2431 1
+2540 2433 1
+2540 2430 1
+2540 2429 1
+2543 2545 1
+2537 2553 1
+2537 2538 1
+2536 2553 1
+2536 2538 1
+2539 2541 1
+2539 2540 1
+2538 2548 1
+2538 2539 1
+2538 2552 1
+2538 2543 1
+2538 2547 1
+2533 2188 1
+2533 2186 1
+2533 2190 1
+2556 2566 1
+2556 2557 1
+2556 2575 1
+2556 2565 1
+2557 2560 1
+2557 2559 1
+2557 2564 1
+2557 2562 1
+2558 2560 1
+2558 2559 1
+2558 2564 1
+2558 2562 1
+2555 2596 1
+2555 2579 1
+2555 2597 1
+2555 2586 1
+2555 2594 1
+2555 2556 1
+2555 2576 1
+2548 2550 1
+2549 2550 1
+2544 2545 1
+2547 1629 1
+2547 1632 1
+2311 856 1
+2311 852 1
+2319 2323 1
+2319 2321 1
+2316 1728 1
+2316 1725 1
+2316 1726 1
+2316 1727 1
+2320 2323 1
+2320 2321 1
+2331 2335 1
+2331 2332 1
+2331 2333 1
+2330 2338 1
+2330 2331 1
+2330 2339 1
+2330 2336 1
+2329 2338 1
+2329 2331 1
+2329 2339 1
+2329 2336 1
+2328 2329 1
+2339 2515 1
+2344 2347 1
+2344 2346 1
+2344 2345 1
+2344 2349 1
+2344 2348 1
+2347 1678 1
+2347 1687 1
+2347 1676 1
+2347 1677 1
+2348 1077 1
+2348 1082 1
+2348 1085 1
+2348 1075 1
+2348 1092 1
+2348 1095 1
+2348 1094 1
+2349 2437 1
+2350 2352 1
+2351 2352 1
+2353 2387 1
+2353 2354 1
+2353 2388 1
+2352 2387 1
+2352 2354 1
+2352 2388 1
+2355 2385 1
+2355 2386 1
+2354 2356 1
+2354 2377 1
+2354 2365 1
+2354 2384 1
+2354 2385 1
+2354 2382 1
+2354 2386 1
+2357 2358 1
+2356 2363 1
+2356 2357 1
+2356 2359 1
+2359 2362 1
+2360 2362 1
+2365 2366 1
+2365 2373 1
+2365 2375 1
+2367 2371 1
+2367 2370 1
+2367 2368 1
+2366 2371 1
+2366 2370 1
+2366 2368 1
+2378 2427 1
+2377 2378 1
+2377 2379 1
+2377 2380 1
+2391 2393 1
+2390 2443 1
+2390 2412 1
+2390 2436 1
+2390 2393 1
+2386 1310 1
+2386 1513 1
+2386 1914 1
+2385 2487 1
+2385 2494 1
+2385 2492 1
+2384 391 1
+2399 2405 1
+2399 2401 1
+2399 2407 1
+2399 2408 1
+2399 2404 1
+2398 2015 1
+2396 2397 1
+2395 2398 1
+2394 2397 1
+2394 2398 1
+2393 2411 1
+2393 2394 1
+2393 2399 1
+2393 2410 1
+2392 2443 1
+2392 2412 1
+2392 2436 1
+2407 2417 1
+2400 2405 1
+2400 2407 1
+2400 2408 1
+2400 2404 1
+2401 2403 1
+2402 2403 1
+2412 2413 1
+2412 2421 1
+2413 2415 1
+2413 2418 1
+2413 2416 1
+2414 2415 1
+2414 2418 1
+2414 2416 1
+2411 1078 1
+2411 1080 1
+2411 1076 1
+2421 2422 1
+2421 2428 1
+2423 2425 1
+2423 2426 1
+2422 2425 1
+2422 2427 1
+2422 2426 1
+2416 2417 1
+2428 2431 1
+2428 2433 1
+2428 2430 1
+2428 2429 1
+2427 1630 1
+2427 1631 1
+2426 2358 1
+2750 2817 1
+2750 2818 1
+2750 2815 1
+2751 2824 1
+2746 2748 1
+2746 2747 1
+2744 2745 1
+2744 2751 1
+2744 2750 1
+2745 2748 1
+2745 2747 1
+2742 2768 1
+2742 2764 1
+2742 2771 1
+2742 2770 1
+2742 2769 1
+2742 2752 1
+2742 2744 1
+2743 2768 1
+2743 2764 1
+2743 2771 1
+2743 2770 1
+2743 2769 1
+2743 2752 1
+2743 2744 1
+2741 1826 1
+2741 1821 1
+2741 1828 1
+2741 1827 1
+2741 1809 1
+2733 2737 1
+2733 2734 1
+2733 2739 1
+2732 2737 1
+2732 2734 1
+2732 2739 1
+2726 2728 1
+2726 2730 1
+2726 2727 1
+2725 2728 1
+2725 2730 1
+2725 2727 1
+2723 2658 1
+2720 2721 1
+2720 2723 1
+2720 2724 1
+2716 2718 1
+2716 2741 1
+2716 2719 1
+2716 2732 1
+2717 2718 1
+2717 2741 1
+2717 2719 1
+2717 2732 1
+2719 2725 1
+2719 2720 1
+2719 2731 1
+2713 1247 1
+2713 1245 1
+2713 1195 1
+2713 1222 1
+2713 1201 1
+2714 1445 1
+2714 1436 1
+2714 1446 1
+2715 242 1
+2715 224 1
+2704 2705 1
+2704 2713 1
+2704 2714 1
+2705 2706 1
+2705 2711 1
+2706 2708 1
+2706 2710 1
+2707 2708 1
+2707 2710 1
+2701 239 1
+2701 238 1
+2702 370 1
+2702 368 1
+2699 1352 1
+2693 2695 1
+2692 2695 1
+2688 2689 1
+2691 2696 1
+2691 2692 1
+2691 2698 1
+2690 2699 1
+2690 2691 1
+2811 2825 1
+2811 2830 1
+2811 2813 1
+2811 2826 1
+2814 2817 1
+2814 2818 1
+2814 2815 1
+2812 2825 1
+2812 2830 1
+2812 2813 1
+2812 2826 1
+2813 2823 1
+2813 2814 1
+2813 2819 1
+2803 2805 1
+2803 2807 1
+2804 2805 1
+2804 2807 1
+2799 2800 1
+2798 2800 1
+2797 2801 1
+2797 2802 1
+2797 2798 1
+2796 2801 1
+2796 2802 1
+2796 2798 1
+2776 2778 1
+2776 2780 1
+2777 2778 1
+2777 2780 1
+2782 2788 1
+2782 2786 1
+2782 2784 1
+2783 2788 1
+2783 2786 1
+2783 2784 1
+2768 1033 1
+2768 1030 1
+2770 2725 1
+2770 2720 1
+2770 2731 1
+2771 2823 1
+2771 2814 1
+2771 2819 1
+2772 2774 1
+2772 2796 1
+2772 2809 1
+2772 2803 1
+2773 2774 1
+2773 2796 1
+2773 2809 1
+2773 2803 1
+2774 2792 1
+2774 2782 1
+2774 2790 1
+2774 2794 1
+2774 2776 1
+2775 2792 1
+2775 2782 1
+2775 2790 1
+2775 2794 1
+2775 2776 1
+2765 2766 1
+2764 2766 1
+2753 2759 1
+2753 2762 1
+2753 2757 1
+2753 2754 1
+2753 2756 1
+2752 2759 1
+2752 2762 1
+2752 2757 1
+2752 2754 1
+2752 2756 1
+2615 2624 1
+2615 2621 1
+2615 2618 1
+2615 2617 1
+2615 2625 1
+2615 2619 1
+2615 2627 1
+2616 2624 1
+2616 2621 1
+2616 2625 1
+2616 2627 1
+2598 2599 1
+2598 2646 1
+2599 2628 1
+2599 2928 1
+2599 2601 1
+2599 2643 1
+2599 2615 1
+2597 2482 1
+2597 2456 1
+2597 2445 1
+2597 2461 1
+2594 2595 1
+2595 1773 1
+2595 1753 1
+2595 1757 1
+2595 1759 1
+2595 1755 1
+2605 2449 1
+2605 2453 1
+2605 2452 1
+2605 2450 1
+2602 2606 1
+2600 2628 1
+2600 2928 1
+2600 2601 1
+2600 2643 1
+2600 2615 1
+2601 2611 1
+2601 2605 1
+2601 2606 1
+2601 2609 1
+2601 2608 1
+2601 2603 1
+2601 2614 1
+2581 2584 1
+2581 2582 1
+2580 2584 1
+2580 2582 1
+2577 2578 1
+2576 2577 1
+2579 2580 1
+2578 2488 1
+2590 1329 1
+2590 1326 1
+2586 2590 1
+2586 2587 1
+2586 2591 1
+2586 2588 1
+2586 2592 1
+2566 2570 1
+2566 2571 1
+2566 2569 1
+2566 2567 1
+2566 2574 1
+2566 2573 1
+2566 2572 1
+2575 2531 1
+2575 2521 1
+2569 2635 1
+2569 2636 1
+2672 2674 1
+2677 2678 1
+2676 2678 1
+2683 2685 1
+2682 2686 1
+2682 2688 1
+2682 2683 1
+2681 2702 1
+2681 2701 1
+2681 2682 1
+2681 2690 1
+2684 2685 1
+2659 2660 1
+2657 2658 1
+2662 2676 1
+2662 2663 1
+2662 2671 1
+2663 2669 1
+2663 2664 1
+2663 2668 1
+2660 2704 1
+2660 2661 1
+2660 2715 1
+2660 2680 1
+2660 2681 1
+2661 2676 1
+2661 2663 1
+2661 2671 1
+2664 2667 1
+2664 2665 1
+2671 2674 1
+2643 2480 1
+2643 2477 1
+2643 2481 1
+2643 2469 1
+2643 2462 1
+2647 2653 1
+2647 2655 1
+2647 2648 1
+2647 2649 1
+2647 2657 1
+2646 2653 1
+2646 2655 1
+2646 2648 1
+2646 2649 1
+2646 2657 1
+2649 2651 1
+2650 2651 1
+2653 2644 1
+2653 2822 1
+2654 2644 1
+2628 2642 1
+2628 2638 1
+2628 2634 1
+2628 2639 1
+2628 2640 1
+2628 2630 1
+2629 2642 1
+2629 2638 1
+2629 2634 1
+2629 2639 1
+2629 2640 1
+2630 2633 1
+2630 2632 1
+2631 2633 1
+2631 2632 1
+2634 2635 1
+2634 2636 1
+2638 2459 1
+2639 2721 1
+2639 2723 1
+2639 2724 1
+2639 2820 1
+2989 2502 1
+2988 2192 1
+2988 2946 1
+2988 2390 1
+2988 2166 1
+2991 2598 1
+2990 2502 1
+2985 2145 1
+2984 2120 1
+2987 2192 1
+2987 2946 1
+2987 2390 1
+2987 2166 1
+2986 2145 1
+2981 2102 1
+2980 2066 1
+2980 2978 1
+2983 2120 1
+2982 2102 1
+2977 2059 1
+2976 2059 1
+2979 2066 1
+2979 2978 1
+2978 2070 1
+2978 2100 1
+2978 2068 1
+3004 456 1
+3005 1464 1
+3006 1464 1
+3007 1620 1
+3000 2659 1
+3000 2918 1
+3001 1771 1
+3002 1771 1
+3003 456 1
+2996 2811 1
+2996 2772 1
+2996 2742 1
+2997 2831 1
+2998 2831 1
+2999 2659 1
+2999 2918 1
+2992 2598 1
+2993 2716 1
+2994 2716 1
+2995 2811 1
+2995 2772 1
+2995 2742 1
+2959 2936 1
+2959 2956 1
+2958 2936 1
+2958 2956 1
+2957 2962 1
+2956 2962 1
+2955 2960 1
+2955 2938 1
+2954 2960 1
+2954 2938 1
+2953 2934 1
+2953 2929 1
+2952 2934 1
+2952 2929 1
+2951 2444 1
+2951 2927 1
+2950 2444 1
+2950 2927 1
+2949 2507 1
+2949 2950 1
+2948 2507 1
+2948 2950 1
+2947 2948 1
+2947 2508 1
+2946 2948 1
+2946 2508 1
+2945 2170 1
+2945 2185 1
+2945 2191 1
+2945 2184 1
+2944 2170 1
+2944 2185 1
+2944 2191 1
+2944 2184 1
+2974 2056 1
+2975 2056 1
+2972 2046 1
+2973 2046 1
+2970 2484 1
+2970 2483 1
+2971 2484 1
+2971 2483 1
+2968 1926 1
+2969 1926 1
+2966 1956 1
+2966 2028 1
+2967 1956 1
+2967 2028 1
+2964 1925 1
+2964 1844 1
+2965 1925 1
+2965 1844 1
+2962 1396 1
+2962 1270 1
+2963 1396 1
+2963 1270 1
+3011 1764 1
+3010 1745 1
+3009 1745 1
+3008 1620 1
+3014 2941 1
+3014 2958 1
+3014 1424 1
+3014 2952 1
+3013 2941 1
+3013 2958 1
+3013 1424 1
+3013 2952 1
+3012 1764 1
+2854 2861 1
+2854 2859 1
+2854 2856 1
+2854 2858 1
+2855 2861 1
+2855 2859 1
+2855 2856 1
+2855 2858 1
+2848 2850 1
+2848 2852 1
+2849 2850 1
+2849 2852 1
+2869 2878 1
+2869 2876 1
+2869 2874 1
+2869 2872 1
+2869 2870 1
+2868 2879 1
+2868 2883 1
+2868 2869 1
+2868 2887 1
+2868 2881 1
+2868 2888 1
+2868 2885 1
+2867 2879 1
+2867 2883 1
+2867 2869 1
+2867 2887 1
+2867 2881 1
+2867 2888 1
+2867 2885 1
+2878 2842 1
+2878 2845 1
+2878 2843 1
+2823 2824 1
+2819 2822 1
+2819 2820 1
+2830 2745 1
+2830 2751 1
+2830 2750 1
+2831 2833 1
+2831 2902 1
+2831 2905 1
+2826 2828 1
+2827 2828 1
+2839 2846 1
+2839 2841 1
+2838 2839 1
+2838 2848 1
+2838 2863 1
+2838 2865 1
+2838 2854 1
+2837 2839 1
+2837 2848 1
+2837 2863 1
+2837 2865 1
+2837 2854 1
+2836 2889 1
+2836 2891 1
+2836 2867 1
+2836 2837 1
+2835 2889 1
+2835 2891 1
+2835 2867 1
+2835 2837 1
+2834 2835 1
+2834 2899 1
+2834 2900 1
+2834 2892 1
+2833 2835 1
+2833 2899 1
+2833 2900 1
+2833 2892 1
+2832 2833 1
+2832 2902 1
+2832 2905 1
+2841 2842 1
+2841 2845 1
+2841 2843 1
+2840 173 1
+2840 601 1
+2840 2846 1
+2840 2930 1
+2840 2841 1
+2840 243 1
+2840 1 1
+2840 775 1
+2912 385 1
+2912 376 1
+2912 384 1
+2912 382 1
+2915 566 1
+2916 777 1
+2920 1157 1
+2921 1456 1
+2924 1654 1
+2924 1732 1
+2927 2482 1
+2927 2456 1
+2927 2445 1
+2927 2461 1
+2929 173 1
+2929 601 1
+2929 2930 1
+2929 243 1
+2929 1 1
+2929 775 1
+2931 215 1
+2931 214 1
+2930 215 1
+2930 214 1
+2933 2908 1
+2933 2944 1
+2932 2908 1
+2932 2944 1
+2935 2916 1
+2935 776 1
+2935 2954 1
+2934 2916 1
+2934 776 1
+2934 2954 1
+2937 1099 1
+2936 1189 1
+2936 1099 1
+2939 1153 1
+2938 1153 1
+2941 2924 1
+2941 1652 1
+2940 1189 1
+2943 1654 1
+2942 2924 1
+2942 1652 1
+2887 2894 1
+2891 756 1
+2891 762 1
+2891 746 1
+2892 2893 1
+2892 2897 1
+2892 2896 1
+2893 2894 1
+2896 2878 1
+2896 2876 1
+2896 2874 1
+2896 2872 1
+2896 2870 1
+2903 2904 1
+2902 2904 1
+2906 2907 1
+2905 2907 1
+2904 2893 1
+2904 2897 1
+2904 2896 1
+2911 385 1
+2911 376 1
+2911 384 1
+2911 382 1
+2910 375 1
+2909 493 1
+2909 2914 1
+2909 2913 1
+2909 491 1
+2908 183 1
+2908 180 1
+2908 182 1
+2908 181 1
+2908 175 1
+*edges
+1 2 1
+173 2 1
+3 5 1
+3 4 1
+6 9 1
+6 8 1
+6 7 1
+6 11 1
+6 10 1
+12 13 1
+14 15 1
+14 186 1
+16 17 1
+18 19 1
+2425 20 1
+1741 20 1
+23 22 1
+25 24 1
+27 26 1
+29 32 1
+29 39 1
+29 30 1
+29 34 1
+29 31 1
+29 37 1
+29 36 1
+29 35 1
+29 33 1
+29 38 1
+28 241 1
+43 47 1
+43 45 1
+43 44 1
+43 46 1
+41 40 1
+69 51 1
+49 50 1
+48 84 1
+55 54 1
+123 52 1
+53 52 1
+58 60 1
+58 107 1
+58 1355 1
+58 59 1
+57 56 1
+1163 63 1
+61 62 1
+61 2477 1
+69 70 1
+72 71 1
+64 77 1
+64 65 1
+66 68 1
+66 67 1
+715 78 1
+79 78 1
+73 642 1
+74 75 1
+74 76 1
+86 85 1
+88 87 1
+80 81 1
+80 1294 1
+82 83 1
+997 93 1
+94 209 1
+94 95 1
+94 96 1
+90 89 1
+91 92 1
+818 103 1
+99 102 1
+99 101 1
+99 100 1
+97 352 1
+97 98 1
+112 111 1
+970 108 1
+110 109 1
+701 107 1
+104 105 1
+104 668 1
+104 106 1
+582 119 1
+569 118 1
+116 117 1
+114 115 1
+113 2056 1
+126 127 1
+2470 125 1
+123 124 1
+539 122 1
+120 121 1
+138 137 1
+136 154 1
+136 399 1
+139 140 1
+139 2417 1
+141 948 1
+143 144 1
+142 2303 1
+128 129 1
+128 130 1
+131 132 1
+1580 133 1
+134 135 1
+152 153 1
+152 210 1
+155 156 1
+157 158 1
+293 159 1
+146 145 1
+148 147 1
+149 150 1
+151 1868 1
+2659 171 1
+605 170 1
+169 168 1
+175 317 1
+174 2908 1
+1163 172 1
+163 162 1
+161 160 1
+1028 167 1
+215 166 1
+165 164 1
+1085 186 1
+187 186 1
+185 350 1
+185 1257 1
+190 191 1
+188 189 1
+178 179 1
+176 177 1
+1975 182 1
+552 182 1
+183 184 1
+183 450 1
+1427 180 1
+1192 181 1
+1214 205 1
+204 668 1
+762 207 1
+1589 206 1
+2377 206 1
+577 206 1
+201 669 1
+200 727 1
+203 202 1
+193 1593 1
+192 1886 1
+866 195 1
+196 195 1
+197 195 1
+199 195 1
+198 195 1
+794 194 1
+221 220 1
+665 222 1
+2199 222 1
+1309 222 1
+223 222 1
+216 217 1
+216 324 1
+218 2696 1
+218 238 1
+219 703 1
+219 362 1
+219 1861 1
+323 212 1
+393 213 1
+214 765 1
+215 2715 1
+1350 208 1
+498 211 1
+1433 211 1
+239 240 1
+236 237 1
+234 235 1
+234 1329 1
+233 232 1
+230 231 1
+228 229 1
+226 227 1
+226 2888 1
+224 2701 1
+224 225 1
+397 255 1
+252 254 1
+252 306 1
+252 1187 1
+252 253 1
+251 301 1
+251 392 1
+249 250 1
+246 1920 1
+247 248 1
+247 595 1
+2705 242 1
+243 245 1
+243 244 1
+275 274 1
+273 272 1
+279 499 1
+329 278 1
+276 277 1
+283 282 1
+297 281 1
+2909 280 1
+287 734 1
+515 286 1
+285 409 1
+258 259 1
+256 495 1
+257 553 1
+552 262 1
+548 262 1
+265 263 1
+264 263 1
+260 2685 1
+261 589 1
+261 271 1
+267 266 1
+268 266 1
+2587 266 1
+269 266 1
+270 284 1
+270 406 1
+440 271 1
+307 306 1
+310 309 1
+2691 308 1
+625 308 1
+312 311 1
+930 313 1
+314 315 1
+316 497 1
+319 496 1
+319 500 1
+2910 318 1
+562 318 1
+288 289 1
+288 290 1
+291 292 1
+332 294 1
+296 295 1
+298 299 1
+300 2689 1
+302 567 1
+303 305 1
+303 304 1
+341 356 1
+341 342 1
+341 1744 1
+340 540 1
+339 343 1
+338 379 1
+337 336 1
+351 428 1
+348 349 1
+346 347 1
+2449 344 1
+345 344 1
+327 328 1
+325 326 1
+1771 322 1
+1331 320 1
+327 321 1
+332 1593 1
+332 343 1
+333 334 1
+333 335 1
+330 331 1
+330 1294 1
+329 385 1
+373 372 1
+374 542 1
+583 368 1
+369 368 1
+371 370 1
+381 380 1
+382 383 1
+377 378 1
+1002 356 1
+357 356 1
+358 359 1
+353 352 1
+354 355 1
+364 365 1
+364 370 1
+366 2258 1
+367 2702 1
+360 361 1
+2559 362 1
+2587 362 1
+382 362 1
+376 363 1
+411 410 1
+412 410 1
+433 409 1
+415 1983 1
+413 414 1
+402 404 1
+402 403 1
+401 400 1
+552 406 1
+408 407 1
+405 1730 1
+394 395 1
+394 396 1
+858 399 1
+397 398 1
+387 1429 1
+413 386 1
+547 384 1
+424 384 1
+391 2252 1
+389 390 1
+389 2384 1
+388 2027 1
+440 442 1
+440 441 1
+443 444 1
+1596 445 1
+447 446 1
+434 567 1
+435 437 1
+435 436 1
+438 439 1
+426 425 1
+427 425 1
+430 429 1
+477 428 1
+431 432 1
+416 417 1
+418 419 1
+420 421 1
+423 422 1
+479 480 1
+477 478 1
+475 1662 1
+475 476 1
+472 474 1
+472 473 1
+2265 471 1
+470 469 1
+468 467 1
+465 464 1
+466 464 1
+462 1994 1
+462 463 1
+460 461 1
+458 459 1
+456 457 1
+2690 455 1
+1321 454 1
+451 452 1
+451 453 1
+448 449 1
+511 512 1
+505 506 1
+507 508 1
+501 502 1
+503 504 1
+552 497 1
+493 1459 1
+493 494 1
+489 488 1
+491 492 1
+2913 490 1
+485 509 1
+484 510 1
+487 486 1
+481 482 1
+481 483 1
+551 550 1
+548 555 1
+592 549 1
+545 546 1
+545 2915 1
+558 559 1
+593 556 1
+594 557 1
+554 553 1
+568 567 1
+914 566 1
+565 564 1
+562 563 1
+560 561 1
+575 576 1
+572 574 1
+572 573 1
+571 570 1
+517 520 1
+517 519 1
+517 518 1
+514 513 1
+515 516 1
+526 524 1
+525 524 1
+528 527 1
+547 521 1
+523 521 1
+522 521 1
+535 533 1
+534 533 1
+536 533 1
+529 530 1
+532 531 1
+2586 541 1
+547 540 1
+543 544 1
+537 538 1
+610 1814 1
+1567 611 1
+609 1914 1
+614 626 1
+614 2231 1
+616 615 1
+613 612 1
+637 612 1
+714 618 1
+619 1686 1
+617 2020 1
+622 623 1
+622 624 1
+620 621 1
+620 688 1
+620 1342 1
+627 626 1
+628 626 1
+629 626 1
+1354 626 1
+625 1235 1
+631 630 1
+1336 630 1
+1244 630 1
+634 635 1
+634 636 1
+632 633 1
+818 638 1
+639 638 1
+1357 638 1
+578 579 1
+580 581 1
+583 584 1
+583 585 1
+588 586 1
+587 586 1
+591 589 1
+590 589 1
+597 596 1
+598 599 1
+601 602 1
+603 604 1
+607 1370 1
+607 608 1
+606 774 1
+686 687 1
+681 2695 1
+681 683 1
+681 685 1
+681 682 1
+681 684 1
+751 680 1
+679 1231 1
+677 678 1
+677 706 1
+699 676 1
+1227 676 1
+1243 675 1
+748 674 1
+1707 673 1
+1820 673 1
+1481 673 1
+1313 672 1
+712 702 1
+2018 703 1
+704 703 1
+701 1711 1
+699 700 1
+697 698 1
+697 2252 1
+697 2249 1
+694 696 1
+694 695 1
+693 692 1
+691 690 1
+2207 688 1
+689 688 1
+2445 653 1
+2345 655 1
+656 655 1
+654 728 1
+649 650 1
+1170 648 1
+2387 651 1
+652 651 1
+645 1319 1
+1740 647 1
+766 646 1
+939 646 1
+640 641 1
+643 644 1
+729 668 1
+670 669 1
+2253 671 1
+664 1247 1
+665 666 1
+665 667 1
+1560 661 1
+663 832 1
+663 1266 1
+656 657 1
+659 658 1
+659 660 1
+746 1826 1
+746 747 1
+745 2891 1
+744 1657 1
+749 750 1
+739 740 1
+737 738 1
+743 779 1
+742 741 1
+763 874 1
+760 1685 1
+1331 761 1
+767 773 1
+764 1434 1
+755 754 1
+753 752 1
+1206 752 1
+758 1416 1
+1567 759 1
+756 1383 1
+757 1333 1
+713 2178 1
+716 717 1
+719 1987 1
+2225 718 1
+1241 705 1
+1244 705 1
+1710 707 1
+1479 706 1
+708 709 1
+710 976 1
+710 711 1
+729 2208 1
+730 731 1
+732 733 1
+735 736 1
+1483 720 1
+1479 721 1
+1209 721 1
+723 722 1
+1351 722 1
+725 724 1
+1869 724 1
+1195 724 1
+1082 726 1
+821 1333 1
+1344 820 1
+1332 823 1
+822 1062 1
+822 1684 1
+816 817 1
+818 2213 1
+818 819 1
+818 1441 1
+1377 829 1
+1852 828 1
+831 830 1
+1321 830 1
+824 825 1
+1332 827 1
+1566 826 1
+807 806 1
+868 802 1
+804 803 1
+805 803 1
+813 812 1
+814 815 1
+808 2917 1
+810 809 1
+978 811 1
+791 793 1
+791 792 1
+788 1687 1
+788 790 1
+788 789 1
+787 918 1
+785 786 1
+800 799 1
+801 799 1
+798 797 1
+796 795 1
+2916 775 1
+771 772 1
+768 1892 1
+769 770 1
+1957 782 1
+783 784 1
+781 780 1
+777 778 1
+881 996 1
+880 977 1
+880 917 1
+884 883 1
+1681 882 1
+927 885 1
+887 886 1
+889 890 1
+970 888 1
+891 892 1
+970 893 1
+894 895 1
+864 865 1
+866 2699 1
+866 867 1
+869 870 1
+871 872 1
+871 873 1
+2688 875 1
+1023 876 1
+877 878 1
+877 879 1
+851 1033 1
+851 2311 1
+850 849 1
+854 855 1
+853 852 1
+861 859 1
+860 859 1
+857 856 1
+862 863 1
+1178 835 1
+833 834 1
+838 839 1
+837 836 1
+1675 836 1
+842 852 1
+843 844 1
+840 841 1
+846 848 1
+846 847 1
+1727 845 1
+2232 957 1
+958 960 1
+958 959 1
+958 961 1
+955 956 1
+950 949 1
+951 953 1
+951 952 1
+951 954 1
+945 979 1
+1047 946 1
+2429 947 1
+942 944 1
+942 943 1
+938 937 1
+939 940 1
+939 941 1
+932 933 1
+1000 935 1
+931 929 1
+934 928 1
+925 926 1
+924 923 1
+922 921 1
+920 919 1
+915 1703 1
+915 916 1
+913 974 1
+911 912 1
+911 1255 1
+909 910 1
+907 908 1
+1570 906 1
+905 904 1
+902 903 1
+900 901 1
+898 899 1
+896 897 1
+1017 1018 1
+1019 1020 1
+1021 1022 1
+1008 1009 1
+1011 1010 1
+1014 1012 1
+1013 1012 1
+1016 1015 1
+1000 1001 1
+1002 1005 1
+1002 1006 1
+1002 1004 1
+1002 1003 1
+1002 1213 1
+2240 1007 1
+993 992 1
+995 994 1
+997 998 1
+997 999 1
+987 986 1
+985 984 1
+991 990 1
+989 988 1
+1360 977 1
+983 982 1
+981 980 1
+970 971 1
+970 1798 1
+969 968 1
+975 974 1
+972 973 1
+963 965 1
+963 964 1
+972 962 1
+967 966 1
+1101 1102 1
+1103 1104 1
+1098 1097 1
+1098 1413 1
+1099 1100 1
+1093 1092 1
+2415 1094 1
+1096 1095 1
+1088 1089 1
+1088 1090 1
+2918 1091 1
+1117 1118 1
+2919 1116 1
+2601 1119 1
+1113 1114 1
+1129 1112 1
+1109 1108 1
+2190 1111 1
+1457 1110 1
+1105 1126 1
+1106 1107 1
+1134 1135 1
+2331 1133 1
+1146 1130 1
+1131 1132 1
+1128 1127 1
+1124 1125 1
+1123 1122 1
+1120 1121 1
+1152 1151 1
+1150 1149 1
+1148 1147 1
+1145 1188 1
+1143 1144 1
+1141 1142 1
+1139 1140 1
+1138 1137 1
+1182 1136 1
+1034 1035 1
+1037 1036 1
+1681 1038 1
+1039 1038 1
+1024 1025 1
+1024 1097 1
+1027 1026 1
+1029 2768 1
+1030 1204 1
+1031 1032 1
+1031 1388 1
+1048 1049 1
+1051 1050 1
+1052 1053 1
+1052 1076 1
+1054 1055 1
+1040 1041 1
+1042 2290 1
+1042 1043 1
+1042 1044 1
+1045 1046 1
+1068 1067 1
+1071 1070 1
+1688 1069 1
+1059 1061 1
+1059 1060 1
+1345 1056 1
+1058 1057 1
+1064 1063 1
+1065 1063 1
+1066 1063 1
+1084 1083 1
+1081 1080 1
+1087 1513 1
+1087 2037 1
+1085 1086 1
+1075 2411 1
+1074 2348 1
+1072 1073 1
+1079 1078 1
+1077 2411 1
+1220 1221 1
+1222 1223 1
+1217 1218 1
+1217 1711 1
+1217 1219 1
+1229 1709 1
+1382 1228 1
+1230 2362 1
+1225 1226 1
+1224 1356 1
+1224 2208 1
+1236 1237 1
+1238 1239 1
+1238 2824 1
+1238 1632 1
+1238 2211 1
+2571 1232 1
+1233 1234 1
+1280 1245 1
+1246 1245 1
+1249 1247 1
+1248 1247 1
+1944 1240 1
+1241 1242 1
+1254 1253 1
+1251 1252 1
+1250 1658 1
+1264 1263 1
+1262 1261 1
+1260 1259 1
+2032 1258 1
+2045 1257 1
+2393 1256 1
+1270 1271 1
+1268 2921 1
+2660 1269 1
+2704 1265 1
+1278 1279 1
+1275 1277 1
+1275 1276 1
+1272 1274 1
+1272 1273 1
+1153 1154 1
+1157 1158 1
+2920 1156 1
+1159 2179 1
+1161 1736 1
+2421 1160 1
+1162 1801 1
+1165 1166 1
+1784 1164 1
+1167 1168 1
+1674 1169 1
+1171 1172 1
+1173 1187 1
+1174 2625 1
+1175 1176 1
+1177 2093 1
+1178 1179 1
+1178 1612 1
+1178 1180 1
+2399 1181 1
+1565 1181 1
+1183 1184 1
+1186 1581 1
+1185 1836 1
+1189 1191 1
+1189 1190 1
+1195 1432 1
+1195 1196 1
+1193 1194 1
+1193 2713 1
+1200 1199 1
+2038 1198 1
+2469 1197 1
+1203 1202 1
+1201 1320 1
+1206 1207 1
+1589 1204 1
+1714 1205 1
+2073 1205 1
+1208 1819 1
+1209 1211 1
+1209 1210 1
+1214 2316 1
+1216 1215 1
+1463 1212 1
+1375 1376 1
+1374 1373 1
+1372 1423 1
+2556 1371 1
+1368 1369 1
+1367 1656 1
+1511 1366 1
+2412 1365 1
+1461 1364 1
+1777 1364 1
+1362 1361 1
+1357 1358 1
+1357 1359 1
+1729 1355 1
+1353 1352 1
+1351 2699 1
+2682 1349 1
+1347 1346 1
+1400 1401 1
+1402 1404 1
+1402 1405 1
+1402 1403 1
+1402 1798 1
+1402 1407 1
+1402 2035 1
+1402 1406 1
+1396 1397 1
+1398 1399 1
+2601 1393 1
+1392 1731 1
+1395 1394 1
+1768 1388 1
+1390 1389 1
+1391 1716 1
+1384 2696 1
+1384 2063 1
+1420 1386 1
+2012 1387 1
+1381 1858 1
+1377 1378 1
+1380 1379 1
+2199 1379 1
+2377 1379 1
+1306 1305 1
+1312 1311 1
+1689 1311 1
+2462 1310 1
+1309 1379 1
+1309 2386 1
+1308 2923 1
+1297 1299 1
+1297 1300 1
+1297 1298 1
+1303 1304 1
+1301 1302 1
+1292 1290 1
+1293 1290 1
+1291 1290 1
+1295 1294 1
+1281 1282 1
+1281 1284 1
+1281 1283 1
+1285 1286 1
+1285 1287 1
+1285 1289 1
+1285 1288 1
+1336 1337 1
+1336 1338 1
+1339 1340 1
+1341 2698 1
+1343 1363 1
+1385 1342 1
+1330 1329 1
+1332 1348 1
+1335 1334 1
+1322 1323 1
+1322 1324 1
+1325 2590 1
+1326 2358 1
+1326 1327 1
+1326 1328 1
+1314 1986 1
+1316 1315 1
+2441 1315 1
+1823 1315 1
+1318 1317 1
+1495 1496 1
+1492 1493 1
+1492 1494 1
+1491 1501 1
+1491 1502 1
+1489 1490 1
+1504 1503 1
+1500 1499 1
+1498 1497 1
+1479 1480 1
+1478 1477 1
+1475 1476 1
+1474 1473 1
+1487 1488 1
+1506 1485 1
+1486 1485 1
+1484 2667 1
+1481 1482 1
+1524 1525 1
+1526 1527 1
+1521 1522 1
+1523 2122 1
+1533 1534 1
+1536 1535 1
+1528 2134 1
+1529 1530 1
+1531 1532 1
+1510 1509 1
+1505 2248 1
+1508 1507 1
+1518 1517 1
+1792 1516 1
+1634 1516 1
+1520 1519 1
+1512 1608 1
+1512 2386 1
+1514 1515 1
+1514 1603 1
+1847 1426 1
+1424 1425 1
+1430 1431 1
+1912 1428 1
+1435 2714 1
+2173 1432 1
+2277 1438 1
+1439 1438 1
+1440 1438 1
+1436 1437 1
+1412 1411 1
+2015 1410 1
+1408 1409 1
+1414 1415 1
+1414 1618 1
+1419 1418 1
+2239 1417 1
+1422 1421 1
+1456 1800 1
+2914 1458 1
+2256 1458 1
+1506 1459 1
+1635 1460 1
+1461 1462 1
+1463 2064 1
+1464 1465 1
+1466 1467 1
+1468 1469 1
+1468 1470 1
+1471 1472 1
+1442 1441 1
+1444 1443 1
+1567 1443 1
+2256 1445 1
+1447 1446 1
+1448 1449 1
+1667 1451 1
+2513 1450 1
+1851 1450 1
+1452 1453 1
+1455 2921 1
+2174 1454 1
+1643 2397 1
+1640 1641 1
+1647 1646 1
+1644 1645 1
+1642 1633 1
+1638 1639 1
+1636 1637 1
+1659 1660 1
+1659 1661 1
+1791 1663 1
+2354 1663 1
+1651 1650 1
+1649 1648 1
+1654 1655 1
+2924 1653 1
+1611 1608 1
+1610 1608 1
+1609 1608 1
+1613 1612 1
+1614 1612 1
+1615 1616 1
+1615 1617 1
+1600 1602 1
+1600 1601 1
+1605 1604 1
+1606 1607 1
+1625 1626 1
+1701 1627 1
+1629 2427 1
+1628 2547 1
+2922 1631 1
+2370 1630 1
+1619 1618 1
+1620 1622 1
+1620 1621 1
+1623 1624 1
+1582 1583 1
+1582 1584 1
+1577 1579 1
+1577 1578 1
+1575 1576 1
+1573 1574 1
+1571 1572 1
+1638 1568 1
+1569 1923 1
+2517 1598 1
+1599 1598 1
+1596 1597 1
+1594 1595 1
+1591 1592 1
+1589 1590 1
+1588 1587 1
+1586 1585 1
+1550 1549 1
+1551 1552 1
+1546 1545 1
+1548 1547 1
+1541 1542 1
+1543 1544 1
+1538 1537 1
+1540 1539 1
+1567 1709 1
+1566 2022 1
+1561 1562 1
+1564 1563 1
+1557 1558 1
+1559 1696 1
+1553 1554 1
+1556 1555 1
+1763 1762 1
+2664 1767 1
+1985 1767 1
+1765 1766 1
+1764 1915 1
+1768 1769 1
+1768 2044 1
+1768 1770 1
+1775 1776 1
+1774 1773 1
+1778 1779 1
+1782 1783 1
+1780 1781 1
+1788 1787 1
+1784 1786 1
+1784 1785 1
+1789 1790 1
+2442 1728 1
+2011 1731 1
+2072 1730 1
+1732 1733 1
+1734 1735 1
+2032 1737 1
+1738 1739 1
+1742 1743 1
+1745 1746 1
+1747 1748 1
+1749 2595 1
+1749 1750 1
+1752 1751 1
+1753 1754 1
+1755 1756 1
+1757 1758 1
+1760 1759 1
+2925 1703 1
+1702 1812 1
+1698 1700 1
+1698 1699 1
+2344 1697 1
+1867 1711 1
+1707 1708 1
+1707 2573 1
+1705 1706 1
+1704 1813 1
+1719 1720 1
+1714 1717 1
+1714 1718 1
+1714 2316 1
+1714 1715 1
+1713 1712 1
+1726 2282 1
+1725 2286 1
+1725 2281 1
+1724 1723 1
+1722 1721 1
+1669 1761 1
+1821 1668 1
+1669 1668 1
+1670 1671 1
+1664 1665 1
+1792 1666 1
+2556 1677 1
+1772 1676 1
+2594 1676 1
+1679 1680 1
+1678 2262 1
+1678 2259 1
+1672 1673 1
+1675 2347 1
+2668 1684 1
+1682 1683 1
+2663 1692 1
+2663 1693 1
+1782 1693 1
+1694 1695 1
+1690 2375 1
+1933 1691 1
+1913 2386 1
+1917 1916 1
+2681 1919 1
+2196 1918 1
+1906 1907 1
+1909 1908 1
+1910 1911 1
+1897 1896 1
+1898 2021 1
+1900 1899 1
+1902 1901 1
+1903 1905 1
+1903 1904 1
+1888 1889 1
+1891 1890 1
+1893 1892 1
+1894 1895 1
+1883 1884 1
+1882 1964 1
+1881 1880 1
+2086 1887 1
+1875 1874 1
+1872 1873 1
+1879 1878 1
+1877 1876 1
+1866 1865 1
+1869 1870 1
+1869 1871 1
+2566 1859 1
+1862 2036 1
+1863 1864 1
+1860 2036 1
+2664 1861 1
+1853 1854 1
+1852 1951 1
+1855 1856 1
+1855 1857 1
+1844 1845 1
+1847 1849 1
+1847 1850 1
+1847 1848 1
+1956 1846 1
+1926 1846 1
+1841 1842 1
+1838 1836 1
+1837 1836 1
+1840 1839 1
+1833 1834 1
+1833 1835 1
+1828 2094 1
+1828 1829 1
+1832 1830 1
+1831 1830 1
+2628 1826 1
+2214 1827 1
+2009 1827 1
+1823 1843 1
+1823 1824 1
+1823 1825 1
+1821 1822 1
+1816 1836 1
+1816 1818 1
+1816 1817 1
+2253 1812 1
+1809 2025 1
+1809 1811 1
+1809 1810 1
+1809 2023 1
+1808 2741 1
+1807 1806 1
+1804 1805 1
+1802 1803 1
+1828 1798 1
+2628 1799 1
+1797 1796 1
+1794 1815 1
+2438 1795 1
+1793 1914 1
+2032 2033 1
+2039 2040 1
+2041 2042 1
+2229 2044 1
+2046 2047 1
+2016 2017 1
+2224 2024 1
+2484 2026 1
+2028 2029 1
+2030 2031 1
+2003 2002 1
+2088 2001 1
+2007 2008 1
+2004 2094 1
+2006 2005 1
+2010 2019 1
+2014 2398 1
+2012 2710 1
+2018 2013 1
+2926 2013 1
+1990 1991 1
+1989 1988 1
+1995 1996 1
+1992 1993 1
+1999 2000 1
+1997 1998 1
+1974 1973 1
+1970 1969 1
+1972 1971 1
+1980 1981 1
+1980 1982 1
+1984 1983 1
+1976 1977 1
+1978 1979 1
+1958 1959 1
+1953 1952 1
+1955 1954 1
+2691 1965 1
+2034 1964 1
+1966 1968 1
+1966 2480 1
+1966 1967 1
+1960 1961 1
+1962 1963 1
+1943 1942 1
+1941 1940 1
+1938 1939 1
+1936 1937 1
+1950 1949 1
+1948 1947 1
+1945 1946 1
+1927 1928 1
+2508 1925 1
+1924 1923 1
+2555 1922 1
+2680 1922 1
+2486 1921 1
+2538 1920 1
+1934 1935 1
+1931 1932 1
+1929 1930 1
+2200 2212 1
+2539 2201 1
+2202 2203 1
+2202 2204 1
+2205 2206 1
+2207 2358 1
+2207 2658 1
+2192 2193 1
+2194 2195 1
+2197 2198 1
+2185 2533 1
+2186 2187 1
+2189 2188 1
+2346 2177 1
+2365 2176 1
+2181 2180 1
+2183 2182 1
+2235 2234 1
+2232 2233 1
+2239 2335 1
+2425 2236 1
+2237 2236 1
+2238 2236 1
+2550 2236 1
+2226 2227 1
+2226 2228 1
+2230 2403 1
+2230 2236 1
+2218 2219 1
+2216 2217 1
+2223 2222 1
+2220 2221 1
+2210 2209 1
+2214 2215 1
+2430 2213 1
+2268 2269 1
+2437 2270 1
+2437 2271 1
+2266 2267 1
+2261 2260 1
+2264 2263 1
+2404 2258 1
+2377 2259 1
+2254 2255 1
+2346 2249 1
+2250 2251 1
+2244 2245 1
+2247 2246 1
+2240 2241 1
+2243 2242 1
+2304 2303 1
+2302 2300 1
+2301 2300 1
+2299 2298 1
+2297 2295 1
+2296 2295 1
+2291 2292 1
+2289 2288 1
+2293 2287 1
+2284 2285 1
+2294 2283 1
+2279 2280 1
+2277 2278 1
+2275 2276 1
+2272 2274 1
+2272 2273 1
+2065 2064 1
+2978 2067 1
+2068 2069 1
+2070 2071 1
+2073 2642 1
+2075 2074 1
+2077 2076 1
+2078 2079 1
+2048 2049 1
+2050 2052 1
+2050 2051 1
+2050 2053 1
+2054 2055 1
+2058 2057 1
+2059 2060 1
+2061 2062 1
+2099 2098 1
+2097 2096 1
+2102 2103 1
+2101 2100 1
+2106 2107 1
+2104 2105 1
+2110 2111 1
+2108 2109 1
+2083 2082 1
+2081 2080 1
+2086 2087 1
+2085 2084 1
+2092 2091 1
+2089 2090 1
+2095 2094 1
+2132 2133 1
+2136 2135 1
+2128 2129 1
+2130 2131 1
+2142 2141 1
+2144 2143 1
+2138 2137 1
+2140 2139 1
+2117 2116 1
+2119 2118 1
+2470 2112 1
+2113 2114 1
+2113 2115 1
+2126 2127 1
+2120 2121 1
+2123 2125 1
+2123 2124 1
+2166 2167 1
+2356 2175 1
+2172 2191 1
+2170 2171 1
+2168 2169 1
+2152 2151 1
+2149 2150 1
+2147 2148 1
+2145 2146 1
+2157 2164 1
+2157 2163 1
+2157 2165 1
+2157 2158 1
+2157 2160 1
+2157 2162 1
+2157 2161 1
+2157 2159 1
+2155 2156 1
+2153 2154 1
+2576 2443 1
+2825 2447 1
+2445 2446 1
+2433 2435 1
+2433 2434 1
+2438 2440 1
+2438 2439 1
+2458 2638 1
+2460 2459 1
+2456 2505 1
+2579 2457 1
+2648 2457 1
+2464 2463 1
+2461 2643 1
+2450 2451 1
+2448 2605 1
+2449 2574 1
+2455 2454 1
+2570 2452 1
+2474 2473 1
+2668 2472 1
+2476 2475 1
+2565 2477 1
+2479 2477 1
+2478 2477 1
+2466 2465 1
+2468 2467 1
+2470 2471 1
+2491 2488 1
+2490 2488 1
+2489 2488 1
+2492 2493 1
+2495 2494 1
+2497 2494 1
+2496 2494 1
+2559 2481 1
+2512 2483 1
+2519 2485 1
+2538 2485 1
+2487 2578 1
+2509 2511 1
+2509 2510 1
+2598 2507 1
+2506 2505 1
+2615 2504 1
+2577 2504 1
+2502 2503 1
+2500 2501 1
+2498 2499 1
+2527 2526 1
+2520 2575 1
+2521 2525 1
+2521 2522 1
+2521 2523 1
+2521 2524 1
+2518 2552 1
+2515 2516 1
+2541 2542 1
+2543 2544 1
+2536 2537 1
+2535 2534 1
+2529 2528 1
+2530 2528 1
+2532 2531 1
+2557 2558 1
+2554 2553 1
+2548 2549 1
+2550 2551 1
+2546 2545 1
+2308 2307 1
+2306 2305 1
+2312 2311 1
+2313 2311 1
+2309 2310 1
+2315 2314 1
+2319 2320 1
+2318 2317 1
+2394 2323 1
+2324 2323 1
+2322 2321 1
+2326 2327 1
+2326 2325 1
+2329 2330 1
+2328 2482 1
+2515 2335 1
+2334 2333 1
+2332 2453 1
+2337 2336 1
+2410 2338 1
+2514 2339 1
+2341 2340 1
+2343 2342 1
+2436 2349 1
+2350 2351 1
+2352 2353 1
+2354 2355 1
+2357 2379 1
+2357 2426 1
+2359 2596 1
+2359 2360 1
+2359 2361 1
+2364 2363 1
+2366 2367 1
+2376 2375 1
+2374 2373 1
+2372 2371 1
+2368 2369 1
+2383 2382 1
+2381 2380 1
+2422 2378 1
+2390 2391 1
+2390 2392 1
+2389 2388 1
+2486 2385 1
+2399 2400 1
+2394 2395 1
+2394 2396 1
+2405 2406 1
+2416 2407 1
+2401 2402 1
+2413 2414 1
+2409 2408 1
+2422 2424 1
+2422 2423 1
+2420 2418 1
+2419 2418 1
+2428 2540 1
+2431 2432 1
+2814 2750 1
+2823 2751 1
+2749 2748 1
+2744 2830 1
+2745 2746 1
+2742 2743 1
+2740 2739 1
+2738 2737 1
+2734 2736 1
+2734 2735 1
+2732 2733 1
+2731 2756 1
+2802 2730 1
+2728 2729 1
+2727 2818 1
+2725 2726 1
+2747 2724 1
+2721 2722 1
+2716 2717 1
+2718 2769 1
+2719 2770 1
+2708 2709 1
+2712 2711 1
+2706 2707 1
+2703 2702 1
+2697 2696 1
+2700 2699 1
+2692 2693 1
+2692 2694 1
+2811 2812 1
+2810 2809 1
+2815 2816 1
+2803 2804 1
+2817 2800 1
+2801 2822 1
+2808 2807 1
+2805 2806 1
+2795 2794 1
+2792 2793 1
+2798 2799 1
+2796 2797 1
+2787 2786 1
+2785 2784 1
+2790 2791 1
+2789 2788 1
+2776 2777 1
+2778 2779 1
+2781 2780 1
+2782 2783 1
+2803 2769 1
+2813 2771 1
+2772 2773 1
+2774 2775 1
+2763 2762 1
+2764 2765 1
+2767 2766 1
+2752 2753 1
+2754 2755 1
+2758 2757 1
+2759 2760 1
+2759 2761 1
+2615 2616 1
+2618 2614 1
+2611 2613 1
+2611 2612 1
+2609 2610 1
+2608 2624 1
+2621 2623 1
+2621 2622 1
+2620 2619 1
+2819 2617 1
+2599 2600 1
+2927 2597 1
+2593 2592 1
+2606 2607 1
+2603 2604 1
+2601 2602 1
+2580 2581 1
+2583 2582 1
+2577 2912 1
+2588 2589 1
+2585 2584 1
+2568 2567 1
+2560 2561 1
+2563 2562 1
+2563 2591 1
+2634 2572 1
+2634 2569 1
+2674 2675 1
+2678 2679 1
+2676 2677 1
+2683 2684 1
+2686 2687 1
+2657 2723 1
+2661 2662 1
+2666 2665 1
+2671 2673 1
+2671 2672 1
+2670 2669 1
+2641 2640 1
+2645 2928 1
+2646 2647 1
+2649 2650 1
+2652 2651 1
+2819 2653 1
+2654 2653 1
+2655 2656 1
+2626 2625 1
+2627 2633 1
+2628 2629 1
+2630 2631 1
+2632 2635 1
+2637 2636 1
+2819 2639 1
+2720 2639 1
+2989 2990 1
+2991 2992 1
+2985 2986 1
+2987 2988 1
+2981 2982 1
+2983 2984 1
+2976 2977 1
+2979 2980 1
+3005 3006 1
+3007 3008 1
+3001 3002 1
+3003 3004 1
+2997 2998 1
+2999 3000 1
+2993 2994 1
+2995 2996 1
+2958 2959 1
+2956 2957 1
+2954 2955 1
+2952 2953 1
+2950 2951 1
+2948 2949 1
+2946 2947 1
+2944 2945 1
+2974 2975 1
+2972 2973 1
+2970 2971 1
+2968 2969 1
+2966 2967 1
+2964 2965 1
+2962 2963 1
+2960 2961 1
+3011 3012 1
+3009 3010 1
+3013 3014 1
+2852 2853 1
+2854 2855 1
+2848 2849 1
+2850 2851 1
+2862 2861 1
+2864 2863 1
+2856 2857 1
+2860 2859 1
+2869 2896 1
+2870 2871 1
+2866 2865 1
+2867 2868 1
+2876 2877 1
+2879 2880 1
+2872 2873 1
+2874 2875 1
+2820 2821 1
+2831 2832 1
+2829 2828 1
+2826 2827 1
+2839 2840 1
+2837 2838 1
+2835 2836 1
+2833 2834 1
+2847 2846 1
+2858 2845 1
+2843 2844 1
+2842 2894 1
+2841 2878 1
+2929 2840 1
+2924 2943 1
+2930 2931 1
+2932 2933 1
+2934 2935 1
+2936 2937 1
+2936 2940 1
+2938 2939 1
+2941 2942 1
+2884 2883 1
+2882 2881 1
+2893 2887 1
+2886 2885 1
+2890 2889 1
+2895 2894 1
+2892 2904 1
+2907 2899 1
+2898 2897 1
+2902 2903 1
+2901 2900 1
+2905 2906 1
+2911 2912 1

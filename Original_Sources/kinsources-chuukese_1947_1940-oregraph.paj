@@ -1,0 +1,6213 @@
+*Network Ore graph Chuuk.puc
+
+*vertices 2049
+1 'Sister [Paata (1)' ellipse
+2 'Saaye (2)' ellipse
+3 'Naaye (3)' ellipse
+4 'Niyaamen (4)' ellipse
+5 'Nikon (5)' ellipse
+6 'Choopwa (6)' triangle
+7 'Menuka (7)' triangle
+8 'Nechchiken (8)' ellipse
+9 'Neeyaw (9)' ellipse
+10 'Sister [Paata] (10)' ellipse
+11 'Ngunun (11)' triangle
+12 'Maaye (12)' ellipse
+13 'Niyenimwmwung (13)' ellipse
+14 'Akkino (14)' triangle
+15 'Fichiye (15)' triangle
+16 'Sister (16)' ellipse
+17 'Nikichchiw (17)' triangle
+18 'Napwun (18)' ellipse
+19 'Nepwaay (19)' ellipse
+20 'Wusoopw (20)' triangle
+21 'Newuta (21)' triangle
+22 'Netip (22)' ellipse
+23 'Soopi (23)' triangle
+24 'Ineperey (24)' ellipse
+25 'Ewurey (25)' triangle
+26 'Teyim (26)' triangle
+27 'Emo (27)' triangle
+28 'Inachaw (28)' ellipse
+29 'Notor (29)' ellipse
+30 'Paanuk (30)' triangle
+31 'Inamataw (31)' ellipse
+32 'Nikopw (32)' triangle
+33 'Noso (33)' ellipse
+34 'Neyichimw (34)' ellipse
+35 'Neyor (35)' ellipse
+36 'Echeesor (36)' triangle
+37 'Winikiyo (37)' triangle
+38 'Apwaate (38)' triangle
+39 'Tepey (39)' triangle
+40 'Setiin (40)' triangle
+41 'Isu (41)' triangle
+42 'Soromw (42)' triangle
+43 'Nepwuk (43)' ellipse
+44 'Nepi (44)' ellipse
+45 'Ongomwar (45)' triangle
+46 'Etiyape (46)' triangle
+47 'Weyinen (47)' triangle
+48 'Neyinem (48)' ellipse
+49 'Cheengin (49)' triangle
+50 'Neyina (50)' ellipse
+51 'Fuchiken (51)' ellipse
+52 'Raawe (52)' triangle
+53 'Choong (53)' triangle
+54 'Eyiwur (54)' triangle
+55 'Raapu (55)' triangle
+56 'Neyichan (56)' ellipse
+57 'Newung (57)' ellipse
+58 'Rossupw (58)' triangle
+59 'Peeterus (59)' triangle
+60 'Newe (60)' ellipse
+61 'Emmis (61)' triangle
+62 'Wupwene (62)' triangle
+63 'Norup (63)' ellipse
+64 'Nenimwar (64)' triangle
+65 'Inefin (65)' ellipse
+66 'Weyita (66)' triangle
+67 'Wereyong (67)' triangle
+68 'Eyiwon (68)' triangle
+69 'Moropi (69)' ellipse
+70 'Tonoya (70)' ellipse
+71 'Nachan (71)' ellipse
+72 'Tafan (72)' ellipse
+73 'Ineppich (73)' ellipse
+74 'Neyeyita (74)' ellipse
+75 'Nopoonon (75)' ellipse
+76 'Nichchok (76)' triangle
+77 'Paasengeni (77)' triangle
+78 'Inaasor (78)' ellipse
+79 'Nopwuch (79)' ellipse
+80 'Neyimo (80)' ellipse
+81 'Eyittiw (81)' triangle
+82 'Neeset (82)' triangle
+83 'Nepwis (83)' ellipse
+84 'Neteri (84)' ellipse
+85 'Wiisey (85)' ellipse
+86 'Itipen (86)' triangle
+87 'Ayiten (87)' triangle
+88 'Inewuk (88)' ellipse
+89 'Nowupach (89)' ellipse
+90 'Simiron (90)' triangle
+91 'Iyoopa (91)' ellipse
+92 'Chayipwpwey (92)' ellipse
+93 'Nemewur (93)' ellipse
+94 'Aapwey (94)' triangle
+95 'Neseng (95)' ellipse
+96 'Nepisiyong (96)' ellipse
+97 'Wuwaafich (97)' triangle
+98 'Iyoosef (98)' triangle
+99 'Naawer (99)' ellipse
+100 'Nefis (100)' ellipse
+101 'Tiwoniyas (101)' triangle
+102 'Refadc1950? (102)' triangle
+103 'Inekinatip (103)' ellipse
+104 'Riita (104)' ellipse
+105 'Woopet (105)' triangle
+106 'Refayin (106)' triangle
+107 'Wunuse (107)' triangle
+108 'Aakeena (108)' ellipse
+109 'Arenayin (109)' ellipse
+110 'Manaani (110)' ellipse
+111 'Sima (111)' ellipse
+112 'Nopos (112)' ellipse
+113 'Anuwis (113)' triangle
+114 'Naanu (114)' ellipse
+115 'Eyipwon (115)' triangle
+116 'Kekin (116)' triangle
+117 'Komonu (117)' triangle
+118 'Isikar (118)' triangle
+119 'Inowuwotip (119)' ellipse
+120 'Inemetek (120)' ellipse
+121 'Teni (121)' ellipse
+122 'Rekin (122)' triangle
+123 'Taamisin (123)' triangle
+124 'Neyisiyopw (124)' ellipse
+125 'Sayipe (125)' triangle
+126 'Wuuri (126)' triangle
+127 'Naapi (127)' ellipse
+128 'Nesaw (128)' ellipse
+129 'Sitaye (129)' ellipse
+130 'Namako (130)' ellipse
+131 'Werner (131)' triangle
+132 'Kawayichi (132)' triangle
+133 'Kasiya (133)' ellipse
+134 'Tatayichi (134)' triangle
+135 'Tarayimen (135)' ellipse
+136 'Tinape (136)' triangle
+137 'Fuchiko md (137)' ellipse
+138 'Aruko (138)' ellipse
+139 'Akiwo (139)' triangle
+140 'Rayin (140)' triangle
+141 'Wotokichi (141)' triangle
+142 'Nati (142)' ellipse
+143 'Aruko (143)' ellipse
+144 'Pereesen (144)' ellipse
+145 'Sumiyer (145)' triangle
+146 'Ichiwo (146)' triangle
+147 'Mayine (147)' triangle
+148 'Esefar (148)' triangle
+149 'Wuriyen (149)' triangle
+150 'Michiwo (150)' triangle
+151 'Pwonen (151)' triangle
+152 'Meniita A (152)' ellipse
+153 'Susuko (153)' ellipse
+154 'Miiter (154)' ellipse
+155 'Brother       a (155)' triangle
+156 'Annani (156)' ellipse
+157 'Ester (157)' ellipse
+158 'Anako (158)' ellipse
+159 'Roopet (159)' triangle
+160 'Ewustooniya (160)' ellipse
+161 'Sinifester (161)' ellipse
+162 'Seniina (162)' ellipse
+163 'Teresiita (163)' ellipse
+164 'Iwawo (164)' triangle
+165 'Singewo (165)' triangle
+166 'Brother (166)' triangle
+167 'Inaasiyo (167)' triangle
+168 'Kapiyer (168)' triangle
+169 'Rooman (169)' triangle
+170 'Pwowuniino (170)' triangle
+171 'Tarsiina (171)' ellipse
+172 'Terniina (172)' ellipse
+173 'Tensiyo (173)' triangle
+174 'Teermuut (174)' triangle
+175 'Teresiyo (175)' triangle
+176 'Neo (176)' ellipse
+177 'Martiina (177)' ellipse
+178 'Kaneesiya (178)' ellipse
+179 'Karoti (179)' ellipse
+180 'Iwustiin (180)' triangle
+181 'Martiinus (181)' triangle
+182 'Martiinus (182)' triangle
+183 'Maninto (183)' triangle
+184 'Thomas (184)' triangle
+185 'Jacob (185)' triangle
+186 'Martiino (186)' triangle
+187 'Antooniya (187)' ellipse
+188 'Antoniina (188)' ellipse
+189 'Anteniina (189)' ellipse
+190 'Akiniina (190)' ellipse
+191 'Antooniyo (191)' triangle
+192 'Antoniino (192)' triangle
+193 'Anteniino (193)' triangle
+194 'Atariino (194)' triangle
+195 'Josmiin (195)' ellipse
+196 'Name (196)' ellipse
+197 'Name (197)' ellipse
+198 'Simona (198)' ellipse
+199 'Simon (199)' triangle
+200 'Siyaana (201)' ellipse
+201 'Neena (202)' ellipse
+202 'Steena (203)' ellipse
+203 'Sariina (204)' ellipse
+204 'Markariita (205)' ellipse
+205 'Nersiina (206)' ellipse
+206 'Nensiina (207)' ellipse
+207 'Frank (208)' triangle
+208 'Katriin (209)' ellipse
+209 'Siroot        a (210)' triangle
+210 'Minoru (211)' ellipse
+211 'Mentiina (212)' ellipse
+212 'Nikko (213)' ellipse
+213 'Merini (214)' ellipse
+214 'Meriyanen (215)' ellipse
+215 'Retsemi (216)' ellipse
+216 'Sepesteyan (217)' triangle
+217 'Kaneep (218)' triangle
+218 'Emanuwen (219)' triangle
+219 'Kristiina (220)' ellipse
+220 'Aninta (221)' ellipse
+221 'Neniita (222)' ellipse
+222 'Hatnat (223)' triangle
+223 'Katoisi (224)' triangle
+224 'Ermiyana (225)' ellipse
+225 'Ersiina (226)' ellipse
+226 'Enisapet (227)' ellipse
+227 'Ersiina (228)' ellipse
+228 'Erwiine (229)' ellipse
+229 'Ertina (230)' ellipse
+230 'Erniina (231)' ellipse
+231 'Titaakus (232)' triangle
+232 'Pantasar (233)' triangle
+233 'Ermino (234)' triangle
+234 'Ermanta (235)' triangle
+235 'Ermiyano (236)' triangle
+236 'Raanu (237)' triangle
+237 'Ertes (238)' triangle
+238 'Deborah (239)' ellipse
+239 'Fransisca (240)' ellipse
+240 'Fransisco (241)' triangle
+241 'Fransisco (242)' triangle
+242 'Chamiisa (243)' ellipse
+243 'Maani (244)' triangle
+244 'Johnson (245)' triangle
+245 'Junior (246)' triangle
+246 'Tracy (247)' ellipse
+247 'Thomas (248)' triangle
+248 'Wakko (249)' triangle
+249 'Riita (250)' ellipse
+250 'Penetik (251)' triangle
+251 'Piyus (252)' triangle
+252 'Eni:Ely (253)' triangle
+253 'Kantiito (254)' triangle
+254 'Karean (255)' ellipse
+255 'Anterina (256)' ellipse
+256 'Kesly:Kason (257)' ellipse
+257 'K-Love (259)' triangle
+258 'Ward Goodenough (260)' triangle
+259 'Seera (261)' ellipse
+260 'Reeko (262)' triangle
+261 'Silkson (263)' triangle
+262 'Angelina (264)' ellipse
+263 'Aminson (265)' triangle
+264 'Arsiyan (266)' triangle
+265 'Akostiina (267)' ellipse
+266 'Samowen (268)' triangle
+267 'Samri:Samson (269)' triangle
+268 'Sanoome (270)' ellipse
+269 'Juliya (271)' ellipse
+270 'Kachiniya (272)' ellipse
+271 'Sayinin (273)' ellipse
+272 'Ukko (274)' triangle
+273 'Raapet (275)' triangle
+274 'Rommiyo (276)' triangle
+275 'Noyiyona (277)' triangle
+276 'Patrik (278)' triangle
+277 'Riikaar (279)' triangle
+278 'Allen (280)' triangle
+279 'Garoleen (281)' ellipse
+280 'Kester (282)' triangle
+281 'Asleen (283)' ellipse
+282 'Skinner (284)' triangle
+283 'NNM (285)' triangle
+284 'NNM (286)' triangle
+285 'NNM (287)' triangle
+286 'NNM (288)' triangle
+287 'NNM (289)' triangle
+288 'NNM (290)' triangle
+289 'Iyoosi (291)' triangle
+290 'Roopi (292)' triangle
+291 'Tiyofin (293)' triangle
+292 'Ninton (294)' triangle
+293 'NNF (295)' ellipse
+294 'Niwiisa (296)' ellipse
+295 'Toomas (297)' triangle
+296 'Sister (300)' ellipse
+297 'Wupweyino (301)' triangle
+298 'Erena (302)' ellipse
+299 'Nariko (304)' ellipse
+300 'Ayiko (305)' ellipse
+301 'Tatasi (306)' triangle
+302 ' (307)' diamond
+303 ' (308)' diamond
+304 ' (309)' diamond
+305 ' (310)' diamond
+306 'Karean (315)' ellipse
+307 'Anterina (316)' ellipse
+308 'Kesly (317)' ellipse
+309 'Keyison (318)' triangle
+310 'K-Love (319)' triangle
+311 'Goodenough (320)' triangle
+312 'Seera (321)' ellipse
+313 'Reeko (322)' triangle
+314 'Silkson (323)' triangle
+315 'Angelina (324)' ellipse
+316 'Aminson (325)' triangle
+317 'Arsiyan (326)' triangle
+318 'Akostiina (327)' ellipse
+319 'Nikoonomor (328)' ellipse
+320 'Nesepich (329)' ellipse
+321 'Katin [] (330)' triangle
+322 'Susana (331)' ellipse
+323 'Kachusa (332)' ellipse
+324 'Kashiye (333)' ellipse
+325 'Sampakita (334)' ellipse
+326 'Kachinta (335)' ellipse
+327 'Juliyana (336)' ellipse
+328 'Iyana (337)' ellipse
+329 'Believe (338)' triangle
+330 'Juliyo (339)' triangle
+331 'Juliyan (340)' triangle
+332 'Kasto (341)' triangle
+333 'James (342)' triangle
+334 'Clement (343)' triangle
+335 'Marusiina (344)' ellipse
+336 'Markariita (345)' ellipse
+337 'Namwatar (346)' ellipse
+338 'Kenriita (347)' ellipse
+339 'Kinaara (348)' ellipse
+340 'Kenriino (349)' triangle
+341 'Kinisow (350)' triangle
+342 'Roongeri (351)' triangle
+343 'Patsipa (352)' ellipse
+344 'Bersy (353)' ellipse
+345 'Marty (354)' ellipse
+346 'Biatris (355)' ellipse
+347 'Petsina (356)' ellipse
+348 'Peroniin (357)' ellipse
+349 'Bery (358)' triangle
+350 'Naasa (359)' ellipse
+351 'Emiin (360)' triangle
+352 'Jacklin (361)' ellipse
+353 'Nesly (362)' ellipse
+354 'Nelson (363)' triangle
+355 'Jem (364)' triangle
+356 'Minor (365)' triangle
+357 'Achiye (366)' ellipse
+358 'Finonen (367)' triangle
+359 'Apitosi (368)' triangle
+360 'Sister (369)' ellipse
+361 'Wuunong (370)' triangle
+362 'Wosey (371)' triangle
+363 'Neyirooki (372)' ellipse
+364 'Fuchiwo (373)' triangle
+365 'Inechay (374)' ellipse
+366 'NNM (375)' triangle
+367 'NNF (376)' ellipse
+368 'Sister (377)' ellipse
+369 'Sister (378)' ellipse
+370 'Inefes (379)' ellipse
+371 'Nemenikosopw (380)' ellipse
+372 'Ooriit (381)' triangle
+373 'Chuunik (382)' triangle
+374 'Sister (383)' ellipse
+375 'Noofeyin (384)' triangle
+376 'Kinin (385)' triangle
+377 'Sechchino (386)' triangle
+378 'Senger (387)' triangle
+379 'Soopw (388)' triangle
+380 'Inong (389)' ellipse
+381 'Chiinut (390)' triangle
+382 'Niyetin (391)' triangle
+383 'Sister (392)' ellipse
+384 'Iitun (393)' triangle
+385 'Ineettiw (394)' ellipse
+386 'Noruwan (395)' ellipse
+387 'Inepwiniti (396)' ellipse
+388 'Koonis (397)' ellipse
+389 'Pasono (398)' triangle
+390 'Meyicheew (399)' triangle
+391 'NNM (400)' triangle
+392 'NNM (401)' triangle
+393 'Niikowun (402)' triangle
+394 'NNM (403)' triangle
+395 'NNM (404)' triangle
+396 'NNM (405)' triangle
+397 'NNM (406)' triangle
+398 'NNM (407)' triangle
+399 'NNM (408)' triangle
+400 'Awiik (409)' ellipse
+401 'Taro (410)' triangle
+402 'Inewe (411)' ellipse
+403 'Samowen (412)' triangle
+404 'Iyoneyichi (413)' triangle
+405 'Etaayong (414)' triangle
+406 'Naasiye (415)' ellipse
+407 'Nuuri (416)' ellipse
+408 'Nayiyari (417)' ellipse
+409 'Kunukunta (418)' ellipse
+410 'Kiichi (419)' triangle
+411 'Kener (420)' triangle
+412 'Kinaafer (421)' triangle
+413 'Kiyowupwa (422)' triangle
+414 'Eniisa (423)' ellipse
+415 'Sister (424)' ellipse
+416 'Winiinis (425)' triangle
+417 'Rapich (426)' triangle
+418 'Siro (427)' triangle
+419 'Emeriita (428)' ellipse
+420 'Saak (429)' triangle
+421 'Santiyano (430)' triangle
+422 'Anastasiya (431)' ellipse
+423 'Finooriyan (432)' triangle
+424 'NNM (433)' triangle
+425 'Taro 2F3 (434)' triangle
+426 'Paato (435)' ellipse
+427 'Sinachko (436)' ellipse
+428 'Tepi (437)' ellipse
+429 'Serni (438)' ellipse
+430 'Netiise (439)' ellipse
+431 'Sinfiya (440)' ellipse
+432 'Meteriya (441)' ellipse
+433 'Poor (442)' triangle
+434 'Fredson (443)' triangle
+435 'Lastly (444)' triangle
+436 'Romiyo (445)' triangle
+437 'Fasleen (446)' triangle
+438 'Sike (447)' triangle
+439 'Teriwo (448)' triangle
+440 'Kantuus (449)' triangle
+441 'Onupw (450)' triangle
+442 'Sister (451)' ellipse
+443 'Sister (452)' ellipse
+444 'Sowupwor (453)' triangle
+445 'Sister (454)' ellipse
+446 'Iituma (455)' triangle
+447 'NNM (456)' triangle
+448 'NNM (457)' triangle
+449 'NNM (458)' triangle
+450 'Teemewur (459)' triangle
+451 'Nikochchop (460)' triangle
+452 'Michiye (461)' ellipse
+453 'Saraat (462)' ellipse
+454 'Pecheeniki (463)' triangle
+455 'Nimwochay[To (464)' ellipse
+456 'Sarefiina (465)' ellipse
+457 'Itiiche (466)' triangle
+458 'Fuchiko (467)' ellipse
+459 'Romaana (468)' ellipse
+460 'Ayiya (469)' ellipse
+461 'Akuyichi (470)' triangle
+462 'Nesewe (471)' triangle
+463 'Akinewo (472)' triangle
+464 'Pwunguwa (473)' triangle
+465 'Wiimo (474)' ellipse
+466 'Nefi  m (475)' ellipse
+467 'Fenetey m (476)' triangle
+468 'Ateew   m (477)' triangle
+469 'Neyiwo m (478)' ellipse
+470 'Nosow  m (479)' ellipse
+471 'Kunun  m (480)' triangle
+472 'Suuken (481)' ellipse
+473 'Chuweti (482)' triangle
+474 'Sepeko (483)' triangle
+475 'Cheenuwe (484)' triangle
+476 'Piiwooch (485)' triangle
+477 'Naayo (486)' triangle
+478 'Neetiin (487)' triangle
+479 'Chuwesap (488)' triangle
+480 'Inaayichem (489)' ellipse
+481 'Meseru (490)' ellipse
+482 'Ineku (491)' ellipse
+483 'Fitipwen (492)' triangle
+484 'Eyimwun (493)' triangle
+485 'Inos (494)' triangle
+486 'Sister (495)' ellipse
+487 'Sister (496)' ellipse
+488 'Nemayinen (497)' ellipse
+489 'Nikiim (498)' ellipse
+490 'Naawos (499)' ellipse
+491 'Wuseye (500)' triangle
+492 'Niyeyiche (501)' ellipse
+493 'Niyeyinen (502)' ellipse
+494 'Sowumey (503)' triangle
+495 'Kokkan (504)' triangle
+496 'Kiniita (505)' triangle
+497 'Notup (506)' ellipse
+498 'Maasiyan (507)' triangle
+499 'Newuwer (508)' ellipse
+500 'Niyeeyi  m (509)' ellipse
+501 'Noto     m (510)' ellipse
+502 'Neruk   m (511)' ellipse
+503 'Keneeno m (512)' triangle
+504 'Wuche   m (513)' triangle
+505 'Neyifich m (514)' ellipse
+506 'Netten  m (515)' ellipse
+507 'Korup   m (516)' ellipse
+508 'Seyinap (517)' triangle
+509 'Neyipwi (518)' ellipse
+510 'Mwechugeni (519)' triangle
+511 'Nemet (520)' ellipse
+512 'Remow (521)' triangle
+513 'Eeppen  m (522)' triangle
+514 'Wures    m (523)' triangle
+515 'Peen    m (524)' triangle
+516 'Suureng nm (525)' ellipse
+517 'Munota   m (526)' triangle
+518 'Nokoya   m (527)' triangle
+519 'Eyiyong  m (528)' triangle
+520 'Fituus    m (529)' triangle
+521 'Rikiyong m (530)' triangle
+522 'Wufa     m (531)' ellipse
+523 'Wochiiniya  m (532)' ellipse
+524 'Weneyong  m (533)' triangle
+525 'Niiyeniwi  m (534)' ellipse
+526 'Newuweyiich m (535)' ellipse
+527 'Riikicho (536)' ellipse
+528 'Riif     m (537)' triangle
+529 'Iwiita   m (538)' triangle
+530 'Wuseng   m (539)' triangle
+531 'Nimoor (540)' ellipse
+532 'Waayit (541)' triangle
+533 'Chiyeney (542)' ellipse
+534 'Newunus (543)' ellipse
+535 'Nataaniya (544)' ellipse
+536 'Kiisina (545)' ellipse
+537 'Kasiyan (546)' triangle
+538 'Karamaanus (547)' triangle
+539 'Iyoosef (548)' triangle
+540 'Eniina (549)' ellipse
+541 'Rekiiniya (550)' ellipse
+542 'Inepas (551)' ellipse
+543 'Woto (552)' triangle
+544 'Aatoonif (553)' triangle
+545 'Peeta (554)' triangle
+546 'Apen (555)' triangle
+547 'Namas (556)' ellipse
+548 'Perna (557)' ellipse
+549 'Epwer (558)' triangle
+550 'Ines (559)' ellipse
+551 'Pwinipwinin (560)' triangle
+552 'Siiwo (561)' triangle
+553 'Rosi (562)' ellipse
+554 'Ichiro (563)' triangle
+555 'Misente (564)' triangle
+556 'Emeter (565)' ellipse
+557 'Akisima (567)' triangle
+558 'NNM (568)' triangle
+559 'NNM (569)' triangle
+560 'NNM (570)' triangle
+561 'Niyuukuuke (571)' triangle
+562 'Kaniisto (572)' triangle
+563 'Minsiyor (573)' triangle
+564 'Fensiita (574)' ellipse
+565 'Vincent (575)' triangle
+566 'Singeru (576)' triangle
+567 'Santiyako (578)' triangle
+568 'Sisiiniya (579)' ellipse
+569 'Iyakopus  md (580)' triangle
+570 'Sachuwo (581)' triangle
+571 'Okanseni (588)' ellipse
+572 'Keret (589)' ellipse
+573 'Jalee (590)' ellipse
+574 'Givenchy (591)' ellipse
+575 'Sichako:Eneena (592)' ellipse
+576 'Siniya (593)' ellipse
+577 'Fred (594)' triangle
+578 'Fitirik (595)' triangle
+579 'Sanriko (596)' triangle
+580 'Soyinas (597)' triangle
+581 'Riikar (598)' triangle
+582 'Wakko  May 28 (599)' triangle
+583 'Esechko (600)' ellipse
+584 'Rosniin (601)' ellipse
+585 'Wisente (602)' triangle
+586 'Wuniyem (603)' triangle
+587 'Mariyano  A (604)' triangle
+588 'Mesemwaan (605)' triangle
+589 'Wotono (606)' triangle
+590 'Mayikon (607)' triangle
+591 'NNM  [Unknown ] (609)' triangle
+592 'Iyaana (610)' ellipse
+593 'Siisen (611)' triangle
+594 'Wotiiniye (612)' ellipse
+595 'Woto (613)' triangle
+596 'NNM  [Weene  ] (614)' triangle
+597 'Meriita, Wuteet (615)' ellipse
+598 'Tedora (616)' ellipse
+599 'Jackson (617)' triangle
+600 'Mariya (618)' ellipse
+601 'Santeriina (619)' ellipse
+602 'Meriyan (620)' ellipse
+603 'Setriiko (621)' triangle
+604 'Retta (622)' triangle
+605 'Karemeeno (623)' triangle
+606 'Festiino (624)' triangle
+607 'Ngenimwun (625)' triangle
+608 'Onomeyisa (626)' triangle
+609 'Cheeyitur (627)' triangle
+610 'Tayitos (628)' triangle
+611 'Rokuro  [Wuteet (629)' triangle
+612 'Tamaye [Toon ] (630)' ellipse
+613 'Tonoores (631)' ellipse
+614 'Teniya (632)' ellipse
+615 'Tenina (633)' ellipse
+616 'Tetora (634)' ellipse
+617 'Torothy (635)' ellipse
+618 'Toriina (636)' ellipse
+619 'Cherry (637)' triangle
+620 'Johnny (638)' triangle
+621 'Oriyon (639)' triangle
+622 'Juniyon (640)' triangle
+623 'Tiyana (641)' ellipse
+624 'Antoniyo (642)' triangle
+625 'Kemariina (643)' ellipse
+626 'KapriyenKasno (644)' triangle
+627 'Kantoofa (645)' triangle
+628 'Tatusi (646)' triangle
+629 'NayisenKache m (647)' triangle
+630 'Neyikun (648)' ellipse
+631 'Ariita (649)' ellipse
+632 'Ansenim (650)' ellipse
+633 'Finorensa (651)' ellipse
+634 'Aneesiya (652)' ellipse
+635 'Markariita (653)' ellipse
+636 'Akiniino (654)' triangle
+637 'Alexander (655)' triangle
+638 'Petirus (656)' triangle
+639 'Sister (657)' ellipse
+640 'Oster (658)' triangle
+641 'NNM  [Unknown ] (659)' triangle
+642 'Sopwono (660)' triangle
+643 'Kiniye (661)' ellipse
+644 'Suusi (662)' ellipse
+645 'Teyifit (663)' triangle
+646 'Petni (664)' ellipse
+647 'Chermina (665)' ellipse
+648 'Byan (666)' ellipse
+649 'Joint (667)' triangle
+650 'Prich (668)' triangle
+651 'Pwopwo (669)' ellipse
+652 'Ayiko (670)' ellipse
+653 'Chenirenk (671)' triangle
+654 'Piirou (672)' triangle
+655 'Natau   chu (673)' triangle
+656 'Susume (674)' triangle
+657 'Iyosiwo (675)' triangle
+658 'Finoriita:Ruut (676)' ellipse
+659 'Katrina (677)' ellipse
+660 'Sipwora (678)' ellipse
+661 'Ansi (679)' triangle
+662 'Tomisiyan (680)' triangle
+663 'Mansi (681)' triangle
+664 'Menisetek (682)' triangle
+665 'Antes (683)' triangle
+666 'Iyosiwo (684)' triangle
+667 'Werfina (685)' ellipse
+668 'Anupiinia (686)' ellipse
+669 'Topiko (687)' ellipse
+670 'Topiye (688)' ellipse
+671 'Tokiye (689)' ellipse
+672 'Topiino (690)' ellipse
+673 'Efniina (691)' ellipse
+674 'Rekiniya (692)' ellipse
+675 'Rona (693)' ellipse
+676 'Rayen:Rael (694)' ellipse
+677 'Riina (695)' ellipse
+678 'Sekap (696)' triangle
+679 'Beniyamin (697)' triangle
+680 'Rudan (698)' triangle
+681 'Royini (699)' triangle
+682 'Nemeniita (700)' ellipse
+683 'NNM (701)' triangle
+684 'Werneer (702)' triangle
+685 'Mongomaye (703)' triangle
+686 'Meriita (704)' ellipse
+687 'Torteya (705)' ellipse
+688 'Roota (706)' ellipse
+689 'Nopwuwo (707)' triangle
+690 'Chingiwo (708)' triangle
+691 'Ariyos (709)' triangle
+692 'Teetwin (710)' triangle
+693 'Kanchino (711)' ellipse
+694 'Masariita (712)' ellipse
+695 'Panser (713)' triangle
+696 'Emti (714)' triangle
+697 'NNM (715)' triangle
+698 'Tracy (716)' ellipse
+699 'Itom:Kastra (717)' triangle
+700 'Wursina (718)' ellipse
+701 'Pernes  [] (719)' triangle
+702 'Woto (720)' triangle
+703 'eSister (721)' ellipse
+704 'Sister (722)' ellipse
+705 'Piis (723)' triangle
+706 'Aawuta (724)' triangle
+707 'Sister (725)' ellipse
+708 'Siimwech (726)' ellipse
+709 'Pwuna (727)' triangle
+710 'NNM (728)' triangle
+711 'NNM Unknown (729)' triangle
+712 'NNM Unknown (730)' triangle
+713 'Kokenter (731)' triangle
+714 'Menutop (732)' triangle
+715 'Siro (733)' triangle
+716 'Sister (734)' ellipse
+717 'Sister (735)' ellipse
+718 'eSister (736)' ellipse
+719 'Nesar (737)' ellipse
+720 'ySister (738)' ellipse
+721 'Misuk (739)' triangle
+722 'Atiwin (740)' triangle
+723 'Echun (741)' triangle
+724 'eSister (742)' ellipse
+725 'ySister (743)' ellipse
+726 'Wowunupwpwun [Wu (744)' triangle
+727 'eSister m (745)' ellipse
+728 'ySister m (746)' ellipse
+729 'Oku (747)' triangle
+730 'Inesan (748)' ellipse
+731 'Inefa (749)' ellipse
+732 'Aameyiw (750)' triangle
+733 'Nesipan (751)' ellipse
+734 'Meyiwen (752)' triangle
+735 'Newupan (753)' ellipse
+736 'Nusumwachey (754)' triangle
+737 'Wutumo (755)' triangle
+738 'Mayitaf (756)' triangle
+739 'eSister  m (757)' ellipse
+740 'eSister  m (758)' ellipse
+741 'ySister  m (759)' ellipse
+742 'Siyayer (760)' triangle
+743 'Cheepwpwun (761)' triangle
+744 'Emwuuch (762)' ellipse
+745 'Wukeyi (763)' ellipse
+746 'Tuumwaw (764)' triangle
+747 'Eseche (765)' triangle
+748 'Inaamen (766)' ellipse
+749 'Fenu (767)' triangle
+750 'Suuchang (768)' triangle
+751 'Fisin (769)' triangle
+752 'Mwaateyinuk (770)' triangle
+753 'Ongomataw (771)' triangle
+754 'Toowuch (772)' ellipse
+755 'Tipiis (773)' ellipse
+756 'Nesechip (774)' ellipse
+757 'Inaanin (775)' ellipse
+758 'Esenguungu (776)' triangle
+759 'Reemo (777)' triangle
+760 'Nepitang (778)' ellipse
+761 'Mwenefew (779)' triangle
+762 'Echang (780)' triangle
+763 'Neyikechiw (781)' ellipse
+764 'Neeyite (782)' ellipse
+765 'Niyap (783)' triangle
+766 'Chewukon (784)' ellipse
+767 'Iyapan (785)' ellipse
+768 'Nemeniinen (786)' ellipse
+769 'Etuup (787)' triangle
+770 'Masis (788)' triangle
+771 'Wuruuk (789)' triangle
+772 'Ineru (790)' ellipse
+773 'Newuut (791)' ellipse
+774 'Nimwotopay (792)' triangle
+775 'Faarker   m (793)' triangle
+776 'Fewukar (794)' ellipse
+777 'Eyimen (795)' triangle
+778 'Suusar (796)' ellipse
+779 'Newures (797)' ellipse
+780 'Neeyirik (798)' ellipse
+781 'Inowuwa (799)' ellipse
+782 'Tiniwe (800)' triangle
+783 'Fiti (801)' ellipse
+784 'Neke (802)' ellipse
+785 'Neyikumw (803)' ellipse
+786 'Kiyene (804)' triangle
+787 'Kenimwo (805)' ellipse
+788 'Neti (806)' ellipse
+789 'Erenong (807)' triangle
+790 'Inemwuriyong (808)' ellipse
+791 'Inoopaw (809)' ellipse
+792 'Wunnuno (810)' triangle
+793 'Sewunuk (811)' triangle
+794 'Nowus (812)' ellipse
+795 'Nitey (813)' triangle
+796 'Atana (814)' triangle
+797 'Fache (815)' triangle
+798 'Saman (816)' triangle
+799 'Inewutiyong (817)' ellipse
+800 'Inewu (818)' ellipse
+801 'Nosumw (819)' ellipse
+802 'Neyisa (820)' ellipse
+803 'Emwaw (821)' triangle
+804 'Noomwen (822)' triangle
+805 'Nemeek (823)' ellipse
+806 'Renge (824)' triangle
+807 'Tonaawen (825)' triangle
+808 'Chenun (826)' triangle
+809 'Inewiita (827)' ellipse
+810 'Newukeniyomw (828)' ellipse
+811 'Niwiis (829)' triangle
+812 'Newukeeyita (830)' ellipse
+813 'Inewin (831)' ellipse
+814 'Inoossuk (832)' ellipse
+815 'Kumo (833)' triangle
+816 'Nowufich   d (834)' ellipse
+817 'Esiita (835)' triangle
+818 'Pwuchiyong (836)' triangle
+819 'Eyisap (837)' triangle
+820 'Neyiyon (838)' ellipse
+821 'Toora (839)' ellipse
+822 'Neyicheng (840)' ellipse
+823 'Raanuk (841)' triangle
+824 'Neyipwin (842)' ellipse
+825 'Iiru (843)' triangle
+826 'Winin (844)' ellipse
+827 'Chuweta (845)' triangle
+828 'Keeyich (846)' triangle
+829 'Menuken (847)' triangle
+830 'Merekin (848)' triangle
+831 'Neyipwur (849)' ellipse
+832 'Neyiwir (850)' ellipse
+833 'Ruutin (851)' triangle
+834 'Maateewus (852)' triangle
+835 'Neeyisu (853)' ellipse
+836 'Newuuwa (854)' ellipse
+837 'Cheeyeyong (855)' triangle
+838 'Tinew (856)' triangle
+839 'Chowun (857)' triangle
+840 'Taapen (858)' triangle
+841 'Neku (859)' ellipse
+842 'Wuusor (860)' triangle
+843 'Wuusach (861)' triangle
+844 'Mwures (862)' triangle
+845 'Inesu (863)' ellipse
+846 'Mwaar (864)' triangle
+847 'Niite (865)' triangle
+848 'Neena (866)' ellipse
+849 'Tereyaas (867)' triangle
+850 'Newuritip (868)' ellipse
+851 'Iyoona (869)' ellipse
+852 'Nuusiyana (870)' ellipse
+853 'Koopayit (871)' triangle
+854 'Chuuw (872)' triangle
+855 'Niimwenge (873)' triangle
+856 'Aakenes (874)' ellipse
+857 'Naako (875)' ellipse
+858 'Enisapeet (876)' ellipse
+859 'Naasu (877)' ellipse
+860 'Tiin (878)' triangle
+861 'Niyoniina (879)' ellipse
+862 'Karasomw (880)' triangle
+863 'Brother (881)' triangle
+864 'Sister (882)' ellipse
+865 'Name (883)' triangle
+866 'Name (884)' triangle
+867 'Name;Pewutaw (886)' triangle
+868 'Neeki (887)' ellipse
+869 'Niina (888)' ellipse
+870 'Sipeer (889)' ellipse
+871 'Kiriis (890)' ellipse
+872 'Makareeta (891)' ellipse
+873 'Antoniyos (892)' triangle
+874 'Rufiina (893)' ellipse
+875 'Rooke (894)' triangle
+876 'Iyosin (895)' triangle
+877 'Masayichi (896)' triangle
+878 'Inatipin (897)' ellipse
+879 'Rosu (898)' triangle
+880 'Neyisi (899)' ellipse
+881 'Piyer (900)' triangle
+882 'Asinoki (901)' ellipse
+883 'Samiina (902)' ellipse
+884 'Echko (903)' ellipse
+885 'Santeriina A (904)' ellipse
+886 'Sintereena (905)' ellipse
+887 'Soyichi (906)' triangle
+888 'Chiro (907)' triangle
+889 'Soochiro (908)' triangle
+890 'Santer (909)' triangle
+891 'Spayifi (910)' triangle
+892 'Siniisiyo (911)' triangle
+893 'Susume (912)' ellipse
+894 'Kiriispin (913)' ellipse
+895 'Kamiino (914)' triangle
+896 'Erper (915)' triangle
+897 'Tonooris A (916)' ellipse
+898 'Rekiina (917)' ellipse
+899 'Mariya (918)' ellipse
+900 'Tereesa A (919)' ellipse
+901 'Kachuchiro (920)' triangle
+902 'Wootmar (921)' triangle
+903 'Iyowanes (922)' triangle
+904 'Akino (923)' triangle
+905 'Antoniyus (924)' triangle
+906 'Peeterus (925)' triangle
+907 'Neeyo (926)' triangle
+908 'Tasuko (927)' ellipse
+909 'Teekena (928)' ellipse
+910 'Kachiyaru (929)' triangle
+911 'Kaastor (930)' triangle
+912 'Kaaspara  A (931)' ellipse
+913 'Soofiya   A (932)' ellipse
+914 'Pawuna (933)' ellipse
+915 'Mariina (934)' ellipse
+916 'Keerman (935)' triangle
+917 'Maarsiya (936)' ellipse
+918 'Neyiti (937)' ellipse
+919 'Teresiya (938)' ellipse
+920 'Nonasko (939)' triangle
+921 'Vaneeriyo A (940)' triangle
+922 'Sister? (941)' ellipse
+923 'Pwoniinus (942)' ellipse
+924 'Siyoriita (943)' ellipse
+925 'Karinta (944)' ellipse
+926 'Nifittan (945)' ellipse
+927 'Nikko (946)' ellipse
+928 'Siyoota (947)' triangle
+929 'Sootaro (948)' triangle
+930 'Emeesiyo (949)' triangle
+931 'Chincheren (950)' ellipse
+932 'Tiina (951)' ellipse
+933 'Joe (952)' triangle
+934 'Joel (953)' triangle
+935 'Isayiya (954)' triangle
+936 'Jackson (955)' triangle
+937 'Jackson (956)' triangle
+938 'Rickson (957)' triangle
+939 'Rackson (958)' triangle
+940 'Rinosi (959)' triangle
+941 'Marsaana n/m (960)' ellipse
+942 'Ewusepiyo (961)' triangle
+943 'Inkarnasiyon (962)' ellipse
+944 'Karemen (963)' ellipse
+945 'Kuyatanupe (964)' ellipse
+946 'Konsiyano (965)' triangle
+947 'Kintiino (966)' triangle
+948 'Kanteero (967)' triangle
+949 'Iknasiyo (968)' triangle
+950 'Kenet (969)' triangle
+951 'Daniyen:BJ (970)' triangle
+952 'Artina (971)' ellipse
+953 'Keunin (972)' ellipse
+954 'Terena (973)' ellipse
+955 'Rengsina (974)' ellipse
+956 'Tom (975)' triangle
+957 'Tomaksi (976)' triangle
+958 'Mariko (977)' ellipse
+959 'Manaani (978)' ellipse
+960 'Aranayin (979)' ellipse
+961 'Meriyam (980)' ellipse
+962 'T. M. (981)' triangle
+963 'Timson (982)' triangle
+964 'Namiana (983)' ellipse
+965 'John (984)' triangle
+966 'Reeko (985)' triangle
+967 'Henry (986)' triangle
+968 'Emerensiyana (987)' ellipse
+969 'Espernansa (988)' ellipse
+970 'Tasiyana (989)' ellipse
+971 'Ermen (990)' triangle
+972 'Siramino (991)' triangle
+973 'Saami (992)' triangle
+974 'Tarsisiyo (993)' triangle
+975 'Maarsiya (994)' ellipse
+976 'Tia (995)' ellipse
+977 'Minda (996)' ellipse
+978 'Mackleen (997)' ellipse
+979 'Nikko (998)' ellipse
+980 'Tio (999)' triangle
+981 'Teno (1000)' triangle
+982 'Chemeniyor (1001)' triangle
+983 'Tino (1002)' triangle
+984 'Rosina (1003)' ellipse
+985 'Sofia (1004)' ellipse
+986 'Maria (1005)' ellipse
+987 'Nikko (1006)' ellipse
+988 'Anty (1007)' triangle
+989 'Junior (1008)' triangle
+990 'Jonas (1009)' triangle
+991 'Johnny (1010)' triangle
+992 'Samwel (1011)' triangle
+993 'Petirus (1012)' triangle
+994 'Joanito (1013)' triangle
+995 'Antarina (1014)' ellipse
+996 'Inomina   n (1015)' ellipse
+997 'Antonia (1016)' ellipse
+998 'Inomita (1017)' ellipse
+999 'Imenta (1018)' ellipse
+1000 'Inty (1019)' triangle
+1001 'I. R. (1020)' triangle
+1002 'Petero (1021)' triangle
+1003 'Markarita (1022)' ellipse
+1004 'Mersita (1023)' ellipse
+1005 'Mersita (1024)' ellipse
+1006 'Josepha (1025)' ellipse
+1007 'My Son (1026)' triangle
+1008 'Iyowana (1027)' ellipse
+1009 'Mathmax (1028)' triangle
+1010 'Misnenta (1029)' ellipse
+1011 'Wincher (1030)' triangle
+1012 'Marseniyus (1031)' triangle
+1013 'Maaninta (1032)' ellipse
+1014 'Mariyeta (1033)' ellipse
+1015 'Marumi (1034)' ellipse
+1016 'Maanentiin (1035)' triangle
+1017 'Mayurino (1036)' triangle
+1018 'Suukan (1037)' triangle
+1019 'Mayikon (1038)' triangle
+1020 'Ayini (1039)' triangle
+1021 'Chofaat (1040)' triangle
+1022 'Marsi (1041)' ellipse
+1023 'Emyrosa (1042)' ellipse
+1024 'Timothy (1043)' triangle
+1025 'Wallance (1044)' triangle
+1026 'Ludean (1045)' triangle
+1027 'Mayirin (1046)' ellipse
+1028 'Sayirin (1047)' triangle
+1029 'Kuttono (1048)' triangle
+1030 'Samson (1049)' triangle
+1031 'Marsayi (1050)' triangle
+1032 'Gordon (1051)' triangle
+1033 'Keterik (1052)' triangle
+1034 'Inomiky (1053)' ellipse
+1035 'Makreta (1054)' ellipse
+1036 'Kanreta (1055)' ellipse
+1037 'Makres (1056)' triangle
+1038 'Kanres (1057)' triangle
+1039 'Clent (1058)' triangle
+1040 'NNM  [Unknown (1059)' triangle
+1041 'NNM  [Unknown (1060)' triangle
+1042 'NNM (1061)' triangle
+1043 'NNM (1062)' triangle
+1044 'NNM  [Unknown ] (1063)' triangle
+1045 'NNM  [Unknown ] (1064)' triangle
+1046 'NNM (1065)' triangle
+1047 'NNM (1066)' triangle
+1048 'NNM Unknown (1067)' triangle
+1049 'Woonap (1068)' triangle
+1050 'NNM Unknown (1069)' triangle
+1051 'Pitineepew (1070)' triangle
+1052 'Timotes (1071)' triangle
+1053 'Epereyan (1072)' triangle
+1054 'Iyoskachu (1073)' triangle
+1055 'NNM[Unknown]n/m (1074)' triangle
+1056 'NNM [Unknown] (1075)' triangle
+1057 'NNF   [Unknown (1076)' ellipse
+1058 'Tomaasa [Piis (1077)' ellipse
+1059 'Kerniina (1078)' ellipse
+1060 'Wini  [Paata (1079)' triangle
+1061 'Nosarun (1080)' ellipse
+1062 'Pworiitipw[Pwon (1081)' triangle
+1063 'Ninna (1082)' ellipse
+1064 'Esennan (1083)' triangle
+1065 'Sister (1084)' ellipse
+1066 'Inaapwung (1085)' ellipse
+1067 'Wiimwar (1086)' triangle
+1068 'Etir (1087)' triangle
+1069 'Setiya (1088)' triangle
+1070 'Wunooreng (1089)' triangle
+1071 'Ipwpwun (1090)' triangle
+1072 'Inaareyong (1091)' ellipse
+1073 'Neyimar (1092)' ellipse
+1074 'Setin (1093)' triangle
+1075 'Kanaasiya (1094)' ellipse
+1076 'NNM  [Unknown ] (1095)' triangle
+1077 'Katar [Tonowas (1096)' ellipse
+1078 'Isako (1097)' ellipse
+1079 'Neeyisaayayong (1107)' ellipse
+1080 'Sister [Weene] (1108)' ellipse
+1081 'Tinoopen  [W (1109)' triangle
+1082 'Mwono  [Weene] (1110)' triangle
+1083 'Sister [Weene] (1111)' ellipse
+1084 'Neeyipwin (1112)' ellipse
+1085 'Chini (1113)' ellipse
+1086 'Roosa (1114)' ellipse
+1087 'Soon (1115)' triangle
+1088 'Puruuta (1116)' triangle
+1089 'Piyo (1117)' triangle
+1090 'Eniisa (1118)' ellipse
+1091 'Riikar (1119)' triangle
+1092 'Iyoosef (1120)' triangle
+1093 'Ftako (1121)' ellipse
+1094 'Emiko (1122)' ellipse
+1095 'Maarsiyana A (1123)' ellipse
+1096 'Masaami (1124)' triangle
+1097 'Masataka (1126)' triangle
+1098 'Iyosinto (1127)' triangle
+1099 'Kanako (1128)' triangle
+1100 'Tereesa (1129)' ellipse
+1101 'Teresiita (1130)' ellipse
+1102 'Iyayeko (1131)' ellipse
+1103 'Eriko (1132)' ellipse
+1104 'Ayiyawo (1133)' triangle
+1105 'Nafta (1134)' ellipse
+1106 'Peen (1135)' triangle
+1107 'Riikar (1136)' triangle
+1108 'Name (1137)' triangle
+1109 'Tokiko (1138)' ellipse
+1110 'Angkustiya (1139)' ellipse
+1111 'Angkenima (1140)' ellipse
+1112 'Kantiito (1141)' triangle
+1113 'Angkeneeto (1142)' triangle
+1114 'Angkiniino (1143)' triangle
+1115 'Akinto (1144)' triangle
+1116 'Markariita (1145)' ellipse
+1117 'Mariyena (1146)' ellipse
+1118 'Marsi (1147)' ellipse
+1119 'Nicky (1148)' ellipse
+1120 'Marseniino (1149)' triangle
+1121 'Marsiyano (1150)' triangle
+1122 'Matiyas (1151)' triangle
+1123 'Helen (1152)' ellipse
+1124 'Josephino (1153)' triangle
+1125 'Paap (1154)' triangle
+1126 'Name d (1155)' triangle
+1127 'Name  d (1156)' triangle
+1128 'Name d (1157)' triangle
+1129 'Akiino (1160)' triangle
+1130 'Brother (1161)' triangle
+1131 'Brother (1162)' triangle
+1132 'Name (1163)' ellipse
+1133 'Name (1164)' ellipse
+1134 'Kanfiina (1165)' ellipse
+1135 'Kansiita n/m (1166)' ellipse
+1136 'Noriita (1167)' ellipse
+1137 'Nowen (1168)' triangle
+1138 'Refetexi (1169)' triangle
+1139 'Rosenta (1170)' ellipse
+1140 'Brother (1171)' triangle
+1141 'Niyoniin (1172)' ellipse
+1142 'Norma (1173)' ellipse
+1143 'Jamie (1174)' ellipse
+1144 'Noreyin (1175)' ellipse
+1145 'Taniyena (1176)' ellipse
+1146 'Mackrina (1177)' ellipse
+1147 'Josiya (1178)' ellipse
+1148 'M-D (1179)' triangle
+1149 'J-D (1180)' triangle
+1150 'Marson (1181)' triangle
+1151 'Glory (1182)' ellipse
+1152 'Kichfiina (1183)' ellipse
+1153 'Kinstine (1184)' triangle
+1154 'Nakachun (1185)' triangle
+1155 'CT Sikko (1186)' triangle
+1156 'Mwaan Sayini (Tr (1187)' triangle
+1157 'Sitifen  [Unkno (1188)' triangle
+1158 'NNM  [Unknown (1189)' triangle
+1159 'NNM  [Unknown (1190)' triangle
+1160 'NNF [Maasan] (1191)' ellipse
+1161 'Ayester Irons (1192)' triangle
+1162 'Wumiko   [Weene (1193)' ellipse
+1163 'NNF [Wuteet] (1194)' ellipse
+1164 'NNF [Wuteet] (1195)' ellipse
+1165 'NNF [Wuteet] (1196)' ellipse
+1166 'NNF     [Wuteet] (1197)' ellipse
+1167 'Wumiko   [Weene (1198)' ellipse
+1168 'Nittop[Piis] (1199)' triangle
+1169 'Motok [Piis (1200)' ellipse
+1170 'Sister (1201)' ellipse
+1171 'Brother (1202)' triangle
+1172 'Sister (1203)' ellipse
+1173 'Sister (1204)' ellipse
+1174 'eSister (1205)' ellipse
+1175 'ySister (1206)' ellipse
+1176 'Sorosor (1207)' triangle
+1177 'Wukon (1208)' triangle
+1178 'Sister (1209)' ellipse
+1179 'Wtotur (1210)' triangle
+1180 'Sister (1211)' ellipse
+1181 'Araw (1212)' ellipse
+1182 'Neechim (1213)' ellipse
+1183 'Manuch (1214)' triangle
+1184 'Oney (1215)' ellipse
+1185 'Nifung (1216)' triangle
+1186 'Sister (1217)' ellipse
+1187 'Sister [Wtiitee, (1218)' ellipse
+1188 'Kaamet (1219)' triangle
+1189 'Nginino (1220)' triangle
+1190 'Nasap (1221)' ellipse
+1191 'Neeyit (1222)' ellipse
+1192 'Eyitipey (1223)' triangle
+1193 'Neeyan (1224)' triangle
+1194 'Tawaney (1225)' triangle
+1195 'Nuppew (1226)' triangle
+1196 'Towuseng (1227)' ellipse
+1197 'Ineyiya (1228)' ellipse
+1198 'Newup (1229)' ellipse
+1199 'Naayong (1230)' ellipse
+1200 'Nonnomw (1231)' triangle
+1201 'Piino (1232)' triangle
+1202 'Nemenippek (1233)' ellipse
+1203 'Koomi (1234)' triangle
+1204 'Inefiicho (1235)' ellipse
+1205 'Nimar (1236)' triangle
+1206 'Niyewutey (1237)' triangle
+1207 'Chikino (1238)' triangle
+1208 'Inechuwesap (1239)' ellipse
+1209 'Nomor (1240)' ellipse
+1210 'Inaameti (1241)' ellipse
+1211 'Wunuyong (1242)' triangle
+1212 'Neyipwer (1243)' ellipse
+1213 'Inefich (1244)' ellipse
+1214 'Nesayireng (1245)' ellipse
+1215 'Pwoonun (1246)' triangle
+1216 'Nomwot (1247)' triangle
+1217 'Seniye (1248)' triangle
+1218 'Chemeniyor (1249)' triangle
+1219 'Mwotuk (1250)' triangle
+1220 'Nemekiireng (1251)' ellipse
+1221 'Iyowanes (1252)' triangle
+1222 'Emwor (1253)' triangle
+1223 'Meriita (1254)' ellipse
+1224 'Newuran (1255)' ellipse
+1225 'Antooniya (1256)' ellipse
+1226 'Neeyoonen (1257)' ellipse
+1227 'Woyite (1258)' ellipse
+1228 'Mwiyengas (1259)' triangle
+1229 'Omwaat?  [Wtiitee (1260)' triangle
+1230 'Wanter (1261)' triangle
+1231 'Akawo (1262)' triangle
+1232 'Iwiriko (1263)' ellipse
+1233 'Nayiyomi (1264)' ellipse
+1234 'Niwiisa (1265)' ellipse
+1235 'Maarkus (1266)' triangle
+1236 'Winiyem (1267)' triangle
+1237 'Sapiina (1268)' ellipse
+1238 'Sarafiina (1269)' ellipse
+1239 'Iwuriye (1270)' ellipse
+1240 'Iwuriina (1271)' ellipse
+1241 'Sesiiniyo (1272)' triangle
+1242 'Sirosi (1273)' triangle
+1243 'Rayifina (1274)' ellipse
+1244 'Roslin (1275)' ellipse
+1245 'Chinoris (1276)' ellipse
+1246 'Rosento (1277)' triangle
+1247 'Roomen (1278)' triangle
+1248 'Rosenino (1279)' triangle
+1249 'Ready (1280)' triangle
+1250 'Redson (1281)' triangle
+1251 'Robinson (1282)' triangle
+1252 'Rudy (1283)' triangle
+1253 'Sanusa (1284)' ellipse
+1254 'Juliet (1285)' ellipse
+1255 'Nercy (1286)' ellipse
+1256 'Kansa (1287)' ellipse
+1257 'Kanten (1288)' triangle
+1258 'Kitchen (1289)' triangle
+1259 'Ketnes (1290)' triangle
+1260 'Domingko (1291)' triangle
+1261 'Taan (1292)' triangle
+1262 'Chuyichi (1293)' triangle
+1263 'Sakiniina (1294)' ellipse
+1264 'Angena (1295)' ellipse
+1265 'Chanes (1296)' ellipse
+1266 'Anson (1297)' triangle
+1267 'Nixson (1298)' triangle
+1268 'Rengina (1299)' ellipse
+1269 'Reason (1300)' triangle
+1270 'Romiino (1301)' triangle
+1271 'Siti (1302)' triangle
+1272 'Wakko (1303)' triangle
+1273 'Gapriel (1304)' triangle
+1274 'Andrew (1305)' triangle
+1275 'Adanberto (1306)' triangle
+1276 'NNM  [Unknown ] (1307)' triangle
+1277 'NNM  [Unknown ] (1308)' triangle
+1278 'NNM  [Unknown ] (1309)' triangle
+1279 'NNM  [Unknown ] (1310)' triangle
+1280 'NNM  [Unknown ] (1311)' triangle
+1281 'NNM  [Unknown ] (1312)' triangle
+1282 'NNM  [Unknown  ] (1313)' triangle
+1283 'Meyichon  [Toon (1314)' triangle
+1284 'Niisor  [Parem ] (1315)' triangle
+1285 'NNM  [Unknown  ] (1316)' triangle
+1286 'NNM  [Unknown  ] (1317)' triangle
+1287 'NNF    [Pare (1318)' ellipse
+1288 'Sister [Wtiitee, (1319)' ellipse
+1289 'Sister [Wtiitee, (1320)' ellipse
+1290 'Sister [Achaw, (1321)' ellipse
+1291 'Inoota (1322)' ellipse
+1292 'Neweeyita (1323)' ellipse
+1293 'Neyipwek (1324)' ellipse
+1294 'Wtonopetiw (1325)' triangle
+1295 'Inooma (1326)' ellipse
+1296 'Wuwop (1327)' triangle
+1297 'Neyipweyinu (1328)' ellipse
+1298 'Rekkuk (1329)' triangle
+1299 'Neeyiro (1330)' ellipse
+1300 'Nokun (1331)' ellipse
+1301 'Inomwmwan (1332)' ellipse
+1302 'Inooromo (1333)' ellipse
+1303 'Wuumwo (1334)' triangle
+1304 'Chunoono (1335)' triangle
+1305 'Eyiya (1336)' triangle
+1306 'Rewi (1337)' triangle
+1307 'Esaawer (1338)' ellipse
+1308 'Chemwmwaw (1339)' triangle
+1309 'Epweesu (1340)' triangle
+1310 'Pwiitiw (1341)' ellipse
+1311 'Wonoon (1342)' triangle
+1312 'Nawa (1343)' ellipse
+1313 'Nepwa (1344)' ellipse
+1314 'Eyiwer:Soso ya (1345)' triangle
+1315 'Neeyeta (1346)' ellipse
+1316 'Wukan (1347)' ellipse
+1317 'Eeniyas (1348)' triangle
+1318 'Neeyiwey (1349)' ellipse
+1319 'Naaton (1350)' ellipse
+1320 'Seneti (1351)' triangle
+1321 'Neyira (1352)' ellipse
+1322 'Pwuset (1353)' ellipse
+1323 'Iyaana (1354)' ellipse
+1324 'Inesin (1355)' ellipse
+1325 'Niiyeppiyen (1356)' ellipse
+1326 'Raanu (1357)' triangle
+1327 'Newuku (1358)' ellipse
+1328 'Pereta (1359)' ellipse
+1329 'Kari (1360)' ellipse
+1330 'Meses (1361)' triangle
+1331 'Finip (1362)' triangle
+1332 'Reyikiina (1363)' ellipse
+1333 'Kinnako (1364)' ellipse
+1334 'Ruwenfan (1365)' triangle
+1335 'Susuwo (1366)' triangle
+1336 'Annako (1367)' ellipse
+1337 'Keteriko (1368)' triangle
+1338 'Tosiso (1369)' triangle
+1339 'Teriwo (1370)' triangle
+1340 'Renipu (1371)' triangle
+1341 'Osong (1372)' triangle
+1342 'Ema (1373)' triangle
+1343 'Ronneeta (1374)' ellipse
+1344 'Nuukas (1375)' triangle
+1345 'Riiken (1376)' triangle
+1346 'Cheeyina (1377)' ellipse
+1347 'Siipen (1378)' triangle
+1348 'Nariko (1379)' ellipse
+1349 'Kachuwo (1380)' triangle
+1350 'Tawasi (1381)' triangle
+1351 'Manas (1382)' triangle
+1352 'Wokasi  A (1383)' triangle
+1353 'Iyotaro (1384)' triangle
+1354 'Komori (1385)' ellipse
+1355 'Fensiita (1386)' ellipse
+1356 'Konrat (1387)' triangle
+1357 'Masayosi (1388)' triangle
+1358 'Keneeto (1389)' triangle
+1359 'Romaana (1390)' ellipse
+1360 'Inaatiyus (1391)' triangle
+1361 'Pwowunus (1392)' triangle
+1362 'Sachko (1393)' ellipse
+1363 'Peetna (1394)' ellipse
+1364 'Ewunaaniya  n/m (1395)' ellipse
+1365 'Imakunaata (1396)' ellipse
+1366 'Kintiina (1397)' ellipse
+1367 'Toomas (1398)' triangle
+1368 'Kerekoriyo (1399)' triangle
+1369 'Pinaar (1400)' ellipse
+1370 'Mariiya (1401)' ellipse
+1371 'Masaki (1402)' triangle
+1372 'Sister (1403)' ellipse
+1373 'Kateriina (1404)' ellipse
+1374 'Fermiina (1405)' ellipse
+1375 'Ferniina (1406)' ellipse
+1376 'Peeterus (1407)' triangle
+1377 'Fanantiin (1408)' triangle
+1378 'Memorina (1409)' ellipse
+1379 'Menrina (1410)' ellipse
+1380 'Ambrose (1411)' triangle
+1381 'Moses (1412)' triangle
+1382 'Anthony (1413)' triangle
+1383 'Marion (1414)' triangle
+1384 'Mairon (1415)' triangle
+1385 'Morrison (1416)' triangle
+1386 'Iyowakina (1417)' ellipse
+1387 'Iyasinta (1418)' ellipse
+1388 'Iyowakimw (1419)' triangle
+1389 'Iyowan (1420)' triangle
+1390 'Iyowakiino (1421)' triangle
+1391 'Iyasinto (1422)' triangle
+1392 'Terpiina (1423)' ellipse
+1393 'Taani (1424)' triangle
+1394 'Teriyos (1425)' triangle
+1395 'Manuwen (1426)' triangle
+1396 'Istoor (1427)' triangle
+1397 'Rentiyano (1428)' triangle
+1398 'Kristiina (1429)' ellipse
+1399 'Kristiyena (1430)' ellipse
+1400 'Isinta (1431)' ellipse
+1401 'Kersina (1432)' ellipse
+1402 'Tersiina (1433)' ellipse
+1403 'Efchiina (1434)' ellipse
+1404 'Ewukeniina (1435)' ellipse
+1405 'Tiisen (1436)' triangle
+1406 'Mary (1437)' ellipse
+1407 'M-Chek (1438)' ellipse
+1408 'Meromi (1439)' ellipse
+1409 'Matiyas (1440)' triangle
+1410 'Mayika (1441)' triangle
+1411 'Manakiyas (1442)' triangle
+1412 'Maxi (1443)' triangle
+1413 'Efni (1444)' triangle
+1414 'Anteniina (1445)' ellipse
+1415 'Terson (1446)' triangle
+1416 'A-K (1447)' triangle
+1417 'Julia (1448)' ellipse
+1418 'James (1449)' triangle
+1419 'Inosenti (1450)' triangle
+1420 'Menriyena (1451)' ellipse
+1421 'Mooriya (1452)' ellipse
+1422 'Nipwooch (1453)' triangle
+1423 'Pekos (1454)' triangle
+1424 'Lucia (1455)' ellipse
+1425 'Eferni (1456)' triangle
+1426 'Benki (1457)' ellipse
+1427 'Mengki (1458)' ellipse
+1428 'Penter (1459)' triangle
+1429 'Piiche (Trader) (1460)' triangle
+1430 'NNM  [Unknown ] (1461)' triangle
+1431 'Iyemeseta (Trad (1462)' triangle
+1432 'NNM  [Unknown  ] (1463)' triangle
+1433 'NNM  [Toon  ] (1464)' triangle
+1434 'Matiyas   eetun (1465)' triangle
+1435 'Ante  [Wteene ] (1466)' triangle
+1436 'Kiristi  [Pwene (1467)' triangle
+1437 'Esikiyen  [Mwoch (1468)' triangle
+1438 'Beniko  [Toon  ] (1469)' triangle
+1439 'Pweruwek  [Wtuum (1470)' triangle
+1440 'NNF    [Weene (1471)' ellipse
+1441 'Kiniiwe [Fano ] (1472)' ellipse
+1442 'Pattrika (1473)' ellipse
+1443 'B-J (1474)' triangle
+1444 'Tayichi (1475)' triangle
+1445 'Sister (1476)' ellipse
+1446 'Brother (1477)' triangle
+1447 'Sister (1478)' ellipse
+1448 'Nukunap (1479)' triangle
+1449 'Nipwpwor (1480)' triangle
+1450 'Osooma (1481)' triangle
+1451 'Wtupweewun (1482)' triangle
+1452 'NNM  [Unknown (1483)' triangle
+1453 'Inoomataw (1484)' ellipse
+1454 'Tokoche Weene (1485)' triangle
+1455 'Piin (1487)' ellipse
+1456 'Inechen (1488)' ellipse
+1457 'Nirumw (1489)' triangle
+1458 'Rosaaniya     A (1490)' ellipse
+1459 'Alexia        A (1491)' ellipse
+1460 'Fawustina (1492)' ellipse
+1461 'Pichin (1493)' triangle
+1462 'Tawuwe (1494)' triangle
+1463 'Iraachi (1495)' triangle
+1464 'Mook (1496)' triangle
+1465 'Minami (1497)' triangle
+1466 'Sengkichi (1498)' triangle
+1467 'Iyochiro (1499)' triangle
+1468 'Makariyo (1500)' triangle
+1469 'Masako (1501)' ellipse
+1470 'Ichiye (1502)' ellipse
+1471 'Taruko (1503)' ellipse
+1472 'Machko (1504)' ellipse
+1473 'Maangnga (1505)' triangle
+1474 'Mayikawa (1506)' triangle
+1475 'Rokuro [Wtiitee (1507)' triangle
+1476 'Sarafiina (1508)' ellipse
+1477 'Noriyaana (1509)' ellipse
+1478 'Roosmeeri (1510)' ellipse
+1479 'Rosaninta (1511)' ellipse
+1480 'Saraapiyo (1512)' triangle
+1481 'Saraafin      A (1513)' triangle
+1482 'Topiyas (1514)' triangle
+1483 'Akostiin (1515)' triangle
+1484 'Sapiino (1516)' triangle
+1485 'Peeter (1517)' triangle
+1486 'Norenso (1518)' triangle
+1487 'Akostiin (1519)' triangle
+1488 'Peti (1520)' triangle
+1489 'Peeter (1521)' triangle
+1490 'Pisentiyus (1522)' triangle
+1491 'Misayen (1523)' triangle
+1492 'Mikayen (1524)' triangle
+1493 'Karniin (1525)' ellipse
+1494 'Sayiwiina (1526)' ellipse
+1495 'Pengkin (1527)' triangle
+1496 'Petsiyana (1528)' ellipse
+1497 'Peeterus (1529)' triangle
+1498 'Akinina md (1530)' ellipse
+1499 'Sintereena (1531)' ellipse
+1500 'Inosen (1532)' ellipse
+1501 'Nikko (1533)' ellipse
+1502 'Imiye (1534)' ellipse
+1503 'Merily (1535)' ellipse
+1504 'Nora (1536)' ellipse
+1505 'Kapriyen (1537)' triangle
+1506 'Mikayen (1538)' triangle
+1507 'Trinity (1539)' triangle
+1508 'Trinity:Inosy (1540)' triangle
+1509 'Janet (1541)' ellipse
+1510 'Hezel (1542)' triangle
+1511 'Roy (1543)' triangle
+1512 'Kanteriin (1544)' ellipse
+1513 'Kenteriin (1545)' triangle
+1514 'Becky (1546)' ellipse
+1515 'Randy (1547)' triangle
+1516 'Julie (1548)' ellipse
+1517 'Cary (1549)' triangle
+1518 'Charinson (1550)' triangle
+1519 'Imakunata:Neyiy (1551)' ellipse
+1520 'Ramsis (1552)' triangle
+1521 'Teeri (1553)' triangle
+1522 'Retso (1554)' triangle
+1523 'Osti (1555)' triangle
+1524 'Toroti[Maasan (1556)' ellipse
+1525 'Atanayita Weene (1557)' ellipse
+1526 'Suwensi (1558)' ellipse
+1527 'Suwenita (1559)' ellipse
+1528 'Simensi (1560)' ellipse
+1529 'Skeyichi:Wunuch (1561)' triangle
+1530 'Cheyison (1562)' triangle
+1531 'Atiiseng (1563)' triangle
+1532 'Mayiranti Tonow (1564)' ellipse
+1533 'Tenina (1565)' ellipse
+1534 'Tania (1566)' ellipse
+1535 'Tansi (1567)' triangle
+1536 'Tansiyano (1568)' triangle
+1537 'Tamsi (1569)' triangle
+1538 'Refa (1570)' triangle
+1539 'Randy (1571)' triangle
+1540 'A. M. (1572)' triangle
+1541 'Sirasi  [Xs  ] (1573)' triangle
+1542 'Akinina [Fanapen (1574)' ellipse
+1543 'Tiipwursiyo  [Fa (1575)' triangle
+1544 'Lona (1576)' ellipse
+1545 'Catherine (1577)' ellipse
+1546 'Mason:Meyison (1578)' triangle
+1547 'PerekPerekiita (1579)' ellipse
+1548 'Sisaye (1580)' ellipse
+1549 'Kirosi (1581)' triangle
+1550 'Pokuwo  [Wteene (1582)' triangle
+1551 'Tikit  [Weene ] (1583)' triangle
+1552 'Sister [Wuteet? (1584)' ellipse
+1553 'eSister (1585)' ellipse
+1554 'ySister (1586)' ellipse
+1555 'Mowutiw (1587)' triangle
+1556 'Inottungur (1588)' ellipse
+1557 'Cheenuk (1589)' triangle
+1558 'Sister (1590)' ellipse
+1559 'Itima (1591)' triangle
+1560 'Inaasumwur (1592)' ellipse
+1561 'Neyipwek (1593)' ellipse
+1562 'Neyiche (1594)' ellipse
+1563 'Kepin (1595)' triangle
+1564 'Wufes (1596)' triangle
+1565 'Nikopwutak (1597)' ellipse
+1566 'Nowusar (1598)' ellipse
+1567 'Enu (1599)' triangle
+1568 'Neyisep (1600)' ellipse
+1569 'Newin (1601)' ellipse
+1570 'Iwun (1602)' triangle
+1571 'Neyisop (1603)' ellipse
+1572 'Neyar (1604)' ellipse
+1573 'Meneki (1605)' triangle
+1574 'Toowan (1606)' ellipse
+1575 'Nepwech (1607)' ellipse
+1576 'Tinik (1608)' triangle
+1577 'Puuta (1609)' triangle
+1578 'Reesi (1610)' ellipse
+1579 'Sepinon (1611)' triangle
+1580 'Inerikiyong (1612)' ellipse
+1581 'Neesiw (1613)' ellipse
+1582 'Iisak (1614)' triangle
+1583 'Isitaro (1615)' triangle
+1584 'Kayiwus (1616)' triangle
+1585 'Neeyiki (1617)' ellipse
+1586 'Netiw (1618)' ellipse
+1587 'Erinis (1619)' triangle
+1588 'Kaanis (1620)' triangle
+1589 'Riituk (1621)' triangle
+1590 'Meechipen (1622)' triangle
+1591 'Masaw        19 (1623)' triangle
+1592 'Koyichi (1624)' triangle
+1593 'NNM  [Romonum ] (1625)' triangle
+1594 'NNM  [Wunknown ] (1626)' triangle
+1595 'NNM  [Unknown ] (1627)' triangle
+1596 'Aawuti:Mengeengi (1628)' triangle
+1597 'NNM  [Unknown ] (1629)' triangle
+1598 'NNM  [Unknown  ] (1630)' triangle
+1599 'NNM  [Unknown  ] (1631)' triangle
+1600 'NNM  [Unknown  ] (1632)' triangle
+1601 'eSister [Pwene ] (1633)' ellipse
+1602 'ySister [Pwene ] (1634)' ellipse
+1603 'Ineffar (1635)' ellipse
+1604 'Nesewur (1636)' ellipse
+1605 'Senum (1637)' triangle
+1606 'Mwunu (1638)' triangle
+1607 'Suupwa (1639)' triangle
+1608 'Ikewen (1640)' triangle
+1609 'Winiit (1641)' triangle
+1610 'Neniyo (1642)' ellipse
+1611 'Newufan (1643)' ellipse
+1612 'Ineme (1644)' ellipse
+1613 'Nimey (1645)' ellipse
+1614 'Kupen (1646)' triangle
+1615 'Nowur (1647)' ellipse
+1616 'Wupwich (1648)' triangle
+1617 'Niyow (1649)' ellipse
+1618 'Neyiyar (1650)' ellipse
+1619 'Meyikin (1651)' triangle
+1620 'Chuwesar (1652)' ellipse
+1621 'Newiiche (1653)' ellipse
+1622 'Neyiso (1654)' ellipse
+1623 'Eyipwen (1655)' triangle
+1624 'Wureng (1656)' triangle
+1625 'Eyisan (1657)' triangle
+1626 'Wuumas (1658)' triangle
+1627 'Pwekuchi (1659)' ellipse
+1628 'Seeki (1660)' triangle
+1629 'Ruuta (1661)' triangle
+1630 'Waasi (1662)' triangle
+1631 'Senifis (1663)' triangle
+1632 'Nepan (1664)' ellipse
+1633 'Inapwe (1665)' ellipse
+1634 'Nikachin (1666)' triangle
+1635 'Kochu (1667)' triangle
+1636 'Nikommu (1668)' triangle
+1637 'Neyisar (1669)' ellipse
+1638 'Piiyong (1670)' triangle
+1639 'Pitiro (1671)' ellipse
+1640 'Nowupi (1672)' ellipse
+1641 'Napach (1673)' ellipse
+1642 'Finoriyan (1674)' triangle
+1643 'Apinis (1675)' triangle
+1644 'Neyoomi (1676)' ellipse
+1645 'Nesewe (1677)' ellipse
+1646 'Eneen (1678)' ellipse
+1647 'Anannaw (1679)' ellipse
+1648 'Ana (1680)' ellipse
+1649 'Soofi (1681)' ellipse
+1650 'Wonutin (1682)' triangle
+1651 'Wuun (1683)' triangle
+1652 'Suuch (1684)' triangle
+1653 'Monu (1685)' triangle
+1654 'Kuus (1686)' triangle
+1655 'Suuta (1687)' triangle
+1656 'Taan (1688)' triangle
+1657 'Akim (1689)' triangle
+1658 'Eyipu (1690)' triangle
+1659 'Wuruuw (1691)' ellipse
+1660 'Pisiya (1692)' triangle
+1661 'Namiko (1693)' ellipse
+1662 'Isaye (1694)' ellipse
+1663 'Sister (1695)' ellipse
+1664 'Iyoyichi (1696)' triangle
+1665 'Simako (1697)' ellipse
+1666 'Pwowune (1698)' ellipse
+1667 'Soyino (1699)' triangle
+1668 'Teriwo (1700)' triangle
+1669 'Sachko (1701)' ellipse
+1670 'Mersi (1702)' ellipse
+1671 'Miyari (1703)' triangle
+1672 'Eneena (1704)' ellipse
+1673 'Ensiita (1705)' ellipse
+1674 'Senifis (1706)' triangle
+1675 'Steve (1707)' triangle
+1676 'Sersi (1708)' triangle
+1677 'Finti (1709)' triangle
+1678 'Ewukeeniya (1710)' ellipse
+1679 'Keretsen (1711)' ellipse
+1680 'Iyasintuus (1712)' triangle
+1681 'Piyaana (1713)' ellipse
+1682 'Iyaasuwe (1714)' triangle
+1683 'Taniyen (1715)' triangle
+1684 'Tayimina (1716)' ellipse
+1685 'Jetina (1717)' ellipse
+1686 'Sernina (1718)' ellipse
+1687 'Titus (1719)' triangle
+1688 'Stephan (1720)' triangle
+1689 'Emanuwel (1721)' triangle
+1690 'Fermin (1722)' triangle
+1691 'Chanatan (1723)' triangle
+1692 'Charles (1724)' triangle
+1693 'Emriina (1725)' ellipse
+1694 'Emson (1726)' triangle
+1695 'Evangeniina (1727)' ellipse
+1696 'Emeriina n (1728)' ellipse
+1697 'Niyana (1729)' ellipse
+1698 'Sertiino (1730)' triangle
+1699 'Emina (1731)' ellipse
+1700 'Emine (1732)' ellipse
+1701 'Kesiya (1733)' ellipse
+1702 'Karisma (1734)' ellipse
+1703 'Kalover (1735)' triangle
+1704 'William (1736)' triangle
+1705 'Jayleen (1737)' ellipse
+1706 'Budy (1738)' triangle
+1707 'NNM  [Wunknown] (1739)' triangle
+1708 'NNM  [Unknown] (1740)' triangle
+1709 'NNM  [Noosopw] (1741)' triangle
+1710 'NNM  [Unknown] (1742)' triangle
+1711 'Eniken[Fefeen (1743)' triangle
+1712 'John  [Seyipen ] (1744)' triangle
+1713 'NNM  [Wunknown (1745)' triangle
+1714 'NNF   [Unknown ] (1746)' ellipse
+1715 'eSister (1747)' ellipse
+1716 'ySister (1748)' ellipse
+1717 'Wupwut (1749)' triangle
+1718 'Nanenima (1750)' triangle
+1719 'Nipung (1751)' triangle
+1720 'Sister (1752)' ellipse
+1721 'Sister (1753)' ellipse
+1722 'Sister (1754)' ellipse
+1723 'Sister (1755)' ellipse
+1724 'Weyires (1756)' triangle
+1725 'Kuumech (1757)' triangle
+1726 'Wenunget (1758)' triangle
+1727 'Newuran (1759)' ellipse
+1728 'Sister (1760)' ellipse
+1729 'Neyifi (1761)' ellipse
+1730 'Sister (1762)' ellipse
+1731 'Cheniita (1763)' ellipse
+1732 'Notop (1764)' ellipse
+1733 'Moorumwew (1765)' triangle
+1734 'Weran (1766)' ellipse
+1735 'Sarako (1767)' ellipse
+1736 'Inama (1768)' ellipse
+1737 'Ongonap (1769)' triangle
+1738 'Keteriki (1770)' triangle
+1739 'Newunan (1771)' ellipse
+1740 'Semewur (1772)' triangle
+1741 'Ineso (1773)' ellipse
+1742 'Sarengun (1774)' ellipse
+1743 'Peewar (1775)' ellipse
+1744 'Neyiru (1776)' ellipse
+1745 'Newiik (1777)' ellipse
+1746 'Neyichey (1778)' ellipse
+1747 'Nesi (1779)' ellipse
+1748 'Neyimwon (1780)' ellipse
+1749 'Wupe (1781)' triangle
+1750 'Neeyitiw (1782)' ellipse
+1751 'Nefichi (1783)' ellipse
+1752 'Esooriik (1784)' triangle
+1753 'Aake (1785)' triangle
+1754 'Sewutek [Xx] (1786)' triangle
+1755 'Sawa (1787)' ellipse
+1756 'Wiisar (1788)' triangle
+1757 'Keseer (1789)' triangle
+1758 'Meseer:Matiyas (1790)' triangle
+1759 'Nechep (1791)' ellipse
+1760 'Naasich (1792)' ellipse
+1761 'Kinowus (1793)' triangle
+1762 'Tamiyan (1794)' triangle
+1763 'Mariyena (1795)' ellipse
+1764 'Neeyimop (1796)' ellipse
+1765 'Miyangi (1797)' triangle
+1766 'Eyiwe (1798)' triangle
+1767 'Nuusiya (1799)' ellipse
+1768 'Newurmataw (1800)' ellipse
+1769 'Siiyeta (1801)' triangle
+1770 'Toni (1802)' ellipse
+1771 'Amiwo (1803)' triangle
+1772 'Pinaar (1804)' ellipse
+1773 'Iyayeko (1805)' ellipse
+1774 'Terimi (1806)' ellipse
+1775 'Peniitus (1807)' triangle
+1776 'Peetero (1808)' triangle
+1777 'Taniko (1809)' ellipse
+1778 'Take (1810)' triangle
+1779 'Keten (1811)' triangle
+1780 'Pansiniisa (1812)' ellipse
+1781 'Santer      193 (1813)' triangle
+1782 'Semwere (1814)' triangle
+1783 'Wongkichi (1815)' triangle
+1784 'Kayime (1816)' triangle
+1785 'Siniyako (1817)' triangle
+1786 'Panfiino (1818)' triangle
+1787 'Marniin (1819)' ellipse
+1788 'Merniina (1820)' ellipse
+1789 'Mariino (1821)' triangle
+1790 'Mawurisiyo (1822)' triangle
+1791 'Fensiyaana (1823)' ellipse
+1792 'Merseetes (1824)' ellipse
+1793 'Simeyon (1825)' triangle
+1794 'Kirispiina (1826)' ellipse
+1795 'Kerensiya (1827)' ellipse
+1796 'Kanista (1828)' ellipse
+1797 'Kersi (1829)' ellipse
+1798 'Kanta (1830)' triangle
+1799 'Samiyer (1831)' triangle
+1800 'Kayin (1832)' triangle
+1801 'Knori (1833)' triangle
+1802 'Krospi (1834)' triangle
+1803 'Bersiita (1835)' ellipse
+1804 'Meninta (1836)' ellipse
+1805 'Nortariya (1837)' ellipse
+1806 'Jina 21 (1838)' ellipse
+1807 'Masachi (1839)' triangle
+1808 'Juniyus (1840)' triangle
+1809 'Cypriyan (1841)' triangle
+1810 'Tryeko (1842)' triangle
+1811 'Joseph (1843)' triangle
+1812 'Soses (1844)' triangle
+1813 'Stan (1845)' triangle
+1814 'Tirso (1846)' triangle
+1815 'Feniisa (1847)' ellipse
+1816 'K-M (1848)' triangle
+1817 'Kiim (1849)' triangle
+1818 'Nurutes (1850)' ellipse
+1819 'Miki (1851)' triangle
+1820 'Rocky (1852)' triangle
+1821 'Rodson (1853)' triangle
+1822 'Akata March 27, (1854)' ellipse
+1823 'NNM  [Unknown] (1855)' triangle
+1824 'NNM  [Unknown] (1856)' triangle
+1825 'NNM  [Unknown] (1857)' triangle
+1826 'NNM  [Unknown] (1858)' triangle
+1827 'NNM  [Unknown] (1859)' triangle
+1828 'NNM  [Unknown] (1860)' triangle
+1829 'NNM  [Weene  ] (1861)' triangle
+1830 'NNM  [Unknown] (1862)' triangle
+1831 'NNM  [Unknown] (1863)' triangle
+1832 'NNF  [Unknown] (1864)' ellipse
+1833 'Iisi [Tonowas] (1865)' ellipse
+1834 'Amiye (1866)' ellipse
+1835 'AmoraAmoora[T (1867)' ellipse
+1836 'Amiita (1868)' ellipse
+1837 'Mariya (1869)' ellipse
+1838 'Afiyan (1870)' ellipse
+1839 'Samra (1871)' ellipse
+1840 'Akapito (1872)' triangle
+1841 'Finin (1873)' triangle
+1842 'Tenemwas (1874)' triangle
+1843 'Iyosef (1875)' triangle
+1844 'Amariino (1876)' triangle
+1845 'Spencer (1877)' triangle
+1846 'Sopwowu (1878)' ellipse
+1847 'WorimikoNingng (1879)' ellipse
+1848 'Bimeriya (1880)' ellipse
+1849 'Toni (1881)' ellipse
+1850 'Blumeriya (1882)' ellipse
+1851 'Josne(Josue) (1883)' triangle
+1852 'Etiinu  [Wuteet (1884)' triangle
+1853 'Tayiko [Wutee (1885)' ellipse
+1854 'Emeniya (1886)' ellipse
+1855 'Otis[Noosopw] (1887)' triangle
+1856 'SisterMwochuno (1888)' ellipse
+1857 'Chayimen (1889)' triangle
+1858 'Sitiifen    a (1890)' triangle
+1859 'NNM  [Feefen ] (1891)' triangle
+1860 'NNF (1892)' ellipse
+1861 'Mwaan Sapaan (1893)' triangle
+1862 'Teneena (1894)' ellipse
+1863 'Name (1896)' triangle
+1864 'Siita (1898)' ellipse
+1865 'NNM  [Unknown] (1900)' triangle
+1866 'Inepin (1901)' ellipse
+1867 'Chiniina (1902)' ellipse
+1868 'Ariyech (1903)' ellipse
+1869 'Manseni (1904)' ellipse
+1870 'NNF  [Toon] (1905)' ellipse
+1871 'M-Seni (1906)' ellipse
+1872 'Lorenga (1907)' ellipse
+1873 'Nordina (1908)' ellipse
+1874 'Rosa (1909)' ellipse
+1875 'Nikko (1910)' ellipse
+1876 'Katari (1911)' ellipse
+1877 'Naniyomi (1912)' ellipse
+1878 'Iyowana (1913)' ellipse
+1879 'Chimako (1914)' ellipse
+1880 'Martha (1915)' ellipse
+1881 'Neweeyichim (1916)' ellipse
+1882 'Sireena (1917)' ellipse
+1883 'Neyikosu m (1918)' ellipse
+1884 'Fermina (1919)' ellipse
+1885 'Nemesey (1920)' ellipse
+1886 'Surly (1921)' triangle
+1887 'Rentiina (1922)' ellipse
+1888 'Suryichi (1923)' triangle
+1889 'Tona (1924)' ellipse
+1890 'Andurn (1925)' triangle
+1891 'Torfina (1926)' ellipse
+1892 'Davis (1927)' triangle
+1893 'Ricktooniya:Riky (1928)' ellipse
+1894 'Jay (1929)' triangle
+1895 'ySister  m (1930)' ellipse
+1896 'Taylor (1931)' triangle
+1897 'Keneeta (1932)' ellipse
+1898 'Keriina (1933)' ellipse
+1899 'Efniin (1934)' ellipse
+1900 'Emiko (1935)' ellipse
+1901 'Mariya (1936)' ellipse
+1902 'Peesa (1937)' triangle
+1903 'Ermina (1939)' ellipse
+1904 'Maria (1940)' ellipse
+1905 'Niimw (1945)' ellipse
+1906 'NNF [feefen] (1946)' ellipse
+1907 'Ayikichi (1947)' ellipse
+1908 'Marikita (1948)' ellipse
+1909 'Perkiina (1950)' ellipse
+1910 'Moriyan (1951)' ellipse
+1911 'Angkiniina (1960)' ellipse
+1912 'NNF (1970)' ellipse
+1913 'NNF piis (1971)' ellipse
+1914 'NNF toon (1972)' ellipse
+1915 'Sister Piis (1973)' ellipse
+1916 'NNM (1974)' triangle
+1917 'Rosenina (1975)' ellipse
+1918 'Iyasinta (1976)' ellipse
+1919 'Brother (1982)' triangle
+1920 'Fawusta (1984)' ellipse
+1921 'Sister (1985)' ellipse
+1922 'Mento (1986)' ellipse
+1923 'NNM (1990)' triangle
+1924 'Sawako [Tonowas] (1991)' ellipse
+1925 'Nimweyingang [Wee (1992)' ellipse
+1926 'NNM (1993)' triangle
+1927 'NNF (1994)' ellipse
+1928 'NNF, Wteene (1995)' ellipse
+1929 'NNF, Wteene (1996)' ellipse
+1930 'NNM (2000)' triangle
+1931 'Regret Mary (2001)' ellipse
+1932 'Joanita (2002)' ellipse
+1933 'NNF (2010)' ellipse
+1934 'NNF (2103)' ellipse
+1935 'Stephen Dosh (2121)' triangle
+1936 'Marseniina (2124)' ellipse
+1937 'NNM (2200)' triangle
+1938 'NNF (2202)' ellipse
+1939 'Sister (2204)' triangle
+1940 'NNF (2206)' ellipse
+1941 'Sister (2210)' ellipse
+1942 'NNM (2212)' triangle
+1943 'unk parent (2400)' ellipse
+1944 'unk parent (2401)' triangle
+1945 'unk parent (2402)' ellipse
+1946 'unk parent (2403)' triangle
+1947 'unk parent (2404)' ellipse
+1948 'unk parent (2405)' triangle
+1949 'unk parent (2406)' ellipse
+1950 'unk parent (2407)' triangle
+1951 'unknown f parent (2408)' ellipse
+1952 'unknown m parent (2409)' triangle
+1953 'unknown f parent (2410)' ellipse
+1954 'unknown m parent (2411)' triangle
+1955 'unknown f parent (2412)' ellipse
+1956 'unknown m parent (2413)' triangle
+1957 'unknown f parent (2414)' ellipse
+1958 'unknown m parent (2415)' triangle
+1959 'unknown f parent (2416)' ellipse
+1960 'unknown m parent (2417)' triangle
+1961 'unknown f parent (2418)' ellipse
+1962 'unknown m parent (2419)' triangle
+1963 'unknown f parent (2420)' ellipse
+1964 'unknown m parent (2421)' triangle
+1965 'unknown f parent (2422)' ellipse
+1966 'unknown m parent (2423)' triangle
+1967 'unknown f parent (2424)' ellipse
+1968 'unknown m parent (2425)' triangle
+1969 'unknown f parent (2426)' ellipse
+1970 'unknown m parent (2427)' triangle
+1971 'unknown f parent (2428)' ellipse
+1972 'unknown m parent (2429)' triangle
+1973 'unknown f parent (2430)' ellipse
+1974 'unknown m parent (2431)' triangle
+1975 'unknown f parent (2434)' ellipse
+1976 'unknown m parent (2435)' triangle
+1977 'Sister (2500)' ellipse
+1978 'NNM (2501)' triangle
+1979 'ET Saani Irons (2503)' triangle
+1980 'Karumiina (2512)' ellipse
+1981 'unknown f parent (2850)' ellipse
+1982 'unknown m parent (2851)' triangle
+1983 'unk parent (3400)' ellipse
+1984 'unk parent (3401)' triangle
+1985 'unk parent (3402)' ellipse
+1986 'unk parent (3403)' triangle
+1987 'unk parent (3404)' ellipse
+1988 'unk parent (3405)' triangle
+1989 'unk parent (3406)' ellipse
+1990 'unk parent (3407)' triangle
+1991 'unk parent (3408)' ellipse
+1992 'unk parent (3409)' triangle
+1993 'unk parent (3410)' ellipse
+1994 'unk parent (3411)' triangle
+1995 'unk parent (3412)' ellipse
+1996 'unk parent (3413)' triangle
+1997 'unk parent (3414)' ellipse
+1998 'unk parent (3415)' triangle
+1999 'unk parent (3416)' ellipse
+2000 'unk parent (3417)' triangle
+2001 'unk parent (3418)' ellipse
+2002 'unk parent (3419)' triangle
+2003 'unk parent (3420)' ellipse
+2004 'unk parent (3421)' triangle
+2005 'unk parent (3422)' ellipse
+2006 'unk parent (3423)' triangle
+2007 'unk parent (3424)' ellipse
+2008 'unk parent (3425)' triangle
+2009 'unk parent (3428)' ellipse
+2010 'unk parent (3429)' triangle
+2011 'unk parent (3430)' ellipse
+2012 'unk parent (3431)' triangle
+2013 'unk parent (3436)' ellipse
+2014 'unk parent (3437)' triangle
+2015 'unk bro*s wife (3438)' ellipse
+2016 'unk brother (3439)' triangle
+2017 'unk parent (3440)' ellipse
+2018 'unk parent (3441)' triangle
+2019 'unk parent (3442)' ellipse
+2020 'unk parent (3443)' triangle
+2021 'unk parent (3444)' ellipse
+2022 'unk parent (3445)' triangle
+2023 'unk parent (3504)' ellipse
+2024 'unk parent (3505)' triangle
+2025 'unk parent (3600)' ellipse
+2026 'unk parent (3601)' triangle
+2027 'unk parent (3602)' ellipse
+2028 'unk parent (3603)' triangle
+2029 'unk parent (3604)' ellipse
+2030 'unk parent (3605)' triangle
+2031 'unk parent (3700)' ellipse
+2032 'unk parent (3701)' triangle
+2033 'unk parent (3702)' ellipse
+2034 'unk parent (3703)' triangle
+2035 'unk parent (3704)' ellipse
+2036 'unk parent (3705)' triangle
+2037 'unk parent (3800)' ellipse
+2038 'unk parent (3801)' triangle
+2039 'Sister (3802)' ellipse
+2040 'NNM,Weene (3803)' triangle
+2041 'unk parent (3804)' ellipse
+2042 'unk parent (3805)' triangle
+2043 'unk parent (3850)' ellipse
+2044 'unk parent (3851)' triangle
+2045 'unk parent (3900)' ellipse
+2046 'unk parent (3901)' triangle
+2047 'Ruth Goodenough (3902)' ellipse
+2048 'unk parent (3904)' ellipse
+2049 'unk parent (3905)' triangle
+*arcs
+1 2 1
+1 3 1
+2 6 1
+2 5 1
+2 7 1
+2 4 1
+3 8 1
+4 15 1
+4 14 1
+4 13 1
+4 12 1
+5 16 1
+5 17 1
+6 467 1
+6 468 1
+6 466 1
+7 1293 1
+7 1294 1
+7 1292 1
+7 1291 1
+8 19 1
+8 21 1
+8 20 1
+8 18 1
+9 22 1
+10 23 1
+11 492 1
+11 494 1
+11 493 1
+12 24 1
+12 25 1
+12 26 1
+12 27 1
+13 28 1
+13 29 1
+13 30 1
+14 1209 1
+14 1208 1
+15 775 1
+15 774 1
+15 772 1
+15 773 1
+17 1295 1
+17 1296 1
+16 32 1
+16 31 1
+19 39 1
+19 42 1
+19 41 1
+19 40 1
+18 35 1
+18 38 1
+18 33 1
+18 34 1
+18 37 1
+18 36 1
+21 1199 1
+21 1197 1
+21 1196 1
+21 1200 1
+21 1201 1
+21 1198 1
+23 1303 1
+23 1305 1
+23 1299 1
+23 1302 1
+23 1304 1
+23 1306 1
+23 1300 1
+23 1301 1
+22 47 1
+22 45 1
+22 43 1
+22 46 1
+22 44 1
+25 800 1
+25 801 1
+25 799 1
+25 802 1
+25 803 1
+24 48 1
+24 49 1
+27 1743 1
+26 530 1
+29 55 1
+29 54 1
+28 52 1
+28 51 1
+28 50 1
+28 53 1
+31 58 1
+31 56 1
+31 57 1
+31 59 1
+30 522 1
+30 523 1
+30 1883 1
+30 524 1
+34 67 1
+34 65 1
+34 66 1
+34 68 1
+35 69 1
+35 70 1
+32 806 1
+32 807 1
+32 808 1
+32 1881 1
+32 805 1
+33 63 1
+33 60 1
+33 61 1
+33 62 1
+33 64 1
+38 521 1
+39 1759 1
+36 1318 1
+37 818 1
+37 817 1
+37 816 1
+37 819 1
+43 73 1
+43 74 1
+43 75 1
+43 77 1
+43 76 1
+43 71 1
+43 72 1
+46 510 1
+46 509 1
+44 78 1
+44 79 1
+45 783 1
+45 786 1
+45 785 1
+45 784 1
+51 92 1
+50 88 1
+50 89 1
+50 90 1
+50 91 1
+49 1769 1
+49 1768 1
+48 84 1
+48 85 1
+48 86 1
+48 87 1
+48 83 1
+55 1767 1
+54 1329 1
+54 1327 1
+54 1331 1
+54 1330 1
+54 1328 1
+53 1588 1
+53 1587 1
+57 94 1
+56 93 1
+63 99 1
+62 1655 1
+62 1656 1
+62 1654 1
+61 865 1
+61 864 1
+61 867 1
+61 866 1
+60 98 1
+60 95 1
+60 96 1
+60 97 1
+69 100 1
+69 101 1
+71 102 1
+64 549 1
+64 548 1
+64 547 1
+66 1660 1
+66 1659 1
+77 1223 1
+77 1224 1
+79 124 1
+72 106 1
+72 104 1
+72 107 1
+72 105 1
+72 103 1
+73 113 1
+73 109 1
+73 110 1
+73 112 1
+73 108 1
+73 111 1
+74 115 1
+74 114 1
+74 118 1
+74 116 1
+74 117 1
+75 120 1
+75 121 1
+75 123 1
+75 119 1
+75 122 1
+85 132 1
+85 131 1
+85 128 1
+85 129 1
+85 130 1
+84 127 1
+87 917 1
+86 895 1
+86 894 1
+80 126 1
+80 125 1
+95 142 1
+89 135 1
+89 136 1
+88 134 1
+88 133 1
+91 137 1
+91 139 1
+91 141 1
+91 138 1
+91 140 1
+90 862 1
+90 863 1
+106 1231 1
+104 145 1
+104 146 1
+104 144 1
+105 1356 1
+105 1355 1
+105 1357 1
+105 1358 1
+105 1354 1
+119 149 1
+118 1371 1
+118 1369 1
+118 1370 1
+118 1348 1
+118 1349 1
+118 1350 1
+117 1232 1
+117 1236 1
+117 1469 1
+117 1233 1
+117 1234 1
+117 1235 1
+117 1779 1
+116 1670 1
+116 1336 1
+116 1338 1
+116 1340 1
+116 1337 1
+116 1339 1
+114 148 1
+114 147 1
+127 158 1
+127 157 1
+127 159 1
+127 156 1
+125 1669 1
+121 152 1
+121 153 1
+120 150 1
+139 1112 1
+139 1911 1
+139 1111 1
+139 1110 1
+139 1114 1
+139 1113 1
+139 1115 1
+138 194 1
+138 193 1
+138 187 1
+138 192 1
+138 191 1
+138 188 1
+138 189 1
+138 190 1
+141 594 1
+141 595 1
+140 1244 1
+140 1246 1
+140 1249 1
+140 1248 1
+140 1247 1
+140 1252 1
+140 1251 1
+140 1245 1
+140 1243 1
+140 1250 1
+140 1917 1
+129 163 1
+129 170 1
+129 166 1
+129 168 1
+129 165 1
+129 167 1
+129 160 1
+129 162 1
+129 164 1
+129 169 1
+129 161 1
+130 1862 1
+130 173 1
+130 174 1
+130 171 1
+130 175 1
+130 172 1
+132 408 1
+132 409 1
+132 411 1
+132 412 1
+132 407 1
+132 410 1
+135 178 1
+135 179 1
+135 185 1
+135 182 1
+135 180 1
+135 183 1
+135 176 1
+135 181 1
+135 177 1
+135 186 1
+135 184 1
+134 1683 1
+152 197 1
+152 196 1
+152 1863 1
+153 201 1
+153 200 1
+153 205 1
+153 1864 1
+153 206 1
+153 203 1
+153 202 1
+153 204 1
+154 207 1
+157 210 1
+157 213 1
+157 214 1
+157 217 1
+157 211 1
+157 218 1
+157 216 1
+157 215 1
+157 212 1
+158 223 1
+158 222 1
+158 219 1
+158 221 1
+158 220 1
+159 677 1
+159 679 1
+159 674 1
+159 680 1
+159 675 1
+159 681 1
+159 678 1
+159 676 1
+159 1893 1
+144 195 1
+145 178 1
+145 179 1
+145 185 1
+145 182 1
+145 180 1
+145 183 1
+145 181 1
+145 177 1
+145 186 1
+145 184 1
+146 565 1
+146 566 1
+147 294 1
+148 295 1
+148 1492 1
+149 886 1
+149 887 1
+149 890 1
+149 885 1
+149 889 1
+149 892 1
+149 888 1
+149 891 1
+150 660 1
+150 663 1
+150 666 1
+150 658 1
+150 664 1
+150 661 1
+150 659 1
+150 665 1
+150 662 1
+151 1109 1
+171 245 1
+169 1268 1
+169 1270 1
+169 1874 1
+169 1269 1
+168 964 1
+168 1931 1
+168 967 1
+168 966 1
+168 965 1
+163 244 1
+162 242 1
+162 243 1
+162 1871 1
+162 1869 1
+161 1867 1
+161 240 1
+161 238 1
+161 239 1
+161 241 1
+160 225 1
+160 233 1
+160 227 1
+160 230 1
+160 226 1
+160 234 1
+160 237 1
+160 232 1
+160 1903 1
+160 228 1
+160 231 1
+160 224 1
+160 236 1
+160 235 1
+160 229 1
+167 277 1
+167 269 1
+167 271 1
+167 274 1
+167 270 1
+167 268 1
+167 273 1
+167 275 1
+167 276 1
+167 272 1
+165 1685 1
+165 1684 1
+165 1689 1
+165 1691 1
+165 1686 1
+165 1884 1
+165 1688 1
+165 1687 1
+165 1690 1
+165 1692 1
+187 254 1
+187 255 1
+187 257 1
+187 256 1
+190 265 1
+188 260 1
+188 261 1
+188 259 1
+189 264 1
+189 262 1
+189 263 1
+178 249 1
+178 252 1
+178 251 1
+178 250 1
+178 253 1
+178 1875 1
+177 247 1
+177 248 1
+177 246 1
+177 1873 1
+182 1519 1
+182 1882 1
+182 1520 1
+180 1507 1
+180 1501 1
+180 1504 1
+180 1508 1
+180 1505 1
+180 1502 1
+180 1503 1
+180 1506 1
+207 1899 1
+207 1816 1
+207 1815 1
+201 278 1
+200 277 1
+200 269 1
+200 271 1
+200 274 1
+200 270 1
+200 268 1
+200 273 1
+200 275 1
+200 276 1
+200 272 1
+202 279 1
+198 267 1
+198 266 1
+192 1150 1
+220 282 1
+220 281 1
+216 624 1
+216 1012 1
+216 623 1
+217 267 1
+217 266 1
+208 280 1
+209 1030 1
+209 1027 1
+209 1028 1
+209 1029 1
+209 1031 1
+283 6 1
+283 5 1
+283 7 1
+283 4 1
+287 32 1
+287 31 1
+286 23 1
+285 16 1
+285 17 1
+284 8 1
+305 318 1
+304 315 1
+304 317 1
+304 316 1
+319 320 1
+319 321 1
+288 126 1
+288 125 1
+291 264 1
+291 262 1
+291 263 1
+292 279 1
+294 295 1
+296 298 1
+297 142 1
+297 99 1
+298 143 1
+298 300 1
+298 299 1
+298 1879 1
+298 301 1
+302 307 1
+302 309 1
+302 306 1
+302 308 1
+302 310 1
+302 311 1
+303 313 1
+303 314 1
+303 312 1
+343 349 1
+343 346 1
+343 348 1
+343 345 1
+343 347 1
+343 344 1
+336 340 1
+336 339 1
+336 338 1
+336 337 1
+336 342 1
+336 341 1
+351 1700 1
+351 1898 1
+351 1699 1
+350 353 1
+350 354 1
+350 355 1
+350 356 1
+350 352 1
+322 324 1
+322 328 1
+322 333 1
+322 326 1
+322 332 1
+322 325 1
+322 330 1
+322 331 1
+322 323 1
+322 329 1
+322 334 1
+322 327 1
+335 336 1
+373 15 1
+373 14 1
+373 13 1
+373 12 1
+372 1556 1
+372 1557 1
+375 1064 1
+375 1063 1
+374 384 1
+374 383 1
+369 375 1
+369 374 1
+369 376 1
+368 371 1
+368 373 1
+368 372 1
+368 370 1
+371 380 1
+371 382 1
+371 381 1
+370 379 1
+370 378 1
+370 377 1
+381 1188 1
+381 1189 1
+380 387 1
+380 388 1
+380 386 1
+380 385 1
+383 390 1
+383 389 1
+377 757 1
+377 759 1
+377 758 1
+379 1757 1
+379 1758 1
+379 1755 1
+379 1756 1
+378 477 1
+378 478 1
+378 474 1
+378 475 1
+378 473 1
+378 472 1
+378 476 1
+358 1132 1
+358 1133 1
+359 245 1
+360 361 1
+363 364 1
+363 365 1
+410 1153 1
+410 1152 1
+410 1151 1
+414 417 1
+414 418 1
+414 416 1
+415 419 1
+412 582 1
+413 1517 1
+413 1518 1
+413 1516 1
+402 403 1
+403 1129 1
+403 1130 1
+401 1099 1
+401 1128 1
+401 1125 1
+401 1126 1
+401 1127 1
+401 1097 1
+401 1102 1
+401 1098 1
+406 408 1
+406 409 1
+406 411 1
+406 412 1
+406 407 1
+406 410 1
+395 390 1
+395 389 1
+394 384 1
+394 383 1
+393 379 1
+393 378 1
+393 377 1
+392 375 1
+392 374 1
+392 376 1
+391 371 1
+391 373 1
+391 372 1
+391 370 1
+390 1572 1
+390 1571 1
+390 1573 1
+389 798 1
+389 797 1
+440 1037 1
+440 1038 1
+440 1036 1
+440 1035 1
+441 470 1
+441 471 1
+442 444 1
+443 445 1
+444 479 1
+445 446 1
+447 444 1
+438 427 1
+439 195 1
+425 421 1
+425 420 1
+424 419 1
+427 429 1
+427 430 1
+427 428 1
+427 435 1
+427 437 1
+427 434 1
+427 433 1
+427 436 1
+427 432 1
+427 431 1
+426 427 1
+419 422 1
+419 421 1
+419 423 1
+419 420 1
+479 88 1
+474 861 1
+475 868 1
+472 485 1
+472 484 1
+473 93 1
+473 124 1
+470 481 1
+470 479 1
+470 482 1
+470 483 1
+470 480 1
+471 1632 1
+468 791 1
+468 793 1
+468 792 1
+468 790 1
+469 477 1
+469 478 1
+469 474 1
+469 475 1
+469 473 1
+469 472 1
+469 476 1
+466 469 1
+466 470 1
+466 471 1
+467 756 1
+467 755 1
+467 754 1
+465 467 1
+465 468 1
+465 466 1
+463 462 1
+463 460 1
+463 461 1
+459 462 1
+459 460 1
+459 461 1
+458 459 1
+451 1586 1
+451 1585 1
+449 446 1
+448 445 1
+508 854 1
+508 855 1
+509 530 1
+511 531 1
+511 532 1
+511 533 1
+504 829 1
+504 830 1
+504 828 1
+505 521 1
+506 522 1
+506 523 1
+506 1883 1
+506 524 1
+507 529 1
+507 525 1
+507 526 1
+507 527 1
+507 528 1
+500 514 1
+500 515 1
+501 517 1
+501 516 1
+501 518 1
+501 519 1
+502 520 1
+503 1620 1
+503 1626 1
+503 1625 1
+503 1621 1
+503 1623 1
+503 1622 1
+503 1624 1
+496 1205 1
+496 1204 1
+496 1206 1
+497 510 1
+497 509 1
+498 770 1
+498 771 1
+499 513 1
+499 512 1
+499 511 1
+493 508 1
+493 505 1
+493 506 1
+493 507 1
+492 503 1
+492 504 1
+492 502 1
+492 500 1
+492 501 1
+495 777 1
+495 776 1
+494 779 1
+494 778 1
+494 780 1
+489 497 1
+489 498 1
+488 496 1
+488 495 1
+491 1606 1
+491 1605 1
+491 1609 1
+491 1608 1
+491 1604 1
+491 1607 1
+490 499 1
+485 999 1
+485 998 1
+485 1002 1
+485 1500 1
+485 1499 1
+485 1000 1
+485 997 1
+485 996 1
+485 1001 1
+484 564 1
+484 918 1
+487 492 1
+487 494 1
+487 493 1
+486 491 1
+486 489 1
+486 490 1
+486 487 1
+486 488 1
+483 89 1
+483 90 1
+483 91 1
+550 565 1
+550 564 1
+550 566 1
+551 197 1
+551 196 1
+551 1863 1
+551 941 1
+548 563 1
+549 1368 1
+549 1362 1
+549 1365 1
+549 1364 1
+549 1367 1
+549 1363 1
+549 1366 1
+546 158 1
+546 157 1
+546 159 1
+546 156 1
+547 562 1
+544 1671 1
+545 1772 1
+545 1496 1
+545 1775 1
+545 1497 1
+545 1773 1
+545 1776 1
+545 1774 1
+558 491 1
+558 489 1
+558 490 1
+558 487 1
+558 488 1
+559 499 1
+556 568 1
+556 569 1
+556 570 1
+557 1498 1
+554 644 1
+554 645 1
+555 590 1
+555 587 1
+555 588 1
+555 585 1
+555 584 1
+555 586 1
+555 589 1
+553 567 1
+567 988 1
+567 985 1
+567 989 1
+567 1932 1
+567 993 1
+567 994 1
+567 990 1
+567 984 1
+567 987 1
+567 992 1
+567 991 1
+567 986 1
+564 574 1
+564 571 1
+564 572 1
+564 573 1
+563 1383 1
+563 1380 1
+563 1381 1
+563 1378 1
+563 1385 1
+563 1382 1
+563 1384 1
+563 1379 1
+562 949 1
+562 947 1
+562 943 1
+562 950 1
+562 948 1
+562 951 1
+562 944 1
+562 945 1
+562 946 1
+561 553 1
+575 582 1
+569 1418 1
+569 1419 1
+569 1417 1
+568 579 1
+568 576 1
+568 575 1
+568 580 1
+568 577 1
+568 581 1
+568 578 1
+516 534 1
+517 100 1
+517 101 1
+518 1341 1
+518 880 1
+518 881 1
+519 1589 1
+512 1316 1
+512 1317 1
+512 1315 1
+512 842 1
+512 841 1
+514 1347 1
+514 1346 1
+524 1576 1
+524 856 1
+524 1577 1
+524 857 1
+520 1777 1
+521 879 1
+522 535 1
+522 536 1
+522 537 1
+522 538 1
+523 539 1
+533 541 1
+533 546 1
+533 542 1
+533 544 1
+533 543 1
+533 545 1
+532 1666 1
+535 1885 1
+535 550 1
+535 552 1
+535 551 1
+534 549 1
+534 548 1
+534 547 1
+531 540 1
+530 1665 1
+540 556 1
+543 875 1
+543 877 1
+543 874 1
+543 876 1
+537 1584 1
+537 1582 1
+537 1583 1
+536 554 1
+536 553 1
+536 555 1
+539 1664 1
+539 1663 1
+538 1075 1
+610 1107 1
+610 1108 1
+610 1105 1
+610 1106 1
+608 143 1
+608 300 1
+608 299 1
+608 1879 1
+608 301 1
+612 616 1
+612 617 1
+612 619 1
+612 615 1
+612 622 1
+612 1889 1
+612 620 1
+612 618 1
+612 614 1
+612 621 1
+612 613 1
+613 625 1
+613 624 1
+613 623 1
+613 627 1
+613 626 1
+619 649 1
+619 648 1
+619 647 1
+619 650 1
+631 632 1
+631 638 1
+631 634 1
+631 637 1
+631 633 1
+631 635 1
+631 636 1
+629 939 1
+629 940 1
+629 938 1
+628 1405 1
+628 1401 1
+628 1404 1
+628 1403 1
+628 1402 1
+628 1400 1
+628 1399 1
+628 1398 1
+639 640 1
+583 590 1
+583 587 1
+583 588 1
+583 585 1
+583 584 1
+583 586 1
+583 589 1
+587 1694 1
+587 1693 1
+592 593 1
+592 594 1
+592 595 1
+597 599 1
+597 598 1
+600 603 1
+600 601 1
+600 602 1
+605 1137 1
+605 1135 1
+605 1134 1
+605 1136 1
+604 1192 1
+604 1195 1
+604 1194 1
+604 1190 1
+604 1191 1
+604 1193 1
+607 417 1
+607 418 1
+607 416 1
+606 429 1
+606 430 1
+606 428 1
+606 435 1
+606 437 1
+606 434 1
+606 433 1
+606 436 1
+606 432 1
+606 431 1
+687 693 1
+687 694 1
+687 696 1
+687 695 1
+687 692 1
+686 691 1
+686 690 1
+686 688 1
+686 687 1
+686 689 1
+685 682 1
+684 667 1
+684 668 1
+702 701 1
+703 706 1
+703 705 1
+700 701 1
+701 1140 1
+701 1909 1
+701 1139 1
+698 699 1
+697 693 1
+697 694 1
+697 696 1
+697 695 1
+697 692 1
+652 660 1
+652 663 1
+652 666 1
+652 658 1
+652 664 1
+652 661 1
+652 659 1
+652 665 1
+652 662 1
+651 652 1
+651 653 1
+651 655 1
+651 657 1
+651 654 1
+651 656 1
+645 1149 1
+645 1148 1
+646 649 1
+646 648 1
+646 647 1
+646 650 1
+641 640 1
+640 1521 1
+640 1523 1
+640 1522 1
+643 644 1
+643 645 1
+642 364 1
+660 682 1
+661 1535 1
+661 1539 1
+661 1538 1
+661 1540 1
+661 1534 1
+661 219 1
+661 1536 1
+661 1533 1
+661 1537 1
+662 962 1
+662 959 1
+662 963 1
+662 958 1
+662 960 1
+662 961 1
+663 242 1
+663 243 1
+663 1871 1
+663 1869 1
+658 673 1
+658 672 1
+658 667 1
+658 670 1
+658 671 1
+658 668 1
+658 669 1
+658 1891 1
+659 677 1
+659 679 1
+659 674 1
+659 680 1
+659 675 1
+659 681 1
+659 678 1
+659 676 1
+659 1893 1
+746 1752 1
+746 1753 1
+745 775 1
+745 774 1
+745 772 1
+745 773 1
+744 770 1
+744 771 1
+751 78 1
+751 79 1
+750 1748 1
+750 1747 1
+750 1749 1
+749 1217 1
+748 779 1
+748 777 1
+748 778 1
+748 780 1
+748 776 1
+739 760 1
+738 1566 1
+738 1567 1
+737 1615 1
+737 1616 1
+736 24 1
+736 25 1
+736 26 1
+736 27 1
+743 503 1
+743 504 1
+743 502 1
+743 500 1
+743 501 1
+742 513 1
+742 512 1
+742 511 1
+741 767 1
+741 768 1
+741 766 1
+741 769 1
+740 763 1
+740 764 1
+740 765 1
+762 1210 1
+762 1211 1
+762 1310 1
+762 1311 1
+763 798 1
+763 797 1
+760 796 1
+760 795 1
+760 794 1
+761 469 1
+766 804 1
+767 806 1
+767 807 1
+767 808 1
+767 1881 1
+767 805 1
+764 800 1
+764 801 1
+764 799 1
+764 802 1
+764 803 1
+765 1215 1
+765 1216 1
+765 1214 1
+754 782 1
+754 781 1
+755 783 1
+755 786 1
+755 785 1
+755 784 1
+752 508 1
+752 505 1
+752 506 1
+752 507 1
+753 1740 1
+753 1739 1
+758 1619 1
+759 39 1
+759 42 1
+759 41 1
+759 40 1
+756 789 1
+756 788 1
+756 787 1
+757 791 1
+757 793 1
+757 792 1
+757 790 1
+713 1512 1
+713 1513 1
+715 1549 1
+715 1548 1
+714 55 1
+714 54 1
+717 718 1
+717 720 1
+717 723 1
+717 722 1
+717 721 1
+717 719 1
+719 731 1
+719 732 1
+719 730 1
+718 728 1
+718 727 1
+718 729 1
+705 1084 1
+705 1905 1
+704 707 1
+707 708 1
+706 361 1
+708 709 1
+728 745 1
+728 747 1
+728 746 1
+728 744 1
+729 380 1
+729 382 1
+729 381 1
+730 751 1
+730 748 1
+730 750 1
+730 749 1
+731 753 1
+731 752 1
+732 1613 1
+732 1612 1
+732 1614 1
+732 1611 1
+732 1610 1
+733 756 1
+733 755 1
+733 754 1
+734 60 1
+734 61 1
+734 62 1
+734 28 1
+734 29 1
+734 30 1
+735 757 1
+735 759 1
+735 758 1
+720 734 1
+720 733 1
+722 19 1
+722 21 1
+722 20 1
+722 18 1
+723 22 1
+724 735 1
+724 737 1
+724 736 1
+724 738 1
+725 739 1
+725 1895 1
+726 1178 1
+726 1179 1
+727 741 1
+727 742 1
+727 740 1
+727 743 1
+821 862 1
+821 863 1
+820 861 1
+823 485 1
+822 865 1
+822 864 1
+822 867 1
+822 866 1
+817 1760 1
+817 1761 1
+817 365 1
+817 1762 1
+816 859 1
+816 860 1
+819 106 1
+819 104 1
+819 107 1
+819 105 1
+819 103 1
+818 130 1
+818 1646 1
+818 1645 1
+818 1647 1
+818 1644 1
+829 134 1
+829 133 1
+830 148 1
+825 98 1
+825 95 1
+825 96 1
+825 97 1
+824 868 1
+827 1770 1
+826 869 1
+826 870 1
+804 1653 1
+804 1649 1
+804 1652 1
+804 1651 1
+804 1648 1
+804 1650 1
+805 854 1
+805 855 1
+806 1643 1
+806 1641 1
+806 1642 1
+807 1343 1
+807 1344 1
+800 849 1
+800 848 1
+801 851 1
+801 850 1
+802 852 1
+802 853 1
+803 1213 1
+803 1212 1
+812 856 1
+812 857 1
+813 858 1
+815 554 1
+815 555 1
+808 135 1
+808 136 1
+791 842 1
+791 841 1
+790 837 1
+790 838 1
+790 840 1
+790 836 1
+790 839 1
+790 835 1
+788 832 1
+788 834 1
+788 833 1
+788 831 1
+787 829 1
+787 830 1
+787 828 1
+786 94 1
+784 826 1
+784 827 1
+799 845 1
+799 847 1
+799 846 1
+797 1326 1
+797 1323 1
+797 1325 1
+797 1324 1
+796 1638 1
+796 1637 1
+795 1307 1
+795 1309 1
+795 1308 1
+794 843 1
+794 844 1
+793 63 1
+793 64 1
+792 115 1
+792 114 1
+792 118 1
+792 116 1
+792 117 1
+773 815 1
+773 813 1
+773 812 1
+773 814 1
+770 102 1
+771 1222 1
+771 1221 1
+768 811 1
+768 810 1
+768 809 1
+769 529 1
+769 525 1
+769 526 1
+769 527 1
+769 528 1
+782 92 1
+783 825 1
+783 824 1
+780 821 1
+780 823 1
+780 822 1
+779 820 1
+776 818 1
+776 817 1
+776 816 1
+776 819 1
+777 67 1
+777 65 1
+777 66 1
+777 68 1
+881 336 1
+881 1792 1
+881 1791 1
+881 1793 1
+880 917 1
+880 918 1
+882 919 1
+882 921 1
+882 920 1
+885 934 1
+885 932 1
+885 931 1
+885 937 1
+885 933 1
+885 936 1
+885 935 1
+884 924 1
+884 922 1
+884 925 1
+884 928 1
+884 927 1
+884 930 1
+884 926 1
+884 929 1
+884 923 1
+887 1527 1
+887 1529 1
+887 1530 1
+887 1528 1
+887 1531 1
+887 1526 1
+886 939 1
+886 940 1
+886 938 1
+889 1695 1
+889 1886 1
+889 1697 1
+889 1888 1
+889 1696 1
+889 1892 1
+889 1698 1
+889 1894 1
+889 1896 1
+889 1890 1
+891 579 1
+891 580 1
+891 581 1
+890 1019 1
+890 1020 1
+890 1802 1
+893 942 1
+893 941 1
+892 603 1
+892 601 1
+892 602 1
+892 280 1
+895 1794 1
+895 1800 1
+895 1796 1
+895 1798 1
+895 1795 1
+895 1876 1
+895 1797 1
+895 1801 1
+895 1799 1
+867 1491 1
+867 1490 1
+869 886 1
+869 887 1
+869 890 1
+869 885 1
+869 889 1
+869 892 1
+869 888 1
+869 891 1
+871 893 1
+872 895 1
+872 894 1
+874 899 1
+874 907 1
+874 902 1
+874 906 1
+874 901 1
+874 898 1
+874 900 1
+874 904 1
+874 897 1
+874 905 1
+874 896 1
+874 903 1
+876 1388 1
+876 1390 1
+876 1878 1
+876 1377 1
+876 1389 1
+876 1387 1
+876 1386 1
+876 1391 1
+877 201 1
+877 200 1
+877 205 1
+877 1864 1
+877 206 1
+877 203 1
+877 202 1
+877 204 1
+878 909 1
+878 915 1
+878 914 1
+878 916 1
+878 913 1
+878 910 1
+878 908 1
+878 912 1
+878 911 1
+851 880 1
+851 879 1
+851 881 1
+850 878 1
+849 1351 1
+849 1353 1
+849 539 1
+849 1352 1
+848 875 1
+848 877 1
+848 874 1
+848 876 1
+854 1778 1
+852 883 1
+852 882 1
+856 884 1
+860 147 1
+833 127 1
+838 113 1
+838 109 1
+838 110 1
+838 112 1
+838 108 1
+838 111 1
+837 120 1
+837 121 1
+837 123 1
+837 119 1
+837 122 1
+842 84 1
+842 85 1
+842 86 1
+842 87 1
+842 83 1
+846 556 1
+844 1333 1
+844 1334 1
+844 1332 1
+844 1335 1
+845 871 1
+845 872 1
+845 873 1
+946 625 1
+946 627 1
+946 626 1
+941 1016 1
+941 1014 1
+941 1019 1
+941 1021 1
+941 1018 1
+941 1020 1
+941 1017 1
+941 1015 1
+941 1022 1
+941 1013 1
+924 1012 1
+918 1008 1
+918 1009 1
+919 1010 1
+919 1011 1
+916 1059 1
+914 999 1
+914 998 1
+914 1002 1
+914 1000 1
+914 995 1
+914 997 1
+914 996 1
+914 1001 1
+915 1007 1
+915 1003 1
+915 1004 1
+915 1006 1
+915 1005 1
+912 981 1
+912 975 1
+912 976 1
+912 983 1
+912 982 1
+912 979 1
+912 980 1
+912 977 1
+912 978 1
+913 988 1
+913 985 1
+913 989 1
+913 1932 1
+913 993 1
+913 994 1
+913 990 1
+913 984 1
+913 987 1
+913 992 1
+913 991 1
+913 986 1
+911 207 1
+908 974 1
+908 969 1
+908 971 1
+908 970 1
+908 968 1
+908 972 1
+908 973 1
+903 244 1
+903 1147 1
+902 1142 1
+902 1910 1
+902 1141 1
+902 1145 1
+902 1144 1
+902 1143 1
+901 324 1
+901 328 1
+901 333 1
+901 326 1
+901 332 1
+901 325 1
+901 330 1
+901 331 1
+901 323 1
+901 329 1
+901 334 1
+901 327 1
+900 964 1
+900 1931 1
+900 967 1
+900 966 1
+900 965 1
+899 962 1
+899 959 1
+899 963 1
+899 958 1
+899 960 1
+899 961 1
+898 1887 1
+898 955 1
+898 1904 1
+898 957 1
+898 954 1
+898 953 1
+898 952 1
+898 956 1
+897 949 1
+897 947 1
+897 943 1
+897 950 1
+897 948 1
+897 951 1
+897 944 1
+897 945 1
+897 946 1
+896 225 1
+896 233 1
+896 227 1
+896 230 1
+896 226 1
+896 234 1
+896 237 1
+896 232 1
+896 1903 1
+896 228 1
+896 231 1
+896 224 1
+896 236 1
+896 235 1
+896 229 1
+1016 265 1
+1013 1037 1
+1013 1038 1
+1013 1036 1
+1013 1035 1
+1014 1039 1
+996 1034 1
+984 1032 1
+984 1033 1
+988 1274 1
+988 1275 1
+988 1273 1
+968 1023 1
+968 1026 1
+968 1024 1
+968 1025 1
+975 1030 1
+975 1027 1
+975 1028 1
+975 1029 1
+975 1031 1
+1100 1128 1
+1100 1125 1
+1100 1126 1
+1100 1127 1
+1101 1129 1
+1101 1130 1
+1102 1131 1
+1103 1132 1
+1103 1133 1
+1096 210 1
+1096 213 1
+1096 214 1
+1096 217 1
+1096 211 1
+1096 218 1
+1096 216 1
+1096 215 1
+1096 212 1
+1092 1361 1
+1092 1359 1
+1092 1360 1
+1093 1112 1
+1093 1911 1
+1093 1111 1
+1093 1110 1
+1093 1114 1
+1093 1113 1
+1093 1109 1
+1093 1115 1
+1095 1117 1
+1095 1121 1
+1095 1118 1
+1095 1124 1
+1095 1116 1
+1095 1122 1
+1095 1908 1
+1095 1123 1
+1095 1936 1
+1095 1120 1
+1095 1119 1
+1088 1811 1
+1088 163 1
+1088 170 1
+1088 166 1
+1088 168 1
+1088 165 1
+1088 167 1
+1088 160 1
+1088 162 1
+1088 164 1
+1088 169 1
+1088 161 1
+1089 1479 1
+1089 1489 1
+1089 1477 1
+1089 1476 1
+1089 1482 1
+1089 1486 1
+1089 1478 1
+1089 1487 1
+1089 1488 1
+1089 1481 1
+1089 1480 1
+1089 1484 1
+1089 1483 1
+1089 1485 1
+1090 1104 1
+1090 1103 1
+1090 1107 1
+1090 1108 1
+1090 1105 1
+1090 1106 1
+1091 568 1
+1091 569 1
+1091 570 1
+1117 1149 1
+1117 1148 1
+1116 1146 1
+1116 1147 1
+1118 1150 1
+1113 254 1
+1113 255 1
+1113 257 1
+1113 256 1
+1112 1254 1
+1112 1256 1
+1112 1261 1
+1112 1257 1
+1112 1260 1
+1112 1262 1
+1112 1872 1
+1112 1255 1
+1112 1259 1
+1112 1253 1
+1112 1258 1
+1115 1822 1
+1114 1267 1
+1114 1266 1
+1114 1264 1
+1114 1265 1
+1114 1263 1
+1109 1137 1
+1109 1138 1
+1109 1135 1
+1109 1134 1
+1109 1140 1
+1109 1909 1
+1109 1136 1
+1109 1139 1
+1110 1142 1
+1110 1910 1
+1110 1141 1
+1110 1145 1
+1110 1144 1
+1110 1143 1
+1104 1704 1
+1104 1701 1
+1104 1702 1
+1104 1900 1
+1104 1703 1
+1134 1153 1
+1134 1152 1
+1134 1151 1
+1135 1154 1
+1120 1545 1
+1120 1544 1
+1120 1546 1
+1049 811 1
+1049 810 1
+1049 809 1
+1053 1022 1
+1052 1010 1
+1052 1011 1
+1055 1034 1
+1054 1023 1
+1054 1026 1
+1054 1024 1
+1054 1025 1
+1041 718 1
+1041 720 1
+1041 723 1
+1041 722 1
+1041 721 1
+1041 719 1
+1043 739 1
+1043 1895 1
+1042 735 1
+1042 737 1
+1042 736 1
+1042 738 1
+1045 745 1
+1045 747 1
+1045 746 1
+1045 744 1
+1044 741 1
+1044 742 1
+1044 740 1
+1044 743 1
+1066 1072 1
+1067 789 1
+1067 788 1
+1067 787 1
+1064 1738 1
+1064 1736 1
+1064 1737 1
+1065 1071 1
+1070 517 1
+1070 1321 1
+1070 516 1
+1070 518 1
+1070 519 1
+1071 1312 1
+1068 1313 1
+1068 1314 1
+1058 1059 1
+1056 1039 1
+1062 1734 1
+1062 1735 1
+1063 1068 1
+1063 1067 1
+1063 1065 1
+1063 1066 1
+1063 1070 1
+1063 1069 1
+1061 1064 1
+1061 1063 1
+1083 1084 1
+1083 1905 1
+1082 1008 1
+1082 1009 1
+1081 1376 1
+1081 1373 1
+1081 1980 1
+1081 1375 1
+1081 1374 1
+1081 1372 1
+1080 1081 1
+1086 1100 1
+1086 1102 1
+1086 1101 1
+1085 1099 1
+1085 1097 1
+1085 1098 1
+1084 1086 1
+1084 1085 1
+1084 1089 1
+1084 1088 1
+1084 1087 1
+1074 132 1
+1074 131 1
+1073 1075 1
+1072 1074 1
+1072 1073 1
+1077 1078 1
+1077 1662 1
+1076 1072 1
+1223 1230 1
+1222 563 1
+1222 562 1
+1218 851 1
+1218 850 1
+1228 915 1
+1228 914 1
+1228 913 1
+1228 884 1
+1228 912 1
+1231 194 1
+1231 193 1
+1231 187 1
+1231 192 1
+1231 191 1
+1231 188 1
+1231 189 1
+1231 190 1
+1230 1786 1
+1230 1785 1
+1230 1783 1
+1230 1781 1
+1230 1784 1
+1230 1782 1
+1230 1780 1
+1225 1231 1
+1226 1232 1
+1226 1236 1
+1226 1233 1
+1226 1234 1
+1226 1235 1
+1236 1138 1
+1237 1267 1
+1237 1266 1
+1237 1264 1
+1237 1265 1
+1237 1263 1
+1238 1268 1
+1238 1270 1
+1238 1874 1
+1238 1269 1
+1239 1271 1
+1232 1238 1
+1232 1237 1
+1232 1242 1
+1232 1240 1
+1232 1241 1
+1232 1239 1
+1233 1244 1
+1233 1246 1
+1233 1249 1
+1233 1248 1
+1233 1247 1
+1233 1252 1
+1233 1251 1
+1233 1245 1
+1233 1243 1
+1233 1250 1
+1233 1917 1
+1234 1254 1
+1234 1256 1
+1234 1261 1
+1234 1257 1
+1234 1260 1
+1234 1262 1
+1234 1872 1
+1234 1255 1
+1234 1259 1
+1234 1253 1
+1234 1258 1
+1235 1818 1
+1235 1819 1
+1235 576 1
+1235 575 1
+1235 1901 1
+1235 577 1
+1235 578 1
+1246 1821 1
+1246 1820 1
+1240 1272 1
+1241 1813 1
+1241 1021 1
+1241 1812 1
+1243 1274 1
+1243 1275 1
+1243 1273 1
+1257 1032 1
+1257 1033 1
+1278 1181 1
+1279 1185 1
+1279 1184 1
+1276 1175 1
+1276 1177 1
+1276 1174 1
+1276 1176 1
+1277 1180 1
+1155 1090 1
+1155 1091 1
+1155 1086 1
+1155 1161 1
+1155 1085 1
+1155 1088 1
+1155 1087 1
+1155 1092 1
+1157 1100 1
+1157 1101 1
+1156 1471 1
+1156 1472 1
+1156 1473 1
+1159 1154 1
+1158 1131 1
+1160 1161 1
+1163 1166 1
+1168 1229 1
+1168 1228 1
+1170 1175 1
+1170 1177 1
+1170 1174 1
+1170 1176 1
+1171 734 1
+1171 733 1
+1172 1178 1
+1172 1179 1
+1173 1180 1
+1174 1181 1
+1175 1183 1
+1175 1182 1
+1176 1733 1
+1176 1731 1
+1176 1732 1
+1177 1633 1
+1178 1185 1
+1178 1184 1
+1179 497 1
+1179 498 1
+1180 1186 1
+1181 1188 1
+1181 1189 1
+1182 1192 1
+1182 1195 1
+1182 1194 1
+1182 1190 1
+1182 1191 1
+1182 1193 1
+1183 69 1
+1183 70 1
+1187 1205 1
+1187 1204 1
+1187 1206 1
+1186 1203 1
+1186 1202 1
+1185 837 1
+1185 838 1
+1185 840 1
+1185 836 1
+1185 839 1
+1185 835 1
+1184 1199 1
+1184 1197 1
+1184 1196 1
+1184 1200 1
+1184 1201 1
+1184 1198 1
+1191 1209 1
+1191 1208 1
+1190 1207 1
+1189 845 1
+1189 847 1
+1189 846 1
+1188 849 1
+1188 848 1
+1195 826 1
+1195 827 1
+1194 1746 1
+1194 1745 1
+1193 52 1
+1193 51 1
+1193 50 1
+1193 53 1
+1192 843 1
+1192 844 1
+1192 48 1
+1192 49 1
+1199 1217 1
+1198 1215 1
+1198 1216 1
+1198 1214 1
+1197 1213 1
+1197 1212 1
+1196 1210 1
+1196 1211 1
+1202 1218 1
+1202 1219 1
+1203 58 1
+1203 56 1
+1203 57 1
+1203 59 1
+1200 825 1
+1200 824 1
+1201 1074 1
+1201 1073 1
+1206 815 1
+1206 813 1
+1206 812 1
+1206 814 1
+1207 832 1
+1207 834 1
+1207 833 1
+1207 831 1
+1204 1220 1
+1210 1223 1
+1210 1224 1
+1211 1578 1
+1211 1579 1
+1208 1222 1
+1208 1221 1
+1215 1885 1
+1215 550 1
+1215 552 1
+1215 551 1
+1212 1225 1
+1212 1227 1
+1212 1226 1
+1212 1868 1
+1372 1918 1
+1372 1424 1
+1372 1425 1
+1371 1809 1
+1371 1803 1
+1371 1810 1
+1371 1805 1
+1371 1804 1
+1371 1807 1
+1371 1808 1
+1371 1806 1
+1370 1423 1
+1370 1421 1
+1370 1422 1
+1370 1420 1
+1369 1418 1
+1369 1419 1
+1369 1417 1
+1367 1887 1
+1367 955 1
+1367 1904 1
+1367 957 1
+1367 954 1
+1367 953 1
+1367 952 1
+1367 956 1
+1366 1416 1
+1366 1415 1
+1366 1414 1
+1365 1406 1
+1365 1412 1
+1365 1880 1
+1365 1409 1
+1365 1410 1
+1365 1408 1
+1365 1407 1
+1365 1413 1
+1365 1411 1
+1364 1397 1
+1364 1405 1
+1364 1401 1
+1364 1404 1
+1364 1403 1
+1364 1402 1
+1364 1400 1
+1364 1399 1
+1364 1398 1
+1363 1395 1
+1363 1393 1
+1363 1396 1
+1363 1394 1
+1363 1392 1
+1362 1388 1
+1362 1390 1
+1362 1878 1
+1362 1389 1
+1362 1387 1
+1362 1386 1
+1362 1391 1
+1361 1444 1
+1361 1442 1
+1361 1443 1
+1360 934 1
+1360 932 1
+1360 931 1
+1360 937 1
+1360 933 1
+1360 936 1
+1360 935 1
+1358 340 1
+1358 339 1
+1358 338 1
+1358 337 1
+1358 342 1
+1358 341 1
+1359 1383 1
+1359 1380 1
+1359 1381 1
+1359 1378 1
+1359 1385 1
+1359 1382 1
+1359 1384 1
+1359 1379 1
+1356 1494 1
+1356 176 1
+1356 1493 1
+1356 1495 1
+1354 1377 1
+1351 1790 1
+1351 1789 1
+1351 1787 1
+1351 1788 1
+1348 1376 1
+1348 1373 1
+1348 1980 1
+1348 1375 1
+1348 1374 1
+1348 1372 1
+1346 1371 1
+1346 1369 1
+1346 1370 1
+1347 1678 1
+1347 1680 1
+1347 1681 1
+1347 1679 1
+1347 1682 1
+1392 1428 1
+1388 1511 1
+1388 1510 1
+1388 1509 1
+1389 574 1
+1389 571 1
+1389 572 1
+1389 573 1
+1386 1427 1
+1386 1426 1
+1376 349 1
+1376 346 1
+1376 348 1
+1376 345 1
+1376 347 1
+1376 344 1
+1377 1867 1
+1377 240 1
+1377 238 1
+1377 239 1
+1377 241 1
+1307 1319 1
+1307 1320 1
+1306 1765 1
+1306 1766 1
+1306 1763 1
+1306 1764 1
+1305 1751 1
+1305 1750 1
+1304 540 1
+1311 1639 1
+1311 1640 1
+1310 1322 1
+1310 1321 1
+1309 541 1
+1309 546 1
+1309 542 1
+1309 544 1
+1309 543 1
+1309 545 1
+1308 535 1
+1308 536 1
+1308 537 1
+1308 538 1
+1297 1313 1
+1297 1314 1
+1296 1635 1
+1296 1634 1
+1296 1636 1
+1303 1628 1
+1303 1631 1
+1303 1629 1
+1303 1630 1
+1303 1627 1
+1301 1318 1
+1300 1316 1
+1300 1317 1
+1300 1315 1
+1290 1298 1
+1290 1297 1
+1291 1303 1
+1291 1305 1
+1291 1299 1
+1291 1302 1
+1291 1304 1
+1291 1306 1
+1291 1300 1
+1291 1301 1
+1288 1293 1
+1288 1294 1
+1288 1292 1
+1288 1291 1
+1289 1295 1
+1289 1296 1
+1294 47 1
+1294 45 1
+1294 43 1
+1294 46 1
+1294 44 1
+1295 1312 1
+1292 1307 1
+1292 1309 1
+1292 1308 1
+1293 1310 1
+1293 1311 1
+1282 1207 1
+1283 1218 1
+1283 1219 1
+1280 1186 1
+1281 1203 1
+1281 1202 1
+1286 1272 1
+1284 1220 1
+1285 1271 1
+1337 1470 1
+1336 1368 1
+1336 1362 1
+1336 1365 1
+1336 1364 1
+1336 1367 1
+1336 1363 1
+1336 1366 1
+1339 1862 1
+1339 173 1
+1339 174 1
+1339 171 1
+1339 175 1
+1339 172 1
+1340 459 1
+1329 1351 1
+1329 1353 1
+1329 1348 1
+1329 1349 1
+1329 1352 1
+1329 1350 1
+1328 1347 1
+1328 1346 1
+1331 403 1
+1333 1361 1
+1333 1359 1
+1333 1360 1
+1332 1356 1
+1332 1355 1
+1332 1357 1
+1332 1358 1
+1332 1354 1
+1335 924 1
+1335 925 1
+1335 928 1
+1335 927 1
+1335 930 1
+1335 926 1
+1335 929 1
+1320 878 1
+1321 1342 1
+1322 1343 1
+1322 1344 1
+1326 1466 1
+1326 1920 1
+1326 1462 1
+1326 1461 1
+1326 1459 1
+1326 1464 1
+1326 1468 1
+1326 1465 1
+1326 1467 1
+1326 1460 1
+1326 1463 1
+1326 1458 1
+1327 1345 1
+1312 1326 1
+1312 1323 1
+1312 1325 1
+1312 1324 1
+1313 1329 1
+1313 1327 1
+1313 1331 1
+1313 1330 1
+1313 1328 1
+1314 1657 1
+1314 1658 1
+1315 1333 1
+1315 1334 1
+1315 1332 1
+1315 1335 1
+1316 1336 1
+1316 1338 1
+1316 1340 1
+1316 1337 1
+1316 1339 1
+1317 145 1
+1317 146 1
+1317 144 1
+1319 1341 1
+1495 699 1
+1493 1512 1
+1493 1513 1
+1490 249 1
+1490 252 1
+1490 251 1
+1490 250 1
+1490 253 1
+1490 1875 1
+1491 599 1
+1491 598 1
+1500 1521 1
+1500 1523 1
+1500 1522 1
+1498 1517 1
+1498 1518 1
+1498 1516 1
+1499 1519 1
+1499 1882 1
+1499 1520 1
+1496 1514 1
+1496 1515 1
+1478 1511 1
+1478 1510 1
+1478 1509 1
+1477 1507 1
+1477 1501 1
+1477 1504 1
+1477 1508 1
+1477 1505 1
+1477 1502 1
+1477 1503 1
+1477 1506 1
+1475 975 1
+1475 1673 1
+1475 1674 1
+1475 1675 1
+1475 1672 1
+1474 1016 1
+1474 1014 1
+1474 1397 1
+1474 1018 1
+1474 1017 1
+1474 1015 1
+1474 1013 1
+1473 981 1
+1473 976 1
+1473 983 1
+1473 982 1
+1473 979 1
+1473 980 1
+1473 977 1
+1473 978 1
+1472 1500 1
+1472 1499 1
+1486 247 1
+1486 248 1
+1486 246 1
+1486 1873 1
+1482 673 1
+1482 672 1
+1482 670 1
+1482 671 1
+1482 669 1
+1482 1891 1
+1525 1527 1
+1525 1529 1
+1525 1530 1
+1525 1528 1
+1525 1531 1
+1525 1526 1
+1532 1535 1
+1532 1539 1
+1532 1538 1
+1532 1540 1
+1532 1534 1
+1532 1536 1
+1532 1533 1
+1532 1537 1
+1431 1342 1
+1434 1406 1
+1434 1412 1
+1434 1880 1
+1434 1409 1
+1434 1410 1
+1434 1408 1
+1434 1407 1
+1434 1413 1
+1434 1411 1
+1435 1416 1
+1435 1415 1
+1435 1414 1
+1438 1427 1
+1438 1426 1
+1439 1428 1
+1436 1423 1
+1436 1421 1
+1436 1422 1
+1436 1420 1
+1437 1918 1
+1437 1424 1
+1437 1425 1
+1456 1471 1
+1456 1472 1
+1456 1470 1
+1456 1469 1
+1456 1473 1
+1457 909 1
+1457 910 1
+1457 908 1
+1457 911 1
+1458 1479 1
+1458 1489 1
+1458 1477 1
+1458 1476 1
+1458 1482 1
+1458 1486 1
+1458 1478 1
+1458 1487 1
+1458 1488 1
+1458 1481 1
+1458 1480 1
+1458 1484 1
+1458 1483 1
+1458 1485 1
+1459 1491 1
+1459 1490 1
+1462 899 1
+1462 907 1
+1462 902 1
+1462 906 1
+1462 901 1
+1462 898 1
+1462 900 1
+1462 904 1
+1462 897 1
+1462 905 1
+1462 896 1
+1462 903 1
+1467 632 1
+1467 638 1
+1467 634 1
+1467 637 1
+1467 633 1
+1467 635 1
+1467 636 1
+1469 1494 1
+1469 1493 1
+1469 1492 1
+1469 1495 1
+1471 1496 1
+1471 1497 1
+1471 1498 1
+1441 1444 1
+1441 1442 1
+1441 1443 1
+1445 1448 1
+1445 1447 1
+1447 1449 1
+1447 1451 1
+1447 1450 1
+1446 728 1
+1446 727 1
+1446 729 1
+1449 1562 1
+1449 1564 1
+1449 1560 1
+1449 1563 1
+1449 1561 1
+1448 496 1
+1448 495 1
+1451 1068 1
+1451 1067 1
+1451 1065 1
+1451 1066 1
+1451 1070 1
+1451 1069 1
+1450 767 1
+1450 768 1
+1450 766 1
+1450 769 1
+1453 1457 1
+1453 1456 1
+1453 1455 1
+1452 1448 1
+1452 1447 1
+1455 1466 1
+1455 1920 1
+1455 1462 1
+1455 1461 1
+1455 1459 1
+1455 1464 1
+1455 1468 1
+1455 1465 1
+1455 1467 1
+1455 1460 1
+1455 1463 1
+1455 1458 1
+1454 1668 1
+1454 1667 1
+1643 422 1
+1643 1103 1
+1643 423 1
+1646 1664 1
+1646 1663 1
+1644 1661 1
+1635 1345 1
+1632 1653 1
+1632 1649 1
+1632 1652 1
+1632 1651 1
+1632 1648 1
+1632 1650 1
+1633 1655 1
+1633 1656 1
+1633 1654 1
+1639 1660 1
+1639 1659 1
+1636 137 1
+1636 139 1
+1636 141 1
+1636 138 1
+1636 140 1
+1637 1657 1
+1637 1658 1
+1659 1671 1
+1657 883 1
+1656 150 1
+1662 1673 1
+1662 1676 1
+1662 1677 1
+1662 1674 1
+1662 1675 1
+1662 1672 1
+1651 1089 1
+1650 1230 1
+1649 1670 1
+1649 1666 1
+1649 1668 1
+1649 1667 1
+1649 1669 1
+1648 1665 1
+1654 149 1
+1609 1322 1
+1610 1619 1
+1611 1620 1
+1611 1626 1
+1611 1625 1
+1611 1621 1
+1611 1623 1
+1611 1622 1
+1611 1624 1
+1612 1628 1
+1612 1631 1
+1612 1629 1
+1612 1630 1
+1612 1627 1
+1614 1319 1
+1614 1320 1
+1615 1633 1
+1615 1632 1
+1600 1591 1
+1600 1590 1
+1600 1592 1
+1601 1603 1
+1602 1606 1
+1602 1605 1
+1602 1609 1
+1602 1608 1
+1602 1604 1
+1602 1607 1
+1603 1613 1
+1603 1612 1
+1603 1614 1
+1603 1611 1
+1603 1610 1
+1604 1615 1
+1604 1618 1
+1604 1617 1
+1604 1616 1
+1605 481 1
+1605 482 1
+1605 483 1
+1605 480 1
+1606 514 1
+1606 515 1
+1627 1646 1
+1627 1645 1
+1627 1647 1
+1627 1644 1
+1626 1225 1
+1626 1227 1
+1626 1226 1
+1626 1868 1
+1631 282 1
+1631 129 1
+1631 281 1
+1630 128 1
+1617 1635 1
+1617 1634 1
+1617 1636 1
+1616 859 1
+1616 860 1
+1621 1639 1
+1621 1640 1
+1620 1638 1
+1620 1637 1
+1622 1643 1
+1622 1641 1
+1622 1642 1
+1582 1078 1
+1582 916 1
+1582 1662 1
+1583 1395 1
+1583 1396 1
+1583 919 1
+1583 921 1
+1583 920 1
+1580 1586 1
+1580 1585 1
+1581 1588 1
+1581 1587 1
+1578 1584 1
+1578 1582 1
+1578 1583 1
+1579 1897 1
+1579 1093 1
+1579 1095 1
+1579 1094 1
+1579 1096 1
+1574 1580 1
+1575 1581 1
+1573 520 1
+1573 1457 1
+1573 1456 1
+1573 1455 1
+1569 1578 1
+1569 1579 1
+1599 1581 1
+1598 1580 1
+1597 1574 1
+1597 1575 1
+1596 1568 1
+1596 1570 1
+1596 1569 1
+1595 1565 1
+1594 1558 1
+1594 1559 1
+1593 1553 1
+1593 1555 1
+1593 1554 1
+1587 1661 1
+1586 1591 1
+1586 1590 1
+1586 1592 1
+1585 1589 1
+1550 995 1
+1551 320 1
+1551 321 1
+1547 1549 1
+1547 1548 1
+1542 1545 1
+1542 1544 1
+1542 1546 1
+1543 1146 1
+1565 1574 1
+1565 1575 1
+1564 533 1
+1567 820 1
+1566 1576 1
+1566 1577 1
+1561 1568 1
+1561 1570 1
+1561 1569 1
+1560 1566 1
+1560 1567 1
+1563 531 1
+1563 532 1
+1562 1572 1
+1562 1571 1
+1562 1573 1
+1557 753 1
+1557 752 1
+1556 1562 1
+1556 1564 1
+1556 1560 1
+1556 1563 1
+1556 1561 1
+1559 796 1
+1559 795 1
+1559 794 1
+1558 1565 1
+1553 1556 1
+1553 1557 1
+1552 1553 1
+1552 1555 1
+1552 1554 1
+1555 731 1
+1555 732 1
+1555 730 1
+1554 1558 1
+1554 1559 1
+1763 1778 1
+1761 152 1
+1761 153 1
+1760 1777 1
+1767 1779 1
+1771 1843 1
+1771 1835 1
+1771 1834 1
+1771 1841 1
+1771 1840 1
+1771 1837 1
+1771 1836 1
+1771 1842 1
+1771 1844 1
+1771 1845 1
+1771 1838 1
+1771 1839 1
+1770 1786 1
+1770 1785 1
+1770 1783 1
+1770 1781 1
+1770 1784 1
+1770 1782 1
+1770 1780 1
+1774 1794 1
+1774 1800 1
+1774 1796 1
+1774 1798 1
+1774 1802 1
+1774 1795 1
+1774 1876 1
+1774 1797 1
+1774 1801 1
+1774 1799 1
+1773 1792 1
+1773 1791 1
+1773 1793 1
+1772 1790 1
+1772 1789 1
+1772 1787 1
+1772 1788 1
+1778 1117 1
+1778 1121 1
+1778 1118 1
+1778 1116 1
+1778 1122 1
+1778 1936 1
+1778 1120 1
+1778 1119 1
+1779 922 1
+1779 223 1
+1779 222 1
+1779 221 1
+1779 220 1
+1779 923 1
+1782 974 1
+1782 969 1
+1782 971 1
+1782 970 1
+1782 968 1
+1782 972 1
+1782 973 1
+1783 616 1
+1783 617 1
+1783 619 1
+1783 615 1
+1783 622 1
+1783 1889 1
+1783 620 1
+1783 618 1
+1783 614 1
+1783 621 1
+1783 613 1
+1780 1809 1
+1780 1803 1
+1780 1810 1
+1780 1805 1
+1780 1804 1
+1780 1807 1
+1780 1808 1
+1780 1806 1
+1786 1848 1
+1786 1850 1
+1786 1849 1
+1786 1851 1
+1791 1813 1
+1791 1811 1
+1791 1812 1
+1729 1740 1
+1729 1739 1
+1728 1738 1
+1728 1736 1
+1728 1737 1
+1731 1743 1
+1730 1741 1
+1730 1742 1
+1733 73 1
+1733 74 1
+1733 75 1
+1733 77 1
+1733 76 1
+1733 71 1
+1733 72 1
+1732 1744 1
+1734 1746 1
+1734 1745 1
+1737 782 1
+1737 781 1
+1736 1748 1
+1736 1747 1
+1736 1749 1
+1739 1751 1
+1739 1750 1
+1741 1752 1
+1741 1753 1
+1740 871 1
+1740 872 1
+1740 873 1
+1743 1757 1
+1743 1758 1
+1743 1755 1
+1743 1756 1
+1744 1759 1
+1745 1760 1
+1745 1761 1
+1745 1762 1
+1746 1765 1
+1746 1766 1
+1746 1763 1
+1746 1764 1
+1747 1767 1
+1749 852 1
+1749 853 1
+1750 1769 1
+1750 1768 1
+1752 387 1
+1752 388 1
+1752 386 1
+1752 385 1
+1753 821 1
+1753 823 1
+1753 822 1
+1755 1770 1
+1757 869 1
+1757 870 1
+1758 893 1
+1758 882 1
+1759 1772 1
+1759 1771 1
+1759 1775 1
+1759 1773 1
+1759 1776 1
+1759 1774 1
+1696 1706 1
+1710 1676 1
+1710 1677 1
+1708 1618 1
+1708 1617 1
+1707 1603 1
+1719 1183 1
+1719 1182 1
+1716 1725 1
+1716 1726 1
+1717 751 1
+1717 748 1
+1717 750 1
+1717 749 1
+1715 1724 1
+1715 1723 1
+1712 1705 1
+1713 1706 1
+1726 1071 1
+1727 1734 1
+1727 1735 1
+1724 35 1
+1724 38 1
+1724 33 1
+1724 34 1
+1724 37 1
+1724 36 1
+1725 1298 1
+1725 1297 1
+1722 1730 1
+1723 1733 1
+1723 1731 1
+1723 1732 1
+1720 1727 1
+1720 1728 1
+1721 1729 1
+1669 1683 1
+1668 1393 1
+1668 1394 1
+1668 1392 1
+1671 1007 1
+1671 1003 1
+1671 1004 1
+1671 1006 1
+1671 942 1
+1671 1005 1
+1670 1685 1
+1670 1684 1
+1670 1689 1
+1670 1691 1
+1670 1686 1
+1670 1884 1
+1670 1688 1
+1670 1687 1
+1670 1690 1
+1670 1692 1
+1665 1678 1
+1665 1680 1
+1665 1679 1
+1664 1124 1
+1664 1908 1
+1664 1123 1
+1667 1238 1
+1667 1237 1
+1667 1242 1
+1667 1240 1
+1667 1241 1
+1667 1239 1
+1666 1681 1
+1666 1682 1
+1679 1700 1
+1679 1704 1
+1679 1898 1
+1679 1701 1
+1679 1702 1
+1679 1900 1
+1679 1703 1
+1679 1699 1
+1678 1695 1
+1678 1886 1
+1678 1697 1
+1678 1888 1
+1678 1696 1
+1678 1892 1
+1678 1698 1
+1678 1894 1
+1678 1896 1
+1678 1890 1
+1672 1694 1
+1672 1693 1
+1680 353 1
+1680 354 1
+1680 355 1
+1680 356 1
+1680 352 1
+1695 1705 1
+1688 278 1
+1915 1866 1
+1916 1866 1
+1919 1449 1
+1919 1451 1
+1919 1450 1
+1905 1090 1
+1905 1091 1
+1905 1897 1
+1905 1093 1
+1905 1095 1
+1905 1094 1
+1905 1096 1
+1905 1092 1
+1877 294 1
+1866 1229 1
+1866 1228 1
+1865 1724 1
+1865 1723 1
+1858 557 1
+1859 1858 1
+1859 1902 1
+1859 1857 1
+1856 1858 1
+1856 1902 1
+1856 1857 1
+1861 1104 1
+1861 567 1
+1852 804 1
+1855 691 1
+1855 690 1
+1855 688 1
+1855 687 1
+1855 689 1
+1847 1848 1
+1847 1850 1
+1847 1849 1
+1847 1851 1
+1833 1843 1
+1833 1835 1
+1833 1834 1
+1833 1841 1
+1833 1840 1
+1833 1837 1
+1833 1836 1
+1833 1842 1
+1833 1844 1
+1833 1845 1
+1833 1838 1
+1833 1839 1
+1828 1744 1
+1829 1771 1
+1830 1814 1
+1831 1817 1
+1824 1727 1
+1824 1728 1
+1825 1729 1
+1826 1730 1
+1827 1741 1
+1827 1742 1
+1823 1725 1
+1823 1726 1
+1796 1822 1
+1794 1818 1
+1794 1819 1
+1794 1817 1
+1794 1901 1
+1795 1821 1
+1795 1820 1
+1792 1899 1
+1792 1816 1
+1792 1815 1
+1792 1814 1
+1793 260 1
+1793 261 1
+1793 259 1
+2032 2033 1
+2033 1754 1
+2034 1754 1
+2035 2034 1
+2036 2034 1
+2037 2039 1
+2038 2039 1
+2039 82 1
+2039 81 1
+2039 80 1
+2040 82 1
+2040 81 1
+2040 80 1
+2041 2040 1
+2042 2040 1
+2043 1979 1
+2044 1979 1
+2045 2047 1
+2046 2047 1
+2017 2015 1
+2016 454 1
+2019 1930 1
+2018 2015 1
+2020 1930 1
+2023 1062 1
+2023 1061 1
+2025 2027 1
+2024 1062 1
+2024 1061 1
+2027 1541 1
+2026 2027 1
+2029 2028 1
+2028 1541 1
+2031 2033 1
+2030 2028 1
+2003 208 1
+2003 426 1
+2003 209 1
+2004 208 1
+2004 426 1
+2004 209 1
+2011 1077 1
+2014 2016 1
+2014 453 1
+2015 454 1
+2012 1077 1
+2013 2016 1
+2013 453 1
+1987 1986 1
+1986 151 1
+1985 151 1
+1984 1985 1
+1991 199 1
+1991 198 1
+1990 2003 1
+1990 1991 1
+1990 1997 1
+1989 2003 1
+1989 1991 1
+1989 1997 1
+1988 1986 1
+1994 2004 1
+1994 1992 1
+1994 1998 1
+1993 2004 1
+1993 1992 1
+1993 1998 1
+1992 199 1
+1992 198 1
+1972 1155 1
+1973 1156 1
+1974 1156 1
+1975 1861 1
+1968 762 1
+1969 1055 1
+1970 1055 1
+1971 1155 1
+1981 1919 1
+1982 1919 1
+1983 1985 1
+1976 1861 1
+1977 369 1
+1977 368 1
+1978 369 1
+1978 368 1
+1979 1166 1
+1957 608 1
+1956 606 1
+1959 651 1
+1958 608 1
+1953 592 1
+1952 583 1
+1955 606 1
+1954 592 1
+1965 726 1
+1964 700 1
+1967 762 1
+1966 726 1
+1961 1446 1
+1961 1445 1
+1960 651 1
+1963 700 1
+1962 1446 1
+1962 1445 1
+1942 630 1
+1943 292 1
+1940 154 1
+1940 1877 1
+1940 155 1
+1941 630 1
+1939 154 1
+1939 1877 1
+1939 155 1
+1950 401 1
+1951 583 1
+1948 363 1
+1949 401 1
+1946 297 1
+1947 363 1
+1944 292 1
+1945 297 1
+1927 1474 1
+1927 1475 1
+1926 1474 1
+1926 1475 1
+1923 1454 1
+1923 1453 1
+1921 1454 1
+1921 1453 1
+1935 1514 1
+1935 1515 1
+1934 557 1
+1930 484 1
+2048 258 1
+2049 258 1
+*edges
+283 2 1
+284 3 1
+373 4 1
+285 5 1
+6 465 1
+7 1288 1
+722 8 1
+723 9 1
+286 10 1
+11 487 1
+736 12 1
+734 13 1
+14 1191 1
+15 745 1
+17 1289 1
+287 16 1
+759 19 1
+1724 18 1
+21 1184 1
+20 293 1
+23 1291 1
+1294 22 1
+25 764 1
+1192 24 1
+27 1731 1
+26 509 1
+714 29 1
+1193 28 1
+1203 31 1
+30 506 1
+777 34 1
+1183 35 1
+32 767 1
+734 33 1
+793 33 1
+38 505 1
+39 1744 1
+36 809 1
+36 1301 1
+37 776 1
+1733 43 1
+40 820 1
+41 820 1
+46 497 1
+47 1742 1
+751 44 1
+45 755 1
+782 51 1
+479 50 1
+483 50 1
+49 1750 1
+842 48 1
+55 1747 1
+54 1313 1
+53 1581 1
+52 525 1
+52 1324 1
+58 785 1
+786 57 1
+473 56 1
+297 63 1
+510 63 1
+62 1299 1
+62 1633 1
+62 1301 1
+61 822 1
+825 60 1
+517 69 1
+1754 70 1
+770 71 1
+64 534 1
+520 65 1
+66 1639 1
+76 1760 1
+77 1760 1
+77 1210 1
+807 78 1
+473 79 1
+819 72 1
+838 73 1
+792 74 1
+837 75 1
+818 85 1
+1074 85 1
+1631 85 1
+1630 85 1
+833 84 1
+87 880 1
+86 872 1
+288 80 1
+289 83 1
+1629 83 1
+1642 83 1
+1652 93 1
+1656 92 1
+297 95 1
+1344 95 1
+94 455 1
+808 89 1
+829 88 1
+1636 91 1
+90 821 1
+90 1641 1
+102 1931 1
+102 832 1
+102 859 1
+847 103 1
+1643 100 1
+1060 100 1
+101 1764 1
+98 456 1
+98 1325 1
+98 1169 1
+1334 99 1
+1344 110 1
+873 108 1
+1655 109 1
+106 1225 1
+106 1323 1
+106 858 1
+1317 104 1
+105 1332 1
+105 1456 1
+1654 119 1
+118 1329 1
+118 1327 1
+118 1346 1
+117 1226 1
+117 1456 1
+117 1767 1
+116 1316 1
+116 1649 1
+115 1760 1
+1655 114 1
+1577 114 1
+830 114 1
+860 114 1
+113 1868 1
+546 127 1
+1766 127 1
+125 1649 1
+125 835 1
+834 124 1
+290 124 1
+123 861 1
+123 553 1
+122 1343 1
+1761 121 1
+1656 120 1
+875 137 1
+418 137 1
+1338 137 1
+139 556 1
+139 1093 1
+1231 138 1
+147 138 1
+1582 138 1
+1344 138 1
+537 138 1
+1340 138 1
+141 592 1
+140 1233 1
+1231 143 1
+1771 143 1
+1338 143 1
+1588 142 1
+1088 129 1
+1766 128 1
+145 130 1
+1338 130 1
+1339 130 1
+709 133 1
+132 406 1
+1356 135 1
+145 135 1
+134 1075 1
+134 1669 1
+1671 152 1
+551 152 1
+877 153 1
+911 154 1
+155 1938 1
+1937 156 1
+1096 157 1
+661 158 1
+1682 158 1
+1779 158 1
+159 659 1
+1582 144 1
+418 144 1
+439 144 1
+1592 144 1
+146 550 1
+147 1877 1
+147 1665 1
+147 1458 1
+148 1469 1
+148 294 1
+149 869 1
+150 652 1
+151 1093 1
+359 171 1
+169 1238 1
+168 900 1
+903 163 1
+663 162 1
+1377 161 1
+896 160 1
+167 200 1
+165 1670 1
+1113 187 1
+1016 190 1
+191 1936 1
+1793 188 1
+291 189 1
+1490 178 1
+1486 177 1
+182 1499 1
+180 1477 1
+207 1792 1
+1688 201 1
+292 202 1
+217 198 1
+192 1118 1
+1631 220 1
+1674 220 1
+216 924 1
+216 613 1
+892 208 1
+209 975 1
+258 2047 1
+1551 319 1
+608 298 1
+1376 343 1
+1358 336 1
+351 1679 1
+1680 350 1
+901 322 1
+1667 320 1
+881 335 1
+372 1553 1
+375 1061 1
+394 374 1
+392 369 1
+391 368 1
+729 371 1
+393 370 1
+381 1181 1
+1752 380 1
+395 383 1
+382 400 1
+377 735 1
+376 1181 1
+379 1743 1
+378 469 1
+1771 357 1
+358 1103 1
+364 367 1
+366 365 1
+706 360 1
+361 708 1
+362 556 1
+642 363 1
+817 363 1
+410 1134 1
+607 414 1
+424 415 1
+412 575 1
+413 1498 1
+1331 402 1
+403 1101 1
+401 1086 1
+401 1085 1
+401 1100 1
+404 1862 1
+405 482 1
+398 387 1
+397 386 1
+396 385 1
+384 1933 1
+390 1562 1
+389 763 1
+399 388 1
+440 1013 1
+441 466 1
+447 442 1
+448 443 1
+444 470 1
+449 445 1
+446 481 1
+606 427 1
+438 426 1
+1643 419 1
+425 419 1
+418 550 1
+474 820 1
+475 824 1
+823 472 1
+1930 472 1
+1605 470 1
+471 1615 1
+468 757 1
+761 466 1
+467 733 1
+464 995 1
+463 459 1
+1340 458 1
+1668 453 1
+1771 452 1
+451 1580 1
+450 1568 1
+508 805 1
+1564 511 1
+1563 511 1
+504 787 1
+769 507 1
+1606 500 1
+1070 501 1
+1573 502 1
+503 1611 1
+496 1187 1
+498 744 1
+742 499 1
+752 493 1
+743 492 1
+495 748 1
+494 748 1
+1179 489 1
+1448 488 1
+491 1602 1
+559 490 1
+485 914 1
+485 1472 1
+484 550 1
+484 880 1
+484 1665 1
+558 486 1
+1219 480 1
+1069 480 1
+551 893 1
+1222 548 1
+549 1336 1
+1222 547 1
+544 1659 1
+545 1471 1
+545 1759 1
+1091 556 1
+557 1471 1
+554 643 1
+555 583 1
+552 1661 1
+1861 553 1
+567 913 1
+1389 564 1
+563 1359 1
+562 897 1
+569 1369 1
+1235 568 1
+891 568 1
+560 516 1
+518 851 1
+518 1319 1
+519 1585 1
+512 791 1
+512 1300 1
+513 1881 1
+513 1301 1
+514 1328 1
+515 1751 1
+524 1566 1
+524 812 1
+839 526 1
+520 1760 1
+521 851 1
+1308 522 1
+849 523 1
+1309 533 1
+532 1649 1
+1215 535 1
+529 841 1
+528 1319 1
+1304 531 1
+530 1648 1
+840 541 1
+846 540 1
+543 1578 1
+543 848 1
+1857 542 1
+1762 542 1
+537 1578 1
+537 1343 1
+815 536 1
+561 536 1
+539 1646 1
+538 1073 1
+610 1090 1
+611 1090 1
+609 813 1
+1783 612 1
+946 613 1
+619 646 1
+620 1887 1
+1467 631 1
+1349 630 1
+629 886 1
+628 1364 1
+641 639 1
+591 583 1
+587 1672 1
+596 592 1
+1491 597 1
+892 600 1
+605 1109 1
+604 1182 1
+1357 687 1
+697 687 1
+867 687 1
+1855 686 1
+710 703 1
+702 700 1
+701 1109 1
+1495 698 1
+683 651 1
+1326 651 1
+645 1117 1
+640 1500 1
+664 1386 1
+685 660 1
+661 1532 1
+662 899 1
+1482 658 1
+684 658 1
+746 1741 1
+750 1736 1
+749 1199 1
+1046 739 1
+738 1560 1
+737 1604 1
+1450 741 1
+1048 740 1
+762 1293 1
+762 1196 1
+1559 760 1
+1852 766 1
+765 1883 1
+765 1198 1
+1737 754 1
+753 1729 1
+758 1610 1
+1067 756 1
+713 1493 1
+715 1547 1
+1041 717 1
+1040 716 1
+1555 719 1
+1446 718 1
+705 1083 1
+711 704 1
+712 707 1
+1045 728 1
+1717 730 1
+1557 731 1
+732 1603 1
+1171 720 1
+721 1057 1
+1042 724 1
+1043 725 1
+726 1172 1
+1044 727 1
+817 1745 1
+1634 816 1
+1616 816 1
+818 1627 1
+829 1456 1
+828 1768 1
+1756 831 1
+827 1755 1
+1757 826 1
+804 1632 1
+806 1622 1
+807 1322 1
+1188 800 1
+1218 801 1
+1749 802 1
+803 1197 1
+1638 814 1
+1051 810 1
+811 1224 1
+1185 790 1
+789 1571 1
+789 1213 1
+789 1214 1
+1207 788 1
+1628 785 1
+1195 784 1
+1189 799 1
+797 1312 1
+796 1620 1
+795 1292 1
+1192 794 1
+792 1620 1
+774 1617 1
+1050 772 1
+1206 773 1
+771 1208 1
+1049 768 1
+1200 783 1
+1753 780 1
+1573 778 1
+1567 779 1
+881 1661 1
+881 1773 1
+881 1665 1
+1345 880 1
+1583 882 1
+1360 885 1
+1779 884 1
+1335 884 1
+887 1525 1
+887 941 1
+889 1678 1
+890 941 1
+890 1774 1
+1671 893 1
+895 1774 1
+867 1459 1
+867 882 1
+867 1665 1
+1341 870 1
+1342 871 1
+1758 871 1
+1462 874 1
+1461 874 1
+875 1897 1
+876 1362 1
+876 1354 1
+1457 878 1
+1582 878 1
+1228 878 1
+879 1329 1
+1320 850 1
+849 1329 1
+854 1763 1
+853 1647 1
+1657 852 1
+1758 852 1
+1466 859 1
+1320 859 1
+1660 857 1
+1779 857 1
+1335 857 1
+1228 856 1
+862 1885 1
+862 1323 1
+862 1332 1
+843 1620 1
+844 1315 1
+1740 845 1
+1474 941 1
+1241 941 1
+1053 941 1
+1082 918 1
+1052 919 1
+916 1058 1
+1550 914 1
+1671 915 1
+1475 912 1
+1473 912 1
+1782 908 1
+903 1116 1
+902 1110 1
+1367 898 1
+1056 1014 1
+1055 996 1
+1257 984 1
+988 1243 1
+1054 968 1
+1158 1102 1
+1097 1162 1
+1098 1906 1
+1099 1907 1
+1092 1333 1
+1664 1095 1
+1778 1095 1
+1088 1791 1
+1089 1458 1
+1643 1090 1
+1861 1090 1
+1543 1116 1
+1112 1234 1
+1115 1796 1
+1114 1237 1
+1236 1109 1
+1104 1679 1
+1159 1135 1
+1120 1542 1
+1121 1835 1
+1047 1895 1
+1076 1066 1
+1064 1728 1
+1726 1065 1
+1070 1310 1
+1071 1295 1
+1068 1297 1
+1062 1727 1
+1451 1063 1
+1081 1348 1
+1087 1885 1
+1087 1773 1
+1157 1086 1
+1334 1085 1
+1155 1084 1
+1651 1084 1
+1592 1075 1
+1201 1072 1
+1331 1079 1
+1582 1077 1
+1221 1645 1
+1619 1220 1
+1650 1223 1
+1222 1913 1
+1222 1914 1
+1217 1571 1
+1216 1912 1
+1230 1770 1
+1765 1227 1
+1285 1239 1
+1667 1232 1
+1235 1794 1
+1246 1795 1
+1286 1240 1
+1241 1791 1
+1155 1905 1
+1155 1160 1
+1156 1456 1
+1161 1166 1
+1979 1163 1
+1979 1164 1
+1168 1866 1
+1276 1170 1
+1277 1173 1
+1278 1174 1
+1719 1175 1
+1176 1723 1
+1177 1615 1
+1279 1178 1
+1280 1180 1
+1281 1186 1
+1282 1190 1
+1194 1734 1
+1194 1735 1
+1193 1735 1
+1283 1202 1
+1284 1204 1
+1205 1287 1
+1211 1569 1
+1626 1212 1
+1437 1372 1
+1371 1780 1
+1436 1370 1
+1435 1366 1
+1434 1365 1
+1474 1364 1
+1432 1363 1
+1668 1363 1
+1583 1363 1
+1433 1363 1
+1361 1441 1
+1356 1469 1
+1352 1925 1
+1351 1772 1
+1349 1924 1
+1347 1666 1
+1347 1665 1
+1439 1392 1
+1388 1478 1
+1438 1386 1
+1614 1307 1
+1306 1746 1
+1305 1739 1
+1311 1621 1
+1609 1310 1
+1429 1299 1
+1619 1299 1
+1298 1613 1
+1296 1617 1
+1303 1612 1
+1430 1302 1
+1725 1290 1
+1337 1456 1
+1337 1922 1
+1341 1665 1
+1330 1440 1
+1431 1321 1
+1326 1455 1
+1635 1327 1
+1314 1637 1
+1935 1496 1
+1497 1524 1
+1475 1928 1
+1475 1662 1
+1481 1929 1
+1452 1445 1
+1919 1447 1
+1449 1556 1
+1573 1453 1
+1454 1649 1
+1710 1662 1
+1709 1661 1
+1660 1870 1
+1707 1601 1
+1708 1604 1
+1607 1714 1
+1579 1905 1
+1598 1574 1
+1599 1575 1
+1590 1853 1
+1587 1644 1
+1600 1586 1
+1597 1565 1
+1596 1561 1
+1595 1558 1
+1593 1552 1
+1594 1554 1
+1771 1833 1
+1776 1846 1
+1786 1847 1
+1785 1860 1
+1827 1730 1
+1828 1732 1
+1829 1759 1
+1713 1696 1
+1718 1832 1
+1823 1716 1
+1865 1715 1
+1826 1722 1
+1824 1720 1
+1825 1721 1
+1711 1669 1
+1664 1897 1
+1712 1695 1
+1916 1915 1
+1858 1934 1
+1859 1856 1
+1831 1794 1
+1830 1792 1
+2034 2033 1
+2036 2035 1
+2038 2037 1
+2040 2039 1
+2042 2041 1
+2044 2043 1
+2046 2045 1
+2018 2017 1
+2020 2019 1
+2022 2021 1
+2024 2023 1
+2026 2025 1
+2028 2027 1
+2030 2029 1
+2032 2031 1
+2004 2003 1
+2002 2001 1
+2008 2007 1
+2006 2005 1
+2012 2011 1
+2010 2009 1
+2016 2015 1
+2014 2013 1
+1988 1987 1
+1986 1985 1
+1992 1991 1
+1990 1989 1
+1996 1995 1
+1994 1993 1
+2000 1999 1
+1998 1997 1
+1974 1973 1
+1976 1975 1
+1970 1969 1
+1972 1971 1
+1982 1981 1
+1984 1983 1
+1978 1977 1
+1958 1957 1
+1960 1959 1
+1954 1953 1
+1956 1955 1
+1966 1965 1
+1968 1967 1
+1962 1961 1
+1964 1963 1
+1944 1943 1
+1942 1941 1
+1939 1940 1
+1952 1951 1
+1950 1949 1
+1948 1947 1
+1946 1945 1
+1926 1927 1
+1923 1921 1
+2049 2048 1

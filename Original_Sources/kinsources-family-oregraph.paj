@@ -1,0 +1,46 @@
+*Network Ore graph kinsources-family.puc
+
+*vertices 17
+1 'jaz (1)' diamond
+2 '�ena (2)' diamond
+3 'o�e (3)' diamond
+4 'mati (4)' diamond
+5 'sestra (5)' diamond
+6 'brat (6)' diamond
+7 'sin (7)' diamond
+8 'h�erka (8)' diamond
+9 'ded po o�etu (9)' diamond
+10 'babica po o�etu (10)' diamond
+11 'ded po materi (11)' diamond
+12 'babica po materi (12)' diamond
+13 'ma�eha (13)' diamond
+14 'zet (14)' diamond
+15 'snaha (15)' diamond
+16 'svakinja (16)' diamond
+17 'vnuk (17)' diamond
+*arcs
+1 8 1
+1 7 1
+2 8 1
+2 7 1
+3 6 1
+3 5 1
+3 1 1
+4 6 1
+4 5 1
+4 1 1
+7 17 1
+9 3 1
+10 3 1
+11 4 1
+12 4 1
+15 17 1
+*edges
+1 2 1
+3 4 1
+3 13 1
+6 16 1
+7 15 1
+14 8 1
+9 10 1
+11 12 1

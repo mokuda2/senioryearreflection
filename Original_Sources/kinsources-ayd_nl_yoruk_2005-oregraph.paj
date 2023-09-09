@@ -1,0 +1,3669 @@
+*Network Ore graph TurkishNomads956.puc
+
+*vertices 1269
+1 'b 13Ecevit Mehmet (1)' triangle
+2 'b   Zeynep (Ilmasit Koy) (2)' ellipse
+3 'b   Salibi (3)' ellipse
+4 'c 13Ays,e (4)' ellipse
+5 'c 13S,erife (5)' ellipse
+6 'c 13Emine (6)' ellipse
+7 'c 13Yusuf (7)' triangle
+8 'c 13Ahmet (8)' triangle
+9 'c 13Ikiz Veli (9)' triangle
+10 'c 13Ummuhan (10)' ellipse
+11 'd 13Fatma (11)' ellipse
+12 'd 13Kerzivan (12)' ellipse
+13 'e   Not given (13)' ellipse
+14 'd   Oksuz Yusuf (Oksuz=Orphaned) (14)' triangle
+15 'e   Halil (Laden besitzer) (15)' triangle
+16 'e   Emin (Koylu bei Adana city) (16)' triangle
+17 'e   Fatma (17)' ellipse
+18 'e   Cumali (18)' triangle
+19 'e   Arife (19)' ellipse
+20 'e   Gulay (20)' ellipse
+21 'e   Mohammed (21)' triangle
+22 'b  1Haci Dolasikli (Kor?) (28)' triangle
+23 'b   Kerzivan (wife or sister?) (29)' ellipse
+24 'b   (?)Mustafa blieb in Anatolia (30)' triangle
+25 'c  1Haci Mehmet Aga (31)' triangle
+26 'd  1Kozan Mehmet (Mehmet Aga*s so) (TANI (32)' triangle
+27 'd   Muska (Koylu) (33)' ellipse
+28 'e  1Mahmut (34)' triangle
+29 'f  1Nazmiye (35)' ellipse
+30 'f  1Unal (36)' triangle
+31 'f  1Emine (37)' ellipse
+32 'f  1Nurcan (38)' ellipse
+33 'f  1Yeter (39)' ellipse
+34 'f  1Ismail (40)' triangle
+35 'f  1Sahin (41)' triangle
+36 'f  1Seycan (42)' ellipse
+37 'e  1Mehmet (43)' triangle
+38 'f  1? (44)' triangle
+39 'f  1Hasibe (45)' ellipse
+40 'f  1S,erife (46)' ellipse
+41 'f  1Ali (47)' triangle
+42 'f  1Ferhat (48)' triangle
+43 'f  1Fatma (49)' ellipse
+44 'f  1Bediha (50)' ellipse
+45 'f  1Kadir (51)' triangle
+46 'eS 1Omer (52)' triangle
+47 'f  1Fahriye (53)' triangle
+48 'f  1Guldane (54)' ellipse
+49 'f  1Metin (55)' triangle
+50 'f  1C,etin (56)' triangle
+51 'f  1Murat (57)' triangle
+52 'e  1Halil (58)' triangle
+53 'f  1Ramazan (59)' triangle
+54 'f  1Zehra (60)' ellipse
+55 'f  1Nunay (61)' ellipse
+56 'f  1Guluzer (62)' ellipse
+57 'f  1Kozmoglu (63)' triangle
+58 'e  1Duran (64)' triangle
+59 'f  1Emel (65)' triangle
+60 'f  1Zafer (66)' triangle
+61 'e  1Hava (67)' ellipse
+62 'd  1Kose Haci m.MBD (68)' triangle
+63 'e  1Halil (69)' triangle
+64 'f  1Adnan (70)' triangle
+65 'f  1Bakize (71)' ellipse
+66 'f  1Erdal (72)' triangle
+67 'f  1Huseyin (73)' triangle
+68 'e  1Zeybek (74)' triangle
+69 'eS 1Bekir (Lehrer) (75)' triangle
+70 'f  1Suleyha (76)' triangle
+71 'f  1Sureyya (77)' triangle
+72 'f  1Sureyla (78)' triangle
+73 'f  1Ufuk (79)' triangle
+74 'e  1Gussun (80)' ellipse
+75 'eS 1Ebeli (81)' ellipse
+76 'eS  Hac,an (Yahnakli town) (82)' triangle
+77 'e  1Ummuhan (scratched out on scroll =13 (83)' ellipse
+78 'e  1Mustafa (84)' triangle
+79 'f  1Erol (85)' triangle
+80 'f  1Emr? (86)' triangle
+81 'd  1Kerzivan (not original number) (87)' ellipse
+82 'e   Emine (Koylu) (88)' ellipse
+83 'eS 1Han (89)' triangle
+84 'd  1Kozan Ismail (90)' triangle
+85 'd   Meryem (Koylu) (91)' ellipse
+86 'e  1Jakup (92)' triangle
+87 'f  1Ahmet (93)' triangle
+88 'f  1Sener (94)' triangle
+89 'e  1Kozan (95)' ellipse
+90 'e  1Done (96)' ellipse
+91 'e  1Hava (97)' ellipse
+92 'c  1Ismail (98)' triangle
+93 'd  9Haci Molla g*97 (2nd wife) (99)' triangle
+94 'e   Kel Ahmet (aus einem Dorf fruher Hir (100)' triangle
+95 'f   Sultan (101)' triangle
+96 'f   Osman (102)' triangle
+97 'f   Ismail (106)' triangle
+98 'f   Meryem (107)' ellipse
+99 'f   Ali (108)' triangle
+100 'f   Suleyman    (non Mirsei?) (109)' triangle
+101 'f   Haci Mehmet (non Mirsei?) (110)' triangle
+102 'f   Ays,e       (non Mirsei?) (111)' ellipse
+103 'f   Musa        (non Mirsei?) (112)' triangle
+104 'f   Ramazan     (non Mirsei?) (113)' triangle
+105 'e  9Halime (114)' ellipse
+106 'e  9Ali (115)' triangle
+107 'f  9Mehmet (116)' triangle
+108 'f  9Ahmet (117)' triangle
+109 'f  9Dudu (118)' ellipse
+110 'f  9Ummu (119)' ellipse
+111 'f  9Durdu (120)' ellipse
+112 'f  9Annet (121)' ellipse
+113 'f  9Zeynep (122)' ellipse
+114 'f  9Mustafa (123)' triangle
+115 'e  9Mehmet (124)' triangle
+116 'e  9Hatice (125)' ellipse
+117 'e  9Yeter (126)' ellipse
+118 'e  9Dudu (127)' ellipse
+119 'eS 9Hanife (128)' ellipse
+120 'e  9Iraz (129)' ellipse
+121 'e   Dondu (came from Maras suburb - not (130)' ellipse
+122 'd  1Karaoglan Mustafa m.Ays,e=489 (131)' triangle
+123 'e  1Huseyin (NOT 176) (132)' triangle
+124 'f  1Kerzivan (133)' ellipse
+125 'f  1Latif (134)' triangle
+126 'f  1Isak (135)' triangle
+127 'f  1Ramazan (136)' triangle
+128 'f  1Sultan (137)' triangle
+129 'e  1Havaha (138)' ellipse
+130 'e  1Ismail (139)' triangle
+131 'e  1Kerzivan (140)' ellipse
+132 'e  1Haci (141)' triangle
+133 'e  1Ecevit m.MBD (142)' triangle
+134 'e  1Leyla (143)' ellipse
+135 'e  1Cadiye (144)' ellipse
+136 'e  1Adem (145)' triangle
+137 'c  1Ibrahim (Kor Haci*s son) (146)' triangle
+138 'd  1Ali Inceli (147)' triangle
+139 'd (Horzum) Not given (148)' ellipse
+140 'd   Not given (C,abarlar) (149)' ellipse
+141 'c  1Halil (Haci Dolasikli*s son) m.FBD (154)' triangle
+142 'd  1Yusuf (155)' triangle
+143 'e  1Yusuf m.FBD (156)' triangle
+144 'f  1Fatma (157)' ellipse
+145 'f  1Halil (158)' triangle
+146 'f  1Ibrahim (159)' triangle
+147 'f  1Emin (160)' triangle
+148 'f  1Cumali (161)' triangle
+149 'f  1Arife (162)' ellipse
+150 'e  1Ays,a (163)' ellipse
+151 'd  1Ays,e (da of Halil of Haci Dolasikli (164)' ellipse
+152 'd  1Deli Ahmet (165)' triangle
+153 'd   Kurt Kur (Sultan) (166)' ellipse
+154 'e  1Guc,ullu Yusuf (167)' triangle
+155 'f  1Yeter (168)' ellipse
+156 'f  1Ays,e (169)' ellipse
+157 'f  1Huseyin (170)' triangle
+158 'f  1Batal (171)' triangle
+159 'f  1Meryem (172)' ellipse
+160 'f  1Kadriye (173)' ellipse
+161 'e   Fatma (Koylu) (174)' ellipse
+162 'e  1Hatice (175)' ellipse
+163 'e  1Ays,e (Deli Ahmet*s da) (176)' ellipse
+164 'e  1Done (177)' ellipse
+165 'eS 1Gullu (178)' ellipse
+166 'd  1Old Tatali- Tatalimi C,ocuklara (179)' triangle
+167 'e  1Mustafa (180)' triangle
+168 'f  1Halil (181)' triangle
+169 'fS 1Meliha (182)' ellipse
+170 'fS  Not given (Koylu) Metzer bei Koy cer (183)' triangle
+171 'fS 1Hidayat (184)' triangle
+172 'f  1Han (185)' triangle
+173 'f  1Suleyman (Liseogretmeni- teacher) (186)' triangle
+174 'f  1Yasar (primary school Ilkokul- C,oba (187)' triangle
+175 'e  1Meliha (Koylu) (188)' ellipse
+176 'e   Not known (Koylu) (189)' triangle
+177 'e  1Ays,e (Tatali*s Da) (190)' ellipse
+178 'e  1Yusuf (191)' triangle
+179 'f  1Not given m.MZS (192)' ellipse
+180 'f  1Ecevit (194)' triangle
+181 'e  1Suleyman (198)' triangle
+182 'd  1Egri Mehmet m.865? (199)' triangle
+183 'd   Ays,e (200)' ellipse
+184 'e  1Huseyin (201)' triangle
+185 'f  1S,Rahibe (202)' ellipse
+186 'f  1Kerzivan (203)' ellipse
+187 'f  1S,erife (204)' ellipse
+188 'f  1Ahmet (205)' triangle
+189 'f  1Ali (206)' triangle
+190 'f  1Fatma (207)' ellipse
+191 'f  1Mustafa (208)' triangle
+192 'f  1Bagis (209)' triangle
+193 'f  1Ays,e (210)' ellipse
+194 'e  1Ecevit (211)' triangle
+195 'f  1Yusuf (212)' triangle
+196 'f  1Hac,er (213)' ellipse
+197 'f  1Suleyha (214)' ellipse
+198 'f  1Fehmi (215)' triangle
+199 'e  1Mehmet son of Dali Dege (geistis beh (216)' triangle
+200 'f  1Ali   SUBSTITUTED FOR 211 son of 211 (217)' triangle
+201 'd (Ciriklu) Halime Mustafa*s Da (218)' ellipse
+202 'f  1Rifat (219)' triangle
+203 'f  1S,erife (220)' ellipse
+204 'f  1Ays,e (221)' ellipse
+205 'c  1Humus (222)' ellipse
+206 'c  1Hatice (223)' ellipse
+207 'b  5Koca bey (224)' triangle
+208 'b   Not known (225)' ellipse
+209 'c  5Haci Ali bey (226)' triangle
+210 'c   Ays,a (227)' ellipse
+211 'c  5Veli Kahya (Antalya? gocebe) Vel Kay (228)' triangle
+212 'c   Not known (229)' ellipse
+213 'c   Menevse (230)' ellipse
+214 'd  5Ismail (231)' triangle
+215 'e  5Kara Osman (232)' triangle
+216 'f  5Asya (233)' ellipse
+217 'f  5Haci Mustafa (Koylu) (234)' triangle
+218 'f  5Fatma (240)' ellipse
+219 'e  5Ismail (241)' triangle
+220 'f  5Veli (250)' triangle
+221 'f  5Huseyin (256)' triangle
+222 'f   Not known (257)' ellipse
+223 'fS 5Zeynep (262)' ellipse
+224 'f  5Kir Ali (263)' triangle
+225 'f   Not given (264)' ellipse
+226 'g  5Mehmet m.FZD (265)' triangle
+227 'eS 5Fatma (266)' ellipse
+228 'e  5Erhek Mustafa (267)' triangle
+229 'f  5Kor Mehmet (268)' triangle
+230 'f   Dursun (Koylu Kizi) (269)' ellipse
+231 'g  5Ismail Hakki (270)' triangle
+232 'g  5Mustafa (271)' triangle
+233 'f  5Iurdu (272)' ellipse
+234 'f  5Not known (273)' ellipse
+235 'f  5Fatma ana (274)' ellipse
+236 'e  5Haci (275)' triangle
+237 'd  5Huseyin (276)' triangle
+238 'd   Durdu (277)' ellipse
+239 'd   Teslime (278)' ellipse
+240 'eS 5Bey Ramazan (279)' triangle
+241 'fS 5Huseyin (280)' triangle
+242 'g  5Halime m.MBS (281)' ellipse
+243 'g  5Hasan (282)' triangle
+244 'g  5Haci Ali (283)' triangle
+245 'g  5Not known (284)' triangle
+246 'g  5Not known (285)' ellipse
+247 'fS 5Hasan (286)' triangle
+248 'fK  Fatma (Koylu) (287)' ellipse
+249 'g  5Ismail (288)' triangle
+250 'fS 5Veli (294)' triangle
+251 'gS 5Omer (295)' triangle
+252 'g  5Mahmut (296)' triangle
+253 'g  5Ramazan (297)' triangle
+254 'g  5Yahub (298)' triangle
+255 'g  5Gullu (299)' ellipse
+256 'fS 5Haci (300)' triangle
+257 'fS 5Ibrahim (301)' triangle
+258 'fS  Emine (Koylu) (302)' ellipse
+259 'fS 5Halil (303)' triangle
+260 'fS 5Nezli (304)' ellipse
+261 'fS 5Durdu (305)' ellipse
+262 'e  5Deli Ali g.1874 bei Anatolya dorf au (306)' triangle
+263 'f  5Halil (307)' triangle
+264 'g  5Cannet (308)' ellipse
+265 'g  5Fatma (309)' ellipse
+266 'g  5Mehmet (310)' triangle
+267 'g  5Durdu (311)' ellipse
+268 'g  5Veli (312)' triangle
+269 'f  5Teslime (313)' ellipse
+270 'f  5Kara Veli (314)' triangle
+271 'g  5Unzela (315)' ellipse
+272 'g  5Veli (316)' triangle
+273 'g  5Semem (317)' ellipse
+274 'g  5Ali (318)' triangle
+275 'g  5Emine (319)' ellipse
+276 'g  5Fazer (320)' triangle
+277 'g  5Fustem (321)' triangle
+278 'g  5Darud (322)' triangle
+279 'g  5Omer (323)' triangle
+280 'f   Fatma (324)' ellipse
+281 'g  5Cafer (325)' triangle
+282 'g  5Hatice (326)' ellipse
+283 'g  5Ays,e (327)' ellipse
+284 'g  5Ramazan (328)' triangle
+285 'f  5Esmer (329)' ellipse
+286 'f  5Yeter (330)' ellipse
+287 'f  5Nezli (331)' ellipse
+288 'e  5Kara Veli (332)' triangle
+289 'f  5Gobek Huseyin (333)' triangle
+290 'g  5Ali (334)' triangle
+291 'g  5Veli (335)' triangle
+292 'g  5Mustafa (336)' triangle
+293 'g  5Fatma (337)' ellipse
+294 'f  5Ismail (338)' triangle
+295 'f  5Dondu (339)' ellipse
+296 'e  5Fatma ana (Huseyin*s da) (340)' ellipse
+297 'e  5Esmer (341)' ellipse
+298 'e  5Nezli (342)' ellipse
+299 'd  5Hasan Bey (343)' triangle
+300 'e  5Ramazan (344)' triangle
+301 'e  5Hafiz Ali (Ali Hafiz) (345)' triangle
+302 'f  5Hamit Haci (346)' triangle
+303 'g  5Abdurrahman (347)' triangle
+304 'h  5Mustafa POSSIBLY WIFE IS 651? (348)' triangle
+305 'i  5Lengiz (349)' triangle
+306 'h  5Zubeyda (350)' ellipse
+307 'h  5Dilek (351)' ellipse
+308 'h  5Gulsun m.MBS (352)' ellipse
+309 'h  5Rahibe (353)' ellipse
+310 'h  5Halim (354)' triangle
+311 'h  5Leyla (355)' ellipse
+312 'h  5Huru (356)' ellipse
+313 'h  5Suleyza (357)' ellipse
+314 'g  5Veli (358)' triangle
+315 'gS 5Ays,a (359)' ellipse
+316 'g  5Fatma (360)' ellipse
+317 'g  5Hasibe (361)' ellipse
+318 'g  5Veli Hoca (362)' triangle
+319 'g  5Dondu (363)' ellipse
+320 'g  5Zeycan (364)' ellipse
+321 'f  5Fatma (365)' ellipse
+322 'f  5Halil (366)' triangle
+323 'f (Honamli) Kara Bela Ays,a, Sihh Hoca*s (367)' ellipse
+324 'g  5Mustafa Hoca (368)' triangle
+325 'h  5Gonul (369)' ellipse
+326 'h  5Mehmet (370)' triangle
+327 'h  5Bediha (371)' ellipse
+328 'h  5Halil (372)' triangle
+329 'h  5Not given (373)' ellipse
+330 'g  5Gullu (374)' ellipse
+331 'g  5Ramazan (375)' triangle
+332 'g   Durdu? (376)' ellipse
+333 'h  5Ali (377)' triangle
+334 'hS 5Mahmut (378)' triangle
+335 'g  5Haci Ali (379)' triangle
+336 'h   Hatice (388)' ellipse
+337 'f  5Done (389)' ellipse
+338 'f  5Ays,a (390)' ellipse
+339 'f  5Gulsun - m.Efe Hehmet (391)' ellipse
+340 'f  5Hasan (392)' triangle
+341 'g  5Durdu (393)' ellipse
+342 'g  5Not given (394)' triangle
+343 'g  5Not given (395)' triangle
+344 'g  5Halil (396)' triangle
+345 'g   Ays,e (Buzakli Koy) (397)' ellipse
+346 'gS 5Mehmet (Liseogretmeni-teacher) (398)' triangle
+347 'g  5Abbas (399)' triangle
+348 'g   Fatma (Karabucak Koy) (400)' ellipse
+349 'h  5Hatice (401)' ellipse
+350 'g  5Mahmut (402)' triangle
+351 'g  5Terzi (403)' triangle
+352 'g  5Nurcan (404)' ellipse
+353 'e  5Kina (405)' ellipse
+354 'e  5Hava (406)' ellipse
+355 'e  5Huseyin (407)' triangle
+356 'd  5Dondu (DA of HEADMAN Veli Kahya) (408)' ellipse
+357 'd  8Deveci Ali (Oftegekind einem Dorf) E (409)' triangle
+358 'e  8Hasan Huseyin (410)' triangle
+359 'e  8Fatma (411)' ellipse
+360 'e   Not given (Koylu) (412)' triangle
+361 'f  8Mehmet (413)' triangle
+362 'f  8Hassan (414)' triangle
+363 'f  8Ays,a (415)' triangle
+364 'e  8Deveci Ali (416)' triangle
+365 'f  8Haci (417)' triangle
+366 'fS 8Durdu (418)' ellipse
+367 'gS  Not given (Koylu) (wife left to join (419)' triangle
+368 'f  8Osman (Omer?) Possible ERROR: MAYBE (420)' triangle
+369 'gS 8Not Given (421)' triangle
+370 'f  8Hasan (422)' triangle
+371 'f  8Mustafa (423)' triangle
+372 'f  8Ali (424)' triangle
+373 'f  8Emine (425)' ellipse
+374 'f  8Umme (426)' ellipse
+375 'f  8Not given (427)' ellipse
+376 'b  5Not known (428)' ellipse
+377 'b  5Not known (429)' ellipse
+378 'b  5Ismail Kara Molla-Black religious te (430)' triangle
+379 'b   Not given (431)' ellipse
+380 'c  5Aliboz (432)' triangle
+381 'c  5C,avus, (433)' triangle
+382 'c  5Ays,e (Karahacili) (435)' ellipse
+383 'c  6Yusuf (wahrsheinlidr Dazkirli) (436)' triangle
+384 'c  6Mehmet (437)' triangle
+385 'c   Zeynep (Ahmet*s Da) (Kara Hanli) (438)' ellipse
+386 'dS 6Kara Ali-Black Ali (439)' triangle
+387 'dS  Not given (Koylu) (440)' ellipse
+388 'd  6Sari Veli (Karahacili - Dazkirli Kab (441)' triangle
+389 'd   Dondu (Honambi) (442)' ellipse
+390 'e  6Emis (443)' ellipse
+391 'e   Osman (Koylu) (444)' triangle
+392 'e  6Dondu (Karahacili) (photo) (445)' ellipse
+393 'e  6Sara Ali (446)' triangle
+394 'e   Huriye (Tartar tribe-as,ireti) (447)' ellipse
+395 'f  6Iraz (Sara Ali*s da) (448)' ellipse
+396 'f  6Kerzivan (449)' ellipse
+397 'f   Mehmet (450)' triangle
+398 'f  6Fatma (451)' ellipse
+399 'f  6Cumali (Karahacili) (452)' triangle
+400 'f   Huriye (453)' ellipse
+401 'g   Not given (Kozan) (454)' triangle
+402 'g  6Ramazan (455)' triangle
+403 'g   Not given (Koylu Muhacir- refugee) (456)' ellipse
+404 'g  6Ahmet (457)' triangle
+405 'gS 6Iraz (458)' ellipse
+406 'gS  Not given (Kozan) (459)' triangle
+407 'g  6Munewer (460)' ellipse
+408 'g   Not given (461)' triangle
+409 'g  6Elil (462)' ellipse
+410 'g  6Kemal (463)' triangle
+411 'g  6Ulriye (464)' ellipse
+412 'g  6Saim (465)' triangle
+413 'f  6Ahmet (466)' triangle
+414 'f   Elif (Koylu) (467)' ellipse
+415 'f  6Mehmet (471)' triangle
+416 'f   Sultan (Koylu) (475)' ellipse
+417 'f  6Veli (476)' triangle
+418 'f  6Durdu (477)' ellipse
+419 'f  6Gussun (478)' ellipse
+420 'f (Hayta) Not given (479)' triangle
+421 'f  6Koc,ali (480)' triangle
+422 'g  6Osman (481)' triangle
+423 'g  6Feride (482)' ellipse
+424 'g  6Dondu (483)' ellipse
+425 'g  6Ays,el (484)' ellipse
+426 'f  6Veli (485)' triangle
+427 'f  6Akif (486)' triangle
+428 'f  6Meryem (487)' ellipse
+429 'f  6Zekerye (488)' triangle
+430 'e  6(?)Ays,e (489)' ellipse
+431 'e  6Fatma (490)' ellipse
+432 'e  6Arzi (491)' ellipse
+433 'e  6Hasan Huseyin (Karahacili) (492)' triangle
+434 'f  6Mehmet (493)' triangle
+435 'f  6Veli (495)' triangle
+436 'f  6Ramazan (496)' triangle
+437 'f  6Mustafa (497)' triangle
+438 'f  6Hasan (498)' triangle
+439 'f  6Mehers,e (499)' triangle
+440 'f  6C,avus, (500)' triangle
+441 'e  6Ramazan (501)' triangle
+442 'e   Emine (Kes,ivli tribe-as,ireti or vi (502)' ellipse
+443 'f  6Mehmet (503)' triangle
+444 'fS 6(sesshaft=settled bei Konya) (504)' ellipse
+445 'a   Kirbasi (g.1775) (507)' triangle
+446 'a   Not known (508)' ellipse
+447 'b  4Koca Oglan (Nomade bei Antalya) (509)' triangle
+448 'a   Muduloglu (510)' triangle
+449 'a   Not given (511)' ellipse
+450 'b   508 Not given (512)' ellipse
+451 'c  4Mehmet (513)' triangle
+452 'c  4Ali (Nomade bei Antalya) (514)' triangle
+453 'c   Isman (Omar efendi*s da) (515)' ellipse
+454 'd  4Mehmet (516)' triangle
+455 'd  4Erkek Mustafa (517)' triangle
+456 'e   Elif (Afs,ar) g.~1875 (518)' ellipse
+457 'e  4Haci (519)' triangle
+458 'g   Fatma (Durmusi*s da) (520)' ellipse
+459 'f  4Mehmet  g.~1905 (521)' triangle
+460 'g  4Oksuz=Orphaned Mustafa (Haci*s son) (522)' triangle
+461 'h  4Not given (523)' triangle
+462 'h   Not given (524)' ellipse
+463 'h  4Selbi (525)' ellipse
+464 'h  4Mehmet (526)' triangle
+465 'h  4Haci (527)' triangle
+466 'g  4Selbi (528)' ellipse
+467 'g (Honamli) Abdurrahman (529)' triangle
+468 'f  4Durdu (530)' ellipse
+469 'f  4Kerzivan (531)' ellipse
+470 'e  4Mullah Ali (photo) (532)' triangle
+471 'e (Honamli) Fatma (533)' ellipse
+472 'f  4Emin m.MBD (photo? Ulla*s lineage) (534)' triangle
+473 'f (Honamli) Ays,e m.FZS (535)' ellipse
+474 'g  4Mustafa (536)' triangle
+475 'g  4Havana (537)' ellipse
+476 'g  4Gokus (538)' ellipse
+477 'g  4Halil (539)' triangle
+478 'h  4Ihsan (540)' triangle
+479 'h  4Abdurrahman (541)' triangle
+480 'h  4Sultan (542)' ellipse
+481 'h  4Mustafa (543)' triangle
+482 'h  4Yeter (544)' ellipse
+483 'h  4Hatice (545)' ellipse
+484 'g  4Mehmet (546)' triangle
+485 'h  4Melek (547)' ellipse
+486 'h  4Dursan (548)' ellipse
+487 'h  4Not given (549)' triangle
+488 'h  4Ays,e (550)' ellipse
+489 'h  4Not given (551)' ellipse
+490 'h  4Ibrahim (552)' triangle
+491 'h  4Not given (553)' triangle
+492 'g  4Osman (554)' triangle
+493 'g  4Duru (Horsuz) Durdu? (probably 521?= (555)' ellipse
+494 'g  4Meryem (Horsuz) (photo?) (556)' ellipse
+495 'g (Horzum) Ali (557)' triangle
+496 'g  4Gussun m.FZS (558)' ellipse
+497 'g (Honamli) Mahmut m.MBD (son of Abdurra (559)' triangle
+498 'g  4Gulluhan (560)' ellipse
+499 'g  4Selbi (561)' ellipse
+500 'g  4Fatma (562)' ellipse
+501 'g  4Hava (563)' ellipse
+502 'g  4Ali m.FFBSD (FaFaBrSoSo-son of Emin) (564)' triangle
+503 'f  4Res,it (565)' triangle
+504 'g  4Mustafa (Gastarbeiter am Golf) (566)' triangle
+505 'h  4Not given (567)' ellipse
+506 'h  4Not given (568)' triangle
+507 'h  4Not given (569)' triangle
+508 'hS 4Not given (570)' ellipse
+509 'h  4Not given (571)' triangle
+510 'h  4Not given (572)' ellipse
+511 'g  4Isman (573)' ellipse
+512 'g   Not given (574)' triangle
+513 'g  4Arzu (575)' ellipse
+514 'g  4Teslime (576)' ellipse
+515 'g   Not given (577)' triangle
+516 'g  4Yeter (578)' ellipse
+517 'g  4Unal (579)' triangle
+518 'g  4Metin (580)' triangle
+519 'f  4Fatma m.MBS (581)' ellipse
+520 'f (Honamli) Abdurrahman m.FZD (582)' triangle
+521 'f  4Huriye (583)' ellipse
+522 'e  4Isa (photo) (584)' triangle
+523 'e (Honamli) Hanim (585)' ellipse
+524 'fS 4Aliboz (586)' triangle
+525 'g  4Meryem (587)' ellipse
+526 'gS  Orhan (Sari Kec,ili tribe) 1085=Turk (588)' triangle
+527 'g  4Hanife (589)' ellipse
+528 'g  4Durdu (590)' ellipse
+529 'g  4Umit (591)' triangle
+530 'g  4Mehmet (592)' triangle
+531 'g  4Songul (593)' ellipse
+532 'g  4Huseyin (594)' triangle
+533 'g  4Emin (595)' triangle
+534 'fS 4Huseyin (596)' triangle
+535 'f  4Mustafa (597)' triangle
+536 'g   Not given (598)' ellipse
+537 'fS  Yeter (599)' ellipse
+538 'g  4Inran m.FFBSS (600)' ellipse
+539 'g  4C,avus, (601)' triangle
+540 'g  4Not given (602)' triangle
+541 'g  4Yuksel (603)' triangle
+542 'g  4Ays,a (604)' ellipse
+543 'g  4Dondu (605)' ellipse
+544 'g  4Erdal (606)' triangle
+545 'g  4Sonay (607)' ellipse
+546 'g  4Srrdal (608)' triangle
+547 'g  4Suleyha (Culeyha) (609)' ellipse
+548 'g  4Ozcan (610)' triangle
+549 'f  4Yeter (611)' ellipse
+550 'eS 4Abdullah (612)' triangle
+551 'eS  Kurt Kizi (613)' ellipse
+552 'f  4Karakiz (614)' ellipse
+553 'f  4Emine (615)' ellipse
+554 'f (Horzum) Mustafa (bei Polatli town) (616)' triangle
+555 'f  4Mustafa (Kurt K...?) (617)' triangle
+556 'gS 4Menevse (Koylu - works in Magara ham (618)' ellipse
+557 'g  4Mehmet (619)' triangle
+558 'g  4Cumali (620)' triangle
+559 'g  4Sultan (621)' ellipse
+560 'g  4Musiret (622)' triangle
+561 'f  4Yeter (624)' ellipse
+562 'f (Hayta) Not given (625)' triangle
+563 'f  4Huseyin C,avus, (626)' triangle
+564 'f (Horzum) Lubeyen (Ismail*s Da) (Koylu= (627)' ellipse
+565 'gS 4Durdu (Koylu - works in Magara hamle (628)' triangle
+566 'gS 4Hureyla (629)' triangle
+567 'd   Hinali Mustafa m.MBSD (Cirtar) Kursu (630)' triangle
+568 'e   Ali (631)' triangle
+569 'e   Not given (632)' ellipse
+570 'f   Mustafa (633)' triangle
+571 'e   Ali Hinali Mustafa (634)' triangle
+572 'e   Gullu (C,akal tribe-as,ireti) (635)' ellipse
+573 'fS  Ali (Settled in Korehe/Kozan) (637)' triangle
+574 'gS  Ali (638)' triangle
+575 'gS  Gullu (639)' ellipse
+576 'gS  Osman (640)' triangle
+577 'gS  Fatma (641)' ellipse
+578 'gS  Mustafa (642)' triangle
+579 'gS  Ziya (643)' triangle
+580 'gS  Dis,yuze (644)' ellipse
+581 'gS  Hatib Ahmet (645)' triangle
+582 'f   Hinali Yusuf (646)' triangle
+583 'f   Remziye (Koylu) (647)' ellipse
+584 'gS  Gulcan (648)' ellipse
+585 'gS  Mustafa (649)' triangle
+586 'gS  Metin (650)' triangle
+587 'gS  Gulsiniye (651)' ellipse
+588 'f   Nuriye - m.his brother (2nd husb) le (652)' ellipse
+589 'f   Fatma (Koylu?) (653)' ellipse
+590 'f   Haci Mehmet (Koylu) (654)' triangle
+591 'f   Almaz m.FZS (655)' ellipse
+592 'f   Ays,e (656)' ellipse
+593 'e   Fatma (1304 inference?) (657)' ellipse
+594 'e   Yusuf (658)' triangle
+595 'b  2Abbas (Nomade bei Antalya) g.1810 (659)' triangle
+596 'b   Not known (660)' ellipse
+597 'c  2Haci Ketir Mehmet (one of founders) (661)' triangle
+598 'c   Not known (662)' ellipse
+599 'd  2Ali (663)' triangle
+600 'd   Not known (664)' ellipse
+601 'd  2Suleyman (665)' triangle
+602 'e  2Meryem (666)' ellipse
+603 'e  2Koca Ramazan (667)' triangle
+604 'f  2Emin (668)' triangle
+605 'f   Not given (669)' ellipse
+606 'g  2Ays,e (Da of ?+673 instead?) (670)' ellipse
+607 'g  2Gussun(Da of ?+673 instead?) (671)' ellipse
+608 'f  2Suleyman (672)' triangle
+609 'f  2Emine (673)' ellipse
+610 'f  2Gussun (674)' ellipse
+611 'f  2Goku (675)' ellipse
+612 'f   Kurt Huseyin (Susamli Koy) (676)' triangle
+613 'f  2Bobulo (677)' triangle
+614 'g  2Yasar (678)' triangle
+615 'h  2Senay (679)' triangle
+616 'h  2Gazi (680)' triangle
+617 'h  2Rahmaiye (681)' ellipse
+618 'h  2Bobuli (682)' triangle
+619 'g  2Halil (683)' triangle
+620 'g  2Hacil (684)' triangle
+621 'g  2Nasuf (685)' triangle
+622 'g  2Meryem (686)' ellipse
+623 'g  2Iraz (687)' ellipse
+624 'g  2Abdurrahman (688)' triangle
+625 'g  2Muzaffer (689)' triangle
+626 'f  2Kerzivan (690)' ellipse
+627 'fS 2Meryem (691)' ellipse
+628 'fS(Honamli) Aziz (Honamli Dinler Kabile) (692)' triangle
+629 'e  2Nasuf (693)' triangle
+630 'e   Fikri (Koylu) (694)' ellipse
+631 'f  2Huseyin (695)' triangle
+632 'f  2Hakki (696)' triangle
+633 'gS 2Mustafa (697)' triangle
+634 'g  2Nafiye (698)' ellipse
+635 'g  2?erased Inzila (699)' ellipse
+636 'g (Honamli) Ari not inside tribe SHOULD (700)' triangle
+637 'g  2Hukviye (701)' ellipse
+638 'g  2Tullu (702)' ellipse
+639 'g  2Yeter (703)' ellipse
+640 'f  2Osman (704)' triangle
+641 'f   Cennet (705)' ellipse
+642 'g  2Yadigar (706)' ellipse
+643 '(Hayta) unknown (707)' triangle
+644 'f  2Koreli Mustafa (708)' triangle
+645 'g  2Findik (709)' ellipse
+646 'g  2Omar (710)' triangle
+647 'g  2Abbaz (711)' triangle
+648 'g  2Ali (712)' triangle
+649 'g  2Musa (713)' triangle
+650 'f  2Zeynep (714)' ellipse
+651 'f  2Mehmet (715)' triangle
+652 'c  2Mustan (Koca Mustafa?) Founder (716)' triangle
+653 'd  2Fatma (718)' ellipse
+654 'd  2Saker Mustafa (719)' triangle
+655 'd (Honamli) Uryuka (720)' ellipse
+656 'e  2Sakar Halil (721)' triangle
+657 'e   Ays,a (Kabak Hasan*s Sister) (Sari K (722)' ellipse
+658 'f  2Nezli (723)' ellipse
+659 'f  2Fatma (724)' ellipse
+660 'f  2Meryem (725)' ellipse
+661 'f  2Urkuya (726)' ellipse
+662 'f  2Mehmet (727)' triangle
+663 'f   Ali Isman (Kurt Ali*s Da) (Kurdin) (728)' ellipse
+664 'f  2Mustafa (734)' triangle
+665 'f  2Abbas (740)' triangle
+666 'f   Dondu (Kurt Ali*s Da) (Kurdin) (741)' ellipse
+667 'g  2Hasan (742)' triangle
+668 'g  2Ahmer(?) (743)' triangle
+669 'g  2Mahmut(?) (744)' triangle
+670 'g  2Mustafa (745)' triangle
+671 '(Hayta) Haci Bulbul (746)' triangle
+672 '(Hayta) Haci Bobulo 677? (747)' triangle
+673 'e  2Sakar Haci ("Clumsy Haci") (748)' triangle
+674 'e (Hayta)  Mayali (Haci Bobulo*s da from (749)' ellipse
+675 'f  2Mustafa (750)' triangle
+676 'f   Fatma (Kurt Ahmet*s da) (Kurdin) (751)' ellipse
+677 'g  2Koc,ali (752)' triangle
+678 'f  2Havana (753)' ellipse
+679 'g  2Ummuhan (754)' ellipse
+680 'g (Hayta) Not given Enkel=grandson of Ha (755)' triangle
+681 'f  2Urkuya (758)' ellipse
+682 'f  2Havana (759)' ellipse
+683 'f  2Meliha (erased): m.to Mustafa (Hayta (760)' ellipse
+684 'f  2Ahmed (761)' triangle
+685 'g  2Not given (762)' triangle
+686 'e  2Sakar Ali (766)' triangle
+687 'f  2Osman m.MBD (unusual marriage?) (767)' triangle
+688 'e  2Sakar Kose Mustafa  (g-923 probably (768)' triangle
+689 'f  2Dondu (769)' ellipse
+690 'f  2Huseyin (770)' triangle
+691 'f   Havana (Sari Kec,ili tribe) (771)' ellipse
+692 'fS 2Mustafa (777)' triangle
+693 'f  2Ali (779)' triangle
+694 'f   Ays,a (Sari Kec,ili tribe) (780)' ellipse
+695 'f  2Ecevit (781)' triangle
+696 'f  2Havana (782)' ellipse
+697 'f  2Fatma (graph line 17 check husband (783)' ellipse
+698 'd  2Findik Ali (Findikli Ali?) (784)' triangle
+699 'e  2Mustafa (Bobulo) [Findikli Mustafa] (785)' triangle
+700 'f  2Efe Hasan (Findikli Efe) (786)' triangle
+701 'g  2Kerzivan (787)' ellipse
+702 'g  2Emine (788)' ellipse
+703 'g  2Mahmut (789)' triangle
+704 'g  2Abbas (790)' triangle
+705 'g  2Ali (791)' triangle
+706 'g  2Davud (792)' triangle
+707 'g  2Leyla (793)' ellipse
+708 'f  2Terzi Mustafa (Findikli Mustafa*s so (794)' triangle
+709 'g  2Mehmet (795)' triangle
+710 'g   Huspe (Koylu) (796)' ellipse
+711 'h  2Epru (797)' ellipse
+712 'hS 2Faziliyet (798)' ellipse
+713 'gS 2Ismet (Polis) (799)' triangle
+714 'g  2Yasar (Polis) (800)' triangle
+715 'g   Gulen (Koylu-Tepe Koyu) (801)' ellipse
+716 'h  2Siir (802)' ellipse
+717 'h  2Mustafa (803)' triangle
+718 'h  2Sibel (804)' ellipse
+719 'g  2S,erife (805)' ellipse
+720 'g  2Gulsun (806)' ellipse
+721 'g  2Ahmet (807)' triangle
+722 'f  2Veli Kurabulut (Findikli Mustafa*s S (808)' triangle
+723 'f (809)' ellipse
+724 'gS 2Hatice (810)' ellipse
+725 'g  2Donny (811)' ellipse
+726 'f   Hatice (aus Saimbeyli town) (812)' ellipse
+727 'g  2Fatma (813)' ellipse
+728 'g  2Savas (814)' triangle
+729 'gS 2Not given (815)' ellipse
+730 'f  2Ays,e (816)' ellipse
+731 'e  2Not given (817)' ellipse
+732 'e  2Findikli Haci (TANIDIK KISI) (818)' triangle
+733 'f  2Yusuf (819)' triangle
+734 'g  2Oguz (820)' triangle
+735 'g  2Hatice (821)' ellipse
+736 'g  2Turkan (822)' triangle
+737 'f  2Ummuhan (823)' ellipse
+738 'h  2 (824)' ellipse
+739 'f  2Gussun (825)' ellipse
+740 'fS 2Koc,ali (high head of administration (826)' triangle
+741 'f   Not given (comes from Kayseri town) (827)' ellipse
+742 'gS 2Not given (828)' ellipse
+743 'fS 2Mustafa (829)' triangle
+744 'fS 2Ugar (Saimbeyla) (830)' triangle
+745 'f  2Mediha (831)' ellipse
+746 'fS(Horzum) Not given (832)' triangle
+747 'f  2Hava (836)' ellipse
+748 'f  2? (837)' triangle
+749 'f  2C,inali (Polizei sargent) (838)' triangle
+750 'f  2Senina (gym teacher) (839)' ellipse
+751 'e  2Findikli Abbas (840)' triangle
+752 'f  2Havana (841)' ellipse
+753 'f  2Durdu (842)' ellipse
+754 'f  2Gullu (843)' ellipse
+755 'f  2Nazik (844)' ellipse
+756 'f  2Yeter (845)' ellipse
+757 'f  2Suleyman (846)' triangle
+758 'g  2Gungor (847)' triangle
+759 'gS 2S,engul (848)' ellipse
+760 'fS 2Mahmut (Liseogretmeni-teacher) (Derg (851)' triangle
+761 'gS 2Not given (852)' ellipse
+762 'fS 2Ali (director of elem. school -Ilkok (853)' triangle
+763 'f  2Abbas (Traktorcu- tractor driver) (854)' triangle
+764 'eS 2Findikli Mahmut (S in Saimbeyli) (855)' triangle
+765 'f  2Inzila (856)' ellipse
+766 'f  2Zeynep (857)' ellipse
+767 'fS 2Halil (Avokat-lawyer) (Tufanbeyl tow (858)' triangle
+768 'g  2Not given (859)' triangle
+769 'g  2Not given (860)' triangle
+770 'f  2"Dondu" (861)' ellipse
+771 'f  2Mehmet (862)' triangle
+772 'f  2Zekeriye (863)' triangle
+773 'e  2Fatma (864)' ellipse
+774 'e  2Ays,a (865)' ellipse
+775 'd  2Havana (866)' ellipse
+776 'd  2Aysa m.FFZS (mistakenly scratched ou (867)' ellipse
+777 'd  2Abbas Hocu m.MBD (868)' triangle
+778 'e  2Efe Mehmet (869)' triangle
+779 'f  2Habib Haci (870)' triangle
+780 'g  2Yeldiz (871)' ellipse
+781 'g  2Sinan (872)' triangle
+782 'g  2Seycan (873)' ellipse
+783 'f  2Hasan (874)' triangle
+784 'f  2Nezile (875)' ellipse
+785 'f  2Hatice (876)' ellipse
+786 'f  2Yasar (877)' triangle
+787 'f  2Gerife (878)' ellipse
+788 'e  2Senam (Efe Halil*s da) (879)' ellipse
+789 'e  2Efe Halil (880)' triangle
+790 'e   Cemile (881)' ellipse
+791 'e  2Efe Hasan (882)' triangle
+792 'f  2Hasan Karabulut (883)' triangle
+793 'g  2Hasan (884)' triangle
+794 'g   Elif (Sari Kec,ili tribe) (885)' ellipse
+795 'g  2Veli (886)' triangle
+796 'g  2Maya (887)' ellipse
+797 'gS 2Senam (888)' ellipse
+798 'g   Haci (Koylu) (889)' triangle
+799 'g  2Yeter (890)' ellipse
+800 'gS 2Hava (891)' ellipse
+801 'g  2Mustafa (892)' triangle
+802 'f  2 (893)' ellipse
+803 'f  2Emine (894)' ellipse
+804 'f  2Fatma (895)' ellipse
+805 'f  2Topal Mahmut (896)' triangle
+806 'f  2Efe Suleyman (897)' triangle
+807 'f   Hasibe (Koylu) (898)' ellipse
+808 'g  2Mehmet (899)' triangle
+809 'h  2Yasemin (900)' ellipse
+810 'h  2Ays,egul (901)' ellipse
+811 'gS 2Duran (902)' triangle
+812 'gS 2Hasan (903)' triangle
+813 'gS 2Abbas (904)' triangle
+814 'gS 2Levia (905)' ellipse
+815 'gS 2Mecmun (906)' triangle
+816 'gS 2Not given (907)' ellipse
+817 'gS 2Not given (908)' ellipse
+818 'gS 2Not given (909)' triangle
+819 'e  2Guluskari (m.FZSD) (910)' ellipse
+820 'e  2Ays,a m.FZS (Koca Mustafa son*s Da a (911)' ellipse
+821 'e  2Durdu (Abbas*s da) m. Deveci Ali (912)' ellipse
+822 'e  2Emine (913)' ellipse
+823 'e  2Ali (914)' triangle
+824 'e   Elif (Koylu) (915)' ellipse
+825 'fS 2Isman(?) (916)' ellipse
+826 'fS  Kurtcu Kara (Koylu) (Kurdish black) (917)' triangle
+827 'f  2Kara Mehmet (918)' triangle
+828 'f   Cennet (Tutar) SAME AS 121? WRITTEN (919)' ellipse
+829 'g  2Ismail Pas,a (920)' triangle
+830 'g  2Hava (921)' ellipse
+831 'h  2Abdullah (922)' triangle
+832 'g  2Gussun (Kara Mehmet*s da) (923)' ellipse
+833 'gS 2Kerzivan (924)' ellipse
+834 'gS  Not known(?) (Koylu) (Eski Hantas b. (925)' triangle
+835 'gS 2Yasar (926)' triangle
+836 'h  2Ahmet (927)' triangle
+837 'h  2Nehrivan (928)' ellipse
+838 'h  2Zafer (929)' triangle
+839 'g  2Osman (932)' triangle
+840 'g   Fatma (Bostaklar Koy b.Kozan) (933)' ellipse
+841 'h  2Sila (934)' triangle
+842 'h  2Cennet (935)' ellipse
+843 'h  2Erol (936)' triangle
+844 'g  2Mahmut (937)' triangle
+845 'g   Not given (Koylu) (name of village E (938)' ellipse
+846 'h  2Erdal (939)' triangle
+847 'g  2Ali (943)' triangle
+848 'g  2Hilmi (944)' triangle
+849 'g   Not given (Orta Koy b.Kozan) (945)' ellipse
+850 'gS 2Emine (946)' ellipse
+851 'f  2Suleyman (947)' triangle
+852 'f   Sultani (948)' ellipse
+853 'gS 2Mustafa (949)' triangle
+854 'g  2Sultani (950)' ellipse
+855 'g  2Neliha m.MZS (951)' ellipse
+856 'g   Ibrahim m.MZD (952)' triangle
+857 'e  2Mustafa (953)' triangle
+858 'f  2Sapuk Halil (954)' triangle
+859 'f  2Ays,a (955)' ellipse
+860 'g  2Abbas (956)' triangle
+861 'g   Not given (Koylu) Satir Koy (957)' ellipse
+862 'h  2Remzi  (is mo 83?) (965)' triangle
+863 'h   Not given (966)' ellipse
+864 'S  Not given (Satir Koy) (967)' triangle
+865 'S  Not given (Satir Koy) (968)' triangle
+866 'hS 2Medina (is mo 83?) (969)' triangle
+867 'g  2Sapuk Mustafa (970)' triangle
+868 'h  2Unal (973)' triangle
+869 'h  2Nazim (974)' triangle
+870 'h  2Huseyin (975)' triangle
+871 'i  2Mustafa (976)' triangle
+872 'h  2Celal (977)' triangle
+873 'h  2Sahim (978)' ellipse
+874 'h  2Done (979)' ellipse
+875 'h  2Not given (980)' triangle
+876 'g  2Selahattin (990)' triangle
+877 'g   Not given (Koylu) Satir Koy (991)' ellipse
+878 'g   Not given (Koylu) Satir Koy (992)' ellipse
+879 'g  2Not given (1002)' triangle
+880 'gS 2Ibrahim (Fabrik arbeiter) (1003)' triangle
+881 'gS  Emine (Sari Kec,ili tribe; Sesshaft= (1004)' ellipse
+882 'h  2Yasar (1005)' triangle
+883 'gS 2Orhan S in Eyup bei Kadirli (1006)' triangle
+884 'gS  Not given (Koylu) S in Eyup bei Kadi (1007)' ellipse
+885 'g  2Aymet (1008)' triangle
+886 'g  2Zeliha (1009)' ellipse
+887 'g  2Emine (1010)' ellipse
+888 'g  2Nazik (1011)' ellipse
+889 'd  2Gokkiz (1012)' ellipse
+890 'd  2Mehmet Ali (1013)' triangle
+891 'e  2Yalniz Mehmet (1014)' triangle
+892 'e (Ciriklu) Durdu (1015)' ellipse
+893 'f  2Mehmet Ali (1016)' triangle
+894 'f   Fatma (Koylu) (1017)' ellipse
+895 'g  2Ays,e (1018)' ellipse
+896 'g  2S,erife (1019)' triangle
+897 'g  2Mummin m.FZD S? (1020)' triangle
+898 'h  2Not given (1021)' triangle
+899 'gS 2Humus (1022)' ellipse
+900 'gS 2Hassah (1023)' triangle
+901 'f   Fatma (1026)' ellipse
+902 'f  2Ali (1027)' triangle
+903 'f  2Durdu (1030)' ellipse
+904 'f  2Kerzivan (1031)' ellipse
+905 'f  2Selvi (1032)' ellipse
+906 'f  2Cumali (1033)' triangle
+907 'e  2Karakoz (1034)' ellipse
+908 'e (Ciriklu) Gokkullu (1035)' triangle
+909 'e  2Yalniz Mustafa (Ecevitii) (1036)' triangle
+910 'e   Ummi (Tekeli) (1037)' ellipse
+911 'f  2Halil (1038)' triangle
+912 'f  2Suleyman (1039)' triangle
+913 'f  2Not given (1044)' triangle
+914 'f  2Cumali (1045)' triangle
+915 'f   Cennet (Tekeli) (1046)' ellipse
+916 'f  2Mummin (1051)' triangle
+917 'f   Not given (Koylu) (1052)' ellipse
+918 'f  2Halil m.MZD (1053)' triangle
+919 'f  2Huseyin (1054)' triangle
+920 'f  2Humus m.MZS (1055)' ellipse
+921 'f  2Arzu (1056)' ellipse
+922 'f   Not given (Imamoglu Koylu) (1057)' triangle
+923 'fS 2Huseyin (1058)' triangle
+924 'fS  Not given (Koylu) (1059)' ellipse
+925 'd  2Gussun (1060)' ellipse
+926 'd  2Koc,ali (Koc,ili?) (1061)' triangle
+927 'e  2Haci Mehmet Ali (1062)' triangle
+928 'e  2Koc, Haci (1067)' triangle
+929 'e   Urkuye (Koylu) (1068)' ellipse
+930 'fS 2Huseyin (1069)' triangle
+931 'gS 2Emine (1070)' ellipse
+932 'd  3Gussun m.FZD (Ecevitli) (1071)' ellipse
+933 'gS 2Cumali (1072)' triangle
+934 'gS 2Mahmut (1073)' triangle
+935 'gS 2Suleyman (1074)' triangle
+936 'gS 2Not given (1075)' ellipse
+937 'f  2Suleyman m. erschlagan (1076)' triangle
+938 'f  2Haci Mehmet (1077)' triangle
+939 'fS 2Not given (1078)' ellipse
+940 'f  2Iraziye (1079)' ellipse
+941 'f  2Mustafa (1080)' triangle
+942 'fS 2Not given (1081)' triangle
+943 'f  2Fazil (1082)' ellipse
+944 'fS 2Yasu (1083)' triangle
+945 'fS 2Muhammed (Tepe Koylu-Kara Tepe) (1084)' triangle
+946 'f   Turkan (Sari Kec,ili tribe) (1085)' ellipse
+947 'f  2Meryem (1086)' ellipse
+948 'f   Not given (1087)' triangle
+949 'f  2Mehmet Ali (1088)' triangle
+950 'f   Mendufe (Koylu) (1089)' ellipse
+951 'g  2Hatice (1090)' ellipse
+952 'g  2Zeliha (1091)' ellipse
+953 'g  2Tufet (1092)' ellipse
+954 'g  2Halil (1093)' triangle
+955 'g  2Han (1094)' triangle
+956 'g  2Yeter (1095)' ellipse
+957 'g  2Meryem (1096)' ellipse
+958 'g  2Not Given (1097)' ellipse
+959 'f  2Koc,ali (1098)' triangle
+960 'f   S,erife (1099)' ellipse
+961 'g  2Gemen (1100)' ellipse
+962 'g  2Elif (1101)' ellipse
+963 'g  2Durdu (1102)' ellipse
+964 'g  2Mustafa (1103)' triangle
+965 'g  2Servet (1104)' triangle
+966 'f  2Hatice (1105)' ellipse
+967 'f   Ismail (Koylu Misis) (1106)' triangle
+968 'f (Honamli) Mustafa (1107)' triangle
+969 'f  2Ays,e (1108)' ellipse
+970 'f   Not given (Koylu) (1109)' triangle
+971 'f  2(?)Ismail (1110)' triangle
+972 'e  2Durdu (1116)' ellipse
+973 'e  2Ebeli Kerzivan (1117)' ellipse
+974 'e  2Nesibe (1118)' ellipse
+975 'e  2Meryem (1119)' ellipse
+976 'e   Ali (Koylu) (1120)' triangle
+977 'e  2Ismail (Koc,ali*s-1061? So) (1121)' triangle
+978 'd  2Huseyin (Karahacili) Donsuz oglu (1127)' triangle
+979 'e  2Haci Bey (1128)' triangle
+980 'f  2Husein (1129)' triangle
+981 'f   Not Given (1130)' ellipse
+982 'f  2Not known (1131)' triangle
+983 'f  2Ays,e (1132)' ellipse
+984 'e  2Hatice (1134)' ellipse
+985 'e  2Yusuf (1135)' triangle
+986 'e   Huriye (Koylu) (1136)' ellipse
+987 'f  2 (1137)' triangle
+988 'f (1138)' ellipse
+989 'f  2Nuriye or Huriye (1139)' ellipse
+990 'e  2Emine (1146)' ellipse
+991 'd  2Durdu (1147)' ellipse
+992 'd  2S,erife (1148)' ellipse
+993 'b  3Not given (1149)' triangle
+994 'b   Not given (1150)' ellipse
+995 'c  3Ummuhan   (Ecevitli) (Kurs,un Koy) (1151)' ellipse
+996 'c  3Not given (Ecevitli) (Kurs,un Koy) (1152)' triangle
+997 'c   Not given (1153)' ellipse
+998 'd  3Kole Ali (1154)' triangle
+999 'd   Not given (1155)' ellipse
+1000 'e  3Mahmut Kole Suleiman Hoca (1156)' triangle
+1001 'fS 3Huseyin der Bucklige (1157)' triangle
+1002 'e           same as 366 M Halil (1161)' triangle
+1003 'e (Honamli) same as 367 F Ays,a (1162)' ellipse
+1004 'fS 3Haziret Ali (1163)' triangle
+1005 'g  3Abbas (1164)' triangle
+1006 'g  3Ummu m.MBS (1165)' ellipse
+1007 'g  3Mahmut (1166)' triangle
+1008 'g   Not given (Koylu Kozan) (1167)' ellipse
+1009 'g  3Serap (1168)' ellipse
+1010 'd  3Halil (Ecevitli) (1169)' triangle
+1011 'e  3Hatice (Karahacili) (1170)' ellipse
+1012 'e  3Kole Mahmut (1171)' triangle
+1013 'f  3Musa (grandda: Emine) Mustafa (1172)' triangle
+1014 'g  3Bekir (1173)' triangle
+1015 'f   Isman (Donsuz Kabile) (Kunas Koca*s (1174)' ellipse
+1016 'h  3Huseyin (1175)' triangle
+1017 'h  3Nejdet (1176)' ellipse
+1018 'g  3Halil (1177)' triangle
+1019 'h  3Efe (1178)' triangle
+1020 'h  3Emine (1179)' ellipse
+1021 'g  3Gussum (1180)' ellipse
+1022 'gS 3Havana (1181)' ellipse
+1023 'gS  Embiye (Eyuplu Koyu) (1182)' triangle
+1024 'f  3Feride (1183)' ellipse
+1025 'f (Horzum) Hasan (went far out of region (1184)' triangle
+1026 'f  3Huseyin der unehrliche vom Blitz get (1185)' triangle
+1027 'f  3Halil (1186)' triangle
+1028 'f   Hikmet (Saimbeyli) (1187)' ellipse
+1029 'f  3Bec,et (1188)' triangle
+1030 'f   Medine (Gedikli Koy) (1189)' ellipse
+1031 'g  3Gapip (1190)' triangle
+1032 'g (Hayta) Not given (Hayta Kelebekli) (1191)' ellipse
+1033 'g  3Belkis (1195)' ellipse
+1034 'g  3Zeliha (1196)' ellipse
+1035 'g  3Sunay (1197)' ellipse
+1036 'g   Not given (aus Kozan) (1198)' triangle
+1037 'g  3Mahmut (1199)' triangle
+1038 'g  3Ali (1200)' triangle
+1039 'g  3S,erife (1201)' ellipse
+1040 'g  3Not given (1202)' triangle
+1041 'f  3Cennet (Mo:Emine) (1203)' ellipse
+1042 'f  3Kemal (Mahmut+Ermine*s son) - wife t (1204)' triangle
+1043 'g  3Huseyin (1205)' triangle
+1044 'g  3(Drillinge) (1206)' ellipse
+1045 'g  3(Drillinge) (1207)' ellipse
+1046 'g  3(Drillinge) (1208)' triangle
+1047 'f  3Haci (1214)' triangle
+1048 'f   Cennet (Tarpan Koyu) (1215)' ellipse
+1049 'f  3Ali (1219)' triangle
+1050 'f   Not given (Tepe Koyu) (1220)' ellipse
+1051 'f  3Malik (1223)' triangle
+1052 'f   Not given (Koylu) (1224)' ellipse
+1053 'c  7Koca Mustafa (1228)' triangle
+1054 'c   Not given (1229)' ellipse
+1055 'd  7Deli Abdurrahman (v. Kursun Koyu) (1230)' triangle
+1056 'e  7Kara Ahraz Ali or Kara Ali-Black Ali (1231)' triangle
+1057 'e   Fatma (Koylu) (1232)' ellipse
+1058 'e   Not known (1233)' ellipse
+1059 'f  7Ismail (1234)' triangle
+1060 'gS 7Mustafa (1235)' triangle
+1061 'gS 7Ali Karabulu (1236)' triangle
+1062 'g   Ays,e (Tekeli) (a? Kara Koyuulu*s da (1237)' ellipse
+1063 'hS 7Ismail (Otlu koy village) (1238)' triangle
+1064 'hS 7Halime (Otlu koy village) (1239)' ellipse
+1065 'hS 7Meryem (Otlu koy village) (1240)' ellipse
+1066 'hS 7Fatma (Otlu koy village) (1241)' ellipse
+1067 'g  7Yusuf (1242)' triangle
+1068 'g   Ays,e (Koylu) (1243)' ellipse
+1069 'gS 7Durdu (Koylu) (1247)' ellipse
+1070 'Huseyin SAME AS 1069 I BELIEVE (1248)' triangle
+1071 'f  7Ays,e (1249)' ellipse
+1072 'g  7Abdul Kadir (1250)' triangle
+1073 'g   Ays,a (Manavli) (1251)' ellipse
+1074 'g  7Ali (1256)' triangle
+1075 'g   Isman (Kara Koyunlu tribe) (1257)' ellipse
+1076 'h  7 (1258)' ellipse
+1077 'h  7 (1261)' triangle
+1078 'f  7Arif Hoca (1262)' triangle
+1079 'f   Ays,e (1263)' ellipse
+1080 'g  7Duran (1264)' triangle
+1081 'g  7Durdu (1270)' ellipse
+1082 'g (Another Tribe) Not given (Andrev Stam (1271)' triangle
+1083 'f  7Fatma (1272)' ellipse
+1084 'e  7Koca Ibrahim m.MBD (1273=Abbas Hocu8 (1273)' triangle
+1085 'f  7Huseyin (1274)' triangle
+1086 'fS  Sultan (Koylu) (1275)' ellipse
+1087 'gS 7Adem (1276)' triangle
+1088 'gS 7Macnun (1277)' triangle
+1089 'gS 7Ays,a (1278)' ellipse
+1090 'gS 7Leyla (1279)' ellipse
+1091 'gS 7Teslime (1280)' ellipse
+1092 'gS 7Mestinaz (1281)' ellipse
+1093 'f  7Mahmut (1282)' triangle
+1094 'SAME AS 11 (1283)' ellipse
+1095 'g  7Ibrahim (erzogen bei Hava?) (1284)' triangle
+1096 'g  7Melek (1285)' ellipse
+1097 'f  7Hava (1286)' ellipse
+1098 'f  7Guluser (1287)' ellipse
+1099 'f   Mustafa (Koylu) (1288)' triangle
+1100 'f  7Durdu (1289)' ellipse
+1101 'e  7Kula Mehmet (1290)' triangle
+1102 'e   Isman (Koylu) (1291)' ellipse
+1103 'fS 7Fatma (1292)' ellipse
+1104 'fS 7Durdu (1293)' ellipse
+1105 'fS 7Ahmet (1294)' triangle
+1106 'f   Not given (Koylu) (1295)' ellipse
+1107 'fS 7Veli (1300)' triangle
+1108 'f  7Guluser (1301)' ellipse
+1109 'f   Not given (Gumus,lu Koyu) (1302)' triangle
+1110 'f  7Havana (1303)' ellipse
+1111 'e  7Ahraz Mustafa (wife was coded as 653 (1304)' triangle
+1112 'f  7Ahraz Mahmet m.MBD (1305)' triangle
+1113 'g  7Mustafa (1306)' triangle
+1114 'h  7Yusuf (1307)' triangle
+1115 'h  7Yeter (1308)' ellipse
+1116 'h  7Servet (1309)' ellipse
+1117 'h  7Ali (1310)' triangle
+1118 'g  7Ays,a (1312)' ellipse
+1119 'g  7Yeter (1313)' ellipse
+1120 'g  7Duran (1314)' triangle
+1121 'g  7Havana (1315)' ellipse
+1122 'g  7Gullu (1316)' ellipse
+1123 'g  7Fatma (1317)' ellipse
+1124 'g  7Abbas (1318)' triangle
+1125 'fS 7Ali (1319)' triangle
+1126 'SAME AS 653 (1320)' ellipse
+1127 'gS 7Mustafa (1321)' triangle
+1128 'gS 7Ays,e (1322)' ellipse
+1129 'gS 7Sadika (1323)' ellipse
+1130 'gS  Ali (Koylu) Mutter-relative (1324)' triangle
+1131 'g  7Samiye (1325)' ellipse
+1132 'g  7Safiye (1326)' ellipse
+1133 'g  7Fatma (1327)' ellipse
+1134 'g  7Emine (1328)' ellipse
+1135 'g  7Cafer (1329)' triangle
+1136 'f  7Meryem (H=Ali Hinali*s So) (in Koreh (1330)' ellipse
+1137 'f  7Duran (1331)' triangle
+1138 'e (1332)' ellipse
+1139 'e   Durdu (Alsarinan*s da from Arnac,kar (1333)' ellipse
+1140 'e   Elif (Afs,ar tribe) (1334)' ellipse
+1141 'e (Horzum) Gullu (1335)' ellipse
+1142 'd   Ays,e (Sari Kec,ili tribe) (Kemincl (1336)' ellipse
+1143 'd  4Koeghi? (1337)' triangle
+1144 'd   Sidika (entlan fam.) (1338)' ellipse
+1145 'd   Ays,e (Karahacili) (1339)' ellipse
+1146 'g  5Suat? (1340)' triangle
+1147 'g  5Huseyin (1341)' triangle
+1148 'g  5Nuray (1342)' ellipse
+1149 'g  5Shay (1344)' triangle
+1150 'e  4Kara Kiz-Iraz (1345)' ellipse
+1151 'e  4Ummu (1346)' ellipse
+1152 'e   Not Given (1347)' ellipse
+1153 'g  6Munevver (Sari Abiler?)  Husband 925 (1348)' ellipse
+1154 'f   Dondu (Tutar) (1349)' ellipse
+1155 'e   Tulay (Tekeli) (Saimbeyli) (1350)' ellipse
+1156 'e   Emine (Sari Kec,ili tribe) (1351)' ellipse
+1157 'e   Onbas Halil (Corporal Halil) came fr (1352)' triangle
+1158 'f   Dondu (Eyuplis Koy or: Kotum(?)) (1353)' ellipse
+1159 'd   Fatma (Sari Mustafa*s da) (1354)' ellipse
+1160 'g   Dondu (Kara Veli*s Da? Si?) same as (1356)' ellipse
+1161 'f   Efe Mullah (1357)' triangle
+1162 'e   Anasari (Ikiz Mehmet*s da) (1358)' ellipse
+1163 'f   Hatice (1359)' ellipse
+1164 'fS 7Deli Abdurrahman (was 1249) older Br (1360)' triangle
+1165 'g   Sulum (1361)' triangle
+1166 'f   Beyram (1362)' triangle
+1167 'f   Musa (1363)' triangle
+1168 'f   Ahmet (1364)' triangle
+1169 'fS  Not given (Kozan) (1365)' triangle
+1170 'f   Rugtlan? (1366)' triangle
+1171 'f  9Emin (1367)' triangle
+1172 'f  9Meryem (1368)' ellipse
+1173 'e   Mustafa (Huseyin*s son - mit Emine) (1369)' triangle
+1174 'd  2Mehmet Ali (1370)' triangle
+1175 'd  2Durdu (1372)' ellipse
+1176 'g   Ummuhan (=83(?)Kose Haci*s da ULLA Q (1373)' ellipse
+1177 'f  2Mustafa (Sakar Halil*s son) (1374)' triangle
+1178 'e   Kurt Ali (Kurdin) (1375)' triangle
+1179 'e  2Osman m.MBD (Ali*s son) (bei Sakar, (1376)' triangle
+1180 'd  2Huseyin (1377)' triangle
+1181 'c   Kor Veli (fa of 1379, 1380) (1378)' triangle
+1182 'e   C,avus, Ali (Kor Veli*s son) (1379)' triangle
+1183 'e   Menevse (Karahacili) Kor Veli*s Da (1380)' ellipse
+1184 'a   Ismail (g.1780-1810) (1381)' triangle
+1185 'gS 1Vinyamin (1382)' triangle
+1186 'g   Halime (Bostaklar Koy; Koylu?) NOT 1 (1383)' ellipse
+1187 'e  1Halil (Egri Mehmet*s son) was m.114 (1384)' triangle
+1188 'Not given (1385)' ellipse
+1189 'g   Ummuhan (Koylu) NO 83 AS WIFE IS WRO (1386)' ellipse
+1190 'e  4Kara Veli (Deli Ali*s son) (1387)' triangle
+1191 'Not given (1388)' triangle
+1192 'f   Not given (Koylu) (1389)' triangle
+1193 'eS  (became sedentary) Virtual Father of (1390)' triangle
+1194 'e   Hasan (Dazkirli Hasan) (1392)' triangle
+1195 'f   Ays,e (Hasan Dazkirli Da) (Zembircil (1393)' ellipse
+1196 'e   Kara Durdu (Mustafa*s da) (1394)' ellipse
+1197 'e   C,oban Ahmet (Musa Vavusi*s son) fru (1395)' triangle
+1198 'f   Suleyman Ciric (Mummun*s son) (1396)' triangle
+1199 'e (Ciriklu) Mummun (1397)' triangle
+1200 'd (Honamli) Sihh Hoca Fa of 367 and 1390 (1398)' triangle
+1201 'a      1 M multiply married but lacks pa (1399)' triangle
+1202 'c  9  99 M multiply married but lacks pa (1400)' triangle
+1203 'd    100 M multiply married but lacks pa (1401)' triangle
+1204 'd    613 F multiply married but lacks pa (1403)' triangle
+1205 'f    885 F multiply married but lacks pa (1404)' triangle
+1206 'd    915 F multiply married but lacks pa (1405)' triangle
+1207 'e   1288 F multiply married but lacks pa (1407)' triangle
+1208 'c   1336 F multiply married but lacks pa (1409)' triangle
+1209 'd   1358 F multiply married but lacks pa (1411)' triangle
+1210 'e   wife whose name erased, wife of Br o (1412)' ellipse
+1211 'd   S,erife (Mullah Mahmut*s da) (1413)' ellipse
+1212 'f  8Fatma (1414)' ellipse
+1213 'h  2Ismail (1415)' triangle
+1214 'g  2Mehmet (1416)' triangle
+1215 'f  2Huseyir (1417)' triangle
+1216 'gS  m.FZD (Gumus,lu Koyu bei Imamoglu (w (1423)' triangle
+1217 'e  1Haci (Karaoglan*s so) (1424)' triangle
+1218 'g  4Sadi (1425)' triangle
+1219 'g  4Melek (1426)' ellipse
+1220 'g  4Dilek (1427)' ellipse
+1221 'g  4Mustafa (1428)' triangle
+1222 'g  4Songul (1429)' ellipse
+1223 'g  4Hava (1430)' ellipse
+1224 'g  4Erca (1431)' triangle
+1225 'h   Fatma (1432)' ellipse
+1226 'h   Ferdi (1433)' ellipse
+1227 'h  4Omer (1434)' triangle
+1228 'h  4Gullu (1435)' ellipse
+1229 'h  4Emin (1436)' triangle
+1230 'b  6Fa of 436 and 437 (1437)' triangle
+1231 'c  4Ahmet (SAME AS 51?) (1438)' triangle
+1232 'd  4Ays,a (1439)' ellipse
+1233 'd  4Kerzivan (1440)' ellipse
+1234 'dS 4Yeter (1441)' triangle
+1235 'c   Not known (1442)' ellipse
+1236 'd  4Ali (Kirbas oglu)(Koylu) (1443)' triangle
+1237 'd  4Yeter (1444)' ellipse
+1238 'gS 6Arzi (1453)' ellipse
+1239 'e   Iyivaz (Don Suzlu Kabile) (1464)' triangle
+1240 'h   Mustafa (Hosak) (1465)' triangle
+1241 'g   Mehmet (Dazkirli) (1467)' triangle
+1242 'g   Not given (Fa unknown) (1468)' triangle
+1243 'f   Huseyin Arab oglu (Koylu) (1469)' triangle
+1244 'f   Suleyman (Sariarik Mehmet*s son) (1470)' triangle
+1245 'h  2Davul (1471)' triangle
+1246 'f (Hayta) Not given (1472)' triangle
+1247 'f  2Not given (1473)' triangle
+1248 'f (Horzum) Not given (bei Dorfyal?) (1474)' triangle
+1249 'g    (Korglu) (1475)' triangle
+1250 'f   Not given m.MZD (1476)' triangle
+1251 'f   Not given (Koylu) (1477)' ellipse
+1252 'f   Gulsun (Pepismail*s Da) (1478)' ellipse
+1253 'f   Not given (1479)' ellipse
+1254 'e   Havana (Huseyin C,avus,*s da)(Donsuz (1480)' ellipse
+1255 'g   (confusing blue line-ignored?) (1481)' ellipse
+1256 'e   Gussun (probably NOT g-923) (1482)' ellipse
+1257 'f (Honamli) ? (1483)' ellipse
+1258 'g (Hayta) Not given (1484)' ellipse
+1259 'f   Hatice (1485)' ellipse
+1260 'd   Not given (Koylu) (1486)' ellipse
+1261 'h  2Zeynal (1921)' ellipse
+1262 'h  2Ali (1923)' triangle
+1263 'h  2Iraz (1924)' ellipse
+1264 'b   father of Hinali Mustafa (1925)' triangle
+1265 'a   Yusuf, Ismail*s BR, founder of (1926)' triangle
+1266 'father of Yusuf and Ismail (1927)' triangle
+1267 'b   mother of Hinali Mustafa (1928)' ellipse
+1268 'e  2Deli Habib (Son of Osman, poss. hu o (1929)' triangle
+1269 'a   mofa of Hinali Mustafa = fa of 659 b (1930)' triangle
+*arcs
+1 8 1
+1 6 1
+1 10 1
+1 4 1
+1 7 1
+1 9 1
+1 5 1
+3 8 1
+3 6 1
+3 10 1
+3 4 1
+3 7 1
+3 9 1
+3 5 1
+4 151 1
+4 166 1
+4 152 1
+4 182 1
+4 142 1
+5 138 1
+6 235 1
+6 229 1
+6 233 1
+6 234 1
+9 12 1
+9 11 1
+10 62 1
+10 81 1
+10 84 1
+10 26 1
+11 1096 1
+11 1095 1
+12 75 1
+12 69 1
+12 74 1
+12 63 1
+12 83 1
+12 68 1
+12 77 1
+12 78 1
+14 17 1
+14 21 1
+14 18 1
+14 19 1
+14 15 1
+14 20 1
+14 16 1
+23 25 1
+23 141 1
+23 137 1
+23 205 1
+23 206 1
+23 92 1
+22 25 1
+22 141 1
+22 137 1
+22 205 1
+22 206 1
+22 92 1
+25 62 1
+25 81 1
+25 84 1
+25 26 1
+26 46 1
+26 52 1
+26 58 1
+26 28 1
+26 37 1
+26 61 1
+28 35 1
+28 34 1
+28 31 1
+28 36 1
+28 29 1
+28 30 1
+28 33 1
+28 32 1
+37 43 1
+37 42 1
+37 38 1
+37 41 1
+37 40 1
+37 44 1
+37 45 1
+37 39 1
+46 51 1
+46 50 1
+46 48 1
+46 49 1
+46 47 1
+48 305 1
+52 57 1
+52 53 1
+52 56 1
+52 54 1
+52 55 1
+58 59 1
+58 60 1
+63 65 1
+63 66 1
+63 67 1
+63 64 1
+62 75 1
+62 69 1
+62 74 1
+62 63 1
+62 83 1
+62 68 1
+62 77 1
+62 78 1
+61 88 1
+61 87 1
+69 71 1
+69 72 1
+69 70 1
+69 73 1
+78 80 1
+78 79 1
+74 126 1
+74 127 1
+74 124 1
+74 128 1
+74 125 1
+85 89 1
+85 90 1
+85 91 1
+85 86 1
+84 89 1
+84 90 1
+84 91 1
+84 86 1
+86 88 1
+86 87 1
+81 123 1
+82 80 1
+82 79 1
+93 115 1
+93 120 1
+93 105 1
+93 116 1
+93 119 1
+93 106 1
+93 117 1
+93 118 1
+92 122 1
+94 99 1
+94 97 1
+94 96 1
+94 103 1
+94 101 1
+94 98 1
+94 100 1
+94 102 1
+94 104 1
+94 1170 1
+94 95 1
+89 1263 1
+89 1262 1
+89 1261 1
+89 831 1
+91 57 1
+91 53 1
+91 56 1
+91 54 1
+91 55 1
+90 35 1
+90 34 1
+90 31 1
+90 36 1
+90 29 1
+90 30 1
+90 33 1
+90 32 1
+106 113 1
+106 1172 1
+106 107 1
+106 110 1
+106 112 1
+106 108 1
+106 1171 1
+106 111 1
+106 114 1
+106 109 1
+105 202 1
+105 204 1
+105 203 1
+116 425 1
+116 424 1
+116 423 1
+116 422 1
+123 126 1
+123 127 1
+123 124 1
+123 128 1
+123 125 1
+122 123 1
+122 1217 1
+122 133 1
+122 129 1
+122 134 1
+122 136 1
+122 135 1
+122 131 1
+122 132 1
+122 130 1
+121 428 1
+121 398 1
+121 426 1
+121 395 1
+121 417 1
+121 413 1
+121 421 1
+121 427 1
+121 396 1
+121 419 1
+121 415 1
+121 418 1
+121 429 1
+121 399 1
+137 138 1
+141 151 1
+141 166 1
+141 152 1
+141 182 1
+141 142 1
+143 147 1
+143 149 1
+143 144 1
+143 146 1
+143 145 1
+143 148 1
+142 150 1
+142 143 1
+152 165 1
+152 164 1
+152 163 1
+152 154 1
+152 162 1
+153 165 1
+153 164 1
+153 163 1
+153 154 1
+153 162 1
+154 157 1
+154 159 1
+154 156 1
+154 160 1
+154 158 1
+154 155 1
+151 17 1
+151 21 1
+151 18 1
+151 19 1
+151 15 1
+151 20 1
+151 16 1
+168 1185 1
+162 911 1
+162 916 1
+162 920 1
+162 913 1
+162 923 1
+162 919 1
+162 918 1
+162 914 1
+162 912 1
+162 921 1
+167 173 1
+167 172 1
+167 174 1
+167 168 1
+167 169 1
+167 171 1
+166 177 1
+166 175 1
+166 181 1
+166 167 1
+166 178 1
+164 180 1
+164 179 1
+184 189 1
+184 185 1
+184 186 1
+184 193 1
+184 191 1
+184 190 1
+184 187 1
+184 192 1
+184 188 1
+178 180 1
+178 179 1
+177 1022 1
+177 147 1
+177 149 1
+177 144 1
+177 146 1
+177 145 1
+177 148 1
+177 1021 1
+177 1014 1
+177 1018 1
+182 1187 1
+182 194 1
+182 199 1
+182 184 1
+183 1187 1
+183 194 1
+183 199 1
+183 184 1
+205 907 1
+205 891 1
+205 909 1
+207 209 1
+207 211 1
+207 378 1
+207 376 1
+207 377 1
+206 977 1
+206 975 1
+206 972 1
+206 973 1
+206 928 1
+206 927 1
+206 974 1
+194 195 1
+194 196 1
+194 197 1
+194 200 1
+194 198 1
+216 245 1
+216 242 1
+216 243 1
+216 246 1
+216 244 1
+213 356 1
+213 214 1
+213 299 1
+214 227 1
+214 236 1
+214 215 1
+214 228 1
+215 1268 1
+215 216 1
+215 218 1
+215 224 1
+215 220 1
+215 219 1
+215 223 1
+215 221 1
+215 217 1
+208 209 1
+208 211 1
+208 378 1
+208 376 1
+208 377 1
+211 356 1
+211 214 1
+211 237 1
+211 299 1
+239 296 1
+239 297 1
+239 262 1
+239 298 1
+239 288 1
+238 240 1
+237 296 1
+237 240 1
+237 297 1
+237 262 1
+237 298 1
+237 288 1
+235 796 1
+235 801 1
+235 797 1
+235 799 1
+235 795 1
+235 793 1
+235 800 1
+230 232 1
+230 231 1
+229 232 1
+229 231 1
+228 235 1
+228 229 1
+228 233 1
+228 234 1
+227 257 1
+227 247 1
+227 250 1
+227 260 1
+227 256 1
+227 241 1
+227 261 1
+227 259 1
+225 226 1
+224 226 1
+250 252 1
+250 253 1
+250 254 1
+250 255 1
+250 251 1
+248 249 1
+247 249 1
+240 257 1
+240 247 1
+240 250 1
+240 260 1
+240 256 1
+240 241 1
+240 261 1
+240 259 1
+241 245 1
+241 242 1
+241 243 1
+241 246 1
+241 244 1
+280 282 1
+280 281 1
+280 283 1
+280 284 1
+286 195 1
+286 196 1
+286 197 1
+286 200 1
+286 198 1
+285 189 1
+285 185 1
+285 186 1
+285 193 1
+285 191 1
+285 190 1
+285 187 1
+285 192 1
+285 188 1
+262 285 1
+262 270 1
+262 286 1
+262 263 1
+262 287 1
+262 1190 1
+262 269 1
+263 268 1
+263 267 1
+263 264 1
+263 266 1
+263 265 1
+270 274 1
+270 281 1
+270 272 1
+270 283 1
+270 273 1
+270 279 1
+270 282 1
+270 277 1
+270 275 1
+270 271 1
+270 278 1
+270 276 1
+270 284 1
+269 252 1
+269 253 1
+269 254 1
+269 255 1
+269 251 1
+304 305 1
+308 898 1
+315 530 1
+315 527 1
+315 531 1
+315 529 1
+315 533 1
+315 532 1
+315 528 1
+315 525 1
+317 43 1
+317 42 1
+317 38 1
+317 41 1
+317 40 1
+317 44 1
+317 45 1
+317 39 1
+319 781 1
+319 782 1
+319 780 1
+318 1149 1
+318 1148 1
+318 1146 1
+318 1147 1
+288 294 1
+288 295 1
+288 289 1
+289 292 1
+289 290 1
+289 293 1
+289 291 1
+295 268 1
+295 267 1
+295 264 1
+295 266 1
+295 265 1
+296 1072 1
+296 1067 1
+296 1061 1
+296 1060 1
+296 1074 1
+296 1069 1
+299 353 1
+299 300 1
+299 355 1
+299 301 1
+299 354 1
+301 339 1
+301 337 1
+301 322 1
+301 302 1
+301 338 1
+301 321 1
+301 340 1
+302 315 1
+302 319 1
+302 314 1
+302 316 1
+302 318 1
+302 317 1
+302 303 1
+302 320 1
+303 309 1
+303 306 1
+303 311 1
+303 312 1
+303 307 1
+303 310 1
+303 308 1
+303 313 1
+303 304 1
+340 341 1
+340 352 1
+340 350 1
+340 343 1
+340 344 1
+340 342 1
+340 351 1
+340 347 1
+340 346 1
+339 783 1
+339 787 1
+339 779 1
+339 786 1
+339 784 1
+339 785 1
+337 737 1
+337 733 1
+348 349 1
+347 349 1
+324 326 1
+324 328 1
+324 327 1
+324 325 1
+324 329 1
+322 335 1
+322 331 1
+322 330 1
+322 324 1
+323 1007 1
+323 335 1
+323 1005 1
+323 1006 1
+323 331 1
+323 330 1
+323 1009 1
+323 324 1
+320 539 1
+320 541 1
+320 1223 1
+320 543 1
+320 540 1
+320 538 1
+320 542 1
+332 333 1
+332 334 1
+331 333 1
+331 334 1
+368 369 1
+382 227 1
+382 236 1
+382 215 1
+382 228 1
+379 381 1
+379 380 1
+379 382 1
+378 381 1
+378 380 1
+378 382 1
+357 359 1
+357 364 1
+357 358 1
+358 363 1
+358 362 1
+358 361 1
+358 1212 1
+354 806 1
+354 804 1
+354 805 1
+354 792 1
+354 803 1
+354 802 1
+364 375 1
+364 371 1
+364 365 1
+364 373 1
+364 374 1
+364 372 1
+364 370 1
+364 366 1
+364 368 1
+393 428 1
+393 398 1
+393 426 1
+393 395 1
+393 417 1
+393 413 1
+393 421 1
+393 427 1
+393 396 1
+393 419 1
+393 415 1
+393 418 1
+393 429 1
+393 399 1
+392 534 1
+392 535 1
+392 524 1
+392 549 1
+399 407 1
+399 1153 1
+399 402 1
+399 412 1
+399 411 1
+399 409 1
+399 405 1
+399 1238 1
+399 410 1
+399 404 1
+398 646 1
+398 645 1
+398 647 1
+398 648 1
+398 649 1
+385 388 1
+385 386 1
+384 388 1
+384 386 1
+389 390 1
+389 441 1
+389 393 1
+389 392 1
+389 433 1
+389 430 1
+389 431 1
+389 432 1
+388 390 1
+388 441 1
+388 393 1
+388 392 1
+388 433 1
+388 430 1
+388 431 1
+388 432 1
+441 444 1
+441 443 1
+442 444 1
+442 443 1
+445 447 1
+446 447 1
+447 452 1
+447 451 1
+447 1231 1
+432 460 1
+432 466 1
+433 435 1
+433 440 1
+433 436 1
+433 437 1
+433 434 1
+433 439 1
+433 438 1
+430 1217 1
+430 133 1
+430 129 1
+430 134 1
+430 136 1
+430 135 1
+430 131 1
+430 132 1
+430 130 1
+418 559 1
+418 558 1
+418 556 1
+418 560 1
+418 557 1
+421 425 1
+421 424 1
+421 423 1
+421 422 1
+477 480 1
+477 479 1
+477 483 1
+477 481 1
+477 482 1
+477 478 1
+475 113 1
+475 1172 1
+475 107 1
+475 110 1
+475 112 1
+475 108 1
+475 1171 1
+475 111 1
+475 114 1
+475 109 1
+472 502 1
+472 494 1
+472 475 1
+472 498 1
+472 476 1
+472 492 1
+472 499 1
+472 496 1
+472 474 1
+472 477 1
+472 501 1
+472 484 1
+472 500 1
+473 502 1
+473 494 1
+473 475 1
+473 498 1
+473 476 1
+473 492 1
+473 499 1
+473 496 1
+473 474 1
+473 477 1
+473 501 1
+473 484 1
+473 500 1
+470 521 1
+470 472 1
+470 519 1
+470 503 1
+471 521 1
+471 472 1
+471 519 1
+471 503 1
+468 435 1
+468 440 1
+468 436 1
+468 437 1
+468 434 1
+468 439 1
+468 438 1
+469 518 1
+469 513 1
+469 514 1
+469 504 1
+469 517 1
+469 511 1
+469 516 1
+460 463 1
+460 465 1
+460 464 1
+460 461 1
+459 493 1
+459 460 1
+459 466 1
+458 480 1
+458 479 1
+458 483 1
+458 481 1
+458 482 1
+458 478 1
+457 468 1
+457 459 1
+457 469 1
+455 470 1
+455 550 1
+455 1150 1
+455 1151 1
+455 457 1
+455 522 1
+453 455 1
+453 1234 1
+453 1233 1
+453 1232 1
+453 1143 1
+453 454 1
+452 455 1
+452 1234 1
+452 1233 1
+452 1232 1
+452 1143 1
+452 454 1
+450 452 1
+450 451 1
+450 1231 1
+449 450 1
+448 450 1
+504 509 1
+504 505 1
+504 506 1
+504 507 1
+504 510 1
+504 508 1
+503 518 1
+503 513 1
+503 514 1
+503 504 1
+503 517 1
+503 511 1
+503 516 1
+493 1229 1
+493 1228 1
+493 1227 1
+492 1229 1
+492 1228 1
+492 1227 1
+484 485 1
+484 488 1
+484 489 1
+484 486 1
+484 491 1
+484 487 1
+484 490 1
+550 563 1
+550 553 1
+550 555 1
+550 552 1
+550 561 1
+551 563 1
+551 553 1
+551 555 1
+551 552 1
+551 561 1
+555 559 1
+555 558 1
+555 556 1
+555 560 1
+555 557 1
+567 571 1
+567 568 1
+567 593 1
+567 594 1
+564 1219 1
+564 1222 1
+564 1220 1
+564 1221 1
+564 1218 1
+564 566 1
+564 565 1
+563 1219 1
+563 1222 1
+563 1220 1
+563 1221 1
+563 1218 1
+563 566 1
+563 565 1
+573 577 1
+573 581 1
+573 579 1
+573 575 1
+573 578 1
+573 574 1
+573 576 1
+573 580 1
+572 582 1
+572 588 1
+572 592 1
+572 589 1
+572 591 1
+572 573 1
+571 582 1
+571 588 1
+571 592 1
+571 589 1
+571 591 1
+571 573 1
+569 570 1
+568 570 1
+519 493 1
+524 530 1
+524 527 1
+524 531 1
+524 529 1
+524 533 1
+524 532 1
+524 528 1
+524 525 1
+525 1225 1
+525 1226 1
+526 1225 1
+526 1226 1
+521 173 1
+521 172 1
+521 174 1
+521 168 1
+521 169 1
+521 171 1
+522 534 1
+522 535 1
+522 524 1
+522 549 1
+535 1223 1
+535 547 1
+535 543 1
+535 540 1
+535 548 1
+535 546 1
+535 1224 1
+535 545 1
+535 544 1
+535 542 1
+535 539 1
+535 541 1
+535 538 1
+537 547 1
+537 548 1
+537 546 1
+537 545 1
+537 1224 1
+537 544 1
+536 509 1
+536 505 1
+536 506 1
+536 507 1
+536 510 1
+536 508 1
+611 983 1
+611 982 1
+611 980 1
+614 617 1
+614 618 1
+614 615 1
+614 1213 1
+614 1245 1
+614 616 1
+613 614 1
+613 625 1
+613 624 1
+613 623 1
+613 620 1
+613 619 1
+613 622 1
+613 621 1
+626 637 1
+626 639 1
+626 633 1
+626 634 1
+626 635 1
+626 638 1
+630 631 1
+630 1247 1
+630 650 1
+630 651 1
+630 644 1
+630 640 1
+630 632 1
+629 631 1
+629 1247 1
+629 650 1
+629 651 1
+629 644 1
+629 640 1
+629 632 1
+634 871 1
+632 637 1
+632 639 1
+632 633 1
+632 634 1
+632 635 1
+632 638 1
+637 1017 1
+637 1016 1
+582 586 1
+582 585 1
+582 587 1
+582 584 1
+583 586 1
+583 585 1
+583 587 1
+583 584 1
+588 752 1
+588 762 1
+588 750 1
+588 760 1
+588 749 1
+588 755 1
+588 757 1
+588 754 1
+588 748 1
+588 756 1
+588 753 1
+588 763 1
+589 1131 1
+589 1129 1
+589 1128 1
+589 1135 1
+589 1134 1
+589 1132 1
+589 1133 1
+589 1127 1
+591 1122 1
+591 1120 1
+591 1118 1
+591 1124 1
+591 1119 1
+591 1113 1
+591 1123 1
+591 1121 1
+593 1137 1
+593 1112 1
+593 1136 1
+593 1125 1
+592 709 1
+592 714 1
+592 713 1
+592 720 1
+592 719 1
+592 721 1
+595 597 1
+595 652 1
+597 1175 1
+597 1180 1
+597 599 1
+597 1174 1
+597 601 1
+596 597 1
+596 652 1
+598 1175 1
+598 1180 1
+598 599 1
+598 1174 1
+598 601 1
+601 602 1
+601 629 1
+601 603 1
+603 627 1
+603 613 1
+603 608 1
+603 604 1
+603 610 1
+603 626 1
+603 609 1
+603 611 1
+602 468 1
+602 459 1
+602 469 1
+605 606 1
+605 607 1
+604 606 1
+604 607 1
+606 617 1
+606 618 1
+606 615 1
+606 1213 1
+606 1245 1
+606 616 1
+686 687 1
+684 685 1
+676 1214 1
+676 677 1
+676 679 1
+675 1214 1
+675 677 1
+675 679 1
+674 678 1
+674 681 1
+674 683 1
+674 682 1
+674 675 1
+674 684 1
+673 678 1
+673 681 1
+673 683 1
+673 682 1
+673 675 1
+673 684 1
+672 674 1
+700 705 1
+700 703 1
+700 707 1
+700 704 1
+700 701 1
+700 706 1
+700 702 1
+701 810 1
+701 809 1
+698 773 1
+698 764 1
+698 699 1
+698 1179 1
+698 731 1
+698 751 1
+698 732 1
+698 774 1
+699 722 1
+699 708 1
+699 730 1
+699 700 1
+697 1076 1
+697 1077 1
+688 693 1
+688 695 1
+688 697 1
+688 689 1
+688 692 1
+688 690 1
+688 696 1
+653 353 1
+653 300 1
+653 355 1
+653 301 1
+653 354 1
+652 926 1
+652 889 1
+652 925 1
+652 992 1
+652 698 1
+652 978 1
+652 775 1
+652 991 1
+652 777 1
+652 890 1
+652 776 1
+652 654 1
+652 653 1
+655 673 1
+655 656 1
+655 688 1
+655 686 1
+654 673 1
+654 656 1
+654 688 1
+654 686 1
+644 646 1
+644 645 1
+644 647 1
+644 648 1
+644 649 1
+641 642 1
+640 642 1
+643 680 1
+671 643 1
+665 670 1
+665 667 1
+665 669 1
+665 668 1
+666 670 1
+666 667 1
+666 669 1
+666 668 1
+661 685 1
+656 660 1
+656 662 1
+656 661 1
+656 659 1
+656 664 1
+656 1177 1
+656 658 1
+656 665 1
+657 660 1
+657 662 1
+657 661 1
+657 659 1
+657 664 1
+657 1177 1
+657 658 1
+657 665 1
+658 46 1
+658 52 1
+658 58 1
+658 28 1
+658 37 1
+658 61 1
+751 752 1
+751 762 1
+751 760 1
+751 755 1
+751 757 1
+751 754 1
+751 756 1
+751 753 1
+751 763 1
+737 725 1
+737 724 1
+741 742 1
+740 742 1
+760 761 1
+766 818 1
+767 768 1
+767 769 1
+764 771 1
+764 770 1
+764 767 1
+764 766 1
+764 772 1
+764 765 1
+754 837 1
+754 836 1
+754 838 1
+752 1117 1
+752 1115 1
+752 1114 1
+752 1116 1
+753 1045 1
+753 1043 1
+753 1046 1
+753 1044 1
+757 758 1
+757 759 1
+715 716 1
+715 717 1
+715 718 1
+714 716 1
+714 717 1
+714 718 1
+709 712 1
+709 711 1
+708 709 1
+708 714 1
+708 713 1
+708 720 1
+708 719 1
+708 721 1
+710 712 1
+710 711 1
+730 736 1
+730 734 1
+730 735 1
+731 687 1
+732 743 1
+732 745 1
+732 750 1
+732 744 1
+732 749 1
+732 737 1
+732 740 1
+732 747 1
+732 733 1
+732 748 1
+732 738 1
+732 739 1
+733 736 1
+733 734 1
+733 735 1
+722 729 1
+722 728 1
+722 725 1
+722 724 1
+722 727 1
+726 729 1
+726 728 1
+726 727 1
+821 359 1
+821 364 1
+821 358 1
+820 1098 1
+820 1100 1
+820 1097 1
+820 1085 1
+820 1093 1
+823 851 1
+823 827 1
+823 825 1
+822 1042 1
+822 1013 1
+822 1026 1
+822 1027 1
+822 1024 1
+822 1041 1
+819 1001 1
+819 1004 1
+829 1263 1
+829 1262 1
+829 1261 1
+829 831 1
+828 848 1
+828 847 1
+828 844 1
+828 835 1
+828 832 1
+828 839 1
+828 850 1
+828 829 1
+828 830 1
+828 833 1
+830 407 1
+830 1153 1
+830 402 1
+830 412 1
+830 411 1
+830 409 1
+830 405 1
+830 1238 1
+830 410 1
+830 404 1
+824 851 1
+824 827 1
+824 858 1
+824 859 1
+824 825 1
+827 848 1
+827 847 1
+827 844 1
+827 835 1
+827 832 1
+827 839 1
+827 850 1
+827 829 1
+827 830 1
+827 833 1
+806 813 1
+806 814 1
+806 811 1
+806 812 1
+806 816 1
+806 808 1
+806 818 1
+806 817 1
+806 815 1
+807 813 1
+807 814 1
+807 811 1
+807 812 1
+807 816 1
+807 808 1
+807 817 1
+807 815 1
+802 341 1
+802 352 1
+802 350 1
+802 343 1
+802 344 1
+802 342 1
+802 351 1
+802 347 1
+802 346 1
+803 743 1
+803 745 1
+803 744 1
+803 740 1
+803 747 1
+803 738 1
+803 739 1
+808 810 1
+808 809 1
+791 806 1
+791 804 1
+791 805 1
+791 792 1
+791 803 1
+791 802 1
+788 771 1
+788 770 1
+788 767 1
+788 766 1
+788 772 1
+788 765 1
+785 768 1
+785 769 1
+792 796 1
+792 801 1
+792 797 1
+792 799 1
+792 795 1
+792 793 1
+792 800 1
+775 1101 1
+775 1056 1
+775 1084 1
+775 1111 1
+773 1049 1
+773 1047 1
+773 1051 1
+773 1029 1
+778 783 1
+778 787 1
+778 779 1
+778 786 1
+778 784 1
+778 785 1
+779 781 1
+779 782 1
+779 780 1
+776 571 1
+776 568 1
+776 593 1
+776 594 1
+777 819 1
+777 788 1
+777 823 1
+777 789 1
+777 822 1
+777 857 1
+777 791 1
+777 821 1
+777 778 1
+777 820 1
+881 882 1
+880 882 1
+889 602 1
+889 629 1
+889 603 1
+891 904 1
+891 893 1
+891 902 1
+891 1215 1
+891 905 1
+891 903 1
+891 906 1
+890 907 1
+890 891 1
+890 909 1
+893 896 1
+893 897 1
+893 895 1
+892 904 1
+892 893 1
+892 902 1
+892 1215 1
+892 905 1
+892 903 1
+892 906 1
+894 896 1
+894 897 1
+894 895 1
+867 869 1
+867 873 1
+867 875 1
+867 872 1
+867 868 1
+867 874 1
+867 870 1
+870 871 1
+851 853 1
+851 854 1
+851 855 1
+850 761 1
+852 853 1
+852 854 1
+852 855 1
+859 375 1
+859 371 1
+859 373 1
+859 374 1
+859 372 1
+858 885 1
+858 886 1
+858 879 1
+858 876 1
+858 883 1
+858 880 1
+858 867 1
+858 860 1
+858 887 1
+858 888 1
+857 858 1
+857 859 1
+860 866 1
+860 862 1
+835 837 1
+835 836 1
+835 838 1
+832 463 1
+832 465 1
+832 464 1
+839 843 1
+839 842 1
+839 841 1
+840 843 1
+840 842 1
+840 841 1
+844 846 1
+845 846 1
+959 962 1
+959 961 1
+959 965 1
+959 963 1
+959 964 1
+949 956 1
+949 952 1
+949 958 1
+949 955 1
+949 953 1
+949 951 1
+949 957 1
+949 954 1
+950 956 1
+950 952 1
+950 958 1
+950 955 1
+950 953 1
+950 951 1
+950 957 1
+950 954 1
+946 1149 1
+946 1148 1
+946 1146 1
+946 1147 1
+932 819 1
+932 788 1
+932 823 1
+932 789 1
+932 822 1
+932 857 1
+932 791 1
+932 821 1
+932 778 1
+932 820 1
+929 942 1
+929 944 1
+929 939 1
+929 930 1
+929 940 1
+929 941 1
+929 938 1
+929 937 1
+929 945 1
+929 943 1
+928 959 1
+928 942 1
+928 944 1
+928 966 1
+928 941 1
+928 947 1
+928 969 1
+928 937 1
+928 945 1
+928 943 1
+928 930 1
+928 939 1
+928 971 1
+928 940 1
+928 938 1
+928 949 1
+930 934 1
+930 933 1
+930 931 1
+930 935 1
+930 936 1
+926 977 1
+926 975 1
+926 972 1
+926 973 1
+926 928 1
+926 927 1
+926 974 1
+925 1012 1
+925 1011 1
+909 911 1
+909 916 1
+909 920 1
+909 913 1
+909 923 1
+909 919 1
+909 918 1
+909 914 1
+909 912 1
+909 921 1
+908 1259 1
+907 1259 1
+905 326 1
+905 328 1
+905 327 1
+905 325 1
+905 329 1
+904 309 1
+904 306 1
+904 311 1
+904 312 1
+904 307 1
+904 310 1
+904 308 1
+904 313 1
+904 304 1
+903 614 1
+903 625 1
+903 624 1
+903 623 1
+903 620 1
+903 619 1
+903 622 1
+903 621 1
+901 899 1
+901 900 1
+897 898 1
+1018 1019 1
+1018 1020 1
+1021 869 1
+1021 873 1
+1021 875 1
+1021 872 1
+1021 868 1
+1021 874 1
+1021 870 1
+1010 1012 1
+1010 1011 1
+1011 339 1
+1011 337 1
+1011 322 1
+1011 302 1
+1011 338 1
+1011 321 1
+1011 340 1
+1012 1049 1
+1012 1047 1
+1012 1042 1
+1012 1051 1
+1012 1013 1
+1012 1026 1
+1012 1027 1
+1012 1024 1
+1012 1041 1
+1012 1029 1
+1013 1022 1
+1013 1021 1
+1013 1014 1
+1013 1018 1
+1014 1017 1
+1014 1016 1
+1000 1001 1
+1000 1004 1
+1004 1007 1
+1004 1005 1
+1004 1006 1
+1004 1009 1
+993 996 1
+993 995 1
+995 926 1
+995 889 1
+995 925 1
+995 992 1
+995 698 1
+995 978 1
+995 775 1
+995 991 1
+995 777 1
+995 890 1
+995 776 1
+995 654 1
+995 653 1
+994 996 1
+994 995 1
+997 932 1
+997 998 1
+997 1010 1
+996 932 1
+996 998 1
+996 1010 1
+999 1000 1
+998 1000 1
+986 987 1
+986 989 1
+984 959 1
+984 966 1
+984 971 1
+984 947 1
+984 949 1
+984 969 1
+985 987 1
+985 989 1
+991 122 1
+989 279 1
+989 274 1
+989 275 1
+989 277 1
+989 272 1
+989 271 1
+989 273 1
+989 278 1
+989 276 1
+978 979 1
+978 985 1
+978 990 1
+978 984 1
+979 983 1
+979 982 1
+979 980 1
+974 115 1
+974 120 1
+974 105 1
+974 116 1
+974 119 1
+974 106 1
+974 117 1
+974 118 1
+973 1198 1
+972 285 1
+972 270 1
+972 286 1
+972 263 1
+972 269 1
+960 962 1
+960 961 1
+960 965 1
+960 963 1
+960 964 1
+1100 365 1
+1100 370 1
+1100 366 1
+1100 368 1
+1101 1105 1
+1101 1110 1
+1101 1103 1
+1101 1107 1
+1101 1104 1
+1101 1108 1
+1102 1105 1
+1102 1110 1
+1102 1103 1
+1102 1107 1
+1102 1104 1
+1102 1108 1
+1096 71 1
+1096 72 1
+1096 70 1
+1096 73 1
+1097 315 1
+1097 319 1
+1097 314 1
+1097 316 1
+1097 318 1
+1097 317 1
+1097 303 1
+1097 320 1
+1093 1096 1
+1093 1095 1
+1118 758 1
+1118 759 1
+1113 1117 1
+1113 1115 1
+1113 1114 1
+1113 1116 1
+1112 1122 1
+1112 1120 1
+1112 1118 1
+1112 1124 1
+1112 1119 1
+1112 1113 1
+1112 1123 1
+1112 1121 1
+1111 1137 1
+1111 1112 1
+1111 1136 1
+1111 1125 1
+1125 1131 1
+1125 1129 1
+1125 1128 1
+1125 1135 1
+1125 1134 1
+1125 1132 1
+1125 1133 1
+1125 1127 1
+1151 177 1
+1151 175 1
+1151 181 1
+1151 167 1
+1151 178 1
+1150 627 1
+1150 613 1
+1150 608 1
+1150 604 1
+1150 610 1
+1150 626 1
+1150 609 1
+1150 611 1
+1145 979 1
+1145 985 1
+1145 990 1
+1145 984 1
+1142 294 1
+1142 287 1
+1142 295 1
+1142 289 1
+1141 99 1
+1141 97 1
+1141 96 1
+1141 98 1
+1141 1170 1
+1141 95 1
+1140 65 1
+1140 66 1
+1140 67 1
+1140 64 1
+1139 51 1
+1139 50 1
+1139 48 1
+1139 49 1
+1139 47 1
+1136 577 1
+1136 581 1
+1136 579 1
+1136 575 1
+1136 578 1
+1136 574 1
+1136 576 1
+1136 580 1
+1034 1019 1
+1034 1020 1
+1029 1034 1
+1029 1035 1
+1029 1037 1
+1029 1031 1
+1029 1033 1
+1029 1039 1
+1029 1038 1
+1029 1040 1
+1030 1034 1
+1030 1035 1
+1030 1037 1
+1030 1031 1
+1030 1033 1
+1030 1039 1
+1030 1038 1
+1030 1040 1
+1053 1055 1
+1055 1101 1
+1055 1056 1
+1055 1084 1
+1055 1111 1
+1054 1055 1
+1041 705 1
+1041 703 1
+1041 707 1
+1041 704 1
+1041 701 1
+1041 706 1
+1041 702 1
+1042 1045 1
+1042 1043 1
+1042 1046 1
+1042 1044 1
+1069 934 1
+1069 933 1
+1069 931 1
+1069 935 1
+1069 936 1
+1059 1067 1
+1059 1061 1
+1059 1060 1
+1059 1069 1
+1056 1083 1
+1056 1078 1
+1056 1071 1
+1056 1164 1
+1056 1059 1
+1057 1083 1
+1057 1078 1
+1057 1071 1
+1057 1164 1
+1057 1059 1
+1062 1066 1
+1062 1065 1
+1062 1064 1
+1062 1063 1
+1061 1066 1
+1061 1065 1
+1061 1064 1
+1061 1063 1
+1086 1090 1
+1086 1089 1
+1086 1088 1
+1086 1092 1
+1086 1091 1
+1086 1087 1
+1085 1090 1
+1085 1089 1
+1085 1088 1
+1085 1092 1
+1085 1091 1
+1085 1087 1
+1084 1098 1
+1084 1100 1
+1084 1097 1
+1084 1085 1
+1084 1093 1
+1074 1076 1
+1074 1077 1
+1079 1081 1
+1079 1080 1
+1078 1081 1
+1078 1080 1
+1217 202 1
+1217 204 1
+1217 203 1
+1231 1237 1
+1231 1236 1
+1230 384 1
+1230 383 1
+1237 470 1
+1237 550 1
+1237 1150 1
+1237 1151 1
+1237 457 1
+1237 522 1
+1235 1237 1
+1235 1236 1
+1269 595 1
+1269 1267 1
+1266 1184 1
+1266 1265 1
+1267 567 1
+1264 567 1
+1265 1264 1
+1152 12 1
+1152 11 1
+1155 59 1
+1155 60 1
+1154 885 1
+1154 886 1
+1154 879 1
+1154 876 1
+1154 883 1
+1154 880 1
+1154 867 1
+1154 860 1
+1154 887 1
+1154 888 1
+1159 1268 1
+1159 216 1
+1159 218 1
+1159 224 1
+1159 220 1
+1159 219 1
+1159 223 1
+1159 221 1
+1159 217 1
+1158 1185 1
+1160 485 1
+1160 488 1
+1160 489 1
+1160 486 1
+1160 491 1
+1160 487 1
+1160 490 1
+1162 722 1
+1162 708 1
+1162 730 1
+1162 700 1
+1164 1072 1
+1164 1074 1
+1176 461 1
+1178 666 1
+1178 663 1
+1181 1182 1
+1182 1183 1
+1184 24 1
+1184 22 1
+1189 866 1
+1189 862 1
+1194 1195 1
+1193 1216 1
+1199 1198 1
+1202 93 1
+1203 94 1
+1200 1193 1
+1200 323 1
+1201 1 1
+1206 824 1
+1207 1099 1
+1204 551 1
+1205 794 1
+1210 103 1
+1210 101 1
+1210 100 1
+1210 102 1
+1210 104 1
+1211 773 1
+1211 764 1
+1211 699 1
+1211 731 1
+1211 751 1
+1211 732 1
+1211 774 1
+1208 1142 1
+1209 1162 1
+1215 899 1
+1215 900 1
+*edges
+1 2 1
+1 3 1
+141 4 1
+137 5 1
+228 6 1
+9 1152 1
+25 10 1
+1093 11 1
+62 12 1
+15 13 1
+14 151 1
+977 17 1
+16 1138 1
+22 23 1
+26 27 1
+26 658 1
+26 321 1
+28 90 1
+1169 39 1
+37 317 1
+46 1139 1
+304 48 1
+52 91 1
+58 1155 1
+63 1140 1
+86 61 1
+69 1096 1
+67 1009 1
+78 82 1
+123 74 1
+76 75 1
+84 85 1
+122 81 1
+93 610 1
+93 974 1
+92 991 1
+94 1141 1
+94 1210 1
+829 89 1
+96 886 1
+106 475 1
+1217 105 1
+1074 119 1
+1197 118 1
+1198 117 1
+421 116 1
+115 1156 1
+125 1251 1
+867 124 1
+122 430 1
+393 121 1
+138 140 1
+138 139 1
+143 177 1
+142 593 1
+912 129 1
+130 163 1
+133 395 1
+132 627 1
+132 920 1
+152 153 1
+154 681 1
+154 161 1
+1173 150 1
+170 169 1
+168 1158 1
+176 175 1
+909 162 1
+167 521 1
+166 1151 1
+1001 165 1
+181 165 1
+178 164 1
+867 186 1
+184 285 1
+1192 185 1
+918 179 1
+1013 177 1
+182 183 1
+182 774 1
+181 1212 1
+890 205 1
+207 208 1
+926 206 1
+215 201 1
+199 774 1
+194 286 1
+220 697 1
+221 222 1
+692 223 1
+241 216 1
+217 260 1
+217 683 1
+1182 218 1
+219 261 1
+214 382 1
+215 1159 1
+209 210 1
+211 213 1
+211 212 1
+237 238 1
+237 239 1
+1161 235 1
+792 235 1
+231 796 1
+229 230 1
+228 1196 1
+240 227 1
+226 242 1
+224 225 1
+250 269 1
+247 248 1
+256 689 1
+257 258 1
+262 992 1
+262 972 1
+262 1142 1
+263 295 1
+272 264 1
+270 280 1
+270 989 1
+1143 307 1
+1240 306 1
+897 308 1
+524 315 1
+779 319 1
+318 946 1
+288 1142 1
+289 1252 1
+1164 296 1
+1059 296 1
+1268 297 1
+791 297 1
+1157 298 1
+299 653 1
+301 1011 1
+302 1097 1
+302 1253 1
+303 904 1
+906 341 1
+340 802 1
+778 339 1
+806 338 1
+732 337 1
+347 348 1
+344 345 1
+324 905 1
+322 323 1
+1004 323 1
+535 320 1
+335 336 1
+902 330 1
+331 332 1
+368 738 1
+378 379 1
+1179 356 1
+357 821 1
+358 1254 1
+360 359 1
+457 353 1
+791 354 1
+355 1183 1
+364 1100 1
+364 859 1
+367 366 1
+415 416 1
+413 414 1
+402 403 1
+401 1238 1
+408 407 1
+406 405 1
+393 394 1
+393 551 1
+522 392 1
+399 400 1
+399 830 1
+644 398 1
+397 396 1
+386 387 1
+384 385 1
+391 390 1
+388 389 1
+441 442 1
+445 446 1
+447 450 1
+459 432 1
+433 468 1
+434 1195 1
+1194 431 1
+420 419 1
+555 418 1
+1241 476 1
+474 1255 1
+472 473 1
+470 471 1
+503 469 1
+467 466 1
+461 462 1
+460 1176 1
+460 832 1
+459 519 1
+477 458 1
+457 602 1
+457 456 1
+455 1237 1
+452 453 1
+448 449 1
+512 511 1
+504 536 1
+502 538 1
+497 496 1
+492 493 1
+495 494 1
+484 1160 1
+550 551 1
+1243 552 1
+554 553 1
+567 776 1
+563 564 1
+562 561 1
+573 1136 1
+571 572 1
+570 1071 1
+568 569 1
+520 519 1
+1242 513 1
+515 514 1
+526 525 1
+522 523 1
+535 537 1
+529 1162 1
+927 610 1
+979 611 1
+612 611 1
+1244 609 1
+613 903 1
+628 627 1
+632 626 1
+629 630 1
+636 635 1
+870 634 1
+633 759 1
+1014 637 1
+582 583 1
+751 588 1
+732 588 1
+590 589 1
+1125 589 1
+1112 591 1
+1111 593 1
+708 592 1
+595 596 1
+597 598 1
+599 600 1
+601 889 1
+603 1150 1
+604 605 1
+619 607 1
+614 606 1
+687 738 1
+686 731 1
+680 679 1
+1177 678 1
+675 676 1
+673 674 1
+700 1041 1
+808 701 1
+698 1211 1
+699 1162 1
+1080 696 1
+1074 697 1
+695 1257 1
+693 694 1
+690 691 1
+688 1256 1
+652 995 1
+654 655 1
+1246 650 1
+640 641 1
+664 682 1
+665 666 1
+1167 660 1
+684 661 1
+662 663 1
+656 657 1
+1168 659 1
+746 745 1
+1248 739 1
+740 741 1
+760 850 1
+806 766 1
+767 785 1
+764 788 1
+835 754 1
+1113 752 1
+1042 753 1
+757 1118 1
+714 715 1
+709 710 1
+733 730 1
+732 803 1
+722 737 1
+722 726 1
+1084 820 1
+823 824 1
+1012 822 1
+1000 819 1
+826 825 1
+857 824 1
+827 828 1
+1166 804 1
+806 807 1
+811 800 1
+789 790 1
+798 797 1
+795 794 1
+793 794 1
+1055 775 1
+1012 773 1
+777 932 1
+880 881 1
+883 884 1
+885 1258 1
+1249 888 1
+891 892 1
+893 894 1
+893 1163 1
+867 1021 1
+876 878 1
+876 877 1
+851 852 1
+848 849 1
+856 855 1
+1165 854 1
+858 1154 1
+862 863 1
+860 861 1
+860 1189 1
+834 833 1
+839 840 1
+847 887 1
+844 845 1
+959 960 1
+949 950 1
+948 947 1
+928 929 1
+928 984 1
+930 1069 1
+1010 925 1
+923 924 1
+1250 920 1
+922 921 1
+916 917 1
+914 915 1
+909 910 1
+908 907 1
+1215 901 1
+1018 1034 1
+1023 1022 1
+1078 1015 1
+1007 1008 1
+1216 1006 1
+993 994 1
+996 997 1
+998 999 1
+987 988 1
+985 986 1
+1239 990 1
+1190 989 1
+978 1145 1
+980 981 1
+970 969 1
+976 975 1
+1199 973 1
+967 966 1
+968 966 1
+1101 1102 1
+1099 1098 1
+1109 1108 1
+1105 1106 1
+1130 1129 1
+1143 1144 1
+1187 1033 1
+1036 1035 1
+1025 1024 1
+1027 1028 1
+1029 1030 1
+1031 1032 1
+1049 1050 1
+1051 1052 1
+1053 1054 1
+1047 1048 1
+1067 1068 1
+1056 1057 1
+1056 1058 1
+1061 1062 1
+1082 1081 1
+1085 1086 1
+1074 1075 1
+1072 1073 1
+1078 1079 1
+1231 1235 1
+1236 1233 1
+1234 1260 1
+1264 1267 1
+1187 1186 1
+1191 1188 1

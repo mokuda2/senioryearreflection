@@ -1,0 +1,1952 @@
+*Network Ore graph Anuta.puc
+
+*vertices 659
+1 'Taupare (1)' triangle
+2 'Toroaki (2)' triangle
+3 'Ratu (3)' triangle
+4 'Rongomai (4)' triangle
+5 'Pongi (5)' triangle
+6 'Tingirau (6)' triangle
+7 'Tearakura (7)' triangle
+8 'Arikipakatonu (8)' ellipse
+9 'Pangatau (9)' ellipse
+10 'Tepuko (10)' triangle
+11 'Rikiriki (11)' triangle
+12 'Pokotutai (Pakarongatau) (12)' triangle
+13 'Moumouipenua (13)' triangle
+14 'Rongopo (14)' triangle
+15 'Noroko (15)' ellipse
+16 'Temuriava (16)' triangle
+17 'Kavataurua (17)' triangle
+18 'Nukutaua (18)' triangle
+19 'Taumarei (19)' triangle
+20 'Kirei (20)' triangle
+21 'H 21 (21)' triangle
+22 'H 22 (22)' triangle
+23 'Akonima (23)' triangle
+24 'Takaraua (24)' triangle
+25 'Tepae (25)' triangle
+26 'Tokerau (26)' triangle
+27 'Tekauariki (27)' triangle
+28 'Taumako (28)' triangle
+29 'Paiaki (29)' triangle
+30 'Tauraro (30)' triangle
+31 'Neo (31)' triangle
+32 'Poraungauta (32)' triangle
+33 'Paitoka (33)' triangle
+34 'Teputuu (34)' ellipse
+35 'Temuraiva (35)' triangle
+36 'Pakaokoroto (36)' triangle
+37 'Rotopenua (Tao) (37)' ellipse
+38 'Rangiora (38)' triangle
+39 'Taroakau (39)' triangle
+40 'Taneanu (40)' triangle
+41 'Arikipakatonu (41)' triangle
+42 'Raropuko (42)' triangle
+43 'Rotomua (43)' ellipse
+44 'Rotopenua (44)' triangle
+45 'Parikitonga (Pakaokomaranga) (45)' triangle
+46 'Koroatu (Matakiapo) (46)' triangle
+47 'Pitoi (47)' triangle
+48 'Arangatau (48)' triangle
+49 'Raotaua (49)' ellipse
+50 'Mapai (50)' triangle
+51 'Manoika (51)' triangle
+52 'Teapakaakea (52)' triangle
+53 'Tepae (Teaurupetau) (53)' triangle
+54 'Nukutamaaroa (54)' ellipse
+55 'Katoakitematangi (55)' triangle
+56 'Pareatai (56)' triangle
+57 'Tekauariki (57)' triangle
+58 'Rarotaua (58)' ellipse
+59 'Nimaika (59)' ellipse
+60 'Teputuu (60)' ellipse
+61 'Rangipana (Metikitiki) (61)' triangle
+62 'Raropuko (Vakaaromua) (62)' triangle
+63 'Avakope (Tariakau) (63)' triangle
+64 'Rarovii (64)' ellipse
+65 'Teukumarae (65)' triangle
+66 'Kirei (Tamanakinapo) (66)' ellipse
+67 'Taapipenua (67)' triangle
+68 'Arikinima (68)' triangle
+69 'Tautemoa (69)' triangle
+70 'Temuriava (70)' triangle
+71 'Tepuko (71)' ellipse
+72 'Avakope (72)' ellipse
+73 'F 73 (73)' ellipse
+74 'Rakeiakoango (74)' ellipse
+75 'Taumako (75)' triangle
+76 'Paorongorongo (76)' ellipse
+77 'Raropuko (77)' triangle
+78 'Pangatoto (Kapiakitetanga) (78)' ellipse
+79 'Tekoro (79)' ellipse
+80 'Parikitonga (80)' triangle
+81 'Notua (Taukinaima) (81)' ellipse
+82 'Stanley Kupengaika (82)' triangle
+83 'Tavarei (83)' ellipse
+84 'Margaret Pakarkumata (84)' ellipse
+85 'Avakope (Bebe Marutapea) (85)' ellipse
+86 'Kirei (Rebecca Pakaotimaru) (86)' ellipse
+87 'Tepae (Mark Pakatape) (87)' triangle
+88 'Tikupanga (Robin Pakiterenga) (88)' triangle
+89 'Pokotutai (Matthew Rakeimarara) (89)' triangle
+90 'Nukuariki (90)' ellipse
+91 'Taneanu (91)' triangle
+92 'Nukuraro (Patrick Patonu) (92)' triangle
+93 'Taumarei (Douglas Tarangateroi) (93)' triangle
+94 'Ropanga (94)' triangle
+95 'Avakope (95)' triangle
+96 'Ranginiumata (Ngarumomo) (96)' ellipse
+97 'Motuku (97)' ellipse
+98 'Temuriava (Rebecca Tauitoamore) (98)' ellipse
+99 'Maruteetoa (99)' ellipse
+100 'Teukumarae (100)' triangle
+101 'Piramanongi (101)' ellipse
+102 'Kapingaporea (102)' ellipse
+103 'Maravai (Philip Tauitomore) (103)' triangle
+104 'Bartholomew Arikiotoro (104)' triangle
+105 'H 105 (105)' triangle
+106 'Elizabeth Tanakiporau (106)' ellipse
+107 'Tongotere (107)' triangle
+108 'Ponotauai (108)' ellipse
+109 'Rangateatu (Georgina) (109)' ellipse
+110 'Walter Piriakere (110)' triangle
+111 'Nukutapu (Patteson Pareoro) (111)' triangle
+112 'Matauea (Emma Takitaki) (112)' ellipse
+113 'Notau (Norman Rakeitoro) (113)' triangle
+114 '"Akonima (Raniguvia; Peter Arikitapeaitemotu; Makoimua)" (114)' triangle
+115 'Raveiti (John Kavaturu) (115)' triangle
+116 'Peretin Taumere (116)' triangle
+117 'Rotopenua (117)' triangle
+118 'Rangitea (118)' triangle
+119 'Arthur Pakameretangata (119)' triangle
+120 'Eric Toarakairunga (120)' triangle
+121 'Paone (Matthew Porautanuma) (121)' triangle
+122 'Nukutamaaroa (Mary Ngarirakei) (122)' ellipse
+123 'Maniva (Rebecca Roromanongi) (123)' ellipse
+124 'Teaokena Miriam (124)' ellipse
+125 'Caspar Poraumonotia (125)' triangle
+126 'Nelson Tipungataiteata (126)' triangle
+127 'Reuben (127)' triangle
+128 'Avakope (Patteson Rautepuri) (128)' triangle
+129 'Tepuko (Mani Paumomori) (129)' ellipse
+130 'Maramatunu (Wilfred Ratupo) (130)' triangle
+131 'Raroakau (Mary Vaipanake) (131)' ellipse
+132 'Maevatau (Tokas Rakaiaatu) (132)' ellipse
+133 'Raropuko (133)' triangle
+134 '"Tepati (Vetirei; Kainangaiteava)" (134)' ellipse
+135 'Urupaukarava (135)' triangle
+136 'Parikitonga, Edwin (136)' triangle
+137 'Raropita (137)' ellipse
+138 'Ambrose Teavakakea (138)' triangle
+139 'Autiapi (139)' triangle
+140 'Silina Pauteemotu (140)' ellipse
+141 'Fresher Toakimaru (141)' triangle
+142 'Roslyn tanakitautai (142)' ellipse
+143 'Zebulon (143)' triangle
+144 'Reynold (144)' triangle
+145 'F 145 (145)' ellipse
+146 'Maria Rakeitane (146)' ellipse
+147 'Samuel (147)' triangle
+148 'Issac (148)' triangle
+149 'Dudley (149)' triangle
+150 'Leslie (150)' triangle
+151 'Carlin (151)' triangle
+152 'Sylvester (152)' ellipse
+153 'Eta Porautungara (153)' ellipse
+154 'Anika (154)' ellipse
+155 'F 155 (155)' ellipse
+156 'F 156 (156)' ellipse
+157 'Samuel Poraumaavae (157)' triangle
+158 'Moses (158)' triangle
+159 'Louisa (159)' ellipse
+160 'Joshua (160)' triangle
+161 'Alfred (161)' triangle
+162 'Tilda (162)' ellipse
+163 'Rhoda (163)' ellipse
+164 'Edith (164)' ellipse
+165 'Fannie (165)' ellipse
+166 'Rosina (166)' ellipse
+167 'Rosita (167)' ellipse
+168 'David Rakeimana (168)' triangle
+169 'Ellen Pakanaariki (169)' ellipse
+170 'Carrie Pakapakaari (170)' ellipse
+171 'Nukurava (Lengas Poraumaavae) (171)' ellipse
+172 'Ellena Paumaata (172)' ellipse
+173 'John Kaveapakaaropa (Arikitapeaitemotu) (173)' triangle
+174 'F 174 (174)' ellipse
+175 'Gwendolyn (Cecelia) Tanakimaru (175)' ellipse
+176 'Leah (176)' ellipse
+177 'Isted Mapana (177)' ellipse
+178 'Rebecca Ponomairaro (178)' ellipse
+179 'Robert Pakapu (Poraumata) (179)' triangle
+180 'Joseph Poraumaatua (180)' triangle
+181 'Charlotte (181)' ellipse
+182 'Rise Vakangoto (182)' ellipse
+183 'John-Mark Tauka (Eteni) (183)' triangle
+184 'Akonima (Alice Vaeoratia) (184)' ellipse
+185 'pourou (Julia Vaiturua) (185)' ellipse
+186 'Emily pakairipita (186)' ellipse
+187 'Casper (187)' triangle
+188 'Atapu (Rosemary Aupaki) (188)' ellipse
+189 '"Nukurava (Ropanga; Ngarumea; Paul Teuka; Arapakivaka)" (189)' triangle
+190 'H 190 (190)' triangle
+191 'Margaret Tipungavaerua (191)' ellipse
+192 'Daisy (192)' ellipse
+193 'F 193 (193)' ellipse
+194 'Phyllistus (194)' ellipse
+195 'Ruth Tokitanaki (195)' ellipse
+196 'F 196 (196)' ellipse
+197 'Melody (197)' ellipse
+198 'Motuku (198)' ellipse
+199 'Rengaru (Ellen Arikitara) (199)' ellipse
+200 'Koroatu (Jacob Tearaamanu) (200)' triangle
+201 'Paone (Anna Takaiterake) (201)' ellipse
+202 'Tokerau (Basil Katoakitematangi) (202)' triangle
+203 'Teaokena (Walter Tikupeaokena) (203)' triangle
+204 'Katoakataina Frank (204)' triangle
+205 'Ruth Tokikapia (205)' ellipse
+206 'Rhoda Tutiamaitua (206)' ellipse
+207 'Lois (207)' ellipse
+208 'Harry Matakiapo (208)' triangle
+209 'Vatauia (209)' triangle
+210 'Mataeua (210)' triangle
+211 'Teapo (211)' triangle
+212 'Teapua (212)' triangle
+213 'Penuamau (213)' triangle
+214 'Atapu (214)' triangle
+215 'Aratuu (215)' triangle
+216 'Pareatai (216)' triangle
+217 'H 217 (217)' triangle
+218 'Teputuu (Arikiteuku) (218)' triangle
+219 'Pareumata (Pautoto) (219)' triangle
+220 'Matauea (220)' triangle
+221 'teraupanga (221)' ellipse
+222 'Pao (222)' ellipse
+223 'Poepakangapuruitevaapenua (223)' triangle
+224 'Teputuu (224)' triangle
+225 'Parekope (Arikimeemea) (225)' triangle
+226 'Rakaimua (226)' ellipse
+227 'Ape (227)' ellipse
+228 'Orokope (Tokiavea) (228)' triangle
+229 'Nevaneva (Ikitoro) (229)' ellipse
+230 'Tepuko (Rangirua) (230)' triangle
+231 'Nukumanaia (231)' ellipse
+232 'Takaropia (232)' triangle
+233 'Pareumata (Ishmael Iripure) (233)' triangle
+234 'Teputuu (234)' triangle
+235 'Pangatau (Fannie Pakaevatengano) (235)' ellipse
+236 'Toiraake (236)' ellipse
+237 'Joseph Arikiteuku (237)' triangle
+238 'Nau Tanukope (238)' ellipse
+239 '"Tepuko (Matuea; Silas Aranganima)" (239)' triangle
+240 'Henry Taapiariki (240)' triangle
+241 'Thomas Tapakivaka (241)' triangle
+242 'Parekope (Robert Katoangamanongi) (242)' triangle
+243 'Isika Rongotekatoa (243)' triangle
+244 'Nukutapu (Sarah Poraupakaoro) (244)' ellipse
+245 'Pareumutia (Louise Rikitunia) (245)' ellipse
+246 'Matauea (John) (246)' triangle
+247 'Mapulea (Mary Rotoporau) (247)' ellipse
+248 'Ellison (248)' triangle
+249 'H 249 (249)' triangle
+250 'H 250 (250)' triangle
+251 'Joses (251)' triangle
+252 '"Tongotere (Temuriava; Martha Tokiporuia)" (252)' ellipse
+253 'Richard Teamoaia (253)' triangle
+254 'Taramoa (254)' triangle
+255 'Martin (255)' triangle
+256 'Orokope (Anton Taupiri) (256)' triangle
+257 'Arataika (Mary Arikitakaroa) (257)' ellipse
+258 'Penuatai (Gabriel Takaropia) (258)' triangle
+259 'Nellie (259)' ellipse
+260 'Roscoe (260)' triangle
+261 'Mathania (261)' triangle
+262 'Joel (262)' triangle
+263 'cecil (263)' triangle
+264 'Emma (264)' ellipse
+265 'Patrick (265)' triangle
+266 'James (266)' triangle
+267 'Tapita (267)' ellipse
+268 'Eliam (268)' ellipse
+269 'Moses rakaimua (269)' triangle
+270 'pakatuuariki (270)' ellipse
+271 'Nolan (271)' ellipse
+272 'Matthew (272)' ellipse
+273 'Stephan (273)' triangle
+274 'Nolan Tarangamomori (274)' ellipse
+275 'Matrthew poraukapia (275)' triangle
+276 'Alice (276)' ellipse
+277 'Margaret Rongoiateariki (277)' ellipse
+278 'Aaron (278)' triangle
+279 'Doria (279)' ellipse
+280 'Stanley Ponotau (280)' triangle
+281 'Asiri (281)' triangle
+282 'Amos (282)' triangle
+283 'Mary Taupiri (283)' ellipse
+284 'Respit (284)' ellipse
+285 'Rongovaru (Tangatapuri) (285)' triangle
+286 'Kirei (286)' triangle
+287 'Taumua (287)' triangle
+288 'Pareatai (Kirimanongi) (288)' ellipse
+289 'Rarotaua (289)' triangle
+290 'Rangariki (290)' triangle
+291 'Tungaatau (291)' triangle
+292 'Rangitau (292)' triangle
+293 'Pakaiputuatai (293)' triangle
+294 'papaoroiterangi (294)' triangle
+295 'Tekauariki (Rakeituru) (295)' ellipse
+296 'Puaavaka (296)' ellipse
+297 'Nukuariki (Jesus Tupakaipo) (297)' triangle
+298 'Vetirei (Enely Rakiviti) (298)' triangle
+299 'Kirei (Alfred Manukena) (299)' triangle
+300 'Keith (300)' triangle
+301 'Taneanu (301)' ellipse
+302 'Nukuraro (302)' ellipse
+303 'Tevava (303)' triangle
+304 'Roet (Lois) Taurangaiteava (304)' ellipse
+305 'Tuapi (Tipungamaata) (305)' ellipse
+306 'Teraupanga (Georgina Rakeituru) (306)' ellipse
+307 'Raroipi (Tapita Arikituunoa) (307)' ellipse
+308 'Rongovaru (Liza Rakeimaramu) (308)' ellipse
+309 'Rongovaru (Simeon Tangatupuri) (309)' triangle
+310 'Atapu (Edward Kavakura) (310)' triangle
+311 'Nukumairunga (Rise Rakeimairaro) (311)' ellipse
+312 'Madeline Arikirua (312)' ellipse
+313 'H 313 (313)' triangle
+314 'Ken (314)' triangle
+315 'Samuel (315)' triangle
+316 'caroline (316)' ellipse
+317 'vaiteponu (317)' ellipse
+318 'Rhoda (318)' ellipse
+319 'Rau Ti (319)' ellipse
+320 'Matopa (320)' triangle
+321 'Nokoro (321)' triangle
+322 'Pareatai (Tumu) (322)' triangle
+323 'Nukutamaaroa (Mitiautini) (323)' triangle
+324 'Matopa (Taiku) (324)' triangle
+325 'Kaputiapi (325)' ellipse
+326 'Moemotu (326)' triangle
+327 'H 327 (327)' triangle
+328 'Apuapi (328)' ellipse
+329 'Pakapokitau (329)' ellipse
+330 'Tungaatau (330)' ellipse
+331 'H 331 (331)' triangle
+332 'H 332 (332)' triangle
+333 'F 333 (333)' ellipse
+334 'Motuku (David Taramua) (334)' triangle
+335 'Maneru (Teauata) (335)' ellipse
+336 'Parikitonga (336)' ellipse
+337 'H 337 (337)' triangle
+338 'Pangatau (Michael Pepeariki) (338)' triangle
+339 'Ennnice (339)' triangle
+340 'Paraetai (Victor Rauporatia) (340)' triangle
+341 'Martin Rakaumata (341)' triangle
+342 'Pangatau (342)' triangle
+343 'Koropatu (343)' triangle
+344 'Matopa (344)' triangle
+345 'Nukutamaaroa (George matauika) (345)' triangle
+346 'Rangiuvia (Elizabeth Koairongo) (346)' ellipse
+347 'Rangipana (Susanna Rakeimanonggikena) (347)' ellipse
+348 'Annice Mataakoroa (348)' triangle
+349 'Martin Rakaumata (349)' triangle
+350 'Nukumanaia (Ruth Pakapokitau) (350)' ellipse
+351 'Motuku (Edwin Pakaraakena) (351)' triangle
+352 'Simon Parekoroa (352)' triangle
+353 'Rengaru (Joshua Tauponoteimarae) (353)' triangle
+354 'Moses Rakaumata (354)' triangle
+355 'Nukumaapora (Elizabeth Teatoa) (355)' ellipse
+356 'Matthias Makirenga (356)' triangle
+357 'Andrew Geoffrey Rotoiporau (357)' triangle
+358 'F 358 (358)' ellipse
+359 'F 359 (359)' ellipse
+360 'Mary pauaapea (360)' ellipse
+361 'Christopher Topimuri (361)' triangle
+362 'makirenga (362)' triangle
+363 'Sampson Poraukapia (363)' triangle
+364 'X 364 (364)' diamond
+365 'X 365 (365)' diamond
+366 'Tuapi (366)' triangle
+367 'Raroipi (367)' triangle
+368 'Tavarei (368)' triangle
+369 'Neo (Rakitikava) (369)' ellipse
+370 'Nevaneva (370)' triangle
+371 'Tuapi (371)' triangle
+372 'Matangi (372)' ellipse
+373 'Rarotaua (373)' triangle
+374 'Pourou (374)' triangle
+375 'Rangimatere (375)' triangle
+376 'Tio (376)' triangle
+377 'Tavarei (Maruvare) (377)' triangle
+378 'Rangipau (Manukara) (378)' triangle
+379 'Parangiapi (379)' triangle
+380 'Tauvaka (380)' triangle
+381 'Tekoro (Kavaangai) (381)' triangle
+382 'Nevaneva (382)' triangle
+383 'Ororiki (383)' ellipse
+384 'Nukumanaia (384)' triangle
+385 'Matthias Tomotu (385)' triangle
+386 'Marukatoa (386)' triangle
+387 'Rakeikiteava (387)' triangle
+388 'Tivata (388)' ellipse
+389 'Ritai (389)' ellipse
+390 'Matangi (390)' triangle
+391 'Raroipi (Momototo) (391)' triangle
+392 'Pourou (392)' triangle
+393 'Tautaiere (393)' triangle
+394 'Teraupanga (394)' ellipse
+395 'Urumaru (395)' ellipse
+396 'Ororiki (396)' triangle
+397 'taraoro (Tuiteava) (397)' ellipse
+398 'Rarotoka (398)' ellipse
+399 'Teukumarae (399)' ellipse
+400 'Tepae (Pakamereporau) (400)' ellipse
+401 'Vaengaiteava (401)' ellipse
+402 'Niukaso (402)' ellipse
+403 'Ropanga (Anne Vaponotia) (403)' ellipse
+404 'Tavarei (Ben Rakautorere) (404)' triangle
+405 'Parikitonga (Jemaimah) (405)' ellipse
+406 'Otara (406)' triangle
+407 'Rangimatare (407)' triangle
+408 'matthew Tongi (408)' triangle
+409 'Pareumata (Donna tauraki) (409)' ellipse
+410 'Teputuu (Louisa kaingaoro) (410)' ellipse
+411 'Nukumarere (411)' triangle
+412 'Tekoro (412)' triangle
+413 '"Pareumutia (Raroakua; Nelson Teamokava)" (413)' triangle
+414 'taumarei (Anka Tekepakaoti) (414)' ellipse
+415 'Rangateatu (Nathaniel Angaivata) (415)' triangle
+416 'cecil (416)' triangle
+417 'Maravai (Mini Arikiteroa) (417)' ellipse
+418 'Nevaneva (Charles Rangioamarae) (418)' triangle
+419 'Nevaneva (Clara Kirare) (419)' ellipse
+420 'Matauea (Naomi Kaupukitengaru) (420)' ellipse
+421 'Nukumanaia (421)' triangle
+422 'Tuapi (Aaron Pakaroitaranga) (422)' triangle
+423 'Parekope (Emma pakamuakava) (423)' ellipse
+424 'Sampson Kapanotaki (424)' triangle
+425 'Moses Purianga (425)' triangle
+426 'Raroipi (Leonard Kupengatapakimua) (426)' triangle
+427 'Taumoriroa (427)' ellipse
+428 'Koroatu Mary (428)' ellipse
+429 'Nau Tevava (Emily Pakaarivai) (429)' ellipse
+430 'Pourou (Daniel Maavae) (430)' triangle
+431 'Kaumai (Paul) (431)' triangle
+432 'Penuakimoana (Shadrack Rupekena) (432)' triangle
+433 'F 433 (433)' ellipse
+434 'Misak (434)' triangle
+435 'Tokerau Edith (435)' ellipse
+436 'Ropanga (Lengas Aungamata) (436)' ellipse
+437 'Arataika (Timothy Taukipiti) (437)' triangle
+438 'Ambett Vangai (438)' triangle
+439 'Taramoa (Mevis Poraiteoki) (439)' ellipse
+440 'John (440)' triangle
+441 'H 441 (441)' triangle
+442 'Eleanor Tupakiria (442)' ellipse
+443 'Lilly (443)' ellipse
+444 'Casper Marumaimoana (444)' triangle
+445 'Rhoda (445)' ellipse
+446 'Alfred (446)' triangle
+447 'Emily (447)' ellipse
+448 'John-Michael (448)' triangle
+449 'Rachel Topo (449)' ellipse
+450 'John Topetuiteava (450)' triangle
+451 'Mary Rakeivoia (451)' ellipse
+452 'Rotopenua (Rosaret) (452)' ellipse
+453 'Judah Mataamako (453)' triangle
+454 'Puipuipenua (454)' ellipse
+455 'Ezekiel (455)' triangle
+456 'Frederick maroputu (456)' triangle
+457 'Evelyn Aungamori (457)' ellipse
+458 'Solomon Manukapia (458)' triangle
+459 'Rakeikitematangi (459)' ellipse
+460 'Many Magdelene Kaura (460)' ellipse
+461 'Pangaipare (461)' triangle
+462 'F 462 (462)' ellipse
+463 'H 463 (463)' triangle
+464 'H 464 (464)' triangle
+465 'F 465 (465)' ellipse
+466 'Nomleas (466)' triangle
+467 'Irene Nevengaitevata (467)' ellipse
+468 'Derek (468)' triangle
+469 'Reuben Poraupakapai (469)' triangle
+470 'Robert Maruvare (470)' triangle
+471 'Altaban (471)' triangle
+472 'Monica (472)' ellipse
+473 'Katsa (473)' ellipse
+474 'Morgan (474)' triangle
+475 'nancy (475)' ellipse
+476 'Penuatai (Mae Moria) (476)' ellipse
+477 'Markson (477)' triangle
+478 'Corrine (478)' ellipse
+479 'Richard Maraetanu (479)' triangle
+480 'Rhoda Mavaiaki (480)' ellipse
+481 'Elizabeth (481)' ellipse
+482 'Emily (482)' ellipse
+483 'Mary Pakanamomori (483)' ellipse
+484 'Ellena Poraumatea (484)' ellipse
+485 'Leslie (Etirei) Tori (485)' ellipse
+486 'Katherine Topikimoana (486)' ellipse
+487 'John Taukipiti (487)' triangle
+488 'Rakairua (488)' ellipse
+489 'Thomas (489)' triangle
+490 'Casper Rauniu (490)' triangle
+491 'H 491 (491)' triangle
+492 'H 492 (492)' triangle
+493 'X 493 (493)' diamond
+494 'Nukutaua (494)' ellipse
+495 'Rotomua (495)' triangle
+496 'Pokotutai (496)' triangle
+497 'Raropita (Okeve) (497)' triangle
+498 'Teraupanga (498)' triangle
+499 'Maevatau (499)' triangle
+500 'Raropita (500)' ellipse
+501 'Teraupanga (Mapuipano) (501)' triangle
+502 'Teaotematangi (502)' triangle
+503 'Raropita (503)' triangle
+504 '"Teae (maramatuunu; Rise Tokimaata)" (504)' ellipse
+505 'Raropuko (505)' ellipse
+506 'Maevatau (Edwin Taupakairo) (506)' triangle
+507 'Rotamua (Sarah Turuturumamao) (507)' ellipse
+508 'Raveiti (Lydia Rurungapua) (508)' ellipse
+509 'Teraupanga (Christian Arikikatoa) (509)' triangle
+510 'Thomas Moringaru (510)' triangle
+511 'Rangipakaino (Ennice Mataika) (511)' triangle
+512 'Matilda (512)' ellipse
+513 'Lilian Takua (513)' ellipse
+514 'Penuakimoana (Edith Terotu) (514)' ellipse
+515 'Barnabas (515)' triangle
+516 'Mabel (516)' ellipse
+517 'Kevin (517)' triangle
+518 'Luke (518)' triangle
+519 'David Pakamoeimarae (519)' triangle
+520 'Ruth keripakatuu (520)' ellipse
+521 'Simeon (521)' triangle
+522 'John Makoimoana (522)' triangle
+523 'Paul (523)' triangle
+524 'Thomas Maroporau (524)' triangle
+525 'Emma Porauteoko (525)' ellipse
+526 'Taupare (526)' ellipse
+527 'F 527 (527)' ellipse
+528 'Rongomai (528)' ellipse
+529 'Pongi (529)' ellipse
+530 'Tingirau (530)' ellipse
+531 'Kato (531)' ellipse
+532 'F 532 (532)' ellipse
+533 'F 533 (533)' ellipse
+534 'F 534 (534)' ellipse
+535 'F 535 (535)' ellipse
+536 'F 536 (536)' ellipse
+537 'Pangatau (537)' triangle
+538 'Kitaro (538)' ellipse
+539 'Tanakipua (539)' ellipse
+540 'Tapiri (540)' ellipse
+541 'Tarimatangi (541)' ellipse
+542 'F 542 (542)' ellipse
+543 'F 543 (543)' ellipse
+544 'Pokotutai (544)' ellipse
+545 'Temuriava (545)' ellipse
+546 'Rau Ti (546)' ellipse
+547 'Koperua (547)' ellipse
+548 'Piromanongi (548)' ellipse
+549 'Ngarumomo (549)' ellipse
+550 'F 550 (550)' ellipse
+551 'Kirei (551)' ellipse
+552 'Takaraua (552)' ellipse
+553 'Tepae (553)' ellipse
+554 'F 554 (554)' ellipse
+555 'F 555 (555)' ellipse
+556 'F 556 (556)' ellipse
+557 'F 557 (557)' ellipse
+558 'F 558 (558)' ellipse
+559 'F 559 (559)' ellipse
+560 'F 560 (560)' ellipse
+561 'Rangiora (Porauariki) (561)' ellipse
+562 'F 562 (562)' ellipse
+563 'F 563 (563)' ellipse
+564 'F 564 (564)' ellipse
+565 'H 565 (565)' triangle
+566 'F 566 (566)' ellipse
+567 'F 567 (567)' ellipse
+568 'Pangatoto (568)' triangle
+569 'F 569 (569)' ellipse
+570 'F 570 (570)' ellipse
+571 'F 571 (571)' ellipse
+572 'Rarovii (572)' triangle
+573 'F 573 (573)' ellipse
+574 'Taumako (574)' ellipse
+575 'Raropuko (575)' ellipse
+576 'Pangatoto (Maroporau) (576)' triangle
+577 'Pokotutai (Tautia) (577)' triangle
+578 'F 578 (578)' ellipse
+579 'Notau (579)' triangle
+580 'F 580 (580)' ellipse
+581 'F 581 (581)' ellipse
+582 'F 582 (582)' ellipse
+583 'Ranginiumata (583)' triangle
+584 'Raveiti (584)' triangle
+585 'Nukuaamatangi (Makota) (585)' triangle
+586 'F 586 (586)' ellipse
+587 'F 587 (587)' ellipse
+588 'F 588 (588)' ellipse
+589 'Maniva (589)' triangle
+590 'Tepati (590)' triangle
+591 'F 591 (591)' ellipse
+592 'F 592 (592)' ellipse
+593 'F 593 (593)' ellipse
+594 'F 594 (594)' ellipse
+595 'F 595 (595)' ellipse
+596 'F 596 (596)' ellipse
+597 'F 597 (597)' ellipse
+598 'F 598 (598)' ellipse
+599 'F 599 (599)' ellipse
+600 'F 600 (600)' ellipse
+601 'Tanukope (601)' triangle
+602 'F 602 (602)' ellipse
+603 'F 603 (603)' ellipse
+604 'F 604 (604)' ellipse
+605 'F 605 (605)' ellipse
+606 'Nukumairunga (Arthur Purotumata) (606)' triangle
+607 'F 607 (607)' ellipse
+608 'F 608 (608)' ellipse
+609 'Maneru (609)' triangle
+610 'F 610 (610)' ellipse
+611 'F 611 (611)' ellipse
+612 'F 612 (612)' ellipse
+613 'Nukumaapora (613)' triangle
+614 'F 614 (614)' ellipse
+615 'Raroipi (615)' ellipse
+616 'F 616 (616)' ellipse
+617 'F 617 (617)' ellipse
+618 'F 618 (618)' ellipse
+619 'Matangi (619)' triangle
+620 'Pourou (620)' ellipse
+621 'Rangimatere (621)' ellipse
+622 'F 622 (622)' ellipse
+623 'F 623 (623)' ellipse
+624 'F 624 (624)' ellipse
+625 'F 625 (625)' ellipse
+626 'F 626 (626)' ellipse
+627 'F 627 (627)' ellipse
+628 'Taraoro (628)' triangle
+629 'Nukumairunga (629)' triangle
+630 'Niukaso (630)' triangle
+631 'F 631 (631)' ellipse
+632 'F 632 (632)' ellipse
+633 'Nukumarere (Mavin Tiriaiteava) (633)' ellipse
+634 'Tekoro (634)' ellipse
+635 'Samuel Rakiono (635)' triangle
+636 'F 636 (636)' ellipse
+637 'Niupereti (Fannie) (637)' ellipse
+638 'H 638 (638)' triangle
+639 'Nukuoro (Allen) (639)' triangle
+640 'F 640 (640)' ellipse
+641 'Napukarani (641)' triangle
+642 'F 642 (642)' ellipse
+643 'Nesta (643)' ellipse
+644 'F 644 (644)' ellipse
+645 'F 645 (645)' ellipse
+646 'F 646 (646)' ellipse
+647 'F 647 (647)' ellipse
+648 'F 648 (648)' ellipse
+649 'Raropita (649)' triangle
+650 'F 650 (650)' ellipse
+651 'F 651 (651)' ellipse
+652 'H 652 (652)' triangle
+653 'Raveiti (653)' triangle
+654 'F 654 (654)' ellipse
+655 'tearotiro (655)' triangle
+656 'Vonotautai (656)' ellipse
+657 'Vakavaerangi (657)' ellipse
+658 'Father 559 et 582 (658)' triangle
+659 'Mother 559 et 582 (659)' ellipse
+*arcs
+1 2 1
+2 4 1
+2 5 1
+2 3 1
+5 6 1
+6 9 1
+6 11 1
+6 10 1
+6 7 1
+6 8 1
+7 13 1
+7 16 1
+7 14 1
+7 15 1
+7 12 1
+7 18 1
+7 17 1
+7 19 1
+8 321 1
+8 319 1
+8 320 1
+9 367 1
+9 366 1
+10 215 1
+10 213 1
+10 217 1
+10 210 1
+10 212 1
+10 216 1
+10 211 1
+10 209 1
+10 214 1
+11 615 1
+11 657 1
+11 494 1
+11 495 1
+12 568 1
+12 652 1
+17 23 1
+17 20 1
+17 21 1
+17 22 1
+19 28 1
+19 29 1
+18 25 1
+18 26 1
+18 24 1
+18 27 1
+20 30 1
+20 31 1
+25 35 1
+24 34 1
+24 32 1
+24 33 1
+27 39 1
+27 38 1
+26 36 1
+26 37 1
+29 42 1
+28 40 1
+28 41 1
+31 47 1
+31 48 1
+31 46 1
+31 45 1
+31 44 1
+31 43 1
+34 219 1
+34 222 1
+34 220 1
+34 221 1
+35 53 1
+35 54 1
+35 51 1
+35 52 1
+33 49 1
+33 50 1
+38 57 1
+38 56 1
+38 58 1
+38 59 1
+37 55 1
+42 64 1
+42 63 1
+40 61 1
+40 62 1
+40 60 1
+44 55 1
+45 65 1
+49 379 1
+49 380 1
+49 66 1
+54 334 1
+54 336 1
+54 330 1
+54 332 1
+54 335 1
+54 331 1
+54 333 1
+53 73 1
+53 71 1
+53 68 1
+53 69 1
+53 70 1
+53 72 1
+53 67 1
+63 78 1
+63 77 1
+61 74 1
+61 76 1
+61 75 1
+60 228 1
+60 229 1
+70 84 1
+70 83 1
+70 87 1
+70 86 1
+70 82 1
+70 85 1
+71 235 1
+71 236 1
+64 79 1
+65 80 1
+65 81 1
+66 292 1
+66 295 1
+66 294 1
+66 296 1
+66 291 1
+66 289 1
+66 290 1
+66 293 1
+77 95 1
+77 94 1
+77 97 1
+77 96 1
+78 585 1
+78 656 1
+78 98 1
+79 393 1
+79 392 1
+79 395 1
+79 394 1
+79 391 1
+72 130 1
+72 133 1
+72 132 1
+72 131 1
+75 91 1
+75 88 1
+75 93 1
+75 89 1
+75 90 1
+75 92 1
+85 183 1
+87 106 1
+87 107 1
+87 103 1
+87 104 1
+87 105 1
+87 108 1
+86 310 1
+86 311 1
+86 309 1
+80 102 1
+80 99 1
+80 100 1
+80 101 1
+83 425 1
+83 424 1
+83 422 1
+83 421 1
+83 423 1
+93 121 1
+93 122 1
+93 123 1
+93 125 1
+93 124 1
+92 120 1
+92 119 1
+95 130 1
+95 133 1
+95 132 1
+95 131 1
+94 129 1
+94 126 1
+94 128 1
+94 127 1
+89 112 1
+89 111 1
+88 109 1
+88 110 1
+91 115 1
+91 113 1
+91 117 1
+91 114 1
+91 116 1
+91 118 1
+90 303 1
+90 306 1
+90 304 1
+90 305 1
+103 138 1
+100 137 1
+100 134 1
+100 135 1
+100 136 1
+98 84 1
+98 83 1
+98 87 1
+98 86 1
+98 82 1
+98 85 1
+97 340 1
+97 341 1
+97 338 1
+97 339 1
+111 142 1
+111 143 1
+111 141 1
+111 144 1
+111 140 1
+111 145 1
+109 458 1
+109 450 1
+109 451 1
+109 453 1
+109 456 1
+109 455 1
+109 452 1
+109 454 1
+109 457 1
+107 139 1
+118 173 1
+118 172 1
+118 171 1
+117 170 1
+115 158 1
+115 169 1
+115 162 1
+115 168 1
+115 160 1
+115 163 1
+115 164 1
+115 165 1
+115 161 1
+115 167 1
+115 166 1
+115 159 1
+114 157 1
+114 155 1
+114 359 1
+114 156 1
+114 358 1
+113 151 1
+113 147 1
+113 153 1
+113 148 1
+113 150 1
+113 152 1
+113 154 1
+113 146 1
+113 149 1
+112 275 1
+112 273 1
+112 272 1
+112 274 1
+121 180 1
+121 181 1
+121 182 1
+121 179 1
+121 175 1
+121 174 1
+121 176 1
+121 178 1
+121 177 1
+137 511 1
+137 508 1
+137 510 1
+137 509 1
+136 203 1
+136 204 1
+136 200 1
+136 202 1
+136 199 1
+136 201 1
+129 260 1
+129 261 1
+129 259 1
+128 183 1
+131 438 1
+131 440 1
+131 443 1
+131 439 1
+131 441 1
+131 445 1
+131 442 1
+131 437 1
+131 444 1
+130 186 1
+130 185 1
+130 184 1
+133 197 1
+133 191 1
+133 193 1
+133 196 1
+133 194 1
+133 187 1
+133 190 1
+133 189 1
+133 188 1
+133 195 1
+133 192 1
+132 514 1
+132 521 1
+132 515 1
+132 520 1
+132 517 1
+132 512 1
+132 513 1
+132 518 1
+132 516 1
+132 519 1
+134 198 1
+134 308 1
+134 307 1
+186 206 1
+184 157 1
+184 205 1
+185 485 1
+185 484 1
+185 482 1
+185 483 1
+185 486 1
+188 314 1
+189 207 1
+201 180 1
+201 181 1
+201 182 1
+201 179 1
+201 175 1
+201 174 1
+201 176 1
+201 178 1
+201 177 1
+200 208 1
+199 361 1
+199 362 1
+198 360 1
+220 227 1
+221 499 1
+221 500 1
+218 219 1
+218 222 1
+218 220 1
+218 221 1
+219 223 1
+219 226 1
+219 225 1
+219 224 1
+210 218 1
+239 260 1
+239 256 1
+239 254 1
+239 253 1
+239 257 1
+239 261 1
+239 259 1
+239 255 1
+239 258 1
+238 248 1
+238 250 1
+238 252 1
+238 249 1
+238 251 1
+238 247 1
+235 352 1
+235 351 1
+235 347 1
+235 348 1
+235 345 1
+235 346 1
+235 349 1
+235 350 1
+234 245 1
+234 241 1
+234 243 1
+234 244 1
+234 242 1
+234 246 1
+233 239 1
+233 240 1
+233 238 1
+233 237 1
+231 403 1
+231 402 1
+231 401 1
+231 405 1
+231 404 1
+230 235 1
+230 236 1
+229 399 1
+229 397 1
+229 400 1
+229 398 1
+229 396 1
+228 234 1
+228 233 1
+225 232 1
+225 231 1
+225 230 1
+224 228 1
+224 229 1
+254 281 1
+254 278 1
+254 279 1
+254 276 1
+254 282 1
+254 277 1
+254 280 1
+252 139 1
+246 275 1
+246 273 1
+246 272 1
+246 274 1
+244 142 1
+244 143 1
+244 141 1
+244 144 1
+244 140 1
+244 145 1
+245 446 1
+245 449 1
+245 448 1
+245 447 1
+245 271 1
+242 266 1
+242 269 1
+242 262 1
+242 263 1
+242 267 1
+242 264 1
+242 270 1
+242 265 1
+242 268 1
+286 292 1
+286 295 1
+286 294 1
+286 296 1
+286 291 1
+286 289 1
+286 290 1
+286 293 1
+285 287 1
+285 286 1
+285 288 1
+258 284 1
+256 283 1
+257 493 1
+257 492 1
+257 491 1
+305 475 1
+305 471 1
+305 473 1
+305 472 1
+305 470 1
+305 474 1
+307 480 1
+307 479 1
+307 476 1
+307 477 1
+307 478 1
+306 525 1
+306 524 1
+306 522 1
+306 523 1
+309 312 1
+309 313 1
+308 312 1
+308 313 1
+311 316 1
+311 315 1
+311 318 1
+311 317 1
+310 314 1
+288 327 1
+288 328 1
+288 329 1
+288 324 1
+288 326 1
+288 325 1
+291 299 1
+291 297 1
+291 298 1
+291 302 1
+291 300 1
+291 301 1
+297 303 1
+297 306 1
+297 304 1
+297 305 1
+298 308 1
+298 307 1
+299 310 1
+299 311 1
+299 309 1
+301 115 1
+301 113 1
+301 117 1
+301 114 1
+301 116 1
+301 118 1
+302 120 1
+302 119 1
+340 356 1
+340 357 1
+340 354 1
+340 355 1
+340 353 1
+338 352 1
+338 351 1
+338 347 1
+338 348 1
+338 345 1
+338 346 1
+338 349 1
+338 350 1
+336 102 1
+336 99 1
+336 100 1
+336 101 1
+351 360 1
+350 467 1
+350 469 1
+350 466 1
+350 468 1
+346 155 1
+346 359 1
+346 156 1
+346 358 1
+324 337 1
+322 327 1
+322 328 1
+322 329 1
+322 324 1
+322 326 1
+322 325 1
+323 334 1
+323 336 1
+323 330 1
+323 332 1
+323 335 1
+323 331 1
+323 333 1
+320 322 1
+320 323 1
+334 340 1
+334 341 1
+334 338 1
+334 339 1
+335 344 1
+335 342 1
+335 343 1
+330 299 1
+330 297 1
+330 298 1
+330 302 1
+330 300 1
+330 301 1
+373 379 1
+373 380 1
+373 66 1
+372 377 1
+372 378 1
+375 383 1
+374 381 1
+374 382 1
+369 47 1
+369 48 1
+369 46 1
+369 45 1
+369 44 1
+369 43 1
+368 372 1
+368 371 1
+371 375 1
+371 376 1
+370 374 1
+370 373 1
+381 393 1
+381 392 1
+381 395 1
+381 394 1
+381 391 1
+383 416 1
+383 417 1
+383 418 1
+382 399 1
+382 397 1
+382 400 1
+382 398 1
+382 396 1
+377 387 1
+377 388 1
+377 384 1
+377 389 1
+377 385 1
+377 386 1
+378 390 1
+353 361 1
+353 362 1
+355 365 1
+355 364 1
+355 363 1
+366 368 1
+367 369 1
+367 370 1
+410 245 1
+410 241 1
+410 243 1
+410 244 1
+410 242 1
+410 246 1
+411 427 1
+411 428 1
+411 426 1
+411 429 1
+409 239 1
+409 240 1
+409 238 1
+409 237 1
+414 121 1
+414 122 1
+414 123 1
+414 125 1
+414 124 1
+415 458 1
+415 450 1
+415 451 1
+415 453 1
+415 456 1
+415 455 1
+415 452 1
+415 454 1
+415 457 1
+412 435 1
+412 431 1
+412 434 1
+412 433 1
+412 432 1
+412 430 1
+412 436 1
+413 446 1
+413 447 1
+413 439 1
+413 445 1
+413 442 1
+413 444 1
+413 438 1
+413 449 1
+413 440 1
+413 448 1
+413 443 1
+413 441 1
+413 437 1
+402 639 1
+402 637 1
+402 635 1
+402 641 1
+402 643 1
+403 129 1
+403 126 1
+403 128 1
+403 127 1
+400 73 1
+400 71 1
+400 68 1
+400 69 1
+400 70 1
+400 72 1
+400 67 1
+404 425 1
+404 424 1
+404 422 1
+404 421 1
+404 423 1
+405 203 1
+405 204 1
+405 200 1
+405 202 1
+405 199 1
+405 201 1
+394 503 1
+392 415 1
+392 413 1
+392 412 1
+392 414 1
+399 137 1
+399 134 1
+399 135 1
+399 136 1
+397 419 1
+397 420 1
+396 416 1
+396 417 1
+396 418 1
+384 403 1
+384 402 1
+384 401 1
+384 405 1
+384 404 1
+391 408 1
+391 411 1
+391 410 1
+391 409 1
+390 407 1
+390 406 1
+432 490 1
+436 207 1
+437 493 1
+437 492 1
+437 491 1
+439 281 1
+439 278 1
+439 279 1
+439 276 1
+439 282 1
+439 277 1
+439 280 1
+426 480 1
+426 479 1
+426 476 1
+426 477 1
+426 478 1
+429 481 1
+428 208 1
+431 489 1
+431 487 1
+431 488 1
+430 485 1
+430 484 1
+430 482 1
+430 483 1
+430 486 1
+417 138 1
+419 460 1
+419 459 1
+419 461 1
+418 460 1
+418 459 1
+418 461 1
+421 467 1
+421 469 1
+421 465 1
+421 464 1
+421 466 1
+421 462 1
+421 468 1
+421 463 1
+420 256 1
+420 254 1
+420 253 1
+420 257 1
+420 255 1
+420 258 1
+423 266 1
+423 269 1
+423 262 1
+423 263 1
+423 267 1
+423 264 1
+423 270 1
+423 265 1
+423 268 1
+422 475 1
+422 471 1
+422 473 1
+422 472 1
+422 470 1
+422 474 1
+476 284 1
+452 170 1
+508 158 1
+508 169 1
+508 162 1
+508 168 1
+508 160 1
+508 163 1
+508 164 1
+508 165 1
+508 161 1
+508 167 1
+508 166 1
+508 159 1
+509 525 1
+509 524 1
+509 522 1
+509 523 1
+504 106 1
+504 107 1
+504 186 1
+504 185 1
+504 184 1
+504 108 1
+505 197 1
+505 191 1
+505 193 1
+505 196 1
+505 194 1
+505 187 1
+505 190 1
+505 189 1
+505 188 1
+505 195 1
+505 192 1
+506 514 1
+506 521 1
+506 515 1
+506 520 1
+506 517 1
+506 512 1
+506 513 1
+506 518 1
+506 516 1
+506 519 1
+507 465 1
+507 464 1
+507 462 1
+507 463 1
+501 503 1
+503 511 1
+503 507 1
+503 506 1
+503 505 1
+503 508 1
+503 510 1
+503 504 1
+503 509 1
+497 498 1
+498 499 1
+498 500 1
+499 502 1
+499 501 1
+495 496 1
+495 497 1
+494 25 1
+494 26 1
+494 24 1
+494 27 1
+550 30 1
+551 31 1
+549 28 1
+549 29 1
+546 20 1
+546 21 1
+546 22 1
+547 23 1
+544 568 1
+544 652 1
+559 49 1
+559 50 1
+556 40 1
+556 41 1
+557 42 1
+554 36 1
+554 37 1
+555 39 1
+555 38 1
+552 34 1
+552 32 1
+552 33 1
+553 35 1
+566 65 1
+564 64 1
+564 63 1
+563 61 1
+563 62 1
+563 60 1
+561 57 1
+561 56 1
+561 58 1
+561 59 1
+560 53 1
+560 54 1
+560 51 1
+560 52 1
+575 95 1
+575 94 1
+575 97 1
+575 96 1
+574 91 1
+574 88 1
+574 93 1
+574 89 1
+574 90 1
+574 92 1
+573 80 1
+573 81 1
+572 79 1
+571 78 1
+571 77 1
+569 74 1
+569 76 1
+569 75 1
+568 653 1
+568 561 1
+514 490 1
+526 2 1
+527 4 1
+527 5 1
+527 3 1
+533 657 1
+533 12 1
+533 494 1
+533 495 1
+532 19 1
+535 14 1
+534 13 1
+529 6 1
+531 18 1
+531 17 1
+530 9 1
+530 11 1
+530 10 1
+530 7 1
+530 8 1
+541 215 1
+541 214 1
+540 213 1
+540 212 1
+543 615 1
+543 217 1
+542 216 1
+537 321 1
+537 319 1
+537 320 1
+537 367 1
+537 366 1
+536 16 1
+536 15 1
+539 211 1
+538 210 1
+538 209 1
+608 337 1
+609 344 1
+609 342 1
+609 343 1
+614 368 1
+615 369 1
+615 370 1
+613 365 1
+613 364 1
+613 363 1
+618 375 1
+618 376 1
+619 377 1
+619 378 1
+616 372 1
+616 371 1
+617 374 1
+617 373 1
+623 387 1
+623 388 1
+623 384 1
+623 389 1
+623 385 1
+623 386 1
+620 381 1
+620 382 1
+621 383 1
+627 415 1
+627 413 1
+627 412 1
+627 414 1
+626 408 1
+626 411 1
+626 410 1
+626 409 1
+625 407 1
+625 406 1
+624 390 1
+630 639 1
+630 637 1
+630 635 1
+630 641 1
+630 643 1
+628 419 1
+628 420 1
+634 435 1
+634 431 1
+634 434 1
+634 433 1
+634 432 1
+634 430 1
+634 436 1
+633 427 1
+633 428 1
+633 426 1
+633 429 1
+576 585 1
+576 656 1
+576 98 1
+577 655 1
+577 574 1
+577 584 1
+578 655 1
+578 574 1
+578 584 1
+580 103 1
+580 104 1
+580 105 1
+581 109 1
+581 110 1
+582 356 1
+582 357 1
+582 354 1
+582 112 1
+582 355 1
+582 353 1
+582 111 1
+585 633 1
+586 633 1
+587 151 1
+587 147 1
+587 153 1
+587 148 1
+587 150 1
+587 152 1
+587 154 1
+587 146 1
+587 149 1
+588 173 1
+588 172 1
+588 171 1
+590 198 1
+591 507 1
+591 506 1
+591 505 1
+591 504 1
+592 218 1
+597 223 1
+597 226 1
+597 225 1
+597 224 1
+599 232 1
+599 231 1
+599 230 1
+598 227 1
+601 248 1
+601 250 1
+601 252 1
+601 249 1
+601 251 1
+601 247 1
+600 234 1
+600 233 1
+603 287 1
+603 286 1
+603 288 1
+602 283 1
+607 322 1
+607 323 1
+606 316 1
+606 315 1
+606 318 1
+606 317 1
+653 576 1
+653 577 1
+654 576 1
+654 577 1
+648 502 1
+648 501 1
+651 653 1
+651 561 1
+645 496 1
+645 497 1
+644 489 1
+644 487 1
+644 488 1
+647 498 1
+658 559 1
+659 559 1
+*edges
+1 526 1
+2 527 1
+4 528 1
+5 529 1
+6 530 1
+7 535 1
+7 533 1
+7 534 1
+7 531 1
+7 532 1
+7 536 1
+537 8 1
+537 9 1
+10 540 1
+10 543 1
+10 541 1
+10 538 1
+10 542 1
+10 539 1
+11 533 1
+11 543 1
+12 544 1
+321 15 1
+17 546 1
+17 548 1
+17 547 1
+16 545 1
+19 549 1
+18 494 1
+20 551 1
+20 550 1
+25 553 1
+24 552 1
+27 555 1
+26 554 1
+29 557 1
+28 556 1
+31 369 1
+30 558 1
+218 34 1
+35 560 1
+33 559 1
+38 561 1
+39 562 1
+44 37 1
+42 564 1
+565 43 1
+40 563 1
+45 566 1
+50 567 1
+373 49 1
+323 54 1
+53 400 1
+289 58 1
+57 295 1
+63 571 1
+62 570 1
+61 569 1
+224 60 1
+70 98 1
+230 71 1
+572 64 1
+65 573 1
+286 66 1
+77 575 1
+576 78 1
+381 79 1
+95 72 1
+75 574 1
+128 85 1
+87 580 1
+87 504 1
+299 86 1
+579 81 1
+80 336 1
+404 83 1
+93 414 1
+92 302 1
+94 403 1
+89 582 1
+88 581 1
+91 301 1
+297 90 1
+103 417 1
+100 399 1
+583 96 1
+334 97 1
+111 244 1
+415 109 1
+107 252 1
+118 588 1
+117 347 1
+117 452 1
+115 508 1
+114 346 1
+114 184 1
+113 587 1
+246 112 1
+203 124 1
+589 123 1
+345 122 1
+121 201 1
+503 137 1
+136 405 1
+239 129 1
+413 131 1
+130 504 1
+133 505 1
+506 132 1
+298 134 1
+590 134 1
+189 171 1
+430 185 1
+310 188 1
+189 436 1
+200 428 1
+202 435 1
+353 199 1
+351 198 1
+220 598 1
+498 221 1
+498 222 1
+216 596 1
+219 597 1
+212 594 1
+214 595 1
+210 592 1
+211 593 1
+239 420 1
+601 238 1
+338 235 1
+234 410 1
+233 409 1
+384 231 1
+382 229 1
+228 600 1
+225 599 1
+254 439 1
+413 245 1
+242 423 1
+285 603 1
+258 476 1
+256 602 1
+437 257 1
+422 305 1
+426 307 1
+509 306 1
+309 308 1
+606 311 1
+322 288 1
+290 604 1
+291 330 1
+292 605 1
+303 429 1
+343 611 1
+342 610 1
+340 582 1
+421 350 1
+344 612 1
+324 608 1
+320 607 1
+609 335 1
+619 372 1
+375 621 1
+374 620 1
+368 616 1
+371 618 1
+370 617 1
+396 383 1
+377 623 1
+376 622 1
+378 624 1
+613 355 1
+366 614 1
+367 615 1
+411 633 1
+412 634 1
+630 402 1
+406 631 1
+407 632 1
+501 394 1
+392 627 1
+629 398 1
+628 397 1
+391 626 1
+390 625 1
+432 514 1
+431 644 1
+418 419 1
+421 507 1
+511 650 1
+649 500 1
+503 591 1
+496 646 1
+497 647 1
+499 648 1
+495 645 1
+568 651 1
+635 636 1
+639 640 1
+638 637 1
+577 578 1
+585 586 1
+653 654 1
+641 642 1
+658 659 1

@@ -1,0 +1,2402 @@
+*Network Ore graph PakaaNova.puc
+
+*vertices 815
+1 'Paton / (1)' triangle
+2 'Ko*�m / (2)' triangle
+3 'Wan Hon Xinain / (3)' triangle
+4 'X� PaWao Tao / (4)' ellipse
+5 'Ki*Moi / (5)' ellipse
+6 '? / (6)' triangle
+7 '? / (7)' ellipse
+8 'Hatem Pe TaraminTopa* (8)' ellipse
+9 'Mamxun A*am Tara / (9)' triangle
+10 '? / (10)' ellipse
+11 'Max�n Eo / (11)' triangle
+12 'Orowao Ji Para / (12)' ellipse
+13 '? / (13)' ellipse
+14 'Hwerein Pan Tokwe / (14)' triangle
+15 'Orowao MemenOrowao Xik Wai (15)' ellipse
+16 'Xi Waran / (16)' triangle
+17 '? / (17)' ellipse
+18 'Awo Kamip / (18)' triangle
+19 'Pariri / (19)' triangle
+20 'A*ain Xit Kao* Tokwe / (20)' triangle
+21 'Tokohwet PijoXatoji (21)' ellipse
+22 'Max�n HatWem H�ta (22)' triangle
+23 'Wem Hwara Kwerein / (23)' ellipse
+24 'Jimon XamWao Tok Am (24)' triangle
+25 'Xari / (25)' triangle
+26 'To*o Xirik / (26)' ellipse
+27 'Ton Pan / (27)' ellipse
+28 'Moroxin Pa*TokweMax�n Taparape (28)' triangle
+29 'Orowao Xiao / (29)' ellipse
+30 'Piro / (30)' ellipse
+31 'Orowao Xiao / (31)' triangle
+32 'Tokorom Xiao / (32)' triangle
+33 'Orowao Karax� / (33)' ellipse
+34 'Moroxin Pi Wakan / (34)' ellipse
+35 'Max�n OrokitanWem Xain (35)' triangle
+36 'Wan Hon Xinain / (36)' triangle
+37 'Ton Pan / (37)' ellipse
+38 'Awo KamipHwerein Xip (38)' triangle
+39 'Ton Pan / (39)' ellipse
+40 'Nakom / (40)' ellipse
+41 'Orowao KawaraA*ain Tain (41)' ellipse
+42 'To*o OrowakOrowao Menem (42)' ellipse
+43 'Orowao Xik Waji / (43)' ellipse
+44 'Ko*�mWao Tok Am (44)' triangle
+45 'To*o Xirik / (45)' ellipse
+46 'Max�n Matiran / (46)' triangle
+47 'Hwerein Totoro / (47)' triangle
+48 'Orowao Pan Naran / (48)' triangle
+49 'Niro KajwaTo*o Takao (49)' ellipse
+50 'Wem Kan�m / (50)' triangle
+51 'Toji / (51)' triangle
+52 'PiroOrowao Xikwa (52)' ellipse
+53 'Pa*Wijam TaoWem Kap (53)' triangle
+54 'Piro / (54)' ellipse
+55 'Awo Pan Xinto / (55)' triangle
+56 'Hatem Orowe / (56)' ellipse
+57 'Tajam / (57)' triangle
+58 'Orowao MajiramHatem Orowe (58)' ellipse
+59 'Jap Kahwan / (59)' ellipse
+60 'Wem TokonHatem Xik Pik (60)' triangle
+61 'Hwerein Pan Tokwe / (61)' triangle
+62 'Jap Korojim / (62)' ellipse
+63 'Wem Kap / (63)' triangle
+64 'Ton Pan / (64)' ellipse
+65 'Wem Xao / (65)' triangle
+66 'Jimon XamWem Parawan (66)' triangle
+67 'Wan*eWan Hon Pinam (67)' triangle
+68 'NakonMoroxin To (68)' ellipse
+69 'Ko*�m / (69)' triangle
+70 'XimainKo*wio (70)' triangle
+71 'A*ain Karat / (71)' ellipse
+72 'Orowao XainTokorom XiaoMax�n Tao (72)' triangle
+73 'Max�n Taparape / (73)' triangle
+74 'Wem XipaiWao Pirixi (74)' triangle
+75 'Pixon / (75)' triangle
+76 'Orowao Powa / (76)' triangle
+77 'Hatem Xiko / (77)' triangle
+78 'Wem Parawan / (78)' triangle
+79 'Max�n Orokita  / (79)' triangle
+80 'Orowao Xik Waji / (80)' ellipse
+81 '? / (81)' ellipse
+82 'To*o EmHatem Nao* (82)' ellipse
+83 'Tokohwet MenemMoroxin We (83)' ellipse
+84 'Toji / (84)' triangle
+85 'Ariram / (85)' ellipse
+86 'To*o Xak Wa / (86)' ellipse
+87 '? / (87)' ellipse
+88 'Top Arain / (88)' triangle
+89 'Moroxin Xikin / (89)' triangle
+90 'Ko*�m / (90)' triangle
+91 'A*� / (91)' ellipse
+92 'Jos� / (92)' triangle
+93 'Teresinha / (93)' ellipse
+94 'Orowao Xain / (94)' triangle
+95 'Tokorom Xiao / (95)' triangle
+96 'Pa*Tokwe / (96)' triangle
+97 'Awo Xohwara / (97)' triangle
+98 'Hatem Arawin / (98)' ellipse
+99 'Mijain Karamain / (99)' triangle
+100 'To*o Tamanain / (100)' ellipse
+101 'Awo TirijaJimain Tikij� (101)' triangle
+102 'Xin Xoi / (102)' triangle
+103 'Jap Patawan / (103)' ellipse
+104 'Tokorom Xiao / (104)' triangle
+105 'Wem Torot / (105)' triangle
+106 'Orowao Pin Kan / (106)' ellipse
+107 'Piro / (107)' ellipse
+108 'Wem Karamai / (108)' triangle
+109 'Mo*am / (109)' ellipse
+110 'Nakom / (110)' ellipse
+111 'Tajam / (111)' triangle
+112 'Pijim / (112)' ellipse
+113 'Awo Kamip / (113)' triangle
+114 'Pakao Arap / (114)' ellipse
+115 'Xari / (115)' triangle
+116 'Pa*Tokwe / (116)' triangle
+117 'Pakao* / (117)' ellipse
+118 'Xin Narao / (118)' ellipse
+119 'Wem Kirio / (119)' ellipse
+120 'Jamain Tirije / (120)' triangle
+121 'Orowao Pin Kan / (121)' ellipse
+122 'Wan Hon Tamatara / (122)' triangle
+123 'Max�n Tao Tao / (123)' triangle
+124 'Toko Pijam / (124)' triangle
+125 'Wem Tokom / (125)' triangle
+126 'Wem Kan�m / (126)' triangle
+127 'Wan Hon Pinam / (127)' triangle
+128 'To*o Takao / (128)' ellipse
+129 'Xatoji / (129)' ellipse
+130 'Awo   / (130)' triangle
+131 'Orowao Ji Para / (131)' ellipse
+132 'To*o Xak Wa / (132)' ellipse
+133 'Tokohwet Kalseo / (133)' ellipse
+134 '? / (134)' ellipse
+135 'Tokorom Xiao / (135)' triangle
+136 'Xowa / (136)' triangle
+137 'Andr� / (137)' triangle
+138 'Hatem Nao* / (138)' ellipse
+139 'Paton / (139)' triangle
+140 'Awo Kamip / (140)' triangle
+141 'Torein / (141)' triangle
+142 'Cristina / (142)' ellipse
+143 'Max�n Horop / (143)' triangle
+144 'Wem Mixem / (144)' triangle
+145 'Jairo / (145)' triangle
+146 'Wem Parawan / (146)' triangle
+147 'Mijain Iro / (147)' triangle
+148 'Marineide / (148)' ellipse
+149 'Awo Xain / (149)' triangle
+150 'Orowao Kawijein / (150)' triangle
+151 'Wem Xipein / (151)' triangle
+152 'Wao Hwara / (152)' triangle
+153 'To*o Xak Wa / (153)' ellipse
+154 'Oronk�n / (154)' triangle
+155 'Joel / (155)' triangle
+156 'Jos� / (156)' triangle
+157 'On�simo / (157)' triangle
+158 'Carmelita / (158)' ellipse
+159 'Pa* Wijam / (159)' triangle
+160 'Wem Pan Karere / (160)' triangle
+161 'Wem Tokom / (161)' triangle
+162 'Tajam / (162)' triangle
+163 'Pariri / (163)' triangle
+164 'Wan Hon   / (164)' triangle
+165 'Hatem Parananan / (165)' triangle
+166 'Jimon TojainMijain Karamain (166)' triangle
+167 'A*ain Mixem / (167)' ellipse
+168 'Nakom / (168)' ellipse
+169 'Orowao Pin Kan / (169)' triangle
+170 'Mamx�n Aam Tara / (170)' triangle
+171 'Wao Min / (171)' ellipse
+172 '? / (172)' ellipse
+173 '? / (173)' ellipse
+174 '? / (174)' ellipse
+175 'Xa* Mijein / (175)' ellipse
+176 'Win / (176)' triangle
+177 'Tokohwet Xik Pan / (177)' ellipse
+178 'Awo Kamip / (178)' triangle
+179 'PatonJimon Tojain (179)' triangle
+180 'Hwerein Panp Tokwe / (180)' triangle
+181 'Hwerein Xak KomowaHwerein Mo PinOro Iram (181)' triangle
+182 'Mamxun Mete / (182)' triangle
+183 'Topa Eo / (183)' ellipse
+184 'Awo Xo* Hwara / (184)' triangle
+185 'PariranWao Honko (185)' ellipse
+186 'Wem Tokon / (186)' triangle
+187 'Xin TaoJapp Karawaji (187)' ellipse
+188 '? / (188)' triangle
+189 'Mon / (189)' triangle
+190 'A*ain Towa / (190)' triangle
+191 'Jimon Tojain / (191)' triangle
+192 'A*ain Karat / (192)' ellipse
+193 'Xin Xain / (193)' ellipse
+194 'Wem Xao / (194)' triangle
+195 'Tokorom Ka IoAwo Tot (195)' triangle
+196 'Orowao Karax�To*o Xak WaTo*o Min (196)' ellipse
+197 'Wao Ho Xirim / (197)' triangle
+198 'Hwerein TowanHwerein Paxi (198)' triangle
+199 'Tokohwet Xik Pan / (199)' ellipse
+200 'Wem Karamai / (200)' triangle
+201 'Wem Karamai / (201)' triangle
+202 'Wem Tokom / (202)' triangle
+203 'Wem H�ta / (203)' ellipse
+204 'To*o Nan / (204)' ellipse
+205 'A*ain Xit Kao* Tokwe / (205)' triangle
+206 'Orowao Mi Pao / (206)' ellipse
+207 'To*o   / (207)' ellipse
+208 'Tokohwet Xik Pan / (208)' ellipse
+209 'Xin Narao / (209)' ellipse
+210 'Tajam / (210)' triangle
+211 'Hatem OroweKi*Moi (211)' ellipse
+212 'Wem Waji / (212)' ellipse
+213 'To*o Min / (213)' ellipse
+214 'Xin Xain / (214)' ellipse
+215 'Tokorom JoOro Iram (215)' triangle
+216 'Orowao Tokon / (216)' triangle
+217 'Wao Ur�tao / (217)' ellipse
+218 'Topa Jam / (218)' ellipse
+219 'Jap Towao / (219)' ellipse
+220 'A*ain Karat / (220)' ellipse
+221 'XimainKo*wio (221)' triangle
+222 'Wao Horok / (222)' triangle
+223 'Wem Kwam / (223)' ellipse
+224 'Wan Hon / (224)' triangle
+225 'Moroxin Pik / (225)' ellipse
+226 'To*o Orowak / (226)' ellipse
+227 'Moroxin Tok Mi*Tarakop / (227)' ellipse
+228 'MonWan Hon Tamatara (228)' triangle
+229 'Orowao Pin KanMax�n Taparape (229)' triangle
+230 'Jimon Pan Tokwe / (230)' triangle
+231 'Pakao* / (231)' ellipse
+232 'Maroxin Pik / (232)' ellipse
+233 'Wan Hon OroNao* / (233)' triangle
+234 'Wan Hon Tokwe / (234)' triangle
+235 'Joana / (235)' ellipse
+236 'Orowao K�k�i / (236)' triangle
+237 '? / (237)' ellipse
+238 'Hwerein Xo* / (238)' triangle
+239 'Zebedeu / (239)' triangle
+240 'Orowao Jein / (240)' triangle
+241 'Orowao Mi*Pao / (241)' ellipse
+242 'Wan Hwara Winain / (242)' triangle
+243 'Moroxin Mon / (243)' ellipse
+244 'Orowao Pijman / (244)' ellipse
+245 'Toko Pijam / (245)' ellipse
+246 'Niro Towa / (246)' ellipse
+247 'A*ain Towa / (247)' triangle
+248 'Xin Xain / (248)' ellipse
+249 'Wao Min / (249)' ellipse
+250 'Orowao Karax� / (250)' ellipse
+251 'Orowao Jein / (251)' triangle
+252 'Pijim / (252)' ellipse
+253 'Pakao   / (253)' ellipse
+254 'A*ain   / (254)' triangle
+255 'Orowao Mi Pao / (255)' ellipse
+256 'To*oTokohwet Totoro (256)' ellipse
+257 'Awo Kamip / (257)' ellipse
+258 'Tokorom Ka Io / (258)' triangle
+259 'Xijam / (259)' triangle
+260 'Anita / (260)' ellipse
+261 'Wem Kan�m / (261)' triangle
+262 'Hwerein Oro Iram / (262)' triangle
+263 'Valdemiro / (263)' triangle
+264 'Wem Pixon / (264)' triangle
+265 'Enelson / (265)' triangle
+266 'Max�n Hon / (266)' triangle
+267 'Marco / (267)' triangle
+268 'Wem Xao* / (268)' triangle
+269 'Miguel / (269)' triangle
+270 'Ki*Moi / (270)' ellipse
+271 'Ana / (271)' ellipse
+272 'Mijain Papa / (272)' triangle
+273 'Orowao Kawara / (273)' triangle
+274 'Marineide / (274)' ellipse
+275 'Mon / (275)' triangle
+276 'Jap Kahwan / (276)' ellipse
+277 'Tokohwet Wajo / (277)' ellipse
+278 'Hwerein Kajix�nWao Xinto (278)' triangle
+279 '? / (279)' ellipse
+280 'Piro Oroxok / (280)' ellipse
+281 '? / (281)' triangle
+282 'Pijim / (282)' ellipse
+283 'Tokorom Pa* Wari / (283)' triangle
+284 'Jap Korojim / (284)' ellipse
+285 'Orowao Jein / (285)' triangle
+286 'Wao Hwara / (286)' triangle
+287 'Win / (287)' ellipse
+288 'Max�n Hon / (288)' triangle
+289 'Pi* Torein / (289)' triangle
+290 'O* Werek / (290)' triangle
+291 'Perewem Pixon / (291)' triangle
+292 'Tokohwet OroJowinMo*am Min (292)' ellipse
+293 'Orowao Karax�Orowao Xoxoi (293)' ellipse
+294 'Jap   / (294)' ellipse
+295 'Tokohwet WitoTon Pan Kamerem (295)' ellipse
+296 'Wan HonHwerein Xok (296)' triangle
+297 'Tokohwet Wajo / (297)' ellipse
+298 'Watakao* OromixikPaleto (298)' triangle
+299 'Moroxin Mon / (299)' ellipse
+300 'Pariri / (300)' triangle
+301 'Jap / (301)' ellipse
+302 'Orowao Jein / (302)' triangle
+303 'Awo Xo* Hwara / (303)' triangle
+304 'Tokohwet Wajo / (304)' ellipse
+305 'Manim / (305)' triangle
+306 'Wao Em*Mamx�n A*am TaraHatem Nao* (306)' triangle
+307 'Wan*e / (307)' triangle
+308 'Hatem WePiro Oroxok (308)' ellipse
+309 'Topa* / (309)' ellipse
+310 'Hwerein PixonWao Em* (310)' triangle
+311 'Orowao Jein / (311)' triangle
+312 'Hatem Arakat / (312)' ellipse
+313 'Mamx�n A*am Tara / (313)' triangle
+314 'Wem Xao / (314)' triangle
+315 'Orowao Karax� / (315)' ellipse
+316 'Wem XainAbra�o (316)' triangle
+317 'Main Tawi / (317)' ellipse
+318 'A*ain Tot / (318)' ellipse
+319 'Davi / (319)' triangle
+320 'Ja  / (320)' ellipse
+321 'A*ain Kax�n / (321)' triangle
+322 'Wem X�Piro (322)' ellipse
+323 'Xiemai / (323)' triangle
+324 'NekaCano� (324)' ellipse
+325 'Patan / (325)' triangle
+326 'Orowao Karax� / (326)' ellipse
+327 'Awo Tot / (327)' triangle
+328 'Benedito / (328)' triangle
+329 'Ur� / (329)' ellipse
+330 '? / (330)' triangle
+331 'O* Werek / (331)' triangle
+332 'Ton Pan / (332)' ellipse
+333 'Tokorom Pa* Wari / (333)' triangle
+334 'Mon / (334)' triangle
+335 'Manim / (335)' triangle
+336 'Piro / (336)' ellipse
+337 'Ur� / (337)' ellipse
+338 'Gilmar / (338)' triangle
+339 'Hwerein Pe*e / (339)' triangle
+340 'Mijain Iro / (340)' triangle
+341 'Max�n Hat / (341)' triangle
+342 'Jamain   / (342)' triangle
+343 'Tokohwet OroJowin / (343)' ellipse
+344 'To*o Orowak / (344)' ellipse
+345 'Jo�o / (345)' triangle
+346 'Tokohwet Pijo / (346)' ellipse
+347 'Hwerein Xip / (347)' triangle
+348 'Toko Pijam / (348)' ellipse
+349 'Jos� / (349)' triangle
+350 'Doris / (350)' ellipse
+351 'Tokohwet Kalseo / (351)' ellipse
+352 'Xatoji / (352)' ellipse
+353 'Oronk�n / (353)' triangle
+354 'Pixon / (354)' triangle
+355 'Barnab� / (355)' triangle
+356 'Topa* Eo / (356)' ellipse
+357 'Orowao Xonko Winain / (357)' triangle
+358 'Wem Kan�m / (358)' triangle
+359 'A*ain Mixem / (359)' ellipse
+360 'Tokohwet Menem / (360)' ellipse
+361 'Mamxun Mete / (361)' triangle
+362 'Ariram / (362)' ellipse
+363 'Pa* Wijam / (363)' triangle
+364 '? / (364)' ellipse
+365 '? / (365)' triangle
+366 'Hatem Arakat / (366)' ellipse
+367 '? / (367)' triangle
+368 'Jap Towao / (368)' ellipse
+369 'Minain Koka / (369)' triangle
+370 'Toko JaiWao K�j�Max�n Ha (370)' triangle
+371 'Mixi WeXin To (371)' ellipse
+372 'Xatoji / (372)' ellipse
+373 '? / (373)' triangle
+374 '? / (374)' ellipse
+375 'Hwerein Xak Kateo / (375)' triangle
+376 'Max�n NoiOrowao Xain MatokPa* Wijam (376)' triangle
+377 'Wem KirioHatem At (377)' triangle
+378 'Ko* Wio / (378)' triangle
+379 'Moroxin Tawi / (379)' ellipse
+380 '? / (380)' ellipse
+381 'Niro PowonXatojiTokohwet Wajo (381)' ellipse
+382 'Max�n Ha   / (382)' triangle
+383 'XariJamain Tamanain (383)' triangle
+384 'Xin XoiTokorm Pa* Wari (384)' triangle
+385 'Wem Kirio / (385)' ellipse
+386 'Hwerein Kat Wa / (386)' triangle
+387 'Wao Ja XirimMoroxin Mon (387)' triangle
+388 'Ton Pan / (388)' ellipse
+389 'Minain Koka / (389)' triangle
+390 'Minain Mixio / (390)' triangle
+391 'Orowao Ji Nan / (391)' ellipse
+392 'Hatem Xini / (392)' ellipse
+393 'Wem Parawan / (393)' triangle
+394 'Wao Mo Pin / (394)' ellipse
+395 'Hatem Xao / (395)' ellipse
+396 'Wao Tok Am / (396)' triangle
+397 'Mixi We / (397)' ellipse
+398 'Niro   / (398)' ellipse
+399 'Nakom Wop / (399)' ellipse
+400 'Wem Ek / (400)' triangle
+401 'Ur�taoWao K�j� (401)' triangle
+402 'A*ain Karat / (402)' ellipse
+403 'TojiMax�n Hota (403)' triangle
+404 '? / (404)' ellipse
+405 'Orowao Monokon / (405)' triangle
+406 'Minain Koka / (406)' triangle
+407 'Wao Kwain / (407)' ellipse
+408 'Mijain PixiwinMowainXian (408)' triangle
+409 'Wem Parawan / (409)' ellipse
+410 'Xin Topa*Pariram (410)' ellipse
+411 'Wan*eHweerein Piram (411)' triangle
+412 'Wao Tokori / (412)' triangle
+413 'Hwerein Pato / (413)' triangle
+414 'Jamain TamanainToko Jai (414)' triangle
+415 'Hatem Kamerem / (415)' triangle
+416 'Wem Pa* Ar�m / (416)' ellipse
+417 'Wao Xam / (417)' triangle
+418 'Toko Jai / (418)' triangle
+419 'Pakao* / (419)' ellipse
+420 'Wao Ur�tao / (420)' ellipse
+421 'XiemaiWem KamiParap (421)' triangle
+422 'Hatem At / (422)' ellipse
+423 'Ton Pan / (423)' ellipse
+424 'Wem Nao* / (424)' triangle
+425 'Xin Narao / (425)' ellipse
+426 'Xatoji / (426)' ellipse
+427 'Orowam / (427)' triangle
+428 'Orowao Toko Jai / (428)' triangle
+429 'Max�n Ha / (429)' triangle
+430 'Toko Jai / (430)' triangle
+431 'Wem Ek / (431)' triangle
+432 'Piro / (432)' ellipse
+433 'H�xirao / (433)' ellipse
+434 'Tokorom Wan Xik / (434)' triangle
+435 'Wao Ja XirimXikwam (435)' triangle
+436 'Jaime / (436)' triangle
+437 'Jap Mete / (437)' ellipse
+438 'Wao Wi / (438)' triangle
+439 'Main Tawi / (439)' ellipse
+440 'Wem Tokom / (440)' triangle
+441 'Topa* / (441)' ellipse
+442 'Ton Pan / (442)' ellipse
+443 'Wen Nao* / (443)' triangle
+444 'Pakao* / (444)' ellipse
+445 'Tokohwet Kalseo / (445)' ellipse
+446 'Jimon Tojain / (446)' triangle
+447 'Tem Xiko / (447)' triangle
+448 'Wem Kwam / (448)' ellipse
+449 'Tem Xao* / (449)' ellipse
+450 'Wem Tom / (450)' triangle
+451 '? / (451)' ellipse
+452 'Ki*Moi / (452)' ellipse
+453 'Nakom / (453)' ellipse
+454 'Niro / (454)' ellipse
+455 'To*o Xak Wa / (455)' ellipse
+456 'Wao Tok Am / (456)' triangle
+457 'Mijain Horok / (457)' triangle
+458 'Wan HonWao Tirija (458)' triangle
+459 'Tokohwet Wajo / (459)' ellipse
+460 'Jao / (460)' triangle
+461 'Ki*Moi / (461)' ellipse
+462 'Topa* / (462)' ellipse
+463 'Xin Xoi / (463)' triangle
+464 'Wan Hon Waji / (464)' triangle
+465 'Mamx�n   / (465)' triangle
+466 'Orowao   / (466)' triangle
+467 'Minain   / (467)' triangle
+468 'Hwerein Xo   / (468)' triangle
+469 'Xatoji / (469)' ellipse
+470 'To*o Min / (470)' ellipse
+471 'To*o Em / (471)' ellipse
+472 'Valdemar / (472)' triangle
+473 'Jap Towao / (473)' ellipse
+474 'Dinora / (474)' ellipse
+475 'Moroxin Xikin / (475)' triangle
+476 'Orowao Towirain / (476)' ellipse
+477 'Hwerein Paxi / (477)' triangle
+478 'Hwerein Ka X�x�n / (478)' triangle
+479 'Xinto / (479)' ellipse
+480 'Mijain Wina / (480)' triangle
+481 'Jao / (481)' triangle
+482 'H�xirao / (482)' ellipse
+483 'Tokohwet Wito / (483)' ellipse
+484 'Xatoji / (484)' ellipse
+485 'Nakom / (485)' ellipse
+486 'To*o Tatarao / (486)' ellipse
+487 'Frederico / (487)' triangle
+488 'Regina / (488)' ellipse
+489 '? / (489)' diamond
+490 'Jap Kahwan / (490)' ellipse
+491 'Wem Pato / (491)' triangle
+492 'Orowao Pijman / (492)' ellipse
+493 'Marina / (493)' ellipse
+494 'A*ain Tom / (494)' triangle
+495 'A*ain Mixem / (495)' ellipse
+496 'Ivan / (496)' triangle
+497 'Ur�Wao Horon Tok (497)' triangle
+498 'To*o Min / (498)' ellipse
+499 'Hwerein Kax�x�n / (499)' ellipse
+500 'Mamx�n A*am Tara / (500)' triangle
+501 'Orowao Jein / (501)' triangle
+502 'Moroxin To  / (502)' ellipse
+503 'Xin Xain / (503)' ellipse
+504 '? / (504)' ellipse
+505 'Maria / (505)' ellipse
+506 'Ur�tao / (506)' triangle
+507 'Orowao Ji Para / (507)' ellipse
+508 'Topa Eo / (508)' ellipse
+509 'Xiemai / (509)' triangle
+510 'TojiChico Taco (510)' triangle
+511 'Mijain IroJo�o (511)' triangle
+512 'Noeme / (512)' ellipse
+513 'Tokorom   / (513)' triangle
+514 'Moroxin To / (514)' ellipse
+515 'Ki*Moi / (515)' ellipse
+516 'Hwerein Xo / (516)' triangle
+517 '? / (517)' diamond
+518 'Jamain Tamanain / (518)' triangle
+519 'Mijain PixiwinTokwam (519)' triangle
+520 'To*o Taratao / (520)' ellipse
+521 'Orowao K�k�i / (521)' ellipse
+522 'Xari / (522)' triangle
+523 '? / (523)' triangle
+524 'To*o Min(?) (524)' ellipse
+525 'Xin Xoi / (525)' triangle
+526 'Jap Patawan / (526)' ellipse
+527 '? / (527)' triangle
+528 'Moroxe / (528)' triangle
+529 'Hwerein Pa*Tokwe / (529)' triangle
+530 'To*o / (530)' ellipse
+531 'Wem TomA*ain Tom (531)' triangle
+532 'Toko Pijam / (532)' ellipse
+533 'Wao KaramPiroWem X�Wem Tokoi (533)' ellipse
+534 'Max�n Horok / (534)' triangle
+535 'Wem X� / (535)' ellipse
+536 'Tokwam / (536)' triangle
+537 '? / (537)' ellipse
+538 'Jimon Maram / (538)' triangle
+539 'Manim / (539)' triangle
+540 'Toko PijamTem Xa � (540)' ellipse
+541 'Xiemai / (541)' triangle
+542 'Wem TorotTokorm Wanxi (542)' triangle
+543 'Jap Patawan / (543)' ellipse
+544 'Wem Xika / (544)' triangle
+545 'Orowao TataMax�n Jam (545)' triangle
+546 'Xijam Pixam / (546)' triangle
+547 '? / (547)' triangle
+548 'Ur� Em* / (548)' ellipse
+549 'Hwerein Mo Pin / (549)' triangle
+550 'Toko Pijam / (550)' ellipse
+551 'Rute / (551)' ellipse
+552 'Orowao Kawara / (552)' ellipse
+553 'Manoelita / (553)' ellipse
+554 'Orowao K�k�i / (554)' ellipse
+555 'Xi Waran / (555)' ellipse
+556 'Toko Pijam / (556)' ellipse
+557 'Max�n Kworain / (557)' triangle
+558 'Topa* Pe Kwaran / (558)' ellipse
+559 'Jap / (559)' triangle
+560 'Toji / (560)' triangle
+561 'RaimundaCano� (561)' ellipse
+562 'Tokohwet   / (562)' ellipse
+563 'Orowao Menem / (563)' triangle
+564 'Wao KwainOrowao Towirain (564)' ellipse
+565 'Hatem Pe Taramin / (565)' ellipse
+566 'Pijim / (566)' ellipse
+567 'Jap Irao / (567)' ellipse
+568 'Orowao Kohorok / (568)' ellipse
+569 'Max�n Ha / (569)' triangle
+570 'Tem Hom / (570)' triangle
+571 'Wao Ho   / (571)' triangle
+572 'Wao Wi / (572)' triangle
+573 'WereOrowao Xain (573)' triangle
+574 'Wao Kwain / (574)' triangle
+575 'Jimon TojainWao Xin To (575)' triangle
+576 'Niro Towa / (576)' ellipse
+577 'Tem Xao  / (577)' ellipse
+578 'Main TawiToko Pijam (578)' ellipse
+579 'XatojiPiroTem Tokorom (579)' ellipse
+580 'Wem Parawan / (580)' ellipse
+581 'Pakao*Jap Patawan (581)' ellipse
+582 '? / (582)' triangle
+583 'To*o Tamanain / (583)' ellipse
+584 'Orowao Tata / (584)' triangle
+585 'Niro / (585)' ellipse
+586 'Hatem Mereme / (586)' ellipse
+587 'Max�n Jam / (587)' triangle
+588 'Mijain Karamain / (588)' triangle
+589 'A*ain Towa / (589)' triangle
+590 'Jamain To*� / (590)' triangle
+591 'Moroxin Mon / (591)' ellipse
+592 'Wem Waji / (592)' ellipse
+593 'Mamx�n Wi / (593)' triangle
+594 'A*ain Xit   / (594)' triangle
+595 'Orowao Menem / (595)' triangle
+596 'Mixi Orakarakao* / (596)' ellipse
+597 'Wao Omiji / (597)' triangle
+598 'Tem Noi / (598)' triangle
+599 'Oronk�n / (599)' triangle
+600 'Tokohwet Wajo / (600)' ellipse
+601 'Wem Xipain / (601)' triangle
+602 'Wao Xin To / (602)' triangle
+603 'Tem At / (603)' triangle
+604 'Tokorom MipAwo Xiko (604)' triangle
+605 'Tokohwet Waji / (605)' ellipse
+606 'Tokorom XiaoMax�n Horon Pana (606)' triangle
+607 'Orowao Tata / (607)' ellipse
+608 'Pa* Wijam / (608)' triangle
+609 'Fatima / (609)' ellipse
+610 'Tokorom Pa* Wari / (610)' triangle
+611 'Moroxin Pe* Arain Topi / (611)' triangle
+612 'Hwerein Ka Towa / (612)' triangle
+613 'Max�n Taparape / (613)' triangle
+614 'A*ain TonTem Noi (614)' triangle
+615 'Max�n Towon / (615)' triangle
+616 'Mixi Orokarakao* / (616)' ellipse
+617 'Moroxin Mo Pawin / (617)' triangle
+618 'Mijain   / (618)' triangle
+619 'A*ain Karat / (619)' ellipse
+620 'A*ainWao Tokori (620)' triangle
+621 'Vanda / (621)' ellipse
+622 'Awo Tot / (622)' triangle
+623 'Pijim / (623)' ellipse
+624 'S�rgioOrowin (624)' triangle
+625 'Denise / (625)' ellipse
+626 'Tokohwet / (626)' ellipse
+627 'Ur�tao / (627)' triangle
+628 'Tem Noi / (628)' triangle
+629 'Ton Pan Towa / (629)' ellipse
+630 'Moroxin Mo Pawin / (630)' ellipse
+631 'Xatoji / (631)' ellipse
+632 'Diva / (632)' ellipse
+633 'Dora / (633)' ellipse
+634 'Anete / (634)' ellipse
+635 'Wem Kawai / (635)' ellipse
+636 'Celso / (636)' triangle
+637 'Awo K�r�k / (637)' triangle
+638 'Wem X� / (638)' ellipse
+639 'Wem Pixon / (639)' triangle
+640 'Wao Honko / (640)' ellipse
+641 '? / (641)' triangle
+642 'Moroxin Pa* Pijman / (642)' ellipse
+643 'Hwerein Towan / (643)' triangle
+644 'Pijim / (644)' ellipse
+645 'Max�n Kworain / (645)' triangle
+646 'Oro Iram / (646)' triangle
+647 'Katem Pa* Taramin / (647)' ellipse
+648 'Moji (?)Wao Honko (648)' ellipse
+649 'Xin Xoi / (649)' triangle
+650 'Topa* Towa Tok / (650)' ellipse
+651 'Hwerein Mo Pin / (651)' triangle
+652 'Kon Orowao Jein / (652)' ellipse
+653 'Orowao Tokom / (653)' triangle
+654 'JapWao Honko (654)' ellipse
+655 'Ur� / (655)' ellipse
+656 'X�ruin / (656)' triangle
+657 'Tokohwet / (657)' ellipse
+658 'Nakom Me / (658)' ellipse
+659 'Orowao Mi Pao / (659)' ellipse
+660 'Itamar / (660)' triangle
+661 'Orowao Pijiman / (661)' ellipse
+662 'To*o Orowak / (662)' ellipse
+663 'Tokorom Ka Io / (663)' triangle
+664 'Tokorom Ka Io / (664)' triangle
+665 'Jamain Homain / (665)' triangle
+666 'Wao Xinto / (666)' triangle
+667 'Xin Narao / (667)' ellipse
+668 'Juvenildo / (668)' triangle
+669 'Orowao K�k�i / (669)' triangle
+670 'Orowao Kawara / (670)' ellipse
+671 'Tokohwet Pijo / (671)' ellipse
+672 'Pa* Iram / (672)' ellipse
+673 'Tokorom Mip / (673)' triangle
+674 'Tokohwet OroJowin / (674)' ellipse
+675 'Jimon Maram / (675)' triangle
+676 'Xatoji / (676)' ellipse
+677 'Torein / (677)' triangle
+678 'Orowao Xikon Pe / (678)' triangle
+679 'Moroxin Wat / (679)' triangle
+680 'Paulo Vitor / (680)' triangle
+681 'Jap Towao / (681)' ellipse
+682 'Pijim / (682)' ellipse
+683 'Topa* / (683)' ellipse
+684 'Mamxun Mete / (684)' triangle
+685 'Xin Narao / (685)' ellipse
+686 'Tokohwet OroJowin / (686)' ellipse
+687 'Wan*e / (687)' triangle
+688 'Orowao Tata / (688)' ellipse
+689 'Mamx�n Mete / (689)' triangle
+690 'Isabel / (690)' ellipse
+691 'Tem Xao* / (691)' ellipse
+692 'Fatima / (692)' ellipse
+693 'Wao Pa* Mijak / (693)' ellipse
+694 'Wao Ja Xirim / (694)' triangle
+695 'Xin Tao / (695)' ellipse
+696 'Piro / (696)' ellipse
+697 'Pa* Wijam / (697)' triangle
+698 'Orowao MenemWao Min (698)' ellipse
+699 'Xian Orotok / (699)' triangle
+700 'Jap Arakat / (700)' ellipse
+701 '? / (701)' triangle
+702 'Ton Pan / (702)' ellipse
+703 'Win / (703)' ellipse
+704 'Tokohwet Menem / (704)' ellipse
+705 '? / (705)' ellipse
+706 'A*ain / (706)' triangle
+707 'Xin Nat / (707)' triangle
+708 'Wem Matom / (708)' ellipse
+709 'Xian Orotok / (709)' triangle
+710 'To*o Em / (710)' ellipse
+711 'Orowao Mi*PaoNakom (711)' ellipse
+712 'Wem TokomWatakao* Mon (712)' triangle
+713 'Xatoji / (713)' ellipse
+714 'Jamain Homain / (714)' triangle
+715 'Orowao Xoxoi / (715)' ellipse
+716 'Wan Hon OroNao* / (716)' triangle
+717 'To*o Takao* / (717)' ellipse
+718 'Raimundo / (718)' triangle
+719 'Jimon   / (719)' triangle
+720 'Wem X� / (720)' ellipse
+721 'Wem Kami / (721)' triangle
+722 'Orowao Honko Winain / (722)' triangle
+723 'Moroxin E*wa / (723)' triangle
+724 'Topa* Jam / (724)' ellipse
+725 'Maria / (725)' ellipse
+726 'Jos� / (726)' triangle
+727 'A*ain / (727)' triangle
+728 'A*am Tara / (728)' triangle
+729 'Tokohwet Menem / (729)' ellipse
+730 'Max�n Horok / (730)' triangle
+731 'Ki*Moi / (731)' ellipse
+732 'Niro / (732)' ellipse
+733 'Hwerein Hota / (733)' triangle
+734 'Tokorom Pa* WariHwerein Pixam (734)' triangle
+735 'Pakao*Niro Kajwa (735)' ellipse
+736 'Wem PiwamNakom (736)' ellipse
+737 'Wem Xain / (737)' triangle
+738 'Orowao Karax� / (738)' ellipse
+739 'Orowao Xik Waji / (739)' triangle
+740 'Hwerein Tamanain / (740)' triangle
+741 'Pakao* / (741)' ellipse
+742 'Awo Pana / (742)' triangle
+743 'Orowao Mi*Pao / (743)' triangle
+744 'A*ain Kax�n / (744)' triangle
+745 'Xin Narao / (745)' ellipse
+746 'Hwerein Pan Tokwe / (746)' triangle
+747 '? / (747)' ellipse
+748 '? / (748)' diamond
+749 '? / (749)' diamond
+750 'Wem Tokon Hok Wao WinainJo�o Trapi (750)' triangle
+751 'Jaime / (751)' triangle
+752 'Wao Em* / (752)' triangle
+753 'Tem Xini / (753)' triangle
+754 'Tem We / (754)' triangle
+755 'Armando / (755)' triangle
+756 'Moroxin To / (756)' ellipse
+757 'Mario / (757)' triangle
+758 'Adalberto / (758)' triangle
+759 'Wem Tokom / (759)' triangle
+760 'Orowao Karax� / (760)' ellipse
+761 'Orowao Pin KanAbelino (761)' triangle
+762 'Rebeca / (762)' ellipse
+763 'Alice / (763)' ellipse
+764 'A*ain Mixem / (764)' ellipse
+765 'Nakom Me / (765)' ellipse
+766 'To*o Tirije / (766)' ellipse
+767 'Jimon Pan Tokwe / (767)' triangle
+768 'Topa* / (768)' ellipse
+769 'Moroxin Xo* Panain / (769)' triangle
+770 'Freide / (770)' triangle
+771 'Topa* Pe Kwaran / (771)' ellipse
+772 'Pako* / (772)' triangle
+773 'Sonia / (773)' ellipse
+774 'Wem Xikom / (774)' ellipse
+775 'Tem Xiko* / (775)' triangle
+776 'Wem Kwam / (776)' ellipse
+777 '# / (777)' triangle
+778 '# (778)' ellipse
+779 '# (779)' triangle
+780 '# (780)' ellipse
+781 '# (781)' triangle
+782 '# (782)' ellipse
+783 '# (783)' triangle
+784 '# (784)' ellipse
+785 '# (785)' triangle
+786 '# (786)' ellipse
+787 '# (787)' triangle
+788 '# (788)' ellipse
+789 '# (789)' triangle
+790 '# (790)' ellipse
+791 '# (791)' triangle
+792 '# (792)' ellipse
+793 '# (793)' triangle
+794 '# (794)' ellipse
+795 '# (795)' triangle
+796 '# (796)' ellipse
+797 '# / (797)' triangle
+798 '# (798)' ellipse
+799 '# (799)' triangle
+800 '# (800)' ellipse
+801 '# (801)' triangle
+802 '# (802)' ellipse
+803 '# (803)' ellipse
+804 '# (804)' triangle
+805 '# (805)' triangle
+806 '# (806)' ellipse
+807 '# / (807)' triangle
+808 '# / (808)' ellipse
+809 '# (809)' triangle
+810 '# (810)' ellipse
+811 '# / (811)' triangle
+812 '# (812)' triangle
+813 '# (813)' ellipse
+814 '# (814)' triangle
+815 '# (815)' ellipse
+*arcs
+3 24 1
+3 28 1
+3 26 1
+4 24 1
+4 28 1
+4 26 1
+5 30 1
+5 31 1
+5 33 1
+5 29 1
+5 32 1
+6 30 1
+6 31 1
+6 33 1
+6 29 1
+6 32 1
+7 34 1
+8 60 1
+9 60 1
+10 8 1
+11 35 1
+11 36 1
+12 35 1
+12 36 1
+13 14 1
+13 9 1
+14 40 1
+14 41 1
+14 39 1
+14 38 1
+14 37 1
+15 22 1
+15 40 1
+15 41 1
+15 39 1
+15 38 1
+15 37 1
+17 86 1
+17 84 1
+17 85 1
+17 87 1
+17 88 1
+16 22 1
+19 82 1
+18 86 1
+18 84 1
+18 85 1
+18 87 1
+18 88 1
+21 42 1
+21 43 1
+21 83 1
+20 83 1
+22 42 1
+22 204 1
+22 43 1
+28 67 1
+28 66 1
+28 69 1
+28 218 1
+30 67 1
+30 66 1
+30 69 1
+30 72 1
+34 47 1
+35 47 1
+32 74 1
+32 73 1
+33 46 1
+38 62 1
+38 217 1
+37 61 1
+43 347 1
+43 341 1
+43 346 1
+43 342 1
+43 345 1
+43 343 1
+43 344 1
+40 52 1
+41 132 1
+41 82 1
+46 59 1
+47 80 1
+47 79 1
+47 81 1
+44 72 1
+45 74 1
+45 73 1
+55 68 1
+54 63 1
+54 64 1
+53 63 1
+53 64 1
+52 133 1
+58 70 1
+58 71 1
+57 70 1
+57 71 1
+56 68 1
+68 93 1
+68 92 1
+69 93 1
+69 94 1
+69 92 1
+76 144 1
+76 143 1
+76 146 1
+76 147 1
+76 142 1
+76 145 1
+76 149 1
+76 148 1
+78 157 1
+78 153 1
+78 158 1
+78 156 1
+78 154 1
+78 155 1
+72 106 1
+72 107 1
+73 95 1
+73 96 1
+73 97 1
+75 164 1
+75 165 1
+75 161 1
+75 163 1
+75 162 1
+85 100 1
+85 99 1
+85 98 1
+87 101 1
+86 114 1
+86 113 1
+86 115 1
+86 116 1
+83 109 1
+83 110 1
+82 106 1
+82 108 1
+82 107 1
+89 100 1
+89 114 1
+89 113 1
+89 99 1
+89 115 1
+89 116 1
+89 98 1
+88 102 1
+91 102 1
+90 101 1
+102 128 1
+103 482 1
+103 483 1
+100 247 1
+100 248 1
+101 117 1
+98 507 1
+98 508 1
+98 509 1
+99 129 1
+99 131 1
+97 104 1
+97 103 1
+97 105 1
+110 144 1
+110 143 1
+110 146 1
+110 147 1
+110 152 1
+110 142 1
+110 145 1
+110 149 1
+110 148 1
+111 130 1
+108 137 1
+108 135 1
+108 140 1
+108 141 1
+108 136 1
+108 138 1
+108 139 1
+109 128 1
+107 122 1
+107 125 1
+107 126 1
+107 121 1
+107 127 1
+107 123 1
+107 124 1
+119 134 1
+118 159 1
+118 157 1
+118 153 1
+118 160 1
+118 158 1
+118 156 1
+118 154 1
+118 155 1
+117 118 1
+117 119 1
+117 120 1
+116 132 1
+116 133 1
+112 129 1
+112 131 1
+112 130 1
+121 517 1
+129 164 1
+129 165 1
+129 161 1
+129 163 1
+129 162 1
+128 150 1
+128 151 1
+131 137 1
+131 135 1
+131 140 1
+131 141 1
+131 136 1
+131 138 1
+131 139 1
+130 568 1
+130 567 1
+130 565 1
+130 566 1
+132 320 1
+132 315 1
+132 319 1
+132 317 1
+132 318 1
+132 316 1
+153 516 1
+153 514 1
+153 515 1
+171 193 1
+171 195 1
+171 192 1
+171 194 1
+171 196 1
+170 193 1
+170 195 1
+170 192 1
+170 194 1
+170 196 1
+169 188 1
+169 191 1
+169 190 1
+169 189 1
+168 188 1
+168 191 1
+168 190 1
+168 189 1
+175 409 1
+175 410 1
+174 175 1
+173 184 1
+172 181 1
+172 180 1
+172 183 1
+172 182 1
+161 770 1
+167 179 1
+167 178 1
+166 179 1
+166 178 1
+187 244 1
+187 246 1
+187 201 1
+187 200 1
+187 245 1
+187 199 1
+187 202 1
+184 201 1
+184 200 1
+184 199 1
+184 108 1
+184 202 1
+185 209 1
+185 208 1
+190 228 1
+190 230 1
+188 203 1
+189 212 1
+176 187 1
+176 185 1
+176 186 1
+177 187 1
+177 185 1
+177 186 1
+182 308 1
+182 310 1
+182 307 1
+182 305 1
+182 309 1
+182 306 1
+183 198 1
+180 244 1
+180 246 1
+180 245 1
+181 209 1
+181 208 1
+205 660 1
+205 663 1
+205 659 1
+205 657 1
+205 658 1
+205 661 1
+205 662 1
+207 670 1
+207 669 1
+206 224 1
+206 225 1
+206 223 1
+203 204 1
+197 207 1
+197 206 1
+196 207 1
+196 206 1
+193 228 1
+193 230 1
+192 213 1
+192 215 1
+192 214 1
+195 205 1
+222 229 1
+223 234 1
+223 236 1
+223 231 1
+223 235 1
+223 232 1
+218 551 1
+218 552 1
+218 553 1
+218 549 1
+218 550 1
+219 268 1
+219 267 1
+219 266 1
+212 229 1
+213 311 1
+213 312 1
+213 313 1
+215 249 1
+215 250 1
+215 253 1
+215 252 1
+215 254 1
+208 218 1
+208 217 1
+209 219 1
+210 222 1
+210 220 1
+210 221 1
+211 222 1
+211 220 1
+211 221 1
+232 237 1
+231 332 1
+231 331 1
+231 333 1
+231 334 1
+230 247 1
+230 248 1
+229 256 1
+229 257 1
+229 255 1
+228 258 1
+228 276 1
+228 275 1
+228 259 1
+225 241 1
+225 240 1
+225 242 1
+225 238 1
+225 239 1
+225 243 1
+255 763 1
+255 764 1
+255 762 1
+255 766 1
+255 761 1
+255 765 1
+248 588 1
+248 591 1
+248 589 1
+248 587 1
+248 586 1
+248 584 1
+248 583 1
+248 592 1
+248 590 1
+248 585 1
+249 261 1
+249 262 1
+249 264 1
+249 263 1
+249 265 1
+249 260 1
+246 455 1
+246 454 1
+247 268 1
+247 685 1
+247 267 1
+247 266 1
+244 258 1
+244 259 1
+245 276 1
+245 275 1
+275 122 1
+275 125 1
+275 126 1
+275 121 1
+275 127 1
+275 123 1
+275 124 1
+278 288 1
+278 289 1
+278 290 1
+277 288 1
+277 289 1
+277 290 1
+282 176 1
+282 286 1
+281 176 1
+281 286 1
+280 284 1
+280 285 1
+286 294 1
+286 292 1
+286 295 1
+286 293 1
+286 291 1
+284 294 1
+284 292 1
+284 295 1
+284 293 1
+284 291 1
+258 629 1
+258 627 1
+258 628 1
+259 492 1
+259 493 1
+259 496 1
+259 491 1
+259 494 1
+259 490 1
+259 495 1
+256 625 1
+256 613 1
+256 612 1
+256 623 1
+256 622 1
+256 626 1
+257 274 1
+257 272 1
+257 273 1
+257 270 1
+257 269 1
+257 271 1
+266 681 1
+305 339 1
+305 340 1
+305 109 1
+305 110 1
+304 205 1
+307 347 1
+307 329 1
+307 341 1
+307 346 1
+307 342 1
+307 345 1
+307 343 1
+307 344 1
+307 328 1
+309 466 1
+309 327 1
+309 326 1
+309 465 1
+308 321 1
+308 325 1
+308 323 1
+308 322 1
+310 314 1
+312 503 1
+312 499 1
+312 500 1
+312 498 1
+312 502 1
+312 501 1
+315 354 1
+315 351 1
+315 348 1
+315 350 1
+315 352 1
+315 353 1
+317 330 1
+289 301 1
+289 304 1
+289 303 1
+289 300 1
+289 302 1
+290 321 1
+290 325 1
+290 297 1
+290 323 1
+290 299 1
+290 327 1
+290 326 1
+290 322 1
+290 296 1
+290 298 1
+292 308 1
+292 310 1
+292 307 1
+292 305 1
+292 309 1
+292 306 1
+293 297 1
+293 299 1
+293 296 1
+293 298 1
+294 62 1
+295 95 1
+295 96 1
+295 97 1
+295 301 1
+295 304 1
+295 303 1
+295 300 1
+295 302 1
+296 311 1
+296 312 1
+296 313 1
+298 320 1
+298 315 1
+298 319 1
+298 317 1
+298 318 1
+298 316 1
+299 256 1
+299 257 1
+299 255 1
+302 261 1
+302 262 1
+302 260 1
+343 473 1
+343 475 1
+343 474 1
+343 477 1
+343 476 1
+342 360 1
+342 362 1
+342 359 1
+342 361 1
+342 355 1
+342 357 1
+342 358 1
+342 356 1
+341 686 1
+341 687 1
+339 512 1
+339 513 1
+339 511 1
+348 349 1
+345 518 1
+344 80 1
+344 79 1
+344 81 1
+327 756 1
+327 751 1
+327 752 1
+327 757 1
+327 755 1
+327 754 1
+327 753 1
+324 338 1
+324 336 1
+324 335 1
+324 337 1
+325 338 1
+325 336 1
+325 335 1
+325 337 1
+323 241 1
+323 240 1
+323 242 1
+323 238 1
+323 239 1
+323 243 1
+321 332 1
+321 331 1
+321 333 1
+321 334 1
+328 159 1
+328 160 1
+373 408 1
+373 405 1
+373 406 1
+372 408 1
+372 405 1
+372 406 1
+375 409 1
+375 410 1
+374 375 1
+369 400 1
+369 401 1
+368 415 1
+368 400 1
+368 401 1
+368 458 1
+371 390 1
+371 391 1
+371 389 1
+371 385 1
+371 397 1
+371 387 1
+371 402 1
+371 392 1
+371 394 1
+370 390 1
+370 391 1
+370 389 1
+370 385 1
+370 397 1
+370 387 1
+370 402 1
+370 392 1
+370 394 1
+381 414 1
+381 413 1
+381 412 1
+380 529 1
+383 463 1
+383 462 1
+383 459 1
+376 414 1
+376 413 1
+376 412 1
+379 536 1
+378 444 1
+364 377 1
+364 376 1
+364 378 1
+365 384 1
+365 383 1
+365 382 1
+365 381 1
+366 384 1
+366 383 1
+366 382 1
+366 381 1
+367 415 1
+367 458 1
+363 377 1
+363 376 1
+363 378 1
+410 420 1
+410 437 1
+410 419 1
+411 420 1
+411 437 1
+411 419 1
+408 469 1
+408 416 1
+408 471 1
+408 435 1
+408 434 1
+408 470 1
+408 467 1
+408 417 1
+408 468 1
+409 469 1
+409 471 1
+409 470 1
+409 467 1
+409 468 1
+412 423 1
+412 424 1
+402 430 1
+402 431 1
+402 429 1
+402 448 1
+403 432 1
+403 448 1
+401 430 1
+401 431 1
+401 429 1
+407 416 1
+407 417 1
+404 432 1
+395 447 1
+395 446 1
+397 463 1
+397 462 1
+397 464 1
+397 459 1
+396 447 1
+396 446 1
+386 399 1
+386 398 1
+385 399 1
+385 398 1
+385 425 1
+385 428 1
+385 426 1
+385 427 1
+384 425 1
+384 428 1
+384 426 1
+384 427 1
+391 435 1
+391 434 1
+444 610 1
+444 611 1
+446 453 1
+446 450 1
+446 449 1
+446 452 1
+447 455 1
+447 456 1
+447 457 1
+447 454 1
+433 456 1
+433 457 1
+425 444 1
+424 473 1
+424 475 1
+424 474 1
+424 477 1
+424 476 1
+427 466 1
+427 465 1
+428 120 1
+419 436 1
+418 436 1
+421 438 1
+421 439 1
+421 443 1
+421 442 1
+421 441 1
+421 440 1
+423 492 1
+423 493 1
+423 496 1
+423 491 1
+423 494 1
+423 490 1
+423 495 1
+422 438 1
+422 439 1
+422 443 1
+422 442 1
+422 441 1
+422 440 1
+479 505 1
+479 506 1
+479 510 1
+472 489 1
+472 487 1
+472 488 1
+471 489 1
+471 487 1
+471 488 1
+468 510 1
+469 512 1
+469 513 1
+469 511 1
+466 464 1
+466 486 1
+466 485 1
+465 482 1
+465 483 1
+463 503 1
+463 499 1
+463 500 1
+463 498 1
+463 502 1
+463 501 1
+462 249 1
+462 250 1
+462 251 1
+462 253 1
+462 252 1
+462 254 1
+461 497 1
+460 480 1
+460 481 1
+460 497 1
+459 480 1
+459 479 1
+459 478 1
+459 481 1
+458 479 1
+458 478 1
+454 559 1
+454 557 1
+454 560 1
+454 558 1
+454 556 1
+448 314 1
+448 329 1
+448 328 1
+510 516 1
+510 514 1
+510 515 1
+511 517 1
+507 518 1
+502 504 1
+481 507 1
+481 508 1
+481 509 1
+550 568 1
+550 567 1
+550 565 1
+550 566 1
+548 453 1
+548 450 1
+548 449 1
+548 452 1
+549 723 1
+549 724 1
+549 722 1
+546 551 1
+546 552 1
+546 553 1
+546 549 1
+546 550 1
+547 548 1
+545 559 1
+545 557 1
+545 560 1
+545 558 1
+545 556 1
+559 274 1
+559 272 1
+559 273 1
+559 270 1
+559 269 1
+559 271 1
+557 588 1
+557 591 1
+557 589 1
+557 587 1
+557 586 1
+557 584 1
+557 583 1
+557 592 1
+557 590 1
+557 585 1
+554 104 1
+554 103 1
+554 105 1
+555 693 1
+555 694 1
+555 691 1
+555 690 1
+555 692 1
+555 689 1
+555 688 1
+564 571 1
+564 572 1
+564 570 1
+564 574 1
+564 573 1
+563 569 1
+562 569 1
+561 773 1
+561 776 1
+561 775 1
+561 771 1
+561 774 1
+561 772 1
+560 773 1
+560 776 1
+560 775 1
+560 771 1
+560 774 1
+560 772 1
+575 601 1
+575 602 1
+573 594 1
+569 614 1
+569 600 1
+569 593 1
+569 598 1
+569 615 1
+569 597 1
+569 599 1
+519 521 1
+519 522 1
+519 542 1
+524 530 1
+524 531 1
+525 533 1
+525 532 1
+526 543 1
+526 533 1
+526 532 1
+526 545 1
+526 544 1
+527 213 1
+527 215 1
+527 214 1
+520 521 1
+520 522 1
+520 542 1
+521 117 1
+522 536 1
+522 529 1
+522 618 1
+523 530 1
+523 531 1
+533 580 1
+533 578 1
+533 579 1
+533 581 1
+533 577 1
+532 540 1
+528 543 1
+528 545 1
+528 544 1
+531 576 1
+531 580 1
+531 578 1
+531 579 1
+531 540 1
+531 581 1
+531 577 1
+530 538 1
+541 546 1
+540 546 1
+540 339 1
+540 340 1
+543 555 1
+543 548 1
+543 554 1
+542 555 1
+542 554 1
+537 539 1
+538 539 1
+610 667 1
+610 666 1
+614 625 1
+614 623 1
+614 622 1
+614 626 1
+618 150 1
+618 151 1
+616 630 1
+616 631 1
+616 636 1
+616 633 1
+616 632 1
+616 635 1
+616 634 1
+621 679 1
+621 680 1
+639 646 1
+639 648 1
+639 645 1
+639 651 1
+639 647 1
+638 642 1
+638 644 1
+638 643 1
+637 642 1
+637 644 1
+637 643 1
+576 601 1
+576 593 1
+576 602 1
+577 618 1
+578 594 1
+579 600 1
+579 598 1
+579 597 1
+579 599 1
+580 614 1
+580 423 1
+580 615 1
+580 424 1
+581 606 1
+582 606 1
+593 608 1
+593 609 1
+593 607 1
+595 605 1
+595 603 1
+594 613 1
+594 612 1
+597 118 1
+596 605 1
+596 603 1
+599 354 1
+599 682 1
+599 683 1
+599 351 1
+599 348 1
+599 350 1
+599 352 1
+599 353 1
+600 629 1
+600 621 1
+600 627 1
+600 628 1
+602 610 1
+602 611 1
+605 616 1
+605 617 1
+606 616 1
+606 617 1
+684 264 1
+684 263 1
+684 265 1
+683 686 1
+683 687 1
+682 685 1
+678 693 1
+678 694 1
+678 691 1
+678 690 1
+678 692 1
+678 689 1
+678 688 1
+676 682 1
+676 683 1
+702 717 1
+703 608 1
+703 726 1
+703 718 1
+703 609 1
+703 725 1
+703 607 1
+700 712 1
+700 715 1
+701 712 1
+701 715 1
+698 708 1
+698 711 1
+698 709 1
+698 710 1
+699 708 1
+699 711 1
+699 709 1
+699 710 1
+696 703 1
+696 702 1
+697 703 1
+697 702 1
+688 486 1
+688 485 1
+689 330 1
+652 664 1
+652 665 1
+654 660 1
+654 663 1
+654 659 1
+654 657 1
+654 658 1
+654 661 1
+654 662 1
+649 655 1
+649 654 1
+648 654 1
+651 664 1
+651 665 1
+650 655 1
+644 678 1
+644 677 1
+644 676 1
+647 653 1
+646 678 1
+646 677 1
+646 684 1
+646 676 1
+646 675 1
+641 672 1
+641 673 1
+641 671 1
+641 674 1
+640 646 1
+640 648 1
+640 645 1
+640 651 1
+640 647 1
+642 672 1
+642 673 1
+642 671 1
+642 674 1
+642 675 1
+669 679 1
+669 680 1
+670 681 1
+664 670 1
+664 669 1
+665 505 1
+665 506 1
+657 667 1
+657 666 1
+658 668 1
+746 234 1
+746 225 1
+746 236 1
+746 233 1
+746 231 1
+746 235 1
+746 232 1
+750 758 1
+738 360 1
+738 362 1
+738 359 1
+738 361 1
+738 355 1
+738 357 1
+738 358 1
+738 356 1
+741 94 1
+741 750 1
+740 763 1
+740 764 1
+740 762 1
+740 766 1
+740 761 1
+740 767 1
+740 765 1
+762 770 1
+760 769 1
+760 768 1
+759 769 1
+759 768 1
+713 734 1
+713 733 1
+712 742 1
+712 743 1
+712 744 1
+712 741 1
+712 745 1
+715 737 1
+715 736 1
+715 735 1
+714 734 1
+714 733 1
+717 723 1
+717 724 1
+717 722 1
+716 737 1
+716 736 1
+716 735 1
+704 720 1
+704 719 1
+707 738 1
+707 739 1
+706 728 1
+706 729 1
+706 727 1
+709 732 1
+709 730 1
+709 731 1
+708 738 1
+708 739 1
+711 742 1
+711 743 1
+711 744 1
+711 741 1
+711 745 1
+729 756 1
+729 751 1
+729 752 1
+729 757 1
+729 755 1
+729 754 1
+729 753 1
+731 740 1
+734 747 1
+734 749 1
+734 748 1
+734 746 1
+735 747 1
+735 749 1
+735 748 1
+735 746 1
+721 630 1
+721 631 1
+721 740 1
+721 636 1
+721 633 1
+721 632 1
+721 635 1
+721 634 1
+804 619 1
+804 620 1
+805 656 1
+805 649 1
+806 656 1
+806 649 1
+807 695 1
+807 696 1
+800 407 1
+800 460 1
+801 527 1
+801 526 1
+802 527 1
+802 526 1
+803 619 1
+803 620 1
+812 705 1
+812 704 1
+813 705 1
+813 704 1
+814 707 1
+814 706 1
+815 707 1
+815 706 1
+808 695 1
+808 696 1
+809 698 1
+809 697 1
+810 698 1
+810 697 1
+811 726 1
+811 725 1
+791 168 1
+791 167 1
+790 90 1
+790 89 1
+789 90 1
+789 89 1
+788 76 1
+788 78 1
+788 77 1
+788 75 1
+787 76 1
+787 78 1
+787 77 1
+787 75 1
+786 49 1
+786 48 1
+785 49 1
+785 48 1
+784 638 1
+784 21 1
+799 407 1
+799 460 1
+798 380 1
+798 393 1
+798 379 1
+798 386 1
+797 380 1
+797 393 1
+797 379 1
+797 386 1
+796 278 1
+796 279 1
+795 278 1
+795 279 1
+794 172 1
+794 174 1
+794 173 1
+793 172 1
+793 174 1
+793 173 1
+792 168 1
+792 167 1
+782 171 1
+782 15 1
+783 638 1
+783 21 1
+780 277 1
+780 374 1
+780 10 1
+781 171 1
+781 15 1
+778 4 1
+778 3 1
+778 1 1
+778 2 1
+778 7 1
+779 277 1
+779 374 1
+779 10 1
+777 4 1
+777 3 1
+777 1 1
+777 2 1
+777 7 1
+*edges
+3 4 1
+6 5 1
+195 8 1
+9 8 1
+11 12 1
+14 15 1
+16 15 1
+18 17 1
+19 41 1
+22 21 1
+20 21 1
+24 23 1
+22 203 1
+25 26 1
+28 27 1
+36 26 1
+28 30 1
+28 208 1
+44 30 1
+35 34 1
+32 45 1
+38 49 1
+38 294 1
+38 208 1
+36 209 1
+198 37 1
+198 42 1
+181 43 1
+307 43 1
+305 40 1
+50 41 1
+116 41 1
+47 344 1
+51 52 1
+55 56 1
+53 54 1
+116 52 1
+60 59 1
+57 58 1
+63 62 1
+61 558 1
+60 455 1
+69 68 1
+69 741 1
+72 71 1
+65 64 1
+76 110 1
+78 118 1
+72 82 1
+73 295 1
+73 109 1
+75 129 1
+89 85 1
+84 109 1
+90 87 1
+89 86 1
+305 83 1
+184 82 1
+88 91 1
+102 732 1
+102 109 1
+465 103 1
+230 100 1
+101 521 1
+481 98 1
+99 112 1
+97 554 1
+111 112 1
+108 131 1
+599 106 1
+339 107 1
+275 107 1
+328 118 1
+428 117 1
+597 117 1
+511 121 1
+618 128 1
+130 550 1
+298 132 1
+152 490 1
+510 153 1
+154 505 1
+170 171 1
+169 168 1
+184 175 1
+375 175 1
+161 762 1
+166 167 1
+184 187 1
+184 284 1
+190 193 1
+190 199 1
+176 177 1
+182 292 1
+180 187 1
+181 185 1
+205 654 1
+664 207 1
+746 206 1
+197 196 1
+230 199 1
+527 192 1
+195 304 1
+221 226 1
+746 223 1
+216 217 1
+546 218 1
+247 219 1
+222 212 1
+296 213 1
+298 213 1
+300 214 1
+296 214 1
+215 462 1
+400 209 1
+210 211 1
+238 690 1
+321 231 1
+230 299 1
+229 304 1
+229 299 1
+229 326 1
+229 322 1
+228 244 1
+228 245 1
+339 227 1
+339 226 1
+323 225 1
+740 255 1
+305 250 1
+557 248 1
+684 249 1
+302 249 1
+447 246 1
+247 682 1
+283 279 1
+278 277 1
+281 282 1
+286 287 1
+286 284 1
+258 600 1
+259 423 1
+614 256 1
+594 256 1
+559 257 1
+750 260 1
+266 670 1
+718 270 1
+305 540 1
+307 448 1
+427 309 1
+310 448 1
+463 312 1
+599 315 1
+689 317 1
+288 747 1
+289 308 1
+289 295 1
+290 308 1
+290 293 1
+290 309 1
+424 343 1
+342 738 1
+341 683 1
+340 437 1
+339 469 1
+345 507 1
+327 729 1
+325 324 1
+414 322 1
+739 329 1
+373 372 1
+369 368 1
+370 371 1
+522 380 1
+383 397 1
+377 425 1
+377 381 1
+376 381 1
+522 379 1
+378 425 1
+365 366 1
+367 368 1
+363 364 1
+411 410 1
+408 409 1
+414 449 1
+412 580 1
+403 402 1
+403 404 1
+400 600 1
+401 441 1
+401 402 1
+408 407 1
+396 395 1
+393 392 1
+602 399 1
+396 397 1
+386 385 1
+384 385 1
+408 391 1
+390 580 1
+389 388 1
+440 441 1
+602 444 1
+447 445 1
+446 548 1
+447 433 1
+434 433 1
+435 543 1
+435 437 1
+427 616 1
+427 439 1
+427 441 1
+427 432 1
+417 425 1
+418 419 1
+421 422 1
+435 420 1
+665 479 1
+478 470 1
+472 471 1
+468 479 1
+497 469 1
+466 688 1
+460 461 1
+460 459 1
+458 459 1
+545 454 1
+677 453 1
+675 452 1
+450 451 1
+677 449 1
+761 508 1
+500 552 1
+549 717 1
+678 555 1
+563 562 1
+560 561 1
+575 576 1
+573 578 1
+572 578 1
+570 600 1
+569 576 1
+569 580 1
+569 579 1
+519 520 1
+525 526 1
+528 526 1
+522 577 1
+523 524 1
+536 535 1
+534 535 1
+531 533 1
+531 532 1
+541 540 1
+547 543 1
+542 543 1
+538 537 1
+539 672 1
+539 671 1
+610 657 1
+615 768 1
+618 619 1
+664 616 1
+721 616 1
+624 623 1
+669 621 1
+639 640 1
+637 638 1
+582 581 1
+593 703 1
+595 596 1
+599 676 1
+606 605 1
+604 605 1
+701 700 1
+699 698 1
+697 696 1
+649 650 1
+649 648 1
+651 652 1
+646 644 1
+641 642 1
+646 642 1
+656 741 1
+759 760 1
+714 713 1
+716 715 1
+706 705 1
+707 708 1
+712 711 1
+721 710 1
+734 735 1
+721 731 1

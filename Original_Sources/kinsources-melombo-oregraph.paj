@@ -1,0 +1,1112 @@
+*Network Ore graph Melombo.puc
+
+*vertices 435
+1 'Eyene Menge (1)' triangle
+2 'Abosolo Melingi (2)' triangle
+3 'Eyene Nku (3)' triangle
+4 'Abesolo Cosmos (4)' triangle
+5 'Nku Ferdinand (5)' triangle
+6 'Melingi Emillienne (6)' ellipse
+7 'Nku Anastasie (7)' ellipse
+8 'Avuna Genvieve (8)' ellipse
+9 'Owona Jean (9)' triangle
+10 'Eyene Benjamin (10)' triangle
+11 'Menge Martine (11)' ellipse
+12 'Ngono Elie (12)' triangle
+13 'Atangana Max (13)' triangle
+14 'Abesolo Cosmos (14)' triangle
+15 'Mbezele Josephine (15)' ellipse
+16 'Owono Michel (16)' triangle
+17 'Nkulu Martin (17)' triangle
+18 'Ngono Albertine (18)' ellipse
+19 'Seh Menge (19)' triangle
+20 'Ndon Bissono (20)' triangle
+21 'Owona (21)' triangle
+22 'Eyenge Simon (22)' triangle
+23 'Owona François (23)' triangle
+24 'Mvoe monique (24)' ellipse
+25 'Owona Cecile (25)' ellipse
+26 'Eyene Angelbert (26)' triangle
+27 'Mbenti Emmanuel (27)' triangle
+28 'Nkoa Seh (28)' ellipse
+29 'Seh Menge (29)' triangle
+30 'Eyene Bissono (30)' triangle
+31 'Seme (31)' triangle
+32 'Seh Aforo (32)' triangle
+33 'Efa Nde Ngambe (33)' triangle
+34 'Ebono Efa Thomas (34)' triangle
+35 'Bikoe Vincent (35)' triangle
+36 'Efa Jospeh (36)' triangle
+37 'Seh Guillaume (37)' triangle
+38 'Obama Jullienne (38)' ellipse
+39 'Aforo (39)' ellipse
+40 'Ngon Mintuba (40)' ellipse
+41 'H 41 (41)' triangle
+42 'Efa Christophe (42)' triangle
+43 'Nstama Elizabeth (43)' ellipse
+44 'Bokono Elizabeth (44)' ellipse
+45 'Bokono Barbine Isabelle (45)' ellipse
+46 'Eyene Adelbert (46)' triangle
+47 'Enere Joseph (47)' triangle
+48 'Assomo Laurentine (48)' ellipse
+49 'Afubu Ova Rosalie (49)' ellipse
+50 'Nga Zanga (50)' ellipse
+51 'Seh Bokono Pierre (51)' triangle
+52 'Mvogo Hubert (52)' triangle
+53 'Assam Elizabeth (53)' ellipse
+54 'Efa Ngambe (54)' triangle
+55 'Owona Efa (55)' triangle
+56 'Essomba Emerant (56)' triangle
+57 'Ayi Catherine (57)' ellipse
+58 'Enere Boniface (58)' triangle
+59 'Owona jean Claude (59)' triangle
+60 'Seh Giles (60)' triangle
+61 'Enere Efa (61)' triangle
+62 'Ongba jean (62)' triangle
+63 'Essomba Pierre (63)' triangle
+64 'Ndzubi Honorine (64)' ellipse
+65 'Ondua Marthe (65)' ellipse
+66 'Anangana Enere (66)' ellipse
+67 'Owona Michel (67)' triangle
+68 'Ebele Josephine (68)' ellipse
+69 'Ngo Owona Micheline (69)' ellipse
+70 'Oyono Madelaine (70)' ellipse
+71 'Enere Manfred (71)' triangle
+72 'Belinga Joseph (72)' triangle
+73 'Enere Enere Manfred (73)' triangle
+74 'Ndzie Tekela (74)' ellipse
+75 'Anaba Jeanette (75)' ellipse
+76 'Nga Lima Marceline (76)' ellipse
+77 'Olomo Justine (77)' ellipse
+78 'Efa Andre (78)' triangle
+79 'Nga Tonga Catherine (79)' ellipse
+80 'Evuna Herman (80)' triangle
+81 'Seh Thomas (81)' triangle
+82 'Ntolo Lucie (82)' ellipse
+83 'Evuna Genvieve (83)' ellipse
+84 'Essomba Marie (84)' ellipse
+85 'Seh Thomas (85)' triangle
+86 'Essomba Pierre (86)' triangle
+87 'Ndzie Anne Rolande (87)' ellipse
+88 'Nstama Ondua Suzanne (88)' ellipse
+89 'Essomba Jean (89)' triangle
+90 'Owona Nicholas (90)' triangle
+91 'H 91 (91)' triangle
+92 'Owona Guillaume (92)' triangle
+93 'Anaba (93)' ellipse
+94 'Seh Alfred (94)' triangle
+95 'Ongba Fabien (95)' triangle
+96 'Anaba (96)' ellipse
+97 'Ndzana Mvondo bekono (97)' triangle
+98 'H 98 (98)' triangle
+99 'Ndzama Puis (99)' triangle
+100 'Ntolo Madelaine (100)' ellipse
+101 'Eyene Marc (101)' triangle
+102 'Meyon Anges (102)' ellipse
+103 'H 103 (103)' triangle
+104 'Meyon Agnes (104)' ellipse
+105 'Menyon Thadée (105)' triangle
+106 'Nstama Cecile (106)' ellipse
+107 'Minfumu Gillienne (107)' ellipse
+108 'Mbazoa Marie (108)' ellipse
+109 'Ntsama Catherine (109)' ellipse
+110 'H 110 (110)' triangle
+111 'Seh Menge (111)' triangle
+112 'Mbon Justine (112)' ellipse
+113 'Obama Pius (113)' triangle
+114 'Seh Menge Celestin (114)' triangle
+115 'Koa Elizabeth (115)' ellipse
+116 'Ntsama Monique (116)' ellipse
+117 'Dzu Joseph (117)' triangle
+118 'H 118 (118)' triangle
+119 'Azua Medubu Jacqueline/josé (119)' ellipse
+120 'H 120 (120)' triangle
+121 'Amugu Edzoa (121)' triangle
+122 'Essomba Martin (122)' triangle
+123 'H 123 (123)' triangle
+124 'H 124 (124)' triangle
+125 'Enere Sinforian (125)' triangle
+126 'Nkoa Marie Desirée (126)' ellipse
+127 'Oye Etienne (127)' triangle
+128 'Bile Elizabeth (128)' ellipse
+129 'Nga bernadette (129)' ellipse
+130 'Bilwa Marie (130)' ellipse
+131 'Ndugu Barnabé (131)' triangle
+132 'Nstama Louis (132)' triangle
+133 'Bile Crisance (133)' ellipse
+134 'Ngo Nku Rose (134)' ellipse
+135 'Ottu Elias (135)' triangle
+136 'Sama Alphonsine (136)' ellipse
+137 'Minfumu Lucie (137)' ellipse
+138 'Ottu Michel (138)' triangle
+139 'Akomo Marie (139)' ellipse
+140 'Essomba Ernest (140)' triangle
+141 'Essomba Foro Emerant (141)' triangle
+142 'H 142 (142)' triangle
+143 'Ottu Raphael (143)' triangle
+144 'Tchungi Simon (144)' triangle
+145 'Menduga Pauline (145)' ellipse
+146 'Ngon Dua Calisse (146)' ellipse
+147 'Sama (147)' ellipse
+148 'Fuda Fuda (148)' triangle
+149 'Ondua François (149)' triangle
+150 'Atangana Michel (150)' triangle
+151 'Noah Clement (151)' triangle
+152 'Menge Victorine (152)' ellipse
+153 'Ndzie Jullienne (153)' ellipse
+154 'Bokono Catherine (154)' ellipse
+155 'Ngimi jeane Blandine (155)' ellipse
+156 'H 156 (156)' triangle
+157 'Fuda Nstama (157)' triangle
+158 'Ndugu Pierre (158)' triangle
+159 'Mvondo Etienne (159)' triangle
+160 'Ndugu Pierre (160)' triangle
+161 'Fuda Jean (161)' triangle
+162 'Etundi Abesolo (ngon fala) (162)' ellipse
+163 'Na Micheline (163)' ellipse
+164 'Zene Helene (164)' ellipse
+165 'Koa Innocent (165)' triangle
+166 'Na Micheline (166)' ellipse
+167 'Fuda Lucas (167)' triangle
+168 'Ntsama Fuda prospere (168)' triangle
+169 'Nnomo crissance (169)' ellipse
+170 'H 170 (170)' triangle
+171 'Fuda Etienne (171)' triangle
+172 'Oye Fuda (172)' triangle
+173 'Obe Marie (173)' ellipse
+174 'Nkoa ndon (174)' triangle
+175 'Ottu Robert (175)' triangle
+176 'Ntsama remy (176)' triangle
+177 'Ndugu Simon (177)' triangle
+178 'Abesolo Rosalie (178)' ellipse
+179 'Ottu Jean (179)' triangle
+180 'Sama Suzanne (180)' ellipse
+181 'Abesolo Rosalie (181)' ellipse
+182 'Mballa Tekela Claire (182)' ellipse
+183 'H 183 (183)' triangle
+184 'Funga digi (184)' ellipse
+185 'Ngoum Kom (185)' triangle
+186 'Ndundu Jacques (186)' triangle
+187 'Ngoum Richard (187)' triangle
+188 'Bikoe Suzanne (188)' ellipse
+189 'Sun Ngiamba George (189)' triangle
+190 'Oloa Regine (190)' ellipse
+191 'Ngoum Jacqueline (191)' ellipse
+192 'Ngon Dieudonné (192)' triangle
+193 'Kom Kuna Francois (193)' triangle
+194 'baba (194)' ellipse
+195 'Nlomo Anne (195)' ellipse
+196 'Minku Sarah (196)' ellipse
+197 'Luli jean baptiste (197)' triangle
+198 'H 198 (198)' triangle
+199 'H 199 (199)' triangle
+200 'Mfomo (200)' ellipse
+201 'Maside David (201)' triangle
+202 'Ngi Bap Thomas (202)' triangle
+203 'Maside David (203)' triangle
+204 'Ngi Bap Thomas (204)' triangle
+205 'Bissa bingal Agathe (205)' ellipse
+206 'Fundigi Marthe (206)' ellipse
+207 'H 207 (207)' triangle
+208 'Fundigi Elizabeth (208)' ellipse
+209 'Eva Lucas (209)' triangle
+210 'Abon Louise (210)' ellipse
+211 'Bontum Jullienne (211)' ellipse
+212 'H 212 (212)' triangle
+213 'H 213 (213)' triangle
+214 'Sama (214)' ellipse
+215 'Essomba Marie II (215)' ellipse
+216 'melingi Mballa (216)' ellipse
+217 'Nku Etundon (217)' ellipse
+218 'Baana Christine (218)' ellipse
+219 'Mba Etunu Angele (219)' ellipse
+220 'Menge mekuru (220)' ellipse
+221 'Zuga jeanne (221)' ellipse
+222 'Ntsama Sima (222)' ellipse
+223 'Bissono (223)' ellipse
+224 'Mbenti Ngon digi (224)' ellipse
+225 'Mbon Crissance (225)' ellipse
+226 'Bokono (226)' ellipse
+227 'Minlan jeanne/Oloa Regine (227)' ellipse
+228 'Mfumu (228)' ellipse
+229 'Melingi (229)' ellipse
+230 'Ntsana Eyono Micheline (230)' ellipse
+231 'Menge Abomo Claire (231)' ellipse
+232 'Ndon Hesenus? (232)' triangle
+233 'Bikoe bi Anaba (233)' triangle
+234 'Ntsama (234)' triangle
+235 'Abeng Owana (235)' ellipse
+236 'Ndzomo Claire (236)' ellipse
+237 'Afana Jullienne (237)' ellipse
+238 'Nkoa Emile (238)' triangle
+239 'Abe François (239)' triangle
+240 'Aforo Elisabeth Giselle (240)' ellipse
+241 'Fuda Innocent (241)' triangle
+242 'Amugu Bernadette (242)' ellipse
+243 'Mete Louise (243)' ellipse
+244 'Nku Emmanuel (244)' triangle
+245 'Menge Odile (245)' ellipse
+246 'Nga Mba Alexandrine (246)' ellipse
+247 'Nkoa Pierre (247)' triangle
+248 'Ngamba (248)' ellipse
+249 'Nga Zanga (249)' ellipse
+250 'Mbue (250)' ellipse
+251 'Madzu Barbine (251)' ellipse
+252 'Ongba Jacqueline (252)' ellipse
+253 'Minyanda jean (253)' triangle
+254 'Zibi Ngama (254)' triangle
+255 'Nguandi (255)' triangle
+256 'F 256 (256)' ellipse
+257 'Ndzie Martine (257)' ellipse
+258 'Nlomo Eugene (Dorée) (258)' triangle
+259 'Mba Martin (259)' triangle
+260 'Ayi Bikoe (260)' triangle
+261 'Ndzie Anastasie (261)' ellipse
+262 'Nsia Ngono Mintu (262)' ellipse
+263 'Noah Mekon Clement (263)' triangle
+264 'Etundi Me ngono (264)' triangle
+265 'Bokono (265)' ellipse
+266 'Mbanni Suzanne (266)' ellipse
+267 'Nku Alphonse (267)' triangle
+268 'Assomo Elizabeth (268)' ellipse
+269 'Ndzubi (269)' ellipse
+270 'Anaba Dorothée (270)' ellipse
+271 'Ondua Mbui Eda (271)' ellipse
+272 'Belibi Antoine (272)' triangle
+273 'Mbarga Delphine (273)' ellipse
+274 'Nga Lima Marie (274)' ellipse
+275 'Mfue Aniesse (275)' ellipse
+276 'Ebene Ema (276)' ellipse
+277 'Akon Mba Mbaa jean (277)' triangle
+278 'B:Enere Mba Felix (278)' triangle
+279 'Affendé Thadée (279)' triangle
+280 'Ebela Josephine (280)' ellipse
+281 'Meyonga Nkula (281)' triangle
+282 'H 282 (282)' triangle
+283 '"Abeng Lucie ""Katy""" (283)' ellipse
+284 'Messi Abanda Gabriel (284)' triangle
+285 'Essono Andre (285)' triangle
+286 'Nga Ondua Lucie (286)' ellipse
+287 'Mbezele Marguerite (287)' ellipse
+288 'Ngono fille de Ndugu (288)' ellipse
+289 'Owindi Ongba Luc (289)' triangle
+290 'Seh Benoit (290)' triangle
+291 'Noah Fabien (291)' triangle
+292 'Nga Tonga Catherine (292)' ellipse
+293 'nnomo Crissance (293)' ellipse
+294 'Elomo Therese (294)' ellipse
+295 'F 295 (295)' ellipse
+296 'F 296 (296)' ellipse
+297 'Elende Eugenie (297)' ellipse
+298 'Ntsama Suzanne (298)' ellipse
+299 'Menge Delphine (299)' ellipse
+300 'Menge Claire (300)' ellipse
+301 'Nga Langa (301)' ellipse
+302 'Avumba Lucie (302)' ellipse
+303 'Ada (303)' ellipse
+304 'F 304 (304)' ellipse
+305 'F 305 (305)' ellipse
+306 'Nga Fue Sabine (306)' ellipse
+307 'Bakali Michel (307)' triangle
+308 'F 308 (308)' ellipse
+309 'Missi Victorine (309)' ellipse
+310 'Ntsama Marie (310)' ellipse
+311 'Owona Suga (311)' triangle
+312 'F 312 (312)' ellipse
+313 'F 313 (313)' ellipse
+314 'F 314 (314)' ellipse
+315 'Abesolo Cecile (315)' ellipse
+316 'Menge Jospeh (316)' triangle
+317 'Alima Roslaie (317)' ellipse
+318 'F 318 (318)' ellipse
+319 'Bikoe bi Anege (319)' triangle
+320 'Ntsama Cecile (320)' ellipse
+321 'Bengono Madelaine (321)' ellipse
+322 'Mba Albert (322)' triangle
+323 'Enyenge Jacques (323)' triangle
+324 'Ngo Numu (324)' ellipse
+325 'Ngono jean (325)' triangle
+326 'Nkoa Ferdinand (326)' triangle
+327 'Mbazoa Philomène (327)' ellipse
+328 'Koh Elizabeth (328)' ellipse
+329 'Mbia Crissance (329)' ellipse
+330 'Olema Marthe (330)' ellipse
+331 'Amvuna Regine (331)' ellipse
+332 'Fue Ntsama (332)' triangle
+333 'F 333 (333)' ellipse
+334 'F 334 (334)' ellipse
+335 'Ngono Melingi (335)' ellipse
+336 'ebabi (336)' ellipse
+337 'F 337 (337)' ellipse
+338 'Mani Pierre (338)' triangle
+339 'H 339 (339)' triangle
+340 'F 340 (340)' ellipse
+341 'Mekongo (341)' ellipse
+342 'Mbaa bekuru (342)' ellipse
+343 'Bile Elizabeth (343)' ellipse
+344 'Jeudi (344)' ellipse
+345 'Melu (345)' ellipse
+346 'Bile Crissance (346)' ellipse
+347 'Ema Nti (347)' ellipse
+348 'Bifono Marie (348)' ellipse
+349 'Bomba Jean (349)' triangle
+350 'fille d*affendé thadée (350)' ellipse
+351 'Nstama Lazare (351)' triangle
+352 'Enere esenge Joseph (352)' triangle
+353 'Nga Owona Anastasie (353)' ellipse
+354 'Nnomo essomba (354)' ellipse
+355 'Minfum Mbarga (355)' ellipse
+356 'Ntsama Josephine (356)' ellipse
+357 'Cyril (357)' triangle
+358 'Marga Lucas (358)' triangle
+359 'Mba celestin (359)' triangle
+360 'Essomba Richard (360)' triangle
+361 'Menduga Martine (361)' ellipse
+362 'Marthe Seh (362)' ellipse
+363 'Ngon Dua (363)' ellipse
+364 'F 364 (364)' ellipse
+365 'Obono Regine (365)' ellipse
+366 'Tobias Metingi (366)' triangle
+367 'Ntsama Baana (367)' ellipse
+368 'F 368 (368)' ellipse
+369 'Aben Lucie (369)' ellipse
+370 'Abesolo Etundi Philomene (370)' ellipse
+371 'Mbezele Agnes (371)' ellipse
+372 'F 372 (372)' ellipse
+373 'Eduna Gilbert (373)' triangle
+374 'Alugu Marceline (374)' ellipse
+375 'Bikie Josephine (375)' ellipse
+376 'Z de Etundi Messi (376)' ellipse
+377 'Agion Marie (377)' ellipse
+378 'Mefidigi Daniel (378)' triangle
+379 'Obe (379)' ellipse
+380 'Manga Regine (380)' ellipse
+381 'Nkoa Nkoa Theophile (381)' triangle
+382 'Tsogo Elizabeth (382)' ellipse
+383 'Menge Marie (383)' ellipse
+384 'Enere Cecile (384)' ellipse
+385 'Mbom Mana (385)' ellipse
+386 'Nnomo Micheline (386)' ellipse
+387 'Bikoe Maurice (387)' triangle
+388 'Medzu (388)' ellipse
+389 'Ngono Nkoa (389)' triangle
+390 'Ndigu Ignace (390)' triangle
+391 'Fuda Fuda Mballa (391)' triangle
+392 'Ottu Bilwa (392)' triangle
+393 'Essomba (393)' triangle
+394 'Fuda Simeon (394)' triangle
+395 'Nga Owona Lucie (395)' ellipse
+396 'Fuda jean (396)' triangle
+397 'Ongba Mbon Fuda (397)' ellipse
+398 'Noah Jacques (398)' triangle
+399 'Mba Antoinete (399)' ellipse
+400 'Na Redegon (400)' ellipse
+401 'Ngenda Lucie (401)' ellipse
+402 'F 402 (402)' ellipse
+403 'Abesolo esa (403)' ellipse
+404 'Nnomo Mathilde (404)' ellipse
+405 'Ntsama veronique (405)' ellipse
+406 'Eyenga catherine (406)' ellipse
+407 'Melumu Cecile (407)' ellipse
+408 'Nnomo Albertine (408)' ellipse
+409 'X 409 (409)' diamond
+410 'F 410 (410)' ellipse
+411 'F 411 (411)' ellipse
+412 'Bikoe Bikono Suzanne (412)' ellipse
+413 'Nlan Josephine (413)' ellipse
+414 'fille Marga Zoa francois (414)' ellipse
+415 'Ali Marthe (415)' ellipse
+416 'Mata Ebogo (416)' ellipse
+417 'Nlomo (417)' triangle
+418 'Nkanala Bikoe Francois (418)' triangle
+419 'Akom Marie (419)' ellipse
+420 'Bikoe Jean (420)' triangle
+421 'F 421 (421)' ellipse
+422 'F 422 (422)' ellipse
+423 'Atangana Emmanuel (423)' triangle
+424 'Zene Helene (424)' ellipse
+425 'Ba Seh Celine (469)' ellipse
+426 'Anege Pierre (470)' triangle
+427 'Nzugu (471)' ellipse
+428 'Ntsama Obama (472)' ellipse
+429 'Mbarga Mani (473)' triangle
+430 'Ndongo Pierre (474)' triangle
+431 'Aben Lucie (475)' ellipse
+432 'Ottu Thomas (476)' triangle
+433 'Elomo Bikoe Julienne (477)' ellipse
+434 'F 478 (478)' ellipse
+435 'X 479 (479)' diamond
+*arcs
+1 19 1
+1 2 1
+2 3 1
+3 9 1
+3 18 1
+3 5 1
+3 7 1
+3 6 1
+3 8 1
+3 4 1
+8 141 1
+9 11 1
+9 10 1
+9 14 1
+9 16 1
+9 13 1
+9 17 1
+9 15 1
+9 12 1
+19 30 1
+19 20 1
+21 22 1
+21 26 1
+20 29 1
+20 28 1
+20 21 1
+22 25 1
+22 23 1
+22 24 1
+26 27 1
+30 31 1
+34 35 1
+34 36 1
+34 37 1
+34 38 1
+32 54 1
+32 91 1
+32 33 1
+33 34 1
+33 51 1
+33 39 1
+33 49 1
+33 40 1
+33 41 1
+33 50 1
+42 45 1
+42 44 1
+42 43 1
+41 46 1
+41 42 1
+41 48 1
+46 47 1
+51 52 1
+51 53 1
+48 204 1
+55 56 1
+55 58 1
+54 55 1
+54 80 1
+54 61 1
+54 89 1
+54 78 1
+54 85 1
+58 59 1
+58 60 1
+56 57 1
+63 65 1
+63 64 1
+63 66 1
+61 76 1
+61 77 1
+61 67 1
+61 70 1
+61 72 1
+61 63 1
+61 75 1
+61 62 1
+61 74 1
+61 71 1
+68 283 1
+68 69 1
+67 68 1
+78 79 1
+72 73 1
+85 86 1
+85 88 1
+86 87 1
+80 82 1
+80 81 1
+80 83 1
+80 84 1
+82 215 1
+92 93 1
+94 96 1
+94 95 1
+89 90 1
+91 94 1
+91 92 1
+102 151 1
+102 155 1
+102 150 1
+103 105 1
+103 104 1
+98 102 1
+98 99 1
+99 100 1
+99 101 1
+97 103 1
+97 98 1
+110 111 1
+111 117 1
+111 116 1
+111 112 1
+105 107 1
+105 108 1
+105 109 1
+105 106 1
+119 132 1
+118 119 1
+113 428 1
+113 114 1
+113 324 1
+113 115 1
+112 113 1
+125 126 1
+124 125 1
+123 124 1
+121 122 1
+120 121 1
+137 138 1
+143 146 1
+143 144 1
+142 143 1
+142 147 1
+131 132 1
+132 133 1
+135 136 1
+135 140 1
+135 141 1
+135 139 1
+135 137 1
+154 52 1
+154 53 1
+156 157 1
+157 166 1
+157 158 1
+157 168 1
+157 169 1
+157 167 1
+158 159 1
+159 160 1
+159 165 1
+144 145 1
+146 192 1
+148 149 1
+149 151 1
+149 155 1
+149 153 1
+149 150 1
+149 152 1
+171 173 1
+171 172 1
+170 171 1
+175 181 1
+175 176 1
+175 182 1
+175 180 1
+175 177 1
+175 179 1
+174 175 1
+167 432 1
+167 163 1
+167 164 1
+167 161 1
+167 430 1
+167 162 1
+166 11 1
+166 10 1
+186 187 1
+187 191 1
+187 190 1
+187 192 1
+187 188 1
+184 207 1
+184 201 1
+185 193 1
+185 195 1
+185 194 1
+185 196 1
+185 186 1
+188 189 1
+177 178 1
+183 184 1
+183 185 1
+207 209 1
+207 208 1
+201 203 1
+201 202 1
+201 206 1
+201 205 1
+203 204 1
+196 197 1
+199 207 1
+199 201 1
+198 199 1
+198 200 1
+193 425 1
+220 9 1
+220 18 1
+220 7 1
+220 8 1
+221 14 1
+221 16 1
+221 13 1
+221 17 1
+221 15 1
+221 12 1
+222 19 1
+223 30 1
+223 20 1
+216 2 1
+217 3 1
+218 4 1
+219 5 1
+219 6 1
+212 148 1
+212 154 1
+213 170 1
+209 211 1
+209 210 1
+230 25 1
+230 23 1
+230 24 1
+229 31 1
+228 29 1
+227 27 1
+226 26 1
+225 22 1
+224 28 1
+224 21 1
+252 38 1
+250 35 1
+250 36 1
+250 37 1
+248 54 1
+248 33 1
+249 34 1
+249 39 1
+249 40 1
+274 63 1
+274 62 1
+273 59 1
+273 60 1
+276 65 1
+276 64 1
+276 66 1
+282 283 1
+280 67 1
+280 70 1
+287 73 1
+286 76 1
+286 72 1
+286 75 1
+286 74 1
+286 71 1
+256 46 1
+256 42 1
+256 48 1
+257 45 1
+257 44 1
+257 43 1
+261 47 1
+265 51 1
+270 56 1
+270 58 1
+271 57 1
+269 55 1
+269 61 1
+269 78 1
+305 92 1
+304 91 1
+306 93 1
+309 96 1
+309 95 1
+308 94 1
+313 103 1
+313 98 1
+312 49 1
+312 41 1
+312 50 1
+315 100 1
+315 101 1
+314 102 1
+314 99 1
+318 105 1
+318 104 1
+293 79 1
+295 80 1
+296 82 1
+296 81 1
+296 83 1
+296 84 1
+298 85 1
+299 86 1
+299 88 1
+300 87 1
+301 89 1
+302 90 1
+343 395 1
+343 396 1
+342 130 1
+342 134 1
+342 394 1
+342 131 1
+342 129 1
+341 393 1
+340 392 1
+339 123 1
+339 118 1
+339 110 1
+339 120 1
+337 126 1
+348 127 1
+348 128 1
+348 401 1
+345 398 1
+345 397 1
+345 400 1
+345 399 1
+327 109 1
+321 107 1
+321 108 1
+321 106 1
+334 122 1
+333 117 1
+328 116 1
+328 112 1
+329 428 1
+329 114 1
+329 324 1
+329 115 1
+374 165 1
+368 166 1
+368 158 1
+371 160 1
+370 159 1
+370 167 1
+380 173 1
+380 172 1
+383 149 1
+377 169 1
+376 168 1
+379 171 1
+356 136 1
+356 140 1
+356 139 1
+356 137 1
+353 133 1
+355 135 1
+364 143 1
+364 147 1
+365 146 1
+365 144 1
+367 157 1
+363 142 1
+410 181 1
+410 176 1
+410 182 1
+410 180 1
+410 177 1
+410 179 1
+411 193 1
+411 195 1
+411 194 1
+411 196 1
+411 186 1
+412 187 1
+413 191 1
+413 190 1
+413 188 1
+402 145 1
+403 175 1
+400 68 1
+406 178 1
+394 398 1
+394 127 1
+394 397 1
+394 400 1
+394 128 1
+394 399 1
+394 395 1
+394 214 1
+394 396 1
+394 401 1
+393 130 1
+393 135 1
+393 134 1
+393 394 1
+393 131 1
+393 129 1
+392 142 1
+392 393 1
+397 77 1
+386 152 1
+391 213 1
+391 156 1
+391 212 1
+391 392 1
+388 153 1
+434 425 1
+424 432 1
+424 163 1
+424 164 1
+424 161 1
+424 430 1
+424 162 1
+419 203 1
+419 202 1
+419 206 1
+419 205 1
+421 209 1
+421 208 1
+422 211 1
+422 210 1
+*edges
+1 216 1
+1 222 1
+2 217 1
+3 219 1
+3 220 1
+3 218 1
+4 181 1
+5 237 1
+5 196 1
+398 6 1
+202 6 1
+238 7 1
+135 8 1
+239 8 1
+9 166 1
+9 221 1
+10 240 1
+10 191 1
+10 180 1
+241 11 1
+197 11 1
+12 242 1
+12 243 1
+13 211 1
+14 163 1
+244 15 1
+17 246 1
+16 245 1
+19 223 1
+247 18 1
+21 225 1
+21 226 1
+20 224 1
+20 228 1
+23 231 1
+22 230 1
+233 25 1
+232 24 1
+27 190 1
+26 227 1
+29 235 1
+234 28 1
+31 236 1
+30 229 1
+34 252 1
+34 250 1
+35 205 1
+32 304 1
+32 248 1
+33 249 1
+33 312 1
+33 200 1
+33 268 1
+33 265 1
+253 38 1
+254 39 1
+36 134 1
+37 251 1
+42 257 1
+187 43 1
+258 43 1
+255 40 1
+41 256 1
+46 261 1
+47 262 1
+259 44 1
+260 45 1
+51 154 1
+264 50 1
+263 49 1
+203 48 1
+55 270 1
+54 298 1
+54 301 1
+54 269 1
+54 295 1
+267 53 1
+52 266 1
+59 133 1
+58 273 1
+272 57 1
+56 271 1
+63 276 1
+62 275 1
+61 274 1
+61 397 1
+61 286 1
+61 214 1
+61 280 1
+60 164 1
+282 68 1
+281 69 1
+285 70 1
+71 178 1
+277 64 1
+278 65 1
+172 66 1
+279 66 1
+67 400 1
+279 76 1
+291 77 1
+78 292 1
+78 293 1
+78 294 1
+168 79 1
+72 287 1
+73 288 1
+289 74 1
+290 75 1
+85 299 1
+132 84 1
+165 87 1
+86 300 1
+81 297 1
+80 296 1
+279 83 1
+161 82 1
+307 93 1
+92 306 1
+95 310 1
+94 309 1
+89 302 1
+279 88 1
+91 308 1
+91 305 1
+90 303 1
+149 102 1
+103 318 1
+316 100 1
+101 317 1
+98 314 1
+99 315 1
+311 96 1
+97 313 1
+111 333 1
+111 328 1
+326 108 1
+144 109 1
+291 106 1
+323 106 1
+322 106 1
+325 107 1
+319 104 1
+105 320 1
+105 321 1
+105 327 1
+131 119 1
+117 395 1
+332 116 1
+138 115 1
+114 330 1
+113 329 1
+113 331 1
+127 350 1
+338 126 1
+125 336 1
+125 337 1
+122 335 1
+122 399 1
+122 208 1
+121 334 1
+358 137 1
+357 136 1
+360 139 1
+359 139 1
+141 362 1
+140 361 1
+143 365 1
+142 364 1
+202 129 1
+351 128 1
+352 130 1
+132 353 1
+135 356 1
+387 152 1
+389 153 1
+390 155 1
+156 367 1
+157 368 1
+157 370 1
+157 376 1
+157 377 1
+158 370 1
+158 369 1
+159 374 1
+159 371 1
+144 402 1
+204 145 1
+187 146 1
+366 147 1
+148 383 1
+149 386 1
+149 388 1
+150 384 1
+151 385 1
+171 382 1
+171 380 1
+170 379 1
+378 169 1
+175 410 1
+175 404 1
+174 403 1
+381 173 1
+373 162 1
+160 372 1
+167 375 1
+167 424 1
+186 415 1
+186 412 1
+187 413 1
+199 184 1
+185 411 1
+189 414 1
+179 408 1
+179 407 1
+176 405 1
+177 406 1
+291 182 1
+207 421 1
+420 206 1
+201 419 1
+193 416 1
+193 434 1
+192 215 1
+418 195 1
+417 194 1
+209 422 1
+423 210 1
+284 283 1
+394 343 1
+393 342 1
+392 341 1
+391 340 1
+349 401 1
+394 348 1
+398 347 1
+398 346 1
+394 345 1
+396 344 1
+366 324 1
+393 354 1
+393 355 1
+392 363 1
+398 427 1
+432 433 1
+426 425 1
+429 428 1
+430 431 1

@@ -1,0 +1,247 @@
+*Network Ore graph kaingang.iur.puc
+
+*vertices 128
+1 'Chukembegn (1)' triangle
+2 'Chantagn (2)' ellipse
+3 'Tendo (3)' ellipse
+4 'Nanmbla (4)' triangle
+5 'Wainluin (5)' ellipse
+6 'Amendo (6)' ellipse
+7 'Layongnda (7)' ellipse
+8 'Wanyeki (8)' triangle
+9 'Vomble (9)' triangle
+10 'Kuthugn (10)' triangle
+11 'Kulu (11)' ellipse
+12 'Kula (12)' ellipse
+13 'Kemblen (13)' triangle
+14 'Tonduin (14)' triangle
+15 'Angnelo (15)' ellipse
+16 'Kangndadn (16)' triangle
+17 'Wanengglo (17)' triangle
+18 'Waikili (18)' ellipse
+19 'Ndili (19)' triangle
+20 'Kuven (20)' triangle
+21 'Kangga (21)' ellipse
+22 'Chu (22)' triangle
+23 'Veye (23)' triangle
+24 'Nggeven (24)' ellipse
+25 'Yuven (25)' triangle
+26 'Yakwa (26)' triangle
+27 'Angglo (27)' ellipse
+28 'Kanyahe (28)' triangle
+29 'Nyepa (29)' triangle
+30 'Kuicho (30)' ellipse
+31 'Kundidn (31)' triangle
+32 'Tomba (32)' ellipse
+33 'Klendo (33)' triangle
+34 'Mumbegn (34)' triangle
+35 'Kumblo (35)' triangle
+36 'Kovi (36)' triangle
+37 'Patkle (40)' triangle
+38 'Yuplu (41)' triangle
+39 'Wainlo (42)' triangle
+40 'Kenggo (43)' triangle
+41 'Yuo (44)' ellipse
+42 'Kokta (45)' ellipse
+43 'Kopake (46)' triangle
+44 'Yoko (47)' ellipse
+45 'Kuku (48)' ellipse
+46 'Nggemu (49)' ellipse
+47 'Patho (50)' ellipse
+48 'Thecha (51)' triangle
+49 'Waikome (52)' ellipse
+50 'Waikuklo (53)' triangle
+51 'Waimbegn (54)' triangle
+52 'Waipo (55)' triangle
+53 'Mo of 8 (56)' ellipse
+54 'Fa of 81 (57)' triangle
+55 'Angglo (58)' ellipse
+56 'Fa of 13,14 (59)' triangle
+57 'Fa of 15,16 (60)' triangle
+58 'Fa of 17,18 (61)' triangle
+59 'Fa of 36,42 (62)' triangle
+60 'Fa of 1 (63)' triangle
+61 'Fa of 47 (64)' triangle
+62 'Fa of 25 (66)' triangle
+63 'Fa of 11 (67)' triangle
+64 'Fa of 10 (68)' triangle
+65 'Fa of 44 (69)' triangle
+66 'Fa of 34 (70)' triangle
+67 'Vakla (71)' ellipse
+68 'Son of 73 (72)' triangle
+69 'Kangguin (73)' triangle
+70 'Daughter of 71 (74)' ellipse
+71 'Son of 9 (75)' triangle
+72 'Nduicha (76)' triangle
+73 'W of 36 (77)' ellipse
+74 'W of 40 (78)' ellipse
+75 'Kuthugn (79)' triangle
+76 'Kula (80)' ellipse
+77 'Tendo (81)' ellipse
+78 'Fa of 40 (82)' triangle
+79 'Amendo (83)' ellipse
+80 'Waipo (84)' triangle
+81 'Ndili (85)' triangle
+82 'Wainluin (86)' ellipse
+83 'Yemai (87)' ellipse
+84 'W of 29 (88)' ellipse
+85 'Klendo (89)' triangle
+86 'Thecha (90)' triangle
+87 'Fa of 51 (91)' triangle
+88 'FaSi of 51 (92)' ellipse
+89 'Fa of 91-2 (93)' triangle
+90 'Si of 25 (94)' ellipse
+91 'Tokele (95)' triangle
+92 'Tokele*s Z (96)' ellipse
+93 'Fa of 95-6 (97)' triangle
+94 'Kanyahe (98)' triangle
+95 'Kopake (99)' triangle
+96 'Tendo (100)' ellipse
+97 'Fa of 48,100 (101)' triangle
+98 'Chukembegn (102)' triangle
+99 'Kangguin (103)' triangle
+100 'Veye (105)' triangle
+101 'Kakthi (106)' ellipse
+102 'Kapili (107)' triangle
+103 'Ketedn (108)' triangle
+104 'Kiyita (109)' triangle
+105 'Kukeye (110)' triangle
+106 'Kukeye (111)' triangle
+107 'Kundagn (112)' triangle
+108 'Monya (113)' triangle
+109 'Nenggacha (114)' triangle
+110 'Padnmba (115)' triangle
+111 'Padnmba (116)' triangle
+112 'Patkle (117)' triangle
+113 'Thalu (118)' ellipse
+114 'Waimogué (119)' ellipse
+115 'Vomble (120)' triangle
+116 'Wanyeki (121)' triangle
+117 'Yati (122)' ellipse
+118 'Yokegn (123)' triangle
+119 'Yukwaya (124)' ellipse
+120 'Yuven (125)' triangle
+121 'Ketedn*s wife (126)' ellipse
+122 'Angglo*s mother (127)' ellipse
+123 'Yuven*s wife (128)' ellipse
+124 'Nambla*s other wife (129)' ellipse
+125 'Wanyeki*s other co-husband (130)' triangle
+126 'Wanyeki*s third wife (131)' ellipse
+127 'Wanyeki*s sister (132)' ellipse
+128 'Wanyeki*s sister (133)' ellipse
+*arcs
+6 7 1
+8 23 1
+9 80 1
+9 71 1
+9 76 1
+9 50 1
+9 28 1
+10 9 1
+10 95 1
+10 81 1
+13 12 1
+17 109 1
+25 21 1
+31 32 1
+30 84 1
+34 127 1
+34 128 1
+34 20 1
+34 73 1
+34 67 1
+34 8 1
+34 74 1
+34 35 1
+37 38 1
+37 51 1
+44 20 1
+44 73 1
+44 67 1
+44 74 1
+44 35 1
+54 77 1
+53 8 1
+59 36 1
+59 39 1
+58 17 1
+58 18 1
+57 15 1
+57 16 1
+56 13 1
+56 14 1
+63 11 1
+62 90 1
+62 25 1
+61 44 1
+60 1 1
+68 70 1
+69 68 1
+64 10 1
+65 41 1
+66 34 1
+67 70 1
+78 37 1
+74 38 1
+74 51 1
+85 47 1
+87 48 1
+82 21 1
+93 91 1
+93 92 1
+89 88 1
+89 87 1
+88 36 1
+97 45 1
+97 96 1
+113 106 1
+127 77 1
+127 126 1
+127 79 1
+122 55 1
+128 24 1
+*edges
+1 2 1
+1 3 1
+4 124 1
+4 5 1
+8 77 1
+8 126 1
+8 24 1
+8 79 1
+9 11 1
+9 12 1
+9 18 1
+9 92 1
+10 46 1
+10 15 1
+81 11 1
+19 42 1
+81 18 1
+23 76 1
+23 79 1
+22 77 1
+25 41 1
+25 82 1
+26 27 1
+29 84 1
+34 44 1
+34 53 1
+33 41 1
+36 44 1
+36 73 1
+37 74 1
+43 90 1
+40 55 1
+52 41 1
+81 49 1
+48 79 1
+54 127 1
+59 88 1
+71 70 1
+68 67 1
+125 79 1
+75 121 1
+103 121 1
+115 114 1
+120 123 1

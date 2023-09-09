@@ -1,0 +1,178 @@
+*Network Ore graph Takamiut1927.puc
+
+*vertices 64
+1 'H 1 (1)' triangle
+2 'H 2 (2)' triangle
+3 'H 3 (3)' triangle
+4 'H 4 (4)' triangle
+5 'H 5 (5)' triangle
+6 'H 6 (6)' triangle
+7 'H 7 (7)' triangle
+8 'H 8 (8)' triangle
+9 'K (9)' triangle
+10 'H 10 (10)' triangle
+11 'H 11 (11)' triangle
+12 'H 12 (12)' triangle
+13 'H 13 (13)' triangle
+14 'S (14)' triangle
+15 'H 15 (15)' triangle
+16 'H 16 (16)' triangle
+17 'K (17)' triangle
+18 'H 18 (18)' triangle
+19 'J (19)' triangle
+20 'H 20 (20)' triangle
+21 'D (21)' triangle
+22 'H 22 (22)' triangle
+23 'M (23)' triangle
+24 'H 24 (24)' triangle
+25 'H 25 (25)' triangle
+26 'F 31 (31)' ellipse
+27 'F 32 (32)' ellipse
+28 'F 33 (33)' ellipse
+29 'F 34 (34)' ellipse
+30 'F 35 (35)' ellipse
+31 'F 36 (36)' ellipse
+32 'F 37 (37)' ellipse
+33 'F 38 (38)' ellipse
+34 'F 39 (39)' ellipse
+35 'F 40 (40)' ellipse
+36 'F 41 (41)' ellipse
+37 'T (42)' ellipse
+38 'J (43)' ellipse
+39 'F 44 (44)' ellipse
+40 'F (45)' ellipse
+41 'F 46 (46)' ellipse
+42 'E (47)' ellipse
+43 'A (48)' ellipse
+44 'C (49)' ellipse
+45 'F 50 (50)' ellipse
+46 'F 51 (51)' ellipse
+47 'F 52 (52)' ellipse
+48 'F 53 (53)' ellipse
+49 'F 54 (54)' ellipse
+50 'H 61 (61)' triangle
+51 'H 62 (62)' triangle
+52 'F 63 (63)' ellipse
+53 'H 64 (64)' triangle
+54 'F 65 (65)' ellipse
+55 'H 66 (66)' triangle
+56 'F 67 (67)' ellipse
+57 'F 68 (68)' ellipse
+58 'H 69 (69)' triangle
+59 'H 70 (70)' triangle
+60 'H 71 (71)' triangle
+61 'F 72 (72)' ellipse
+62 'F 73 (73)' ellipse
+63 'H 74 (74)' triangle
+64 'F 75 (75)' ellipse
+*arcs
+6 27 1
+6 1 1
+6 28 1
+6 2 1
+6 26 1
+7 3 1
+8 5 1
+8 4 1
+13 30 1
+13 32 1
+13 31 1
+13 33 1
+14 12 1
+14 9 1
+14 34 1
+14 10 1
+14 11 1
+23 21 1
+23 44 1
+22 43 1
+22 17 1
+22 18 1
+24 20 1
+24 45 1
+29 27 1
+29 1 1
+29 28 1
+29 2 1
+29 26 1
+30 3 1
+32 5 1
+32 4 1
+36 30 1
+36 32 1
+36 31 1
+36 33 1
+37 12 1
+37 9 1
+37 34 1
+37 10 1
+37 11 1
+46 40 1
+46 15 1
+46 41 1
+47 43 1
+47 17 1
+47 18 1
+51 14 1
+51 6 1
+51 7 1
+49 20 1
+49 45 1
+48 21 1
+48 44 1
+55 37 1
+55 36 1
+55 38 1
+54 35 1
+54 13 1
+53 35 1
+53 13 1
+52 14 1
+52 6 1
+52 7 1
+59 40 1
+59 15 1
+59 41 1
+58 39 1
+57 39 1
+56 37 1
+56 36 1
+56 38 1
+63 22 1
+63 23 1
+63 62 1
+63 58 1
+61 16 1
+61 42 1
+60 16 1
+60 42 1
+64 22 1
+64 23 1
+64 62 1
+64 58 1
+*edges
+6 29 1
+7 30 1
+8 32 1
+9 33 1
+13 36 1
+14 37 1
+15 39 1
+17 42 1
+16 41 1
+19 43 1
+18 40 1
+21 45 1
+20 44 1
+23 48 1
+22 47 1
+25 62 1
+24 49 1
+50 38 1
+59 46 1
+51 52 1
+55 56 1
+53 54 1
+58 57 1
+63 64 1
+60 61 1

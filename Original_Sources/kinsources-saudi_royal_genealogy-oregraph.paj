@@ -1,0 +1,1853 @@
+*Network Ore graph kinsources-saudi_royal_genealogy.puc
+
+*vertices 868
+1 '`Abdul-Rahman (1)' triangle
+2 'nk (2)' ellipse
+3 'Faisal (3)' triangle
+4 'nk (4)' ellipse
+5 'Fahd (5)' triangle
+6 'Sara (6)' ellipse
+7 '`Abdul-`Aziz (7)' triangle
+8 'Ahmad (8)' triangle
+9 'Hassa (9)' ellipse
+10 'Muhammad (10)' triangle
+11 'Sara (11)' ellipse
+12 'Sa`d (12)' triangle
+13 'nk (13)' ellipse
+14 'Sa`ud (14)' triangle
+15 'nk (15)' ellipse
+16 'Abdullah (16)' triangle
+17 'nk (17)' ellipse
+18 'Ahmad (18)' triangle
+19 'nk (19)' ellipse
+20 'Sa`d (20)' triangle
+21 'nk (21)' ellipse
+22 'Musa`id (22)' triangle
+23 'Sara (24)' ellipse
+24 'Sara (25)' ellipse
+25 'Sara (26)' ellipse
+26 'nk (27)' ellipse
+27 'nk (28)' ellipse
+28 'nk (29)' ellipse
+29 'Haiya (30)' ellipse
+30 'Bazza (31)' ellipse
+31 'Nura (32)' ellipse
+32 'Shaha (33)' ellipse
+33 'Latifa (34)' ellipse
+34 'Daleel (35)' ellipse
+35 'Munaiyir (36)' ellipse
+36 'nk (37)' ellipse
+37 'nk (38)' ellipse
+38 'nk (39)' ellipse
+39 'Shaikha (40)' ellipse
+40 'Jauhara (41)' ellipse
+41 'Wadhba (42)' ellipse
+42 'Turki (43)' triangle
+43 'Sa`ud (44)' triangle
+44 'Tarfah (45)' ellipse
+45 'Faisal (46)' triangle
+46 '`Anud (47)' ellipse
+47 'Jauhara (48)' ellipse
+48 'Muhammad (49)' triangle
+49 'Khalid (50)' triangle
+50 '`Anud (51)' ellipse
+51 'Muhammad (52)' triangle
+52 'al-Shaykh (53)' triangle
+53 'Musa`id (54)' triangle
+54 'nk (55)' ellipse
+55 'Bazza (56)' ellipse
+56 'Nasir (57)' triangle
+57 'Jauhara (59)' ellipse
+58 'Sa`d (60)' triangle
+59 'Musa`id (61)' triangle
+60 'Hassa (63)' ellipse
+61 'Bandara (64)' ellipse
+62 'Hassa (65)' ellipse
+63 'Fahd (66)' triangle
+64 'Sultan (67)' triangle
+65 '`Abdul-Rahman (68)' triangle
+66 'Naif (69)' triangle
+67 'Turki (70)' triangle
+68 'Salman (71)' triangle
+69 'Ahmad (72)' triangle
+70 'Jauhara (73)' ellipse
+71 'Latifa (74)' ellipse
+72 'Lulua (75)' ellipse
+73 'Sa`d (76)' triangle
+74 '`Abdul-Muhsin (77)' triangle
+75 'Shahida (78)' ellipse
+76 'Mansur (79)' triangle
+77 'Mish`al (80)' triangle
+78 'Mit`ab (81)' triangle
+79 'Qumasha (82)' ellipse
+80 'Al Fahda (83)' ellipse
+81 '`Abdullah (84)' triangle
+82 'Noof (85)' ellipse
+83 'Sita (86)' ellipse
+84 'Bazza (87)' ellipse
+85 'Bandar (88)' triangle
+86 'Fawwaz (89)' triangle
+87 'Munaiyir (90)' ellipse
+88 'Talal (91)' triangle
+89 'Nawwaf (92)' triangle
+90 'Mudhawi (93)' ellipse
+91 'Bushra (94)' ellipse
+92 'Mishari (95)' triangle
+93 '`Asi (97)' triangle
+94 'Haiya (99)' ellipse
+95 'Badr (100)' triangle
+96 '`Abdul-Ilah (101)' triangle
+97 '`Abdul-Mujeed (102)' triangle
+98 'Hassa (103)' ellipse
+99 'Nura (104)' ellipse
+100 'Misha`il (105)' ellipse
+101 'Mudhi (106)' ellipse
+102 'Majid (107)' triangle
+103 'Sattam (108)' triangle
+104 'Sultana (109)' ellipse
+105 'Jawza (110)' ellipse
+106 'Haiya (111)' ellipse
+107 'Nouf (112)' ellipse
+108 'Thamir (113)' triangle
+109 'Mamduh (114)' triangle
+110 'Mashhur (115)' triangle
+111 'Al Sha`lan (116)' triangle
+112 'Nuri (117)' triangle
+113 'Sa`ida (119)' ellipse
+114 'Hidhlul (120)' triangle
+115 '`Abta (121)' ellipse
+116 'Baraka (122)' ellipse
+117 'Miqrin (123)' triangle
+118 '`Aisha (124)' ellipse
+119 'Tarfa (125)' ellipse
+120 'Futaima (126)' ellipse
+121 'Hamud (127)' triangle
+122 'nk (128)' ellipse
+123 'Shaikha (129)' ellipse
+124 'Sara (130)' ellipse
+125 'Daleel (131)' ellipse
+126 'Faisal (132)' triangle
+127 'Hassa (133)' ellipse
+128 '`Abdullah (134)' triangle
+129 'Turki (135)' triangle
+130 '`Abdul-Rahman (136)' triangle
+131 'Khalid (137)' ellipse
+132 'Muhammad (138)' triangle
+133 'Misha`il (139)' ellipse
+134 'Sita (140)' ellipse
+135 'Sara (141)' ellipse
+136 'Juwahir (142)' ellipse
+137 '`Anud (143)' ellipse
+138 'Khalid (144)' triangle
+139 'nk (145)' ellipse
+140 'Juwahir (146)' ellipse
+141 'Abdullah (148)' triangle
+142 'Sultana (149)' ellipse
+143 'Khalid (150)' triangle
+144 'Muhammad (151)' triangle
+145 '`Abdul-Rahman (152)' triangle
+146 'Sa`ud (153)' triangle
+147 'Bandar (154)' triangle
+148 'Turki (155)' triangle
+149 'Sultan (156)' triangle
+150 'Muhammad (157)' triangle
+151 'Turki (158)' triangle
+152 'Muhammad (159)' triangle
+153 'Iffat (160)' ellipse
+154 '`Amru (161)' triangle
+155 'Rima (162)' ellipse
+156 'Mah`a (163)' ellipse
+157 'Ahmad (164)' triangle
+158 'Khalid (165)' triangle
+159 'Haya (166)' ellipse
+160 'Bandar (167)' triangle
+161 'Sultan (168)' triangle
+162 'Sa`ud (169)' triangle
+163 'Muhammad (170)' triangle
+164 'nk (171)' triangle
+165 'Haifa (172)' ellipse
+166 'nk (173)' ellipse
+167 'Turki (174)' triangle
+168 '`Abdul-Rahman (175)' triangle
+169 'Sa`ud (176)' triangle
+170 'Sara (177)' ellipse
+171 'Sa`d (178)' triangle
+172 'Bandar (179)' triangle
+173 'Turki (180)' triangle
+174 'nk (181)' ellipse
+175 'Khalid (182)' triangle
+176 'Fahd (183)' triangle
+177 'Bandar (184)' triangle
+178 'Khalid (185)' triangle
+179 '`Anud (186)' ellipse
+180 'Haifa (187)' ellipse
+181 'Lulua (190)' ellipse
+182 'Sa`ud (191)' triangle
+183 'Latifa (193)' ellipse
+184 'Misha`il (194)' ellipse
+185 'Nura (196)' ellipse
+186 'Sara (197)' ellipse
+187 'Hassa (198)' ellipse
+188 'Mudhi (199)' ellipse
+189 'Khalid (200)' triangle
+190 '`Abdullah (201)' triangle
+191 'Fahd (202)' triangle
+192 'Muhammad (203)' triangle
+193 'Turki (204)' triangle
+194 'Sultan (205)' triangle
+195 'Ahmad (206)' triangle
+196 '`Abdul-`Aziz (207)' triangle
+197 'Bandara (208)' ellipse
+198 'Noof (209)' ellipse
+199 'Juwahir (210)' ellipse
+200 'Fahd (211)' triangle
+201 'Faisal (212)' triangle
+202 'Khalid (213)' triangle
+203 'Faisal (214)' triangle
+204 'Khalid (215)' triangle
+205 'Noof (216)' ellipse
+206 'Sa`ud (218)' triangle
+207 '`Abdul-Rahman (219)' triangle
+208 'Mansur (220)' triangle
+209 'Thamir (221)' triangle
+210 'Nawwaf (222)' triangle
+211 'Haifa (223)' ellipse
+212 'Nura (224)' ellipse
+213 'Mudhi (225)' ellipse
+214 'Shaikha (226)' ellipse
+215 'Tarfa (227)' ellipse
+216 'Khalid (228)' triangle
+217 '`Abdul-`Aziz (229)' triangle
+218 'Sikina (230)' ellipse
+219 'Ghada (231)' ellipse
+220 'Mina (232)' ellipse
+221 'Sara (233)' ellipse
+222 'Faisal (234)' triangle
+223 'Juwahir (235)' ellipse
+224 'Fahd (236)' triangle
+225 'Muhammad (237)' triangle
+226 'Sa`ud (238)' triangle
+227 'Faisal (239)' triangle
+228 'Khalid (240)' triangle
+229 'Jauhara (241)' ellipse
+230 'Nura (242)' ellipse
+231 'Fahdah (243)' ellipse
+232 '`Abdul-`Aziz (244)' triangle
+233 'Noof (246)' ellipse
+234 'Khalid (247)' triangle
+235 '`Abdul-`Aziz (248)' triangle
+236 '`Abdul-Rahman (249)' triangle
+237 'Sara (250)' ellipse
+238 'Jauhara (251)' ellipse
+239 'Sa`ud (252)' triangle
+240 'Faisal (253)' triangle
+241 'Faisal (254)' triangle
+242 'Bandar (255)' triangle
+243 'Mashhur (256)' triangle
+244 'Yussuf (257)' triangle
+245 'Jauhara (258)' ellipse
+246 'Mudhawi (259)' ellipse
+247 'Latifa (260)' ellipse
+248 'Naha (261)' ellipse
+249 'Badr (263)' triangle
+250 'Waleed (264)' triangle
+251 'Sita (265)' ellipse
+252 '`Abiyir (266)' ellipse
+253 'Misha`il (267)' ellipse
+254 'Qumasha (268)' ellipse
+255 'Nura (269)' ellipse
+256 'Faisal (270)' triangle
+257 'Khalid (271)' triangle
+258 'Sa`ud (272)' triangle
+259 'Sultan (273)' triangle
+260 'Muhammad (274)' triangle
+261 '`Abdul-Rahman (275)' triangle
+262 '`Anud (276)' ellipse
+263 'Latifa (277)' ellipse
+264 'Lulua (278)' ellipse
+265 'Khalid (279)' triangle
+266 'Fahd (280)' triangle
+267 'Faisal (281)' triangle
+268 'Bandar (282)' triangle
+269 'Naif (283)' triangle
+270 'Muhammad (284)' triangle
+271 'Turki (285)' triangle
+272 '`Atab (286)' ellipse
+273 'Rima (287)' ellipse
+274 'Sara (288)' ellipse
+275 'Noof (289)' ellipse
+276 'Bandara (290)' ellipse
+277 'Juwahir (291)' ellipse
+278 'Lulua (292)' ellipse
+279 'Latifa (293)' ellipse
+280 'Munaiyir (294)' ellipse
+281 'Nura (295)' ellipse
+282 'Turki (296)' triangle
+283 'Sara (297)' ellipse
+284 'Latifa (298)' ellipse
+285 'Abaiyir (299)' ellipse
+286 'Juwahir (300)' ellipse
+287 'Lulua (301)' ellipse
+288 'Sa`ud (302)' triangle
+289 'Muhammad (303)' triangle
+290 'Nura (304)' ellipse
+291 'Jauhara (305)' ellipse
+292 'nk (306)' ellipse
+293 'Faisal (307)' triangle
+294 'Fahd (308)' triangle
+295 'Khalid (309)' triangle
+296 'Sultan (310)' triangle
+297 'Abaiyir (311)' ellipse
+298 'Jauhara (312)' ellipse
+299 'Fahd (313)' triangle
+300 'Sultan (314)' triangle
+301 'Ahmad (315)' triangle
+302 '`Abdul-Rahman (316)' triangle
+303 'Naif (317)' triangle
+304 '`Abdul-Rahman (318)' triangle
+305 'Talal (675)' triangle
+306 'Mudhi (676)' ellipse
+307 'Faisal (677)' triangle
+308 'Muhammad (678)' triangle
+309 'Mansur (679)' triangle
+310 'Turki (680)' triangle
+311 '`Abdul-`Aziz (681)' triangle
+312 'Khalid (682)' triangle
+313 'Bandar (683)' triangle
+314 'Hassa (684)' ellipse
+315 'Misha`il (685)' ellipse
+316 '`Anud (686)' ellipse
+317 'Mudhawi (687)' ellipse
+318 'Mansur (688)' diamond
+319 'Sita (689)' ellipse
+320 'Sara (690)' ellipse
+321 'Noof (691)' ellipse
+322 'Ma`haa (692)' ellipse
+323 '`Anud (693)' ellipse
+324 'Shahida (694)' ellipse
+325 'Jauhara (695)' ellipse
+326 'Mudhawi (696)' ellipse
+327 'Khalid (697)' triangle
+328 'Mit`ab (698)' triangle
+329 'Turki (699)' triangle
+330 'Faisal (700)' triangle
+331 '`Abdul-`Aziz (701)' triangle
+332 'Mish`al (702)' triangle
+333 'Fahdah (703)' ellipse
+334 '`Aliya (704)' ellipse
+335 'Noof (705)' ellipse
+336 '`Adilah (706)' ellipse
+337 'Sita (707)' ellipse
+338 '`Abiyir (708)' ellipse
+339 'Sara (709)' ellipse
+340 'Faisal (710)' triangle
+341 'Muhammad (711)' triangle
+342 'Turki (712)' triangle
+343 '`Abdul-`Aziz (713)' triangle
+344 'Khalid (714)' triangle
+345 'Mansur (715)' triangle
+346 'Mudhawi (716)' ellipse
+347 'Noof (717)' ellipse
+348 '`Anud (718)' ellipse
+349 'Bazza (719)' ellipse
+350 'Nura (720)' ellipse
+351 'nk (721)' triangle
+352 'Faisal (722)' triangle
+353 'Turki (723)' triangle
+354 'Waleed (724)' triangle
+355 'Khalid (725)' triangle
+356 'Rima (726)' ellipse
+357 'Sara (727)' ellipse
+358 'Muhammad (728)' triangle
+359 'Noof (729)' ellipse
+360 'Muhammad (730)' triangle
+361 'Mansur (731)' triangle
+362 'Talal (732)' triangle
+363 'Faisal (733)' triangle
+364 'Hanaa` (734)' ellipse
+365 'Noof (735)' ellipse
+366 'Mudhi (736)' ellipse
+367 'Mudhawi (737)' ellipse
+368 'Hala (738)' ellipse
+369 'Mah`aa (739)' ellipse
+370 'Khalid (740)' triangle
+371 'Faisal (741)' triangle
+372 'Talal (742)' triangle
+373 'Fahd (743)' triangle
+374 'Lamiya (744)' ellipse
+375 'Juwahir (745)' ellipse
+376 'Mudhawi (746)' ellipse
+377 'Noof (747)' ellipse
+378 '`Abdul-`Aziz (749)' triangle
+379 'Faisal (750)' triangle
+380 '`Abdul-`Aziz (751)' triangle
+381 'Mish`al (752)' triangle
+382 'Bismah (753)' ellipse
+383 'Misha`il (754)' ellipse
+384 'Juwahir (755)' ellipse
+385 '`Aml (756)' ellipse
+386 'Faisal (757)' triangle
+387 '`Abdul-`Aziz (758)' triangle
+388 'Haala (759)' ellipse
+389 'Najla (760)' ellipse
+390 'Faisal (761)' triangle
+391 'Miqrin (762)' triangle
+392 'Rima (763)' ellipse
+393 'Lamiya (764)' ellipse
+394 'Fahd (765)' triangle
+395 '`Abdul-`Aziz (766)' triangle
+396 'Faisal (767)' triangle
+397 'Mudhawi (768)' ellipse
+398 'Misha`il (769)' ellipse
+399 '`Abta (770)' ellipse
+400 'Fahd (771)' triangle
+401 'Musa`id (772)' triangle
+402 'Muhammad (773)' triangle
+403 '`Abdullah (774)' triangle
+404 'Faisal (775)' triangle
+405 'Khalid (776)' triangle
+406 '`Abdul-Muhsin (777)' triangle
+407 'Mansur (778)' triangle
+408 '`Abdul-Ilah (779)' triangle
+409 'Sa`d (780)' triangle
+410 'Badr (781)' triangle
+411 'Bandar (782)' triangle
+412 'Majid (783)' triangle
+413 'Thamir (784)' triangle
+414 'Sultan (785)' triangle
+415 '`Abdul-Mujeed (786)' triangle
+416 'Talal (787)' triangle
+417 'Naif (788)' triangle
+418 'Miqrin (789)' triangle
+419 'Ahmad (790)' triangle
+420 'Mishari (791)' triangle
+421 'Saif-Al-Daula (792)' triangle
+422 'Hassam-Al-Din (793)' triangle
+423 'Mish`al (794)' triangle
+424 'Fawwaz (795)' triangle
+425 'Hassan (796)' triangle
+426 'Mis`ab (797)' triangle
+427 'Nasir (798)' triangle
+428 'Ghaalib (799)' triangle
+429 'Yussuf (800)' triangle
+430 'Sattam (801)' triangle
+431 'Ma`atsam (802)' triangle
+432 'Nawwaf (803)' triangle
+433 'Saif-Al-Din (804)' triangle
+434 'Hadhlul (805)' triangle
+435 'Iz`al Din (806)' triangle
+436 'Nahar (807)' triangle
+437 '`Abdul-Malik (808)' triangle
+438 '`Abdul-`Aziz (809)' triangle
+439 'Mamduh (810)' triangle
+440 '`Abdul-Rahman (811)' triangle
+441 'Turki (812)' triangle
+442 'Mashhur (813)' triangle
+443 'Waleed (814)' triangle
+444 'Mu`atiz (815)' triangle
+445 'Shuqran (816)' triangle
+446 '`Abdul-Karim (817)' triangle
+447 'Yazeed (818)' triangle
+448 'Hamoud (819)' triangle
+449 'Salman (820)' triangle
+450 'Saif-Al-Nasir (821)' triangle
+451 'Jiluwi (822)' triangle
+452 'Saif-al-Salaam (823)' triangle
+453 'Bismah (824)' ellipse
+454 'Hassa (825)' ellipse
+455 'Qumasha (826)' ellipse
+456 '`Anud (827)' ellipse
+457 'Fawzia (828)' ellipse
+458 'Imaan (829)' ellipse
+459 'Naifah (830)' ellipse
+460 'Hajir (831)' ellipse
+461 'Nura (832)' ellipse
+462 'Mudhi (833)' ellipse
+463 'Bunaiyyir (834)' ellipse
+464 'Dina (835)' ellipse
+465 'Zayn (836)' ellipse
+466 'Aliya (837)' ellipse
+467 'Nual (838)' ellipse
+468 'Ibtissaam (839)' ellipse
+469 'Turkiya (840)' ellipse
+470 'Jaazi (841)' ellipse
+471 'Shaha (842)' ellipse
+472 'Daleel (843)' ellipse
+473 'Mina (844)' ellipse
+474 'Lamiya (845)' ellipse
+475 'Rima (846)' ellipse
+476 'Mah`aa (847)' ellipse
+477 'Nuf (848)' ellipse
+478 'Faluwa (849)' ellipse
+479 'Dhahua (850)' ellipse
+480 'Sultana (851)' ellipse
+481 'Latifa (852)' ellipse
+482 'Sita (853)' ellipse
+483 'Bazza (854)' ellipse
+484 'Jauhara (855)' ellipse
+485 'Midhawi (856)' ellipse
+486 'Fahdah (857)' ellipse
+487 'Shaikha (858)' ellipse
+488 'Dallaal (859)' ellipse
+489 'Jaheer (860)' ellipse
+490 'Nazha (861)' ellipse
+491 'Sara (862)' ellipse
+492 'Hiyya (863)' ellipse
+493 'Munaiyir (864)' ellipse
+494 'Haifa (865)' ellipse
+495 'Lulua (866)' ellipse
+496 'Bandari (867)' ellipse
+497 'Hind (868)' ellipse
+498 'Mahra (869)' ellipse
+499 'Najla (870)' ellipse
+500 '`Amira (871)' ellipse
+501 'Watfa (872)' ellipse
+502 '`Abiyir (873)' ellipse
+503 'Tarfa (874)' ellipse
+504 'Fayezah (875)' ellipse
+505 '`Abta (876)' ellipse
+506 'Misha`il (877)' ellipse
+507 'Juwahir (878)' ellipse
+508 '`Aml (879)' ellipse
+509 'Khalid (880)' triangle
+510 'Nawwaf (881)' triangle
+511 'Turki (882)' triangle
+512 '`Abdul-`Aziz (883)' triangle
+513 'Faisal (884)' triangle
+514 'Fahd (885)' triangle
+515 'Waleed (886)' triangle
+516 'Jauhara (887)' ellipse
+517 'Mudhi (888)' ellipse
+518 'Mana`al (889)' ellipse
+519 'Nura (890)' ellipse
+520 'Mudhawi (891)' ellipse
+521 '`Anud (892)' ellipse
+522 'Nuf (893)' ellipse
+523 'Khalid (894)' triangle
+524 'Sultan (895)' triangle
+525 'Mish`al (896)' triangle
+526 'Faisal (897)' triangle
+527 'Nura (898)' ellipse
+528 'Mit`ab (899)' triangle
+529 'Nawwaf (900)' triangle
+530 '`Abdul-Rahman (901)' triangle
+531 'Nahar (902)' triangle
+532 'Naif (903)' triangle
+533 'Faisal (904)' triangle
+534 'Muhammad (905)' triangle
+535 'Khalid (906)' triangle
+536 'Juwahir (907)' ellipse
+537 'Nuf (908)' ellipse
+538 'Abiyir (909)' ellipse
+539 'Ghadir (910)' ellipse
+540 'Mansur (911)' triangle
+541 'Nawwaf (912)' triangle
+542 'Naif (913)' triangle
+543 '`Abdul-Rahman (914)' triangle
+544 '`Aml (915)' ellipse
+545 'Abiyir (916)' ellipse
+546 'Jauhara (917)' ellipse
+547 'Nuf (918)' ellipse
+548 'Nura (919)' ellipse
+549 'Sultana (920)' ellipse
+550 'Fahd (921)' triangle
+551 'Khalid (922)' triangle
+552 'Nawwaf (923)' triangle
+553 'Mansur (924)' triangle
+554 'Nura (925)' ellipse
+555 'Munaiyir (926)' ellipse
+556 'Naha (927)' ellipse
+557 'Nuf (928)' ellipse
+558 'Mish`al (929)' triangle
+559 '`Abdul-`Aziz (930)' triangle
+560 'Turki (931)' triangle
+561 'Hissam (932)' triangle
+562 'Talal (933)' triangle
+563 'Waleed (934)' triangle
+564 'Mansur (935)' triangle
+565 'Khalid (936)' triangle
+566 '`Abdul-Mujeed (937)' triangle
+567 'Faisal (938)' triangle
+568 'Jawza (939)' ellipse
+569 'Nura (940)' ellipse
+570 'Mansur (941)' triangle
+571 'Naif (942)' triangle
+572 'Bismah (943)' ellipse
+573 'Abiyir (944)' ellipse
+574 'Faisal (945)' triangle
+575 'Khalid (946)' triangle
+576 'Turki (947)' triangle
+577 'Bandar (948)' triangle
+578 'Fahd (949)' triangle
+579 'Bandar (950)' triangle
+580 'Badr (951)' triangle
+581 '`Abdul-Rahman (952)' triangle
+582 'Sa`ud (953)' triangle
+583 'Noof (954)' ellipse
+584 'Nura (955)' ellipse
+585 'Jauhara (956)' ellipse
+586 'Mudhi (957)' ellipse
+587 '`Anud (958)' ellipse
+588 'Munaiyir (959)' ellipse
+589 'Hassa (960)' ellipse
+590 'Faisal (961)' triangle
+591 '`Abdullah (962)' triangle
+592 'Sa`d (963)' triangle
+593 'Juwahir (964)' ellipse
+594 'Bandara (965)' ellipse
+595 'Misha`il (966)' ellipse
+596 'Lulua (967)' ellipse
+597 'Nura (968)' ellipse
+598 'Khalid (969)' triangle
+599 '`Abdul-Rahman (970)' triangle
+600 'Juwahir (971)' ellipse
+601 'Noof (972)' ellipse
+602 '`Anud (973)' ellipse
+603 'Nura (974)' ellipse
+604 'Faisal (975)' triangle
+605 'Bandar (976)' triangle
+606 '`Abdullah (977)' triangle
+607 'Jauhara (978)' ellipse
+608 'Noof (979)' ellipse
+609 'Mudhi (980)' ellipse
+610 'Hassa (981)' ellipse
+611 'Misha`il (982)' ellipse
+612 'Bandara (983)' ellipse
+613 'Faisal (984)' triangle
+614 'Noof (985)' ellipse
+615 'Haifa (986)' ellipse
+616 'Wufa (987)' ellipse
+617 'Jauhara (988)' ellipse
+618 'Mah`a (989)' ellipse
+619 'Fahd (990)' triangle
+620 'Jauhara (991)' ellipse
+621 'Mah`a (992)' ellipse
+622 'Sara (993)' ellipse
+623 'Haifa (994)' ellipse
+624 '`Areej (995)' ellipse
+625 '`Abdul-Rahman (996)' triangle
+626 'Nawwaf (997)' triangle
+627 'Khalid (998)' triangle
+628 'Faisal (999)' triangle
+629 'Amiya (1000)' ellipse
+630 'Salman (1001)' triangle
+631 'Dallah (1002)' triangle
+632 'Fahdah (1003)' ellipse
+633 'Khalid (1004)' triangle
+634 'Faisal (1005)' triangle
+635 '`Abdul-`Aziz (1006)' triangle
+636 'Mamduh (1007)' triangle
+637 'Jauhara (1008)' ellipse
+638 'Manal (1009)' ellipse
+639 'Ohud (1010)' ellipse
+640 'Sa`ud (1011)' triangle
+641 'Misha`il (1012)' triangle
+642 'Jauhara (1013)' ellipse
+643 'Sara (1014)' ellipse
+644 '`Anud (1015)' ellipse
+645 'Noof (1016)' ellipse
+646 'Hana (1017)' ellipse
+647 'Sa`d (1018)' triangle
+648 'Bandar (1019)' triangle
+649 'Muhammad (1020)' triangle
+650 'Khalid (1021)' triangle
+651 'Noof (1022)' ellipse
+652 '`Abiyir (1023)' ellipse
+653 'Mudhawi (1024)' ellipse
+654 'Sa`ud (1025)' triangle
+655 '`Abdullah (1026)' triangle
+656 'Jauhara (1027)' ellipse
+657 'Khalid (1028)' triangle
+658 'Muhammad (1029)' triangle
+659 'Bandar (1030)' triangle
+660 'Mah`a (1031)' ellipse
+661 'Hana (1032)' ellipse
+662 'Sa`d (1033)' triangle
+663 'Sultan (1035)' triangle
+664 'Fahd (1036)' triangle
+665 'Muhammad (1037)' triangle
+666 'Khalid (1038)' triangle
+667 'Turki (1039)' triangle
+668 '`Abdullah (1040)' triangle
+669 'Talal (1041)' triangle
+670 'Nura (1042)' ellipse
+671 'Jauhara (1043)' ellipse
+672 'Sara (1044)' ellipse
+673 'Misha`il (1045)' ellipse
+674 'Fahdah (1046)' ellipse
+675 'Noof (1047)' ellipse
+676 '`Anud (1048)' ellipse
+677 '`Abdullah (1049)' triangle
+678 'Faisal (1050)' triangle
+679 'Khalid (1051)' triangle
+680 'Turki (1052)' triangle
+681 'Muhammad (1053)' triangle
+682 'Fahd (1054)' triangle
+683 '`Anud (1055)' ellipse
+684 'Munaiyir (1056)' ellipse
+685 'Bandar (1057)' triangle
+686 'Badr (1058)' triangle
+687 '`Abdul-Rahman (1059)' triangle
+688 'Haila (1060)' ellipse
+689 'Nura (1061)' ellipse
+690 'Watfa (1062)' ellipse
+691 'Turki (1063)' triangle
+692 'Ghada (1064)' ellipse
+693 '`Anud (1065)' ellipse
+694 'Faisal (1066)' triangle
+695 '`Abdullah (1067)' triangle
+696 '`Abdul-`Aziz (1068)' triangle
+697 'Khalid (1069)' triangle
+698 'Jawahir (1070)' ellipse
+699 'Fahd (1071)' triangle
+700 'Sa`ud (1072)' triangle
+701 'Turki (1073)' triangle
+702 'Muhammad (1074)' triangle
+703 'Mit`ab (1075)' triangle
+704 'Fahdah (1076)' ellipse
+705 'Jaheer (1077)' ellipse
+706 'Mudhi (1078)' ellipse
+707 'Nura (1079)' ellipse
+708 'Meen (1080)' ellipse
+709 'Faisal (1081)' triangle
+710 'Fahd (1082)' triangle
+711 'Sa`ud (1083)' triangle
+712 'Haila (1084)' ellipse
+713 'Nura (1085)' ellipse
+714 'Watfa (1086)' ellipse
+715 'Khalid (1087)' triangle
+716 'Sa`d (1088)' triangle
+717 'Turki (1089)' triangle
+718 'Munaiyir (1090)' ellipse
+719 'Jauhara (1091)' ellipse
+720 'Hassa (1092)' ellipse
+721 'Turki (1093)' triangle
+722 'Sa`d (1094)' triangle
+723 'Khalid (1095)' triangle
+724 '`Abdullah (1096)' triangle
+725 'Nura (1097)' ellipse
+726 '`Abiyir (1098)' ellipse
+727 'Ghada (1099)' ellipse
+728 '`Aml (1100)' ellipse
+729 'Meen (1101)' ellipse
+730 'Bandar (1102)' triangle
+731 'Misha`il (1103)' ellipse
+732 'Shandooq (1104)' ellipse
+733 'Badr (1105)' triangle
+734 '`Abdullah (1106)' triangle
+735 '`Abdul-Rahman (1107)' triangle
+736 '`Anud (1108)' ellipse
+737 'Bandara (1109)' ellipse
+738 'Jaheer (1110)' ellipse
+739 'Hassa (1111)' ellipse
+740 'Sara (1112)' ellipse
+741 'Muhammad (1113)' triangle
+742 'Nawwaf (1114)' triangle
+743 'Bandar (1115)' triangle
+744 'Mit`ab (1116)' triangle
+745 '`Abdullah (1117)' triangle
+746 'Sa`d (1118)' triangle
+747 'Nura (1119)' ellipse
+748 'Juwahir (1120)' ellipse
+749 'Muhammad (1121)' triangle
+750 'Sa`d (1122)' triangle
+751 'Misha`il (1123)' ellipse
+752 'Sara (1124)' ellipse
+753 '`Anud (1125)' ellipse
+754 'Nura (1126)' ellipse
+755 '`Abdullah (1127)' triangle
+756 'Khalid (1128)' triangle
+757 'Muhammad (1129)' triangle
+758 'Hassa (1130)' ellipse
+759 'Najla (1131)' ellipse
+760 'Rima (1132)' ellipse
+761 'Faisal (1133)' triangle
+762 'Khalid (1134)' triangle
+763 'Bandar (1135)' triangle
+764 'Mansur (1136)' triangle
+765 'Misha`il (1137)' ellipse
+766 'Noof (1138)' ellipse
+767 'Abdullah (1139)' triangle
+768 'Bandar (1140)' triangle
+769 'Mudhi (1141)' ellipse
+770 'Tarfa (1142)' ellipse
+771 'Fahdah (1143)' ellipse
+772 'Munaiyir (1144)' ellipse
+773 'Hassa (1145)' ellipse
+774 'Faisal (1146)' triangle
+775 'Khalid (1148)' triangle
+776 'Mit`ab (1149)' triangle
+777 'Jauhara (1150)' ellipse
+778 'Nura (1151)' ellipse
+779 '`Abdul-Rahman (1152)' triangle
+780 'Faisal (1153)' triangle
+781 'Turki (1154)' triangle
+782 'Sara (1155)' ellipse
+783 'Sikina (1156)' ellipse
+784 'Yazeed (1157)' triangle
+785 'Faisal (1159)' triangle
+786 'Khalid (1160)' triangle
+787 'Ghaada (1161)' triangle
+788 'Sikina (1162)' ellipse
+789 'Azwa (1163)' ellipse
+790 'Ibtissam (1164)' ellipse
+791 'Khalid (1165)' triangle
+792 'Ahmad (1166)' triangle
+793 'Sa`ud (1167)' triangle
+794 'Salman (1168)' triangle
+795 'Fahd (1169)' triangle
+796 'Noof (1170)' ellipse
+797 'Faduwi (1171)' ellipse
+798 'Muhammad (1172)' triangle
+799 'Khalid (1173)' triangle
+800 'Turki (1174)' triangle
+801 'Nawwaf (1175)' triangle
+802 'Sara (1176)' ellipse
+803 'Mudhawi (1177)' ellipse
+804 'Sa`d (1178)' triangle
+805 'Faisal (1179)' triangle
+806 'Minaal (1180)' ellipse
+807 'Turki (1181)' triangle
+808 'Faisal (1182)' triangle
+809 '`Abdullah (1183)' triangle
+810 'Fahd (1184)' triangle
+811 'Naif (1185)' triangle
+812 'Mah`aa (1186)' ellipse
+813 'Banyia (1187)' ellipse
+814 'Bandar (1188)' triangle
+815 'Mis`ab (1189)' triangle
+816 'Sa`ud (1190)' triangle
+817 'Hassan (1191)' triangle
+818 'Musa`id (1192)' triangle
+819 'Ahmad (1193)' triangle
+820 '`Abdul-`Aziz (1194)' triangle
+821 'Badr (1195)' triangle
+822 'Mansur (1196)' triangle
+823 'Sultan (1197)' triangle
+824 'Fawwaz (1198)' triangle
+825 '`Abdul-Muhsin (1199)' triangle
+826 'Salman (1200)' triangle
+827 'Noof (1201)' ellipse
+828 'Munaiyir (1202)' ellipse
+829 'Hassa (1203)' ellipse
+830 'Mudhi (1204)' ellipse
+831 'Nura (1205)' ellipse
+832 'Jawza (1206)' ellipse
+833 'Jauhara (1207)' ellipse
+834 'Latifa (1208)' ellipse
+835 '`Anud (1209)' ellipse
+836 'Misha`il (1210)' ellipse
+837 'Tarfa (1211)' ellipse
+838 'Sara (1212)' ellipse
+839 'Shaikha (1213)' ellipse
+840 '`Abdul-Rahman (1214)' triangle
+841 'Muhammad (1215)' triangle
+842 '`Abdul-`Aziz (1216)' triangle
+843 '`Anud (1217)' ellipse
+844 'Sara (1218)' ellipse
+845 'Juwahir (1219)' ellipse
+846 '`Abdul-`Aziz (1220)' triangle
+847 'Bandar (1221)' triangle
+848 'Muhammad (1222)' triangle
+849 'Shaha (1223)' ellipse
+850 'Turki (1224)' triangle
+851 '`Abdullah (1225)' triangle
+852 'Khalid (1226)' triangle
+853 'Faisal (1227)' triangle
+854 '`Abdul-Rahman (1228)' triangle
+855 'Hassan (1229)' triangle
+856 'Rima (1230)' ellipse
+857 'Noof (1231)' ellipse
+858 'Sara (1232)' ellipse
+859 'Fatima (1233)' ellipse
+860 'Nura (1234)' ellipse
+861 'Mudhi (1235)' ellipse
+862 'Munaiyir (1236)' ellipse
+863 'Haiya (1237)' ellipse
+864 'Sa`d (1238)' triangle
+865 'Jauhara (1239)' ellipse
+866 'Sudairi (1240)' triangle
+867 'Ahmad (1241)' triangle
+868 'Muhammad (1242)' triangle
+*arcs
+1 10 1
+1 12 1
+1 5 1
+1 29 1
+1 30 1
+1 31 1
+1 32 1
+1 20 1
+1 22 1
+1 3 1
+1 7 1
+1 14 1
+1 39 1
+1 35 1
+1 18 1
+1 34 1
+1 40 1
+1 16 1
+1 33 1
+2 5 1
+4 3 1
+6 7 1
+7 102 1
+7 50 1
+7 77 1
+7 124 1
+7 56 1
+7 43 1
+7 110 1
+7 140 1
+7 117 1
+7 86 1
+7 108 1
+7 115 1
+7 58 1
+7 81 1
+7 59 1
+7 78 1
+7 65 1
+7 48 1
+7 74 1
+7 71 1
+7 100 1
+7 72 1
+7 123 1
+7 121 1
+7 49 1
+7 67 1
+7 97 1
+7 96 1
+7 125 1
+7 45 1
+7 98 1
+7 61 1
+7 70 1
+7 104 1
+7 92 1
+7 109 1
+7 85 1
+7 99 1
+7 68 1
+7 46 1
+7 95 1
+7 42 1
+7 69 1
+7 63 1
+7 114 1
+7 105 1
+7 119 1
+7 66 1
+7 79 1
+7 103 1
+7 60 1
+7 90 1
+7 106 1
+7 83 1
+7 88 1
+7 64 1
+7 82 1
+7 89 1
+8 6 1
+8 9 1
+9 10 1
+10 687 1
+10 677 1
+10 688 1
+10 689 1
+10 690 1
+10 686 1
+10 664 1
+10 662 1
+10 685 1
+10 175 1
+11 12 1
+12 711 1
+12 713 1
+12 709 1
+12 714 1
+12 712 1
+12 710 1
+13 14 1
+14 768 1
+14 770 1
+14 772 1
+14 761 1
+14 749 1
+14 769 1
+14 773 1
+14 771 1
+14 767 1
+15 16 1
+17 18 1
+16 779 1
+16 839 1
+16 819 1
+16 810 1
+16 823 1
+16 837 1
+16 821 1
+16 834 1
+16 827 1
+16 784 1
+16 833 1
+16 832 1
+16 814 1
+16 830 1
+16 831 1
+16 836 1
+16 828 1
+16 807 1
+16 820 1
+16 825 1
+16 817 1
+16 829 1
+16 824 1
+16 798 1
+16 816 1
+16 838 1
+16 826 1
+16 822 1
+16 791 1
+16 774 1
+16 835 1
+16 818 1
+16 804 1
+16 815 1
+19 20 1
+18 843 1
+18 844 1
+18 842 1
+18 841 1
+18 840 1
+21 22 1
+20 849 1
+20 846 1
+20 847 1
+20 848 1
+23 29 1
+22 856 1
+22 860 1
+22 853 1
+22 858 1
+22 854 1
+22 861 1
+22 851 1
+22 852 1
+22 855 1
+22 857 1
+22 859 1
+22 862 1
+25 31 1
+24 30 1
+27 33 1
+26 32 1
+28 34 1
+38 40 1
+36 35 1
+37 39 1
+42 126 1
+42 127 1
+43 452 1
+43 482 1
+43 499 1
+43 454 1
+43 480 1
+43 414 1
+43 456 1
+43 462 1
+43 463 1
+43 494 1
+43 449 1
+43 445 1
+43 464 1
+43 401 1
+43 490 1
+43 403 1
+43 474 1
+43 408 1
+43 453 1
+43 428 1
+43 459 1
+43 442 1
+43 421 1
+43 405 1
+43 411 1
+43 402 1
+43 491 1
+43 433 1
+43 492 1
+43 437 1
+43 448 1
+43 446 1
+43 434 1
+43 443 1
+43 418 1
+43 461 1
+43 501 1
+43 496 1
+43 415 1
+43 427 1
+43 417 1
+43 419 1
+43 413 1
+43 477 1
+43 486 1
+43 489 1
+43 435 1
+43 400 1
+43 426 1
+43 404 1
+43 455 1
+43 439 1
+43 470 1
+43 503 1
+43 506 1
+43 423 1
+43 471 1
+43 479 1
+43 431 1
+43 475 1
+43 484 1
+43 432 1
+43 465 1
+43 485 1
+43 497 1
+43 476 1
+43 436 1
+43 457 1
+43 495 1
+43 504 1
+43 493 1
+43 467 1
+43 444 1
+43 505 1
+43 429 1
+43 409 1
+43 466 1
+43 416 1
+43 440 1
+43 412 1
+43 500 1
+43 410 1
+43 458 1
+43 422 1
+43 451 1
+43 478 1
+43 406 1
+43 483 1
+43 450 1
+43 447 1
+43 460 1
+43 481 1
+43 498 1
+43 472 1
+43 502 1
+43 473 1
+43 407 1
+43 487 1
+43 488 1
+43 438 1
+43 468 1
+43 430 1
+43 424 1
+43 469 1
+43 507 1
+43 425 1
+43 441 1
+43 420 1
+41 43 1
+41 42 1
+47 49 1
+47 50 1
+47 48 1
+44 46 1
+44 45 1
+45 181 1
+45 141 1
+45 183 1
+45 186 1
+45 187 1
+45 171 1
+45 158 1
+45 162 1
+45 173 1
+45 168 1
+45 172 1
+45 180 1
+45 184 1
+45 179 1
+45 185 1
+45 152 1
+51 41 1
+49 609 1
+49 604 1
+49 606 1
+49 608 1
+49 610 1
+49 607 1
+49 605 1
+49 612 1
+49 611 1
+48 582 1
+48 580 1
+48 585 1
+48 583 1
+48 578 1
+48 588 1
+48 584 1
+48 579 1
+48 589 1
+48 581 1
+48 586 1
+48 587 1
+55 56 1
+54 47 1
+53 47 1
+52 44 1
+59 244 1
+59 241 1
+59 242 1
+59 245 1
+59 239 1
+59 247 1
+59 234 1
+59 246 1
+59 243 1
+58 230 1
+58 227 1
+58 224 1
+58 225 1
+58 229 1
+58 226 1
+58 228 1
+58 231 1
+57 58 1
+57 59 1
+57 74 1
+57 61 1
+57 60 1
+56 213 1
+56 189 1
+56 215 1
+56 196 1
+56 214 1
+56 193 1
+56 190 1
+56 191 1
+56 210 1
+56 209 1
+56 195 1
+56 192 1
+56 211 1
+56 199 1
+56 198 1
+56 194 1
+56 197 1
+56 206 1
+56 208 1
+56 207 1
+56 212 1
+63 257 1
+63 260 1
+63 256 1
+63 264 1
+63 258 1
+63 263 1
+63 262 1
+63 259 1
+63 261 1
+62 68 1
+62 67 1
+62 66 1
+62 65 1
+62 69 1
+62 64 1
+62 63 1
+62 71 1
+62 70 1
+62 72 1
+68 300 1
+68 301 1
+68 299 1
+68 302 1
+69 303 1
+69 304 1
+64 281 1
+64 265 1
+64 273 1
+64 276 1
+64 267 1
+64 280 1
+64 279 1
+64 272 1
+64 274 1
+64 275 1
+64 278 1
+64 277 1
+64 270 1
+64 266 1
+64 268 1
+64 269 1
+64 271 1
+65 285 1
+65 284 1
+65 286 1
+65 282 1
+65 283 1
+65 287 1
+66 291 1
+66 290 1
+66 292 1
+66 288 1
+66 289 1
+67 294 1
+67 296 1
+67 295 1
+67 298 1
+67 293 1
+67 297 1
+76 306 1
+76 305 1
+77 308 1
+77 307 1
+77 316 1
+77 310 1
+77 309 1
+77 311 1
+77 317 1
+77 315 1
+77 313 1
+77 312 1
+77 314 1
+78 320 1
+78 318 1
+78 321 1
+78 324 1
+78 319 1
+78 322 1
+78 326 1
+78 323 1
+78 325 1
+73 57 1
+73 94 1
+74 251 1
+74 253 1
+74 254 1
+74 252 1
+74 250 1
+74 249 1
+74 182 1
+75 78 1
+75 76 1
+75 79 1
+75 77 1
+85 345 1
+85 349 1
+85 340 1
+85 348 1
+85 342 1
+85 350 1
+85 344 1
+85 347 1
+85 341 1
+85 346 1
+85 343 1
+84 86 1
+84 85 1
+87 90 1
+87 88 1
+87 89 1
+86 351 1
+81 338 1
+81 337 1
+81 334 1
+81 336 1
+81 329 1
+81 327 1
+81 335 1
+81 328 1
+81 331 1
+81 339 1
+81 333 1
+81 332 1
+81 330 1
+80 83 1
+80 81 1
+80 82 1
+93 80 1
+92 360 1
+92 369 1
+92 363 1
+92 367 1
+92 361 1
+92 362 1
+92 368 1
+92 364 1
+92 365 1
+92 366 1
+95 375 1
+95 376 1
+95 370 1
+95 371 1
+95 373 1
+95 377 1
+95 372 1
+95 374 1
+94 95 1
+94 96 1
+94 97 1
+94 98 1
+94 100 1
+94 99 1
+89 359 1
+89 358 1
+88 357 1
+88 356 1
+88 354 1
+88 353 1
+88 355 1
+88 352 1
+91 92 1
+102 380 1
+102 384 1
+102 382 1
+102 385 1
+102 381 1
+102 383 1
+103 386 1
+103 387 1
+103 389 1
+103 388 1
+101 102 1
+101 105 1
+101 106 1
+101 104 1
+101 103 1
+96 378 1
+97 379 1
+111 107 1
+108 390 1
+109 391 1
+107 108 1
+107 109 1
+107 110 1
+118 119 1
+117 397 1
+117 396 1
+117 394 1
+117 398 1
+117 399 1
+117 395 1
+116 117 1
+114 393 1
+114 392 1
+113 115 1
+113 114 1
+112 111 1
+126 134 1
+126 137 1
+126 133 1
+126 130 1
+126 136 1
+126 131 1
+126 135 1
+126 129 1
+126 132 1
+126 128 1
+122 123 1
+122 125 1
+122 124 1
+120 121 1
+139 140 1
+141 143 1
+141 144 1
+141 149 1
+141 147 1
+141 145 1
+141 148 1
+141 146 1
+143 150 1
+142 141 1
+129 138 1
+152 154 1
+152 156 1
+152 155 1
+153 173 1
+153 162 1
+153 172 1
+153 168 1
+153 152 1
+157 153 1
+158 161 1
+158 160 1
+159 171 1
+159 158 1
+144 151 1
+168 170 1
+168 169 1
+175 176 1
+175 654 1
+175 655 1
+175 647 1
+175 656 1
+162 166 1
+162 165 1
+162 164 1
+162 163 1
+167 159 1
+190 202 1
+190 203 1
+191 205 1
+191 204 1
+188 199 1
+188 189 1
+188 198 1
+188 194 1
+188 197 1
+188 196 1
+188 193 1
+188 190 1
+188 191 1
+188 192 1
+188 195 1
+189 201 1
+189 200 1
+179 178 1
+176 644 1
+176 174 1
+176 641 1
+176 645 1
+176 643 1
+176 177 1
+176 646 1
+176 178 1
+176 642 1
+182 248 1
+207 222 1
+207 223 1
+206 221 1
+206 216 1
+206 220 1
+206 217 1
+206 219 1
+206 218 1
+239 240 1
+234 235 1
+234 237 1
+234 236 1
+234 238 1
+225 233 1
+224 232 1
+249 255 1
+410 566 1
+410 562 1
+410 565 1
+410 563 1
+410 559 1
+410 560 1
+410 561 1
+410 558 1
+410 564 1
+411 569 1
+411 567 1
+411 568 1
+409 557 1
+409 552 1
+409 553 1
+409 551 1
+409 555 1
+409 550 1
+409 556 1
+409 554 1
+412 572 1
+412 571 1
+412 573 1
+412 570 1
+413 575 1
+413 574 1
+413 577 1
+413 576 1
+402 525 1
+402 524 1
+402 527 1
+402 523 1
+402 526 1
+403 530 1
+403 529 1
+403 531 1
+403 532 1
+403 533 1
+403 539 1
+403 538 1
+403 528 1
+403 535 1
+403 537 1
+403 536 1
+403 534 1
+400 508 1
+401 519 1
+401 517 1
+401 520 1
+401 522 1
+401 511 1
+401 509 1
+401 514 1
+401 512 1
+401 518 1
+401 516 1
+401 521 1
+401 510 1
+401 515 1
+401 513 1
+404 540 1
+404 543 1
+404 541 1
+404 542 1
+404 548 1
+404 544 1
+404 545 1
+404 547 1
+404 546 1
+404 549 1
+440 635 1
+440 637 1
+440 636 1
+440 634 1
+440 633 1
+440 638 1
+440 639 1
+447 640 1
+424 632 1
+424 630 1
+424 631 1
+423 625 1
+423 627 1
+423 629 1
+423 628 1
+423 626 1
+578 590 1
+578 594 1
+578 592 1
+578 593 1
+578 591 1
+578 596 1
+578 597 1
+578 595 1
+579 600 1
+579 601 1
+579 602 1
+579 603 1
+579 598 1
+579 599 1
+605 613 1
+605 617 1
+605 616 1
+605 615 1
+605 614 1
+605 618 1
+606 623 1
+606 621 1
+606 622 1
+606 620 1
+606 624 1
+606 619 1
+685 699 1
+685 704 1
+685 703 1
+685 701 1
+685 708 1
+685 702 1
+685 700 1
+685 707 1
+685 705 1
+685 706 1
+682 698 1
+682 696 1
+682 697 1
+682 694 1
+682 695 1
+679 691 1
+679 692 1
+679 693 1
+677 678 1
+677 684 1
+677 679 1
+677 682 1
+677 680 1
+677 683 1
+677 681 1
+654 658 1
+654 657 1
+654 660 1
+654 661 1
+654 659 1
+647 649 1
+647 651 1
+647 653 1
+647 652 1
+647 650 1
+647 648 1
+664 670 1
+664 676 1
+664 668 1
+664 674 1
+664 671 1
+664 667 1
+664 675 1
+664 666 1
+664 669 1
+664 665 1
+664 673 1
+664 672 1
+662 663 1
+750 759 1
+750 757 1
+750 760 1
+750 758 1
+750 755 1
+750 756 1
+749 753 1
+749 750 1
+749 751 1
+749 752 1
+749 754 1
+761 765 1
+761 766 1
+761 764 1
+761 763 1
+761 762 1
+715 721 1
+709 718 1
+709 715 1
+709 719 1
+709 720 1
+709 717 1
+709 716 1
+711 741 1
+711 748 1
+711 742 1
+711 747 1
+711 743 1
+711 746 1
+711 744 1
+711 745 1
+710 738 1
+710 736 1
+710 734 1
+710 722 1
+710 733 1
+710 737 1
+710 730 1
+710 739 1
+710 740 1
+710 735 1
+730 732 1
+730 731 1
+722 724 1
+722 725 1
+722 728 1
+722 729 1
+722 723 1
+722 727 1
+722 726 1
+804 805 1
+804 806 1
+807 808 1
+808 809 1
+810 813 1
+810 812 1
+810 811 1
+791 794 1
+791 792 1
+791 793 1
+791 797 1
+791 796 1
+791 795 1
+784 786 1
+784 789 1
+784 785 1
+784 788 1
+784 790 1
+784 787 1
+798 802 1
+798 799 1
+798 801 1
+798 800 1
+798 803 1
+774 777 1
+774 778 1
+774 775 1
+774 776 1
+779 780 1
+779 783 1
+779 781 1
+779 782 1
+864 863 1
+865 711 1
+866 865 1
+867 142 1
+867 188 1
+867 62 1
+868 867 1
+863 677 1
+840 845 1
+846 850 1
+*edges
+1 6 1
+1 19 1
+1 27 1
+1 25 1
+1 9 1
+1 38 1
+1 2 1
+1 21 1
+1 23 1
+1 4 1
+1 24 1
+1 37 1
+1 15 1
+1 17 1
+1 28 1
+1 26 1
+1 11 1
+1 36 1
+1 13 1
+7 122 1
+7 55 1
+7 113 1
+7 116 1
+7 87 1
+7 75 1
+7 41 1
+7 101 1
+7 62 1
+7 120 1
+7 91 1
+7 118 1
+7 80 1
+7 44 1
+7 57 1
+7 47 1
+7 84 1
+7 107 1
+7 94 1
+7 139 1
+10 863 1
+12 865 1
+45 153 1
+45 142 1
+45 159 1
+711 50 1
+710 50 1
+56 188 1
+709 79 1
+173 174 1
+162 833 1
+176 179 1
+268 180 1
+182 181 1
+447 212 1
+260 290 1

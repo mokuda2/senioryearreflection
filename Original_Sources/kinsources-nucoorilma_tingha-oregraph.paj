@@ -1,0 +1,2219 @@
+*Network Ore graph kinsources-nucoorilma_tingha.puc
+
+*vertices 798
+1 'OwenBlair (1)' triangle
+2 'DaphneEdwards (2)' ellipse
+3 'LindaConnors (3)' ellipse
+4 'LionelBlair (4)' triangle
+5 'BarbaraConners (5)' ellipse
+6 'GrahamLoy (6)' triangle
+7 'MurielLansborough (7)' ellipse
+8 'JohnGerard (8)' triangle
+9 'IreneGardiner (9)' ellipse
+10 'ClaudeStrong (10)' triangle
+11 'RobertDaley (11)' triangle
+12 'JudyLansborough (12)' ellipse
+13 'Robert/Williams (13)' triangle
+14 'MerleBlair (14)' ellipse
+15 'MarjorieLansborough (15)' ellipse
+16 'CharlieBlair (16)' triangle
+17 'AndyBlair (17)' triangle
+18 'MaryLivermore (18)' ellipse
+19 'BettyBlair (19)' ellipse
+20 'EarlMunro (20)' triangle
+21 'StellaBlair (21)' ellipse
+22 'WalterMunro (22)' triangle
+23 'BarneyBlair (23)' triangle
+24 'PearlLivermore (24)' ellipse
+25 'JillGardiner (25)' ellipse
+26 'RaymondConnors (26)' triangle
+27 'DulcieEdwards (27)' ellipse
+28 'EllaGraham (28)' ellipse
+29 'Fred/Blair (29)' triangle
+30 'KatyMunro (30)' ellipse
+31 'ElizabethWilliams (31)' ellipse
+32 'ValdaLivermore (32)' ellipse
+33 'JessieMunro (33)' ellipse
+34 'NellieMunro (34)' ellipse
+35 'JackGardiner (35)' triangle
+36 'MarieWilliams (36)' ellipse
+37 'SarahWilliams (37)' ellipse
+38 'AnnieMunro (38)' ellipse
+39 'JohnMunro (39)' triangle
+40 'JimMunro (40)' triangle
+41 'ClarisseLivermore (41)' ellipse
+42 'BillEdwards (42)' triangle
+43 'JohnMunro (43)' triangle
+44 'ElizabethHarrison (44)' ellipse
+45 'LenaMunro (45)' ellipse
+46 'SarahHarrison (46)' ellipse
+47 '/ Edwards (47)' triangle
+48 'JohnMunro (48)' triangle
+49 'Mary AnnSullivan (49)' ellipse
+50 '? (50)' triangle
+51 '? (51)' ellipse
+52 'AywoodLoy (52)' triangle
+53 'Don/Loy (53)' triangle
+54 'PaulineLoy (54)' ellipse
+55 '/ Loy (55)' triangle
+56 '? (56)' ellipse
+57 '? (57)' ellipse
+58 'DarcyConnors (58)' triangle
+59 'IsabelleWilliams (59)' ellipse
+60 'PricillaWilliams (60)' ellipse
+61 'DaneBlair (61)' triangle
+62 'Nell/Williams (62)' ellipse
+63 'DavidWilliams (63)' triangle
+64 'WarnerBlair (64)' triangle
+65 'GrahamLivermore (65)' triangle
+66 'EileenStrong (66)' ellipse
+67 'NelsonBlair (67)' triangle
+68 'BerylLansborough (68)' ellipse
+69 'KeithLansborough (69)' triangle
+70 'John/Blair (70)' triangle
+71 'YvonneConnors (71)' ellipse
+72 'FredBlair (72)' triangle
+73 'Doreen/Edwards (73)' ellipse
+74 'JimEdwards (74)' triangle
+75 'Ida/Madden (75)' ellipse
+76 'Eileen/Richards (76)' ellipse
+77 'EstherWilliams (77)' ellipse
+78 'WilliamGardiner (78)' triangle
+79 'NellieMunro (79)' ellipse
+80 'PearlyCross (80)' ellipse
+81 'PeterCross (81)' triangle
+82 'BerthaLansborough (82)' ellipse
+83 'JackWilliams (83)' triangle
+84 'JohnnyWilliams (84)' triangle
+85 'EileenConnors (85)' ellipse
+86 'M of Fred Blair (86)' ellipse
+87 'F of Fred Blair (87)' triangle
+88 'M of Bertha Lansborough (90)' ellipse
+89 'F of Bertha Lansborough (91)' triangle
+90 'JimMunro (92)' triangle
+91 'WillyMunro (93)' triangle
+92 'Alec/Munro (94)' triangle
+93 'Margaret/White (95)' ellipse
+94 '/ Munro (96)' triangle
+95 'LizaMunro (97)' ellipse
+96 'SophieMunro (98)' ellipse
+97 'SamMunro (99)' triangle
+98 'MargaretMunro (100)' ellipse
+99 'TottieMunro (101)' ellipse
+100 'EmilyMunro (102)' ellipse
+101 'Jim (Schlicker)/Munro (103)' triangle
+102 'DanMunro (104)' triangle
+103 'AmyHarrison (105)' ellipse
+104 'Annie/Munro (106)' ellipse
+105 'AlecMunro (107)' triangle
+106 'JackDockerty (108)' triangle
+107 'MickMcDougall (109)' triangle
+108 'AdelineMunro (110)' ellipse
+109 'TottieMunro (111)' ellipse
+110 'LizzieMunro (112)' ellipse
+111 'FrankEdwards (113)' triangle
+112 'MatildaScott (114)' ellipse
+113 'ArthurCross (115)' triangle
+114 'Tilly Cross (116)' ellipse
+115 'OliveCross (117)' ellipse
+116 'HughCross (118)' triangle
+117 'PearlDaley (119)' ellipse
+118 'JoeNean (120)' triangle
+119 'BillMarshall (121)' triangle
+120 '/ Saunders (122)' triangle
+121 '/ Levy (123)' triangle
+122 'LenaCreighton (124)' ellipse
+123 'GraceLansborough (125)' ellipse
+124 'CleveMunro (126)' triangle
+125 'PaddyMunro (127)' triangle
+126 'MaureenMunro (128)' ellipse
+127 'AlecWilliams (129)' triangle
+128 'KathleenWilliams (130)' ellipse
+129 'BerrylWilliams (131)' ellipse
+130 'VincentWilliams (132)' triangle
+131 'EmilyWilliams (133)' ellipse
+132 'BillRiley (134)' triangle
+133 'KathleenRiley (135)' ellipse
+134 'TomLansborough (136)' triangle
+135 'Stanley/Lansborough (137)' triangle
+136 'NevilleLansborough (138)' triangle
+137 'MavisLansborough (139)' ellipse
+138 'Alma/Lansborough (140)' ellipse
+139 'ChristinaBlair (141)' ellipse
+140 'BridaBlair (142)' ellipse
+141 'BobbyBlair (143)' triangle
+142 'AlecBlair (144)' triangle
+143 'Barry/Blair (145)' triangle
+144 'ReubenBlair (146)' triangle
+145 'ThelmaBlair (147)' ellipse
+146 'RonaldBlair (148)' triangle
+147 'VioletLansborough (149)' ellipse
+148 'RossMunro (150)' triangle
+149 'SusanMunro (151)' ellipse
+150 'Willie/Gardiner (152)' triangle
+151 'DickLivermore (153)' triangle
+152 'JackLivermore (154)' triangle
+153 'CharlieLivermore (155)' triangle
+154 'EdieLivermore (156)' ellipse
+155 'RaymondLivermore (157)' triangle
+156 'IvyLivermore (158)' ellipse
+157 'PollyLivermore (159)' ellipse
+158 'AudreyLivermore (160)' ellipse
+159 'FlorrieBowden (161)' ellipse
+160 'RachaelMunro (162)' ellipse
+161 'GeorgeMunro (163)' triangle
+162 'JoanMunro (164)' ellipse
+163 'Gwen (Goldie)Munro (165)' ellipse
+164 'RitaMunro (166)' ellipse
+165 'RonnyMunro (167)' triangle
+166 'CharlieMunro (168)' triangle
+167 'GeraldMunro (169)' triangle
+168 'ArthurBoney (170)' triangle
+169 'CharlesBoney (171)' triangle
+170 'HeatherBoney (172)' ellipse
+171 'FredBoney (173)' triangle
+172 'BerthaBoney (174)' ellipse
+173 'BettyBoney (175)' ellipse
+174 'MargaretBoney (176)' ellipse
+175 'AlfieBoney (177)' triangle
+176 'GeorgeBoney (178)' triangle
+177 'BarbaraBoney (179)' ellipse
+178 'GaryBoney (180)' triangle
+179 'DickBoney (181)' triangle
+180 'ArchieBoney (182)' triangle
+181 'WilliamBowden (183)' triangle
+182 'MinnieBowden (184)' ellipse
+183 'EvaPorter (185)' ellipse
+184 'RachelBowden (186)' ellipse
+185 'FannyBrown (187)' ellipse
+186 'ColinEdwards (188)' triangle
+187 'AliceLowe (189)' ellipse
+188 'LenEdwards (190)' triangle
+189 'FrankEdwards (191)' triangle
+190 'JeanEdwards (192)' ellipse
+191 'DorrieEdwards (193)' ellipse
+192 'GordonEdwards (194)' triangle
+193 'MargaretLivermore (195)' ellipse
+194 'FrankConnors (196)' triangle
+195 'NormanConnors (197)' triangle
+196 'ChristinaConnors (198)' ellipse
+197 'ArnoldConnors (199)' triangle
+198 'WeenieConnors (200)' ellipse
+199 'RuthConnors (201)' ellipse
+200 'HarryConnors (202)' triangle
+201 'RoyConnors (203)' triangle
+202 'CharlieEllis (204)' triangle
+203 'DotEllis (205)' ellipse
+204 'ArthurEllis (206)' triangle
+205 'PeterEllis (207)' triangle
+206 'ThomasEllis (208)' triangle
+207 'PercyStrong (209)' triangle
+208 'OliveStrong (210)' ellipse
+209 'EricStrong (211)' triangle
+210 'EllenWilliams (212)' ellipse
+211 'FayWilliams (213)' ellipse
+212 'StanleyWilliams (214)' triangle
+213 'KathyWilliams (215)' ellipse
+214 'AnnieCross (216)' ellipse
+215 'AlfieNewnan (Moree) (217)' triangle
+216 'CharlesBoney (218)' triangle
+217 'DanielBoney (219)' triangle
+218 'RobertBoney (220)' triangle
+219 'GrahamBoney (221)' triangle
+220 'GregoryBoney (222)' triangle
+221 'NellieBoney (223)' ellipse
+222 'AtholBoney (224)' triangle
+223 'GordonBoney (225)' triangle
+224 'ElaineBoney (226)' ellipse
+225 'GaryBoney (227)' triangle
+226 'SteveDaley (228)' triangle
+227 'PhilipDaley (229)' triangle
+228 'PeterDaley (230)' triangle
+229 'SteveDaley (231)' triangle
+230 'PatriciaDaley (232)' ellipse
+231 'NevilleWilliams (233)' triangle
+232 'HildaWilliams (234)' ellipse
+233 'RuthWilliams (235)' ellipse
+234 'LeonardWilliams (236)' triangle
+235 'DaphneWilliams (237)' ellipse
+236 'NeridaWilliams (238)' ellipse
+237 'KevinWilliams (239)' triangle
+238 '_aiter Williams (240)' triangle
+239 'MarjoriePorter (241)' ellipse
+240 'CharlieWilliams (242)' triangle
+241 'SusanWilliams (243)' ellipse
+242 'MavisWilliams (244)' ellipse
+243 'JimGerard (245)' triangle
+244 'EllenGerard (246)' ellipse
+245 'BillyGerard (247)' triangle
+246 'BarryGerard (248)' triangle
+247 'MarleneGerard (249)' ellipse
+248 'BerylGerard (250)' ellipse
+249 'RonaldConnors (251)' triangle
+250 'LeslieConnors (252)' triangle
+251 'SharonConnors (253)' ellipse
+252 'AlecConnors (254)' triangle
+253 'MichelleConnors (255)' ellipse
+254 'SimonConnors (256)' triangle
+255 'DickWilliams (257)' triangle
+256 'David/Williams (258)' triangle
+257 'Betty/Williams (259)' ellipse
+258 'RitaWilliams (260)' ellipse
+259 'JuneWilliams (261)' ellipse
+260 'StanleyWilliams (262)' triangle
+261 'BrianWilliams (263)' triangle
+262 'YvonneWilliams (264)' ellipse
+263 'LynnWilliams (265)' ellipse
+264 'Athol "Cookie"Williams (266)' triangle
+265 'GordonConnors (267)' triangle
+266 'AdrianConnors (268)' triangle
+267 'CliffStrong (269)' triangle
+268 'PhilipStrong (270)' triangle
+269 'GwendolineStrong (271)' ellipse
+270 'PercyStrong (272)' triangle
+271 'JoyStrong (273)' ellipse
+272 'GregoryStrong (274)' triangle
+273 'VincentStrong (275)' triangle
+274 'Nela (?)Strong (276)' ellipse
+275 'Gwen/Widders (277)' ellipse
+276 'BruceLansborough (278)' triangle
+277 'DarylLansborough (279)' triangle
+278 'DonnaLansborough (280)' ellipse
+279 'JessieLansborough (281)' triangle
+280 'PatLansborough (282)' triangle
+281 'RhondaLansborough (283)' ellipse
+282 'BrendaLansborough (284)' ellipse
+283 'KimLansborough (285)' ellipse
+284 'EdwardBlair (286)' triangle
+285 'NolaBlair (287)' ellipse
+286 'GailBlair (288)' ellipse
+287 'PamelaBlair (289)' ellipse
+288 'GeoffeyBlair (290)' triangle
+289 'AndrewBlair (291)' triangle
+290 'MarionBlair (292)' ellipse
+291 'DanielBlair (293)' triangle
+292 'HarryLucia (294)' triangle
+293 'LewisLucia (295)' triangle
+294 'JohnLucia (296)' triangle
+295 'EtienneLucia (297)' triangle
+296 'MalcolmLucia (298)' triangle
+297 '/ Lucia (299)' diamond
+298 '/ Lucia (300)' diamond
+299 '/ Lucia (301)' diamond
+300 'RobinDaley (302)' triangle
+301 'DebbieDaley (303)' ellipse
+302 'VivienDaley (304)' ellipse
+303 'JimmyDaley (305)' triangle
+304 'DarinDaley (306)' triangle
+305 'RobertDaley (307)' triangle
+306 'DexterDaley (308)' triangle
+307 'PamelaDaley (309)' ellipse
+308 'ShirleenStrong (311)' ellipse
+309 'Alfred JohnStrong (312)' triangle
+310 'MayGreen (313)' ellipse
+311 'NellieBlair (314)' ellipse
+312 'HildaBlair (315)' ellipse
+313 'LesBlair (316)' triangle
+314 'DavidBlair (317)' triangle
+315 'BobbyBlair (318)' triangle
+316 'EdieBlair (319)' ellipse
+317 'DickBlair (320)' triangle
+318 'VeronicaBlair (321)' ellipse
+319 'CathyBlair (322)' ellipse
+320 'GenelleBlair (323)' ellipse
+321 'MarilynBlair (324)' ellipse
+322 'RoslynBlair (325)' ellipse
+323 'JohnBlair (326)' triangle
+324 'VincentBlair (327)' triangle
+325 'SandraBlair (328)' ellipse
+326 'CarlBlair (329)' triangle
+327 'TomaraBlair (330)' ellipse
+328 'NoelineBlair (331)' ellipse
+329 'Stacy/Blair (332)' ellipse
+330 'StaffordBlair (333)' triangle
+331 'BobBradshaw (334)' triangle
+332 'JaniceBrashaw (335)' ellipse
+333 'CherylBradshaw (336)' ellipse
+334 'LeonMunro (337)' triangle
+335 'SandraMunro (338)' ellipse
+336 'EllaMunro (339)' ellipse
+337 'LydiaMunro (340)' ellipse
+338 'PaulMunro (341)' triangle
+339 'SandyMunro (342)' ellipse
+340 'GregoryBlair (343)' triangle
+341 'DeniseBlair (344)' ellipse
+342 'SharonBlair (345)' ellipse
+343 'ArnieBlair (346)' triangle
+344 'LestonBlair (347)' triangle
+345 'Jo AnnBlair (348)' ellipse
+346 'MandyBlair (349)' ellipse
+347 'LennyBlair (350)' triangle
+348 'ValeriaHoskin (351)' ellipse
+349 '/ Blair (352)' diamond
+350 '/ Blair (353)' diamond
+351 '/ Blair (354)' diamond
+352 '/ Blair (355)' diamond
+353 'RosemaryBartman (356)' ellipse
+354 'JudyBarton (357)' ellipse
+355 '/ Blair (358)' diamond
+356 '/ Blair (359)' diamond
+357 '/ Blair (360)' diamond
+358 '/ Blair (361)' diamond
+359 '/ Blair (362)' diamond
+360 'GloriaDavis (363)' ellipse
+361 'TerryMunro (364)' triangle
+362 'MarilynMunro (365)' ellipse
+363 'JohnMunro (366)' triangle
+364 'RebeccaMunro (367)' ellipse
+365 'StevenMunro (368)' triangle
+366 'RodneyMunro (369)' triangle
+367 'TonyMunro (370)' triangle
+368 'DeanMunro (371)' triangle
+369 'MervinBlacklock (372)' triangle
+370 'ClaytonBlacklock (373)' triangle
+371 'AndrewBlacklock (374)' triangle
+372 'JimmyBlacklock (375)' triangle
+373 'LauraBlacklock (376)' ellipse
+374 'SimoneBlacklock (377)' ellipse
+375 'MaudeScott (378)' ellipse
+376 'LenaGardiner (379)' ellipse
+377 'Esther/Gardiner (380)' ellipse
+378 'OralGardiner (381)' triangle
+379 'VincentConnors (382)' triangle
+380 'ValdaConnors (383)' ellipse
+381 'VickyConnors (384)' ellipse
+382 'AnnabelMadden (385)' ellipse
+383 'RaymondEllis (386)' triangle
+384 'RichardEllis (387)' triangle
+385 'RobinEllis (388)' triangle
+386 'DamonEllis (389)' triangle
+387 'SallyEllis (390)' ellipse
+388 'NoraDuncan (391)' ellipse
+389 'LynetteLivermore (392)' ellipse
+390 'KayLivermore (393)' ellipse
+391 'LornaLivermore (394)' ellipse
+392 'YvonneLivermore (395)' ellipse
+393 'PhillipLivermore (396)' triangle
+394 'PaulLivermore (397)' triangle
+395 'ClaudeLivermore (398)' triangle
+396 'CarolLivermore (399)' ellipse
+397 'RexLevy (400)' triangle
+398 'WayneLevy (401)' triangle
+399 'TonieLevy (402)' ellipse
+400 'ShaneLevy (403)' triangle
+401 'ZaneLevy (404)' triangle
+402 'TerrillLevy (405)' triangle
+403 'BlainLevy (406)' triangle
+404 'EmilyConnors (407)' ellipse
+405 'NormanLoy (408)' triangle
+406 'CharlieEllis (409)' triangle
+407 'AlecMcDougall (410)' triangle
+408 'GregoryMcDougall (411)' triangle
+409 'GaryMcDougall (412)' triangle
+410 'DarienMcDougall (413)' triangle
+411 'DwayneMcDougall (414)' triangle
+412 'AnthonyMcDougall (415)' triangle
+413 'SamanthaMcDougall (416)' ellipse
+414 'DarinMcDougall (417)' triangle
+415 'TanyaMcDougall (418)' ellipse
+416 'LindenStrong (419)' triangle
+417 'JohnStrong (420)' triangle
+418 'GlennisStrong (421)' triangle
+419 '"Beatle"Strong (422)' triangle
+420 'MariaStrong (423)' ellipse
+421 'LeslieStrong (424)' triangle
+422 'BarryPeterson (425)' triangle
+423 'LeePeterson (426)' triangle
+424 'LesliePeterson (427)' triangle
+425 'TonyPeterson (428)' triangle
+426 'Mary AnnPeterson (429)' ellipse
+427 'JohnPeterson (430)' triangle
+428 'PaulinePeterson (431)' ellipse
+429 '/ Peterson (432)' diamond
+430 'ClemCollins (433)' triangle
+431 'IsobelCollins (434)' ellipse
+432 'VioletCollins (435)' ellipse
+433 'FredCollins (436)' triangle
+434 'ElaineCollins (437)' ellipse
+435 'MervynCollins (438)' triangle
+436 'GloriaCollins (439)' triangle
+437 'DonnyCollins (440)' triangle
+438 'WalterMunro (441)' triangle
+439 'GwenMunro (442)' ellipse
+440 'RonnyMunro (443)' triangle
+441 'WilgaMunro (444)' ellipse
+442 'EricMunro (445)' triangle
+443 'MalcolmMunro (446)' triangle
+444 'BillLawrence (447)' triangle
+445 'KennyLawrence (448)' triangle
+446 'LoisLawrence (449)' ellipse
+447 'RobertLawrence (450)' triangle
+448 'BillLawrence (451)' triangle
+449 'TonyLawrence (452)' triangle
+450 'GeoffreyLawrence (453)' triangle
+451 'RachaelLawrence (454)' ellipse
+452 'BillyTighe (455)' triangle
+453 'ArthurTighe (456)' triangle
+454 'AliceTighe (457)' ellipse
+455 'PercyTighe (458)' triangle
+456 'MargaretTighe (459)' ellipse
+457 'TomTighe (460)' triangle
+458 'MarleneTighe (461)' ellipse
+459 'LizaTighe (462)' ellipse
+460 'HaroldHill (463)' triangle
+461 'BarryHill (464)' triangle
+462 'TrevorHill (465)' triangle
+463 'BeverlyHill (466)' ellipse
+464 'LilaHill (467)' ellipse
+465 'RoslynHill (468)' ellipse
+466 'MaxineHill (469)' ellipse
+467 'DavidHill (470)' triangle
+468 'JosephineBryant (471)' ellipse
+469 'ColinBryant (472)' triangle
+470 'PeterBryant (473)' triangle
+471 'JudyBryant (474)' ellipse
+472 'DarylBryant (475)' triangle
+473 'MichaelBryant (476)' triangle
+474 'Annette/Bryant (477)' ellipse
+475 'MillyConnors (478)' ellipse
+476 'WilliamSaunders (479)' triangle
+477 'MichaelSaunders (480)' triangle
+478 'AngelaSaunders (481)' ellipse
+479 'LeoSaunders (482)' triangle
+480 'JillSaunders (483)' ellipse
+481 'BillBrown (484)' triangle
+482 '? (485)' triangle
+483 '/ Stanley (486)' triangle
+484 'ColinConnors (487)' triangle
+485 'BarryConnors (488)' triangle
+486 'ColinConnors (489)' triangle
+487 'IanConnors (490)' triangle
+488 'KarenConnors (491)' ellipse
+489 'RoslynConnors (492)' ellipse
+490 'JimLonsdale (493)' triangle
+491 'AnnetteLonsdale (494)' ellipse
+492 'MarleneLonsdale (495)' ellipse
+493 'AnthonyLonsdale (496)' triangle
+494 'IanLonsdale (497)' triangle
+495 'MichaelLonsdale (498)' triangle
+496 '/ Creighton (499)' triangle
+497 'JeanCox (500)' ellipse
+498 'DianaMcDougall (501)' ellipse
+499 'DulcieEdwards (502)' ellipse
+500 'AliceEdwards (503)' ellipse
+501 'GordonEdwards (504)' triangle
+502 'LolaEdwards (505)' ellipse
+503 'CoralEdwards (506)' ellipse
+504 'Doug/Scott (507)' triangle
+505 'AileenScott (508)' ellipse
+506 '_Connors (509)' triangle
+507 'Iona_ines (510)' ellipse
+508 'BrendaEdwards (511)' ellipse
+509 'Leonard "Boxer"Edwards (512)' triangle
+510 'Gordon "Spinner"Edwards (513)' triangle
+511 'MaudeEdwards (514)' ellipse
+512 'MichaelEdwards (515)' triangle
+513 'ThomasEdwards (516)' triangle
+514 'TinyWilliams (517)' ellipse
+515 '/ Connors (518)' diamond
+516 '/ Connors (519)' diamond
+517 'VictorBriggs (520)' triangle
+518 'PhyllisDunn (521)' ellipse
+519 'LyleKennedy (522)' triangle
+520 'TonyKennedy (523)' triangle
+521 'RuthWalker (524)' ellipse
+522 'HarryWilliams (525)' triangle
+523 'WilmaBiers (526)' ellipse
+524 'EstelleWilliams (527)' ellipse
+525 '/ Draper (528)' triangle
+526 'TomWeatherell (529)' triangle
+527 'Lynette/McGrady (530)' ellipse
+528 '/ Boney (531)' diamond
+529 '/ Boney (532)' diamond
+530 '/ Boney (533)' diamond
+531 '/ Boney (534)' diamond
+532 '/ Boney (535)' diamond
+533 '/ Boney (536)' diamond
+534 'JohnnyWilliams (537)' triangle
+535 'LindaSuey (538)' ellipse
+536 'KathleenWilliams (539)' ellipse
+537 'RichardWilliams (540)' triangle
+538 'ElsieMarsden (541)' ellipse
+539 'MargaretConnors (542)' ellipse
+540 'WarrenWilliams (543)' triangle
+541 'JohnKyle (544)' triangle
+542 'MichaelWilliams (545)' triangle
+543 'SoniaKyle (546)' ellipse
+544 'JohnKyle (547)' triangle
+545 'SylvesterCampbell (548)' triangle
+546 'MandyCampbell (549)' ellipse
+547 'ReubenCampbell (550)' triangle
+548 'PaulCampbell (551)' triangle
+549 'PattyBrown (552)' ellipse
+550 '? (553)' diamond
+551 '? (554)' triangle
+552 '? (555)' triangle
+553 'MalcolmMcDougal (556)' triangle
+554 'BarbaraBoney (557)' ellipse
+555 'JoeyConnors (558)' ellipse
+556 'MaxieSmith (559)' triangle
+557 'SherbertConnors (560)' triangle
+558 'MadelineMcGrady (561)' ellipse
+559 'TaniaConnors (562)' ellipse
+560 'CoralieConnors (563)' ellipse
+561 'DeniseConnors (564)' ellipse
+562 'NathalieLoy (565)' ellipse
+563 'AywoodLoy (566)' triangle
+564 'SharonLoy (567)' ellipse
+565 'StellaFrench (568)' ellipse
+566 'SharleneWilliams (569)' ellipse
+567 '/ Williams (570)' diamond
+568 '/ Williams (571)' diamond
+569 '/ Williams (572)' diamond
+570 'BobWright (573)' triangle
+571 'Richard? (574)' triangle
+572 '? (575)' ellipse
+573 'SimoneConnors (576)' ellipse
+574 'Thomas "Ringo"Strong (577)' triangle
+575 'Richard? (578)' triangle
+576 'Thomas? (579)' triangle
+577 '/ Blair (580)' ellipse
+578 'JudyGerard (581)' ellipse
+579 'KeithConnors (582)' triangle
+580 'TraceyConnors (583)' ellipse
+581 'DonnaConnors (584)' ellipse
+582 'Jo AnnConnors (585)' ellipse
+583 'KeithConnors (586)' triangle
+584 'ZoranConnors (587)' triangle
+585 'MarieBlair (588)' ellipse
+586 'MervynConnors (589)' triangle
+587 '/ Connors (590)' diamond
+588 '/ Connors (591)' diamond
+589 '/ Connors (592)' diamond
+590 'MaxPatterson (593)' triangle
+591 'LindaConnors (594)' ellipse
+592 'MichaelBlair (595)' triangle
+593 'LorneBlair (596)' triangle
+594 'HarryWidders (597)' triangle
+595 'MandyWidders (598)' ellipse
+596 'Jo AnnWidders (599)' ellipse
+597 '/ Widders (600)' triangle
+598 'MorrisBlair (601)' triangle
+599 'James/Blair (602)' triangle
+600 '/Blair (603)' ellipse
+601 'AlbertDonavon (604)' triangle
+602 'PattieBartman (605)' ellipse
+603 'ThomasCampbell (606)' triangle
+604 'ChristineMunro (607)' ellipse
+605 'NatachaMunro (608)' ellipse
+606 'BronwynCampbell (609)' ellipse
+607 'KatyBartman (610)' ellipse
+608 'TerryMunro (611)' triangle
+609 '/ Livermore (612)' diamond
+610 '/ Livermore (613)' diamond
+611 '/ Livermore (614)' diamond
+612 '/ Livermore (615)' diamond
+613 'GeorgeBoney (616)' triangle
+614 'Eric "Naden"Boney (617)' triangle
+615 'GinaBoney (618)' ellipse
+616 'LeanneBoney (619)' ellipse
+617 'BruceDahlston (620)' triangle
+618 '/ Lansborough (621)' ellipse
+619 'CandiceDahlston (622)' ellipse
+620 'SamanthaDahlston (623)' ellipse
+621 'BruceDahlston (624)' triangle
+622 'FrankCatalano (625)' triangle
+623 'ConchitaCattelano (626)' ellipse
+624 'CarmelitaCattelano (627)' ellipse
+625 'Candice MelodyConnors (628)' ellipse
+626 'Ray AnnConnors (629)' ellipse
+627 'AbigailConnors (630)' ellipse
+628 'RaymondConnors (631)' triangle
+629 'DavidLansborough (632)' triangle
+630 'LeanneLansborough (633)' ellipse
+631 'LeslieLansborough (634)' triangle
+632 'LorrayLansborough (635)' ellipse
+633 'AnnetteLansborough (636)' ellipse
+634 'MelissaLansborough (637)' ellipse
+635 '/ Lansborough (638)' diamond
+636 'IkeyDaley (639)' triangle
+637 '/ Daley (640)' diamond
+638 '/ Daley (641)' diamond
+639 '/ Daley (642)' diamond
+640 'KevinIcklyn (643)' triangle
+641 'PeterIcklyn (644)' triangle
+642 'EdithIcklyn (645)' ellipse
+643 'DavidWigglesworth (646)' triangle
+644 'DarinWigglesworth (647)' triangle
+645 'SamanthaWigglesworth (648)' ellipse
+646 'TrevorLoy (649)' triangle
+647 'WendyLoy (650)' ellipse
+648 'ChristineLoy (651)' ellipse
+649 'DavidLoy (652)' triangle
+650 'DeborahLoy (653)' ellipse
+651 'RussellLoy (654)' triangle
+652 'BryceLoy (655)' triangle
+653 'Bill "Doodle"Nailan (656)' triangle
+654 'EricNailan (657)' triangle
+655 'CarolNailan (658)' ellipse
+656 'BernieNailan (659)' triangle
+657 'SusanNailan (660)' ellipse
+658 'SteveNailan (661)' triangle
+659 'GeorgeKennedy (662)' triangle
+660 '/ Kennedy (663)' diamond
+661 '/ Kennedy (664)' diamond
+662 '/ Kennedy (665)' diamond
+663 '/ Kennedy (666)' diamond
+664 '/ Kennedy (667)' diamond
+665 '/ Kennedy (668)' diamond
+666 '/ Kennedy (669)' diamond
+667 '/ Kennedy (670)' diamond
+668 'IvanRussell (671)' triangle
+669 '/ Russell (672)' triangle
+670 '/ Russell (673)' triangle
+671 '/ Russell (674)' triangle
+672 '/ Russell (675)' triangle
+673 'FayJohnson (676)' ellipse
+674 '/ Collins (677)' triangle
+675 '/ Collins (678)' triangle
+676 '/ Collins (679)' triangle
+677 '/ Collins (680)' ellipse
+678 'GraceVale (681)' ellipse
+679 'LizaMunro (682)' ellipse
+680 '? (683)' ellipse
+681 '/ Munro (684)' diamond
+682 '/ Munro (685)' diamond
+683 '/ Munro (686)' diamond
+684 'FrankMeran (687)' triangle
+685 'HarryWilliams (688)' triangle
+686 'CatherineMeran (689)' ellipse
+687 'Wayne/Meran (690)' triangle
+688 '/ Meran (691)' triangle
+689 '/ Meran (692)' triangle
+690 'NicolaWilliams (693)' ellipse
+691 '/ Williams (694)' ellipse
+692 'WinifredNeal (695)' ellipse
+693 '? (696)' ellipse
+694 'JoanMcKenzie (697)' ellipse
+695 'Lila ? (698)' ellipse
+696 'BobFerguson (699)' triangle
+697 'BrendaTroutman (700)' ellipse
+698 '/ Moore (701)' triangle
+699 'NolaBlair (702)' ellipse
+700 'NoelineConnors (703)' ellipse
+701 'Ian Blair (704)' triangle
+702 'RhondaWhitton (705)' ellipse
+703 'KironConnors (706)' triangle
+704 '/ Connors (707)' diamond
+705 'PatrickDureaux (708)' triangle
+706 'JimBoney (709)' triangle
+707 'DianneBoney (710)' ellipse
+708 'BillyBoney (711)' triangle
+709 'AidaBoney (712)' ellipse
+710 'EvelynBoney (713)' ellipse
+711 'ZonaBoney (714)' ellipse
+712 'BrendaBoney (715)' ellipse
+713 'LindaBoney (716)' ellipse
+714 'TinaBoney (717)' ellipse
+715 'FredaBoney (718)' ellipse
+716 'IsobelPerry (719)' ellipse
+717 '? (720)' triangle
+718 'BobPhillips (721)' triangle
+719 'NoelPhillips (722)' triangle
+720 'ElizabethPhillips (723)' ellipse
+721 'BillTowney (724)' triangle
+722 '/ Towney (725)' diamond
+723 '/ Towney (726)' diamond
+724 '/ Towney (727)' diamond
+725 '/ Towney (728)' diamond
+726 '/ Towney (729)' diamond
+727 'PaddyMorgan (730)' ellipse
+728 'SallyEdwards (731)' ellipse
+729 '/ Edwards (732)' diamond
+730 '/ Edwards (733)' diamond
+731 '? (734)' triangle
+732 '/ Livermore (735)' ellipse
+733 '/ Livermore (736)' ellipse
+734 'Penny? (737)' ellipse
+735 'Irene? (738)' ellipse
+736 'RobertO*Leary (739)' triangle
+737 'EricMunro (740)' triangle
+738 'RaymondBinge (741)' triangle
+739 'ElaineLivermore (742)' ellipse
+740 'StanleyBinge (743)' triangle
+741 'Jo AnnBinge (744)' ellipse
+742 'Wally RaymondBinge (745)' triangle
+743 'VaughnLivermore (746)' triangle
+744 'Gardiner (747)' triangle
+745 'Boney (748)' triangle
+746 'Blair (749)' triangle
+747 'Murray (750)' triangle
+748 'Baker (751)' triangle
+749 'JackLivermore (752)' triangle
+750 'FrancisSnow (753)' ellipse
+751 'DickLivermore (754)' triangle
+752 'MaggieLivermore (755)' ellipse
+753 'AnnieMunro (756)' ellipse
+754 'TomMurray (757)' triangle
+755 'PeterCudmore (758)' triangle
+756 'Aunt Dibbie (759)' ellipse
+757 'ELlenHarrison (760)' ellipse
+758 'Jim "Bood"Daley (761)' triangle
+759 'HarryPerry (762)' triangle
+760 'Jim "Bood"Daley (763)' triangle
+761 'PeterDaley (764)' triangle
+762 'JackDaley (765)' triangle
+763 'BessiePerry (766)' ellipse
+764 'JessiePerry (767)' ellipse
+765 'WilliamPerry (768)' triangle
+766 'LissiePerry (769)' ellipse
+767 'HarryPerry (770)' triangle
+768 'GeorgePerry (771)' triangle
+769 'AnnieMunro (772)' ellipse
+770 'MargaretMunro (773)' ellipse
+771 '/ Daley (774)' diamond
+772 '/ Daley (775)' diamond
+773 '/ Daley (776)' diamond
+774 '/ Daley (777)' diamond
+775 '/ Daley (778)' diamond
+776 '/ Daley (779)' diamond
+777 '/ Daley (780)' diamond
+778 'ClarrieBrown (781)' triangle
+779 'ColinBrown (782)' triangle
+780 'HenryBrown (783)' triangle
+781 'FrankBrown (784)' triangle
+782 'BlancheConnors (785)' ellipse
+783 'RettaYarnold (786)' ellipse
+784 'MillieGlover (787)' ellipse
+785 'JuneBrown (788)' ellipse
+786 'AileenBrown (789)' ellipse
+787 'BettyBrown (790)' ellipse
+788 'ShirleyBrown (791)' ellipse
+789 'KeithBrown (792)' triangle
+790 'GregoryBrown (793)' triangle
+791 'MichaelBrown (794)' triangle
+792 'BeverlyBrown (795)' ellipse
+793 'JimBlacklock (796)' triangle
+794 'AlecBlacklock (797)' triangle
+795 'Harry? (798)' triangle
+796 '? (799)' triangle
+797 '? (800)' ellipse
+798 '? (801)' ellipse
+*arcs
+1 342 1
+1 341 1
+1 345 1
+1 347 1
+1 343 1
+1 344 1
+1 346 1
+1 340 1
+2 342 1
+2 341 1
+2 345 1
+2 347 1
+2 343 1
+2 344 1
+2 346 1
+2 340 1
+5 562 1
+5 563 1
+5 564 1
+6 562 1
+6 563 1
+6 564 1
+9 574 1
+10 574 1
+11 305 1
+11 304 1
+11 307 1
+11 301 1
+11 306 1
+11 300 1
+11 303 1
+11 302 1
+12 305 1
+12 304 1
+12 307 1
+12 301 1
+12 306 1
+12 300 1
+12 303 1
+12 302 1
+13 232 1
+13 236 1
+13 238 1
+13 233 1
+13 237 1
+13 235 1
+13 231 1
+13 234 1
+14 232 1
+14 236 1
+14 238 1
+14 233 1
+14 237 1
+14 235 1
+14 231 1
+14 234 1
+15 284 1
+15 287 1
+15 289 1
+15 288 1
+15 286 1
+15 291 1
+15 290 1
+15 285 1
+17 64 1
+17 330 1
+17 326 1
+17 325 1
+17 324 1
+17 61 1
+17 328 1
+17 329 1
+17 327 1
+16 284 1
+16 287 1
+16 289 1
+16 288 1
+16 286 1
+16 291 1
+16 290 1
+16 285 1
+19 334 1
+19 336 1
+19 335 1
+19 338 1
+19 339 1
+19 337 1
+18 64 1
+18 330 1
+18 326 1
+18 325 1
+18 324 1
+18 61 1
+18 328 1
+18 329 1
+18 327 1
+21 441 1
+21 439 1
+21 440 1
+21 438 1
+21 442 1
+21 443 1
+20 334 1
+20 336 1
+20 335 1
+20 338 1
+20 339 1
+20 337 1
+23 318 1
+23 322 1
+23 319 1
+23 321 1
+23 67 1
+23 317 1
+23 320 1
+23 323 1
+23 316 1
+22 441 1
+22 439 1
+22 440 1
+22 438 1
+22 442 1
+22 443 1
+25 626 1
+25 625 1
+25 628 1
+25 627 1
+24 318 1
+24 322 1
+24 319 1
+24 321 1
+24 67 1
+24 317 1
+24 320 1
+24 323 1
+24 316 1
+27 491 1
+27 2 1
+27 492 1
+27 494 1
+27 493 1
+27 495 1
+26 626 1
+26 625 1
+26 628 1
+26 627 1
+29 139 1
+29 72 1
+29 140 1
+29 145 1
+29 16 1
+29 142 1
+29 146 1
+29 144 1
+29 141 1
+29 4 1
+29 23 1
+29 21 1
+29 1 1
+29 19 1
+29 17 1
+29 143 1
+29 14 1
+28 140 1
+28 145 1
+28 16 1
+28 142 1
+28 146 1
+28 144 1
+28 141 1
+28 4 1
+28 23 1
+28 21 1
+28 1 1
+28 19 1
+28 17 1
+28 143 1
+28 14 1
+31 251 1
+31 253 1
+31 254 1
+31 5 1
+31 252 1
+31 3 1
+31 250 1
+31 249 1
+30 139 1
+30 72 1
+34 36 1
+34 131 1
+34 128 1
+34 37 1
+34 13 1
+34 63 1
+34 59 1
+34 31 1
+34 130 1
+34 129 1
+35 78 1
+35 9 1
+35 25 1
+35 378 1
+35 376 1
+35 377 1
+32 6 1
+32 405 1
+32 54 1
+33 138 1
+33 135 1
+33 12 1
+33 136 1
+33 137 1
+33 15 1
+33 7 1
+33 69 1
+38 156 1
+38 155 1
+38 32 1
+38 157 1
+38 18 1
+38 158 1
+38 24 1
+38 152 1
+38 65 1
+38 153 1
+38 41 1
+38 154 1
+39 20 1
+39 149 1
+39 148 1
+36 10 1
+36 268 1
+36 66 1
+36 273 1
+36 269 1
+36 270 1
+36 274 1
+36 272 1
+36 271 1
+37 229 1
+37 227 1
+37 11 1
+37 230 1
+37 228 1
+42 190 1
+42 189 1
+42 188 1
+42 192 1
+42 27 1
+42 191 1
+43 45 1
+43 39 1
+43 33 1
+43 109 1
+43 110 1
+43 34 1
+43 40 1
+43 30 1
+43 108 1
+43 38 1
+40 162 1
+40 161 1
+40 163 1
+40 160 1
+40 22 1
+40 164 1
+40 166 1
+40 165 1
+40 167 1
+41 26 1
+41 380 1
+41 381 1
+46 74 1
+46 42 1
+46 109 1
+46 110 1
+46 40 1
+46 111 1
+47 74 1
+47 42 1
+47 111 1
+44 45 1
+44 39 1
+44 33 1
+44 34 1
+44 30 1
+44 108 1
+44 38 1
+45 35 1
+51 46 1
+51 44 1
+50 46 1
+50 44 1
+49 92 1
+49 90 1
+49 43 1
+49 79 1
+49 91 1
+48 92 1
+48 90 1
+48 43 1
+48 79 1
+48 91 1
+55 52 1
+55 53 1
+54 652 1
+54 645 1
+54 647 1
+54 644 1
+54 651 1
+54 650 1
+54 649 1
+54 648 1
+54 646 1
+53 652 1
+53 647 1
+53 651 1
+53 650 1
+53 649 1
+53 648 1
+53 646 1
+52 6 1
+52 405 1
+52 54 1
+59 247 1
+59 245 1
+59 248 1
+59 244 1
+59 8 1
+59 246 1
+58 251 1
+58 253 1
+58 254 1
+58 5 1
+58 252 1
+58 3 1
+58 250 1
+58 249 1
+57 53 1
+56 52 1
+63 262 1
+63 261 1
+63 257 1
+63 258 1
+63 60 1
+63 260 1
+63 62 1
+63 77 1
+63 255 1
+63 256 1
+63 259 1
+63 264 1
+63 263 1
+62 598 1
+61 598 1
+60 599 1
+60 600 1
+68 738 1
+68 577 1
+69 281 1
+69 283 1
+69 280 1
+69 68 1
+69 282 1
+69 278 1
+69 279 1
+69 276 1
+69 277 1
+70 701 1
+70 585 1
+71 701 1
+71 585 1
+64 599 1
+64 600 1
+65 417 1
+65 419 1
+65 420 1
+65 418 1
+65 421 1
+65 416 1
+66 417 1
+66 419 1
+66 420 1
+66 418 1
+66 421 1
+66 416 1
+67 738 1
+67 577 1
+76 262 1
+76 261 1
+76 77 1
+76 264 1
+76 259 1
+76 260 1
+76 263 1
+79 115 1
+79 81 1
+79 114 1
+79 80 1
+79 116 1
+72 311 1
+72 315 1
+72 70 1
+72 314 1
+72 312 1
+72 313 1
+73 486 1
+73 485 1
+73 488 1
+73 487 1
+73 71 1
+73 489 1
+74 186 1
+74 73 1
+75 62 1
+75 255 1
+75 256 1
+75 60 1
+75 258 1
+75 257 1
+87 29 1
+86 29 1
+80 85 1
+80 200 1
+80 197 1
+80 201 1
+80 196 1
+80 198 1
+80 199 1
+80 195 1
+83 210 1
+83 212 1
+83 213 1
+83 211 1
+83 84 1
+82 210 1
+82 212 1
+82 213 1
+82 211 1
+82 84 1
+93 101 1
+93 100 1
+93 102 1
+93 95 1
+93 94 1
+93 96 1
+93 97 1
+93 99 1
+93 98 1
+89 82 1
+88 82 1
+91 104 1
+91 105 1
+90 101 1
+90 100 1
+90 102 1
+90 95 1
+90 94 1
+90 96 1
+90 97 1
+90 99 1
+90 98 1
+103 104 1
+103 105 1
+110 184 1
+110 183 1
+110 182 1
+108 133 1
+109 175 1
+109 173 1
+109 180 1
+109 176 1
+109 179 1
+109 169 1
+109 177 1
+109 170 1
+109 172 1
+109 178 1
+109 174 1
+109 171 1
+105 126 1
+105 125 1
+105 124 1
+115 208 1
+115 209 1
+114 203 1
+114 206 1
+114 204 1
+114 205 1
+113 115 1
+113 81 1
+113 114 1
+113 80 1
+113 116 1
+127 36 1
+127 131 1
+127 128 1
+127 37 1
+127 13 1
+127 63 1
+127 59 1
+127 31 1
+127 130 1
+127 129 1
+123 126 1
+123 125 1
+123 124 1
+137 294 1
+137 298 1
+137 299 1
+137 295 1
+137 293 1
+137 297 1
+137 296 1
+138 308 1
+138 309 1
+140 332 1
+140 333 1
+142 350 1
+142 352 1
+142 349 1
+142 351 1
+128 223 1
+128 220 1
+128 218 1
+128 222 1
+128 224 1
+128 219 1
+128 217 1
+128 225 1
+128 221 1
+131 266 1
+130 240 1
+130 242 1
+130 241 1
+132 133 1
+134 138 1
+134 135 1
+134 12 1
+134 136 1
+134 137 1
+134 15 1
+134 7 1
+134 69 1
+152 609 1
+152 610 1
+152 612 1
+152 611 1
+153 390 1
+153 396 1
+153 393 1
+153 394 1
+153 391 1
+153 392 1
+153 395 1
+153 389 1
+154 399 1
+154 402 1
+154 398 1
+154 401 1
+154 403 1
+154 400 1
+155 739 1
+155 733 1
+155 732 1
+155 743 1
+156 386 1
+156 384 1
+156 385 1
+156 387 1
+156 383 1
+157 415 1
+157 411 1
+157 409 1
+157 412 1
+157 413 1
+157 414 1
+157 408 1
+157 410 1
+158 428 1
+158 424 1
+158 427 1
+158 429 1
+158 423 1
+158 425 1
+158 426 1
+159 162 1
+159 161 1
+159 163 1
+159 160 1
+159 22 1
+159 164 1
+159 166 1
+159 165 1
+159 167 1
+144 355 1
+144 358 1
+144 356 1
+144 357 1
+144 359 1
+147 20 1
+147 149 1
+147 148 1
+148 361 1
+148 363 1
+148 368 1
+148 364 1
+148 362 1
+148 366 1
+148 367 1
+148 365 1
+149 374 1
+149 373 1
+149 371 1
+149 372 1
+149 370 1
+150 35 1
+151 156 1
+151 155 1
+151 32 1
+151 157 1
+151 18 1
+151 158 1
+151 24 1
+151 152 1
+151 65 1
+151 153 1
+151 41 1
+151 154 1
+170 478 1
+170 477 1
+170 480 1
+170 479 1
+168 175 1
+168 173 1
+168 180 1
+168 176 1
+168 179 1
+168 169 1
+168 177 1
+168 170 1
+168 172 1
+168 178 1
+168 174 1
+168 171 1
+163 457 1
+163 459 1
+163 453 1
+163 456 1
+163 455 1
+163 454 1
+163 458 1
+162 448 1
+162 445 1
+162 446 1
+162 451 1
+162 447 1
+162 449 1
+162 450 1
+160 433 1
+160 432 1
+160 434 1
+160 437 1
+160 436 1
+160 435 1
+160 431 1
+166 471 1
+166 470 1
+166 474 1
+166 472 1
+166 469 1
+166 473 1
+164 462 1
+164 466 1
+164 465 1
+164 463 1
+164 461 1
+164 464 1
+164 467 1
+187 190 1
+187 189 1
+187 188 1
+187 192 1
+187 27 1
+187 191 1
+185 186 1
+185 73 1
+190 505 1
+189 501 1
+189 500 1
+189 503 1
+189 499 1
+189 502 1
+181 184 1
+181 183 1
+181 182 1
+207 208 1
+207 209 1
+202 203 1
+202 206 1
+202 204 1
+202 205 1
+192 512 1
+192 509 1
+192 510 1
+192 511 1
+192 513 1
+192 508 1
+195 515 1
+195 516 1
+194 85 1
+194 200 1
+194 197 1
+194 201 1
+194 196 1
+194 198 1
+194 199 1
+194 195 1
+223 528 1
+223 530 1
+223 531 1
+223 532 1
+223 533 1
+223 529 1
+216 223 1
+216 220 1
+216 218 1
+216 222 1
+216 224 1
+216 219 1
+216 217 1
+216 225 1
+216 221 1
+209 308 1
+209 309 1
+239 240 1
+239 242 1
+239 241 1
+233 546 1
+233 548 1
+233 547 1
+232 542 1
+232 544 1
+232 543 1
+231 540 1
+226 229 1
+226 227 1
+226 11 1
+226 230 1
+226 228 1
+224 537 1
+224 536 1
+249 560 1
+249 559 1
+249 561 1
+243 247 1
+243 245 1
+243 248 1
+243 244 1
+243 8 1
+243 246 1
+240 550 1
+275 281 1
+275 283 1
+275 280 1
+275 68 1
+275 282 1
+275 278 1
+275 279 1
+275 276 1
+275 277 1
+256 566 1
+256 568 1
+256 567 1
+256 569 1
+266 573 1
+267 10 1
+267 268 1
+267 66 1
+267 273 1
+267 269 1
+267 270 1
+267 274 1
+267 272 1
+267 271 1
+265 266 1
+269 575 1
+269 576 1
+311 580 1
+311 583 1
+311 582 1
+311 581 1
+311 584 1
+310 311 1
+310 315 1
+310 70 1
+310 314 1
+310 312 1
+310 313 1
+312 587 1
+312 589 1
+312 588 1
+317 592 1
+317 593 1
+318 595 1
+318 596 1
+318 597 1
+292 294 1
+292 298 1
+292 299 1
+292 295 1
+292 293 1
+292 297 1
+292 296 1
+348 350 1
+348 352 1
+348 349 1
+348 351 1
+334 605 1
+334 604 1
+335 606 1
+331 332 1
+331 333 1
+375 78 1
+375 9 1
+375 25 1
+375 378 1
+375 376 1
+375 377 1
+369 374 1
+369 373 1
+369 371 1
+369 372 1
+369 370 1
+381 624 1
+381 623 1
+380 621 1
+380 619 1
+380 620 1
+382 609 1
+382 610 1
+382 612 1
+382 611 1
+376 615 1
+376 616 1
+376 614 1
+379 26 1
+379 380 1
+379 381 1
+354 355 1
+354 358 1
+354 356 1
+354 357 1
+354 359 1
+360 361 1
+360 363 1
+360 368 1
+360 364 1
+360 362 1
+360 366 1
+360 367 1
+360 365 1
+361 608 1
+406 386 1
+406 384 1
+406 385 1
+406 387 1
+406 383 1
+407 415 1
+407 411 1
+407 409 1
+407 412 1
+407 413 1
+407 414 1
+407 408 1
+407 410 1
+404 739 1
+404 733 1
+404 732 1
+404 743 1
+397 399 1
+397 402 1
+397 398 1
+397 401 1
+397 403 1
+397 400 1
+391 642 1
+391 641 1
+390 638 1
+390 639 1
+390 637 1
+389 634 1
+389 630 1
+389 631 1
+389 633 1
+389 632 1
+389 635 1
+388 390 1
+388 396 1
+388 393 1
+388 394 1
+388 391 1
+388 392 1
+388 395 1
+388 389 1
+440 681 1
+440 683 1
+440 682 1
+441 690 1
+441 686 1
+441 687 1
+441 688 1
+441 689 1
+441 691 1
+444 448 1
+444 445 1
+444 446 1
+444 451 1
+444 447 1
+444 449 1
+444 450 1
+432 660 1
+432 665 1
+432 663 1
+432 661 1
+432 666 1
+432 664 1
+432 662 1
+432 667 1
+434 670 1
+434 672 1
+434 669 1
+434 671 1
+435 677 1
+435 676 1
+435 674 1
+435 675 1
+438 679 1
+439 737 1
+431 654 1
+431 658 1
+431 655 1
+431 656 1
+431 657 1
+430 433 1
+430 432 1
+430 434 1
+430 437 1
+430 436 1
+430 435 1
+430 431 1
+422 428 1
+422 424 1
+422 427 1
+422 429 1
+422 423 1
+422 425 1
+422 426 1
+476 478 1
+476 477 1
+476 480 1
+476 479 1
+468 471 1
+468 470 1
+468 474 1
+468 472 1
+468 469 1
+468 473 1
+460 462 1
+460 466 1
+460 465 1
+460 463 1
+460 461 1
+460 464 1
+460 467 1
+452 457 1
+452 459 1
+452 453 1
+452 456 1
+452 455 1
+452 454 1
+452 458 1
+508 724 1
+508 726 1
+508 723 1
+508 722 1
+508 725 1
+509 728 1
+509 729 1
+509 730 1
+511 731 1
+504 505 1
+505 720 1
+505 719 1
+507 512 1
+507 509 1
+507 510 1
+507 511 1
+507 513 1
+507 508 1
+498 501 1
+498 500 1
+498 503 1
+498 499 1
+498 502 1
+499 710 1
+499 712 1
+499 714 1
+499 709 1
+499 707 1
+499 708 1
+499 715 1
+499 711 1
+499 713 1
+490 491 1
+490 2 1
+490 492 1
+490 494 1
+490 493 1
+490 495 1
+485 700 1
+484 486 1
+484 485 1
+484 488 1
+484 487 1
+484 71 1
+484 489 1
+486 704 1
+486 703 1
+549 550 1
+545 546 1
+545 548 1
+545 547 1
+558 560 1
+558 559 1
+558 561 1
+565 566 1
+565 568 1
+565 567 1
+565 569 1
+572 573 1
+514 515 1
+514 516 1
+527 528 1
+527 530 1
+527 531 1
+527 532 1
+527 533 1
+527 529 1
+534 537 1
+534 536 1
+541 542 1
+541 544 1
+541 543 1
+539 540 1
+613 615 1
+613 616 1
+613 614 1
+618 617 1
+617 621 1
+617 619 1
+617 620 1
+622 624 1
+622 623 1
+629 634 1
+629 630 1
+629 631 1
+629 633 1
+629 632 1
+629 635 1
+636 638 1
+636 639 1
+636 637 1
+579 580 1
+579 583 1
+579 582 1
+579 581 1
+579 584 1
+586 587 1
+586 589 1
+586 588 1
+591 592 1
+591 593 1
+594 595 1
+594 596 1
+594 597 1
+603 606 1
+602 605 1
+602 604 1
+607 608 1
+685 690 1
+685 691 1
+684 686 1
+684 687 1
+684 688 1
+684 689 1
+680 681 1
+680 683 1
+680 682 1
+678 679 1
+673 677 1
+673 676 1
+673 674 1
+673 675 1
+702 704 1
+702 703 1
+699 700 1
+653 654 1
+653 658 1
+653 655 1
+653 656 1
+653 657 1
+640 642 1
+640 641 1
+643 645 1
+643 644 1
+668 670 1
+668 672 1
+668 669 1
+668 671 1
+659 660 1
+659 665 1
+659 663 1
+659 661 1
+659 666 1
+659 664 1
+659 662 1
+659 667 1
+750 752 1
+750 751 1
+749 752 1
+749 751 1
+739 742 1
+739 741 1
+739 740 1
+738 742 1
+738 741 1
+738 740 1
+762 776 1
+762 771 1
+762 775 1
+762 777 1
+762 773 1
+762 774 1
+762 772 1
+766 781 1
+766 780 1
+766 779 1
+758 762 1
+758 761 1
+758 760 1
+759 765 1
+759 768 1
+759 766 1
+759 764 1
+759 767 1
+759 763 1
+757 765 1
+757 768 1
+757 762 1
+757 766 1
+757 764 1
+757 767 1
+757 761 1
+757 760 1
+757 763 1
+718 720 1
+718 719 1
+706 710 1
+706 712 1
+706 714 1
+706 709 1
+706 707 1
+706 708 1
+706 715 1
+706 711 1
+706 713 1
+721 724 1
+721 726 1
+721 723 1
+721 722 1
+721 725 1
+727 728 1
+727 729 1
+727 730 1
+784 788 1
+784 790 1
+784 791 1
+784 785 1
+784 789 1
+784 787 1
+784 786 1
+784 792 1
+770 776 1
+770 771 1
+770 775 1
+770 777 1
+770 773 1
+770 774 1
+770 772 1
+781 788 1
+781 790 1
+781 791 1
+781 785 1
+781 789 1
+781 787 1
+781 786 1
+781 792 1
+778 781 1
+778 780 1
+778 779 1
+*edges
+1 2 1
+4 3 1
+6 5 1
+8 7 1
+10 9 1
+11 12 1
+13 14 1
+16 15 1
+17 18 1
+20 19 1
+22 21 1
+23 24 1
+26 25 1
+496 27 1
+490 27 1
+29 30 1
+29 28 1
+58 31 1
+127 34 1
+35 375 1
+52 32 1
+134 33 1
+151 38 1
+39 147 1
+267 36 1
+226 37 1
+42 187 1
+43 46 1
+43 44 1
+40 159 1
+379 41 1
+47 46 1
+150 45 1
+50 51 1
+48 49 1
+55 57 1
+55 56 1
+643 54 1
+53 54 1
+243 59 1
+63 76 1
+63 75 1
+61 62 1
+64 60 1
+69 275 1
+70 71 1
+65 66 1
+67 68 1
+78 77 1
+113 79 1
+72 310 1
+484 73 1
+74 185 1
+84 85 1
+87 86 1
+81 82 1
+194 80 1
+83 82 1
+92 112 1
+94 117 1
+89 88 1
+91 103 1
+90 93 1
+102 122 1
+106 103 1
+107 103 1
+121 100 1
+119 98 1
+120 99 1
+118 96 1
+181 110 1
+111 193 1
+132 108 1
+168 109 1
+105 123 1
+116 214 1
+207 115 1
+202 114 1
+215 126 1
+292 137 1
+209 138 1
+331 140 1
+143 353 1
+142 348 1
+216 128 1
+265 131 1
+130 239 1
+152 382 1
+153 388 1
+397 154 1
+155 404 1
+406 156 1
+407 157 1
+422 158 1
+144 354 1
+148 360 1
+369 149 1
+476 170 1
+169 475 1
+452 163 1
+444 162 1
+430 160 1
+166 468 1
+460 164 1
+483 184 1
+504 190 1
+506 191 1
+188 497 1
+189 498 1
+481 182 1
+482 183 1
+205 524 1
+204 523 1
+200 521 1
+522 203 1
+197 518 1
+517 196 1
+520 199 1
+519 198 1
+192 507 1
+195 514 1
+223 527 1
+525 210 1
+526 211 1
+545 233 1
+541 232 1
+231 539 1
+227 538 1
+225 535 1
+534 224 1
+557 248 1
+249 558 1
+246 555 1
+556 247 1
+553 244 1
+245 554 1
+552 242 1
+240 549 1
+551 241 1
+284 578 1
+571 258 1
+256 565 1
+570 257 1
+266 572 1
+579 311 1
+586 312 1
+317 591 1
+590 316 1
+594 318 1
+334 602 1
+603 335 1
+601 332 1
+622 381 1
+617 380 1
+613 376 1
+361 607 1
+640 391 1
+636 390 1
+629 389 1
+440 680 1
+685 441 1
+684 441 1
+442 692 1
+443 693 1
+445 694 1
+447 695 1
+659 432 1
+668 434 1
+435 673 1
+438 678 1
+653 431 1
+477 697 1
+696 463 1
+721 508 1
+509 727 1
+718 505 1
+501 716 1
+717 502 1
+706 499 1
+705 488 1
+485 699 1
+486 702 1
+698 480 1
+736 655 1
+654 735 1
+646 734 1
+751 753 1
+749 750 1
+738 739 1
+762 770 1
+760 769 1
+778 766 1
+755 756 1
+754 752 1
+758 757 1
+759 757 1
+790 798 1
+789 797 1
+796 788 1
+795 787 1
+794 786 1
+793 785 1
+780 783 1
+781 784 1
+779 782 1

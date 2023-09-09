@@ -1,0 +1,264 @@
+*Network Ore graph Nunamiut1885.puc
+
+*vertices 98
+1 'H 3 (3)' triangle
+2 'H 5 (4)' triangle
+3 'H 7 (5)' triangle
+4 'H 7 (6)' triangle
+5 'H 1 (7)' triangle
+6 'H 4 (8)' triangle
+7 'H 5 (9)' triangle
+8 'H 0 (12)' triangle
+9 'H 0 (14)' triangle
+10 'H 0 (15)' triangle
+11 'H 0 (16)' triangle
+12 'H 0 (17)' triangle
+13 'H 0 (18)' triangle
+14 'H 0 (19)' triangle
+15 'H 0 (20)' triangle
+16 'H 0 (21)' triangle
+17 'H 0 (22)' triangle
+18 'H 0 (23)' triangle
+19 'H 0 (24)' triangle
+20 'H 0 (25)' triangle
+21 'H 0 (26)' triangle
+22 'H 0 (27)' triangle
+23 'H 0 (28)' triangle
+24 'H 0 (29)' triangle
+25 'H 0 (30)' triangle
+26 'H 0 (31)' triangle
+27 'H 0 (32)' triangle
+28 'H 0 (33)' triangle
+29 'H 0 (34)' triangle
+30 'H 0 (35)' triangle
+31 'H 0 (36)' triangle
+32 'H 0 (37)' triangle
+33 'H 0 (38)' triangle
+34 'H 0 (39)' triangle
+35 'H 0 (40)' triangle
+36 'H 0 (41)' triangle
+37 'H 0 (42)' triangle
+38 'H 0 (43)' triangle
+39 'H 0 (44)' triangle
+40 'H 0 (45)' triangle
+41 'F 4 (52)' ellipse
+42 'F 1 (53)' ellipse
+43 'F 6 (54)' ellipse
+44 'F 2 (55)' ellipse
+45 'F 8 (56)' ellipse
+46 'F 9 (57)' ellipse
+47 'F 10 (58)' ellipse
+48 'F 6 (59)' ellipse
+49 'F 3 (62)' ellipse
+50 'F 0 (63)' ellipse
+51 'F 0 (64)' ellipse
+52 'F 0 (65)' ellipse
+53 'F 0 (66)' ellipse
+54 'F 0 (67)' ellipse
+55 'F 0 (68)' ellipse
+56 'F 0 (69)' ellipse
+57 'F 0 (70)' ellipse
+58 'F 0 (71)' ellipse
+59 'F 0 (72)' ellipse
+60 'F 0 (73)' ellipse
+61 'F 0 (74)' ellipse
+62 'F 0 (75)' ellipse
+63 'F 0 (76)' ellipse
+64 'F 0 (77)' ellipse
+65 'F 0 (78)' ellipse
+66 'F 0 (79)' ellipse
+67 'F 0 (80)' ellipse
+68 'F 0 (81)' ellipse
+69 'F 0 (82)' ellipse
+70 'F 0 (83)' ellipse
+71 'F 0 (84)' ellipse
+72 'F 0 (85)' ellipse
+73 'F 0 (86)' ellipse
+74 'F 0 (87)' ellipse
+75 'F 0 (88)' ellipse
+76 'F 0 (89)' ellipse
+77 'X 8 (91)' diamond
+78 'X 9 (92)' diamond
+79 'X 10 (93)' diamond
+80 'X 0 (94)' diamond
+81 'X 0 (95)' diamond
+82 'X 0 (96)' diamond
+83 'X 0 (97)' diamond
+84 'X 0 (98)' diamond
+85 'H 0 (101)' triangle
+86 'H 0 (102)' triangle
+87 'F 0 (103)' ellipse
+88 'H 0 (104)' triangle
+89 'H 0 (105)' triangle
+90 'F 0 (106)' ellipse
+91 'H 0 (107)' triangle
+92 'F 0 (108)' ellipse
+93 'H 0 (109)' triangle
+94 'F 0 (110)' ellipse
+95 'H 0 (111)' triangle
+96 'F 0 (112)' ellipse
+97 'H 0 (113)' triangle
+98 'F 0 (114)' ellipse
+*arcs
+3 77 1
+3 79 1
+3 78 1
+4 45 1
+4 47 1
+4 46 1
+8 48 1
+8 5 1
+8 7 1
+8 6 1
+9 8 1
+9 81 1
+9 80 1
+9 82 1
+9 83 1
+10 84 1
+17 11 1
+19 12 1
+21 13 1
+22 14 1
+22 15 1
+27 55 1
+27 18 1
+27 54 1
+26 53 1
+29 62 1
+28 23 1
+28 22 1
+30 88 1
+30 66 1
+30 65 1
+30 25 1
+35 31 1
+38 71 1
+38 32 1
+38 70 1
+39 73 1
+39 34 1
+39 72 1
+39 33 1
+43 77 1
+43 79 1
+43 78 1
+40 36 1
+40 37 1
+44 2 1
+44 43 1
+44 42 1
+44 1 1
+51 8 1
+50 81 1
+50 80 1
+50 82 1
+50 83 1
+49 48 1
+49 5 1
+49 7 1
+49 6 1
+48 45 1
+48 47 1
+48 46 1
+53 11 1
+52 84 1
+59 14 1
+57 13 1
+56 12 1
+60 15 1
+68 62 1
+69 88 1
+69 66 1
+69 65 1
+69 25 1
+64 16 1
+65 53 1
+66 55 1
+66 18 1
+66 54 1
+67 23 1
+67 22 1
+76 36 1
+76 37 1
+73 31 1
+74 71 1
+74 32 1
+74 70 1
+75 73 1
+75 34 1
+75 72 1
+75 33 1
+85 2 1
+85 43 1
+85 42 1
+85 1 1
+87 9 1
+87 10 1
+86 9 1
+86 10 1
+93 30 1
+93 28 1
+93 29 1
+92 63 1
+92 24 1
+95 27 1
+95 17 1
+94 30 1
+94 28 1
+94 29 1
+89 59 1
+89 21 1
+89 20 1
+89 19 1
+89 58 1
+88 16 1
+91 63 1
+91 24 1
+90 59 1
+90 21 1
+90 20 1
+90 19 1
+90 58 1
+98 40 1
+98 38 1
+98 39 1
+96 27 1
+96 17 1
+97 40 1
+97 38 1
+97 39 1
+*edges
+1 41 1
+3 43 1
+4 48 1
+8 49 1
+9 50 1
+9 51 1
+10 52 1
+17 53 1
+19 56 1
+21 57 1
+23 61 1
+22 59 1
+22 60 1
+25 63 1
+24 62 1
+27 66 1
+26 65 1
+29 68 1
+28 67 1
+30 69 1
+30 68 1
+35 73 1
+38 74 1
+39 75 1
+40 76 1
+85 44 1
+88 64 1
+86 87 1
+93 94 1
+95 96 1
+89 90 1
+91 92 1
+97 98 1

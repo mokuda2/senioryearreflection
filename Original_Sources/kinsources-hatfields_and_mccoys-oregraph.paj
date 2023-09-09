@@ -1,0 +1,82 @@
+*Network Ore graph p-mcc.puc
+
+*vertices 29
+1 'William McCoy (1)' triangle
+2 'Valentine Hatfield (2)' triangle
+3 'Martha Washington (3)' ellipse
+4 'Samuel McCoy (4)' triangle
+5 'Elizabeth (5)' ellipse
+6 'John McCoy (6)' triangle
+7 'Margret Jackson (7)' ellipse
+8 'Daniel McCoy (8)' triangle
+9 'Peggy Taylor (9)' ellipse
+10 'John Hatfield (10)' triangle
+11 'Isabella Vance (11)' ellipse
+12 '"Big Eph" Ephra (12)' triangle
+13 'Nancy Vance (13)' ellipse
+14 '"Old Ranel" Ranel (14)' triangle
+15 'Sarah McCoy (15)' ellipse
+16 'William Staton (16)' triangle
+17 'Nancy Staton (17)' ellipse
+18 'Asa Harmon McCoy (18)' triangle
+19 'Martha Cline (19)' ellipse
+20 'Ellison Hatfield (20)' triangle
+21 'Sarah Hatfield (21)' ellipse
+22 'Harriet Mounts (22)' ellipse
+23 'Floyd Hatfield (23)' triangle
+24 'Esther Staton (24)' ellipse
+25 '"Devil" Anse Hatfield (25)' triangle
+26 'Levicy Chaffin (26)' ellipse
+27 '"Johnse" Johnson (27)' triangle
+28 'Nancy McCoy (28)' ellipse
+29 'Roseanna McCoy (29)' ellipse
+*arcs
+1 8 1
+1 6 1
+1 4 1
+2 12 1
+2 10 1
+3 12 1
+3 10 1
+4 15 1
+5 15 1
+6 17 1
+7 17 1
+8 18 1
+8 14 1
+9 18 1
+9 14 1
+10 23 1
+10 22 1
+11 23 1
+11 22 1
+12 25 1
+12 20 1
+13 25 1
+13 20 1
+14 29 1
+15 29 1
+17 21 1
+17 24 1
+16 21 1
+16 24 1
+19 28 1
+18 28 1
+25 27 1
+26 27 1
+*edges
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 22 1
+20 21 1
+23 24 1
+25 26 1
+27 28 1
+27 29 1

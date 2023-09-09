@@ -1,0 +1,214 @@
+*Network Ore graph Miwuyt1967.puc
+
+*vertices 90
+1 'H 1 (1)' triangle
+2 'H 2 (2)' triangle
+3 'H 3 (3)' triangle
+4 'H 4 (4)' triangle
+5 'H 5 (5)' triangle
+6 'H 6 (6)' triangle
+7 'H 7 (7)' triangle
+8 'H 8 (8)' triangle
+9 'H 9 (9)' triangle
+10 'H 10 (10)' triangle
+11 'H 11 (11)' triangle
+12 'H 12 (12)' triangle
+13 'H 13 (13)' triangle
+14 'H 14 (14)' triangle
+15 'H 15 (15)' triangle
+16 'H 16 (16)' triangle
+17 'H 17 (17)' triangle
+18 'H 18 (18)' triangle
+19 'H 19 (19)' triangle
+20 'H 20 (20)' triangle
+21 'H 21 (21)' triangle
+22 'H 22 (22)' triangle
+23 'H 23 (23)' triangle
+24 'H 24 (24)' triangle
+25 'H 25 (25)' triangle
+26 'H 26 (26)' triangle
+27 'H 27 (27)' triangle
+28 'H 28 (28)' triangle
+29 'H 29 (29)' triangle
+30 'H 30 (30)' triangle
+31 'H 31 (31)' triangle
+32 'H 32 (32)' triangle
+33 'H 33 (33)' triangle
+34 'H 34 (34)' triangle
+35 'F 41 (41)' ellipse
+36 'F 42 (42)' ellipse
+37 'F 43 (43)' ellipse
+38 'F 44 (44)' ellipse
+39 'F 45 (45)' ellipse
+40 'F 46 (46)' ellipse
+41 'F 47 (47)' ellipse
+42 'F 48 (48)' ellipse
+43 'F 49 (49)' ellipse
+44 'F 50 (50)' ellipse
+45 'F 51 (51)' ellipse
+46 'F 52 (52)' ellipse
+47 'F 53 (53)' ellipse
+48 'F 54 (54)' ellipse
+49 'F 55 (55)' ellipse
+50 'F 56 (56)' ellipse
+51 'F 57 (57)' ellipse
+52 'F 58 (58)' ellipse
+53 'F 59 (59)' ellipse
+54 'F 60 (60)' ellipse
+55 'F 61 (61)' ellipse
+56 'F 62 (62)' ellipse
+57 'F 63 (63)' ellipse
+58 'F 64 (64)' ellipse
+59 'F 65 (65)' ellipse
+60 'F 66 (66)' ellipse
+61 'F 67 (67)' ellipse
+62 'F 68 (68)' ellipse
+63 'F 69 (69)' ellipse
+64 'F 70 (70)' ellipse
+65 'F 71 (71)' ellipse
+66 'F 72 (72)' ellipse
+67 'F 73 (73)' ellipse
+68 'F 74 (74)' ellipse
+69 'H 81 (81)' triangle
+70 'F 82 (82)' ellipse
+71 'H 83 (83)' triangle
+72 'F 84 (84)' ellipse
+73 'H 85 (85)' triangle
+74 'F 86 (86)' ellipse
+75 'H 87 (87)' triangle
+76 'H 88 (88)' triangle
+77 'F 89 (89)' ellipse
+78 'H 90 (90)' triangle
+79 'F 91 (91)' ellipse
+80 'H 92 (92)' triangle
+81 'H 93 (93)' triangle
+82 'H 94 (94)' triangle
+83 'F 95 (95)' ellipse
+84 'H 96 (96)' triangle
+85 'F 97 (97)' ellipse
+86 'H 98 (98)' triangle
+87 'F 99 (99)' ellipse
+88 'H 100 (100)' triangle
+89 'H 101 (101)' triangle
+90 'F 102 (102)' ellipse
+*arcs
+5 1 1
+8 37 1
+8 2 1
+8 35 1
+8 3 1
+8 36 1
+22 15 1
+22 48 1
+24 23 1
+33 28 1
+33 57 1
+33 27 1
+33 29 1
+33 25 1
+33 26 1
+36 1 1
+42 37 1
+42 36 1
+41 2 1
+41 35 1
+41 3 1
+53 23 1
+52 15 1
+52 48 1
+56 53 1
+62 28 1
+62 57 1
+62 29 1
+61 27 1
+61 25 1
+61 26 1
+68 34 1
+68 65 1
+69 39 1
+69 5 1
+70 39 1
+70 5 1
+71 42 1
+71 41 1
+67 58 1
+76 13 1
+76 12 1
+77 13 1
+77 12 1
+78 74 1
+78 73 1
+79 74 1
+79 73 1
+72 42 1
+72 41 1
+74 44 1
+74 10 1
+74 9 1
+75 44 1
+75 10 1
+75 9 1
+85 60 1
+85 33 1
+84 60 1
+84 33 1
+87 61 1
+87 62 1
+86 61 1
+86 62 1
+81 58 1
+80 53 1
+83 30 1
+83 31 1
+82 30 1
+82 31 1
+89 66 1
+89 67 1
+88 34 1
+88 65 1
+90 66 1
+90 67 1
+*edges
+4 35 1
+5 37 1
+5 38 1
+5 36 1
+6 39 1
+7 40 1
+8 42 1
+8 41 1
+9 43 1
+11 44 1
+12 45 1
+14 46 1
+15 47 1
+17 49 1
+16 48 1
+19 51 1
+18 50 1
+22 52 1
+24 55 1
+24 53 1
+24 54 1
+31 59 1
+30 58 1
+34 66 1
+32 60 1
+33 61 1
+33 64 1
+33 62 1
+33 63 1
+33 65 1
+73 49 1
+80 56 1
+88 68 1
+69 70 1
+71 72 1
+81 67 1
+76 77 1
+78 79 1
+75 74 1
+84 85 1
+86 87 1
+82 83 1
+89 90 1

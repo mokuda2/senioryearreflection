@@ -1,0 +1,6497 @@
+*Network Ore graph US-Presidents.puc
+
+*vertices 2477
+1 'HENRY SQUIRE bc.1563 Carlton Mackroll, (1)' triangle
+2 'EDITH SQUIRE (2)' ellipse
+3 'HENRY ADAMS <Braintree, Mass. (3)' triangle
+4 'ANN SQUIRE <Boston, Mass. (4)' ellipse
+5 'AQUILA PURCHASE (5)' triangle
+6 'MARGARET SQUIRE (6)' ellipse
+7 'JOHN SHEPARD <Braintree, Mass. (7)' triangle
+8 'ABIGAIL BAXTER (8)' ellipse
+9 'JOSEPH ADAMS (9)' triangle
+10 'REBECCA GRAVES* (10)' ellipse
+11 'SAMUEL ADAMS (11)' triangle
+12 'ABIGAIL PURCHASE (12)' ellipse
+13 'SAMPSON SHORE (13)' triangle
+14 'HANNAH SHEPARD (14)' ellipse
+15 'THOMAS HOLBROOK (15)' triangle
+16 'HANNAH BASS* (16)' ellipse
+17 'JOSEPH ADAMS JR. (17)' triangle
+18 'SUSANNA ADAMS (18)' ellipse
+19 'DANIEL WALDO* (19)' triangle
+20 'PRISCILLA HATHORNE (20)' ellipse
+21 'JONATHON SHORE (21)' triangle
+22 'SILENCE WOOD (22)' ellipse
+23 'JOHN HOLBROOK    could be # 31, #303, # (23)' triangle
+24 'SUSANNA BOYLSTON* (24)' ellipse
+25 'JOHN ADAMS (25)' triangle
+26 'BETHIA WALDO (26)' ellipse
+27 'EDMUND LITTLEFIELD JR.* (27)' triangle
+28 'PHOEBE SHORE (28)' ellipse
+29 'NEHEMIAH MILLARD* (29)' triangle
+30 'RUTH HILL (30)' ellipse
+31 'JOHN HOLBROOK JR.         could be # 23 (31)' triangle
+32 'ABIGAIL SMITH*            NOT # 558 (32)' ellipse
+33 '=JOHN ADAMS JR. (33)' triangle
+34 'ESTHER LITTLEFIELD (34)' ellipse
+35 'SAMUEL SOPER* (35)' triangle
+36 'HANNAH EDDY (36)' ellipse
+37 'ROBERT MILLARD      same name as 1723 d (37)' triangle
+38 'SILENCE HOLBROOK (38)' ellipse
+39 'SAMUEL GOODALE (39)' triangle
+40 'ESTHER SOPER (40)' ellipse
+41 'SILAS BRIGGS (41)' triangle
+42 'TABITHA HOPKINS (42)' ellipse
+43 'ABIATHAR MILLARD (43)' triangle
+44 'SARAH GOODALE (44)' ellipse
+45 'ASA WATERS (45)' triangle
+46 'LOUISA CATHERINE JOHNSON (46)' ellipse
+47 '=JOHN QUINCY ADAMS (47)' triangle
+48 'ELIZABETH PAUL* (48)' ellipse
+49 'ASA BRIGGS (49)' triangle
+50 'PHOEBE MILLARD (50)' ellipse
+51 'NATHANIEL FILLMORE JR.* (51)' triangle
+52 'SUSAN TRASK HOLMAN* (52)' ellipse
+53 'ASA WATERS JR. (53)' triangle
+54 'SALLY BRIGGS (54)' ellipse
+55 'ISRAEL PUTNAM BROWN* (55)' triangle
+56 'ABIGAIL POWERS (56)' ellipse
+57 '=MILLARD FILLMORE (57)' triangle
+58 'MRS. CAROLINE CARMICHAEL MCINTOSH (58)' ellipse
+59 'SAMUEL DAVENPORT TORREY* (59)' triangle
+60 'SUSAN HOLMAN WATERS (60)' ellipse
+61 'ISRAEL C. BREWER (61)' triangle
+62 'SALLY BROWN (62)' ellipse
+63 'CALVIN GALUSHA COOLIDGE* (63)' triangle
+64 'SARAH ALMEDA BREWER (64)' ellipse
+65 'JOHN CALVIN COOLIDGE (65)' triangle
+66 'VICTORIA JOSEPHINE MOOR* (66)' ellipse
+67 '=(JOHN) CALVIN COOLIDGE (JR.) (67)' triangle
+68 'GRACE ANN GOODHUE* (68)' ellipse
+69 'ALPHONSO TAFT* (69)' triangle
+70 'LOUISA MARIE TORREY (70)' ellipse
+71 '=WILLIAM HOWARD TAFT (71)' triangle
+72 'HELEN HERRON (72)' ellipse
+73 'HENRY SPENCER <Bodby, Northants d.1477/ (73)' triangle
+74 'ISABELLA LINCOLN (74)' ellipse
+75 'THOMAS SPENCER (75)' triangle
+76 'MARGARET SMITH (76)' ellipse
+77 'WILLIAM SPENCER (77)' triangle
+78 'ELIZABETH EMPSON (78)' ellipse
+79 'SIR JOHN SPENCER (79)' triangle
+80 'ANNE EMPSON, ? of Sister of Sir Richard (80)' ellipse
+81 'WILLIAM SPENCER (81)' triangle
+82 'AGNES HERITAGE (82)' ellipse
+83 'SIR JOHN SPENCER (83)' triangle
+84 'ISABEL GRAUNT (84)' ellipse
+85 'WILLIAM WILMER (85)' triangle
+86 'JULIAN SPENCER (86)' ellipse
+87 'HENRY THORNTON (87)' triangle
+88 'ANNE WILMER (88)' ellipse
+89 'WILLIAM DICKENS (89)' triangle
+90 'ANNE THORNTON (90)' ellipse
+91 'JOHN TWIGDEN (91)' triangle
+92 'ANNE DICKENS (92)' ellipse
+93 'LAWRENCE WASHINGTON (93)' triangle
+94 'AMPHYLLIS TWIGDEN (94)' ellipse
+95 'JOHN WASHINGTON (95)' triangle
+96 'ANNE POPE (96)' ellipse
+97 'LAWRENCE WASHINGTON (97)' triangle
+98 'MILDRED WARNER (98)' ellipse
+99 'AUGUSTINE WASHINGTON (99)' triangle
+100 'MARY BALL                       could b (100)' ellipse
+101 '=GEORGE WASHINGTON (101)' triangle
+102 'MRS. MARTHA DANDRIDGE CUSTIS (102)' ellipse
+103 'SIR WILLIAM SPENCER (103)' triangle
+104 'SUSAN KNIGHTLEY (104)' ellipse
+105 'THOMAS SPENCER* (105)' triangle
+106 'DOROTHY SPENCER (106)' ellipse
+107 'JOHN TEMPLE (107)' triangle
+108 'SUSAN SPENCER (108)' ellipse
+109 'SIR THOMAS TEMPLE (109)' triangle
+110 'HESTER SANDYS (110)' ellipse
+111 'SIR JOHN TEMPLE (111)' triangle
+112 'DOROTHY LEE (112)' ellipse
+113 'ROBERT NELSON (113)' triangle
+114 'MARY TEMPLE (114)' ellipse
+115 'JOHN NELSON (115)' triangle
+116 'ELIZABETH TAILOR (116)' ellipse
+117 'HENRY LLOYD (117)' triangle
+118 'REBECCA NELSON (118)' ellipse
+119 'WILLIAM HENRY SMITH* (119)' triangle
+120 'MARGARET LLOYD (120)' ellipse
+121 'JOHN ASPINWALL (121)' triangle
+122 'REBECCA SMITH            NOT # 296 (122)' ellipse
+123 'JOHN ASPINWALL JR. (123)' triangle
+124 'SUSAN HOWLAND* (124)' ellipse
+125 'ISAAC ROOSEVELT*       not #1399 (125)' triangle
+126 'MARY REBECCA ASPINWALL (126)' ellipse
+127 'JAMES ROOSEVELT        not #1401 (127)' triangle
+128 'SARA DELANO* (128)' ellipse
+129 '=FRANKLIN DELANO ROOSEVELT (129)' triangle
+130 '(ANNA) ELEANOR ROOSEVELT (130)' ellipse
+131 'SIR WILLIAM COPE (131)' triangle
+132 'JANE SPENCER (132)' ellipse
+133 'SIR JOHN COPE (133)' triangle
+134 'BRIDGET RALEIGH (134)' ellipse
+135 'JOHN DRYDEN (135)' triangle
+136 'ELIZABETH COPE (136)' ellipse
+137 'FRANCIS MARBURY (137)' triangle
+138 'BRIDGET DRYDEN (138)' ellipse
+139 'WILLIAM HUTCHINSON (139)' triangle
+140 'ANNE MARBURY founder of <R.I.> Royal De (140)' ellipse
+141 'EDWARD HUTCHINSON            not the sa (141)' triangle
+142 'CATHERINE HAMBY Royal descent (142)' ellipse
+143 'ELISHA HUTCHINSON 1641-1717 <Boston, Ma (143)' triangle
+144 'HANNAH HAWKINS (144)' ellipse
+145 'EDWARD HUTCHINSON            not the sa (145)' triangle
+146 'ELIZABETH CLARKE (146)' ellipse
+147 'JOHN RUCK (147)' triangle
+148 'LYDIA FOSTER (148)' ellipse
+149 'NATHANIEL ROBBINS* (149)' triangle
+150 'HANNAH HUTCHINSON (150)' ellipse
+151 'THEOPHILUS LILLIE (151)' triangle
+152 'ELIZABETH HUTCHINSON       could be sam (152)' ellipse
+153 'EDWARD HUTCHINSON ROBBINS (153)' triangle
+154 'HANNAH RUCK (154)' ellipse
+155 'JOHN LILLIE (155)' triangle
+156 'ABIGAIL BRECK* (156)' ellipse
+157 'JOSEPH LYMAN (III)* (157)' triangle
+158 'ELIZABETH MURRAY (158)' ellipse
+159 'SAMUEL HOWARD (159)' triangle
+160 'ANNE JEAN ROBBINS (160)' ellipse
+161 'WARREN DELANO JR.* (161)' triangle
+162 'ANNA LILLIE (162)' ellipse
+163 'SAMUEL PRESCOTT PHILLIPS FAY* (163)' triangle
+164 'CATHERINE ROBBINS LYMAN (164)' ellipse
+165 'SAMUEL HOWARD FAY (165)' triangle
+166 'HARRIET HOWARD (166)' ellipse
+167 'JAMES SMITH BUSH* (167)' triangle
+168 'SUSAN SHELLMAN (168)' ellipse
+169 'SAMUEL PRESCOTT BUSH (169)' triangle
+170 'HARRIET ELEANOR FAY (170)' ellipse
+171 'PRESCOTT SHELDON BUSH (171)' triangle
+172 'FLORA SHELDON* (172)' ellipse
+173 '=GEORGE HERBERT WALKER BUSH (173)' triangle
+174 'DOROTHY WALKER* (174)' ellipse
+175 'SIR ANTHONY COPE (175)' triangle
+176 'BARBARA PIERCE (176)' ellipse
+177 'EDWARD COPE (177)' triangle
+178 'JOHN CREWS (178)' ellipse
+179 'JOHN D*OYLY (179)' triangle
+180 'ELIZABETH MOHUN (180)' ellipse
+181 'EDWARD GODDARD (181)' triangle
+182 'URSULA COPE (182)' ellipse
+183 'WILLIAM GODDARD (183)' triangle
+184 'PRISCILLA D*OYLY (184)' ellipse
+185 'JOSIAH GODDARD (185)' triangle
+186 'ELIZABETH MILES (186)' ellipse
+187 'OBADIAH COOLIDGE JR.* (187)' triangle
+188 'RACHEL DAVIS (188)' ellipse
+189 'JOSIAH COOLIDGE (189)' triangle
+190 'RACHEL GODDARD (190)' ellipse
+191 'JOHN COOLIDGE (191)' triangle
+192 'MARY JONES (192)' ellipse
+193 'CALVIN COOLIDGE (193)' triangle
+194 'HANNAH PRIEST* (194)' ellipse
+195 'ROBERT WHITE d.1617 <Messing Essex, Eng (195)' triangle
+196 'SARAH THOMPSON* (196)' ellipse
+197 'JOSEPH LOOMIS (197)' triangle
+198 'BRIDGET ALLGAR (198)' ellipse
+199 'NICHOLAS OLMSTEAD (199)' triangle
+200 'MARY WHITE 1590-1652 <Windsor, Conn. (200)' ellipse
+201 'SAMUEL BUTLER (201)' triangle
+202 'SARAH LOOMIS (202)' ellipse
+203 'EBENEZER HOPKINS (203)' triangle
+204 'ELIZABETH OLMSTEAD (204)' ellipse
+205 'EBENEZER HOPKINS JR. (205)' triangle
+206 'MARY BUTLER (206)' ellipse
+207 'ROBERT PORTEUS JR. (207)' triangle
+208 'SUSANNAH MESSENGER* (208)' ellipse
+209 'ADAM BROWN    * (209)' triangle
+210 'ESTHER PARKMAN* (210)' ellipse
+211 'JACOB BROWN   * (211)' triangle
+212 'SARAH BURNHAM * (212)' ellipse
+213 'SAMUEL GRANT (213)' triangle
+214 'WILLIAM WARDELL* d.1670 <Boston, Mass (214)' triangle
+215 'SAMUEL GRANT JR. (215)' triangle
+216 'JOHN PORTER (217)' triangle
+217 'ANNA WHITE 1600-1647 <Windsor, Conn (218)' ellipse
+218 'NOAH GRANT (219)' triangle
+219 'MARY PORTER (220)' ellipse
+220 'NOAH GRANT JR. (221)' triangle
+221 'GRACE MINER (222)' ellipse
+222 'NOAH GRANT (III) (223)' triangle
+223 'MARTHA HUNTINGTON* (224)' ellipse
+224 'JESSE ROOT GRANT (225)' triangle
+225 'SUSANNA DELANO* (226)' ellipse
+226 '=ULYSSES SIMPSON GRANT (227)' triangle
+227 'RACHEL KELLEY (228)' ellipse
+228 '=STEPHEN GROVER CLEVELAND (229)' triangle
+229 'HANNAH SIMPSON (230)' ellipse
+230 'SAMUEL PORTER (231)' triangle
+231 'JULIA BOGGS DENT (232)' ellipse
+232 'SAMUEL PORTER JR. (233)' triangle
+233 'FRANCES FOLSOM* (234)' ellipse
+234 'AARON PORTER (235)' triangle
+235 'HANNAH STANLEY* (236)' ellipse
+236 'AARON CLEVELAND (III)* (237)' triangle
+237 'JOANNA COOKE* (238)' ellipse
+238 'AARON CLEVELAND (IV) (239)' triangle
+239 'SUSANNA SEWALL* (240)' ellipse
+240 'WILLIAM CLEVELAND (241)' triangle
+241 'SUSANNA PORTER (242)' ellipse
+242 'RICHARD FALLEY CLEVELAND (243)' triangle
+243 'ABIAH HYDE* (244)' ellipse
+244 'JOSEPH JUDSON (245)' triangle
+245 'MARGARET FALLEY* (246)' ellipse
+246 'SAMUEL WELLES (247)' triangle
+247 'ANNE NEAL (248)' ellipse
+248 'WELLS ELY (249)' triangle
+249 'SARAH PORTER (250)' ellipse
+250 'THEODORE GRIDLEY* (251)' triangle
+251 'RUTH JUDSON (252)' ellipse
+252 'GEORGE SELDON BUTLER* (253)' triangle
+253 'RUTH WELLES (254)' ellipse
+254 'DANIEL ELY (255)' triangle
+255 'REBECCA SELDEN (256)' ellipse
+256 'GEORGE MANNEY AYER* (257)' triangle
+257 'AMY ELY (258)' ellipse
+258 'LEVI ADDISON GARDNER (259)' triangle
+259 'ELIZABETH ELY GRIDLEY (260)' ellipse
+260 'LESLIE LYNCH KING (261)' triangle
+261 'AMY GRIDLEY BUTLER (262)' ellipse
+262 'GERALD RUDOLF FORD (263)' triangle
+263 'ADELE AUGUSTA AYER (264)' ellipse
+264 '=LESLIE LYNCH KING JR/ GERALD RUDOLPH FO (265)' triangle
+265 'DOROTHY AYER GARDNER (266)' ellipse
+266 'ROBERT F00TE Stafford, <Sussex d.1606/9 (267)' triangle
+267 'MRS. ELIZABETH ANN (BETTY) BLOOMER WARR (268)' ellipse
+268 'NATHANIEL FOOTE b.1592 <Wetherford, Con (269)' triangle
+269 'JOAN BROOKE (270)' ellipse
+270 'JOHN HEWES (271)' triangle
+271 'ELIZABETH (DEMINO?) (272)' ellipse
+272 'RALPH HEMINGWAY d.1678 <Roxbury, Mass. (273)' triangle
+273 'MARY FOOTE (274)' ellipse
+274 'JOSIAH CHURCHILL (275)' triangle
+275 'ELIZABETH HEWES (276)' ellipse
+276 'HENRY BUCK (277)' triangle
+277 'ELIZABETH FOOTE (278)' ellipse
+278 'BENJAMIN SMITH* (279)' triangle
+279 'ELIZABETH CHURCHILL (280)' ellipse
+280 'JOHN SMITH (III)* (281)' triangle
+281 'RUTH BUCK (282)' ellipse
+282 'ISRAEL SMITH (283)' triangle
+283 'ELIZABETH SMITH        could be # 888 o (284)' ellipse
+284 'RUTHERFORD HAYES* (285)' triangle
+285 'ABIGAIL CHANDLER* (286)' ellipse
+286 'RUTHERFORD HAYES JR. (287)' triangle
+287 'CHLOE SMITH (288)' ellipse
+288 '=RUTHERFORD BIRCHARD HAYES (289)' triangle
+289 'SOPHIA BIRCHARD* (290)' ellipse
+290 'PHILIP SMITH* (291)' triangle
+291 'LUCY WARE WEBB (292)' ellipse
+292 'GEORGE STILLMAN (293)' triangle
+293 'REBECCA FOOTE (294)' ellipse
+294 'HEZEKIAH MAY* (295)' triangle
+295 'REBECCA SMITH (296)' ellipse
+296 'DANIEL NEWCOMB (297)' triangle
+297 'ANNA STILLMAN (298)' ellipse
+298 'TIMOTHY BUSH JR.* (299)' triangle
+299 'ELIZABETH MAY (300)' ellipse
+300 'OBEDIAH NEWCOMB BUSH (301)' triangle
+301 'LYDIA NEWCOMB (302)' ellipse
+302 'JOHN HOLBROOK        could be # 23, # 3 (303)' triangle
+303 'HARRIET SMITH* (304)' ellipse
+304 'DANIEL HOLBROOK (305)' triangle
+305 'ELIZABETH HEMINGWAY (306)' ellipse
+306 'SAMUEL DAVENPORT* (307)' triangle
+307 'REBECCA HOLBROOK (308)' ellipse
+308 'SETH DAVENPORT (309)' triangle
+309 'CHLOE DANIEL* (310)' ellipse
+310 'WILLIAM TORREY* (311)' triangle
+311 'ANNA DAVENPORT (312)' ellipse
+312 'JOSHUA HEMINGWAY (313)' triangle
+313 'JOANNA EVANS (314)' ellipse
+314 'JOSHUA HEMINGWAY JR. (315)' triangle
+315 'REBECCA STANHOPE (316)' ellipse
+316 'JOSHUA HEMINGWAY (III) (317)' triangle
+317 'ABIGAIL MORSE* (318)' ellipse
+318 'ISAAC HEMINGWAY (319)' triangle
+319 'ELIZABETH HAVEN (320)' ellipse
+320 'JAMES HEMINGWAY (321)' triangle
+321 'ELIZABETH ARMSTRONG (322)' ellipse
+322 'JAMES HEMINGWAY JR. (323)' triangle
+323 'HOPE MALMSBURY (324)' ellipse
+324 'OLIVER BURDG* (325)' triangle
+325 'JANE M HEMINGWAY (326)' ellipse
+326 'FRANKLIN MILHOUS* (327)' triangle
+327 'ALMIRA PARK BURDG (328)' ellipse
+328 'FRANCIS ANTHONY NIXON* (329)' triangle
+329 'HANNAH MILHOUS (330)' ellipse
+330 '=RICHARD MILHOUS NIXON (331)' triangle
+331 'THELMA CATHERINE (PAT) RYAN (332)' ellipse
+332 'JOHN WHEELER 1591-1668/70 <Newbury, Mas (333)' triangle
+333 'AGNES YEOMANS (334)' ellipse
+334 'HENRY WHEELER (335)' triangle
+335 'ABIGAIL ALLEN             + 2072 are 2 (336)' ellipse
+336 'JAMES WHEELER (337)' triangle
+337 'GRIZZELL SQUIRE (338)' ellipse
+338 'JAMES WHEELER JR. (339)' triangle
+339 'ELIZABETH WEST (340)' ellipse
+340 'EBENEZER INGALLS* (341)' triangle
+341 'ELIZABETH WHEELER (342)' ellipse
+342 'HENRY INGALLS (343)' triangle
+343 'SYBIL CARPENTER* (344)' ellipse
+344 'JAMES BALLOU (IV)* (345)' triangle
+345 'MEHITABLE INGALLS (346)' ellipse
+346 'ABRAM GARFIELD (347)' triangle
+347 'ELIZA BALLOU (348)' ellipse
+348 '=JAMES ABRAM GARFIELD (349)' triangle
+349 'LUCRETIA RUDOLPH (350)' ellipse
+350 'JEREMIAH WHEELER (351)' triangle
+351 'SUBMIT HORTON* (352)' ellipse
+352 'JARVIS WHEELER (353)' triangle
+353 'SARAH HORTON* (354)' ellipse
+354 'LEVI PIERCE* (355)' triangle
+355 'BETSEY S. WHEELER (356)' ellipse
+356 'COURTLAND PHILIP LIVINGSTON BUTLER* (357)' triangle
+357 'ELIZABETH SLADE PIERCE (358)' ellipse
+358 'ROBERT EMMET SHELDON (359)' triangle
+359 'MARY ELIZABETH BUTLER (360)' ellipse
+360 'DAVID WHEELER (361)' triangle
+361 'SARAH WISE (362)' ellipse
+362 'JOHN SPOFFORD JR. (363)' triangle
+363 'SARAH WHEELER (364)' ellipse
+364 'JOHN SPOFFORD (III) (365)' triangle
+365 'DORCAS HOPKINSON* (366)' ellipse
+366 'JOHN SPOFFORD (IV) (367)' triangle
+367 'HANNAH TYLER (368)' ellipse
+368 'JOHN GROUT JR.* (369)' triangle
+369 'PHOEBE SPOFFORD (370)' ellipse
+370 'JACOB WINN (III)* (371)' triangle
+371 'PHOEBE GROUT (372)' ellipse
+372 'THOMAS SHERWOOD (373)' triangle
+373 'ENDYMIA WINN (374)' ellipse
+374 'JOHN MINTHORN* (375)' triangle
+375 'LUCINDA SHERWOOD (376)' ellipse
+376 'THEODORE MINTHORN (377)' triangle
+377 'MARY WASLEY (378)' ellipse
+378 'JESSE CLARK HOOVER (379)' triangle
+379 'HULDA RANDALL MINTHORN (380)' ellipse
+380 '=HERBERT CLARK HOOVER (381)' triangle
+381 'LOU HENRY (382)' ellipse
+382 'AQUILA CHASE (383)' triangle
+383 'ANN WHEELER (384)' ellipse
+384 'JOHN CHASE (385)' triangle
+385 'LYDIA CHALLIS (386)' ellipse
+386 'JACOB CHASE (387)' triangle
+387 'JOANNA DAVIS* (388)' ellipse
+388 'EZRA CHASE (389)' triangle
+389 'JUDITH DAVIS* (390)' ellipse
+390 'WILLIAM CHASE (391)' triangle
+391 'ABIGAIL GOVE* (392)' ellipse
+392 'SAMUEL AYER* (393)' triangle
+393 'POLLY CHASE (394)' ellipse
+394 'JOHN VARMUM AYER (395)' triangle
+395 'ELIDA VANDERBURGH MANNEY* (396)' ellipse
+396 'THOMAS MORSE d.1566/7 <Stoke-by-Nayland (397)' triangle
+397 'AGNES ------- (398)' ellipse
+398 'THOMAS MORSE (399)' triangle
+399 'MARGARET KING (400)' ellipse
+400 'SAMUEL MORSE 1576-1654 <Dedham & Medfie (401)' triangle
+401 'ELIZABETH JASPER (402)' ellipse
+402 'ROBERT DANIEL (403)' triangle
+403 'ELIZABETH MORSE (404)' ellipse
+404 'JOSEPH DANIEL (405)' triangle
+405 'MARY FAIRBANKS* (406)' ellipse
+406 'ELEAZER DANIEL (407)' triangle
+407 'MARY HOLBROOK* (408)' ellipse
+408 'DAVID DANIEL (409)' triangle
+409 'HULDAH TAFT (410)' ellipse
+410 'SAMUEL SULLEN (411)' triangle
+411 'MARY MORSE (412)' ellipse
+412 'EPHRAIM CLARA (413)' triangle
+413 'MARY BULLEN (414)' ellipse
+414 'SAMUEL WHITING (415)' triangle
+415 'MARY CLARK (416)' ellipse
+416 'EPHRAIM WHITING (417)' triangle
+417 'ABIGAIL MASON (418)' ellipse
+418 'BENJAMIN BUTLER (419)' triangle
+419 'SUSANNA WHITING (420)' ellipse
+420 'NATHANIEL BUTLER (421)' triangle
+421 'SARAH HERRICK* (422)' ellipse
+422 'SAMUEL HERRICK BUTLER              not (423)' triangle
+423 'JUDITH LIVINGSTON* (424)' ellipse
+424 'TIMOTHY COOPER (425)' triangle
+425 'MARY ANDERSON (426)' ellipse
+426 'EDWARD BURWELL (427)' triangle
+427 'LYDIA GILMAN (428)' ellipse
+428 'JOSEPH MORSE (429)' triangle
+429 'HANNAH PHILLIPS (430)' ellipse
+430 'NATHANIEL LAWRENCE (431)' triangle
+431 'SARAH MORSE (432)' ellipse
+432 'NATHANIEL LAWRENCE JR. (433)' triangle
+433 'ANNA FISKE* (434)' ellipse
+434 'JONATHAN LAWRENCE (435)' triangle
+435 'JOANNA PHILLIPS*        NOT # 814 (neic (436)' ellipse
+436 'JAMES PRIEST (437)' triangle
+437 'HANNAH LAWRENCE (438)' ellipse
+438 'RICHARD MORSE (439)' triangle
+439 'DOROTHY -------- (440)' ellipse
+440 'JOSEPH MORSE 1576-1646 <Ipswitch, Mass. (441)' triangle
+441 'HESTER PIERCE (442)' ellipse
+442 'JOSEPH MORSE JR. d.1691 <Watertown, Mas (443)' triangle
+443 'SARAH MORSE (444)' ellipse
+444 'TIMOTHY COOPER JR. (445)' triangle
+445 'ELIZABETH WINTER (446)' ellipse
+446 'JOHN COOPER (447)' triangle
+447 'SARAH GUILE* (448)' ellipse
+448 'COMFORT STARR (III) (449)' triangle
+449 'JUDITH COOPER (450)' ellipse
+450 'JABEZ FRANKLIN* (451)' triangle
+451 'SARAH STARR (452)' ellipse
+452 'LUTHER FRANKLIN (453)' triangle
+453 'PRISCILLA PINNEY (454)' ellipse
+454 'HIRAM D. MOOR* (455)' triangle
+455 'ABIGAIL FRANKLIN (456)' ellipse
+456 'JOHN MORSE (457)' triangle
+457 'ABIGAIL STEARNS (458)' ellipse
+458 'JOSEPH MORSE (459)' triangle
+459 'ELIZABETH SAWTELLE (460)' ellipse
+460 'ROWLAND COTYMORE <Royal Descent (461)' triangle
+461 'MARGARET --------- (462)' ellipse
+462 'HENRY HOWLAND (463)' triangle
+463 'ELIZABETH TILLEY, <Mayflower passenger> (464)' ellipse
+464 'JOHN HOWLAND, <Mayflower passenger> d.1 (465)' triangle
+465 'MARY ------- (466)' ellipse
+466 'HENRY HOWLAND d.1670/1 <Durbury, Mass. (467)' triangle
+467 'ELIZABETH SOUTHWORTH (468)' ellipse
+468 'JOSEPH HOWLAND (469)' triangle
+469 'MARTHA COLE (470)' ellipse
+470 'NATHANIEL HOWLAND (471)' triangle
+471 'ABIGAIL BURT (472)' ellipse
+472 'NATHANIEL HOWLAND JR. (473)' triangle
+473 'LYDIA BILL* (474)' ellipse
+474 'JOSEPH HOWLAND (475)' triangle
+475 'HOPE HOWLAND (476)' ellipse
+476 'JOHN CHIPMAN (477)' triangle
+477 'HOPE CHIPMAN (478)' ellipse
+478 'JOHN HUCKINS (479)' triangle
+479 'HOPE HUCKINS (480)' ellipse
+480 'THOMAS NELSON (481)' triangle
+481 'HANNAH NELSON (482)' ellipse
+482 'JABEZ WOOD* (483)' triangle
+483 'JOANNA SHORT (484)' ellipse
+484 'JABEZ WOOD JR. (485)' triangle
+485 'JOANNA WOOD (486)' ellipse
+486 'COMFORT HORTON* (487)' triangle
+487 'JOAN PORTER (488)' ellipse
+488 'ROBERT WYNGATE <Sharpenhoe, Bedfordshir (489)' triangle
+489 'MARGORY WYNGATE (490)' ellipse
+490 'RICHARD NORTON (491)' triangle
+491 'MARGARET HAYES (492)' ellipse
+492 'WILLIAM NORTON (493)' triangle
+493 'ALICE BOWNEST (494)' ellipse
+494 'WILLIAM NORTON (495)' triangle
+495 'LUCY DOWNING (496)' ellipse
+496 'JEDEDIAH ALLEN* (497)' triangle
+497 'ELIZABETH HOWLAND (498)' ellipse
+498 'THOMAS SMITH (499)' triangle
+499 'MARY ALLEN        could be # 988 with d (500)' ellipse
+500 'ANTHONY SMITH (501)' triangle
+501 'LYDIA WILLETS (502)' ellipse
+502 'JACOB BURDG* (503)' triangle
+503 'JUDITH SMITH (504)' ellipse
+504 'JACOB BURDG JR. (505)' triangle
+505 'MIRIAM MATTHEWS (506)' ellipse
+506 'ZOETH HOWLAND (507)' triangle
+507 'ABIGAIL ------- (508)' ellipse
+508 'BENJAMIN HOWLAND (509)' triangle
+509 'JUDITH SAMPSON (510)' ellipse
+510 'JONATHAN RICKETSON* (511)' triangle
+511 'ABIGAIL HOWLAND (512)' ellipse
+512 'JONATHAN RICKETSON JR. (513)' triangle
+513 'MERIBAH WILBUR* (514)' ellipse
+514 'HEZEKIAH COLLINS JR. (515)' triangle
+515 'RHODA RICKETSON (516)' ellipse
+516 'JOHN MANNEY* (517)' triangle
+517 'ELIZABETH COLLINS (518)' ellipse
+518 'JOHN COGSWELL d.1669 <Ipswitch, Mass. N (519)' triangle
+519 'ELIZABETH THOMPSON (520)' ellipse
+520 'SAMUEL BASS d.1694 <Braintree, Mass. (521)' triangle
+521 'ANNE SAVELL OR SAVIL (522)' ellipse
+522 'CORNELIUS WALDO (523)' triangle
+523 'HANNAH COGSWELL* (524)' ellipse
+524 'WILLIAM NORTON (525)' triangle
+525 'MARY MASON (526)' ellipse
+526 'JOHN NORTON (527)' triangle
+527 'ELIZABETH NORTON (528)' ellipse
+528 'JOHN QUINCY (529)' triangle
+529 'ELIZABETH QUINCY (530)' ellipse
+530 'WILLIAM SMITH JR. (531)' triangle
+531 'MARY BELFIELD (532)' ellipse
+532 'EDMUND WYNGATE (533)' triangle
+533 'JANE WYNGATE (534)' ellipse
+534 'WILLIAM COGSWELL (535)' triangle
+535 'SUSANNA HAWKES (536)' ellipse
+536 'BENJAMIN WHITE (537)' triangle
+537 'SUSANNA COGSWELL (538)' ellipse
+538 'PETER BOYLSTON (539)' triangle
+539 'ANN WHITE (540)' ellipse
+540 'JOHN BASS (541)' triangle
+541 'RUTH ALDEN (542)' ellipse
+542 'JOHN CAPEN* (543)' triangle
+543 'MARY BASS (544)' ellipse
+544 'JOSEPH CAPEN (545)' triangle
+545 'PRISCILLA APPLETON (546)' ellipse
+546 'THOMAS BAKER (547)' triangle
+547 'MARY CAPEN (548)' ellipse
+548 'TARRANT PUTNAM JR.* (549)' triangle
+549 'PRISCILLA BAKER (550)' ellipse
+550 'ADAM BROWN JR.* (551)' triangle
+551 'PRISCILLA PUTNAM (552)' ellipse
+552 'EDWARD BURWELL (553)' triangle
+553 'DOROTHY BEDELL (554)' ellipse
+554 'LEWIS BURWELL (555)' triangle
+555 'LUCY HIGGINSON (556)' ellipse
+556 'LOUIS BURWELL JR. (557)' triangle
+557 'ABIGAIL SMITH   could be # 32 or not th (558)' ellipse
+558 'BENJAMIN HARRISON (III) (559)' triangle
+559 'ELIZABETH BURWELL (560)' ellipse
+560 'BENJAMIN HARRISON (IV) (561)' triangle
+561 'ANNE CARTER (562)' ellipse
+562 'BENJAMIN HARRISON (V)* (563)' triangle
+563 'ELIZABETH BASSETT (564)' ellipse
+564 'WILLIAM BASSETT (III) (565)' triangle
+565 'JOANNA BURWELL (566)' ellipse
+566 'WILLIAM BASSETT (IV) (567)' triangle
+567 'ELIZABETH CHURCHILL*            could b (568)' ellipse
+568 '=WILLIAM HENRY HARRISON (569)' triangle
+569 'ANNA TUTHILL SYMMES* (570)' ellipse
+570 'JOHN SCOTT HARRISON (571)' triangle
+571 'ELIZABETH RAMSEY IRWIN (572)' ellipse
+572 '=BENJAMIN HARRISON (573)' triangle
+573 'CAROLINE LAVINIA SCOTT (574)' ellipse
+574 'THOMAS GRAY (575)' triangle
+575 'MRS MARY SCOTT LORD DIMMICK (576)' ellipse
+576 'WILLIAM TYNG (577)' triangle
+577 'KATHERINE MILES OR MYLES (578)' ellipse
+578 'THOMAS GRAVES (579)' triangle
+579 'SUSANNA GARBRAND (580)' ellipse
+580 'THOMAS SHEPARD JR. (581)' triangle
+581 'ELIZABETH COTYMORE (582)' ellipse
+582 'DANIEL QUINCY (583)' triangle
+583 'ANNA TYNG (584)' ellipse
+584 'KATHERINE GRAY (586)' ellipse
+585 'ANNA SHEPARD (588)' ellipse
+586 'THOMAS SHEPARD (III) (589)' triangle
+587 'HENRY SMITH (591)' triangle
+588 'WILLIAM ARMISTEAD 1610-pre 1666 <Elizab (593)' triangle
+589 'ANNA SHEPARD (594)' ellipse
+590 'JOHN ARMISTEAD (595)' triangle
+591 'ANN ELLIS (596)' ellipse
+592 'WILLIAM CHURCHILL (597)' triangle
+593 'JUDITH ------- (598)' ellipse
+594 'ANTHONY ARMISTEAD (599)' triangle
+595 'ELIZABETH ARMISTEAD (600)' ellipse
+596 'ROBERT ARMISTEAD (601)' triangle
+597 'HANNAH ELLYSON (602)' ellipse
+598 'ELLYSON ARMISTEAD (603)' triangle
+599 '------ BOOTH (604)' ellipse
+600 'ROBERT BOOTH ARMISTEAD (605)' triangle
+601 'ANNE SHIELDS (606)' ellipse
+602 'JOHN TYLER (III) (607)' triangle
+603 'MARY MAROT ARMISTEAD (608)' ellipse
+604 '=JOHN TYLER (IV) (609)' triangle
+605 'LETITIA CHRISTIAN (610)' ellipse
+606 'MOORE CARTER (PROBABLY) (611)' triangle
+607 'JULIA GARDINER (612)' ellipse
+608 'JOHN CARTER d.1630 <Christchurch, Newga (613)' triangle
+609 'BRIDGET BENION (614)' ellipse
+610 'JOHN CARTER d.1669 <Corotoman, Va. Fa n (615)' triangle
+611 'SARAH LUDLOW (616)' ellipse
+612 'ROBERT "KING" CARTER (617)' triangle
+613 'ELIZABETH LANDON (618)' ellipse
+614 'THOMAS CARTER d.1660 <Isle of Wight Co. (621)' triangle
+615 'ELINOR ------ (622)' ellipse
+616 'THOMAS CARTER JR. (623)' triangle
+617 'MAGDALENE MOORE (624)' ellipse
+618 'THOMAS CARTER (III) (625)' triangle
+619 'JANE ------- (626)' ellipse
+620 'ISAAC CARTER (627)' triangle
+621 'RUTH ------- (628)' ellipse
+622 'JAMES CARTER (629)' triangle
+623 'SARAH HOOKER (630)' ellipse
+624 'WILEY CARTER (631)' triangle
+625 'ELEANOR DUCKWORTH (632)' ellipse
+626 'LITTLEBERRY WALKER CARTER (633)' triangle
+627 'ANN ANSLEY* (634)' ellipse
+628 'WILLIAM ARCHIBALD CARTER (635)' triangle
+629 'MARY ANN DILIGENT SEALS (636)' ellipse
+630 'JAMES EARL CARTER (637)' triangle
+631 'NINA PRATT (638)' ellipse
+632 '=JAMES EARL CARTER JR. (639)' triangle
+633 'BESSIE LILLIAN GORDY (640)' ellipse
+634 'WILLIAM HYDE d.1681/2 <Norwich, Conn. (641)' triangle
+635 '(ELEANOR) ROSALYNN CARTER (642)' ellipse
+636 'JOHN POST (643)' triangle
+637 'HESTER HYDE (644)' ellipse
+638 'SAMUEL HYDE (645)' triangle
+639 'JANE LEE (646)' ellipse
+640 'NATHANIEL RUDD (647)' triangle
+641 'MARY POST (648)' ellipse
+642 'EBENEZER WOOD (649)' triangle
+643 'MARY RUDD (650)' ellipse
+644 'EBENEZER WOOD JR.* (651)' triangle
+645 'PHILIPPA STORY* (652)' ellipse
+646 'NATHANIEL FILLMORE* (653)' triangle
+647 'HEPZIBAH WOOD (654)' ellipse
+648 'JOHN HOUGH (655)' triangle
+649 'SARAH POST (656)' ellipse
+650 'ABIEL MARSHALL (657)' triangle
+651 'ABIAH HOUGH (658)' ellipse
+652 'JAMES HYDE (659)' triangle
+653 'SARAH MARSHALL (660)' ellipse
+654 'CALEB ABELL (661)' triangle
+655 'MARGARET POST (662)' ellipse
+656 'JOHN HYDE (663)' triangle
+657 'EXPERIENCE ABELL (664)' ellipse
+658 'RICHARD LORD* (665)' triangle
+659 'ELIZABETH HYDE (666)' ellipse
+660 'NATHAN JEWETT* (667)' triangle
+661 'DEBORAH LORD (668)' ellipse
+662 'DAVID JEWETT (669)' triangle
+663 'SARAH SELDEN (670)' ellipse
+664 'ANSELM COMSTOCK (671)' triangle
+665 'ELIZABETH JEWETT (672)' ellipse
+666 'DANIEL BUTLER (673)' triangle
+667 'BETSEY COMSTOCK (674)' ellipse
+668 'JOHN PERKINS 1563-1654 <Ipswitch, Mass. (675)' triangle
+669 'JUDITH GATER (676)' ellipse
+670 'JOHN PERKINS JR. (677)' triangle
+671 'ELIZABETH ------ (678)' ellipse
+672 'JACOB PERKINS    not #687 (679)' triangle
+673 'SARAH WAINWRIGT (680)' ellipse
+674 'THOMAS EMERSON* (681)' triangle
+675 'PHILIPPA PERKINS (682)' ellipse
+676 'STEPHEN STORY (683)' triangle
+677 'MARY EMERSON (684)' ellipse
+678 'NATHANIEL BROWN (685)' triangle
+679 'JUDITH PERKINS (686)' ellipse
+680 'JACOB PERKINS    not #679 (687)' triangle
+681 'ELIZABETH WHIPPLE (688)' ellipse
+682 'JABEZ PERKINS (689)' triangle
+683 'HANNAH LATHROP* (690)' ellipse
+684 'JOSHUA HUNTINGTON* (691)' triangle
+685 'HANNAH PERKINS (692)' ellipse
+686 'EPHRAHN BILL (693)' triangle
+687 'LYDRIA HUNTINGTON (694)' ellipse
+688 'THOMAS WOOD d.1687 <Rowley, Mass. (695)' triangle
+689 'ANNE ------ (696)' ellipse
+690 'JOHN WOOD                could be # 193 (697)' triangle
+691 'ISABEL HAZEN (698)' ellipse
+692 'JOSEPH JEWETT JR. (701)' triangle
+693 'RUTH WOOD (702)' ellipse
+694 'HILKIAH BOYNTON (703)' triangle
+695 'PRISCILLA JEWETT (704)' ellipse
+696 'JOHN GROUT* (705)' triangle
+697 'JOANNA BOYNTON (706)' ellipse
+698 'JOSEPH JEWETT (III) (707)' triangle
+699 'MARY HIBBERT (708)' ellipse
+700 'DANIEL BREWER d.1646 <Roxbury, Mass. (709)' triangle
+701 'JOANNA -------- (710)' ellipse
+702 'DANIEL BREWER JR. (711)' triangle
+703 'HANNAH MERRILL (712)' ellipse
+704 'JOHN BOWEN* (713)' triangle
+705 'HANNAH BREWER (714)' ellipse
+706 'CALEB KENDRICK (715)' triangle
+707 'ABIGAIL BOWEN (716)' ellipse
+708 'BENJAMIN KENDRICK (717)' triangle
+709 'SARAH HARRIS* (718)' ellipse
+710 'BENJAMIN PIERCE JR.* (719)' triangle
+711 'ANNA KENDRICK (720)' ellipse
+712 '=FRANKLIN PIERCE (721)' triangle
+713 'JANE MEANS APPLETON (722)' ellipse
+714 'THOMAS CHANDLER* (723)' triangle
+715 'HANNAH BREWER (PROBABLY) (724)' ellipse
+716 'HENRY CHANDLER (725)' triangle
+717 'LYDIA ABBOTT* (726)' ellipse
+718 'ISAAC CHANDLER (727)' triangle
+719 'ABIGAIL HALE (728)' ellipse
+720 'JOHN MAY JR. (729)' triangle
+721 'SARAH BREWER (730)' ellipse
+722 'JOHN MAY (III) (731)' triangle
+723 'PRUDENCE BRIDGE (732)' ellipse
+724 'THOMAS RICHARDSON d.1663/4 <Westmill, H (733)' triangle
+725 'KATHERINE DUXFORD (734)' ellipse
+726 'EZEKIEL RICHARDSON (735)' triangle
+727 'SUSANNA ------- (736)' ellipse
+728 'JOSIAH RICHARDSON (737)' triangle
+729 'REMEMBER UNDERWOOD (738)' ellipse
+730 'WILLIAM FLETCHER JR. (739)' triangle
+731 'SARAH RICHARDSON (740)' ellipse
+732 'STEPHEN PIERCE JR. (741)' triangle
+733 'ESTHER FLETCHER (742)' ellipse
+734 'BENJAMIN PIERCE (743)' triangle
+735 'ELIZABETH MERRILL (744)' ellipse
+736 'THOMAS RICHARDSON (745)' triangle
+737 'MARY -------- (746)' ellipse
+738 'MICHAEL BACON JR. (747)' triangle
+739 'SARAH RICHARDSON (748)' ellipse
+740 'JONATHON BACON (749)' triangle
+741 'ELIZABETH GILES (750)' ellipse
+742 'TARRANT PUTNAM* (751)' triangle
+743 'ELIZABETH BACON (752)' ellipse
+744 'FRANCIS WYMAN (WIMANT) (753)' triangle
+745 'ELIZABETH RICHARDSON (754)' ellipse
+746 'FRANCIS WYMAN (755)' triangle
+747 'ABIGAIL READ (756)' ellipse
+748 'WILLIAM WYMAN (757)' triangle
+749 'PRUDENCE PUTNAM* (758)' ellipse
+750 'JACOB WINN* (759)' triangle
+751 'PRUDENCE WYMAN (760)' ellipse
+752 'JACOB WINN JR. (761)' triangle
+753 'SARAH BUCK (762)' ellipse
+754 'EDWARD GILMAN bp.1557 <Caston, Norfolk (763)' triangle
+755 'BRIDGET GILMAN (764)' ellipse
+756 'EDWARD LINCOLN (765)' triangle
+757 'MARTHA LYFORD (766)' ellipse
+758 'SAMUEL LINCOLN (767)' triangle
+759 'SARAH JONES (768)' ellipse
+760 'MORDECAI LINCOLN (769)' triangle
+761 'HANNAH SALTER (770)' ellipse
+762 'MORDECAI LINCOLN JR. (771)' triangle
+763 'REBECCA FLOWERS (772)' ellipse
+764 'JOHN LINCOLN (773)' triangle
+765 'BATHSHEBA (HERRING?) (774)' ellipse
+766 'ABRAHAM LINCOLN (775)' triangle
+767 'NANCY HANKS (776)' ellipse
+768 'THOMAS LINCOLN (777)' triangle
+769 'MARY ANN TODD (778)' ellipse
+770 '=ABRAHAM LINCOLN (779)' triangle
+771 'MARY CLARK (780)' ellipse
+772 'EDWARD GILMAN (781)' triangle
+773 'ELIZABETH TREWORGYE (782)' ellipse
+774 'JOHN GILMAN (783)' triangle
+775 'MARY WHITE (784)' ellipse
+776 'JOHN WHITE JR. (785)' triangle
+777 'SARAH LITTLE* (786)' ellipse
+778 'JAMES AYER (787)' triangle
+779 'SARAH ADAMS* (788)' ellipse
+780 'DANIEL AYER (789)' triangle
+781 'MARY GILMAN (790)' ellipse
+782 'WILLIAM AYER (791)' triangle
+783 'DEBORAH JACOB (792)' ellipse
+784 'NICHOLAS JACOB (793)' triangle
+785 'ABIGAIL RUCK (794)' ellipse
+786 'NATHANIEL THOMAS JR. (795)' triangle
+787 'MARGARET THOMAS (796)' ellipse
+788 'WILLIAM THOMAS (797)' triangle
+789 'HANNAH HOUSE (798)' ellipse
+790 'JOHN BRECK (III) (799)' triangle
+791 'ELIZABETH SCUDDER (800)' ellipse
+792 'REV. JOHN LATHROP 1584-1658 founder of (801)' triangle
+793 'SARAH LEARNED (802)' ellipse
+794 'SAMUEL LATHROP (803)' triangle
+795 'ABIGAIL LATHROP (804)' ellipse
+796 'THOMAS LATHROP (805)' triangle
+797 'MARY LATHROP (806)' ellipse
+798 'JOHN HUNTINGTON* (807)' triangle
+799 'HANNAH ADGATE (808)' ellipse
+800 'SAMUEL LATHROP JR. (809)' triangle
+801 'HANNAH FRENCH (810)' ellipse
+802 'WILLIAM FRENCH (811)' triangle
+803 'HANNAH CHILD (812)' ellipse
+804 'JOHN CHILD JR. (813)' triangle
+805 'JOANNA PHILLIPS*        could be # 436 (814)' ellipse
+806 'JOHN FAY (III)* (815)' triangle
+807 'LUCY PRESCOTT* (816)' ellipse
+808 'JONATHON FAY (817)' triangle
+809 'JEANNE -------- (818)' ellipse
+810 'JONATHON FAY JR. (819)' triangle
+811 'MARIE LE MAHIEU (820)' ellipse
+812 '(JACQUES?) LE MAHIEU 1590-1611 <Leyden, (821)' triangle
+813 'HESTER LE MAHIEU (822)' ellipse
+814 'FRANCIS COOKE (823)' triangle
+815 'HESTER (ESTHER) DEWSBURY (824)' ellipse
+816 'JAN DE LANNOY (825)' triangle
+817 'SARAH WARREN (826)' ellipse
+818 'PHILIP DELANO (827)' triangle
+819 'JANE COOKE (828)' ellipse
+820 'JOHN COOKE (829)' triangle
+821 'MERCY WARREN (830)' ellipse
+822 'JONATHON DELANO (831)' triangle
+823 'AMY HATCH (832)' ellipse
+824 'JONATHON DELANO JR. (833)' triangle
+825 'JEAN PECKHAM (834)' ellipse
+826 'THOMAS DELANO (835)' triangle
+827 'ELIZABETH CUSHMAN* (836)' ellipse
+828 'EPHRAIM DELANO (837)' triangle
+829 'ESTHER COOKE (838)' ellipse
+830 'THOMAS TABER (839)' triangle
+831 'ESTHER TABER (840)' ellipse
+832 'SAMUEL PERRY (841)' triangle
+833 'ABIGAIL PRESBURY (842)' ellipse
+834 'EBENEZER PERRY (843)' triangle
+835 'SUSANNA SWIFT (844)' ellipse
+836 'SAMUEL PERRY (845)' triangle
+837 'DEBORAH PERRY               not the sam (846)' ellipse
+838 'JOSEPH CHURCH*     could be # 1893 with (847)' triangle
+839 'DEBORAH CHURCH (848)' ellipse
+840 'WARREN DELANO (849)' triangle
+841 'DEBORAH HATHAWAY (850)' ellipse
+842 'JIREH SWIFT JR.* (851)' triangle
+843 'SUSANNAH POPE* (852)' ellipse
+844 'JONATHON HATHAWAY (853)' triangle
+845 'SARAH COOKE (854)' ellipse
+846 'ARTHUR HATHAWAY (855)' triangle
+847 'SILENCE KINGSLEY (856)' ellipse
+848 'SAMUEL HERRICK (857)' triangle
+849 'MARY -------- (858)' ellipse
+850 'SAMUEL KINGSLEY (III) (859)' triangle
+851 'MARY WASHBURN (860)' ellipse
+852 'SAMUEL KINGSLEY JR. (861)' triangle
+853 'ELIZABETH MITCHELL (862)' ellipse
+854 'JOHN WASHBURN JR. (863)' triangle
+855 'ELIZABETH CHARDE d.1643 <Windsor, Conn. (864)' ellipse
+856 'EXPERIENCE MITCHELL d.1689 <Bridgewater (865)' triangle
+857 'MARY COOKE (866)' ellipse
+858 'AARON COOKE (867)' triangle
+859 'ABIGAIL FORD (868)' ellipse
+860 'THOMAS FORD (869)' triangle
+861 'SARAH WESTWOOD (870)' ellipse
+862 'AARON COOKE JR. (871)' triangle
+863 'HANNAH CLAPP (872)' ellipse
+864 'JOHN STRONG (873)' triangle
+865 'MARY HOLTON* (874)' ellipse
+866 'EBENEZER STRONG (875)' triangle
+867 'MARY STRONG (876)' ellipse
+868 'EBENEZER STRONG JR. (877)' triangle
+869 'MARY SHELDON             could be # 201 (878)' ellipse
+870 'BENJAMIN SHELDON* (879)' triangle
+871 'SARAH COOKE (880)' ellipse
+872 'JOSEPH LYMAN JR.* (881)' triangle
+873 'ABIGAIL HOVEY (882)' ellipse
+874 'THOMAS HOVEY (883)' triangle
+875 'ABIGAIL PHELPS* (884)' ellipse
+876 'NATHANIEL AUSTIN (885)' triangle
+877 'DRUSILLA AUSTIN (886)' ellipse
+878 'DANIEL AUSTIN (887)' triangle
+879 'ELIZABETH SMITH      could be # 284 or (888)' ellipse
+880 'ROGER CORNWALL alias BIRCHARD* (889)' triangle
+881 'MARY SMITH             could be # 1560 (890)' ellipse
+882 'AARON COOKE (III) (891)' triangle
+883 'MARY PARTRIDGE (892)' ellipse
+884 'SAMUEL SMITH <South Hadley Mass.> (893)' triangle
+885 'MARY ROOT* (894)' ellipse
+886 'JOHN SMITH (895)' triangle
+887 'MARY GRAVES (896)' ellipse
+888 'JOHN SMITH JR.          could be # 1903 (897)' triangle
+889 'SARAH GRAVES (898)' ellipse
+890 'JOHN GRAVES (899)' triangle
+891 'MARY BALL               could be # 100 (900)' ellipse
+892 'SAMUEL BALL (901)' triangle
+893 'RUTH STEBBINS (902)' ellipse
+894 'EDWARD STEBBINS* (903)' triangle
+895 'MARY ELY* (904)' ellipse
+896 'JOHN HITCHCOCK JR.* (905)' triangle
+897 'MARGARET HITCHCOCK (906)' ellipse
+898 'SAMUEL HITCHCOCK (907)' triangle
+899 'JANE POWYS (908)' ellipse
+900 'RICHARD FALLEY JR. (909)' triangle
+901 'ELIZABETH PITTS (910)' ellipse
+902 'THOMAS STEBBINS (911)' triangle
+903 'JOAN KINGMAN (912)' ellipse
+904 'THOMAS HOLBROOK d.1677 <Weymouth, Mass. (913)' triangle
+905 'ELIZABETH STREAM (914)' ellipse
+906 'JOHN HOLBROOK      could be # 23, # 31, (915)' triangle
+907 'EUNICE HOLBROOK (916)' ellipse
+908 'THOMAS HOLBROOK (917)' triangle
+909 'EUNICE LUDDEN (918)' ellipse
+910 'WILLIAM HOLBROOK (919)' triangle
+911 'HANNAH HOLBROOK (920)' ellipse
+912 'BENJAMIN LUDDEN (921)' triangle
+913 'MARY LOW (922)' ellipse
+914 'EDMUND INGALLS (923)' triangle
+915 'JUDITH ROUND (924)' ellipse
+916 'EPHRAIM PIERCE (925)' triangle
+917 'LYDIA MARTIN (926)' ellipse
+918 'EPHRAIM PIERCE JR. (927)' triangle
+919 'ANNA FITCH* (928)' ellipse
+920 'MIAL PIERCE (929)' triangle
+921 'ALICE GODFREY (930)' ellipse
+922 'NATHAN PIERCE (931)' triangle
+923 'HOPESTILL READ (932)' ellipse
+924 'ISAAC PIERCE (933)' triangle
+925 'DEBORAH HOLBROOK (934)' ellipse
+926 'PETER HOLBROOK (935)' triangle
+927 'MARY PIERCE* (936)' ellipse
+928 'WILLIAM HOLBROOK (937)' triangle
+929 'HOPESTILL HOLBROOK (938)' ellipse
+930 'JOSEPH TORREY* (939)' triangle
+931 'DEBORAH CHAPIN* (940)' ellipse
+932 'SAMUEL READ JR. (941)' triangle
+933 'DOROTHY HAYNE (942)' ellipse
+934 'SAMUEL READ (943)' triangle
+935 'HANNAH KING (944)' ellipse
+936 'SAMUEL HOLBROOK (945)' triangle
+937 'ELIZABETH GOLDTHWAITE (946)' ellipse
+938 'WILLIAM KING c.1595-c.1650/1 <Salem, Ma (947)' triangle
+939 'DELIVERANCE KING (948)' ellipse
+940 'JOHN TUTHILL (949)' triangle
+941 'BETHIA HORTON (950)' ellipse
+942 'HENRY TUTHILL (951)' triangle
+943 'HANNAH (CROUCH?) (952)' ellipse
+944 'HENRY TUTHILL JR. (953)' triangle
+945 'PHOEBE HORTON* (954)' ellipse
+946 'HENRY TUTHILL (III) (955)' triangle
+947 'ANNA TUTHILL* (956)' ellipse
+948 'JOHN CLEVES SYMMES* (957)' triangle
+949 'ELIZABETH KING (958)' ellipse
+950 'JOHN KING             could be # 2113 w (959)' triangle
+951 'MEHITABLE GILES* (960)' ellipse
+952 'NATHANIEL WATERS* (961)' triangle
+953 'MOSES STICKNEY* (962)' triangle
+954 'JONATHON WATERS (963)' triangle
+955 'THOMAS HOOKER d.1635 <Blaston, Leiceste (965)' triangle
+956 'HANNAH BROWNE (966)' ellipse
+957 'THOMAS BURGESS (967)' triangle
+958 'ABIGAIL REEVE (968)' ellipse
+959 'RICHARD BROWNE (969)' triangle
+960 'MEHITABLE DICKERSON (970)' ellipse
+961 'JOHN REEVE (971)' triangle
+962 'ABIGAIL ------- (972)' ellipse
+963 'THOMAS DICKERSON (PROBABLY) (973)' triangle
+964 'ABIGAIL HINES (HINDS, HAINES) (974)' ellipse
+965 'JOSHUA DICKERSON (975)' triangle
+966 'CHARITY MALVINA VAN KIRK (976)' ellipse
+967 'JOSHUA DICKERSON JR. (PROBABLY) (977)' triangle
+968 'PHOEBE ELIZABETH DICKERSON (978)' ellipse
+969 'JOSEPH DICKERSON (979)' triangle
+970 'MRS. FLORENCE MABEL KLING DEWOLFE (980)' ellipse
+971 'ISAAC HAINES DICKERSON (PROBABLY) (981)' triangle
+972 'ABIGAIL CRAFTS (982)' ellipse
+973 'GEORGE TRYON HARDING*  could be # 1107 (983)' triangle
+974 'SUSANNA WILSON (984)' ellipse
+975 '=WARREN GAMALIEL HARDING (985)' triangle
+976 'ELIZABETH HAYWARD* (986)' ellipse
+977 'KINDRED CARTER (987)' triangle
+978 'MARY ALLEN        could be # 500 with d (988)' ellipse
+979 'REV. THOMAS HOOKER (989)' triangle
+980 'RHODA RAWSON (990)' ellipse
+981 'JOHN WILSON (991)' triangle
+982 'SYLVIA HOWARD* (992)' ellipse
+983 'GRINDALL RAWSON (993)' triangle
+984 'DOROTHY HOOKER (994)' ellipse
+985 'EDMUND RAWSON (995)' triangle
+986 'MARY WADE (996)' ellipse
+987 'ABNER RAWSON (997)' triangle
+988 'DORCAS CHESTER (998)' ellipse
+989 'AARON TAFT* (999)' triangle
+990 'ELIZABETH READ (1000)' ellipse
+991 'PETER RAWSON TAFT (1001)' triangle
+992 'KATHERINE WHITING (1002)' ellipse
+993 'JOHN CHESTER (1003)' triangle
+994 'SUSANNA LANE (1004)' ellipse
+995 'LEONARD CHESTER (1005)' triangle
+996 'LYDIA HARWOOD* (1006)' ellipse
+997 'SAMUEL WHITING JR.* (1007)' triangle
+998 'MARY DAVIS (1008)' ellipse
+999 'SAMUEL WHITING (III) (1009)' triangle
+1000 '------- HOOKER (1010)' ellipse
+1001 'JOHN LANE JR. (1011)' triangle
+1002 'SARAH PALGRAVE* (1012)' ellipse
+1003 'NATHANIEL DAVIS (1013)' triangle
+1004 'JOANNA ALCOCK (1014)' ellipse
+1005 'NATHANIEL DAVIS JR. (1015)' triangle
+1006 'ELIZABETH HUNT           could be same (1016)' ellipse
+1007 'JOHN MOOR (1017)' triangle
+1008 'MERCY POPE (1018)' ellipse
+1009 'GEORGE ALCOCK* d.1640 <Roxbury, Mass.> (1019)' triangle
+1010 'ELIZABETH HEDGE (1020)' ellipse
+1011 'JOHN ALCOCK (1021)' triangle
+1012 'MARY RAVENS 1602-1691 <Watertown, Mass. (1022)' ellipse
+1013 'EPHRAIM HUNT JR.* (1023)' triangle
+1014 'GRACE RAVENS c.1591-1662 <Watertown, Ma (1024)' ellipse
+1015 'LEMUEL POPE* (1025)' triangle
+1016 'HANNAH LIVERMORE* (1026)' ellipse
+1017 'CALEB CHURCH* (1027)' triangle
+1018 'GRACE COOLIDGE (1028)' ellipse
+1019 'REV. RICHARD RAVENS 1562-1626 <Dedham, (1029)' triangle
+1020 'ELIZABETH FULLER (1030)' ellipse
+1021 'JOHN SHERMAN       could be # 1085 with (1031)' triangle
+1022 'ANNA BOND (1032)' ellipse
+1023 'THOMAS ROGERS (1033)' triangle
+1024 'SUSANNA TRASK (1034)' ellipse
+1025 'ROGER PORTER (1035)' triangle
+1026 'HANNAH BARRON (1036)' ellipse
+1027 'JOHN COOLIDGE JR. (1037)' triangle
+1028 'ELIZABETH ROOSE (1038)' ellipse
+1029 'JONAS BOND (1039)' triangle
+1030 'ELIZABETH ROGERS (1040)' ellipse
+1031 'JOSIAH BOND (1041)' triangle
+1032 'MARY GRANT (1042)' ellipse
+1033 'SAMUEL TRASK (1043)' triangle
+1034 'SUSANNA ------ (1044)' ellipse
+1035 'JONATHAN HOLMAN* (1045)' triangle
+1036 'LUCY STEVENS (1046)' ellipse
+1037 'SIMON COOLIDGE (1047)' triangle
+1038 'PRISCILLA WHIPPLE (WHIPPO) (1048)' ellipse
+1039 'OBADIAH COOLIDGE (1049)' triangle
+1040 'AGNES (BUTTER?) (1050)' ellipse
+1041 'DANIEL SMITH (1051)' triangle
+1042 'ANNE PELLATTE (1052)' ellipse
+1043 'DANIEL SMITH JR. (1053)' triangle
+1044 'JOAN ------- (1054)' ellipse
+1045 'JOHN SMITH (1055)' triangle
+1046 'GRACE SHERMAN (1056)' ellipse
+1047 'EPHRAIM SMITH (1057)' triangle
+1048 'SUSAN LAWRENCE (1058)' ellipse
+1049 'SANFORD SMITH (1059)' triangle
+1050 'ANNE SHERMAN (1060)' ellipse
+1051 'JOHN COOLIDGE (1061)' triangle
+1052 'PHOEBE WHITING (1062)' ellipse
+1053 'HENRY SHERMAN c.1510/1-1590 <Dedham, Es (1063)' triangle
+1054 'ELIZABETH BARNARD (1064)' ellipse
+1055 'EDMUND SHERMAN (1065)' triangle
+1056 'ABIGAIL DIX (1066)' ellipse
+1057 'EDMUND SHERMAN d.1641 <Wethersfield, Co (1067)' triangle
+1058 'PHILIPPA (WARD?) (1068)' ellipse
+1059 'JOHN LIVERMORE (1069)' triangle
+1060 'SARAH ODDING (1070)' ellipse
+1061 'ANTHONY WHITING (1071)' triangle
+1062 'SARAH SPOONER (1072)' ellipse
+1063 'JOHN BARNARD (1073)' triangle
+1064 'HANNAH SHERMAN (1074)' ellipse
+1065 'JOHN DIX (1075)' triangle
+1066 'MARY SHEFFIELD (1076)' ellipse
+1067 'JONATHON GROUT (1077)' triangle
+1068 'HANNAH BOURN (1078)' ellipse
+1069 'HENRY SHERMAN (1079)' triangle
+1070 'AUDREY BARLOW (1080)' ellipse
+1071 'SAMUEL SHERMAN (1081)' triangle
+1072 'ANNE ALMY (1082)' ellipse
+1073 'PHILIP SHERMAN 1610-1687 <Colony of Rho (1083)' triangle
+1074 'PHILLIP(PA) GREENE (1084)' ellipse
+1075 'JOHN SHERMAN       could be # 1031 with (1085)' triangle
+1076 'JOANNA SLOCUM* (1086)' ellipse
+1077 'WILLIAM BOURN (1087)' triangle
+1078 'PATIENCE CARR (1088)' ellipse
+1079 'WILLIAM BOURN JR. (1089)' triangle
+1080 'SARAH SLOCUM (1090)' ellipse
+1081 'WILLIAM FITCH (1091)' triangle
+1082 'PHOEBE TRIPP (1092)' ellipse
+1083 'WILLIAM ALMY d<1677 <Portsmouth, R.I.> (1093)' triangle
+1084 'ELIZABETH MADISON (1094)' ellipse
+1085 'JOHN GREENE JR.* (1095)' triangle
+1086 'MARY ANNE CRAWFORD (1096)' ellipse
+1087 'CALEB CARR (1097)' triangle
+1088 'ELIZABETH CORNELL (1098)' ellipse
+1089 'CALEB CARR JR. (1099)' triangle
+1090 'ELIZABETH ALMY (1100)' ellipse
+1091 'JOSEPH SLOCUM (1101)' triangle
+1092 'SARAH MORRIS (1102)' ellipse
+1093 'WILLIAM TRIP (1103)' triangle
+1094 'MARY ANSLEY (1104)' ellipse
+1095 'AMOS HARDING (1105)' triangle
+1096 'LYDIA MORRIS (1106)' ellipse
+1097 'GEORGE TRYON HARDING                  c (1107)' triangle
+1098 'MARTHA THOMPSON (1108)' ellipse
+1099 'CHARLES ALEXANDER HARDING (1109)' triangle
+1100 'ALICE SAVAGE (1110)' ellipse
+1101 'CHRISTOPHER ALMY (1111)' triangle
+1102 'ELIZABETH LEE* (1112)' ellipse
+1103 'LEWIS MORRIS (1113)' triangle
+1104 'FRANCES TAYLOR (1114)' ellipse
+1105 'RICHARD MORRIS (1115)' triangle
+1106 'ELIZABETH THORNTON (1116)' ellipse
+1107 'JOSEPH BURDG (1117)' triangle
+1108 'MARGARET THORNTON (1118)' ellipse
+1109 'JOB MORRIS (1119)' triangle
+1110 'REBECCA CATLETT (1120)' ellipse
+1111 'ABEL ANSLEY (1121)' triangle
+1112 'SUSANNAH DABNEY (1122)' ellipse
+1113 'JAMES TAYLOR 1674/5-1729 <Orange Co., V (1123)' triangle
+1114 'ELEANOR ROSE CONWAY (1124)' ellipse
+1115 'ZACHARY TAYLOR (1125)' triangle
+1116 'MRS. DOROTHEA "DOLLEY" PAYNE TODD (1126)' ellipse
+1117 'AMBROSE MADISON (1127)' triangle
+1118 'SARAH BAYLY (1128)' ellipse
+1119 'EDMUND LITTLEFIELD 1592-1661 <Wells, ME (1129)' triangle
+1120 'SARAH DABNEY STROTHER (1130)' ellipse
+1121 'FRANCIS THORNTON 1651-c.1726 <King Geor (1131)' triangle
+1122 'MARGARET MACKALL SMITH (1132)' ellipse
+1123 'EDWIN CONWAY JR. (1133)' triangle
+1124 'JANNETJE -------- (1134)' ellipse
+1125 'FRANCIS CONWAY (1135)' triangle
+1126 'JANNETJE OOTHOUT (1136)' ellipse
+1127 'WILLIAM STROTHER JR. (1137)' triangle
+1128 'JANNETJE LAURENSE VAN SCHAICK (1138)' ellipse
+1129 'FRANCIS STROTHER (1139)' triangle
+1130 'VOLKERTJE JURRIANSE (1140)' ellipse
+1131 'WILLIAM STROTHER (1141)' triangle
+1132 'CHRISTYNTJE VAN HOESEN (1142)' ellipse
+1133 'JAMES MADISON JR. (1143)' triangle
+1134 'ANNA JANSE VAN HOESEN (1144)' ellipse
+1135 '=JAMES MADISON (1145)' triangle
+1136 'ELIZABETH LUYCASSEN WYNGAART (1146)' ellipse
+1137 'RICHARD TAYLOR (1147)' triangle
+1138 'MARIA HOES (1148)' ellipse
+1139 '=ZACHARY TAYLOR (1149)' triangle
+1140 'CHRISTINA VAN ALEN (1150)' ellipse
+1141 'CLAAS GERRITSE VAN SCHAICK living 1677 (1151)' triangle
+1142 'MARIA QUACKENBOSS (1152)' ellipse
+1143 'JAN FRANSSEN d.c.1763 <Albany, N.Y.> (1153)' triangle
+1144 'HANNAH HOES (1154)' ellipse
+1145 'LAURENS VAN SCHAICK (1155)' triangle
+1146 'MARIA LUYKASSEN WYNGAART (1156)' ellipse
+1147 'JAN TYSSEN HOES (1157)' triangle
+1148 'LYDIA VAN DYCK* (1158)' ellipse
+1149 'LUYKAS GERRITSEN (1159)' triangle
+1150 'ANGELTJE (ANGELICA) YATES (1160)' ellipse
+1151 'DIRK JANSE HOES (1161)' triangle
+1152 'MARIA VAN SCHAACK (1162)' ellipse
+1153 'JOHANNES DIRCKSEN HOES (1163)' triangle
+1154 'MARGARET BARNHILL (1164)' ellipse
+1155 'ABRAHAM VAN BUREN (1165)' triangle
+1156 'MARTHA BULLOCH (1166)' ellipse
+1157 'DIRCK HOES (1167)' triangle
+1158 'ALICE HATHAWAY LEE (1168)' ellipse
+1159 '=MARTIN VAN BUREN* (1169)' triangle
+1160 'EDITH KERMIT CAROW* (1170)' ellipse
+1161 'JOHN DIRCKSEN HOES (1171)' triangle
+1162 'ANNIS AUSTEN (1172)' ellipse
+1163 'EMANUEL VAN SCHAACK (1173)' triangle
+1164 'REBECCA ------- (1174)' ellipse
+1165 'CORNELIUS VAN SCHAACK (1175)' triangle
+1166 'DELIVERANCE LITTLEFIELD (1176)' ellipse
+1167 'CORNELIUS VAN SCHAACK JR. (1177)' triangle
+1168 'ABIGAIL TILTON (1178)' ellipse
+1169 'JAMES J. (JACOBUS) ROOSEVELT* (1179)' triangle
+1170 'DORCAS DAY (1180)' ellipse
+1171 'CORNELIUS VAN SCHAACK ROOSEVELT (1181)' triangle
+1172 'MARY PAGE (1182)' ellipse
+1173 'THEODORE ROOSEVELT (1183)' triangle
+1174 'DORCAS -------- (1184)' ellipse
+1175 '=THEODORE ROOSEVELT JR. (1185)' triangle
+1176 'ELIZABETH PEARSON (1186)' ellipse
+1177 'FRANCIS LITTLEFIELD (1187)' triangle
+1178 'PHEBE PEARSON (1188)' ellipse
+1179 'ABRAHAM TILTON (1189)' triangle
+1180 'MARY -------- (1190)' ellipse
+1181 'JOHN FILLMORE (1191)' triangle
+1182 'MARGARET BARRETT <Windsor, Conn.> (1192)' ellipse
+1183 'JOHN FILLMORE JR. (1193)' triangle
+1184 'RUTH ROCKWELL* (1194)' ellipse
+1185 'ANTHONY LITTLEFIELD (1195)' triangle
+1186 'SARAH CLARK             could be # 1250 (1196)' ellipse
+1187 'EDMUND LITTLEFIELD (1197)' triangle
+1188 'LYDIA GAGER* (1198)' ellipse
+1189 'JOHN PEARSON d.1693 <Rowley, Mass.> (1199)' triangle
+1190 'EDITHA STEBBING/STEBBINS (1200)' ellipse
+1191 'TIMOTHY HARRIS (1201)' triangle
+1192 'SARAH COOPER (1202)' ellipse
+1193 'STEPHEN HARRIS (1203)' triangle
+1194 'MARY DAY                   not the same (1204)' ellipse
+1195 'JOHN HOPKINSON (1205)' triangle
+1196 'ABIGAIL MERRICK (1206)' ellipse
+1197 'SIMON HUNTINGTON (1207)' triangle
+1198 'MARY DAY                   not the same (1208)' ellipse
+1199 'CHRISTOPHER HUNTINGTON (1209)' triangle
+1200 'MARY RILEY (1210)' ellipse
+1201 'SIMON HUNTINGTON JR. (1211)' triangle
+1202 'ANNIS BAYFORD (1212)' ellipse
+1203 'SIMON HUNTINGTON (III) (1213)' triangle
+1204 'HANNAH GLOVER (1214)' ellipse
+1205 'ROBERT DAY d.1648 <Hartford, Conn.> (1215)' triangle
+1206 'ABIGAIL ASHLEY (1216)' ellipse
+1207 'THOMAS DAY (1217)' triangle
+1208 'ABIGAIL LEWIS (1218)' ellipse
+1209 'JOHN MERRICK (1219)' triangle
+1210 'MARY ASHLEY (1220)' ellipse
+1211 'TIMOTHY PHELPS (1221)' triangle
+1212 'MARY DANE (1222)' ellipse
+1213 'SAMUEL ELY (1223)' triangle
+1214 'HANNAH CHANDLER (1224)' ellipse
+1215 'JOSEPH ELY (1225)' triangle
+1216 'RUTH JOHNSON (1226)' ellipse
+1217 'ROBERT ASHLEY d.1682 <Springfield, Mass (1227)' triangle
+1218 'DOROTHY (WAYNES?) (1228)' ellipse
+1219 'WILLIAM CHANDLER 1595-1641/2 <Roxbury, (1229)' triangle
+1220 'MARY WORDEN (1230)' ellipse
+1221 'DAVID ASHLEY (1231)' triangle
+1222 'MARTHA BURGESS (1232)' ellipse
+1223 'NATHANIEL LEWIS (1233)' triangle
+1224 'MARY STORRS (1234)' ellipse
+1225 'JOSEPH LYMAN* (1235)' triangle
+1226 'SARAH JACOB (1236)' ellipse
+1227 'JOHN ROOT (III) (1237)' triangle
+1228 'ELIZABETH BURGESS (1238)' ellipse
+1229 'WILLIAM CHANDLER (1239)' triangle
+1230 'DEBORAH PERRY               not the sam (1240)' ellipse
+1231 'NATHANIEL ROBBINS JR. (1241)' triangle
+1232 'JOAN DABINOTT (1242)' ellipse
+1233 'THOMAS ROBBINS (1243)' triangle
+1234 'JANE ------- (1244)' ellipse
+1235 'JOHN BURGESS (1245)' triangle
+1236 'ALICE ------- (1246)' ellipse
+1237 'SAMUEL STORRS JR. (1247)' triangle
+1238 'MARY NEWBERRY (1248)' ellipse
+1239 'JOSEPH JACOB (1249)' triangle
+1240 'SARAH CLARK (1250)' ellipse
+1241 'ELIAS BIRCHARD (1251)' triangle
+1242 'MARY PINNEY (1252)' ellipse
+1243 'EZRA PERRY (1253)' triangle
+1244 'MARTHA ADAMS (1254)' ellipse
+1245 'SETH POPE* (1255)' triangle
+1246 'REBECCA NEWBERRY (1256)' ellipse
+1247 'THOMAS NEWBERRY 1594-1635/6 <Dorchester (1257)' triangle
+1248 'ABIGAIL WHITING (1258)' ellipse
+1249 'RALPH FARNUM d<1648 <Andover, Conn.> (1259)' triangle
+1250 'SARAH TROWBRIDGE (1260)' ellipse
+1251 'DANIEL CLARK (1261)' triangle
+1252 'REBECCA RUSSELL (1262)' ellipse
+1253 'ISAAC PINNEY (1263)' triangle
+1254 'SARAH FARNUM (1264)' ellipse
+1255 'JONATHAN GRIDLEY (1265)' triangle
+1256 'MARY FARNUM (1266)' ellipse
+1257 'JONATHAN GRIDLEY JR. (1267)' triangle
+1258 'MARY POOR (1268)' ellipse
+1259 'JOHN RUSSELL (1269)' triangle
+1260 'MARY THURLO (1270)' ellipse
+1261 'SAMUEL RUSSELL (1271)' triangle
+1262 'ELIZABETH NOYES (1272)' ellipse
+1263 'JOHN RUSSELL (1273)' triangle
+1264 'CATHERINE ------ (1274)' ellipse
+1265 'EZEKIEL HAYES (1275)' triangle
+1266 'HANNAH COOKE (1276)' ellipse
+1267 'GEORGE ABBOTT JR. (1277)' triangle
+1268 'ABIAL ------- (1278)' ellipse
+1269 'DANIEL POOR (1279)' triangle
+1270 'JANE -------- (1280)' ellipse
+1271 'JOHN NOYES (1281)' triangle
+1272 'RHODA ALBEE (1282)' ellipse
+1273 'JOHN NOYES JR. (1283)' triangle
+1274 'JOANNA ROCKWOOD (1284)' ellipse
+1275 'WILLIAM ADAMS* (1285)' triangle
+1276 'SUSANNA ------- (1286)' ellipse
+1277 'WALTER COOKE d.1695/6 <Weymouth, Mass.> (1287)' triangle
+1278 'TAMASIN COOK (1288)' ellipse
+1279 'JAMES ALBEE (1289)' triangle
+1280 'MARY HAYWARD (1290)' ellipse
+1281 'BENJAMIN ALBEE (1291)' triangle
+1282 'MARY ROCKWOOD (1292)' ellipse
+1283 'OBADIAH ALBEE (1293)' triangle
+1284 'JOANNA FORD (1294)' ellipse
+1285 'JOHN ROCKWOOD 1641-1724 <Mendon & Medfi (1295)' triangle
+1286 'MARY WHEATON (1296)' ellipse
+1287 'JOHN CHAPIN JR.* (1297)' triangle
+1288 'BETHIAH CHAPIN (1298)' ellipse
+1289 'NICHOLAS COOK (1299)' triangle
+1290 'RENEW WEEKS (1300)' ellipse
+1291 'DANIEL COOK (1301)' triangle
+1292 'DESIRE MARTIN* (1302)' ellipse
+1293 'JAMES BALLOU (III) (1303)' triangle
+1294 'MEHITABLE THOMPSON (1304)' ellipse
+1295 'JOSEPH ROCKWOOD (1305)' triangle
+1296 'KEZIAH CARPENTER (1306)' ellipse
+1297 'SAMUEL WHEATON (1307)' triangle
+1298 'MARGARET ------ (1308)' ellipse
+1299 'BENJAMIN HAYWARD JR. (1309)' triangle
+1300 'HANNAH WRIGHT (PROBABLY) (1310)' ellipse
+1301 'LEVI HAYWARD, LATER HOWARD (1311)' triangle
+1302 'HESTER WRIGHT (1312)' ellipse
+1303 'BENJAMIN CARPENTER 1658-1727 <Swansea, (1313)' triangle
+1304 'SARAH MARSHFIELD (1314)' ellipse
+1305 'JOTHAM CARPENTER (1315)' triangle
+1306 'JANE DUMMER (1316)' ellipse
+1307 'JOTHAM CARPENTER JR. (1317)' triangle
+1308 'MARGARET MITCHELL (1318)' ellipse
+1309 'THOMAS HORTON* (1319)' triangle
+1310 'ANNE SEWALL (1320)' ellipse
+1311 'THOMAS STEBBINS (1321)' triangle
+1312 'ANNE LONGFELLOW (1322)' ellipse
+1313 'SAMUEL WRIGHT d.1665 <Northampton, Mass (1323)' triangle
+1314 'SUSAN LANCOCK (1324)' ellipse
+1315 'SAMUEL MARSHFIELD (1325)' triangle
+1316 'BENNETT TRITTON (1326)' ellipse
+1317 'WILLIAM HOLTON JR.* (1327)' triangle
+1318 'ELIZABETH ------- (1328)' ellipse
+1319 'HENRY SEWALL JR. 1615-1706 <Newbury, Ma (1329)' triangle
+1320 'ELIZABETH STANLEY (1330)' ellipse
+1321 'STEPHEN SEWALL (1331)' triangle
+1322 'SARAH ST. JOHN (1332)' ellipse
+1323 'WILLIAM LONGFELLOW (1333)' triangle
+1324 'ELIZABETH WHITNEY (1334)' ellipse
+1325 'ABRAHAM ADAMS JR. (1335)' triangle
+1326 'SARAH ------ (1336)' ellipse
+1327 'JOHN STANLEY m.1590 <Ashford, Kent, Eng (1337)' triangle
+1328 'REBECCA KEELER (1338)' ellipse
+1329 'THOMAS STANLEY 1597-1663 <Hartford, Con (1339)' triangle
+1330 'ESTHER STACKHOUSE (1340)' ellipse
+1331 'TIMOTHY STANLEY 1599/1600-1648 <Hartfor (1341)' triangle
+1332 'MARY ANN BANGS (1342)' ellipse
+1333 'MARK ST. JOHN (1343)' triangle
+1334 'MARTHA ADELA BEAKY (1344)' ellipse
+1335 'SAMUEL KEELER (1345)' triangle
+1336 'LUCRETIA WEAR (1346)' ellipse
+1337 'JOSEPH KEELER (1347)' triangle
+1338 'MARY ----- (1348)' ellipse
+1339 'ELIJAH KEELER (1349)' triangle
+1340 'SARAH WINES (1350)' ellipse
+1341 'LEMUEL BANGS* (1351)' triangle
+1342 'PHEBE TERRY (1352)' ellipse
+1343 'ELIJAH KEELER BANGS (1353)' triangle
+1344 'ABIGAIL ------ (1354)' ellipse
+1345 'JOSEPH AMBROSE BEAKY (1355)' triangle
+1346 'ANN WINES (PROBABLY) (1356)' ellipse
+1347 'DAVID DAVIS WALKER (1357)' triangle
+1348 'AELTJE (ALIDA) VANDERBURGH (1358)' ellipse
+1349 'GEORGE HERBERT WALKER (1359)' triangle
+1350 'HEYLTJE JANS KUNST (1360)' ellipse
+1351 'BARNABAS WINES JR. c.1636-c.1711 <South (1361)' triangle
+1352 'CATHARINE HARDENBROECK (1362)' ellipse
+1353 'BARNABAS HORTON (1363)' triangle
+1354 'HEYLTJE SIOERTS (1364)' ellipse
+1355 'CALEB HORTON (1365)' triangle
+1356 'ANNETJE BOGERT (1366)' ellipse
+1357 'SAMUEL WINES (1367)' triangle
+1358 'ARIAENTJE CUVILJE (1368)' ellipse
+1359 'JOHN MANY OR MANNEY (1369)' triangle
+1360 'MARIA VIGNE (1370)' ellipse
+1361 'WINES MANNEY (1371)' triangle
+1362 'CATALYNTIE (CATALINA) VER PLANCK (1372)' ellipse
+1363 'NICHOLAS ROOSEVELT 1658-1742 <New York (1373)' triangle
+1364 'MARIA SCHUYLER (1374)' ellipse
+1365 'JAMES (JACOBUS) ROOSEVELT (1375)' triangle
+1366 'AELTJE LAMBERTS (1376)' ellipse
+1367 'JOHANNES ROOSEVELT (1377)' triangle
+1368 'CORNELIA -------- (1378)' ellipse
+1369 'JACOBUS ROOSEVELT (1379)' triangle
+1370 'CORNELIA ROOS (1380)' ellipse
+1371 'GULEYN VIGNE <New York City> (1381)' triangle
+1372 'TRYNTJE BENSON (1382)' ellipse
+1373 'JAN ROOS (1383)' triangle
+1374 'CORNELIA HOFFMAN (1384)' ellipse
+1375 'ABRAHAM VER PLANCK (1385)' triangle
+1376 'MARIA ELIZA WALTON* (1386)' ellipse
+1377 'GERRIT ROOS (1387)' triangle
+1378 'MARGARET GOODMAN (1388)' ellipse
+1379 'DAVID PIETERSE SCHUYLER* 1636-1690 Alba (1389)' triangle
+1380 'JOYCE ------ (1390)' ellipse
+1381 'HENDRICK VAN DYCK (1391)' triangle
+1382 'HANNAH TOMPKINS (1392)' ellipse
+1383 'JOHANNES ROOS (1393)' triangle
+1384 'ABIGAIL SNOW (1394)' ellipse
+1385 'ROBERT BENSON (1395)' triangle
+1386 'ELIZABETH DALE (1396)' ellipse
+1387 'MARTIN HOFFMAN (1397)' triangle
+1388 'ABIGAIL JONES (1398)' ellipse
+1389 'ISAAC ROOSEVELT        not #125 (1399)' triangle
+1390 'DORCAS EATON (1400)' ellipse
+1391 'JAMES ROOSEVELT        not #127 (1401)' triangle
+1392 'SARAH TOMPKINS (1402)' ellipse
+1393 'JOHN TOMPKINS d.1681 <Salem, Mass.> (1403)' triangle
+1394 'MARTHA REED (1404)' ellipse
+1395 'HUGH JONES (1405)' triangle
+1396 'MERCY WATERS (1406)' ellipse
+1397 'SAMUEL JONES (1407)' triangle
+1398 'EBENEZER JONES (1409)' triangle
+1399 'SUSANNA WATERS (1410)' ellipse
+1400 'WILLIAM THOMPSON (1411)' triangle
+1401 'SUSANNA ------- (1412)' ellipse
+1402 'WILLIAM THOMPSON JR. (1413)' triangle
+1403 'ELIZABETH STOWELL (1414)' ellipse
+1404 'RICHARD WATERS 1604-1677 <Salem, Mass.> (1415)' triangle
+1405 'MARY PULSIPHER (1416)' ellipse
+1406 'JOHN WATERS (1417)' triangle
+1407 'SARAH ------ (1418)' ellipse
+1408 'RICHARD WATERS (1419)' triangle
+1409 'ANNA ------ (1420)' ellipse
+1410 'SOLOMON HOLMAN JR. (1421)' triangle
+1411 'HANNAH OSBORN (1422)' ellipse
+1412 'BENEDICT PULSIPHER (1425)' triangle
+1413 'SARAH TRASK (1426)' ellipse
+1414 'DAVID PULSIPHER (1427)' triangle
+1415 'ELIZABEH ADAMS* (1428)' ellipse
+1416 'DAVID PULSIPHER JR. (1429)' triangle
+1417 'ABIGAIL FARFIELD (1430)' ellipse
+1418 'WILLIAM TRASK (1431)' triangle
+1419 'MARGARET ------ (1432)' ellipse
+1420 'WILLIAM TRASK JR. (1433)' triangle
+1421 'JOAN ANTROBUS (1434)' ellipse
+1422 'JOHN TRASK (1435)' triangle
+1423 'HANNAH THURSTON (1436)' ellipse
+1424 'HANNAH ------- (1438)' ellipse
+1425 'ELIAS PARKMAN JR. (1439)' triangle
+1426 'ELIZABETH CHENEY (1440)' ellipse
+1427 'WILLIAM PARKMAN (1441)' triangle
+1428 'ELEANOR CHENEY (1442)' ellipse
+1429 'JOHN PARKMAN (1443)' triangle
+1430 'MEHITABLE JOHNSON (1444)' ellipse
+1431 'WILLIAM CHENEY d.1667 <Roxbury, Mass.> (1445)' triangle
+1432 'MARY HINSDALE (1446)' ellipse
+1433 'THOMAS LAWRENCE 1588/9-1624/5 <St. Alba (1447)' triangle
+1434 'MARY -------- (1448)' ellipse
+1435 'JOSEPH CHENEY (1449)' triangle
+1436 'MARY LAWRENCE (1450)' ellipse
+1437 'JOSIAH CHENEY (1451)' triangle
+1438 'MARY SANTVOORT (1452)' ellipse
+1439 'PETER TAFT (1453)' triangle
+1440 'MARIA BEEKMAN* (1454)' ellipse
+1441 'HUMPHREY JOHNSON* (1455)' triangle
+1442 'GRACE WILLIAMS (1456)' ellipse
+1443 'SAMUEL HINSDAL (1457)' triangle
+1444 'JANE LAWRENCE 1614-1680 <Ipswich, Mass. (1458)' ellipse
+1445 'THOMAS SHELDON* (1459)' triangle
+1446 'SUSANA RINDGE (1460)' ellipse
+1447 'THOMAS LAWRENCE 1619/20-d<1703 <Newtown (1461)' triangle
+1448 'GRACE WARDWELL* (1462)' ellipse
+1449 'THOMAS WALTON (1463)' triangle
+1450 'SUSANNA GIDDINGS (1464)' ellipse
+1451 'WILLIAM WALTON (1465)' triangle
+1452 'GRACE SMITH (1466)' ellipse
+1453 'JACOB WALTON (1467)' triangle
+1454 'MARY ------- (1468)' ellipse
+1455 'ABRAHAM WALTON (1469)' triangle
+1456 'DEBORAH SHEPARD (1470)' ellipse
+1457 'GEORGE GIDDINGS (1471)' triangle
+1458 'MARY PENFIELD (1472)' ellipse
+1459 'JOSEPH GIDDINGS (1473)' triangle
+1460 'MARY FAIRBANKS (1474)' ellipse
+1461 'JOSEPH GIDDINGS JR. (1475)' triangle
+1462 'MARY ADAMS (1476)' ellipse
+1463 'WILLIAM TORREY     COULD BE # 311 WITH (1477)' triangle
+1464 'NAOMI ------- (1478)' ellipse
+1465 'THOMAS DAVENPORT d.1695 <Dorchester, Ma (1479)' triangle
+1466 'HANNAH MAYNARD (1480)' ellipse
+1467 'JONATHAN FAIRBANKS (1481)' triangle
+1468 'HANNAH DAVENPORT (1482)' ellipse
+1469 'JEREMIAH FAIRBANKS (1483)' triangle
+1470 'DEBORAH GUILE (1484)' ellipse
+1471 'RICHARD BUSH (1485)' triangle
+1472 'DEBORAH HOUSE (1486)' ellipse
+1473 'GEORGE FAIRBANKS (1487)' triangle
+1474 'MARY ------ (1488)' ellipse
+1475 'JOHN DAVENPORT (1489)' triangle
+1476 'SARAH MITCHELL (1490)' ellipse
+1477 'JONATHAN DAVENPORT (1491)' triangle
+1478 '(PERSIS?) EAMES (1492)' ellipse
+1479 'NATHANIEL HOUSE (1493)' triangle
+1480 'PRISCILLA GOULD (1494)' ellipse
+1481 'JOHN HOUSE (1495)' triangle
+1482 'ELIZABETH HUTCHINSON       could be sam (1496)' ellipse
+1483 'TIMOTHY BUSH (POSSIBLY-UNPROVED) (1497)' triangle
+1484 'HANNAH -------- (1498)' ellipse
+1485 'JOHN HAYWARD (1499)' triangle
+1486 'ANNE HOLYOKE* (1500)' ellipse
+1487 'MICHAEL PIERCE d.1676 <Scituate, Mass.> (1501)' triangle
+1488 'ANN WHITMARSH (1502)' ellipse
+1489 'JOHN PUTNAM 1579/80-1662 <Salem, Mass.> (1503)' triangle
+1490 'DOROTHY ------- (1504)' ellipse
+1491 'JOHN PUTNAM (1505)' triangle
+1492 'SARAH HUNT (1506)' ellipse
+1493 'BENJAMIN PUTNAM (1507)' triangle
+1494 'HANNAH PRATT (1508)' ellipse
+1495 'THOMAS PUTNAM (1509)' triangle
+1496 'MARY WHITMARSH (1510)' ellipse
+1497 'ENOCH HUNT d<1647 <Weymouth, Mass.> (1511)' triangle
+1498 'SARAH WHITE (1512)' ellipse
+1499 'MATTHEW PRATT JR. (1513)' triangle
+1500 'ANNA RICHARDS* (1514)' ellipse
+1501 'SAMUEL WHITMARSH (1515)' triangle
+1502 'MARY ------ (1516)' ellipse
+1503 'WILLIAM PAUL (1517)' triangle
+1504 'ELIZABETH ALCOCK (1518)' ellipse
+1505 'JAMES PAUL (1519)' triangle
+1506 'MARY LYON (1520)' ellipse
+1507 'SETH BRIGGS (1521)' triangle
+1508 'JOAN KEMBER (1522)' ellipse
+1509 'EPHRAIM HUNT (1523)' triangle
+1510 'MARY COFFIN                    not the (1524)' ellipse
+1511 'THOMAS ALCOCK* d.1657 <Boston, Mass.> (1525)' triangle
+1512 'DIONIS STEVENS (1526)' ellipse
+1513 'JOSEPH SOPER (1527)' triangle
+1514 'JUDITH GREENLEAF (1528)' ellipse
+1515 'SAMUEL SOPER (1529)' triangle
+1516 'MARY COFFIN (1530)' ellipse
+1517 'JONATHAN FAIRBANKS d.1668 <Dedham, Mass (1531)' triangle
+1518 'ABIAH CLEMENT (1532)' ellipse
+1519 'PETER COFFIN <brixton, Devon, England> (1533)' triangle
+1520 'JUDITH COFFIN (1534)' ellipse
+1521 'ALEXANDER ADAMS d.1677 <Boston, Mass.> (1535)' triangle
+1522 'JUDITH SANBORN (1536)' ellipse
+1523 'TRISTRAM COFFIN (1537)' triangle
+1524 'BETHIAH CLARK (1538)' ellipse
+1525 'TRISTRAM COFFIN JR. 1609/10-1681 <Haver (1539)' triangle
+1526 'SUSANNA STICKNEY* (1540)' ellipse
+1527 'JOSEPH LITTLE (1541)' triangle
+1528 'OLIVE IRBY (1542)' ellipse
+1529 'DANIEL LITTLE (1543)' triangle
+1530 'SARAH BULKELEY (1544)' ellipse
+1531 'JOHN SANBORN JR.* (1545)' triangle
+1532 'ELIZABETH ST. JOHN (1546)' ellipse
+1533 'EBENEZER GOVE (1547)' triangle
+1534 'JANE ALLEN (1548)' ellipse
+1535 'EDWARD GOVE (1549)' triangle
+1536 'LUCIAN ------ (1550)' ellipse
+1537 'NATHANIEL GOVE (1551)' triangle
+1538 'REBECCA WHEELER (1552)' ellipse
+1539 'REV. EDWARD BULKELEY d.1620/1 <Odell, B (1553)' triangle
+1540 'REBECCA BULKELEY (1554)' ellipse
+1541 'OLIVER ST. JOHN (1555)' triangle
+1542 'ABIGAIL BRIGHAM (1556)' ellipse
+1543 'REV. SAMUEL WHITING (1557)' triangle
+1544 'SARAH SMITH (1558)' ellipse
+1545 'REV. PETER BULKELEY 1582/3-1658/9 <Conc (1559)' triangle
+1546 'MARY SMITH (1560)' ellipse
+1547 'EDWARD BULKELEY (1561)' triangle
+1548 'MEHITABLE GARNSEY (1562)' ellipse
+1549 'PETER BULKELEY (1563)' triangle
+1550 'ANN MILLARD* (1564)' ellipse
+1551 'JONATHAN PRESCOTT JR. (1565)' triangle
+1552 'MARGARET ------ (1566)' ellipse
+1553 'ABEL PRESCOTT (1567)' triangle
+1554 'RACHEL HORTON               NOT # 1972 (1568)' ellipse
+1555 'ANDREW PHILLIPS JR. d.1717 <Charlestown (1569)' triangle
+1556 'HANNAH GARNSEY (1570)' ellipse
+1557 'EBENEZER PHILLIPS (1571)' triangle
+1558 'SARAH (HARMON?) (1572)' ellipse
+1559 'JONATHAN HORTON (1573)' triangle
+1560 'ELIZABETH ------ (1574)' ellipse
+1561 'JOHN HORTON (1575)' triangle
+1562 'DOROTHY BIRD (1576)' ellipse
+1563 'AARON FRANKLIN (1577)' triangle
+1564 'AMY LORD (1578)' ellipse
+1565 'PHILIP FRANKLIN* (1579)' triangle
+1566 'ELIZABETH SMITH         could be # 284 (1580)' ellipse
+1567 'THOMAS HORTON JR. (1581)' triangle
+1568 'MARY GILBERT (1582)' ellipse
+1569 'JOHN GARNSEY c.1648-1722 <Dorchester & (1583)' triangle
+1570 'HANNAH ELDRIDGE (1584)' ellipse
+1571 'THOMAS HORTON d<1715 <Rehoboth, Mass.> (1585)' triangle
+1572 'JOAN ------- (1586)' ellipse
+1573 'THOMAS LORD d.1667 <Hartford, Conn.> (1587)' triangle
+1574 'RUTH ------- (1588)' ellipse
+1575 'JOHN GILBERT (1589)' triangle
+1576 'ABIGAIL GIBBS (1590)' ellipse
+1577 'JOSEPH GILBERT (1591)' triangle
+1578 'ESTHER SWIFT (1592)' ellipse
+1579 'WILLIAM MINTHORN JR. (1593)' triangle
+1580 'ELIZABETH ------ (1594)' ellipse
+1581 'WILLIAM MINTHORN (III) (1595)' triangle
+1582 'INNOCENT HEAD (1596)' ellipse
+1583 'WILLIAM LORD (1597)' triangle
+1584 'ELIZABETH HEAD (1598)' ellipse
+1585 'WILLIAM SWIFT d.1643 <Sandwich, Mass.> (1599)' triangle
+1586 'WEALTHIAN (LORING?) (1600)' ellipse
+1587 'WILLIAM SWIFT JR. (1601)' triangle
+1588 'ANNA ------ (1602)' ellipse
+1589 'JIREH SWIFT (1603)' triangle
+1590 'MARY RICHARDS (1604)' ellipse
+1591 'RALPH ALLEN (1605)' triangle
+1592 'SARAH POPE* (1606)' ellipse
+1593 'HENRY HEAD d.1716 <Little Compton, R.I. (1607)' triangle
+1594 'MARY HINCKLEY (1608)' ellipse
+1595 'NATHANIEL CHURCH (1609)' triangle
+1596 'THANKFUL HAMBLEN (1610)' ellipse
+1597 'BENJAMIN WILBUR (1611)' triangle
+1598 'MARY PALGRAVE (1612)' ellipse
+1599 'THOMAS RICHARDS d.1650/1 <Weymouth, Mas (1613)' triangle
+1600 'ELIZABETH SWEETMAN (1614)' ellipse
+1601 'THOMAS HINCKLEY (1615)' triangle
+1602 'ELIZABETH WELLINGTON (1616)' ellipse
+1603 'SAMUEL HINCKLEY (1617)' triangle
+1604 'CATALINA (CATHERINE) DE BOOGH <Albany, (1618)' ellipse
+1605 'SAMUEL BANGS (1619)' triangle
+1606 'MAGDALENA ABEEL (1620)' ellipse
+1607 'JOSEPH BANGS (1621)' triangle
+1608 'JOHANNA LOPERS (1622)' ellipse
+1609 'DR. RICHARD PALGRAVE d.1651 <Charlestow (1623)' triangle
+1610 'CORNELIA BEEKMAN (1624)' ellipse
+1611 'ROGER WELLINGTON (1625)' triangle
+1612 'JUDITH NEWCOMB (1626)' ellipse
+1613 'BENJAMIN WELLINGTON (1627)' triangle
+1614 'SUSANNA LEWIS* (1628)' ellipse
+1615 'JOHN FAY JR. (1629)' triangle
+1616 'SARAH CAREY (1630)' ellipse
+1617 'WILHELMUS HENDRICKSE BEEKMAN 1623-1707 (1631)' triangle
+1618 'SARAH JENNEY (1632)' ellipse
+1619 'GERARDUS BEEKMAN (1633)' triangle
+1620 'ABIGAIL JENNEY (1634)' ellipse
+1621 'HENDRICK (HENRY) BEEKMAN (1635)' triangle
+1622 'MARY BARKER (1636)' ellipse
+1623 'GILBERT LIVINGSTON* (1637)' triangle
+1624 'THEODATE BATCHILER (1638)' ellipse
+1625 'JAMES LIVINGSTON (1639)' triangle
+1626 'REBECCA PERKINS (1640)' ellipse
+1627 'GILBERT JAMES LIVINGSTON (1641)' triangle
+1628 'ANN INNSKEEP (1642)' ellipse
+1629 'JOHN JENNEY d.1643/4 <Plymouth, Mass.> (1643)' triangle
+1630 'ELIZABETH ------ (1644)' ellipse
+1631 'THOMAS POPE (1645)' triangle
+1632 'MARGARET RECORD (1646)' ellipse
+1633 'HENRY WOOD (1647)' triangle
+1634 'MIRIAM HARVEY (1648)' ellipse
+1635 'DAVID WOOD (1649)' triangle
+1636 'LYDIA HUSSEY (1650)' ellipse
+1637 'REV. STEPHEN BATCHILER d.c.1660 <Hampto (1651)' triangle
+1638 'ELIZABETH HUSSEY (1652)' ellipse
+1639 'CHRISTOPHER HUSSEY (1653)' triangle
+1640 'EDITH PRICE (1654)' ellipse
+1641 'JOHN HUSSEY (1655)' triangle
+1642 'ELIZABETH PRICE GRIFFITH (1656)' ellipse
+1643 'JOHN HUSSEY JR. (1657)' triangle
+1644 'ANN BATCHLER (1658)' ellipse
+1645 'JOHN HUSSEY (III) (1659)' triangle
+1646 'MARY TUCK (1660)' ellipse
+1647 'RECORD HUSSEY (1661)' triangle
+1648 'DANIEL PRICE (1663)' triangle
+1649 'JACOB GRIFFITH (1665)' triangle
+1650 'AMOS GRIFFITH (1667)' triangle
+1651 'JOSHUA VICKERS MILHOUS (1669)' triangle
+1652 'MAGDALENA KNIGHT (1670)' ellipse
+1653 '------ SANBORN (1671)' triangle
+1654 'SUSANNA VANDERBURGH (1672)' ellipse
+1655 'JOHN SANBORN (1673)' triangle
+1656 'SARAH VAN KLEECK (1674)' ellipse
+1657 'HELENA ROBBERTS (1676)' ellipse
+1658 'MARRITJE VAN DEU(R)SEN (1678)' ellipse
+1659 'DIRKJE VAN ALSTYNE (1680)' ellipse
+1660 'TRYNTJE VAN DEU(R)SEN (1682)' ellipse
+1661 'HENRY VANDERBURGH c.1685-c.1750 <Poughk (1683)' triangle
+1662 'HENRY VANDERBURGH JR Loyalist, lived in (1685)' triangle
+1663 'RICHARD LEWIS (1687)' triangle
+1664 'MARY NORRIS, <Mayflower passenger> (1688)' ellipse
+1665 'TEUWIS (MATHEEUS OR MATTHEW) ABRAHAMSE (1689)' triangle
+1666 'FEAR BREWSTER <Plymouth, Mass.> (1690)' ellipse
+1667 'ABRAHAM JANSE VAN ALSTYNE (1691)' triangle
+1668 'ELIZABETH WILLOUGHBY (1692)' ellipse
+1669 'MARTIN VAN BUREN   GRANDFATHER OF PRESI (1693)' triangle
+1670 'SARAH ALLERTON (1694)' ellipse
+1671 'SAMSON BENSON (1695)' triangle
+1672 'MARY ALLERTON, <Mayflower passenger> (1696)' ellipse
+1673 'ELIZABETH COOMBS (1698)' ellipse
+1674 'SARAH HATCH (1700)' ellipse
+1675 'ISAAC ALLERTON, <Mayflower passenger> (1701)' triangle
+1676 'ELIZABETH BREWSTER (no known kinship to (1702)' ellipse
+1677 'ISAAC ALLERTON JR. (1703)' triangle
+1678 'SARAH ------- (1704)' ellipse
+1679 'HANCOCK LEE (1705)' triangle
+1680 'ELIZABETH WOODMANSEY (1706)' ellipse
+1681 'THOMAS GUSHMAN (1707)' triangle
+1682 'SARAH ------ (1708)' ellipse
+1683 'ELEAZER CUSHMAN (1709)' triangle
+1684 'ELIZABETH EMERSON (1710)' ellipse
+1685 'JAMES CUSHMAN (1711)' triangle
+1686 'ELIZABETH SABIN (1712)' ellipse
+1687 'THOMAS EMERSON 1584-1666 <Ipswich, Mass (1713)' triangle
+1688 'SUSANNA GLADDING (1714)' ellipse
+1689 'NATHANIEL EMERSON (1715)' triangle
+1690 'MARGERY ------ (1716)' ellipse
+1691 'JOSEPH EMERSON (1717)' triangle
+1692 'ELIZABETH PORTER (1718)' ellipse
+1693 'JAMES EMERSON (1719)' triangle
+1694 'ELIZABETH JOHNSON (1720)' ellipse
+1695 'JOSEPH TAFT (1721)' triangle
+1696 'JOAN PURCHASE (1722)' ellipse
+1697 'ROBERT MILLARD d.1699 <Rehoboth, Mass.> (1723)' triangle
+1698 'SUSANNA CAPEN (1724)' ellipse
+1699 'NATHANIEL MILLARD (1725)' triangle
+1700 'ELIZABETH SALTER (1726)' ellipse
+1701 'JOHN JOHNSON d.1659 <Roxbury, Mass.> (1727)' triangle
+1702 'MERCY BILLINGTON (1728)' ellipse
+1703 'ISAAC JOHNSON (1729)' triangle
+1704 'GRACE MARTIN (1730)' ellipse
+1705 'HENRY BOWEN (1731)' triangle
+1706 'MARTHA ORMSBY (1732)' ellipse
+1707 'BERNARD CAPEN d.1638 <Dorchester, Mass. (1733)' triangle
+1708 'CICELY PENNY (1734)' ellipse
+1709 'WILLIAM ROCKWELL (1735)' triangle
+1710 'MARY KING (1736)' ellipse
+1711 'RICHARD MARTIN 1609-1694/5 <Rehoboth, M (1737)' triangle
+1712 'HANNAH CHAPIN (1738)' ellipse
+1713 'JOHN MARTIN (1739)' triangle
+1714 'BETHIAH THURSTON (1740)' ellipse
+1715 'JOHN ORMSBY (1741)' triangle
+1716 'DORCAS ------ (1742)' ellipse
+1717 'JAMES FRANKLIN JR. (1743)' triangle
+1718 'JOANNA ------ (1744)' ellipse
+1719 'SAMUEL CHAPIN 1598-1675 <Springfield, M (1745)' triangle
+1720 'ANN WINN (1746)' ellipse
+1721 'JOSIAH CHAPIN (1747)' triangle
+1722 'DORCAS WILSON (1748)' ellipse
+1723 'JOHN HITCHCOCK     could be # 905 with (1749)' triangle
+1724 'ABIGAIL WATERS (1750)' ellipse
+1725 'SETH CHAPIN (1751)' triangle
+1726 'HANNAH SAWTELLE* (1752)' ellipse
+1727 'JOHN CHAPIN (1753)' triangle
+1728 'SIBILLA GOLD (1754)' ellipse
+1729 'EDWARD WINN d.1682 <Woburn, Mass.> (1755)' triangle
+1730 'MARY FISKE (1756)' ellipse
+1731 'MOSES CLEVELAND (1757)' triangle
+1732 'ANNA AUSTYE (1758)' ellipse
+1733 'AARON CLEVELAND (1759)' triangle
+1734 'MARGERY ----- (1760)' ellipse
+1735 'AARON CLEVELAND JR. (1761)' triangle
+1736 'ANNE LAWTER (1762)' ellipse
+1737 'INCREASE WINN (1763)' triangle
+1738 'SARAH FRANCIS (1764)' ellipse
+1739 'RICHARD FISKE <Broadgates, Laxfield, Su (1765)' triangle
+1740 'HANNAH PIKE (1766)' ellipse
+1741 'WILLIAM FISKE (1767)' triangle
+1742 'ANNE FISKE (1768)' ellipse
+1743 'ROBERT LAWTER (1769)' triangle
+1744 'MARY CHICKERING (1770)' ellipse
+1745 'JOHN FISKE (1771)' triangle
+1746 'ELIZABETH COLLAMORE (1772)' ellipse
+1747 'WILLIAM FISKE (1773)' triangle
+1748 'MARY CLEVES (1774)' ellipse
+1749 'ROBERT FISKE <Fresingfield & St. James, (1775)' triangle
+1750 'GEERTNUYT PHILIPS VAN SCHUYLDER (1776)' ellipse
+1751 'THOMAS FISKE (1777)' triangle
+1752 'MARGARETA VAN SLICHTENHORST (1778)' ellipse
+1753 'PHINEAS FISKE (1779)' triangle
+1754 'ALIDA SCHUYLER (1780)' ellipse
+1755 'JAMES FISKE (1781)' triangle
+1756 'MARY HOOKER (1782)' ellipse
+1757 'FRANCIS CHICKERING (1783)' triangle
+1758 'RACHEL GREENE (1784)' ellipse
+1759 'WILLIAM SYMMES (1785)' triangle
+1760 'RACHEL PERNE (1786)' ellipse
+1761 'TIMOTHY SYMMES (1787)' triangle
+1762 'JOAN TATTERSALL (1788)' ellipse
+1763 'TIMOTHY SYMMES JR. (1789)' triangle
+1764 'SARAH HOLYOKE (1790)' ellipse
+1765 'PIETER TJERCKS <Emden & Amsterdam, The (1791)' triangle
+1766 'PRUDENCE STOCKTON (1792)' ellipse
+1767 'PHILIP PIETERSE SCHUYLER 1628-1683 <Alb (1793)' triangle
+1768 'ANN JACOBS (1794)' ellipse
+1769 'ROBERT LIVINGSTON The Elder <N.Y.> Colo (1795)' triangle
+1770 'ANNE ANDREWS (1796)' ellipse
+1771 'RICHARD GREENE <Bowridge Hill, Gillingh (1797)' triangle
+1772 'ALICE ----- (1798)' ellipse
+1773 'RICHARD PERNE (1799)' triangle
+1774 'GRACE ----- (1800)' ellipse
+1775 'EDWARD RAWSON 1615-1693 Secretary of th (1801)' triangle
+1776 'ELIZABETH WADE (1802)' ellipse
+1777 'JOHN GREENE 1597-1659 <Providence, R.I. (1803)' triangle
+1778 'SARAH WARDWELL (1804)' ellipse
+1779 'REV. EDWARD HOLYOKE d.1660 <Rumney Mars (1805)' triangle
+1780 'ELIZABETH CREEL (1806)' ellipse
+1781 'JOHN ANDREWS (1807)' triangle
+1782 'ELIZABETH MOTT      not the same as # 2 (1808)' ellipse
+1783 'JOHN ANDREWS JR. (1809)' triangle
+1784 'MARY THURSTON (1810)' ellipse
+1785 'JOHN GILES* (1811)' triangle
+1786 'MARY LOTT (1812)' ellipse
+1787 'ADAM MOTT 1596-1661 <Portsmouth, R.I.> (1813)' triangle
+1788 'ANNE STITH (1814)' ellipse
+1789 'EDWARD THURSTON (1815)' triangle
+1790 'JANE ROLFE (1816)' ellipse
+1791 'EBENEZER SLOCUM (1817)' triangle
+1792 'ELIZABETH WORSHAM (1818)' ellipse
+1793 'ADAM MOTT JR. (1819)' triangle
+1794 'ANNE COCKE (1820)' ellipse
+1795 'WILLIAM RICKETSON (1821)' triangle
+1796 'ELIZABETH BOLLING (1822)' ellipse
+1797 'RICHARD SAWTELLE d.1694 <Watertown, Mas (1823)' triangle
+1798 'MARY KENNON (1824)' ellipse
+1799 'ZACHARIAH SAWTELLE (1825)' triangle
+1800 'MARTHA KENNON (1826)' ellipse
+1801 'POWHATAN (WAHONSONACOCK) (1827)' triangle
+1802 'JOHN ROLFE (1829)' triangle
+1803 'ELIZABETH BLAIR (1830)' ellipse
+1804 'THOMAS ROLFE (1831)' triangle
+1805 'MARY JEFFERSON (1832)' ellipse
+1806 'RICHARD KENNON (1833)' triangle
+1807 'ANNE BRODNAX (1834)' ellipse
+1808 'ROBERT BOLLING (1835)' triangle
+1809 'CLARISSA MONTFORT (1836)' ellipse
+1810 'JOHN BOLLING (1837)' triangle
+1811 'CATHERINE PAYNE (1838)' ellipse
+1812 'ROBERT MUNFORD              not the sam (1839)' triangle
+1813 'ANNE E. WIGGINTON (1840)' ellipse
+1814 'JAMES MUNFORD (1841)' triangle
+1815 'SALLIE SPIERS WHITE (1842)' ellipse
+1816 'JOHN BOLLING JR. (1843)' triangle
+1817 'EDITH BOLLING (1844)' ellipse
+1818 'JOHN BOLLING III (1845)' triangle
+1819 'ALICE ------ (1846)' ellipse
+1820 'ROBERT MUNFORD/MONTFORT     not the sam (1847)' triangle
+1821 'PRISCILLA MULLINS (1848)' ellipse
+1822 'JOHN SHELLMAN JR. (1849)' triangle
+1823 'MARY ------ (1850)' ellipse
+1824 'ARCHIBALD BOLLING (1851)' triangle
+1825 'ELIZABETH ------- (1852)' ellipse
+1826 'ARCHIBALD BOLLING JR. (1853)' triangle
+1827 'SARAH WALKER (1854)' ellipse
+1828 'WILLIAM HOLCOMBE BOLLING (1855)' triangle
+1829 'ELINOR ------- (1856)' ellipse
+1830 'NORMAN GALT (1857)' triangle
+1831 'CHRISTIAN PENN, widow of FRANCIS EATON (1858)' ellipse
+1832 '=(THOMAS) WOODROW WILSON (1859)' triangle
+1833 'JOAN HURST, <Mayflower passenger> (1860)' ellipse
+1834 'WILLIAM MULLINS (1861)' triangle
+1835 'FRANCES RUTH BURKE ROCHE (1862)' ellipse
+1836 'JOHN ALDEN, <Mayflower passenger> (1863)' triangle
+1837 'RUTH SYLVIA GILL (1864)' ellipse
+1838 'WILLIAM BREWSTER, <Mayflower passenger> (1865)' triangle
+1839 'SARAH ALLERTON (1866)' ellipse
+1840 'RICHARD WARREN, <Mayflower passenger> (1867)' triangle
+1841 'SARAH PRIEST (1868)' ellipse
+1842 'NATHANIEL WARREN (1869)' triangle
+1843 'ELIZABETH ------ (1870)' ellipse
+1844 'JOHN BILLINGTON, <Mayflower passenger> (1871)' triangle
+1845 'ABIGAIL WARREN (1872)' ellipse
+1846 'FRANCIS BILLINGTON, <Mayflower passenge (1873)' triangle
+1847 'ELIZABETH WARREN (1874)' ellipse
+1848 'EDWARD JOHN SPENCER (1875)' triangle
+1849 'ALICE WARREN (1876)' ellipse
+1850 'EDMUND MAURICE BURKE ROCHE (1877)' triangle
+1851 'LYDIA SNOW (1878)' ellipse
+1852 'JOHN TILLEY, <Mayflower passenger> (1879)' triangle
+1853 'MARY TUCKER (1880)' ellipse
+1854 'DEGORY PRIEST, <Mayflower passenger> (1881)' triangle
+1855 'DEBORAH SKIFFE (1882)' ellipse
+1856 'JOHN COOMBS (1883)' triangle
+1857 'GRACE SHAW (1884)' ellipse
+1858 'JOHN COOMBS JR. (1885)' triangle
+1859 'MILDRED READE (1886)' ellipse
+1860 'THOMAS GIBBS (1887)' triangle
+1861 'MARY WARNER (1888)' ellipse
+1862 'ANTHONY SNOW (1889)' triangle
+1863 'MILDRED SMITH (1890)' ellipse
+1864 'RICHARD CHURCH (1891)' triangle
+1865 'JUDITH COCKAYNE (1892)' ellipse
+1866 'JOSEPH CHURCH       could be # 847 with (1893)' triangle
+1867 'MILDRED PORTEUS (1894)' ellipse
+1868 'STEPHEN SKIFF (1895)' triangle
+1869 'MARY TUCKER (1896)' ellipse
+1870 'JOSEPH CHURCH JR. (1897)' triangle
+1871 'HENNETTA MILDRED HODGSON (1898)' ellipse
+1872 'STEPHEN PRESBURY (1899)' triangle
+1873 'FRANCES DORA SMITH (1900)' ellipse
+1874 'AUGUSTINE WARNER JR. (1901)' triangle
+1875 'NINA CECILIA CAVENDISH-BENTINCK (1902)' ellipse
+1876 'JOHN SMITH JR.    could be # 897 with a (1903)' triangle
+1877 'LADY ELIZABETH ANGELA MARGUERITE BOWES- (1904)' ellipse
+1878 'ROBERT PORTEUS (1905)' triangle
+1879 'QUEEN ELIZABETH II (1906)' ellipse
+1880 'ROBERT HODGSON (1907)' triangle
+1881 'LADY DIANA FRANCES SPENCER (1908)' ellipse
+1882 'ROBERT HODGSON (1909)' triangle
+1883 'HESTER COGSWELL (1910)' ellipse
+1884 'OSWALD SMITH (1911)' triangle
+1885 'SARAH FOBES* (1912)' ellipse
+1886 'CLAUDE BOWES-LYON (1913)' triangle
+1887 'KEZIAH HIBBARD* (1914)' ellipse
+1888 'CLAUDE GEORGE BOWES-LYON (1915)' triangle
+1889 'LUCY BISHOP (1916)' ellipse
+1890 'GEORGE VI (1917)' triangle
+1891 'REBECCA YOUNG (1918)' ellipse
+1892 'PRINCE PHILIP (1919)' triangle
+1893 'ELEANOR STRONG (1920)' ellipse
+1894 'PRINCE CHARLES PHILIP ARTHUR GEORGE (1921)' triangle
+1895 'ELLEN WOOD (1922)' ellipse
+1896 'PRINCE WILLIAM ARTHUR PHILIP LOUIS (1923)' triangle
+1897 'HANNAH GOODHUE (1924)' ellipse
+1898 'PRINCE HENRY CHARLES ALBERT DAVID (1925)' triangle
+1899 'HANNAH COGSWELL (1926)' ellipse
+1900 'SAMUEL BISHOP (1927)' triangle
+1901 'RACHEL BURNHAM (1928)' ellipse
+1902 'SAMUEL BISHOP JR. (1929)' triangle
+1903 'MARGARET OBER (1930)' ellipse
+1904 'CALEB BISHOP (1931)' triangle
+1905 'ABIGAIL MANNING (1932)' ellipse
+1906 'BENEJAH STRONG* (1933)' triangle
+1907 'CAROLINE ANDREWS (1934)' ellipse
+1908 'JOSEPH STRONG      could be # 1981 with (1935)' triangle
+1909 'LEMIRA A. BARRETT (1936)' ellipse
+1910 'JOHN WOOD      could be # 697 with anot (1937)' triangle
+1911 'FRANCES ELEANOR (ELLEN) WORK (1938)' ellipse
+1912 'FRANK(LIN) H. WORK* (1939)' triangle
+1913 'MARGERY HILL (1940)' ellipse
+1914 'JAMES BOOTHBY BURKE ROCHE (1941)' triangle
+1915 'HANNAH MORGAN (1942)' ellipse
+1916 'JOHN COGSWELL b>1640 Ipswitch, Mass. Gr (1943)' triangle
+1917 'LYDIA ROYCE (1944)' ellipse
+1918 'THOMAS BURNHAM (1945)' triangle
+1919 'DOROTHY PARKE* (1946)' ellipse
+1920 'JOSEPH ANDREWS (III) (1947)' triangle
+1921 'MARGARET MORGAN (1948)' ellipse
+1922 'JOSEPH ANDREWS (IV) (1949)' triangle
+1923 'ELIZABETH ------ (1950)' ellipse
+1924 'ISSACHAR ANDREWS (1951)' triangle
+1925 'EXPERIENCE WOODWARD (1952)' ellipse
+1926 'BENJAMIN GOODHUE (1953)' triangle
+1927 'THANKFUL POMEROY (1954)' ellipse
+1928 'ANDREW ISSACHAR GOODHUE (1955)' triangle
+1929 'MARY BLOTT (1956)' ellipse
+1930 'JAMES MORGAN (1957)' triangle
+1931 'MARY WOODFORD (1958)' ellipse
+1932 'JOSEPH MORGAN (1959)' triangle
+1933 'MARY ------ (1960)' ellipse
+1934 'EBENEZER HIBBARD (1961)' triangle
+1935 'SARAH WOODFORD (1962)' ellipse
+1936 'NEHEMIAH ROYCE (1963)' triangle
+1937 'SARAH ALLEN (1964)' ellipse
+1938 'DANIEL MESSENGER (1965)' triangle
+1939 'ELIZABETH STRONG   could not be # 2088 (1966)' ellipse
+1940 'HENRY WOODWARD (1967)' triangle
+1941 'TABITHA LEE (1968)' ellipse
+1942 'MEDAD POMEROY (1969)' triangle
+1943 'FREEDOM WOODWARD (1970)' ellipse
+1944 'BENJAMIN LYMAN (1971)' triangle
+1945 'RACHEL HOLTON (1972)' ellipse
+1946 'THOMAS WOODFORD     could be # 1973 wit (1973)' triangle
+1947 'MRS. MARGARET WILLIAMS STOCKING (1974)' ellipse
+1948 'ISAAC SHELDON (1975)' triangle
+1949 'CONSTANT MITCHELL (1976)' ellipse
+1950 'WILLIAM HOLTON (1977)' triangle
+1951 'SARAH GAGER (1978)' ellipse
+1952 'NEHEMIAH ALLEN (1979)' triangle
+1953 'ELIZABETH GORE (1980)' ellipse
+1954 'JOSEPH STRONG (1981)' triangle
+1955 'JOSEPH STRONG JR. (1983)' triangle
+1956 'ALICE MYRES (1984)' ellipse
+1957 'THOMAS STRONG (1985)' triangle
+1958 'RACHEL CLAYTON (1986)' ellipse
+1959 'JEDEDIAH STRONG (1987)' triangle
+1960 'SARAH NEWBOLD (1988)' ellipse
+1961 'PRESERVED STRONG (1989)' triangle
+1962 'BARBARA BLACK (1990)' ellipse
+1963 'THOMAS MITCHELL (1991)' triangle
+1964 'SARAH DUNCAN BOUDE (1992)' ellipse
+1965 'JOHN FORBES (1993)' triangle
+1966 'MARY HARTSHORNE (1994)' ellipse
+1967 'CALEB FOBES (1995)' triangle
+1968 'HANNAH ------ (1996)' ellipse
+1969 'JOHN GAGER (1997)' triangle
+1970 'MARY (WALKER?) (1998)' ellipse
+1971 'MARY CLAYTON (2000)' ellipse
+1972 'JOHN CLAYTON (2001)' triangle
+1973 'JANE BROWN (2002)' ellipse
+1974 'MICHAEL NEWBOLD JR. (2003)' triangle
+1975 'MARY LOUISE MOORE (2004)' ellipse
+1976 'THOMAS BOUDE (2005)' triangle
+1977 'SARAH ANN WADSWORTH (2006)' ellipse
+1978 'JOHN WORK (2007)' triangle
+1979 'ZEBULON CLAYTON (2009)' triangle
+1980 'THOMAS CLAYTON (2011)' triangle
+1981 'MARY SHELDON             could be # 878 (2012)' ellipse
+1982 'THOMAS CLAYTON (JR.) (PROBABLY) (2013)' triangle
+1983 'ELIZABETH ALLIS (2014)' ellipse
+1984 'ISAAC BROWN (2015)' triangle
+1985 'ELIZABETH BRIDGEMAN (2016)' ellipse
+1986 'JOSEPH DICKINSON MOORE (2017)' triangle
+1987 'SARAH RAWSON (2018)' ellipse
+1988 'THOMAS WILEY WADSWORTH (2019)' triangle
+1989 'LYDIA MURDOCK (2020)' ellipse
+1990 'SAMUEL BRADY NIXON (2021)' triangle
+1991 'RUTH HAYWARD ROGERS (2022)' ellipse
+1992 'ROBERT BLOTT (2023)' triangle
+1993 'EMMA CORNELIA HARMON (2024)' ellipse
+1994 'JOANNA BLOTT (2026)' ellipse
+1995 'ELIHU WARDWELL (2027)' triangle
+1996 'MARY LOVETT (2028)' ellipse
+1997 'JOHN BRIDGEMAN (2029)' triangle
+1998 'ANNA GEER (2030)' ellipse
+1999 'JAMES BRIDGEMAN (2031)' triangle
+2000 'MEHITABLE SHURTLEFF (2032)' ellipse
+2001 'NATHANIEL HARMON (2033)' triangle
+2002 'SARAH EDWARDS (2034)' ellipse
+2003 'ANAN HARMON (2035)' triangle
+2004 'GERTRUDE ELIZABETH TYLER (2036)' ellipse
+2005 'RAWSON HARMON (2037)' triangle
+2006 'RUTH SHELDON (2038)' ellipse
+2007 'ELISHA HARMON (2039)' triangle
+2008 'RUTH WRIGHT (2040)' ellipse
+2009 'OSCAR FOLSOM (2041)' triangle
+2010 'BETHIA NOBLE (2042)' ellipse
+2011 'THOMAS JEX PRESTON JR. (2043)' triangle
+2012 'RUTH NOBLE (2044)' ellipse
+2013 'DANIEL LOVETT (2045)' triangle
+2014 'HONOR ROBBINS (2046)' ellipse
+2015 'HOPESTILL TYLER (2047)' triangle
+2016 'ELIZABETH ROBBINS ROOT (2048)' ellipse
+2017 'DANIEL TYLER (2049)' triangle
+2018 'JESSIE ANN STEVENS (2050)' ellipse
+2019 'DANIEL TYLER JR. (2051)' triangle
+2020 'ANNE AYERS FRANCIS (2052)' ellipse
+2021 'DANIEL TYLER (III) (2053)' triangle
+2022 'EDITH LUCKETT (2054)' ellipse
+2023 'DANIEL TYLER (IV) (2055)' triangle
+2024 'EMILY LEE (2056)' ellipse
+2025 'CHARLES CAROW (2057)' triangle
+2026 'ANNE FRANCIS ROBBINS AKA NANCY DAVIS (2058)' ellipse
+2027 'JOSEPH WRIGHT (2059)' triangle
+2028 'MARTHA CHAPLIN (2060)' ellipse
+2029 'LUKE NOBLE (2061)' triangle
+2030 'MARTHA HOLGRAVE (2062)' ellipse
+2031 'ASA NOBLE (2063)' triangle
+2032 'THEODA PARKE (2064)' ellipse
+2033 'EZEKIEL ROOT (2065)' triangle
+2034 'DOROTHY THOMPSON (2066)' ellipse
+2035 'GEORGE BRIDGES RODNEY ROOT (2067)' triangle
+2036 'SARAH MAY (2068)' ellipse
+2037 'MANNING FRANCIS (2069)' triangle
+2038 'SARAH TILESTON (2070)' ellipse
+2039 'FREDERICK AUGUSTUS FRANCIS (2071)' triangle
+2040 'ABIGAIL ALLEN                 + 336 are (2072)' ellipse
+2041 'JOHN NEWELL ROBBINS (2073)' triangle
+2042 'LYDIA DWIGHT (2074)' ellipse
+2043 'KENNETH SEYMOUR ROBBINS (2075)' triangle
+2044 'ABIGAIL WILLIAMS (2076)' ellipse
+2045 'DR. LOYAL EDWARD DAVIS (2077)' triangle
+2046 'ABIGAIL WILLIAMS (2078)' ellipse
+2047 '=RONALD WILSON REAGAN (2079)' triangle
+2048 'MARGARET BLISS (2080)' ellipse
+2049 'ROBERT PARKE (2081)' triangle
+2050 'MARGARET JANE HOYT (2082)' ellipse
+2051 'WILLIAM PARKE (2083)' triangle
+2052 'ELLEN LOUISE AXSON (2084)' ellipse
+2053 'THOMAS PARKE (2085)' triangle
+2054 'MARY STRONG (2086)' ellipse
+2055 'SAMUEL WILLIAMS (2087)' triangle
+2056 'ELIZABETH STRONG        could not be # (2088)' ellipse
+2057 'SAMUEL WILLIAMS JR. (2089)' triangle
+2058 'ABIGAIL PARSONS (2090)' ellipse
+2059 'JOHN WILLIAMS (2091)' triangle
+2060 'JENISHA RUSSELL (2092)' ellipse
+2061 'ELEAZOR WILLIAMS (2093)' triangle
+2062 'SARAH KING (2094)' ellipse
+2063 'ELIJAH WILLIAMS (2095)' triangle
+2064 'SARAH HOLTON (2096)' ellipse
+2065 'THOMAS WILLIAMS (2097)' triangle
+2066 'MINDWELL SHELDON (2098)' ellipse
+2067 'ALEXANDER BLISS (2099)' triangle
+2068 'MARTHA WILLIAMS (2100)' ellipse
+2069 'NATHAN HOYT (2101)' triangle
+2070 'ABIGAIL MOSELEY (2102)' ellipse
+2071 'SAMUEL EDWARD AXSON (2103)' triangle
+2072 'ELIZABETH HUNT          could be the sa (2104)' ellipse
+2073 'JOHN CLARK (2105)' triangle
+2074 'MINDWELL LYMAN (2106)' ellipse
+2075 'JOSEPH PARSONS JR. (2107)' triangle
+2076 'ENNICE POMEROY (2108)' ellipse
+2077 'EBENEZER CLARK (2109)' triangle
+2078 'JERUSHA CLARK (2110)' ellipse
+2079 'EBENEZER CLARK JR. (2111)' triangle
+2080 'SARAH D. TODD (2112)' ellipse
+2081 'JOHN KING                 could be # 95 (2113)' triangle
+2082 'ELIZABETH EMERY (2114)' ellipse
+2083 'EBENEZER POMEROY (2115)' triangle
+2084 'MARGARET "MADGE" GATES (2116)' ellipse
+2085 'JONATHAN HUNT JR. (2117)' triangle
+2086 'ELIZABETH VIRGINIA "BESS" WALLACE (2118)' ellipse
+2087 'JOHN LYMAN JR. (2119)' triangle
+2088 'BLANCHE PLANTAGENET (2120)' ellipse
+2089 'JOHN LYMAN (III) (2121)' triangle
+2090 'CONSTANCE OF CASTILE (2122)' ellipse
+2091 'EBENEZER POMEROY JR. (2123)' triangle
+2092 'CATHERINE DE ROET (2124)' ellipse
+2093 'EBENEZER POMERY (III) (2125)' triangle
+2094 'MARGARET HOLAND (2126)' ellipse
+2095 'EBENEZER CLARK (III) (2127)' triangle
+2096 'CARDINAL BEAUFORT (2128)' ellipse
+2097 'SAMUEL GATES JR. (2129)' triangle
+2098 'JOAN BEAUFORT           not # 2134 (2130)' ellipse
+2099 'GEORGE WILLAMS GATES (2131)' triangle
+2100 'MARGARET BEAUCHAMP (2132)' ellipse
+2101 'GEORGE PARKERFIELD (2133)' triangle
+2102 'JOAN BEAUFORT           not # 2130 (2134)' ellipse
+2103 'DAVID WILLOCK WALLACE (2135)' triangle
+2104 'JANE BEAUFORT (2136)' ellipse
+2105 '=HARRY S. TRUMAN (2137)' triangle
+2106 'CECILY NEVILLE (2138)' ellipse
+2107 'JOHN OF GAUNT (2139)' triangle
+2108 'MARGARET BEAUFORT (2140)' ellipse
+2109 'JOHN BEAUFORT (2141)' triangle
+2110 'ELIZABETH WOODVILLE (2142)' ellipse
+2111 'HENRY BEAUFORT (2143)' triangle
+2112 'ELIZABETH PLANTAGENET (2144)' ellipse
+2113 'ROBERT FERRERS (2145)' triangle
+2114 'MARY FERRERS (2146)' ellipse
+2115 'RALPH NEVILLE (2147)' triangle
+2116 'ALICE MONTAGU (2148)' ellipse
+2117 'RICHARD PLANTAGENET (2149)' triangle
+2118 'ELIZABETH BEAUCHAMP (2150)' ellipse
+2119 'SIR EDWARD STRADLING (2151)' triangle
+2120 'CATHERINE HOWARD (2152)' ellipse
+2121 'SIR JAMES STEWART (2153)' triangle
+2122 'ELEANOR NEVILLE          not the same a (2154)' ellipse
+2123 'JAMES I (2155)' triangle
+2124 'ELEANOR POYNINGS (2156)' ellipse
+2125 'EDMUND TUDOR (2157)' triangle
+2126 'ELIZABETH NEWMARCH (2158)' ellipse
+2127 'JOHN BEAUFORT (2159)' triangle
+2128 'JANE NEVILLE (2160)' ellipse
+2129 'EDWARD IV (2161)' triangle
+2130 'ANNE PERCY (2162)' ellipse
+2131 'HENRY VII (2163)' triangle
+2132 'MARY HUNGERFORD (2164)' ellipse
+2133 'SIR RALPH NEVILLE (2165)' triangle
+2134 'MARGARET PERCY (2166)' ellipse
+2135 'RICHARD NEVILLE            not # 2229 (2167)' triangle
+2136 'ELIZABETH GASCOIGNE (2168)' ellipse
+2137 'GEORGE NEVILLE (2169)' triangle
+2138 'ANNE TALBOYS (2170)' ellipse
+2139 'EDWARD NEVILLE (2171)' triangle
+2140 'FRANCES DYMOKE (2172)' ellipse
+2141 'HENRY PERCY (2173)' triangle
+2142 'MILDRED WINDEBANK (2174)' ellipse
+2143 'HENRY PERCY (2175)' triangle
+2144 'ELIZABETH MARTIAU (2176)' ellipse
+2145 'SIR WILLIAM GASCOIGNE (2177)' triangle
+2146 'SIR THOMAS HUNGERFORD (2179)' triangle
+2147 'CATHERINE NEVILLE              not # 22 (2180)' ellipse
+2148 'EDWARD HASTINGS (2181)' triangle
+2149 'ISABEL STAVELY (2182)' ellipse
+2150 'SIR WILLIAM GASCOIGNE (2183)' triangle
+2151 'BRIDGET CAVE (2184)' ellipse
+2152 'SIR GEORGE TALBOYS (2185)' triangle
+2153 'ANNE TANFIELD (2186)' ellipse
+2154 'SIR EDWARD DYMOKE (2187)' triangle
+2155 'ELIZABETH VINCENT (2188)' ellipse
+2156 'SIR THOMAS WINDEBANK (2189)' triangle
+2157 'DOROTHY LANE (2190)' ellipse
+2158 'ROBERT READE (2191)' triangle
+2159 'ELIZABETH RYLAND (2192)' ellipse
+2160 'MARY ISHAM (2194)' ellipse
+2161 'ROBERT TANFIELD (2195)' triangle
+2162 'JANE ROGERS (2196)' ellipse
+2163 'WILLIAM TANFIELD (2197)' triangle
+2164 'JANE RANDOLPH (2198)' ellipse
+2165 'FRANCIS TANFIELD (2199)' triangle
+2166 'MRS. MARTHA WAYLES SKELTON (2200)' ellipse
+2167 'CLEMENT VINCENT (2201)' triangle
+2168 'ELIZABETH HERBERT (2202)' ellipse
+2169 'RICHARD LANE (2203)' triangle
+2170 'JANET MATHEW (2204)' ellipse
+2171 'WILLIAM RANDOLPH (2205)' triangle
+2172 'JANE STRADLING (2206)' ellipse
+2173 'RICHARD RANDOLPH (2207)' triangle
+2174 'DOROTHY GRIFFITH (2208)' ellipse
+2175 'WILLIAM RANDOLPH (2209)' triangle
+2176 'JANE WILLIAMS (2210)' ellipse
+2177 'ISHAM RANDOLPH (2211)' triangle
+2178 'JOANNA BOURCHIER (2212)' ellipse
+2179 'PETER JEFFERSON (2213)' triangle
+2180 'ANNE STAFFORD (2214)' ellipse
+2181 '=THOMAS JEFFERSON (2215)' triangle
+2182 'DOROTHY NEVILLE (2216)' ellipse
+2183 'SIR HENRY STRADLING (2217)' triangle
+2184 'ANNE DAWNEY (2218)' ellipse
+2185 'THOMAS STRADLING (2219)' triangle
+2186 'AGNES BOWES (2220)' ellipse
+2187 'SIR WILLIAM GRIFFITH (2221)' triangle
+2188 'ELEANOR CONYERS (2222)' ellipse
+2189 'WILLIAM WILLIAMS (2223)' triangle
+2190 'ELIZABETH ------ (2224)' ellipse
+2191 'WILLIAM COTYMORE (2225)' triangle
+2192 'DOROTHY ------ (2226)' ellipse
+2193 'SIR HENRY NEVILLE (2227)' triangle
+2194 'ISABEL INGOLDSTHORP (2228)' ellipse
+2195 'RICHARD NEVILLE (2229)' triangle
+2196 'LUCY NEVILLE (2230)' ellipse
+2197 'SIR JOHN DAWNEY (2231)' triangle
+2198 'ALICE GAGE (2232)' ellipse
+2199 'SIR GEORGE CONYERS (2233)' triangle
+2200 'ELEANOR NEVILLE               not the s (2234)' ellipse
+2201 'SIR JOHN CONYERS (2235)' triangle
+2202 'JOAN STRANGE (2236)' ellipse
+2203 'LANCELOT STROTHER (2237)' triangle
+2204 'ANNE HASTINGS (2238)' ellipse
+2205 'WILLIAM STROTHER (2239)' triangle
+2206 'MARGARET STANLEY (2240)' ellipse
+2207 'WILLIAM STROTHER (2241)' triangle
+2208 'CATHERINE NEVILLE              not # 21 (2242)' ellipse
+2209 'JOHN NEVILLE (2243)' triangle
+2210 'SIR ANTHONY BROWNE (2245)' triangle
+2211 'JANE RADCLIFFE (2246)' ellipse
+2212 'SIR ANTHONY BROWNE (2247)' triangle
+2213 'MARY DORMER (2248)' ellipse
+2214 'THOMAS STANLEY (2249)' triangle
+2215 'DOROTHY BROWNE (2250)' ellipse
+2216 'GEORGE STANLEY, LORD STRANGE (2251)' triangle
+2217 'MARY OF GUELDERS (2252)' ellipse
+2218 'WILLIAM HASTINGS (2253)' triangle
+2219 'MARY STEWART (2254)' ellipse
+2220 'FERDINAND I (2255)' triangle
+2221 'JANET HOME (2256)' ellipse
+2222 'THOMAS STANLEY (2257)' triangle
+2223 'MARGARET HAMILTON (2258)' ellipse
+2224 'ROBERT RADCLIFFE (2259)' triangle
+2225 'MARGARET DOUGLAS (2260)' ellipse
+2226 'ANTHONY BROWNE (2261)' triangle
+2227 'MARY SCOTT (2262)' ellipse
+2228 'HON. ANTHONY BROWNE (2263)' triangle
+2229 'JEAN ELLIOT (2264)' ellipse
+2230 'EDMUND LEE (2265)' triangle
+2231 'MARION RIDDELL (2266)' ellipse
+2232 'JAMES II (2267)' triangle
+2233 'BARBARA ABERNETHY (2268)' ellipse
+2234 'JAMES HAMILTON (2269)' triangle
+2235 'BARBARA RUTHERFORD (2270)' ellipse
+2236 'JAMES HAMILTON (2271)' triangle
+2237 'DOROTHY COLLINGWOOD (2272)' ellipse
+2238 '(ILLEGITIMATE BY)SIR JOHN HAMILTON (2273)' triangle
+2239 'BARBARA BENNET (2274)' ellipse
+2240 'DAVID DOUGLAS (2275)' triangle
+2241 'MARY KERR (2276)' ellipse
+2242 'SIR WALTER SCOTT (2277)' triangle
+2243 'ELIZABETH SCOTT (2278)' ellipse
+2244 'WILLIAM ELLIOT (2279)' triangle
+2245 'MARGARET SCOTT (2280)' ellipse
+2246 'RICHARD RUTHERFORD (2281)' triangle
+2247 'ANN BENNET (2282)' ellipse
+2248 'ROBERT RUTHERFORD (2283)' triangle
+2249 'JOAN STEWART (2284)' ellipse
+2250 'JOHN RUTHERFORD (2285)' triangle
+2251 'JANET DOUGLAS (2286)' ellipse
+2252 'ARCHIBALD BENNET (2287)' triangle
+2253 'JANET HEPBURN (2288)' ellipse
+2254 'ANDREW BENNET (2289)' triangle
+2255 'ELIZABETH HAY (2290)' ellipse
+2256 'JAMES MURRAY (2291)' triangle
+2257 'BEATRIX SETON (2292)' ellipse
+2258 'WALTER SCOTT (2293)' triangle
+2259 'JANET OGILVY (2294)' ellipse
+2260 'WALTER SCOTT (2295)' triangle
+2261 'JEAN RAMSAY (2296)' ellipse
+2262 '(ILLEGITIMATE BY) FRANCIS SCOTT (2297)' triangle
+2263 'GRIZEL FORBES (2298)' ellipse
+2264 'SIR JOHN SCOTT (2299)' triangle
+2265 'AGNES HORN (2300)' ellipse
+2266 'JOHN MURRAY (2301)' triangle
+2267 'EUPHEMIA DOUGLAS (2302)' ellipse
+2268 'JOHN MURRAY (2303)' triangle
+2269 'ELEANOR SINCLAIR (2304)' ellipse
+2270 'JAMES DOUGLAS (2305)' triangle
+2271 'MARY CAMPBELL (2306)' ellipse
+2272 'PATRICK HEPBURN (2307)' triangle
+2273 'ELIZABETH STEWART (2308)' ellipse
+2274 'GEORGE SETON III (2309)' triangle
+2275 'CHRISTIAN MUNRO (2310)' ellipse
+2276 'GEORGE SETON IV (2311)' triangle
+2277 'JEAN BAILLIE (2312)' ellipse
+2278 'SIR GEORGE OGILVY (2313)' triangle
+2279 'JEAN CHISOLM (2314)' ellipse
+2280 'WILLIAM FORBES (2315)' triangle
+2281 'JEAN MACKENZIE (2316)' ellipse
+2282 'THOMAS FORBES (2317)' triangle
+2283 'ELIZABETH MACKAY (2318)' ellipse
+2284 'JOHN DOUGLAS (2319)' triangle
+2285 'ANN ELIZABETH BAILLIE (2320)' ellipse
+2286 'JOHN DOUGLAS (2321)' triangle
+2287 'ANNE IRVINE (2322)' ellipse
+2288 'CHARLES IRVINE (2323)' triangle
+2289 'MARTHA STEWART (2324)' ellipse
+2290 'JOHN IRVINE (2325)' triangle
+2291 'CATHERINE PLANTAGENET (2326)' ellipse
+2292 'JOHN STEWART (2327)' triangle
+2293 'PHILIPPA PLANTAGENET (2328)' ellipse
+2294 'JOHN STEWART (2329)' triangle
+2295 'ISABELLA OF BRAGANZA (2330)' ellipse
+2296 'SIR KENNETH MACKENZIE      could be # 2 (2331)' triangle
+2297 'ISABELLA OF PORTUGAL (2332)' ellipse
+2298 'COLIN MACKENZIE (2333)' triangle
+2299 'ISABELLA OF CASTILE (2334)' ellipse
+2300 'SIR KENNETH MACKENZIE (2335)' triangle
+2301 'INES DE AYALA (2336)' ellipse
+2302 'ALEXANDER BAILLIE (2337)' triangle
+2303 'JUANA DE OROZCO (2338)' ellipse
+2304 'JOHN BAILLIE (2339)' triangle
+2305 'INES DE GUZMAN OR DE TOLEDO (2340)' ellipse
+2306 'KENNETH BAILLIE (2341)' triangle
+2307 'MARIA FERNANDEZ DE CORDOBA (2342)' ellipse
+2308 'JAMES BULLOCH (2343)' triangle
+2309 'JUANA HENRIQUEZ (2344)' ellipse
+2310 'JAMES STEPHENS BULLOCH (2345)' triangle
+2311 'SANCHA DE AYALA (2346)' ellipse
+2312 'JOAO I (2347)' triangle
+2313 'CONSTANCE BLOUNT (2348)' ellipse
+2314 'ENRIQUE III (2349)' triangle
+2315 'MARGARET GRESLEY (2350)' ellipse
+2316 'JUAN II (2351)' triangle
+2317 'HELEN BYRON (2352)' ellipse
+2318 'UZAL WARDWELL (2353)' triangle
+2319 'MARGARET ECHYNGHAM (2354)' ellipse
+2320 'JOAO (2355)' triangle
+2321 'ELIZABETH BLOUNT                    not (2356)' ellipse
+2322 'DIEGO GOMEZ DE GUZMAN OR DE TOLEDO (2357)' triangle
+2323 'AGNES HAWLEY (2358)' ellipse
+2324 'PEDRO SUAREZ DE GUZMAN OR DE TOLEDO (2359)' triangle
+2325 'CATHERINE CLIFTON (2360)' ellipse
+2326 'DIEGO FERNANDEZ DE CORDOBA (2361)' triangle
+2327 'ANNE BLOUNT (2362)' ellipse
+2328 'FADRIQUE HENRIQUEZ (2363)' triangle
+2329 'KATHERINE ------ (2364)' ellipse
+2330 'JUAN II (2365)' triangle
+2331 'ELIZABETH BERKELEY (2366)' ellipse
+2332 'SIR WALTER BLOUNT (2367)' triangle
+2333 'DOROTHY DE LA FORD (2368)' ellipse
+2334 'SIR THOMAS BLOUNT (2369)' triangle
+2335 'ELIZABETH BLOUNT        not the same as (2370)' ellipse
+2336 'SIR JOHN SUTTON         could be 2399 w (2371)' triangle
+2337 'JOYCE TIPTOFT (2372)' ellipse
+2338 'WALTER BLOUNT (2373)' triangle
+2339 '------- CHARROLL (2374)' ellipse
+2340 'JOHN DUDLEY (2375)' triangle
+2341 'ELIZABETH BRAMSHOT (2376)' ellipse
+2342 'JOHN SUTTON (2377)' triangle
+2343 'JANE SUTTON (2378)' ellipse
+2344 'WILLIAM BLOUNT (2379)' triangle
+2345 'CECILY MAINWARING (2380)' ellipse
+2346 'WILLIAM MARBURY (2381)' triangle
+2347 'ELEANOR SUTTON (2382)' ellipse
+2348 'RICHARD BLOUNT (2383)' triangle
+2349 'CONSTANCE BEAUMONT (2384)' ellipse
+2350 'ROBERT MARBURY (2385)' triangle
+2351 'EDITH WINDSOR (2386)' ellipse
+2352 'THOMAS WOODFORD     could be # 1973 wit (2387)' triangle
+2353 'JANE PYLE (2388)' ellipse
+2354 'SIR EDMUND SUTTON (OR DUDLEY) (2389)' triangle
+2355 'PHYLLIS -------- (2390)' ellipse
+2356 'JOHN DUDLEY (2391)' triangle
+2357 'AGNES LENTON (2392)' ellipse
+2358 'THOMAS MAINWARING (2393)' triangle
+2359 'URSULA WOODFORD (2394)' ellipse
+2360 'JOHN COTTON (2395)' triangle
+2361 'ELIZABETH LIGHT (2396)' ellipse
+2362 'EDMUND DUDLEY (2397)' triangle
+2363 'MARGARET SUTTON (2398)' ellipse
+2364 'SIR JOHN SUTTON (2399)' triangle
+2365 'MARGARET GREEKE (2400)' ellipse
+2366 'SIR HENRY BEAUMONT (2401)' triangle
+2367 'EMMA SAUNDERS (2402)' ellipse
+2368 'JOHN MITTON (2403)' triangle
+2369 'ELIZABETH LEIGHTON (2404)' ellipse
+2370 'GEORGE LUDLOW (2405)' triangle
+2371 'SUSANNA THORNE (2406)' ellipse
+2372 'THOMAS LUDLOW (2407)' triangle
+2373 'MARGARET BUTLER (2408)' ellipse
+2374 'GABRIEL LUDLOW (2409)' triangle
+2375 'DOROTHY YORKE (2410)' ellipse
+2376 'WILLIAM MARBURY (2411)' triangle
+2377 'ANNE DUDLEY (2412)' ellipse
+2378 'WALTER LIGHT (2413)' triangle
+2379 'ANNE WOOD (2414)' ellipse
+2380 'ROBERT WASHINGTON (2415)' triangle
+2381 'MARGARET BRADSTREET (2416)' ellipse
+2382 'JOHN BUTLER (2417)' triangle
+2383 'MARY ONLEY (2418)' ellipse
+2384 'WILLIAM BUTLER (2419)' triangle
+2385 'MARY MAINWARING (2420)' ellipse
+2386 'LAWRENCE WASHINGTON (2421)' triangle
+2387 'FRANCES COTTON (2422)' ellipse
+2388 '(ILLEGITIMATE) SIMON DUDLEY (2423)' triangle
+2389 'JOANNA -------- (2424)' ellipse
+2390 'ROGER DUDLEY (2425)' triangle
+2391 'JOYCE MITTON (2426)' ellipse
+2392 'THOMAS DUDLEY (2427)' triangle
+2393 'ANNE SKRIMSHIRE (2428)' ellipse
+2394 'SIMON BRADSTREET (2429)' triangle
+2395 'KATHERINE MITTON (2430)' ellipse
+2396 'DUDLEY BRADSTREET (2431)' triangle
+2397 'ELIZABETH MARSHALL (2432)' ellipse
+2398 'JOB TYLER (2433)' triangle
+2399 'JUDITH LEWIS (2434)' ellipse
+2400 'SIR GEORGE COTTON (2435)' triangle
+2401 'HANNAH GIBBINS (2436)' ellipse
+2402 'RICHARD COTTON (2437)' triangle
+2403 'CECILY THAYER (2438)' ellipse
+2404 'GEORGE ABELL (2439)' triangle
+2405 'JUDITH DAVIS (2440)' ellipse
+2406 'ROBERT ABELL (2441)' triangle
+2407 'MARTHA BRADLEY (2442)' ellipse
+2408 'JOHN HARPERSFIELD (2443)' triangle
+2409 'SARAH ------- (2444)' ellipse
+2410 'EDWARD HARPERSFIELD (2445)' triangle
+2411 'ELIZABETH EATON (2446)' ellipse
+2412 'ROGER MARSHALL (2447)' triangle
+2413 'DEBORAH BARNES (2448)' ellipse
+2414 'THOMAS LEWIS (2449)' triangle
+2415 'MARY KELLY (2450)' ellipse
+2416 'JAMES GIBBINS (2451)' triangle
+2417 'ELIZABETH HARRIS (2452)' ellipse
+2418 '------ HIBBERT (2453)' triangle
+2419 'POCAHONTAS (MATOAKA) (2454)' ellipse
+2420 'JAMES DAVIS d.1678/9 <Haverhill, Mass.> (2455)' triangle
+2421 'ELIZABETH ------- (2456)' ellipse
+2422 'RECONSTRUCTION NO DATA (2457)' triangle
+2423 'ELIZABETH MOTT             not # 1808 (2458)' ellipse
+2424 'MARTHA BRADLEYRECONSTRUCTION NO DATA (2459)' triangle
+2425 'JAMES DAVIS JR.*/ RECONSTRUCTION NO DAT (2461)' triangle
+2426 'JAMES DAVIS (III)*/ RECONSTRUCTION NO D (2463)' triangle
+2427 'SAMUEL DAVIS*/ RECONSTRUCTION NO DATA (2465)' triangle
+2428 'WILLIAM DAVIS*/ RECONSTRUCTION NO DATA (2467)' triangle
+2429 'ROBERT BOLLING JR. (2469)' triangle
+2430 'JOHN NEVILLE (2471)' triangle
+2431 'JOSEPH BOUDE (2473)' triangle
+2432 'GEORGE READE (2475)' triangle
+2433 'COLIN MACKENZIE (2477)' triangle
+2434 'ANDREWS WINDSOR (2479)' triangle
+2435 'SIR THOMAS BLOUNT (2481)' triangle
+2436 'WILLIAM TRASK d.1666 <Salem, Mass.> (2483)' triangle
+2437 'mother of KATHERINE MILES (3338)' ellipse
+2438 'father of KATHERINE MILES (3339)' triangle
+2439 'ANNA LIVINGSTONE HALL (3340)' ellipse
+2440 'ELLIOT ROOSEVELT 1185 (3341)' triangle
+2441 'mother of WOODROW WILSON (3342)' ellipse
+2442 'father of WOODROW WILSON (3343)' triangle
+2443 'mother of EDITH LUCKETT (3344)' ellipse
+2444 'father of EDITH LUCKETT (3345)' triangle
+2445 'mother of ROBERT BOLLING (3346)' ellipse
+2446 'father of ROBERT BOLLING (3347)' triangle
+2447 'mother of CHRISTIAN PENN (3348)' ellipse
+2448 'father of CHRISTIAN PENN (3349)' triangle
+2449 'mother of ISSAC ALLERTON (3352)' ellipse
+2450 'father of ISSAC ALLERTON (3353)' triangle
+2451 'mother of THOMAS NEWBERRY (3356)' ellipse
+2452 'father of THOMAS NEWBERRY (3357)' triangle
+2453 'mother of ELIZABETH CHARDE (3358)' ellipse
+2454 'father of ELIZABETH CHARDE (3359)' triangle
+2455 'mother of JOHN of Gaunt (3360)' ellipse
+2456 'father of JOHN of Gaunt (3361)' triangle
+2457 '------------- (3362)' ellipse
+2458 '------------- (3364)' ellipse
+2459 '------------- (3366)' ellipse
+2460 '------------- (3368)' ellipse
+2461 '------------- (3370)' ellipse
+2462 '------------- (3372)' ellipse
+2463 '------------- (3374)' ellipse
+2464 '------------- (3376)' ellipse
+2465 '------------- (3378)' ellipse
+2466 '------------- (3380)' ellipse
+2467 '------------- (3382)' ellipse
+2468 '------------- (3384)' ellipse
+2469 '------------- (3386)' ellipse
+2470 '------------- (3388)' ellipse
+2471 '------------- (3390)' ellipse
+2472 '------------- (3392)' ellipse
+2473 '------------- (3394)' ellipse
+2474 '------------- (3396)' ellipse
+2475 '------------- (3398)' ellipse
+2476 'father* of THOMAS ALCOCK and GEORGE ALC (4000)' triangle
+2477 'FRANCIS EATON, <Mayflower passenger> (4001)' triangle
+*arcs
+1 6 1
+1 4 1
+1 2 1
+2 9 1
+2 11 1
+3 9 1
+3 11 1
+4 12 1
+5 12 1
+6 14 1
+7 14 1
+8 17 1
+9 17 1
+10 18 1
+11 18 1
+12 21 1
+13 21 1
+14 23 1
+15 23 1
+17 25 1
+16 25 1
+19 26 1
+18 26 1
+21 28 1
+20 28 1
+23 31 1
+22 31 1
+25 33 1
+24 33 1
+27 34 1
+26 34 1
+29 37 1
+28 37 1
+31 38 1
+30 38 1
+34 40 1
+35 40 1
+32 47 1
+33 47 1
+38 44 1
+39 44 1
+36 43 1
+37 43 1
+42 50 1
+43 50 1
+40 49 1
+41 49 1
+44 53 1
+45 53 1
+51 57 1
+50 57 1
+49 54 1
+48 54 1
+55 62 1
+54 62 1
+53 60 1
+52 60 1
+59 70 1
+63 65 1
+62 64 1
+61 64 1
+60 70 1
+69 71 1
+70 71 1
+64 65 1
+65 67 1
+66 67 1
+76 81 1
+77 83 1
+78 83 1
+79 132 1
+73 75 1
+73 79 1
+73 77 1
+74 75 1
+74 79 1
+74 77 1
+75 81 1
+85 88 1
+84 103 1
+87 90 1
+86 88 1
+81 86 1
+81 105 1
+80 132 1
+83 103 1
+82 86 1
+82 105 1
+93 95 1
+92 94 1
+95 97 1
+94 95 1
+89 92 1
+88 90 1
+91 94 1
+90 92 1
+103 106 1
+100 101 1
+98 99 1
+99 101 1
+96 97 1
+97 99 1
+110 111 1
+111 114 1
+108 109 1
+109 111 1
+106 108 1
+107 109 1
+104 106 1
+105 108 1
+119 122 1
+118 120 1
+117 120 1
+116 118 1
+115 118 1
+114 115 1
+113 115 1
+112 114 1
+127 129 1
+126 127 1
+125 127 1
+124 126 1
+123 126 1
+122 123 1
+121 123 1
+120 122 1
+137 140 1
+136 138 1
+139 141 1
+138 140 1
+141 143 1
+140 141 1
+143 150 1
+143 145 1
+142 143 1
+128 129 1
+131 133 1
+131 175 1
+133 136 1
+132 133 1
+132 175 1
+135 138 1
+134 136 1
+152 153 1
+153 160 1
+154 155 1
+155 162 1
+156 162 1
+157 164 1
+158 160 1
+159 166 1
+144 150 1
+145 152 1
+146 145 1
+147 154 1
+148 152 1
+149 153 1
+150 154 1
+151 155 1
+171 173 1
+170 169 1
+169 171 1
+168 170 1
+175 177 1
+174 173 1
+172 171 1
+163 165 1
+162 166 1
+161 128 1
+160 164 1
+167 169 1
+166 165 1
+165 170 1
+164 128 1
+186 185 1
+187 189 1
+184 183 1
+185 190 1
+190 189 1
+191 193 1
+188 190 1
+189 191 1
+178 177 1
+179 184 1
+177 182 1
+182 184 1
+183 185 1
+180 182 1
+181 183 1
+205 42 1
+204 206 1
+207 1867 1
+206 205 1
+201 206 1
+200 202 1
+203 205 1
+202 204 1
+197 202 1
+196 63 1
+199 204 1
+198 200 1
+198 217 1
+193 63 1
+192 191 1
+195 200 1
+195 217 1
+194 193 1
+220 222 1
+221 218 1
+222 224 1
+223 220 1
+216 249 1
+216 219 1
+216 230 1
+217 249 1
+217 219 1
+217 230 1
+218 220 1
+219 215 1
+212 209 1
+213 215 1
+214 2318 1
+214 1995 1
+215 218 1
+208 42 1
+209 550 1
+210 550 1
+211 209 1
+239 241 1
+238 240 1
+237 234 1
+236 238 1
+235 232 1
+234 241 1
+232 234 1
+230 232 1
+229 226 1
+227 224 1
+225 222 1
+224 226 1
+254 248 1
+255 257 1
+252 261 1
+253 248 1
+250 259 1
+251 253 1
+248 257 1
+249 251 1
+246 253 1
+247 228 1
+244 251 1
+245 242 1
+242 228 1
+243 240 1
+240 242 1
+241 238 1
+275 312 1
+275 305 1
+274 279 1
+273 275 1
+272 312 1
+272 305 1
+279 281 1
+278 283 1
+277 279 1
+276 281 1
+283 282 1
+282 287 1
+281 283 1
+280 282 1
+287 286 1
+286 288 1
+285 287 1
+284 286 1
+258 265 1
+259 261 1
+256 263 1
+257 259 1
+263 265 1
+260 264 1
+261 263 1
+266 273 1
+266 268 1
+265 264 1
+270 275 1
+271 277 1
+271 293 1
+268 277 1
+268 293 1
+269 273 1
+269 268 1
+305 304 1
+304 307 1
+307 308 1
+306 308 1
+309 311 1
+308 311 1
+311 59 1
+310 59 1
+313 314 1
+312 314 1
+315 316 1
+314 316 1
+317 318 1
+316 318 1
+319 320 1
+318 320 1
+289 288 1
+290 295 1
+292 297 1
+293 295 1
+294 299 1
+295 297 1
+296 301 1
+297 299 1
+298 300 1
+299 301 1
+300 167 1
+301 300 1
+302 304 1
+303 167 1
+343 345 1
+342 345 1
+341 342 1
+340 342 1
+339 350 1
+339 341 1
+338 350 1
+338 341 1
+337 338 1
+336 338 1
+351 352 1
+350 352 1
+347 348 1
+346 348 1
+345 347 1
+344 347 1
+326 329 1
+327 329 1
+324 327 1
+325 327 1
+322 325 1
+323 325 1
+320 322 1
+321 322 1
+334 336 1
+335 336 1
+332 360 1
+332 383 1
+332 334 1
+333 360 1
+333 383 1
+333 334 1
+328 330 1
+329 330 1
+373 375 1
+372 375 1
+375 376 1
+374 376 1
+369 371 1
+368 371 1
+371 373 1
+370 373 1
+383 384 1
+382 384 1
+377 379 1
+376 379 1
+379 380 1
+378 380 1
+356 359 1
+357 359 1
+358 172 1
+359 172 1
+352 355 1
+353 355 1
+354 357 1
+355 357 1
+364 366 1
+365 366 1
+366 369 1
+367 369 1
+360 363 1
+361 363 1
+362 364 1
+363 364 1
+410 413 1
+411 413 1
+408 309 1
+409 309 1
+414 416 1
+415 416 1
+412 415 1
+413 415 1
+402 404 1
+403 404 1
+400 411 1
+400 403 1
+400 428 1
+401 411 1
+401 403 1
+401 428 1
+406 408 1
+407 408 1
+404 406 1
+405 406 1
+395 256 1
+394 256 1
+393 394 1
+392 394 1
+399 400 1
+398 400 1
+397 438 1
+397 398 1
+396 438 1
+396 398 1
+387 388 1
+386 388 1
+385 386 1
+384 386 1
+391 393 1
+390 393 1
+389 390 1
+388 390 1
+440 442 1
+441 456 1
+441 443 1
+442 456 1
+442 443 1
+443 446 1
+444 446 1
+445 424 1
+446 424 1
+447 449 1
+432 434 1
+433 434 1
+434 437 1
+435 437 1
+436 194 1
+437 194 1
+438 440 1
+439 442 1
+425 589 1
+424 449 1
+427 775 1
+426 552 1
+429 431 1
+428 431 1
+431 432 1
+430 432 1
+417 419 1
+416 419 1
+419 420 1
+418 420 1
+421 422 1
+420 422 1
+423 356 1
+422 356 1
+478 479 1
+479 481 1
+476 477 1
+477 479 1
+474 124 1
+475 477 1
+472 474 1
+473 124 1
+470 472 1
+471 474 1
+468 470 1
+469 472 1
+466 497 1
+466 506 1
+467 470 1
+464 468 1
+464 475 1
+465 497 1
+465 506 1
+463 468 1
+463 475 1
+462 466 1
+462 464 1
+461 466 1
+461 464 1
+460 581 1
+459 317 1
+458 317 1
+457 458 1
+456 458 1
+455 66 1
+454 66 1
+453 455 1
+452 455 1
+451 452 1
+450 452 1
+449 451 1
+448 451 1
+508 511 1
+509 511 1
+510 512 1
+511 512 1
+504 324 1
+505 324 1
+506 508 1
+507 508 1
+500 503 1
+501 503 1
+502 504 1
+503 504 1
+496 499 1
+497 499 1
+498 500 1
+499 500 1
+493 524 1
+492 494 1
+495 526 1
+494 524 1
+489 492 1
+488 489 1
+488 532 1
+491 494 1
+490 492 1
+485 353 1
+484 485 1
+487 489 1
+487 532 1
+486 353 1
+481 484 1
+480 481 1
+483 485 1
+482 484 1
+550 55 1
+551 55 1
+548 551 1
+549 551 1
+546 549 1
+547 549 1
+544 547 1
+545 547 1
+558 560 1
+559 560 1
+556 565 1
+556 559 1
+557 565 1
+557 559 1
+554 556 1
+555 556 1
+552 554 1
+553 554 1
+567 563 1
+566 563 1
+565 566 1
+564 566 1
+563 568 1
+562 568 1
+561 562 1
+560 562 1
+574 584 1
+571 572 1
+570 572 1
+569 570 1
+568 570 1
+516 395 1
+517 395 1
+518 523 1
+518 534 1
+519 523 1
+519 534 1
+512 515 1
+513 515 1
+514 517 1
+515 517 1
+524 526 1
+525 527 1
+526 527 1
+527 529 1
+520 540 1
+520 543 1
+521 540 1
+521 543 1
+522 19 1
+523 19 1
+533 552 1
+532 533 1
+535 537 1
+535 1883 1
+535 1916 1
+534 537 1
+534 1883 1
+534 1916 1
+529 32 1
+528 529 1
+531 533 1
+530 32 1
+541 16 1
+540 16 1
+543 544 1
+542 544 1
+537 539 1
+536 539 1
+539 24 1
+538 24 1
+610 612 1
+611 612 1
+608 614 1
+608 610 1
+609 614 1
+609 610 1
+614 616 1
+615 618 1
+612 561 1
+613 561 1
+618 606 1
+619 620 1
+616 618 1
+617 606 1
+622 624 1
+623 974 1
+620 977 1
+621 977 1
+627 626 1
+626 628 1
+625 624 1
+624 626 1
+631 630 1
+630 632 1
+629 628 1
+628 630 1
+634 638 1
+634 637 1
+633 632 1
+639 659 1
+639 656 1
+638 659 1
+638 656 1
+637 649 1
+637 641 1
+637 655 1
+636 649 1
+636 641 1
+636 655 1
+576 583 1
+577 584 1
+577 581 1
+578 10 1
+579 623 1
+580 586 1
+580 585 1
+581 583 1
+582 528 1
+583 586 1
+583 585 1
+584 10 1
+585 528 1
+586 589 1
+587 119 1
+588 590 1
+588 594 1
+589 119 1
+590 595 1
+591 590 1
+591 594 1
+593 595 1
+592 567 1
+595 567 1
+594 596 1
+597 596 1
+596 598 1
+599 598 1
+598 600 1
+601 603 1
+600 603 1
+603 604 1
+602 604 1
+606 620 1
+687 473 1
+686 473 1
+685 687 1
+684 687 1
+683 685 1
+682 685 1
+681 682 1
+681 679 1
+680 682 1
+680 679 1
+679 211 1
+678 211 1
+677 645 1
+676 645 1
+675 677 1
+674 677 1
+673 675 1
+672 675 1
+702 705 1
+703 705 1
+700 702 1
+700 715 1
+700 721 1
+701 702 1
+701 715 1
+701 721 1
+698 660 1
+699 660 1
+696 368 1
+697 368 1
+694 697 1
+695 697 1
+692 698 1
+692 695 1
+693 698 1
+693 695 1
+690 642 1
+691 642 1
+688 693 1
+688 690 1
+689 693 1
+689 690 1
+653 243 1
+652 243 1
+655 657 1
+654 657 1
+649 651 1
+648 651 1
+651 653 1
+650 653 1
+645 647 1
+644 647 1
+647 51 1
+646 51 1
+641 643 1
+640 643 1
+643 644 1
+642 644 1
+668 670 1
+668 680 1
+669 670 1
+669 680 1
+670 672 1
+671 672 1
+664 667 1
+665 667 1
+666 252 1
+667 252 1
+660 662 1
+661 662 1
+662 665 1
+663 665 1
+656 652 1
+657 652 1
+658 661 1
+659 661 1
+747 748 1
+746 748 1
+745 746 1
+744 746 1
+751 752 1
+750 752 1
+749 751 1
+748 751 1
+739 740 1
+738 740 1
+737 739 1
+736 739 1
+743 548 1
+742 548 1
+741 743 1
+740 743 1
+762 764 1
+763 766 1
+760 762 1
+761 764 1
+766 768 1
+767 770 1
+764 766 1
+765 768 1
+754 781 1
+754 771 1
+754 755 1
+755 758 1
+752 370 1
+753 370 1
+758 760 1
+759 762 1
+756 758 1
+757 760 1
+715 716 1
+714 716 1
+717 718 1
+716 718 1
+719 285 1
+718 285 1
+705 707 1
+704 707 1
+707 708 1
+706 708 1
+709 711 1
+708 711 1
+711 712 1
+710 712 1
+728 731 1
+729 731 1
+730 733 1
+731 733 1
+732 734 1
+733 734 1
+734 710 1
+735 710 1
+720 722 1
+721 722 1
+722 294 1
+723 294 1
+724 736 1
+724 726 1
+724 745 1
+725 736 1
+725 726 1
+725 745 1
+726 728 1
+727 728 1
+821 824 1
+821 826 1
+820 845 1
+820 829 1
+823 225 1
+822 824 1
+822 826 1
+817 845 1
+817 829 1
+816 818 1
+819 853 1
+818 822 1
+829 831 1
+828 840 1
+831 834 1
+830 831 1
+825 828 1
+824 225 1
+827 840 1
+826 828 1
+804 803 1
+805 810 1
+806 808 1
+807 163 1
+800 683 1
+801 803 1
+802 801 1
+803 808 1
+812 813 1
+812 811 1
+813 820 1
+813 819 1
+814 820 1
+814 819 1
+815 822 1
+808 810 1
+809 813 1
+809 811 1
+810 163 1
+811 818 1
+791 795 1
+791 800 1
+790 156 1
+789 794 1
+789 796 1
+788 787 1
+787 156 1
+786 788 1
+785 787 1
+784 783 1
+799 683 1
+798 223 1
+797 801 1
+796 797 1
+795 223 1
+794 795 1
+794 800 1
+793 797 1
+792 794 1
+792 796 1
+774 427 1
+775 782 1
+772 774 1
+773 427 1
+771 774 1
+768 770 1
+782 780 1
+783 788 1
+780 392 1
+781 783 1
+778 782 1
+779 392 1
+776 775 1
+777 780 1
+881 887 1
+881 889 1
+880 289 1
+883 888 1
+883 278 1
+882 871 1
+882 237 1
+885 280 1
+884 886 1
+884 881 1
+884 290 1
+887 891 1
+886 888 1
+886 278 1
+889 902 1
+888 280 1
+891 898 1
+890 887 1
+890 889 1
+893 897 1
+892 891 1
+895 893 1
+894 902 1
+864 1957 1
+864 1959 1
+864 2054 1
+864 866 1
+864 2056 1
+865 867 1
+866 868 1
+867 869 1
+868 867 1
+869 157 1
+870 869 1
+871 873 1
+872 157 1
+873 878 1
+874 873 1
+875 877 1
+876 878 1
+877 289 1
+878 877 1
+879 886 1
+879 881 1
+879 290 1
+851 850 1
+850 847 1
+849 847 1
+848 421 1
+855 859 1
+855 862 1
+854 851 1
+853 851 1
+852 850 1
+859 1957 1
+859 1959 1
+859 2054 1
+859 866 1
+859 2056 1
+858 862 1
+857 882 1
+856 853 1
+856 1476 1
+863 868 1
+862 882 1
+861 871 1
+861 237 1
+860 859 1
+834 836 1
+835 837 1
+832 834 1
+833 836 1
+838 839 1
+839 161 1
+836 837 1
+837 839 1
+842 835 1
+843 841 1
+840 161 1
+841 835 1
+846 844 1
+847 421 1
+844 841 1
+845 844 1
+956 958 1
+957 1228 1
+957 1235 1
+958 965 1
+959 956 1
+952 954 1
+953 1526 1
+954 45 1
+955 979 1
+955 984 1
+955 1000 1
+948 569 1
+949 954 1
+950 949 1
+951 45 1
+944 946 1
+945 947 1
+946 947 1
+947 569 1
+941 944 1
+940 942 1
+943 946 1
+942 944 1
+937 949 1
+936 407 1
+939 942 1
+938 935 1
+938 939 1
+938 950 1
+933 935 1
+933 939 1
+933 950 1
+932 923 1
+935 956 1
+934 932 1
+929 932 1
+928 925 1
+931 923 1
+930 310 1
+926 928 1
+927 407 1
+924 354 1
+925 310 1
+922 924 1
+923 925 1
+920 922 1
+921 928 1
+918 920 1
+919 354 1
+916 918 1
+917 924 1
+914 340 1
+915 922 1
+912 909 1
+913 920 1
+911 918 1
+910 936 1
+910 929 1
+909 340 1
+908 926 1
+907 909 1
+906 911 1
+906 907 1
+905 911 1
+905 907 1
+904 908 1
+904 906 1
+904 910 1
+903 926 1
+902 893 1
+901 936 1
+901 929 1
+900 245 1
+899 908 1
+899 906 1
+899 910 1
+898 897 1
+897 245 1
+896 898 1
+1016 1018 1
+1017 838 1
+1018 1031 1
+1019 1012 1
+1019 1014 1
+1020 1022 1
+1022 1024 1
+1023 1030 1
+1008 838 1
+1009 1011 1
+1010 1012 1
+1010 1014 1
+1011 1004 1
+1012 1027 1
+1012 1037 1
+1013 1006 1
+1014 1030 1
+1015 1008 1
+1001 994 1
+1000 1011 1
+1003 1005 1
+1002 1004 1
+1005 998 1
+1004 1006 1
+1007 454 1
+1006 1008 1
+993 995 1
+992 994 1
+995 988 1
+994 1005 1
+997 999 1
+996 998 1
+999 992 1
+998 454 1
+986 988 1
+987 980 1
+984 995 1
+985 987 1
+990 992 1
+991 69 1
+988 999 1
+989 991 1
+978 980 1
+979 623 1
+976 987 1
+977 622 1
+982 69 1
+983 985 1
+980 991 1
+981 974 1
+971 968 1
+969 971 1
+968 975 1
+974 985 1
+973 975 1
+972 307 1
+963 965 1
+962 969 1
+961 958 1
+960 967 1
+967 969 1
+966 968 1
+965 967 1
+964 971 1
+1100 1108 1
+1100 1106 1
+1101 1090 1
+1102 1137 1
+1103 1105 1
+1096 627 1
+1097 1099 1
+1098 1104 1
+1098 1115 1
+1099 973 1
+1092 502 1
+1093 1082 1
+1094 1096 1
+1095 1097 1
+1088 1090 1
+1089 1078 1
+1090 1105 1
+1091 1080 1
+1117 1135 1
+1119 1185 1
+1119 1177 1
+1118 1120 1
+1113 1104 1
+1113 1115 1
+1112 1131 1
+1115 1137 1
+1114 1133 1
+1109 1096 1
+1108 1129 1
+1111 627 1
+1110 1114 1
+1105 1109 1
+1105 1092 1
+1104 1135 1
+1107 502 1
+1106 1125 1
+1134 1136 1
+1134 1146 1
+1135 1133 1
+1132 1151 1
+1130 1134 1
+1130 1132 1
+1131 1120 1
+1128 1157 1
+1128 1138 1
+1129 1131 1
+1126 1128 1
+1127 1129 1
+1124 1163 1
+1124 1145 1
+1125 1114 1
+1123 1125 1
+1120 1139 1
+1121 1108 1
+1121 1106 1
+1151 1153 1
+1150 1152 1
+1149 1136 1
+1149 1146 1
+1148 1167 1
+1147 1151 1
+1146 1165 1
+1145 1128 1
+1143 1134 1
+1143 1132 1
+1142 1144 1
+1141 1163 1
+1141 1145 1
+1140 1161 1
+1138 1159 1
+1137 1139 1
+1136 1153 1
+1032 1045 1
+1033 1024 1
+1034 1047 1
+1035 52 1
+1036 1049 1
+1037 1039 1
+1038 303 1
+1039 187 1
+1024 52 1
+1026 1039 1
+1027 1018 1
+1028 187 1
+1029 1031 1
+1030 1043 1
+1031 1022 1
+1049 303 1
+1048 1050 1
+1048 1071 1
+1051 1027 1
+1051 1037 1
+1050 1052 1
+1053 1055 1
+1053 1069 1
+1052 1054 1
+1055 1057 1
+1054 1056 1
+1041 1043 1
+1040 1055 1
+1040 1069 1
+1043 1045 1
+1042 1057 1
+1045 1047 1
+1044 1046 1
+1047 1049 1
+1046 1016 1
+1066 1068 1
+1067 696 1
+1064 1079 1
+1065 1056 1
+1070 1072 1
+1070 1101 1
+1071 1073 1
+1068 919 1
+1069 1050 1
+1069 1071 1
+1058 1073 1
+1059 1016 1
+1056 696 1
+1057 1046 1
+1062 1064 1
+1063 1054 1
+1060 1075 1
+1061 1052 1
+1083 1072 1
+1083 1101 1
+1082 1097 1
+1081 919 1
+1080 1082 1
+1087 1089 1
+1086 973 1
+1085 1074 1
+1084 1099 1
+1075 1064 1
+1074 1089 1
+1073 1075 1
+1072 1074 1
+1079 1068 1
+1078 1080 1
+1077 1079 1
+1076 1078 1
+1221 1206 1
+1220 1222 1
+1223 1208 1
+1222 1224 1
+1217 1210 1
+1217 1221 1
+1216 149 1
+1219 714 1
+1219 1229 1
+1218 1228 1
+1218 1235 1
+1229 1214 1
+1228 1230 1
+1231 1233 1
+1230 1015 1
+1225 872 1
+1224 1226 1
+1227 885 1
+1226 880 1
+1236 1256 1
+1236 1254 1
+1237 1224 1
+1238 1240 1
+1239 1226 1
+1232 1238 1
+1233 149 1
+1234 1246 1
+1235 1222 1
+1244 250 1
+1245 1015 1
+1246 1261 1
+1247 1238 1
+1247 1246 1
+1240 1242 1
+1241 880 1
+1242 1257 1
+1243 1230 1
+1255 1257 1
+1254 717 1
+1253 1242 1
+1252 284 1
+1251 1240 1
+1250 1252 1
+1249 1256 1
+1249 1254 1
+1248 1263 1
+1263 1252 1
+1262 779 1
+1261 1263 1
+1260 1262 1
+1259 1261 1
+1258 1273 1
+1257 250 1
+1256 1258 1
+1270 1272 1
+1271 1273 1
+1268 1283 1
+1269 1258 1
+1266 1281 1
+1267 717 1
+1264 1266 1
+1264 1289 1
+1265 284 1
+1278 344 1
+1279 1281 1
+1276 1278 1
+1277 1266 1
+1277 1289 1
+1274 1291 1
+1275 779 1
+1272 1288 1
+1273 1262 1
+1153 1157 1
+1153 1138 1
+1152 1171 1
+1155 1159 1
+1154 1173 1
+1157 1161 1
+1156 2440 1
+1156 1175 1
+1161 1144 1
+1163 1165 1
+1162 1185 1
+1162 1177 1
+1165 1167 1
+1164 1166 1
+1167 1152 1
+1166 1168 1
+1168 1183 1
+1169 1171 1
+1170 646 1
+1171 1173 1
+1172 1187 1
+1173 2440 1
+1173 1175 1
+1174 1178 1
+1174 1176 1
+1176 365 1
+1177 1166 1
+1178 1193 1
+1179 1168 1
+1180 709 1
+1181 1183 1
+1182 1201 1
+1182 1199 1
+1183 646 1
+1187 27 1
+1186 1203 1
+1185 1187 1
+1184 798 1
+1191 1193 1
+1190 1207 1
+1190 1198 1
+1189 1178 1
+1189 1176 1
+1188 684 1
+1195 365 1
+1194 1196 1
+1193 709 1
+1192 1194 1
+1199 798 1
+1198 1215 1
+1197 1201 1
+1197 1199 1
+1196 875 1
+1202 714 1
+1202 1229 1
+1203 684 1
+1200 843 1
+1200 895 1
+1201 1203 1
+1206 1208 1
+1207 1194 1
+1204 1206 1
+1205 1207 1
+1205 1198 1
+1210 885 1
+1211 875 1
+1208 872 1
+1209 1196 1
+1214 1233 1
+1215 843 1
+1215 895 1
+1212 1214 1
+1213 1215 1
+1375 1362 1
+1374 1391 1
+1373 1377 1
+1372 1374 1
+1371 1360 1
+1370 1372 1
+1369 1169 1
+1368 1370 1
+1367 1369 1
+1366 1383 1
+1365 1389 1
+1364 1148 1
+1363 1367 1
+1363 1365 1
+1362 1364 1
+1361 516 1
+1360 1377 1
+1360 1362 1
+1358 1360 1
+1359 1361 1
+1356 1169 1
+1357 1346 1
+1354 1369 1
+1355 945 1
+1352 1389 1
+1353 1355 1
+1350 1367 1
+1350 1365 1
+1351 1357 1
+1351 1340 1
+1348 516 1
+1349 174 1
+1346 1361 1
+1347 1349 1
+1344 1346 1
+1345 1334 1
+1405 996 1
+1404 1406 1
+1404 1399 1
+1407 1413 1
+1407 1420 1
+1406 952 1
+1406 1408 1
+1401 1416 1
+1400 1402 1
+1403 1405 1
+1402 196 1
+1397 1398 1
+1396 1035 1
+1399 1414 1
+1398 1388 1
+1393 1382 1
+1393 1392 1
+1392 952 1
+1392 1408 1
+1395 1397 1
+1394 1396 1
+1388 1402 1
+1389 1391 1
+1390 196 1
+1391 125 1
+1384 1398 1
+1385 1372 1
+1386 1388 1
+1387 1374 1
+1380 1406 1
+1380 1399 1
+1381 1148 1
+1382 1397 1
+1383 1370 1
+1376 125 1
+1377 1383 1
+1378 1382 1
+1378 1392 1
+1379 1364 1
+1307 343 1
+1306 1310 1
+1305 1307 1
+1304 865 1
+1311 894 1
+1310 1312 1
+1309 351 1
+1308 239 1
+1299 1301 1
+1298 1302 1
+1298 1300 1
+1297 1286 1
+1296 351 1
+1303 1305 1
+1303 1296 1
+1302 1304 1
+1301 982 1
+1300 894 1
+1290 1305 1
+1290 1296 1
+1291 1278 1
+1288 982 1
+1289 1291 1
+1294 343 1
+1295 1282 1
+1292 1307 1
+1293 344 1
+1282 1286 1
+1283 1272 1
+1280 1282 1
+1281 1283 1
+1286 1301 1
+1287 1288 1
+1284 1274 1
+1284 1295 1
+1285 1274 1
+1285 1295 1
+1337 1339 1
+1336 174 1
+1339 1328 1
+1338 1357 1
+1338 1340 1
+1341 1343 1
+1340 1355 1
+1343 1332 1
+1342 945 1
+1329 235 1
+1328 1343 1
+1331 1320 1
+1330 1332 1
+1333 1322 1
+1332 1334 1
+1335 1337 1
+1334 1349 1
+1320 1322 1
+1321 239 1
+1322 1337 1
+1323 1312 1
+1324 1339 1
+1325 1275 1
+1326 1328 1
+1327 1329 1
+1327 1331 1
+1312 1275 1
+1313 1302 1
+1313 1300 1
+1314 1329 1
+1314 1331 1
+1315 1304 1
+1316 235 1
+1317 865 1
+1318 1320 1
+1319 1310 1
+1494 1496 1
+1494 1488 1
+1495 749 1
+1492 1494 1
+1493 742 1
+1490 1492 1
+1491 1493 1
+1488 41 1
+1489 1491 1
+1489 1495 1
+1502 1504 1
+1503 1505 1
+1500 1013 1
+1501 1496 1
+1501 1488 1
+1498 48 1
+1499 1494 1
+1496 1505 1
+1497 1509 1
+1497 1492 1
+1479 1481 1
+1478 927 1
+1477 1468 1
+1476 976 1
+1475 306 1
+1474 1476 1
+1473 405 1
+1472 298 1
+1487 927 1
+1486 749 1
+1485 976 1
+1484 742 1
+1483 298 1
+1482 1493 1
+1481 1472 1
+1480 1491 1
+1480 1495 1
+1524 1537 1
+1525 1516 1
+1525 1520 1
+1526 391 1
+1527 1529 1
+1520 1522 1
+1521 1415 1
+1522 1535 1
+1523 1525 1
+1532 997 1
+1533 1535 1
+1534 1547 1
+1535 1537 1
+1528 1545 1
+1528 1530 1
+1529 777 1
+1530 1532 1
+1531 1522 1
+1509 1013 1
+1508 1510 1
+1508 1523 1
+1511 1504 1
+1510 1415 1
+1505 48 1
+1504 1515 1
+1507 41 1
+1506 35 1
+1517 1473 1
+1517 1467 1
+1516 1529 1
+1519 1510 1
+1519 1523 1
+1518 777 1
+1513 1515 1
+1512 1525 1
+1515 35 1
+1514 1516 1
+1514 1520 1
+1426 989 1
+1427 1429 1
+1424 1426 1
+1425 1427 1
+1430 1432 1
+1431 1435 1
+1431 1428 1
+1428 1430 1
+1429 210 1
+1434 1436 1
+1435 1437 1
+1432 870 1
+1433 1447 1
+1433 1444 1
+1438 1453 1
+1439 989 1
+1436 1451 1
+1437 1426 1
+1411 1033 1
+1410 1035 1
+1409 1422 1
+1408 1396 1
+1415 1429 1
+1414 1416 1
+1413 1427 1
+1412 1414 1
+1419 1435 1
+1419 1428 1
+1418 996 1
+1417 210 1
+1416 1405 1
+1423 1437 1
+1422 1033 1
+1421 1447 1
+1421 1444 1
+1420 1422 1
+1456 1469 1
+1457 1459 1
+1458 1460 1
+1459 1461 1
+1460 1483 1
+1461 1450 1
+1462 405 1
+1463 930 1
+1464 306 1
+1465 1477 1
+1465 1475 1
+1466 1468 1
+1467 1469 1
+1468 1481 1
+1469 1460 1
+1470 1472 1
+1471 1483 1
+1441 1430 1
+1440 1455 1
+1443 1432 1
+1442 1376 1
+1445 870 1
+1444 1459 1
+1447 1436 1
+1446 1461 1
+1449 1451 1
+1448 1450 1
+1451 1453 1
+1450 930 1
+1453 1455 1
+1452 1473 1
+1452 1467 1
+1455 1376 1
+1454 1477 1
+1454 1475 1
+1642 326 1
+1643 1645 1
+1640 1642 1
+1641 1643 1
+1646 1531 1
+1647 1636 1
+1644 1655 1
+1645 1638 1
+1645 1647 1
+1634 1636 1
+1635 482 1
+1632 1647 1
+1633 1635 1
+1638 1640 1
+1639 1641 1
+1636 1650 1
+1637 1624 1
+1637 1644 1
+1659 1155 1
+1658 1659 1
+1657 1658 1
+1657 1660 1
+1656 1348 1
+1663 1614 1
+1662 1348 1
+1661 1662 1
+1661 1654 1
+1660 1385 1
+1651 326 1
+1650 1642 1
+1649 1650 1
+1648 1640 1
+1655 1531 1
+1654 1614 1
+1653 1655 1
+1652 1662 1
+1652 1654 1
+1608 1610 1
+1609 1598 1
+1609 1002 1
+1610 1625 1
+1611 1613 1
+1612 1627 1
+1613 1602 1
+1614 423 1
+1615 806 1
+1600 1602 1
+1601 1603 1
+1602 806 1
+1603 1594 1
+1604 1621 1
+1604 1619 1
+1605 1607 1
+1606 1440 1
+1607 1341 1
+1625 1627 1
+1624 1641 1
+1627 423 1
+1626 1643 1
+1629 1620 1
+1628 1645 1
+1631 1245 1
+1631 1592 1
+1630 1638 1
+1617 1621 1
+1617 1619 1
+1616 1620 1
+1619 1440 1
+1618 1245 1
+1618 1592 1
+1621 1610 1
+1620 1635 1
+1623 1625 1
+1622 482 1
+1582 1017 1
+1583 658 1
+1580 1582 1
+1580 1584 1
+1581 374 1
+1578 496 1
+1579 1581 1
+1576 842 1
+1577 1568 1
+1574 1589 1
+1575 1577 1
+1572 1578 1
+1572 1587 1
+1573 1583 1
+1573 1564 1
+1570 374 1
+1571 1561 1
+1571 1567 1
+1568 1581 1
+1569 1556 1
+1569 1548 1
+1599 1500 1
+1599 1590 1
+1598 1613 1
+1597 513 1
+1596 1341 1
+1595 1017 1
+1594 1607 1
+1593 1582 1
+1593 1584 1
+1592 1594 1
+1591 496 1
+1590 1603 1
+1589 842 1
+1588 1598 1
+1588 1002 1
+1587 1589 1
+1586 1500 1
+1586 1590 1
+1585 1578 1
+1585 1587 1
+1584 513 1
+1548 1309 1
+1548 1559 1
+1549 1540 1
+1550 486 1
+1551 1553 1
+1544 1557 1
+1544 435 1
+1545 1547 1
+1546 805 1
+1547 1549 1
+1540 1553 1
+1541 1532 1
+1542 807 1
+1543 997 1
+1536 1549 1
+1537 391 1
+1538 1540 1
+1539 1545 1
+1539 1530 1
+1565 1563 1
+1564 1577 1
+1567 1554 1
+1566 1568 1
+1561 1309 1
+1561 1559 1
+1560 1556 1
+1560 1548 1
+1563 450 1
+1562 1583 1
+1562 1564 1
+1557 805 1
+1556 1554 1
+1559 486 1
+1558 1561 1
+1558 1567 1
+1553 807 1
+1552 450 1
+1555 1557 1
+1555 435 1
+1554 1563 1
+1763 948 1
+1762 1085 1
+1761 1763 1
+1760 983 1
+1767 1754 1
+1766 1486 1
+1766 1764 1
+1765 1379 1
+1765 1767 1
+1764 1783 1
+1771 1758 1
+1771 1777 1
+1770 951 1
+1769 1623 1
+1768 1770 1
+1775 983 1
+1774 1448 1
+1773 1760 1
+1772 2318 1
+1772 1995 1
+1778 1526 1
+1779 1486 1
+1779 1764 1
+1776 1778 1
+1777 1085 1
+1782 1784 1
+1783 1770 1
+1780 1793 1
+1780 1782 1
+1781 1783 1
+1786 2423 1
+1787 1793 1
+1787 1782 1
+1784 1076 1
+1785 951 1
+1790 1810 1
+1791 1076 1
+1788 2429 1
+1789 1784 1
+1729 1737 1
+1729 1720 1
+1728 1751 1
+1728 1747 1
+1731 1733 1
+1730 1736 1
+1733 1735 1
+1732 1745 1
+1735 236 1
+1734 1753 1
+1737 750 1
+1736 1742 1
+1739 1741 1
+1739 1749 1
+1738 1755 1
+1741 1730 1
+1740 433 1
+1743 1736 1
+1742 1744 1
+1744 1761 1
+1745 1742 1
+1746 1763 1
+1747 1745 1
+1748 948 1
+1749 1751 1
+1749 1747 1
+1750 1379 1
+1750 1767 1
+1751 1753 1
+1752 1754 1
+1753 1755 1
+1754 1623 1
+1755 433 1
+1756 1758 1
+1756 1777 1
+1757 1744 1
+1758 1760 1
+1759 1761 1
+1703 1694 1
+1702 1292 1
+1701 1703 1
+1701 1441 1
+1700 1713 1
+1700 1704 1
+1699 1550 1
+1698 1184 1
+1697 29 1
+1697 1699 1
+1696 1698 1
+1696 542 1
+1711 1713 1
+1711 1704 1
+1710 931 1
+1710 1725 1
+1709 1184 1
+1708 1712 1
+1708 1721 1
+1707 1698 1
+1707 542 1
+1706 1565 1
+1705 704 1
+1704 1706 1
+1718 1737 1
+1718 1720 1
+1719 1712 1
+1719 1721 1
+1716 1287 1
+1717 1565 1
+1714 1727 1
+1715 1706 1
+1712 896 1
+1713 1292 1
+1726 750 1
+1727 1287 1
+1724 236 1
+1725 1727 1
+1722 1735 1
+1723 896 1
+1720 1733 1
+1721 931 1
+1721 1725 1
+1669 1155 1
+1668 1670 1
+1671 1385 1
+1670 1102 1
+1665 1658 1
+1665 1660 1
+1664 1672 1
+1667 1659 1
+1666 1677 1
+1677 1670 1
+1676 1689 1
+1676 1691 1
+1679 1102 1
+1678 674 1
+1673 1685 1
+1672 1683 1
+1675 1672 1
+1675 1677 1
+1674 827 1
+1684 1439 1
+1685 827 1
+1686 29 1
+1686 1699 1
+1687 1689 1
+1687 1691 1
+1680 1693 1
+1681 1683 1
+1682 1684 1
+1683 1685 1
+1692 1694 1
+1693 1684 1
+1694 704 1
+1695 1439 1
+1688 1550 1
+1689 674 1
+1690 1703 1
+1690 1441 1
+1691 1693 1
+1913 1932 1
+1913 1915 1
+1912 1911 1
+1915 1917 1
+1914 1850 1
+1917 208 1
+1916 1899 1
+1919 1921 1
+1918 1901 1
+1905 1907 1
+1904 1889 1
+1907 1928 1
+1906 1908 1
+1909 68 1
+1908 1893 1
+1911 1850 1
+1910 1895 1
+1897 1899 1
+1899 1901 1
+1900 1902 1
+1901 1922 1
+1902 1904 1
+1903 1924 1
+1888 1877 1
+1889 1908 1
+1890 1879 1
+1891 1893 1
+1892 1894 1
+1893 1895 1
+1894 1898 1
+1894 1896 1
+1895 1911 1
+1883 1902 1
+1882 1871 1
+1881 1898 1
+1881 1896 1
+1880 1882 1
+1887 1889 1
+1886 1888 1
+1885 1904 1
+1884 1873 1
+1875 1877 1
+1874 1861 1
+1873 1888 1
+1872 833 1
+1879 1894 1
+1878 207 1
+1877 1879 1
+1876 1863 1
+1866 1870 1
+1867 1882 1
+1864 1866 1
+1865 1867 1
+1870 1595 1
+1871 1873 1
+1868 1855 1
+1869 1871 1
+1858 1673 1
+1859 1861 1
+1856 1858 1
+1857 1595 1
+1862 1851 1
+1863 207 1
+1860 1576 1
+1861 1863 1
+1853 1870 1
+1852 463 1
+1855 833 1
+1854 1841 1
+1849 1576 1
+1848 1881 1
+1851 1855 1
+1850 1835 1
+1845 1851 1
+1844 1846 1
+1847 1866 1
+1846 1702 1
+1841 1858 1
+1840 1845 1
+1840 1842 1
+1840 817 1
+1840 1847 1
+1843 1673 1
+1842 821 1
+1842 1849 1
+1836 541 1
+1837 1835 1
+1838 1666 1
+1839 1841 1
+1833 463 1
+1834 1821 1
+1835 1881 1
+1828 1817 1
+1829 1846 1
+1831 1702 1
+1824 1826 1
+1825 1845 1
+1825 1842 1
+1825 817 1
+1825 1847 1
+1826 1828 1
+1827 821 1
+1827 1849 1
+1823 1666 1
+1822 168 1
+1821 541 1
+1820 1809 1
+1819 1821 1
+1818 1824 1
+1816 1818 1
+1815 1817 1
+1814 1820 1
+1813 1828 1
+1812 1814 1
+1811 1826 1
+1810 1816 1
+1809 168 1
+1808 2429 1
+1808 1810 1
+1806 1800 1
+1806 1798 1
+1807 1809 1
+1804 1790 1
+1805 1824 1
+1802 1804 1
+1803 1818 1
+1800 1814 1
+1801 2419 1
+1798 1816 1
+1796 1820 1
+1797 1799 1
+1797 1726 1
+1794 1796 1
+1795 510 1
+1792 1800 1
+1792 1798 1
+1793 2423 1
+2032 2059 1
+2032 2068 1
+2032 2057 1
+2033 2035 1
+2034 1919 1
+2035 2016 1
+2036 2061 1
+2037 2039 1
+2038 2065 1
+2039 2020 1
+2040 2063 1
+2041 2043 1
+2042 2044 1
+2043 2026 1
+2044 2046 1
+2046 2048 1
+2017 2019 1
+2016 2039 1
+2019 2021 1
+2018 2020 1
+2021 2023 1
+2020 2043 1
+2023 2004 1
+2022 2026 1
+2025 1160 1
+2024 2004 1
+2027 2008 1
+2029 2031 1
+2028 2053 1
+2028 2051 1
+2031 2012 1
+2030 2032 1
+2002 2023 1
+2003 2005 1
+2000 2021 1
+2001 2003 1
+2006 2008 1
+2007 1993 1
+2004 1160 1
+2005 2007 1
+2010 2012 1
+2008 2031 1
+2009 233 1
+2014 2016 1
+2015 2017 1
+2012 2035 1
+2013 1996 1
+1987 2005 1
+1986 1975 1
+1985 2003 1
+1984 1973 1
+1991 1993 1
+1990 328 1
+1989 2007 1
+1988 1977 1
+1995 1778 1
+1994 1996 1
+1993 233 1
+1992 1929 1
+1992 1994 1
+1999 1985 1
+1998 2019 1
+1997 1999 1
+1996 2017 1
+1972 1979 1
+1972 1958 1
+1973 1975 1
+1974 1960 1
+1975 1977 1
+1968 1982 1
+1969 1951 1
+1969 1188 1
+1970 1971 1
+1971 1973 1
+1980 1982 1
+1981 1999 1
+1982 1971 1
+1983 1985 1
+1976 2431 1
+1977 328 1
+1978 1912 1
+1979 1980 1
+1957 1954 1
+1956 1979 1
+1956 1958 1
+1959 1961 1
+1958 1960 1
+1953 1951 1
+1953 1188 1
+1952 1937 1
+1955 1906 1
+1954 1955 1
+1965 1967 1
+1964 1912 1
+1967 1885 1
+1966 1980 1
+1961 1939 1
+1960 2431 1
+1963 1949 1
+1963 856 1
+1962 1964 1
+1942 1927 1
+1942 2083 1
+1943 1961 1
+1940 1943 1
+1940 1925 1
+1941 1939 1
+1938 208 1
+1939 1906 1
+1936 1917 1
+1937 1955 1
+1950 1945 1
+1950 2064 1
+1950 1317 1
+1951 1885 1
+1948 2006 1
+1948 2066 1
+1948 1445 1
+1948 1981 1
+1949 1967 1
+1946 1935 1
+1946 1931 1
+1947 1949 1
+1947 856 1
+1944 1225 1
+1945 1954 1
+1927 1225 1
+1926 1928 1
+1925 1927 1
+1925 2083 1
+1924 1907 1
+1923 1943 1
+1923 1925 1
+1922 1924 1
+1921 1887 1
+1920 1922 1
+1935 1937 1
+1934 1887 1
+1933 1945 1
+1933 2064 1
+1933 1317 1
+1932 1921 1
+1931 2006 1
+1931 2066 1
+1931 1445 1
+1931 1981 1
+1930 1932 1
+1930 1915 1
+1929 1935 1
+1929 1931 1
+1928 68 1
+2200 2216 1
+2201 2188 1
+2202 2222 1
+2203 2205 1
+2204 2206 1
+2205 2207 1
+2206 2211 1
+2193 2195 1
+2194 2196 1
+2195 2182 1
+2196 2212 1
+2197 2184 1
+2198 2226 1
+2199 2201 1
+2185 2172 1
+2184 2201 1
+2187 2174 1
+2186 2188 1
+2189 2176 1
+2188 2205 1
+2190 2207 1
+2177 2164 1
+2179 2181 1
+2178 2195 1
+2180 2182 1
+2183 2185 1
+2182 2184 1
+2234 2236 1
+2235 2247 1
+2235 2254 1
+2232 2219 1
+2233 2235 1
+2238 2223 1
+2236 2238 1
+2237 2239 1
+2226 2228 1
+2227 2229 1
+2224 2211 1
+2225 2227 1
+2225 2258 1
+2231 2250 1
+2228 2215 1
+2229 2248 1
+2219 2236 1
+2218 2148 1
+2217 2219 1
+2216 2222 1
+2223 2225 1
+2222 2206 1
+2221 2223 1
+2211 2228 1
+2210 2212 1
+2209 2196 1
+2208 2148 1
+2214 2216 1
+2213 2215 1
+2212 2226 1
+2268 2256 1
+2269 2294 1
+2270 2251 1
+2271 2273 1
+2264 2245 1
+2265 2267 1
+2266 2268 1
+2267 2290 1
+2260 2262 1
+2261 2263 1
+2262 2243 1
+2263 2286 1
+2257 2259 1
+2258 2260 1
+2259 2282 1
+2253 2276 1
+2252 2247 1
+2252 2254 1
+2255 2257 1
+2254 2239 1
+2249 2251 1
+2248 2250 1
+2251 2253 1
+2250 2235 1
+2245 2268 1
+2244 2229 1
+2247 2256 1
+2246 2248 1
+2241 2260 1
+2240 2225 1
+2243 2245 1
+2242 2227 1
+2242 2258 1
+2302 2304 1
+2303 2305 1
+2300 2281 1
+2301 2311 1
+2301 2324 1
+2298 2433 1
+2296 2298 1
+2297 2299 1
+2294 2273 1
+2295 2297 1
+2292 2294 1
+2293 2320 1
+2290 2287 1
+2291 2330 1
+2291 2316 1
+2288 2290 1
+2287 2310 1
+2286 2267 1
+2285 2287 1
+2284 2286 1
+2283 2285 1
+2282 2263 1
+2281 2304 1
+2280 2282 1
+2279 2281 1
+2278 2259 1
+2277 2306 1
+2276 2257 1
+2275 2300 1
+2274 2276 1
+2273 2298 1
+2272 2253 1
+2065 2046 1
+2064 2062 1
+2067 2048 1
+2066 2089 1
+2069 2050 1
+2068 2072 1
+2071 2052 1
+2070 2074 1
+2073 2077 1
+2072 2093 1
+2075 2058 1
+2074 2076 1
+2077 2079 1
+2076 2078 1
+2079 2095 1
+2078 2099 1
+2048 2050 1
+2049 2053 1
+2049 2051 1
+2050 2052 1
+2051 2032 1
+2053 1919 1
+2054 2077 1
+2055 2059 1
+2055 2068 1
+2055 2057 1
+2056 2058 1
+2057 2061 1
+2058 2079 1
+2059 2063 1
+2060 2095 1
+2061 2065 1
+2062 2091 1
+2063 2044 1
+2099 2101 1
+2098 2106 1
+2098 2139 1
+2098 2122 1
+2098 2114 1
+2098 2135 1
+2098 2137 1
+2097 2099 1
+2096 2104 1
+2103 2086 1
+2102 2232 1
+2102 2249 1
+2102 2292 1
+2101 2084 1
+2100 2108 1
+2107 2293 1
+2107 2098 1
+2107 2109 1
+2107 2111 1
+2107 2291 1
+2106 2129 1
+2104 2183 1
+2111 2104 1
+2110 2112 1
+2109 2102 1
+2109 2127 1
+2108 2131 1
+2082 2084 1
+2083 2091 1
+2080 2101 1
+2081 2062 1
+2087 2089 1
+2084 2086 1
+2085 2072 1
+2090 2291 1
+2091 2093 1
+2088 2293 1
+2089 2074 1
+2094 2102 1
+2094 2127 1
+2095 2078 1
+2092 2098 1
+2092 2109 1
+2092 2111 1
+2093 2076 1
+2133 2430 1
+2132 2204 1
+2135 2208 1
+2135 2200 1
+2135 2209 1
+2134 2136 1
+2129 2112 1
+2128 2150 1
+2130 2132 1
+2141 2143 1
+2140 2142 1
+2143 2134 1
+2143 2130 1
+2142 2432 1
+2137 2193 1
+2136 2138 1
+2139 2147 1
+2138 2140 1
+2116 2208 1
+2116 2200 1
+2116 2209 1
+2117 2129 1
+2118 2193 1
+2119 2183 1
+2114 2430 1
+2115 2106 1
+2115 2139 1
+2115 2122 1
+2115 2114 1
+2115 2135 1
+2115 2137 1
+2124 2134 1
+2124 2130 1
+2125 2131 1
+2126 2128 1
+2127 2108 1
+2120 2147 1
+2121 2292 1
+2122 2143 1
+2123 2232 1
+2123 2249 1
+2167 2155 1
+2165 2153 1
+2164 2181 1
+2163 2165 1
+2162 2164 1
+2161 2163 1
+2160 2177 1
+2175 2177 1
+2174 2176 1
+2173 2175 1
+2172 2174 1
+2171 2173 1
+2170 2172 1
+2169 2157 1
+2168 2185 1
+2150 2136 1
+2151 2153 1
+2148 2204 1
+2149 2165 1
+2146 2132 1
+2147 2163 1
+2144 1859 1
+2145 2150 1
+2158 2432 1
+2159 2175 1
+2156 2142 1
+2157 2173 1
+2154 2140 1
+2155 2157 1
+2152 2138 1
+2153 2155 1
+2443 2022 1
+2442 1832 1
+2441 1832 1
+2440 130 1
+2447 1831 1
+2446 1808 1
+2445 1808 1
+2444 2022 1
+2435 2327 1
+2435 2348 1
+2434 2351 1
+2433 2300 1
+2432 1859 1
+2439 130 1
+2438 577 1
+2437 577 1
+2436 1413 1
+2436 1420 1
+2458 1929 1
+2458 1994 1
+2459 1790 1
+2456 2107 1
+2457 2243 1
+2462 1624 1
+2462 1644 1
+2463 658 1
+2460 1730 1
+2461 1741 1
+2461 1749 1
+2450 1839 1
+2450 1497 1
+2450 1675 1
+2451 1247 1
+2448 1831 1
+2449 1839 1
+2449 1497 1
+2449 1675 1
+2454 855 1
+2455 2107 1
+2452 1247 1
+2453 855 1
+2473 600 1
+2472 616 1
+2475 6 1
+2475 4 1
+2475 2 1
+2474 440 1
+2476 1009 1
+2476 1511 1
+2465 1210 1
+2465 1221 1
+2464 1509 1
+2467 1109 1
+2467 1092 1
+2466 27 1
+2469 781 1
+2469 771 1
+2469 755 1
+2468 979 1
+2468 984 1
+2468 1000 1
+2471 622 1
+2470 638 1
+2470 637 1
+2306 2285 1
+2307 2309 1
+2304 2306 1
+2305 2307 1
+2311 2313 1
+2311 2334 1
+2308 2310 1
+2309 2220 1
+2314 2330 1
+2314 2316 1
+2315 2338 1
+2315 2435 1
+2312 2320 1
+2313 2342 1
+2318 1448 1
+2319 2321 1
+2316 2299 1
+2317 2344 1
+2323 2327 1
+2322 2311 1
+2322 2324 1
+2321 2351 1
+2320 2297 1
+2327 2350 1
+2326 2307 1
+2325 2348 1
+2324 2305 1
+2331 2343 1
+2331 2354 1
+2331 2356 1
+2331 2347 1
+2330 2220 1
+2329 2376 1
+2328 2309 1
+2335 2359 1
+2334 2338 1
+2334 2435 1
+2333 2335 1
+2332 2313 1
+2332 2334 1
+2336 2342 1
+2337 2364 1
+2338 2344 1
+2339 2363 1
+2340 2390 1
+2341 2362 1
+2342 2343 1
+2342 2354 1
+2342 2356 1
+2342 2347 1
+2343 2345 1
+2344 2321 1
+2345 2400 1
+2346 2350 1
+2347 2349 1
+2348 2335 1
+2349 2391 1
+2350 2376 1
+2351 2372 1
+2353 2374 1
+2352 2359 1
+2354 2364 1
+2356 2362 1
+2359 2361 1
+2358 2345 1
+2361 2386 1
+2360 2400 1
+2363 2384 1
+2362 2388 1
+2365 2373 1
+2364 2363 1
+2367 2340 1
+2366 2349 1
+2375 2377 1
+2372 2374 1
+2370 2372 1
+2371 2392 1
+2368 2391 1
+2369 2390 1
+2382 2384 1
+2383 2402 1
+2380 2386 1
+2378 2361 1
+2379 2381 1
+2377 2396 1
+2391 2410 1
+2390 2392 1
+2388 2340 1
+2387 2406 1
+2385 2387 1
+2384 2373 1
+2399 2401 1
+2397 2399 1
+2396 2381 1
+2395 2397 1
+2394 2396 1
+2393 2395 1
+2392 2377 1
+2404 2406 1
+2407 447 1
+2400 2402 1
+2402 2387 1
+2403 2427 1
+2403 2425 1
+2403 2405 1
+2412 2397 1
+2413 2428 1
+2414 2399 1
+2415 389 1
+2408 2410 1
+2409 387 1
+2410 2395 1
+2411 2426 1
+2421 1799 1
+2421 1726 1
+2420 2427 1
+2420 2425 1
+2420 2405 1
+2423 510 1
+2416 2401 1
+2419 1804 1
+2429 1796 1
+2428 389 1
+2431 1964 1
+2430 2128 1
+2425 2426 1
+2424 447 1
+2427 2428 1
+2426 387 1
+*edges
+1 2475 1
+3 2 1
+5 4 1
+7 6 1
+9 8 1
+11 10 1
+13 12 1
+15 14 1
+17 16 1
+19 18 1
+21 20 1
+23 22 1
+25 24 1
+27 26 1
+29 28 1
+31 30 1
+35 34 1
+33 32 1
+39 38 1
+37 36 1
+43 42 1
+41 40 1
+47 46 1
+45 44 1
+51 50 1
+49 48 1
+55 54 1
+53 52 1
+59 60 1
+57 58 1
+57 56 1
+63 64 1
+61 62 1
+69 70 1
+71 72 1
+65 66 1
+67 68 1
+77 78 1
+79 80 1
+73 74 1
+75 76 1
+85 86 1
+87 88 1
+81 82 1
+83 84 1
+93 94 1
+95 96 1
+89 90 1
+91 92 1
+103 104 1
+101 102 1
+99 100 1
+97 98 1
+111 112 1
+109 110 1
+107 108 1
+105 106 1
+119 120 1
+117 118 1
+115 116 1
+113 114 1
+127 128 1
+125 126 1
+123 124 1
+121 122 1
+137 138 1
+139 140 1
+141 142 1
+143 144 1
+143 146 1
+129 130 1
+131 132 1
+133 134 1
+135 136 1
+153 158 1
+155 156 1
+157 160 1
+159 162 1
+145 148 1
+147 150 1
+149 152 1
+151 154 1
+171 174 1
+169 172 1
+175 178 1
+173 176 1
+163 166 1
+161 164 1
+167 170 1
+165 168 1
+187 190 1
+185 188 1
+191 194 1
+189 192 1
+179 182 1
+177 180 1
+183 186 1
+181 184 1
+205 208 1
+207 1865 1
+201 204 1
+203 206 1
+197 200 1
+199 202 1
+193 196 1
+195 198 1
+220 225 1
+222 227 1
+216 217 1
+218 223 1
+213 219 1
+214 1772 1
+215 221 1
+209 210 1
+211 212 1
+238 243 1
+236 241 1
+234 239 1
+2011 233 1
+232 237 1
+230 235 1
+228 233 1
+226 231 1
+224 229 1
+252 259 1
+254 253 1
+250 257 1
+248 255 1
+246 251 1
+244 249 1
+242 247 1
+240 245 1
+274 277 1
+272 275 1
+278 281 1
+276 279 1
+282 285 1
+280 283 1
+286 289 1
+284 287 1
+258 263 1
+256 261 1
+262 265 1
+260 265 1
+266 269 1
+264 267 1
+270 273 1
+268 271 1
+304 972 1
+306 307 1
+308 309 1
+310 311 1
+312 313 1
+314 315 1
+316 317 1
+318 319 1
+288 291 1
+290 293 1
+292 295 1
+294 297 1
+296 299 1
+298 301 1
+300 303 1
+302 305 1
+342 343 1
+340 341 1
+338 339 1
+336 337 1
+350 351 1
+348 349 1
+346 347 1
+344 345 1
+326 327 1
+324 325 1
+322 323 1
+320 321 1
+334 335 1
+332 333 1
+330 331 1
+328 329 1
+372 373 1
+374 375 1
+368 369 1
+370 371 1
+380 381 1
+382 383 1
+376 377 1
+378 379 1
+356 357 1
+358 359 1
+352 353 1
+354 355 1
+364 365 1
+366 367 1
+360 361 1
+362 363 1
+410 411 1
+408 409 1
+414 415 1
+412 413 1
+402 403 1
+400 401 1
+406 407 1
+404 405 1
+394 395 1
+392 393 1
+398 399 1
+396 397 1
+386 387 1
+384 385 1
+390 391 1
+388 389 1
+442 441 1
+444 443 1
+446 445 1
+432 433 1
+434 435 1
+436 437 1
+438 2474 1
+440 439 1
+586 425 1
+424 447 1
+776 427 1
+426 533 1
+428 429 1
+430 431 1
+416 417 1
+418 419 1
+420 421 1
+422 423 1
+480 479 1
+478 477 1
+476 475 1
+474 473 1
+472 471 1
+470 469 1
+468 467 1
+466 465 1
+464 463 1
+462 461 1
+460 577 1
+458 459 1
+456 457 1
+454 455 1
+452 453 1
+450 451 1
+448 449 1
+508 509 1
+510 511 1
+504 505 1
+506 507 1
+500 501 1
+502 503 1
+496 497 1
+498 499 1
+494 493 1
+524 495 1
+490 489 1
+492 491 1
+486 485 1
+488 487 1
+482 481 1
+484 483 1
+550 551 1
+548 549 1
+546 547 1
+544 545 1
+558 559 1
+556 557 1
+554 555 1
+552 553 1
+566 567 1
+564 565 1
+562 563 1
+560 561 1
+574 577 1
+572 573 1
+572 575 1
+570 571 1
+568 569 1
+516 517 1
+518 519 1
+512 513 1
+514 515 1
+526 525 1
+528 527 1
+520 521 1
+522 523 1
+534 535 1
+530 529 1
+532 531 1
+540 541 1
+542 543 1
+536 537 1
+538 539 1
+610 611 1
+608 609 1
+614 2472 1
+616 615 1
+612 613 1
+618 617 1
+622 625 1
+981 623 1
+620 621 1
+626 629 1
+624 627 1
+630 633 1
+628 631 1
+634 2470 1
+632 635 1
+638 639 1
+636 637 1
+576 581 1
+578 584 1
+979 579 1
+580 583 1
+582 585 1
+587 589 1
+588 591 1
+590 593 1
+592 595 1
+594 597 1
+596 599 1
+598 2473 1
+600 601 1
+602 603 1
+604 605 1
+604 607 1
+606 619 1
+686 687 1
+684 685 1
+682 683 1
+680 681 1
+678 679 1
+676 677 1
+674 675 1
+672 673 1
+702 703 1
+700 701 1
+698 699 1
+696 697 1
+694 695 1
+692 693 1
+690 691 1
+688 689 1
+652 653 1
+654 655 1
+648 649 1
+650 651 1
+644 645 1
+646 647 1
+640 641 1
+642 643 1
+668 669 1
+670 671 1
+664 665 1
+666 667 1
+660 661 1
+662 663 1
+656 657 1
+658 659 1
+746 747 1
+744 745 1
+750 751 1
+748 749 1
+738 739 1
+736 737 1
+742 743 1
+740 741 1
+764 763 1
+762 761 1
+768 767 1
+766 765 1
+754 2469 1
+756 755 1
+752 753 1
+760 759 1
+758 757 1
+712 713 1
+714 715 1
+716 717 1
+718 719 1
+704 705 1
+706 707 1
+708 709 1
+710 711 1
+728 729 1
+730 731 1
+732 733 1
+734 735 1
+720 721 1
+722 723 1
+724 725 1
+726 727 1
+822 821 1
+824 823 1
+820 817 1
+856 819 1
+830 829 1
+832 831 1
+826 825 1
+828 827 1
+808 805 1
+810 807 1
+804 801 1
+806 803 1
+814 813 1
+818 815 1
+812 809 1
+816 811 1
+794 791 1
+792 789 1
+790 787 1
+788 785 1
+800 799 1
+802 797 1
+798 795 1
+796 793 1
+778 775 1
+774 773 1
+772 771 1
+770 769 1
+786 783 1
+784 781 1
+780 779 1
+782 777 1
+890 881 1
+886 883 1
+888 885 1
+892 887 1
+894 889 1
+896 891 1
+898 893 1
+902 895 1
+868 865 1
+870 867 1
+872 869 1
+874 871 1
+876 873 1
+878 875 1
+880 877 1
+884 879 1
+852 851 1
+850 849 1
+858 855 1
+860 855 1
+854 853 1
+864 859 1
+862 857 1
+856 1474 1
+866 863 1
+882 861 1
+836 835 1
+834 833 1
+840 839 1
+838 837 1
+844 843 1
+842 841 1
+848 847 1
+846 845 1
+961 956 1
+957 1218 1
+963 958 1
+953 1778 1
+955 2468 1
+952 949 1
+954 951 1
+946 945 1
+948 947 1
+942 941 1
+944 943 1
+950 937 1
+940 939 1
+938 933 1
+959 935 1
+934 929 1
+932 931 1
+936 927 1
+930 925 1
+928 923 1
+926 921 1
+924 919 1
+922 917 1
+920 915 1
+918 913 1
+916 911 1
+914 909 1
+912 907 1
+906 905 1
+908 903 1
+910 901 1
+904 899 1
+900 897 1
+1027 1016 1
+1029 1018 1
+1031 1020 1
+1033 1022 1
+1017 1008 1
+1019 1010 1
+1051 1012 1
+1021 1014 1
+1023 1014 1
+1025 1014 1
+1009 1000 1
+1011 1002 1
+1013 1004 1
+1015 1006 1
+1001 992 1
+1003 994 1
+1005 996 1
+1007 998 1
+995 986 1
+993 984 1
+999 990 1
+997 988 1
+987 978 1
+985 976 1
+977 2471 1
+991 982 1
+989 980 1
+975 970 1
+973 968 1
+983 974 1
+967 962 1
+965 960 1
+971 966 1
+969 964 1
+1121 1100 1
+1115 1102 1
+1111 1096 1
+1113 1098 1
+1107 1092 1
+1109 1094 1
+1101 1088 1
+1103 1090 1
+1133 1116 1
+1119 1162 1
+1131 1118 1
+1129 1112 1
+1135 1114 1
+1127 1108 1
+1125 1110 1
+1105 2467 1
+1117 1104 1
+1123 1106 1
+1149 1134 1
+1147 1132 1
+1143 1130 1
+1153 1128 1
+1145 1126 1
+1141 1124 1
+1139 1122 1
+1137 1120 1
+1167 1150 1
+1165 1148 1
+1163 1146 1
+1159 1144 1
+1161 1142 1
+1157 1140 1
+1155 1138 1
+1151 1136 1
+1043 1032 1
+1045 1034 1
+1047 1036 1
+1049 1038 1
+1035 1024 1
+1037 1026 1
+1039 1028 1
+1041 1030 1
+1069 1048 1
+1061 1050 1
+1063 1052 1
+1065 1054 1
+1053 1040 1
+1055 1042 1
+1057 1044 1
+1059 1046 1
+1079 1066 1
+1077 1064 1
+1083 1070 1
+1081 1068 1
+1071 1058 1
+1067 1056 1
+1075 1062 1
+1073 1060 1
+1095 1082 1
+1093 1080 1
+1099 1086 1
+1097 1084 1
+1087 1074 1
+1085 1072 1
+1091 1078 1
+1089 1076 1
+1235 1220 1
+1237 1222 1
+1217 2465 1
+1233 1216 1
+1243 1228 1
+1245 1230 1
+1239 1224 1
+1241 1226 1
+1249 1236 1
+1251 1238 1
+1247 1232 1
+1247 1234 1
+1257 1244 1
+1259 1246 1
+1253 1240 1
+1255 1242 1
+1267 1254 1
+1265 1252 1
+1263 1250 1
+1261 1248 1
+1275 1262 1
+1273 1260 1
+1271 1258 1
+1269 1256 1
+1283 1270 1
+1281 1268 1
+1279 1266 1
+1277 1264 1
+1293 1278 1
+1291 1276 1
+1289 1274 1
+1287 1272 1
+1169 1152 1
+1171 1154 1
+1173 1156 1
+1175 1158 1
+1175 1160 1
+1177 1164 1
+1179 1166 1
+1181 1168 1
+1183 1170 1
+1185 1172 1
+1189 1174 1
+1195 1176 1
+1191 1178 1
+1193 1180 1
+1197 1182 1
+1187 2466 1
+1201 1186 1
+1199 1184 1
+1205 1190 1
+1203 1188 1
+1209 1194 1
+1207 1192 1
+1213 1198 1
+1211 1196 1
+1219 1202 1
+1215 1200 1
+1223 1206 1
+1221 1204 1
+1227 1210 1
+1225 1208 1
+1231 1214 1
+1229 1212 1
+1389 1374 1
+1387 1372 1
+1385 1370 1
+1383 1368 1
+1377 1366 1
+1381 1364 1
+1379 1362 1
+1375 1360 1
+1373 1360 1
+1371 1358 1
+1369 1356 1
+1367 1354 1
+1365 1352 1
+1363 1350 1
+1361 1348 1
+1359 1346 1
+1357 1344 1
+1418 1405 1
+2436 1407 1
+1414 1401 1
+1416 1403 1
+1410 1396 1
+1412 1399 1
+1406 1392 1
+1408 1394 1
+1400 1388 1
+1402 1390 1
+1397 1384 1
+1398 1386 1
+1404 1380 1
+1395 1382 1
+1391 1376 1
+1393 1378 1
+1319 1306 1
+1317 1304 1
+1323 1310 1
+1321 1308 1
+1313 1298 1
+1309 1296 1
+1315 1302 1
+1311 1300 1
+1303 1290 1
+1301 1288 1
+1307 1294 1
+1305 1292 1
+1297 1282 1
+1295 1280 1
+1299 1286 1
+1285 1284 1
+1349 1336 1
+1351 1338 1
+1353 1340 1
+1355 1342 1
+1341 1328 1
+1343 1330 1
+1345 1332 1
+1347 1334 1
+1333 1320 1
+1335 1322 1
+1337 1324 1
+1339 1326 1
+1325 1312 1
+1327 1314 1
+1329 1316 1
+1331 1318 1
+1501 1494 1
+1499 1492 1
+1497 1490 1
+1507 1488 1
+1511 1502 1
+1509 1500 1
+1505 1498 1
+1503 1496 1
+1497 2464 1
+1487 1478 1
+1485 1476 1
+1483 1472 1
+1495 1486 1
+1493 1484 1
+1491 1482 1
+1489 1480 1
+1535 1524 1
+1537 1526 1
+1531 1520 1
+1533 1522 1
+1543 1532 1
+1545 1534 1
+1539 1528 1
+1541 1530 1
+1519 1508 1
+1521 1510 1
+1513 1504 1
+1515 1506 1
+1527 1516 1
+1529 1518 1
+1523 1512 1
+1525 1514 1
+1439 1426 1
+1437 1424 1
+1443 1430 1
+1441 1428 1
+1447 1434 1
+1445 1432 1
+1451 1438 1
+1449 1436 1
+1422 1411 1
+1420 1409 1
+1427 1415 1
+1425 1413 1
+1431 1419 1
+1429 1417 1
+1435 1423 1
+1433 1421 1
+1467 1456 1
+1469 1458 1
+1471 1460 1
+1473 1462 1
+1475 1464 1
+1477 1466 1
+1479 1468 1
+1481 1470 1
+1453 1440 1
+1455 1442 1
+1457 1444 1
+1459 1446 1
+1461 1448 1
+1463 1450 1
+1517 1452 1
+1465 1454 1
+1651 1642 1
+1650 1640 1
+1655 1646 1
+1653 1644 1
+1647 1634 1
+1645 1632 1
+1648 1638 1
+1649 1636 1
+1637 2462 1
+1669 1659 1
+1667 1658 1
+1665 1657 1
+1662 1656 1
+1671 1660 1
+1663 1654 1
+1661 1652 1
+1621 1608 1
+1623 1610 1
+1625 1612 1
+1627 1614 1
+1613 1600 1
+1615 1602 1
+1617 1604 1
+1619 1606 1
+1639 1624 1
+1641 1626 1
+1643 1628 1
+1645 1630 1
+1629 1616 1
+1631 1618 1
+1633 1620 1
+1635 1622 1
+1595 1582 1
+1583 2463 1
+1593 1580 1
+1591 1578 1
+1589 1576 1
+1587 1574 1
+1585 1572 1
+1581 1570 1
+1579 1568 1
+1611 1598 1
+1607 1596 1
+1605 1594 1
+1603 1592 1
+1601 1590 1
+1609 1588 1
+1599 1586 1
+1597 1584 1
+1561 1548 1
+1559 1550 1
+1555 1544 1
+1557 1546 1
+1551 1540 1
+1553 1542 1
+1547 1536 1
+1549 1538 1
+1575 1564 1
+1577 1566 1
+1569 1560 1
+1573 1562 1
+1567 1556 1
+1571 1558 1
+1563 1552 1
+1565 1554 1
+1777 1762 1
+1775 1760 1
+1779 1766 1
+1781 1764 1
+1785 1770 1
+1783 1768 1
+2318 1774 1
+1995 1776 1
+1789 1782 1
+1787 1780 1
+1793 1786 1
+1791 1784 1
+1808 1790 1
+1808 1788 1
+1749 1728 1
+1743 1730 1
+1747 1732 1
+1751 1734 1
+1745 1736 1
+1739 2461 1
+1753 1738 1
+1741 2460 1
+1755 1740 1
+1757 1742 1
+1759 1744 1
+1761 1746 1
+1763 1748 1
+1765 1750 1
+1767 1752 1
+1769 1754 1
+1771 1756 1
+1773 1758 1
+1713 1702 1
+1711 1700 1
+1709 1698 1
+1707 1696 1
+1721 1710 1
+1719 1708 1
+1717 1706 1
+1715 1704 1
+1729 1718 1
+1727 1716 1
+1725 1714 1
+1723 1712 1
+1737 1726 1
+1735 1724 1
+1733 1722 1
+1731 1720 1
+1677 1668 1
+1679 1670 1
+1675 1664 1
+1675 1666 1
+1687 1676 1
+1689 1678 1
+1683 1673 1
+1681 1672 1
+1685 1674 1
+1695 1684 1
+1697 1686 1
+1691 1680 1
+1693 1682 1
+1703 1692 1
+1705 1694 1
+1699 1688 1
+1701 1690 1
+1930 1913 1
+1936 1915 1
+1938 1917 1
+1932 1919 1
+1924 1905 1
+1926 1907 1
+1928 1909 1
+1914 1911 1
+1916 1897 1
+1918 1899 1
+1920 1901 1
+1922 1903 1
+1906 1889 1
+1908 1891 1
+1910 1893 1
+1912 1895 1
+1900 1883 1
+1894 1881 1
+1904 1887 1
+1902 1885 1
+1888 1875 1
+1886 1873 1
+1892 1879 1
+1890 1877 1
+1880 1867 1
+1884 1871 1
+1882 1869 1
+1874 1859 1
+1870 1857 1
+1878 1863 1
+1876 1861 1
+1866 1853 1
+1872 1855 1
+1860 1849 1
+1868 1851 1
+1862 1845 1
+1864 1847 1
+1856 1841 1
+1858 1843 1
+1850 1837 1
+1854 1839 1
+1832 2052 1
+1852 1833 1
+1848 1835 1
+1844 1829 1
+1846 1831 1
+2477 1831 1
+1840 1825 1
+1842 1827 1
+1838 1823 1
+1836 1821 1
+1834 1819 1
+1830 1817 1
+1832 1817 1
+1828 1815 1
+1826 1813 1
+1824 1811 1
+1822 1809 1
+1820 1807 1
+1804 2459 1
+1818 1805 1
+1802 2419 1
+1816 1803 1
+1812 1800 1
+1810 1798 1
+1799 2417 1
+1814 1796 1
+1797 2421 1
+2429 1794 1
+1795 2423 1
+1806 1792 1
+2055 2032 1
+2053 2034 1
+2057 2036 1
+2061 2038 1
+2059 2040 1
+2063 2042 1
+2065 2044 1
+2067 2046 1
+2037 2016 1
+2039 2018 1
+2041 2020 1
+2023 2024 1
+2045 2022 1
+2043 2022 1
+2047 2026 1
+2049 2028 1
+2051 2030 1
+2021 2002 1
+2019 2000 1
+2027 2006 1
+2025 2004 1
+2031 2010 1
+2029 2008 1
+2035 2014 1
+2033 2012 1
+2003 1987 1
+2001 1985 1
+2007 1991 1
+2005 1989 1
+2013 1994 1
+2009 1993 1
+1992 2458 1
+2017 1998 1
+2015 1996 1
+1986 1973 1
+1988 1975 1
+1980 1968 1
+1982 1970 1
+1984 1971 1
+1997 1981 1
+1999 1983 1
+1990 1977 1
+1972 1956 1
+1974 1958 1
+1969 1953 1
+1978 1964 1
+1979 1966 1
+1976 1960 1
+2431 1962 1
+1959 1943 1
+1961 1941 1
+1955 1939 1
+1954 1937 1
+1967 1951 1
+1965 1949 1
+1963 1947 1
+1957 1945 1
+1944 1927 1
+1942 1925 1
+1940 1923 1
+1934 1921 1
+1952 1935 1
+1950 1933 1
+1948 1931 1
+1946 1929 1
+2214 2200 1
+2216 2202 1
+2222 2204 1
+2224 2206 1
+2207 2192 1
+2209 2194 1
+2210 2196 1
+2212 2198 1
+2199 2184 1
+2201 2186 1
+2203 2188 1
+2205 2190 1
+2191 2176 1
+2193 2178 1
+2195 2180 1
+2197 2182 1
+2252 2235 1
+2250 2233 1
+2256 2239 1
+2254 2237 1
+2244 2227 1
+2242 2225 1
+2248 2231 1
+2246 2229 1
+2234 2219 1
+2232 2217 1
+2240 2223 1
+2238 2221 1
+2220 2299 1
+2226 2211 1
+2218 2208 1
+2230 2215 1
+2228 2213 1
+2292 2269 1
+2294 2271 1
+2286 2265 1
+2288 2267 1
+2282 2261 1
+2262 2457 1
+2284 2263 1
+2278 2257 1
+2280 2259 1
+2274 2253 1
+2276 2255 1
+2270 2249 1
+2272 2251 1
+2266 2245 1
+2268 2247 1
+2258 2241 1
+2264 2243 1
+2324 2303 1
+2322 2301 1
+2316 2297 1
+2320 2295 1
+2312 2293 1
+2314 2291 1
+2310 2289 1
+2308 2287 1
+2290 2285 1
+2306 2283 1
+2302 2281 1
+2300 2279 1
+2304 2277 1
+2433 2275 1
+2296 2273 1
+2081 2064 1
+2087 2066 1
+2085 2068 1
+2089 2070 1
+2091 2072 1
+2093 2074 1
+2095 2076 1
+2097 2078 1
+2069 2048 1
+2071 2050 1
+2073 2054 1
+2075 2056 1
+2077 2058 1
+2079 2060 1
+2083 2062 1
+2115 2098 1
+2113 2098 1
+2111 2096 1
+2123 2102 1
+2121 2102 1
+2127 2100 1
+2117 2106 1
+2119 2104 1
+2129 2110 1
+2125 2108 1
+2101 2082 1
+2099 2080 1
+2105 2086 1
+2103 2084 1
+2107 2090 1
+2107 2088 1
+2109 2094 1
+2107 2092 1
+2148 2132 1
+2150 2134 1
+2145 2128 1
+2146 2130 1
+2156 2140 1
+2158 2142 1
+2152 2136 1
+2154 2138 1
+2135 2116 1
+2137 2118 1
+2131 2112 1
+2133 2114 1
+2143 2124 1
+2430 2126 1
+2139 2120 1
+2141 2122 1
+2181 2166 1
+2179 2164 1
+2177 2162 1
+2175 2160 1
+2189 2174 1
+2187 2172 1
+2185 2170 1
+2183 2168 1
+2165 2151 1
+2163 2149 1
+2161 2147 1
+2432 2144 1
+2173 2159 1
+2171 2157 1
+2169 2155 1
+2167 2153 1
+2444 2443 1
+2442 2441 1
+2448 2447 1
+2446 2445 1
+2440 2439 1
+2438 2437 1
+2452 2451 1
+2450 2449 1
+2456 2455 1
+2454 2453 1
+2328 2307 1
+2326 2305 1
+2332 2311 1
+2330 2309 1
+2334 2315 1
+2336 2313 1
+2344 2319 1
+2338 2317 1
+2435 2323 1
+2434 2321 1
+2346 2327 1
+2435 2325 1
+2342 2331 1
+2350 2329 1
+2352 2335 1
+2348 2333 1
+2354 2337 1
+2364 2339 1
+2340 2369 1
+2356 2341 1
+2358 2343 1
+2360 2345 1
+2366 2347 1
+2368 2349 1
+2370 2351 1
+2372 2353 1
+2374 2355 1
+2376 2357 1
+2378 2359 1
+2380 2361 1
+2382 2363 1
+2384 2365 1
+2388 2367 1
+2392 2375 1
+2386 2373 1
+2390 2371 1
+2400 2383 1
+2398 2381 1
+2396 2379 1
+2394 2377 1
+2408 2391 1
+2406 2389 1
+2404 2387 1
+2402 2385 1
+2416 2399 1
+2414 2397 1
+2412 2395 1
+2410 2393 1
+2422 2405 1
+2424 2407 1
+2418 2401 1
+2420 2403 1
+2427 2413 1
+2428 2415 1
+2426 2409 1
+2425 2411 1

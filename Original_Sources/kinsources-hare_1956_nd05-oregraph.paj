@@ -1,0 +1,129 @@
+*Network Ore graph Hare1956.puc
+
+*vertices 48
+1 'H 1 (1)' triangle
+2 'H 2 (2)' triangle
+3 'H 3 (3)' triangle
+4 'H 4 (4)' triangle
+5 'H 5 (5)' triangle
+6 'H 6 (6)' triangle
+7 'H 7 (7)' triangle
+8 'H 8 (8)' triangle
+9 'H 9 (9)' triangle
+10 'H 10 (10)' triangle
+11 'H 11 (11)' triangle
+12 'H 12 (12)' triangle
+13 'F 16 (16)' ellipse
+14 'F 17 (17)' ellipse
+15 'F 18 (18)' ellipse
+16 'F 19 (19)' ellipse
+17 'F 20 (20)' ellipse
+18 'F 21 (21)' ellipse
+19 'F 22 (22)' ellipse
+20 'F 23 (23)' ellipse
+21 'F 24 (24)' ellipse
+22 'F 25 (25)' ellipse
+23 'F 26 (26)' ellipse
+24 'X 27 (27)' diamond
+25 'X 28 (28)' diamond
+26 'X 29 (29)' diamond
+27 'X 30 (30)' diamond
+28 'F 31 (31)' ellipse
+29 'H 32 (32)' triangle
+30 'H 33 (33)' triangle
+31 'F 34 (34)' ellipse
+32 'H 35 (35)' triangle
+33 'F 36 (36)' ellipse
+34 'H 37 (37)' triangle
+35 'F 38 (38)' ellipse
+36 'H 39 (39)' triangle
+37 'F 40 (40)' ellipse
+38 'H 41 (41)' triangle
+39 'F 42 (42)' ellipse
+40 'H 43 (43)' triangle
+41 'F 44 (44)' ellipse
+42 'H 45 (45)' triangle
+43 'F 46 (46)' ellipse
+44 'H 47 (47)' triangle
+45 'F 48 (48)' ellipse
+46 'F 49 (49)' ellipse
+47 'H 50 (50)' triangle
+48 'F 51 (51)' ellipse
+*arcs
+4 13 1
+4 14 1
+7 24 1
+7 17 1
+7 26 1
+7 25 1
+7 27 1
+11 18 1
+12 23 1
+16 13 1
+16 14 1
+19 24 1
+19 17 1
+19 26 1
+19 25 1
+19 27 1
+23 18 1
+29 2 1
+28 2 1
+31 15 1
+30 15 1
+34 33 1
+34 16 1
+35 33 1
+35 16 1
+32 3 1
+33 3 1
+38 5 1
+39 5 1
+36 29 1
+36 30 1
+37 29 1
+37 30 1
+42 10 1
+42 8 1
+42 9 1
+42 7 1
+43 10 1
+43 8 1
+43 9 1
+43 7 1
+40 19 1
+41 19 1
+46 23 1
+47 6 1
+47 40 1
+47 38 1
+44 21 1
+44 22 1
+45 21 1
+45 22 1
+48 6 1
+48 40 1
+48 38 1
+*edges
+1 13 1
+2 14 1
+3 15 1
+4 16 1
+5 17 1
+6 18 1
+7 19 1
+8 20 1
+9 21 1
+10 22 1
+11 23 1
+12 46 1
+29 28 1
+30 31 1
+34 35 1
+32 33 1
+38 39 1
+36 37 1
+42 43 1
+40 41 1
+47 48 1
+44 45 1

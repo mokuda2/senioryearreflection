@@ -1,0 +1,139 @@
+*Network Ore graph Vedda1905.puc
+
+*vertices 48
+1 'H 1 (1)' triangle
+2 'H 2 (2)' triangle
+3 'H 3 (3)' triangle
+4 'H 4 (4)' triangle
+5 'H 5 (5)' triangle
+6 'H 6 (6)' triangle
+7 'H 7 (7)' triangle
+8 'H 8 (8)' triangle
+9 'H 9 (9)' triangle
+10 'H 10 (10)' triangle
+11 'H 11 (11)' triangle
+12 'H 12 (12)' triangle
+13 'H 13 (13)' triangle
+14 'H 14 (14)' triangle
+15 'F 15 (15)' ellipse
+16 'F 16 (16)' ellipse
+17 'F 17 (17)' ellipse
+18 'F 18 (18)' ellipse
+19 'F 19 (19)' ellipse
+20 'F 20 (20)' ellipse
+21 'F 21 (21)' ellipse
+22 'F 22 (22)' ellipse
+23 'F 23 (23)' ellipse
+24 'F 24 (24)' ellipse
+25 'F 25 (25)' ellipse
+26 'F 26 (26)' ellipse
+27 'H 27 (27)' triangle
+28 'F 28 (28)' ellipse
+29 'H 29 (29)' triangle
+30 'F 30 (30)' ellipse
+31 'H 31 (31)' triangle
+32 'F 32 (32)' ellipse
+33 'H 33 (33)' triangle
+34 'F 34 (34)' ellipse
+35 'H 35 (35)' triangle
+36 'F 36 (36)' ellipse
+37 'H 37 (37)' triangle
+38 'H 38 (38)' triangle
+39 'F 39 (39)' ellipse
+40 'F 40 (40)' ellipse
+41 'H 41 (41)' triangle
+42 'H 42 (42)' triangle
+43 'F 43 (43)' ellipse
+44 'F 44 (44)' ellipse
+45 'F 45 (45)' ellipse
+46 'H 46 (46)' triangle
+47 'H 47 (47)' triangle
+48 'F 48 (48)' ellipse
+*arcs
+4 15 1
+4 1 1
+9 3 1
+9 17 1
+9 16 1
+10 5 1
+10 6 1
+10 19 1
+11 7 1
+11 20 1
+14 25 1
+14 32 1
+19 15 1
+19 1 1
+23 5 1
+23 6 1
+23 19 1
+22 3 1
+22 17 1
+22 16 1
+24 7 1
+24 20 1
+27 2 1
+26 25 1
+29 18 1
+29 4 1
+28 2 1
+31 8 1
+31 21 1
+30 18 1
+30 4 1
+34 28 1
+34 9 1
+35 22 1
+32 8 1
+32 21 1
+33 28 1
+33 9 1
+38 24 1
+38 23 1
+39 24 1
+39 23 1
+36 22 1
+37 10 1
+37 30 1
+42 12 1
+42 13 1
+43 12 1
+43 13 1
+40 10 1
+40 30 1
+40 11 1
+41 11 1
+46 40 1
+46 14 1
+46 43 1
+47 33 1
+47 36 1
+47 45 1
+44 32 1
+45 40 1
+45 14 1
+45 43 1
+48 33 1
+48 36 1
+48 45 1
+*edges
+2 16 1
+4 19 1
+9 28 1
+9 22 1
+10 23 1
+11 24 1
+11 23 1
+14 26 1
+14 44 1
+27 28 1
+29 30 1
+31 32 1
+35 36 1
+33 34 1
+38 39 1
+37 40 1
+42 43 1
+41 40 1
+47 48 1
+46 45 1

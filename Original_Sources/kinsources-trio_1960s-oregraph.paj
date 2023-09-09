@@ -1,0 +1,2153 @@
+*Network Ore graph Trio.puc
+
+*vertices 782
+1 'Susuku (1)' triangle
+2 'Tuhori (2)' triangle
+3 'M?kuri (3)' ellipse
+4 'Aronki (4)' triangle
+5 'Pesa (5)' triangle
+6 'Pak?ri (6)' ellipse
+7 'Morime (7)' triangle
+8 'Tarara (8)' ellipse
+9 'Sere (9)' triangle
+10 'infant (10)' ellipse
+11 'Paru (11)' triangle
+12 'Kotorita (12)' ellipse
+13 'Kurapa (13)' ellipse
+14 'Mono (14)' triangle
+15 'Ponoriu (15)' ellipse
+16 'Isenka (16)' triangle
+17 'Penu (17)' triangle
+18 'Mem? (18)' ellipse
+19 'Marirep? (19)' ellipse
+20 'Mik?p? (20)' ellipse
+21 'Asiw?rip? (21)' ellipse
+22 'Pepu (22)' triangle
+23 'Sipi (23)' triangle
+24 'Paruparu (24)' ellipse
+25 'Warapi (25)' ellipse
+26 'Sawaki (26)' triangle
+27 'Anotaiye (27)' ellipse
+28 'Aiyatu (28)' ellipse
+29 'Numep? (29)' ellipse
+30 'M?k?rip? (30)' ellipse
+31 'Matat? (31)' triangle
+32 'Muyop? (32)' triangle
+33 'P?t?rita (33)' triangle
+34 'Atuw?r?p? (34)' ellipse
+35 'Kurumuku (35)' triangle
+36 'Panesi (36)' triangle
+37 'Pikuku (37)' triangle
+38 'Karosu (38)' triangle
+39 'Pika (39)' triangle
+40 'Mauri (40)' ellipse
+41 'Imaina (41)' triangle
+42 'infant (42)' ellipse
+43 'Asap? (43)' triangle
+44 'Nuwimp? (44)' ellipse
+45 'Yakari (45)' triangle
+46 'Ik?ri (46)' ellipse
+47 'Oroiyen (47)' triangle
+48 'Simip? (48)' ellipse
+49 'Pak?ke (49)' ellipse
+50 'Sarite (50)' triangle
+51 'P?roi (51)' ellipse
+52 'Iyak?po (52)' triangle
+53 'Siwapun (53)' ellipse
+54 'Pakoni (54)' triangle
+55 'Isaruwiyae (55)' ellipse
+56 'Kensani (56)' triangle
+57 'Aturai (57)' triangle
+58 'W?ripena (58)' ellipse
+59 'M?t?ip? (59)' triangle
+60 'Akutap? (60)' ellipse
+61 'Tawiruye (61)' ellipse
+62 'Eoyari (62)' triangle
+63 'K?waipipi (63)' ellipse
+64 'Sawirapo (64)' triangle
+65 'P?nti (65)' ellipse
+66 'Asiku (66)' triangle
+67 'W?ta (67)' triangle
+68 'Saimane (68)' triangle
+69 'Mupi (69)' triangle
+70 'T?naiye (70)' ellipse
+71 'Atepi (71)' triangle
+72 'Piruru (72)' ellipse
+73 'Arensu (73)' triangle
+74 'Sep? (74)' triangle
+75 'Makarakara (75)' ellipse
+76 'Yaroip? (76)' triangle
+77 'Piriuta (77)' triangle
+78 'Asonko (78)' triangle
+79 'Kinini (79)' triangle
+80 'Atu (80)' ellipse
+81 'Akoi (81)' triangle
+82 'Sine (82)' ellipse
+83 'Kamap? (83)' triangle
+84 'Matu (84)' triangle
+85 'Ririp? (85)' triangle
+86 'Kuw?se (86)' ellipse
+87 'Mori (87)' ellipse
+88 'Pisekane (88)' ellipse
+89 'Sipare (89)' triangle
+90 'Pia (90)' triangle
+91 'Kurawaka (91)' triangle
+92 'Munui (92)' ellipse
+93 'Pesaip? (93)' triangle
+94 'Erka (94)' triangle
+95 'Ek?ip? (95)' triangle
+96 'Neri (96)' triangle
+97 'Pesami (97)' triangle
+98 'Aretina (98)' triangle
+99 'Pipa (99)' ellipse
+100 'Ak?r?p? (100)' triangle
+101 'Tamusi (101)' ellipse
+102 'Kuyopai (102)' triangle
+103 'Sinema (103)' ellipse
+104 'Seni (104)' triangle
+105 'Yapa (105)' ellipse
+106 'Itawiu (106)' ellipse
+107 'Torop? (107)' triangle
+108 'Rapu (108)' triangle
+109 'Sore (109)' ellipse
+110 'Mairup? (110)' ellipse
+111 'Mosi (111)' ellipse
+112 'Kenaima (112)' triangle
+113 'Tukup? (113)' ellipse
+114 'Akuso (114)' triangle
+115 'Asusu (115)' ellipse
+116 'Waraka (116)' triangle
+117 'Kumiru (117)' ellipse
+118 'K?waraiye (118)' ellipse
+119 'Tapa (119)' ellipse
+120 'Kuriya (120)' ellipse
+121 'Siri (121)' triangle
+122 'Tapae (122)' triangle
+123 'Sakakimp? (123)' triangle
+124 'Marere (124)' ellipse
+125 'Taiyap? (125)' triangle
+126 'Orosisi (126)' triangle
+127 'Menari (127)' ellipse
+128 'Maripai (128)' triangle
+129 'Surup? (129)' ellipse
+130 'Amip? (130)' ellipse
+131 'Maiyinimp? (131)' triangle
+132 'Maiyaya (132)' triangle
+133 'Rasare (133)' triangle
+134 'Misita (134)' ellipse
+135 'Yikump? (135)' triangle
+136 'Asikinini (136)' ellipse
+137 'Pantaku (137)' triangle
+138 'Toporiyae (138)' ellipse
+139 'K?s?p? (139)' triangle
+140 'Akarasa (140)' ellipse
+141 'Moisesi (141)' triangle
+142 'Tunahkana (142)' triangle
+143 'Timai (143)' ellipse
+144 'Pis? (144)' ellipse
+145 'R?r?p? (145)' ellipse
+146 'infant (146)' ellipse
+147 'Pemona (147)' ellipse
+148 'infant (148)' ellipse
+149 'K?iriki (149)' triangle
+150 'Anori (150)' ellipse
+151 'Sap? (151)' triangle
+152 'Kumarau (152)' ellipse
+153 'It?imare (153)' triangle
+154 'Papop? (154)' ellipse
+155 'Ororinap? (155)' triangle
+156 'Piwara (156)' triangle
+157 'Patoha (157)' ellipse
+158 'Pirome (158)' triangle
+159 'infant (159)' ellipse
+160 'Kasa (160)' triangle
+161 'Apirosi (161)' triangle
+162 'Taiti (162)' ellipse
+163 'Apomita (163)' triangle
+164 'Yimep? (164)' ellipse
+165 'Emopirip? (165)' triangle
+166 'Tunareka (166)' triangle
+167 'Imariyae (167)' ellipse
+168 'Maposi (168)' ellipse
+169 'Mak?p? (169)' triangle
+170 'Asikiri (170)' triangle
+171 'Mapurikiki (171)' triangle
+172 'Iyakana (172)' ellipse
+173 'Ror? (173)' triangle
+174 'Sokori (174)' ellipse
+175 'Ek?tai (175)' ellipse
+176 'Mit? (176)' triangle
+177 'Aposi (177)' triangle
+178 'Anaore (178)' triangle
+179 'Arami (179)' ellipse
+180 'Piri (180)' triangle
+181 'Yaroikiri (181)' triangle
+182 'Muse (182)' triangle
+183 'Ikina (183)' ellipse
+184 'Tunak?p? (184)' ellipse
+185 'Petarate (185)' triangle
+186 'Ariu (186)' ellipse
+187 'Tuna (187)' triangle
+188 'Warep? (188)' ellipse
+189 'Ator? (189)' ellipse
+190 'Meniyo (190)' triangle
+191 'Ikuwaiy? (191)' ellipse
+192 'Paseki (192)' triangle
+193 'Yarita (193)' triangle
+194 'Yak?p? (194)' ellipse
+195 'Koruyari (195)' triangle
+196 'Makara (196)' triangle
+197 'Wiwi (197)' ellipse
+198 'Konop? (198)' ellipse
+199 'Isup? (199)' triangle
+200 'Seresereru (200)' triangle
+201 'Is?naoi (201)' ellipse
+202 'Kanre (202)' triangle
+203 'Waikera (203)' triangle
+204 'Pantiya (204)' ellipse
+205 'infant (205)' triangle
+206 'Pekop? (206)' triangle
+207 'Raina (207)' ellipse
+208 'Yaninip? (208)' triangle
+209 'Pesip? (209)' triangle
+210 'Epoika (210)' triangle
+211 'Ataimp? (211)' triangle
+212 'Ak?tiki (212)' triangle
+213 'Ririka (213)' ellipse
+214 'Ikaraiya (214)' ellipse
+215 'Amasina (215)' triangle
+216 'W?rimuku (216)' ellipse
+217 'Yanip? (217)' triangle
+218 'Maririp? (218)' ellipse
+219 'Paruwita (219)' ellipse
+220 'Maiyue (220)' triangle
+221 'Iwaemp? (221)' ellipse
+222 'Pekura (222)' triangle
+223 'Sorop? (223)' ellipse
+224 'Yawamp? (224)' triangle
+225 'Suriwa (225)' triangle
+226 'Sinewaka (226)' ellipse
+227 'Onap? (227)' triangle
+228 'P?murip? (228)' ellipse
+229 'Aranre (229)' triangle
+230 'P?puru (230)' ellipse
+231 'Iporika (231)' triangle
+232 'Porosisa (232)' triangle
+233 'Koemp? (233)' triangle
+234 'Sikaru (234)' triangle
+235 'Iwana (235)' triangle
+236 'Paewap? (236)' triangle
+237 'Siwiri (237)' ellipse
+238 'Arapi (238)' triangle
+239 'Imetimp? (239)' ellipse
+240 'Wiso (240)' ellipse
+241 'Amiyo (241)' triangle
+242 'Amaina (242)' ellipse
+243 'Soni (243)' triangle
+244 'Pasawat? (244)' ellipse
+245 'T?pepuru (245)' triangle
+246 'Tak?naiu (246)' ellipse
+247 'Rapai (247)' triangle
+248 'Peni (248)' triangle
+249 'X (249)' ellipse
+250 'P?tarinai (250)' triangle
+251 'Noeri (251)' ellipse
+252 'Tasi (252)' ellipse
+253 'Suri (253)' triangle
+254 'Sikamimp? (254)' triangle
+255 'Irumaiyae (255)' triangle
+256 'Mariwaiyae (256)' ellipse
+257 'Mir?r? (257)' ellipse
+258 'Tarimp? (258)' triangle
+259 'Matukupin (259)' ellipse
+260 'Mak?ita (260)' triangle
+261 'Tawae (261)' triangle
+262 'Siwaiwari (262)' triangle
+263 'Enapere (263)' triangle
+264 'Mariyeti (264)' ellipse
+265 'Isarina (265)' ellipse
+266 'Aw?no (266)' ellipse
+267 'Saipemp? (267)' triangle
+268 'Ewarum?n (268)' ellipse
+269 'Tayakae (269)' triangle
+270 'Tamori (270)' ellipse
+271 'Marasiwana (271)' triangle
+272 'infant (272)' triangle
+273 'Mooso (273)' triangle
+274 'Sipakari (274)' ellipse
+275 'Pak?wap? (275)' ellipse
+276 'Puhi (276)' ellipse
+277 'Masaror? (277)' triangle
+278 'Arekum? (278)' triangle
+279 'Karirit? (279)' ellipse
+280 'P?nsi (280)' triangle
+281 'Ponoentu (281)' triangle
+282 'Atuku (282)' triangle
+283 'Aket? (283)' ellipse
+284 'Tarima (284)' triangle
+285 'Sarareu (285)' ellipse
+286 'Ariyeti (286)' ellipse
+287 'Iwariu (287)' ellipse
+288 'Sirip? (288)' ellipse
+289 'Parakit? (289)' triangle
+290 'Wikap? (290)' ellipse
+291 'Puimp? (291)' ellipse
+292 'Sipet? (292)' ellipse
+293 'Naiyemp? (293)' triangle
+294 'Parait? (294)' triangle
+295 'N?ri (295)' triangle
+296 'Anapi (296)' triangle
+297 'Yarop? (297)' triangle
+298 'Nakapuma (298)' triangle
+299 'Situpe (299)' ellipse
+300 'Korokoro (300)' triangle
+301 'Kumup? (301)' triangle
+302 'P?raewaeyae (302)' ellipse
+303 'Simai (303)' ellipse
+304 'Piyanap? (304)' triangle
+305 'Torop?ti (305)' triangle
+306 'Minori (306)' ellipse
+307 'Uk?re (307)' ellipse
+308 'Karar?mon (308)' triangle
+309 'Yenyapi (309)' ellipse
+310 'Naraeyiyi (310)' triangle
+311 'Sip?k? (311)' triangle
+312 'Pisik?k? (312)' triangle
+313 'Napanak? (313)' ellipse
+314 'Nimoimp? (314)' ellipse
+315 'Kapai Iputip? (315)' triangle
+316 'Kanaruye (316)' ellipse
+317 'In?si (317)' triangle
+318 'Marina (318)' ellipse
+319 '(Muru) (319)' triangle
+320 '(Mairena) (320)' ellipse
+321 'Tiyok?nke (321)' ellipse
+322 'Yayarik? (322)' triangle
+323 'Anasink? (323)' triangle
+324 'Arunt? (324)' triangle
+325 'Tuma (325)' ellipse
+326 'Sanutu (326)' triangle
+327 'Iraw?p?n (327)' ellipse
+328 'Napumi (328)' triangle
+329 'Arant? (329)' triangle
+330 'N?rui (330)' ellipse
+331 'Paik? (331)' ellipse
+332 'Yamet? (332)' triangle
+333 'Nasari (333)' ellipse
+334 'Tap?mp? (334)' triangle
+335 'Irasamoke (335)' ellipse
+336 'Napeta (336)' triangle
+337 'Wakuri (337)' ellipse
+338 'Mawiya (338)' ellipse
+339 'Yapi (339)' triangle
+340 'Pantap? (340)' triangle
+341 'Pak?i (341)' ellipse
+342 'Amenkaeyae (342)' triangle
+343 'San?p? (343)' triangle
+344 'Paiye (344)' triangle
+345 'Kamara (345)' ellipse
+346 'Keriya (346)' triangle
+347 'Sanono (347)' ellipse
+348 'Yitapip? (348)' triangle
+349 'Maparina (349)' ellipse
+350 'Pitu (350)' triangle
+351 'Arumump? (351)' triangle
+352 'Nuisa (352)' triangle
+353 'Oriyae (353)' ellipse
+354 'M?naiye (354)' ellipse
+355 'Apok? (355)' triangle
+356 'Yon?n? (356)' ellipse
+357 'Sir?w? (357)' ellipse
+358 'Musoro (358)' triangle
+359 'Retip? (359)' triangle
+360 'Apari (360)' ellipse
+361 'Ankapi (361)' ellipse
+362 'Kumpuruni (362)' triangle
+363 'Orokati (363)' triangle
+364 'Rime (364)' triangle
+365 'Pikume (365)' triangle
+366 'Pare (366)' ellipse
+367 'Pikiri (367)' ellipse
+368 'Patoa (368)' ellipse
+369 'Make (369)' ellipse
+370 'Muk?k? (370)' triangle
+371 'Orot? (371)' triangle
+372 'Sekerina (372)' ellipse
+373 'Anesi (373)' triangle
+374 'Unesi (374)' ellipse
+375 '(Mopinairu) (375)' ellipse
+376 'Asapoti (376)' triangle
+377 'Sira (377)' triangle
+378 'Merinto (378)' ellipse
+379 'Pemur?k? (379)' triangle
+380 'Arikumare (380)' ellipse
+381 'Pisere (381)' triangle
+382 'Arupi (382)' triangle
+383 'Awipo (383)' ellipse
+384 'Kororiya (384)' ellipse
+385 'Parusoso (385)' ellipse
+386 'Pepeyuku (386)' triangle
+387 'Maiyet? (387)' ellipse
+388 'Piro (388)' triangle
+389 'Nak?nik? (389)' triangle
+390 'Koi (390)' triangle
+391 'Asoropo (391)' triangle
+392 'M?sa (392)' ellipse
+393 'W?w? (393)' ellipse
+394 'Peki (394)' ellipse
+395 'Aiyuma (395)' ellipse
+396 'Rup?n (396)' ellipse
+397 'Yura (397)' triangle
+398 'Panariw?te (398)' ellipse
+399 'Apipi (399)' triangle
+400 'Enusasa (400)' ellipse
+401 'Wamiru (401)' triangle
+402 'Monsita (402)' ellipse
+403 'Anturu (403)' triangle
+404 'Tamisi (404)' triangle
+405 'Poiye (405)' triangle
+406 'Apatu (406)' triangle
+407 'Nanau (407)' ellipse
+408 'Misui (408)' ellipse
+409 'Kontina (409)' ellipse
+410 'Yarikat? (410)' triangle
+411 'Siwinun (411)' ellipse
+412 'Nansi (412)' ellipse
+413 'Apiyantoni (413)' triangle
+414 'Yumia (414)' ellipse
+415 'Marinu (415)' ellipse
+416 'Kurawairu (416)' ellipse
+417 'Inkiman (417)' triangle
+418 'Penkina (418)' triangle
+419 'Apewasu (419)' ellipse
+420 'Naki (420)' triangle
+421 'Yuru (421)' triangle
+422 'Akiriko (422)' triangle
+423 'Maisani (423)' ellipse
+424 'Tawanai (424)' triangle
+425 'P?wuri (425)' ellipse
+426 'Usepi (426)' triangle
+427 'Momori (427)' ellipse
+428 'Kuyenu (428)' triangle
+429 'Nonowaiyae (429)' ellipse
+430 'Pareya (430)' triangle
+431 'Repi (431)' ellipse
+432 'P?m?n (432)' triangle
+433 'Napemura (433)' ellipse
+434 'Makarep?n (434)' ellipse
+435 'Asoro (435)' triangle
+436 'Sapink? (436)' triangle
+437 'Sintori (437)' ellipse
+438 'Tankuru (438)' ellipse
+439 'Tak?i (439)' triangle
+440 'Takupi (440)' ellipse
+441 'Nowa (441)' triangle
+442 'Nawinawi (442)' triangle
+443 'Epump? (443)' ellipse
+444 'Tanari (444)' triangle
+445 'Pap? (445)' ellipse
+446 'Sap?k? (446)' triangle
+447 'Pakira (447)' triangle
+448 'Aso (448)' triangle
+449 'Kanaiyama (449)' triangle
+450 'Asanri (451)' triangle
+451 'Maripapa (452)' triangle
+452 'Eukiye (454)' ellipse
+453 'Arank?i (455)' triangle
+454 'Patukimp? (456)' ellipse
+455 'S?is?i (457)' triangle
+456 'Pepeta (458)' triangle
+457 'S?kurip?n (459)' ellipse
+458 'Araki (460)' triangle
+459 'Miko (461)' triangle
+460 'Arena (462)' ellipse
+461 'Simore (463)' triangle
+462 'Irakina (464)' ellipse
+463 'Mar?r? (465)' triangle
+464 'Sirai (466)' triangle
+465 'Ewaruye (467)' ellipse
+466 'Sepera (468)' ellipse
+467 'Tampe (469)' triangle
+468 'Sareyuna (470)' ellipse
+469 'Surekore (471)' triangle
+470 'Sariku (472)' triangle
+471 'Pisip? (473)' ellipse
+472 'Amip? (474)' triangle
+473 '?k?wiyae (475)' ellipse
+474 'Amasi (476)' triangle
+475 'infant (477)' triangle
+476 'Parok?w? (478)' triangle
+477 'Arikep? (479)' ellipse
+478 'Pinar? (480)' triangle
+479 'Pansina (481)' ellipse
+480 'T?meta (482)' triangle
+481 'Atiyari (483)' triangle
+482 'Manaru (484)' ellipse
+483 'Kara (485)' ellipse
+484 'Mopep? (486)' ellipse
+485 'Reposi (487)' ellipse
+486 'Musere (488)' triangle
+487 'Yan (489)' triangle
+488 'Sip? (490)' triangle
+489 'Aruwate (491)' triangle
+490 'Awaintu (492)' ellipse
+491 'Apok?nini (493)' ellipse
+492 'P?t? (494)' triangle
+493 'Matanro (495)' triangle
+494 'Panaka (496)' ellipse
+495 'Takiruta (497)' ellipse
+496 'Kiriwa (498)' triangle
+497 'P?ropi (499)' ellipse
+498 'Imariu (500)' triangle
+499 'Repi (501)' ellipse
+500 'Takiru (502)' ellipse
+501 'Kasirimari (503)' triangle
+502 'Apitawa (504)' ellipse
+503 'Wawita (505)' ellipse
+504 'Kiririt? (506)' triangle
+505 'W?p? (507)' ellipse
+506 'Yawik?n (508)' triangle
+507 'Yawinapu (509)' ellipse
+508 'Ikinup? (510)' ellipse
+509 'Simuru (511)' triangle
+510 'Tawakira (512)' triangle
+511 'Pekara (513)' ellipse
+512 'Supipi (514)' triangle
+513 'Sinuwit? (515)' ellipse
+514 'Rena (516)' ellipse
+515 'Patui (517)' ellipse
+516 'Meriya (518)' ellipse
+517 'Tapiro (519)' ellipse
+518 'Teteku (520)' triangle
+519 'Nuku (521)' ellipse
+520 'Yentorip? (522)' ellipse
+521 'Sip?ri (523)' triangle
+522 'Kapu (524)' triangle
+523 'Iwarunap? (525)' ellipse
+524 'Mokoropi (526)' triangle
+525 'Simaekaeru (527)' ellipse
+526 'Pesini (528)' triangle
+527 'Turap? (529)' triangle
+528 'Yakukuna (530)' ellipse
+529 'Awaenki (531)' triangle
+530 'Ip?sip?n (532)' ellipse
+531 'Anna (533)' ellipse
+532 'Nat?t? (534)' ellipse
+533 'Musere (535)' triangle
+534 'Situa (536)' ellipse
+535 'Nasip? (537)' triangle
+536 '?ritutu (538)' ellipse
+537 'Watomp? (539)' triangle
+538 'Aminu (540)' ellipse
+539 'Panat?ri (542)' ellipse
+540 'Weyut? (543)' triangle
+541 'Tankaiya (544)' ellipse
+542 'Arirup?n (545)' ellipse
+543 'Kumap?n (546)' ellipse
+544 'Wapuyari (547)' triangle
+545 'Sirirumai (548)' triangle
+546 'Yoyor? (549)' ellipse
+547 'Akowani (550)' triangle
+548 'Potoma (551)' triangle
+549 'Parawap?n (552)' ellipse
+550 'Kow?rina (553)' triangle
+551 'Pasopo (554)' ellipse
+552 'W?siwa (555)' triangle
+553 'Pok?i (556)' triangle
+554 'Emuke (557)' triangle
+555 'Minap? (558)' ellipse
+556 'Kuri (559)' ellipse
+557 'Sarip?n (560)' ellipse
+558 'Sikese (561)' triangle
+559 'Matiu (562)' triangle
+560 'Irame (563)' triangle
+561 'Akori (564)' triangle
+562 'Iriuna (565)' ellipse
+563 'Sini (566)' triangle
+564 'Yinamp? (567)' triangle
+565 'Akarapio (568)' ellipse
+566 'Ampani (569)' ellipse
+567 'Ak?ri (571)' ellipse
+568 'Omiri (572)' ellipse
+569 'Rani (573)' triangle
+570 'Sokop? (574)' ellipse
+571 'Apisike (575)' triangle
+572 'It?pu (576)' triangle
+573 'Maruwaik? (577)' triangle
+574 'Kiyokiyo (578)' triangle
+575 'Iyarip?n (579)' triangle
+576 'Mawa (580)' ellipse
+577 'Tawi (581)' ellipse
+578 'Napiyo (582)' ellipse
+579 'Wenaru (583)' ellipse
+580 'Aika (584)' triangle
+581 'Yani (585)' triangle
+582 'Mapiyukuta (586)' triangle
+583 'Yaruwanare (587)' triangle
+584 'Amakiriki (588)' triangle
+585 'Wapute (589)' ellipse
+586 'Nouku (590)' ellipse
+587 'Somo (591)' triangle
+588 'Piraekimp? (592)' ellipse
+589 'Ser?n (593)' ellipse
+590 'Sipoti (594)' ellipse
+591 'Sirosi (595)' triangle
+592 'Asaeye (596)' ellipse
+593 'Anu (597)' ellipse
+594 'Apoiyo (598)' ellipse
+595 'Tamiko (599)' triangle
+596 'Asasap? (600)' ellipse
+597 'Koihomp? (601)' triangle
+598 'Pesoro (602)' triangle
+599 'N?k?ratete (603)' triangle
+600 'Paiyemip? (604)' ellipse
+601 'Kapu (605)' triangle
+602 'Pakaisita (606)' ellipse
+603 'Ter? (607)' triangle
+604 'Takai (608)' ellipse
+605 'Aresi (609)' triangle
+606 'Ruki (610)' triangle
+607 'Penet? (611)' ellipse
+608 'Reyama (612)' ellipse
+609 'Kukuri (613)' ellipse
+610 'P?tu (614)' ellipse
+611 'Sinrap? (615)' ellipse
+612 'K?si (616)' triangle
+613 'Tumari (617)' ellipse
+614 'Orowump? (618)' triangle
+615 'Taina (619)' ellipse
+616 'T?me (620)' ellipse
+617 'Kaiyari (621)' triangle
+618 'Yemisi (622)' triangle
+619 'Peti (623)' ellipse
+620 'Kumaware (624)' triangle
+621 'Asira (625)' triangle
+622 'Iyawinaru (626)' ellipse
+623 'Iyarik? (627)' triangle
+624 'Awia (628)' triangle
+625 'Orayip? (629)' ellipse
+626 'Yarep? (630)' triangle
+627 'Saruku (631)' triangle
+628 'Maparip?n (632)' ellipse
+629 'Ik?r? (633)' ellipse
+630 'Wiwik? (634)' triangle
+631 'Nantawi (635)' ellipse
+632 'Asep? (636)' triangle
+633 'Erisa (637)' ellipse
+634 'Kurura (638)' ellipse
+635 'Aretai (639)' triangle
+636 '?t?mp? (640)' ellipse
+637 'Pera (641)' triangle
+638 'Pera (642)' triangle
+639 'Tuwike (643)' ellipse
+640 'Tuwike (644)' ellipse
+641 'Pawe (645)' triangle
+642 'Murewesu (646)' triangle
+643 'S?rai (647)' ellipse
+644 'Apop? (648)' triangle
+645 'Asusuke (649)' ellipse
+646 'Sapakanana (650)' ellipse
+647 'Nuwimp? (651)' ellipse
+648 'Papoti (652)' ellipse
+649 'Ere (653)' ellipse
+650 'Kuramenaru (654)' ellipse
+651 'Ipanap? (655)' triangle
+652 'Pereresi (656)' triangle
+653 'Pereresi (657)' triangle
+654 'Sin?k? (658)' triangle
+655 'Taimu (659)' ellipse
+656 'Koyopi (660)' triangle
+657 'Koyopi (661)' triangle
+658 'Aranaeye (662)' ellipse
+659 'Iponu (663)' ellipse
+660 'Iponu (664)' triangle
+661 'Mek?nti (665)' ellipse
+662 'Patutu (666)' triangle
+663 'Tutimp? (667)' ellipse
+664 'Amik?i (668)' triangle
+665 'Yatuwari (669)' triangle
+666 'Koiye (670)' triangle
+667 'Pisure (671)' triangle
+668 'Pisure (672)' ellipse
+669 'Sasamp? (673)' ellipse
+670 'Koina (674)' triangle
+671 'Rina (675)' ellipse
+672 'Motu (676)' ellipse
+673 'Mokoisai (677)' ellipse
+674 'Mokoisai (678)' triangle
+675 'P?t?t? (679)' triangle
+676 'Tupiro (680)' ellipse
+677 'Sipiya (681)' triangle
+678 'Son? (682)' ellipse
+679 'Siyank?r? (683)' triangle
+680 'Pisai (684)' triangle
+681 'Nupiyarank? (685)' triangle
+682 'Saere (686)' ellipse
+683 'Saere (687)' ellipse
+684 'infant (688)' triangle
+685 'Akui (689)' ellipse
+686 'Siwituru (690)' triangle
+687 'Siro (691)' triangle
+688 'Tawanamae (692)' triangle
+689 'Kamp? (693)' ellipse
+690 'Sikuraip? (694)' triangle
+691 'Putukhe (695)' ellipse
+692 'Putukhe (696)' ellipse
+693 'Arer? (697)' triangle
+694 'Arer? (698)' ellipse
+695 'Wak?ya (699)' triangle
+696 'Rekewa (700)' ellipse
+697 'Rekewa (701)' ellipse
+698 'T?mer? (702)' ellipse
+699 'Ikuena (703)' ellipse
+700 'Anoriya (704)' ellipse
+701 'Anoriya (705)' triangle
+702 'Saruma (706)' triangle
+703 'T?waimo (707)' triangle
+704 'Atipa (708)' triangle
+705 'Maiyori (709)' ellipse
+706 'Paik? (710)' triangle
+707 'Makamp? (711)' triangle
+708 'Makuwana (712)' triangle
+709 'Eyuku (713)' ellipse
+710 'Masi (714)' triangle
+711 'Tukanapo (715)' ellipse
+712 'Sikar?n (716)' triangle
+713 'Asiwap? (717)' ellipse
+714 'Wiyina (718)' triangle
+715 'Yamant? (719)' ellipse
+716 'Iyetip? (720)' triangle
+717 'Iyetip? (721)' ellipse
+718 'Urututu (722)' ellipse
+719 'Pei (723)' ellipse
+720 'K?ini (724)' ellipse
+721 'Ameniye (725)' ellipse
+722 'Ameniye (726)' triangle
+723 'Pakoti (727)' ellipse
+724 'Misop? (728)' triangle
+725 'Tarukare (729)' ellipse
+726 'T?poma (730)' triangle
+727 'Kute (731)' triangle
+728 'Natara (732)' triangle
+729 'Natara (733)' ellipse
+730 'An?tiye (734)' ellipse
+731 'Puk?iya (735)' triangle
+732 'P?r? (736)' ellipse
+733 'Pakoro (737)' ellipse
+734 'Sinuku (738)' triangle
+735 'Arinaik? (739)' ellipse
+736 'Pirepump? (740)' triangle
+737 'Koriyae (741)' triangle
+738 'Rikusae (742)' triangle
+739 'Urapia (743)' ellipse
+740 'Panameye (744)' triangle
+741 'Surake (745)' triangle
+742 'Sirimu (746)' ellipse
+743 'Piriruye (747)' ellipse
+744 'Mon?i (748)' triangle
+745 'Mant? (749)' ellipse
+746 'T?pepiwa (750)' ellipse
+747 'Ar?p? (751)' ellipse
+748 'Poretan? (752)' triangle
+749 'K?r?mesa (753)' triangle
+750 'Tintinu (754)' ellipse
+751 'Tintinu (755)' ellipse
+752 'Kusene (756)' triangle
+753 'Kusene (757)' ellipse
+754 'K?ipaiye (758)' ellipse
+755 'W?r?p? (759)' ellipse
+756 'Koropimp? (760)' ellipse
+757 'Susuremu (761)' ellipse
+758 'Pirik?k? (762)' triangle
+759 'Piyampisi (763)' ellipse
+760 'Wikom?n (764)' triangle
+761 'Korotae (765)' ellipse
+762 'Peyo (766)' ellipse
+763 'Ariwe (767)' ellipse
+764 'Atinayi (768)' ellipse
+765 'Ropi (769)' ellipse
+766 'Imerup?n (770)' triangle
+767 'Sapontu (771)' triangle
+768 'Peti (772)' triangle
+769 'Sante (773)' triangle
+770 'Wamep?n (774)' ellipse
+771 'Nay?wi (775)' triangle
+772 'Panasop? (776)' triangle
+773 'Tuk?i (777)' triangle
+774 'T?pewaituke (778)' triangle
+775 'Tompi (779)' triangle
+776 'Aramariro (780)' ellipse
+777 'Tunat? (781)' triangle
+778 'Sapiyaiya (782)' ellipse
+779 'Makara (783)' triangle
+780 'Tapon (784)' ellipse
+781 'Wirip? (785)' ellipse
+782 'Sipoti (786)' triangle
+*arcs
+1 6 1
+2 1 1
+3 8 1
+3 7 1
+3 6 1
+3 252 1
+4 132 1
+5 8 1
+5 7 1
+5 252 1
+6 10 1
+8 17 1
+8 16 1
+9 10 1
+11 9 1
+11 110 1
+11 13 1
+11 113 1
+11 109 1
+12 9 1
+12 110 1
+12 13 1
+12 113 1
+13 21 1
+14 19 1
+14 17 1
+14 20 1
+14 16 1
+15 34 1
+15 14 1
+15 163 1
+15 55 1
+18 551 1
+18 19 1
+18 20 1
+20 115 1
+23 29 1
+23 30 1
+23 22 1
+25 29 1
+25 105 1
+25 22 1
+25 100 1
+24 114 1
+24 44 1
+24 61 1
+24 23 1
+24 31 1
+24 52 1
+27 30 1
+26 125 1
+29 42 1
+28 37 1
+28 36 1
+31 42 1
+30 38 1
+34 11 1
+34 28 1
+34 399 1
+35 119 1
+35 37 1
+35 36 1
+32 38 1
+33 11 1
+33 28 1
+33 399 1
+39 32 1
+39 139 1
+43 48 1
+43 49 1
+43 31 1
+40 32 1
+40 139 1
+41 61 1
+41 23 1
+41 52 1
+44 48 1
+44 49 1
+45 114 1
+45 44 1
+45 560 1
+51 43 1
+51 573 1
+51 330 1
+50 43 1
+50 573 1
+50 330 1
+53 56 1
+53 57 1
+53 58 1
+52 56 1
+52 57 1
+52 58 1
+59 276 1
+58 276 1
+63 66 1
+63 72 1
+62 35 1
+62 66 1
+61 35 1
+60 216 1
+60 59 1
+60 67 1
+68 512 1
+68 69 1
+70 74 1
+70 63 1
+70 124 1
+70 79 1
+70 80 1
+71 72 1
+64 81 1
+64 62 1
+65 81 1
+65 53 1
+65 62 1
+65 246 1
+79 121 1
+79 122 1
+72 94 1
+72 95 1
+73 74 1
+73 76 1
+73 87 1
+73 77 1
+73 21 1
+73 80 1
+87 96 1
+81 230 1
+81 107 1
+81 78 1
+81 108 1
+80 86 1
+80 84 1
+80 85 1
+83 96 1
+83 86 1
+83 84 1
+83 85 1
+82 230 1
+82 78 1
+93 94 1
+93 95 1
+92 93 1
+92 97 1
+92 413 1
+92 73 1
+92 88 1
+89 83 1
+88 83 1
+91 93 1
+91 97 1
+91 413 1
+90 89 1
+90 63 1
+90 40 1
+90 91 1
+90 124 1
+90 79 1
+102 99 1
+102 611 1
+103 99 1
+103 611 1
+100 101 1
+99 98 1
+99 101 1
+97 98 1
+97 478 1
+110 207 1
+110 209 1
+111 109 1
+108 209 1
+108 208 1
+109 205 1
+109 208 1
+106 107 1
+106 219 1
+106 108 1
+107 205 1
+107 207 1
+107 206 1
+104 105 1
+104 100 1
+118 119 1
+117 118 1
+114 115 1
+113 206 1
+112 135 1
+112 275 1
+126 127 1
+125 123 1
+125 216 1
+125 59 1
+125 67 1
+124 76 1
+124 87 1
+124 77 1
+120 121 1
+120 122 1
+137 134 1
+137 273 1
+137 131 1
+139 146 1
+139 144 1
+139 147 1
+139 142 1
+139 141 1
+139 143 1
+138 134 1
+138 273 1
+138 131 1
+138 155 1
+138 193 1
+140 144 1
+140 147 1
+140 142 1
+140 141 1
+140 143 1
+129 106 1
+129 82 1
+128 82 1
+131 133 1
+130 127 1
+130 133 1
+132 136 1
+134 135 1
+134 275 1
+152 161 1
+152 168 1
+152 153 1
+154 158 1
+154 157 1
+154 159 1
+155 158 1
+155 157 1
+156 159 1
+145 146 1
+145 136 1
+147 148 1
+149 151 1
+150 151 1
+151 161 1
+151 168 1
+151 153 1
+170 169 1
+170 175 1
+170 171 1
+174 632 1
+174 175 1
+172 173 1
+172 154 1
+172 46 1
+163 164 1
+162 164 1
+160 173 1
+160 154 1
+160 46 1
+167 145 1
+167 178 1
+167 162 1
+166 145 1
+166 178 1
+166 162 1
+186 140 1
+187 152 1
+187 182 1
+187 201 1
+184 183 1
+185 140 1
+188 152 1
+188 182 1
+188 201 1
+189 190 1
+178 181 1
+178 180 1
+179 181 1
+179 180 1
+176 632 1
+182 190 1
+201 198 1
+203 112 1
+202 198 1
+197 195 1
+196 195 1
+198 199 1
+198 200 1
+193 75 1
+192 483 1
+192 189 1
+195 199 1
+195 200 1
+194 75 1
+220 130 1
+220 128 1
+221 123 1
+221 130 1
+222 126 1
+223 126 1
+219 169 1
+219 171 1
+212 225 1
+212 24 1
+212 3 1
+213 3 1
+214 225 1
+214 24 1
+214 39 1
+211 628 1
+211 210 1
+239 117 1
+239 204 1
+238 117 1
+238 204 1
+237 60 1
+236 60 1
+235 14 1
+235 163 1
+234 155 1
+234 193 1
+233 118 1
+232 73 1
+232 88 1
+231 34 1
+231 235 1
+231 55 1
+230 217 1
+230 218 1
+229 217 1
+229 218 1
+228 165 1
+227 165 1
+226 179 1
+225 179 1
+224 120 1
+255 254 1
+255 729 1
+253 228 1
+250 203 1
+251 203 1
+248 156 1
+249 156 1
+246 651 1
+246 215 1
+247 285 1
+247 70 1
+244 189 1
+245 551 1
+245 651 1
+245 215 1
+242 295 1
+242 170 1
+243 174 1
+240 120 1
+241 172 1
+241 295 1
+241 170 1
+279 245 1
+278 68 1
+278 12 1
+278 111 1
+283 18 1
+282 219 1
+281 106 1
+280 39 1
+287 420 1
+287 69 1
+286 15 1
+285 202 1
+285 359 1
+285 70 1
+285 360 1
+284 202 1
+284 359 1
+284 360 1
+258 257 1
+259 257 1
+256 254 1
+257 436 1
+261 436 1
+267 266 1
+264 297 1
+264 64 1
+264 238 1
+265 269 1
+265 263 1
+270 272 1
+271 270 1
+268 266 1
+269 272 1
+305 358 1
+305 357 1
+304 303 1
+306 311 1
+309 310 1
+309 649 1
+309 650 1
+309 552 1
+309 312 1
+309 307 1
+308 310 1
+308 649 1
+308 650 1
+308 552 1
+308 312 1
+308 307 1
+310 311 1
+313 317 1
+315 317 1
+314 313 1
+314 336 1
+317 321 1
+316 314 1
+316 332 1
+316 302 1
+316 315 1
+316 389 1
+319 616 1
+319 613 1
+319 318 1
+318 323 1
+318 321 1
+288 12 1
+288 111 1
+289 194 1
+290 194 1
+291 174 1
+292 274 1
+292 270 1
+293 18 1
+294 245 1
+296 297 1
+296 64 1
+296 238 1
+297 53 1
+297 246 1
+298 41 1
+298 253 1
+299 41 1
+299 253 1
+300 306 1
+300 305 1
+301 313 1
+301 300 1
+301 336 1
+302 300 1
+303 306 1
+303 305 1
+342 734 1
+342 636 1
+342 341 1
+342 684 1
+341 640 1
+341 550 1
+341 339 1
+341 532 1
+340 640 1
+340 339 1
+336 337 1
+336 338 1
+349 347 1
+348 347 1
+347 350 1
+346 350 1
+345 343 1
+345 508 1
+344 343 1
+344 508 1
+326 685 1
+326 447 1
+326 328 1
+326 446 1
+326 329 1
+327 447 1
+327 328 1
+327 446 1
+324 322 1
+325 322 1
+322 323 1
+320 616 1
+320 613 1
+320 318 1
+334 309 1
+334 333 1
+335 309 1
+335 333 1
+332 331 1
+332 346 1
+333 331 1
+333 346 1
+333 361 1
+330 685 1
+330 327 1
+330 329 1
+331 337 1
+331 338 1
+373 374 1
+372 370 1
+372 363 1
+375 373 1
+368 384 1
+371 370 1
+370 368 1
+370 369 1
+370 367 1
+381 384 1
+380 378 1
+383 579 1
+383 381 1
+383 287 1
+382 381 1
+382 514 1
+382 517 1
+376 377 1
+379 378 1
+379 269 1
+379 263 1
+356 354 1
+356 452 1
+352 351 1
+352 348 1
+353 351 1
+353 348 1
+354 358 1
+354 357 1
+355 354 1
+365 412 1
+366 377 1
+367 374 1
+361 365 1
+361 368 1
+361 369 1
+361 366 1
+361 367 1
+361 364 1
+362 361 1
+363 365 1
+363 366 1
+363 364 1
+410 409 1
+410 415 1
+411 409 1
+408 677 1
+409 414 1
+409 412 1
+414 431 1
+413 566 1
+413 414 1
+402 400 1
+400 404 1
+400 403 1
+401 400 1
+406 405 1
+406 696 1
+407 405 1
+407 723 1
+393 394 1
+392 390 1
+392 395 1
+392 396 1
+399 403 1
+398 392 1
+397 392 1
+387 385 1
+386 385 1
+391 390 1
+391 395 1
+391 396 1
+390 394 1
+442 423 1
+442 439 1
+442 677 1
+443 439 1
+444 622 1
+444 437 1
+444 438 1
+445 437 1
+445 438 1
+432 430 1
+432 434 1
+433 430 1
+433 434 1
+434 619 1
+434 618 1
+435 619 1
+435 618 1
+438 440 1
+438 441 1
+439 440 1
+439 441 1
+425 423 1
+424 371 1
+429 427 1
+428 427 1
+430 431 1
+416 415 1
+419 417 1
+418 417 1
+421 577 1
+421 420 1
+421 379 1
+420 426 1
+423 426 1
+422 428 1
+479 712 1
+479 478 1
+479 736 1
+476 393 1
+476 716 1
+477 393 1
+477 716 1
+474 475 1
+472 471 1
+473 475 1
+470 469 1
+470 655 1
+471 469 1
+471 655 1
+468 473 1
+469 473 1
+464 463 1
+464 728 1
+465 463 1
+465 728 1
+463 467 1
+463 466 1
+462 468 1
+462 460 1
+461 468 1
+461 460 1
+461 654 1
+461 675 1
+461 681 1
+461 680 1
+460 467 1
+460 466 1
+457 455 1
+456 505 1
+456 435 1
+456 600 1
+456 455 1
+455 459 1
+455 458 1
+454 459 1
+454 458 1
+453 452 1
+452 454 1
+451 356 1
+451 450 1
+450 454 1
+449 327 1
+510 509 1
+511 509 1
+504 592 1
+504 376 1
+505 592 1
+505 376 1
+506 345 1
+507 485 1
+507 345 1
+501 500 1
+502 500 1
+503 462 1
+503 355 1
+503 386 1
+496 494 1
+497 494 1
+493 490 1
+493 590 1
+493 492 1
+492 498 1
+492 521 1
+492 499 1
+495 490 1
+495 590 1
+494 595 1
+494 492 1
+489 491 1
+489 488 1
+491 498 1
+491 521 1
+491 499 1
+490 491 1
+490 488 1
+485 596 1
+485 483 1
+484 560 1
+481 480 1
+480 487 1
+480 486 1
+483 487 1
+483 486 1
+482 480 1
+548 507 1
+549 507 1
+546 504 1
+547 506 1
+547 485 1
+544 623 1
+544 419 1
+544 410 1
+545 504 1
+556 558 1
+556 559 1
+556 562 1
+556 561 1
+557 435 1
+557 600 1
+557 598 1
+554 572 1
+554 553 1
+555 553 1
+553 558 1
+553 559 1
+567 566 1
+567 599 1
+566 572 1
+566 569 1
+566 568 1
+565 563 1
+565 591 1
+564 563 1
+563 569 1
+563 568 1
+562 606 1
+560 562 1
+560 561 1
+575 574 1
+574 581 1
+571 554 1
+571 690 1
+570 693 1
+518 515 1
+518 150 1
+518 511 1
+519 515 1
+519 150 1
+519 511 1
+519 528 1
+512 516 1
+513 512 1
+514 516 1
+515 514 1
+515 517 1
+524 756 1
+524 527 1
+524 510 1
+525 527 1
+525 510 1
+526 531 1
+527 526 1
+520 505 1
+520 125 1
+522 594 1
+522 593 1
+523 522 1
+533 550 1
+533 772 1
+533 771 1
+533 532 1
+533 773 1
+535 324 1
+534 734 1
+534 636 1
+534 341 1
+534 684 1
+529 528 1
+528 526 1
+530 531 1
+541 380 1
+540 380 1
+543 623 1
+543 419 1
+543 410 1
+542 387 1
+537 340 1
+536 324 1
+539 379 1
+538 356 1
+538 450 1
+612 615 1
+612 614 1
+613 615 1
+613 614 1
+617 474 1
+617 344 1
+622 620 1
+623 599 1
+621 620 1
+627 626 1
+626 595 1
+626 702 1
+625 602 1
+624 602 1
+631 629 1
+630 629 1
+628 626 1
+635 634 1
+632 633 1
+639 637 1
+639 743 1
+638 637 1
+636 634 1
+576 574 1
+578 581 1
+579 577 1
+579 578 1
+580 578 1
+582 579 1
+582 287 1
+583 589 1
+583 591 1
+584 583 1
+585 583 1
+586 589 1
+587 612 1
+587 586 1
+587 700 1
+588 612 1
+588 586 1
+592 594 1
+592 593 1
+597 596 1
+597 609 1
+599 598 1
+598 606 1
+601 557 1
+601 457 1
+600 633 1
+600 610 1
+600 609 1
+603 556 1
+602 557 1
+602 604 1
+602 457 1
+605 604 1
+604 556 1
+607 456 1
+687 461 1
+685 686 1
+684 686 1
+682 683 1
+680 683 1
+678 682 1
+678 676 1
+678 679 1
+677 682 1
+677 676 1
+677 679 1
+674 774 1
+674 760 1
+674 673 1
+700 702 1
+696 695 1
+696 708 1
+696 703 1
+696 766 1
+696 700 1
+694 692 1
+695 698 1
+695 699 1
+695 697 1
+692 698 1
+692 699 1
+692 697 1
+693 717 1
+693 692 1
+690 689 1
+690 764 1
+690 688 1
+691 765 1
+691 689 1
+691 764 1
+691 688 1
+652 653 1
+655 654 1
+655 675 1
+655 681 1
+655 680 1
+650 653 1
+645 648 1
+645 647 1
+645 608 1
+644 648 1
+644 647 1
+644 608 1
+646 645 1
+643 641 1
+643 644 1
+642 641 1
+642 644 1
+668 666 1
+670 672 1
+670 669 1
+671 672 1
+671 669 1
+664 770 1
+665 621 1
+667 666 1
+667 752 1
+660 588 1
+662 661 1
+663 661 1
+657 656 1
+658 656 1
+658 770 1
+659 622 1
+659 588 1
+744 743 1
+750 748 1
+750 757 1
+749 748 1
+739 597 1
+738 597 1
+737 712 1
+737 736 1
+736 610 1
+743 746 1
+743 747 1
+743 745 1
+742 740 1
+741 740 1
+740 746 1
+740 747 1
+740 745 1
+762 756 1
+763 696 1
+760 757 1
+761 759 1
+766 765 1
+767 766 1
+755 671 1
+752 754 1
+752 751 1
+752 758 1
+753 754 1
+753 751 1
+756 752 1
+757 758 1
+715 713 1
+714 713 1
+716 719 1
+718 717 1
+704 703 1
+706 695 1
+706 708 1
+709 707 1
+708 707 1
+711 705 1
+711 709 1
+710 705 1
+710 709 1
+728 732 1
+728 731 1
+730 729 1
+733 732 1
+733 731 1
+734 733 1
+734 769 1
+735 733 1
+735 769 1
+720 719 1
+721 726 1
+721 725 1
+722 721 1
+722 777 1
+723 721 1
+723 777 1
+724 726 1
+724 725 1
+774 645 1
+775 631 1
+775 533 1
+770 772 1
+770 771 1
+770 773 1
+768 723 1
+782 749 1
+780 778 1
+779 778 1
+776 631 1
+776 533 1
+*edges
+1 3 1
+5 3 1
+9 6 1
+7 12 1
+14 8 1
+11 12 1
+11 111 1
+22 13 1
+73 13 1
+14 18 1
+235 15 1
+231 15 1
+77 19 1
+245 18 1
+114 20 1
+93 20 1
+116 20 1
+23 25 1
+23 27 1
+23 28 1
+104 25 1
+41 24 1
+45 24 1
+26 520 1
+31 29 1
+35 28 1
+32 30 1
+35 118 1
+33 34 1
+39 40 1
+43 44 1
+155 46 1
+47 61 1
+45 484 1
+50 51 1
+54 55 1
+52 53 1
+52 55 1
+59 58 1
+71 63 1
+62 63 1
+62 61 1
+125 60 1
+68 287 1
+68 513 1
+90 70 1
+73 70 1
+64 65 1
+297 65 1
+78 80 1
+79 120 1
+79 118 1
+93 72 1
+73 124 1
+74 75 1
+74 246 1
+81 106 1
+81 82 1
+83 80 1
+83 87 1
+126 82 1
+232 92 1
+89 88 1
+91 92 1
+102 103 1
+100 99 1
+97 479 1
+97 99 1
+173 110 1
+108 110 1
+108 109 1
+282 106 1
+107 110 1
+107 113 1
+107 109 1
+233 117 1
+112 134 1
+126 130 1
+125 221 1
+123 120 1
+137 138 1
+139 145 1
+139 140 1
+234 138 1
+281 129 1
+128 129 1
+131 130 1
+132 145 1
+153 154 1
+156 154 1
+155 154 1
+156 183 1
+149 150 1
+151 152 1
+170 174 1
+170 219 1
+169 168 1
+176 174 1
+163 162 1
+161 162 1
+160 172 1
+166 167 1
+165 164 1
+187 188 1
+185 186 1
+178 179 1
+182 191 1
+182 189 1
+202 201 1
+203 204 1
+273 197 1
+196 197 1
+193 194 1
+192 485 1
+192 244 1
+195 198 1
+220 221 1
+222 223 1
+212 213 1
+212 214 1
+280 214 1
+215 216 1
+238 239 1
+236 237 1
+229 230 1
+227 228 1
+225 226 1
+224 240 1
+254 257 1
+255 730 1
+255 256 1
+250 251 1
+248 249 1
+245 649 1
+245 252 1
+245 246 1
+243 291 1
+241 242 1
+273 274 1
+294 279 1
+278 288 1
+293 283 1
+421 287 1
+284 285 1
+258 259 1
+261 257 1
+262 257 1
+260 257 1
+263 266 1
+267 268 1
+296 264 1
+379 265 1
+271 292 1
+269 270 1
+305 354 1
+310 306 1
+308 309 1
+315 313 1
+312 551 1
+317 318 1
+319 320 1
+322 318 1
+289 290 1
+298 299 1
+300 303 1
+300 307 1
+301 314 1
+301 302 1
+342 534 1
+533 341 1
+340 341 1
+343 337 1
+351 532 1
+348 349 1
+346 347 1
+376 345 1
+344 345 1
+326 327 1
+326 330 1
+448 327 1
+324 325 1
+334 335 1
+332 333 1
+362 333 1
+449 330 1
+339 331 1
+336 331 1
+381 368 1
+376 368 1
+371 372 1
+381 385 1
+582 383 1
+382 515 1
+382 383 1
+379 380 1
+405 356 1
+453 356 1
+359 538 1
+352 353 1
+359 354 1
+355 356 1
+364 378 1
+365 409 1
+376 366 1
+373 367 1
+480 360 1
+370 361 1
+363 361 1
+410 416 1
+410 411 1
+442 408 1
+413 409 1
+430 414 1
+417 415 1
+413 567 1
+401 402 1
+406 407 1
+406 763 1
+768 407 1
+399 395 1
+405 392 1
+399 400 1
+397 398 1
+386 387 1
+390 385 1
+388 385 1
+389 385 1
+391 392 1
+390 393 1
+442 443 1
+444 445 1
+444 659 1
+432 433 1
+435 434 1
+435 629 1
+436 437 1
+439 438 1
+442 425 1
+573 427 1
+428 429 1
+418 419 1
+421 579 1
+421 539 1
+420 423 1
+420 427 1
+737 479 1
+476 477 1
+474 473 1
+470 471 1
+469 468 1
+464 465 1
+461 462 1
+461 655 1
+463 460 1
+456 557 1
+456 520 1
+456 457 1
+455 454 1
+451 538 1
+450 452 1
+510 511 1
+504 505 1
+506 507 1
+547 507 1
+501 502 1
+496 497 1
+493 495 1
+493 494 1
+626 494 1
+489 490 1
+488 500 1
+492 491 1
+597 485 1
+481 482 1
+480 483 1
+548 549 1
+545 546 1
+560 556 1
+599 557 1
+554 555 1
+554 566 1
+553 556 1
+623 567 1
+583 565 1
+564 565 1
+563 566 1
+598 562 1
+575 576 1
+574 577 1
+574 578 1
+518 519 1
+529 519 1
+512 514 1
+524 525 1
+524 762 1
+526 530 1
+527 528 1
+522 592 1
+533 770 1
+535 536 1
+540 541 1
+544 543 1
+612 613 1
+620 616 1
+656 622 1
+621 622 1
+627 628 1
+626 700 1
+624 625 1
+630 631 1
+635 636 1
+637 634 1
+744 639 1
+638 639 1
+580 579 1
+580 700 1
+583 586 1
+583 590 1
+584 585 1
+587 696 1
+587 588 1
+591 592 1
+595 594 1
+597 600 1
+601 602 1
+632 600 1
+736 600 1
+603 604 1
+605 602 1
+684 685 1
+680 682 1
+677 678 1
+675 676 1
+701 673 1
+703 705 1
+706 696 1
+767 696 1
+704 696 1
+695 692 1
+693 718 1
+693 694 1
+690 691 1
+766 691 1
+652 781 1
+651 682 1
+652 650 1
+651 650 1
+644 645 1
+774 646 1
+641 640 1
+642 643 1
+670 671 1
+666 673 1
+666 669 1
+667 756 1
+667 668 1
+662 663 1
+656 661 1
+657 658 1
+664 658 1
+660 659 1
+760 750 1
+749 750 1
+748 751 1
+738 739 1
+741 742 1
+740 743 1
+752 753 1
+752 757 1
+752 759 1
+712 713 1
+714 715 1
+716 720 1
+716 717 1
+708 709 1
+710 711 1
+728 733 1
+728 729 1
+734 735 1
+727 721 1
+724 721 1
+722 723 1
+775 776 1
+779 780 1
+777 778 1

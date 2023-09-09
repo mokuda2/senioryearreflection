@@ -1,0 +1,3437 @@
+*Network Ore graph kinsources-nobles_ile-de-france_1000-1440.puc
+
+*vertices 1463
+1 'Josbert CHOISEL (1)' triangle
+2 'Pierre ICHOISEL (2)' triangle
+3 'Raoul CHOISEL (3)' triangle
+4 'Symon CHOISEL (4)' triangle
+5 'Adam ICHOISEL (5)' triangle
+6 'Jean ICHOISEL (6)' triangle
+7 'Odon GONESSE (DE) (7)' triangle
+8 'Pierre PONT (8)' triangle
+9 'Raoul ICLERMONT EN BEAUVAISIS (9)' triangle
+10 'Pierre PARIS (10)' triangle
+11 'Philippe IICAPETIEN (11)' triangle
+12 'Pierre ICHOISEL DE CHENNEVIERES (12)' triangle
+13 'Guy VILE BOUTEILLER DE SENLIS (13)' triangle
+14 'Adam IICHOISEL DE CHENNEVIERES (14)' triangle
+15 'Pierre IICHOISEL DE CHENNEVIERES (15)' triangle
+16 'Guillaume ICHOISEL DE CHENNEVIERES (16)' triangle
+17 'Pierre IIICHOISEL DE CHENNEVIERES (17)' triangle
+18 'Guillaume IICHOISEL DE CHENNEVIERES (18)' triangle
+19 'Adam IIICHOISEL DE CHENNEVIERES (19)' triangle
+20 'Guillaume IIICHOISEL DE CHENNEVIERES (20)' triangle
+21 'Pierre CHOISEL DE CHENNEVIERES (21)' triangle
+22 'Renaud CHOISEL DE CHENNEVIERES (22)' triangle
+23 'Guy CHOISEL DE CHENNEVIERES (23)' triangle
+24 'Raoul ICHOISEL DE CHENNEVIERES (24)' triangle
+25 'Jeanne LORRIS (25)' ellipse
+26 'Lancelot CHOISEL DE CHENNEVIERES (26)' triangle
+27 'Regnaulde CHOISEL DE CHENNEVIERES (27)' ellipse
+28 'Jacques VILLIERS (DE) (28)' triangle
+29 'Marguerite CHOISEL DE CHENNEVIERES (29)' ellipse
+30 'Pierre DES PREZ (30)' triangle
+31 'Roberge CHOISEL DE CHENNEVIERES (31)' ellipse
+32 'Guillaume LE FRUITIER (32)' triangle
+33 'Jeanne CHOISEL DE CHENNEVIERES (33)' ellipse
+34 'Jean DE LA GRANGE (34)' triangle
+35 'Jean IICHOISEL (35)' triangle
+36 'Pierre IICHOISEL (36)' triangle
+37 'GillesCHOISEL (37)' triangle
+38 'Pierre IIICHOISEL (38)' triangle
+39 'Jean IVCHOISEL (39)' triangle
+40 'Jeanne CHOISEL (40)' ellipse
+41 'Pierre VPACY (DE) (41)' triangle
+42 'Thibaut IINANTEUIL (42)' triangle
+43 'Elizabeth CHATILLON (43)' ellipse
+44 'Thibaut IIICREPY (44)' triangle
+45 'Philippe INANTEUIL (45)' triangle
+46 'Thibaut NANTEUIL (46)' triangle
+47 'Philippe IINANTEUIL (47)' triangle
+48 'Pierre IIPACY (DE) (48)' triangle
+49 'AdamCHOISEL DE CHENNEVIERES (49)' triangle
+50 'Jeanne GUINES (DE) (50)' ellipse
+51 'Jean GUINES (DE) (51)' triangle
+52 'Philippe IVCAPETIEN (52)' triangle
+53 'Guillaume AUNAY (53)' triangle
+54 'Anne DU QUESNEL (54)' ellipse
+55 'Guillaume IIICHANTILLY (DE) (55)' triangle
+56 'Guillaume NANTEUIL (56)' triangle
+57 'Adele CARDONNOIS (DE) (57)' ellipse
+58 'Guy NERY (DE) (58)' triangle
+59 'Charles IVCAPETIEN (59)' triangle
+60 'Guy BEAUMONT EN GATINAIS (60)' triangle
+61 'Isabelle MARIGNY (61)' ellipse
+62 'Guillaume BEAUMONT EN GATINAIS (62)' triangle
+63 'Jeanne CARDONNOIS (DE) (63)' ellipse
+64 'Jeanne FRESNOY (64)' triangle
+65 'Philippe IIICAPETIEN (65)' triangle
+66 'Louis IXCAPETIEN (66)' triangle
+67 'Gautier GUIGNECOURT (DE) (67)' triangle
+68 'Gilles ICHOISEL DE CHENNEVIERES (68)' triangle
+69 'Charles VALOIS (DE) (69)' triangle
+70 'GillesLE BOUTEILLER DE SENLIS (70)' triangle
+71 'GillesGARGES (71)' triangle
+72 'Adam CHOISEL DE CHENNEVIERES (72)' triangle
+73 'Thibaut EAUBONNE (73)' triangle
+74 'Robert CHOISEL DE CHENNEVIERES (74)' triangle
+75 'Jean ICHOISEL DE CHENNEVIERES (75)' triangle
+76 'Jean IICHOISEL DE CHENNEVIERES (76)' triangle
+77 'Charles IMONTMORENCY (77)' triangle
+78 'Philippe VIVALOIS (DE) (78)' triangle
+79 'Maurice RULLY (DE) (79)' triangle
+80 'Gilles IICHOISEL DE CHENNEVIERES (80)' triangle
+81 'Jeanne LA THIAISE (81)' ellipse
+82 'Robert AUNAY (82)' triangle
+83 'Pierre ICHAMBLY (83)' triangle
+84 'Gila BEAUMONT-SUR-OISE (84)' ellipse
+85 'Mathieu IIBEAUMONT-SUR-OISE (85)' triangle
+86 'Mathieu IMONTMORENCY (86)' triangle
+87 'Bouchard VMONTMORENCY (87)' triangle
+88 'Jean IIICHOISEL (88)' triangle
+89 'Philippe IPACY (DE) (89)' triangle
+90 'Adele NANTEUIL (90)' ellipse
+91 'Pierre PACY (DE) (91)' triangle
+92 'Pierre IVPACY (DE) (92)' triangle
+93 'Jean IPACY (DE) (93)' triangle
+94 'Philippe PACY (DE) (94)' triangle
+95 'Jacques IPACY (DE) (95)' triangle
+96 'Nicolas PACY (DE) (96)' triangle
+97 'Jacqueline NANTEUIL (97)' ellipse
+98 'Jean PACY (DE) (98)' triangle
+99 'Nicole ACY (99)' ellipse
+100 'Renaud PACY (DE) (100)' triangle
+101 'Louis PACY (DE) (101)' triangle
+102 'Jeanne PAILLARD (102)' ellipse
+103 'Jeanne PRECY (DE) (103)' ellipse
+104 'Philippe PRECY (DE) (104)' triangle
+105 'Thibaut BEAUMONT EN GATINAIS (105)' triangle
+106 'Jeanne LE BOUTEILLER DE SENLIS (106)' ellipse
+107 'Raoul ILE BOUTEILLER DE SENLIS (107)' triangle
+108 'Jean IIBEAUMONT EN GATINAIS (108)' triangle
+109 'Jean IIIBEAUMONT EN GATINAIS (109)' triangle
+110 'Marguerite MILLY (DE) (110)' ellipse
+111 'Louis VIIICAPETIEN (111)' triangle
+112 'Louis XCAPETIEN (112)' triangle
+113 'Philippe VCAPETIEN (113)' triangle
+114 'Jean IIVALOIS (DE) (114)' triangle
+115 'Raoul FONTAINES (DE) (115)' triangle
+116 'Guy IVLE BOUTEILLER DE SENLIS (116)' triangle
+117 'Thibaut GONESSE (DE) (117)' triangle
+118 'Pierre GONESSE (DE) (118)' triangle
+119 'Renaud GONESSE (DE) (119)' triangle
+120 'Guillaume GONESSE (DE) (120)' triangle
+121 'Guillaume IIGARLANDE (121)' triangle
+122 'Pierre LE QUEUX (122)' triangle
+123 'Pierre VERBERIE (DE) (123)' triangle
+124 'Louis VIICAPETIEN (124)' triangle
+125 'Robert VILLERS (DE) (125)' triangle
+126 'Raoul LE QUEUX (126)' triangle
+127 'Pierre LI ESCHAMPS (127)' triangle
+128 'Aubri SAINT LEU (128)' triangle
+129 'Nicolas SAINT LEU (129)' triangle
+130 'Mathieu IIIBEAUMONT-SUR-OISE (130)' triangle
+131 'Jean BEAUMONT-SUR-OISE (131)' triangle
+132 'Hugues VILLIERS-SAINT-PAUL (132)' triangle
+133 'Amaury VILLIERS-SAINT-PAUL (133)' triangle
+134 'Jean VERBERIE (DE) (134)' triangle
+135 'Pierre ASPREMONT (D*) (135)' triangle
+136 'Marie X (136)' ellipse
+137 'Isabelle CHOISEL (137)' ellipse
+138 'Simon FOSSES (DES) (138)' triangle
+139 'Pierre VERBERIE (DE) (139)' triangle
+140 'Gautier MARINES (DE) (140)' triangle
+141 'Pierre PLAILLY (DE) (141)' triangle
+142 'Guerans CHAUMONTEL (DE) (142)' triangle
+143 'Pierre FONTAINES (DE) (143)' triangle
+144 'Alix CHENNEVIERES (144)' ellipse
+145 'Dreux FONTAINE (DE) (145)' triangle
+146 'Charles VVALOIS (DE) (146)' triangle
+147 'Charles VIVALOIS (DE) (147)' triangle
+148 'Guillaume PLAILLY (DE) (148)' triangle
+149 'Pierre PLAILLY (DE) (149)' triangle
+150 'Pierre VEMARS (DE) (150)' triangle
+151 'Jean LE VENEUR (151)' triangle
+152 'Pierre AUTEUIL (D*) (152)' triangle
+153 'Jean ICHAMBLY (153)' triangle
+154 'Guillaume HANGEST (154)' triangle
+155 'Jeanne BRUMES (DE) (155)' ellipse
+156 'Jean CHENNEVIERES (156)' triangle
+157 'Gaucher VCHATILLON-PORCIEN (157)' triangle
+158 'Charles IIALENCON (VALOIS) (158)' triangle
+159 'Jeanne LE BOUTEILLER DE SENLIS (159)' ellipse
+160 'Guillaume IVCHANTILLY (DE) (160)' triangle
+161 'JeanGARGES (161)' triangle
+162 'Guy VLE BOUTEILLER DE SENLIS (162)' triangle
+163 'Guillaume IICHANTILLY (DE) (163)' triangle
+164 'Guy VIILE BOUTEILLER DE SENLIS (164)' triangle
+165 'Guillaume IIIGARLANDE (165)' triangle
+166 'Isabelle GARLANDE (166)' ellipse
+167 'Jeanne GARLANDE (167)' ellipse
+168 'Jean IBEAUMONT EN GATINAIS (168)' triangle
+169 'Jean ICHANTILLY (DE) (169)' triangle
+170 'Jeanne AUNAY (170)' ellipse
+171 'Jeanne BOIS (DU) (171)' ellipse
+172 'Jean CHANTILLY (DE) (172)' triangle
+173 'Pelerin CHAMBLY (173)' triangle
+174 'Pierre IICHAMBLY (174)' triangle
+175 'Pierre IIICHAMBLY (175)' triangle
+176 'Pierre IVCHAMBLY (176)' triangle
+177 'Pierre VCHAMBLY (177)' triangle
+178 'Oudard ICHAMBLY (178)' triangle
+179 'Pierre GARGES (179)' triangle
+180 'Pierre VICHAMBLY (180)' triangle
+181 'Pierre VIICHAMBLY (181)' triangle
+182 'Pierre VIIICHAMBLY (182)' triangle
+183 'Jean-tristan ICHAMBLY (183)' triangle
+184 'Jean-tristan IICHAMBLY (184)' triangle
+185 'Louis CHAMBLY (185)' triangle
+186 'Isabelle MAUVOISIN (186)' ellipse
+187 'Isabelle BOURGOGNE (187)' ellipse
+188 'Pierre CAPETIEN (188)' triangle
+189 'Jeanne CHATILLON (189)' ellipse
+190 'Hue BOUVILLE (190)' triangle
+191 'Oudard IICHAMBLY (191)' triangle
+192 'Louis EVREUX (192)' triangle
+193 'Marguerite ARTOIS (193)' ellipse
+194 'Blanche BOURGOGNE (194)' ellipse
+195 'Ansel IISLE-ADAM (195)' triangle
+196 'Mabille BULLES (196)' ellipse
+197 'Adam IVISLE-ADAM (197)' triangle
+198 'Aelis CORBEIL (DE) (198)' ellipse
+199 'Raoul IVILLIERS-LE-BEL (199)' triangle
+200 'Yves VILLIERS-LE-BEL (200)' triangle
+201 'Raoul IIVILLIERS-LE-BEL (201)' triangle
+202 'Mathieu IVILLIERS-LE-BEL (202)' triangle
+203 'Jeanne MACHAU (DE) (203)' ellipse
+204 'Jean CHAMBLY (204)' triangle
+205 'Eustache CHAMBLY (205)' triangle
+206 'Pierre XCHAMBLY (206)' triangle
+207 'Louis CHAMBLY (207)' triangle
+208 'Pierre XICHAMBLY (208)' triangle
+209 'Adam IVILLIERS-LE-BEL (209)' triangle
+210 'Jean IVILLIERS-LE-BEL (210)' triangle
+211 'Raoul IIIVILLIERS-LE-BEL (211)' triangle
+212 'Amalric VILLIERS-LE-BEL (212)' triangle
+213 'Thibaut VILLIERS-LE-BEL (213)' triangle
+214 'Guy VILLIERS-LE-BEL (214)' triangle
+215 'Pierre VILLIERS-LE-BEL (215)' triangle
+216 'Adam IIVILLIERS-LE-BEL (216)' triangle
+217 'Jean IIVILLIERS-LE-BEL (217)' triangle
+218 'AncelVILLIERS-LE-BEL (218)' triangle
+219 'Pierre IVVILLIERS DE L*ISLE ADAM (219)' triangle
+220 'Adam IVVILLIERS-LE-BEL (220)' triangle
+221 'Jean VILLIERS DE L*ISLE ADAM (221)' triangle
+222 'Laurent VILLIERS DE L*ISLE ADAM (222)' triangle
+223 'Jeanne VILLIERS DE L*ISLE ADAM (223)' ellipse
+224 'Jean GARENCIERES (224)' triangle
+225 'Isabeau VILLIERS DE L*ISLE ADAM (225)' ellipse
+226 'Catherine VILLIERS DE L*ISLE ADAM (226)' ellipse
+227 'Marguerite AUNAY (227)' ellipse
+228 'Pierre VVILLIERS DE L*ISLE ADAM (228)' triangle
+229 'Guillaume IITRIE (229)' triangle
+230 'Enguerrand IITRIE (230)' triangle
+231 'Idoine TRIE (231)' ellipse
+232 'Adelaide TRIE (232)' ellipse
+233 'Mathilde TRIE (233)' ellipse
+234 'Jean ITRIE (234)' triangle
+235 'Guillaume IIITRIE (235)' triangle
+236 'Pierre TRIE (236)' triangle
+237 'Elisabeth TRIE (237)' ellipse
+238 'Alix DAMMARTIN (238)' ellipse
+239 'Mathieu ITRIE (239)' triangle
+240 'Renaud TRIE (240)' triangle
+241 'Philippe TRIE (241)' triangle
+242 'Philippe IITRIE (242)' triangle
+243 'Jean IITRIE (243)' triangle
+244 'Thibaut TRIE (244)' triangle
+245 'Simon TRIE (245)' triangle
+246 'Renaud ITRIE (246)' triangle
+247 'Philippe IIITRIE (247)' triangle
+248 'Jean IIITRIE (248)' triangle
+249 'Mahaud TRIE (249)' ellipse
+250 'Renaud ITRIE (250)' triangle
+251 'Renaud TRIE (251)' triangle
+252 'Renaud IITRIE (252)' triangle
+253 'Philippe TRIE (253)' triangle
+254 'Philippe IVTRIE (254)' triangle
+255 'Jean VTRIE (255)' triangle
+256 'Renaud IIITRIE (256)' triangle
+257 'Alix TRIE (257)' ellipse
+258 'Jeanne TRIE (258)' ellipse
+259 'Renaud IITRIE (259)' triangle
+260 'Jean IVTRIE (260)' triangle
+261 'Mathieu TRIE (261)' triangle
+262 'Renaud TRIE (262)' triangle
+263 'Jean TRIE (263)' triangle
+264 'Yolande TRIE (264)' ellipse
+265 'Eleonore TRIE (265)' ellipse
+266 'Charles TRIE (266)' triangle
+267 'Blanche TRIE (267)' ellipse
+268 'Jacqueline TRIE (268)' ellipse
+269 'Jeanne TRIE (269)' ellipse
+270 'Renaud IVTRIE (270)' triangle
+271 'Philippe VTRIE (271)' triangle
+272 'Renaud VTRIE (272)' triangle
+273 'Jacqueline TRIE (273)' ellipse
+274 'Renaud IVTRIE (274)' triangle
+275 'Renaud VTRIE (275)' triangle
+276 'Jean VITRIE (276)' triangle
+277 'Pierre TRIE (277)' triangle
+278 'Jeanne TRIE (278)' ellipse
+279 'Mathieu TRIE (279)' triangle
+280 'Renaud TRIE (280)' triangle
+281 'Jean TRIE (281)' triangle
+282 'Marguerite TRIE (282)' ellipse
+283 'Jacques TRIE (283)' triangle
+284 'Marie TRIE (284)' ellipse
+285 'Jeanne TRIE (285)' ellipse
+286 'Louis TRIE (286)' triangle
+287 'Jean TRIE (287)' triangle
+288 'Philippe TRIE (288)' triangle
+289 'Catherine TRIE (289)' ellipse
+290 'Jeanne TRIE (290)' ellipse
+291 'Marguerite TRIE (291)' ellipse
+292 'Mahiette TRIE (292)' ellipse
+293 'Jeanne TRIE (293)' ellipse
+294 'Robine TRIE (294)' ellipse
+295 'Marie TRIE (295)' ellipse
+296 'Mathieu ITRIE (296)' triangle
+297 'Renaud TRIE (297)' triangle
+298 'Philippe TRIE (298)' triangle
+299 'Jean TRIE (299)' triangle
+300 'Mathieu IITRIE (300)' triangle
+301 'Mathieu IIITRIE (301)' triangle
+302 'Mathieu TRIE (302)' triangle
+303 'Guillaume TRIE (303)' triangle
+304 'Jeanne TRIE (304)' ellipse
+305 'Agnes TRIE (305)' ellipse
+306 'Marguerite TRIE (306)' ellipse
+307 'Eleonore TRIE (307)' ellipse
+308 'MarieMOURET (308)' ellipse
+309 'Jean TRIE (309)' triangle
+310 'Guillaume TRIE (310)' triangle
+311 'Jean TRIE (311)' triangle
+312 'Regnaut TRIE (312)' triangle
+313 'Guillaume TRIE (313)' triangle
+314 'Henri MONTMORENCY (314)' triangle
+315 'Thibaut IMARLY (315)' triangle
+316 'Herve MONTMORENCY (316)' triangle
+317 'Mathieu IMARLY (317)' triangle
+318 'Adele MONTMORENCY (318)' ellipse
+319 'Mathieu IIMONTMORENCY (319)' triangle
+320 'Alix MONTMORENCY (320)' ellipse
+321 'Eve MONTMORENCY (321)' ellipse
+322 'Guy VIIMONTMORENCY (322)' triangle
+323 'Bouchard VIMONTMORENCY (323)' triangle
+324 'Mathieu MONTMORENCY (324)' triangle
+325 'Havoise MONTMORENCY (325)' ellipse
+326 'Jean MONTMORENCY (326)' triangle
+327 'Jeanne MONTMORENCY (327)' ellipse
+328 'Alix MONTMORENCY (328)' ellipse
+329 'Gertrude MONTMORENCY (329)' ellipse
+330 'Mathieu IIIMONTMORENCY (330)' triangle
+331 'Havoise MONTMORENCY (331)' ellipse
+332 'Aelis MONTMORENCY (332)' ellipse
+333 'Jeanne MONTMORENCY (333)' ellipse
+334 'Marsilie MONTMORENCY (334)' ellipse
+335 'Mathieu IVMONTMORENCY (335)' triangle
+336 'Mathieu VMONTMORENCY (336)' triangle
+337 'Jean IMONTMORENCY (337)' triangle
+338 'Erard MONTMORENCY (338)' triangle
+339 'Jeanne MONTMORENCY (339)' ellipse
+340 'Agnes MONTMORENCY (340)' ellipse
+341 'Blanche MONTMORENCY (341)' ellipse
+342 'Jean IMONTMORENCY (342)' triangle
+343 'Erard MONTMORENCY (343)' triangle
+344 'Mathieu MONTMORENCY (344)' triangle
+345 'Herve MONTMORENCY (345)' triangle
+346 'Jean erard MONTMORENCY (346)' triangle
+347 'Robert MONTMORENCY (347)' triangle
+348 'Robert MONTMORENCY (348)' triangle
+349 'Guillaume MONTMORENCY (349)' triangle
+350 'Jeanne MONTMORENCY (350)' ellipse
+351 'Sybille MONTMORENCY (351)' ellipse
+352 'Jean MONTMORENCY (352)' triangle
+353 'Hugues IMONTMORENCY (353)' triangle
+354 'Jean MONTMORENCY (354)' triangle
+355 'Mathieu MONTMORENCY (355)' triangle
+356 'Isabeau MONTMORENCY (356)' ellipse
+357 'Jeanne MONTMORENCY (357)' ellipse
+358 'Jean IIIMONTMORENCY (358)' triangle
+359 'Marguerite MONTMORENCY (359)' ellipse
+360 'Jeanne MONTMORENCY (360)' ellipse
+361 'Marie MONTMORENCY (361)' ellipse
+362 'Charles MONTMORENCY (362)' triangle
+363 'Jacques IMONTMORENCY (363)' triangle
+364 'Denise MONTMORENCY (364)' ellipse
+365 'Jeanne MONTMORENCY (365)' ellipse
+366 'Jean IIMONTMORENCY (366)' triangle
+367 'Pierre MONTMORENCY (367)' triangle
+368 'Foucaud IISAINT-DENIS (368)' triangle
+369 'Hugues IIMONTMORENCY (369)' triangle
+370 'Richard IMONTMORENCY (370)' triangle
+371 'Guillaume MONTMORENCY (371)' triangle
+372 'Foucaud IIISAINT-DENIS (372)' triangle
+373 'Hugues IIISAINT-DENIS (373)' triangle
+374 'Foucaud IVSAINT-DENIS (374)' triangle
+375 'Gautier ISAINT-DENIS (375)' triangle
+376 'Pierre SAINT-DENIS (376)' triangle
+377 'Hugues IVSAINT-DENIS (377)' triangle
+378 'Gautier IISAINT-DENIS (378)' triangle
+379 'Guillaume SAINT-DENIS (379)' triangle
+380 'Foucaud VSAINT-DENIS (380)' triangle
+381 'Henri SAINT-DENIS (381)' triangle
+382 'Dreux SAINT-DENIS (382)' triangle
+383 'Hugues VSAINT-DENIS (383)' triangle
+384 'Robert SAINT-DENIS (384)' triangle
+385 'Mathilde DAMMARTIN (385)' ellipse
+386 'Marguerite SAINT-DENIS (386)' ellipse
+387 'Jean ISAINT-DENIS (387)' triangle
+388 'Robert IISAINT-DENIS (388)' triangle
+389 'Raoul SAINT-DENIS (389)' triangle
+390 'Eudes IISAINT-DENIS (390)' triangle
+391 'Gautier IIISAINT-DENIS (391)' triangle
+392 'Jean SAINT-DENIS (392)' triangle
+393 'Eudes IIISAINT-DENIS (393)' triangle
+394 'Jeanne SAINT-DENIS (394)' ellipse
+395 'Henri SAINT-DENIS (395)' triangle
+396 'Jean IISAINT-DENIS (396)' triangle
+397 'Jean IIIJUILLY (397)' triangle
+398 'Gautier IVJUILLY (398)' triangle
+399 'Philippe IIJUILLY (399)' triangle
+400 'Guillaume IIJUILLY (400)' triangle
+401 'Philippe IIIJUILLY (401)' triangle
+402 'Gui JUILLY (402)' triangle
+403 'Philippe IVJUILLY (403)' triangle
+404 'Robert JUILLY (404)' triangle
+405 'Jacqueline JUILLY (405)' ellipse
+406 '? JUILLY (406)' ellipse
+407 '? SAINT-DENIS (407)' ellipse
+408 'Helissent INCONNUE (408)' ellipse
+409 'Helissent SAINT-DENIS (409)' ellipse
+410 'Marguerite SAINT-DENIS (410)' ellipse
+411 'Jean IIIMONTMORENCY (411)' triangle
+412 'Louis MONTMORENCY (412)' triangle
+413 'Guillaume MONTMORENCY (413)' triangle
+414 'Philippa MONTMORENCY (414)' ellipse
+415 'Marguerite MONTMORENCY (415)' ellipse
+416 'Philippe MONTMORENCY (416)' triangle
+417 'Pierre MONTMORENCY (417)' triangle
+418 'Denis MONTMORENCY (418)' triangle
+419 'Jacques MONTMORENCY (419)' triangle
+420 'Hugues MONTMORENCY (420)' triangle
+421 'Jean IIIMONTMORENCY (421)' triangle
+422 'Antoine MONTMORENCY (422)' triangle
+423 'Louis MONTMORENCY (423)' triangle
+424 'Catherine MONTMORENCY (424)' ellipse
+425 'Blanche MONTMORENCY (425)' ellipse
+426 'Marguerite MONTMORENCY (426)' ellipse
+427 'Marie MONTMORENCY (427)' ellipse
+428 'Jeanne MONTMORENCY (428)' ellipse
+429 'Jeanne MONTMORENCY (429)' ellipse
+430 'Marguerite MONTMORENCY (430)' ellipse
+431 'Eudes IIMONTMORENCY (431)' triangle
+432 'Marguerite MONTMORENCY (432)' ellipse
+433 'Herve SAINT-DENIS (433)' triangle
+434 'Philippe SAINT-DENIS (434)' triangle
+435 'Martin AUNAY (435)' triangle
+436 'Gautier IAUNAY (436)' triangle
+437 'Philippe IAUNAY (437)' triangle
+438 'Pierre IAUNAY (438)' triangle
+439 'Mahaut AUNAY (439)' ellipse
+440 'Gautier IIAUNAY (440)' triangle
+441 'Raoul AUNAY (441)' triangle
+442 'Adelvie AUNAY (442)' ellipse
+443 'Guillaume IAUNAY (443)' triangle
+444 'Guillaume IIAUNAY (444)' triangle
+445 'Gautier IIIAUNAY (445)' triangle
+446 'Pierre AUNAY (446)' triangle
+447 'Philippe IIAUNAY (447)' triangle
+448 'Gautier IVAUNAY (448)' triangle
+449 'Gautier VAUNAY (449)' triangle
+450 'Guillaume AUNAY (450)' triangle
+451 'Jean AUNAY (451)' triangle
+452 'Gautier AUNAY (452)' triangle
+453 'Philippe IAUNAY (453)' triangle
+454 'Gautier AUNAY (454)' triangle
+455 'Philippe IIAUNAY (455)' triangle
+456 'Pierre AUNAY (456)' triangle
+457 'Jean AUNAY (457)' triangle
+458 'Jeanne AUNAY (458)' ellipse
+459 'Jean AUNAY (459)' triangle
+460 'Philippe CAPETIEN (460)' triangle
+461 'Jeanne AUNAY (461)' ellipse
+462 'Charles AUNAY (462)' triangle
+463 'Jean AUNAY (463)' triangle
+464 'Jeanne AUNAY (464)' ellipse
+465 'Isabelle AUNAY (465)' ellipse
+466 'Philippe IIIAUNAY (466)' triangle
+467 'Hugues IGISORS (467)' triangle
+468 'Thibaud payen IGISORS (468)' triangle
+469 'Geoffroy LE RICHE (469)' triangle
+470 'Marguerite GISORS (470)' ellipse
+471 'Mathilde GISORS (471)' ellipse
+472 'Bouchard IIMONTMORENCY (472)' triangle
+473 'Bouchard IIIMONTMORENCY (473)' triangle
+474 'Foucauld IMONTMORENCY (474)' triangle
+475 'Thierry IMONTMORENCY (475)' triangle
+476 'Richilde MONTMORENCY (476)' ellipse
+477 'Guillaume IMONTMORENCY (477)' triangle
+478 'Mathilde LE RICHE (478)' ellipse
+479 'Herve IMONTMORENCY (479)' triangle
+480 'Thibaud IMONTMORENCY (480)' triangle
+481 'Bouchard IVMONTMORENCY (481)' triangle
+482 'Agnes EU (482)' ellipse
+483 'Agnes BEAUMONT-SUR-OISE (483)' ellipse
+484 'Agnes PONTOISE (484)' ellipse
+485 'Alix ANGLETERRE (485)' ellipse
+486 'Adelaide MAURIENNE (486)' ellipse
+487 'Louis VICAPETIEN (487)' triangle
+488 'Adeline MONTMORENCY (488)' ellipse
+489 'Laurence HAINAUT (489)' ellipse
+490 'Simon VMONTFORT (490)' triangle
+491 'Gertrude NESLE (491)' ellipse
+492 'Emma LAVAL (492)' ellipse
+493 'Isabeau LAVAL (493)' ellipse
+494 'Guy VLAVAL (494)' triangle
+495 'Guy VILAVAL (495)' triangle
+496 'Eve MOUCHY (496)' ellipse
+497 'Luce CHAUMONT (497)' ellipse
+498 'Robert IIMAUVOISIN (498)' triangle
+499 'Alienor NANTEUIL LA FOSSE (499)' ellipse
+500 'Jeanne HODENC (500)' ellipse
+501 'Robert IVBRIQUEBEC (501)' triangle
+502 'Aelis MAREUIL (502)' ellipse
+503 'Yolande DREUX (503)' ellipse
+504 'N CHAMBLY (504)' ellipse
+505 'Helissende LE BEL (505)' ellipse
+506 'Rance MESNIL (506)' ellipse
+507 'Anseau IIGARLANDE (507)' triangle
+508 'Yves IBEAUMONT-SUR-OISE (508)' triangle
+509 'Yves IIBEAUMONT-SUR-OISE (509)' triangle
+510 'Eudes CHAUMONT-TRIE (510)' triangle
+511 'Hugues GRANTMESNIL (511)' triangle
+512 'Adele GOURNAY (512)' ellipse
+513 'Adelaide BEAUMONT-SUR-OISE (513)' ellipse
+514 'Adele BEAUMONT-SUR-OISE (514)' ellipse
+515 'Mathieu IBEAUMONT-SUR-OISE (515)' triangle
+516 'Emme CLERMONT EN BEAUVAISIS (516)' ellipse
+517 'Adele LUSARCHES (517)' ellipse
+518 'Alix BEAUMONT-SUR-OISE (518)' ellipse
+519 'Philippe BEAUMONT-SUR-OISE (519)' triangle
+520 'Eleonore VERMANDOIS (520)' ellipse
+521 'Alienor NESLE (521)' ellipse
+522 'Anseau IIISLE-ADAM (522)' triangle
+523 'Galon IICHAUMONT-TRIE (523)' triangle
+524 'Dreux CHAUMONT-TRIE (524)' triangle
+525 'Rolande CHAUMONT (525)' ellipse
+526 'Humberge PUISET (526)' ellipse
+527 'Enguerrand ITRIE (527)' triangle
+528 'Hugues IBEAUMONT-SUR-OISE (528)' triangle
+529 'Herbert CHAMBLY (529)' triangle
+530 'Tyard CHAMBLY (530)' triangle
+531 'Pierre IXCHAMBLY (531)' triangle
+532 'Marguerite TRISTAN (532)' ellipse
+533 'Marguerite MORTEFONTAINE (533)' ellipse
+534 'Jeanne VILLACEAU (534)' ellipse
+535 'Marguerite MONTGOBERT (535)' ellipse
+536 'Isabelle HEILLY (536)' ellipse
+537 'Isabelle PONCIN (537)' ellipse
+538 'Marie RONQUEROLLES (538)' ellipse
+539 'Sebile VILLEBEON (539)' ellipse
+540 'Jean CHAMBLY (540)' triangle
+541 'Guillaume SENLIS (541)' triangle
+542 'Hugues ISENLIS (542)' triangle
+543 'Marguerite SENLIS (543)' ellipse
+544 'Clemence SENLIS (544)' ellipse
+545 'Pierre SENLIS (545)' ellipse
+546 'Etienne SENLIS (546)' triangle
+547 'Adeline SANS NOM (547)' ellipse
+548 'Guillaume ILE BOUTEILLER DE SENLIS (548)' triangle
+549 'Renaud LE BOUTEILLER DE SENLIS (549)' triangle
+550 'Nivelon LE BOUTEILLER DE SENLIS (550)' triangle
+551 'Alix MAUVOISIN (551)' ellipse
+552 'Bouchard IIMARLY (552)' triangle
+553 'Marguerite CLERMONT EN BEAUVAISIS (553)' ellipse
+554 'Guy SENLIS (554)' triangle
+555 'Jeanne NEMOURS (555)' ellipse
+556 'Isabeau LE BOUTEILLER DE SENLIS (556)' ellipse
+557 'Jeanne CLERMONT EN BEAUVAISIS (557)' ellipse
+558 'Eleonore BEAUSART (558)' ellipse
+559 'Raoul IILE BOUTEILLER DE SENLIS (559)' triangle
+560 'Guillaume LE BOUTEILLER DE SENLIS (560)' triangle
+561 'Anseau LE BOUTEILLER DE SENLIS (561)' triangle
+562 'Geoffroy LE BOUTEILLER DE SENLIS (562)' triangle
+563 'Guillaume LE BOUTEILLER DE SENLIS (563)' triangle
+564 'Adam LE BOUTEILLER DE SENLIS (564)' triangle
+565 'Gui LE BOUTEILLER DE SENLIS (565)' triangle
+566 'Gui LE BOUTEILLER DE SENLIS (566)' triangle
+567 'Guillaume LE BOUTEILLER DE SENLIS (567)' triangle
+568 'Raoul IIILE BOUTEILLER DE SENLIS (568)' triangle
+569 'Guillaume LE BOUTEILLER DE SENLIS (569)' triangle
+570 'Charles LE BOUTEILLER DE SENLIS (570)' triangle
+571 'Guillaume LE BOUTEILLER DE SENLIS (571)' triangle
+572 'Marguerite ISLE-ADAM (572)' ellipse
+573 'Marie LA CHAPELLE (573)' ellipse
+574 'Blanche CHAUVIGNY (574)' ellipse
+575 'Marie CHERCHEMONT (575)' ellipse
+576 'Jeanne MEUDON (576)' ellipse
+577 'Marie SERMOISES (577)' ellipse
+578 'Jeanne MOUCY (578)' ellipse
+579 'Jean LE BOUTEILLER DE SENLIS (579)' triangle
+580 'Marguerite COURTENAY (580)' ellipse
+581 'Adam IBEAUMONT EN GATINAIS (581)' triangle
+582 'Adam IIBEAUMONT EN GATINAIS (582)' triangle
+583 'Alix BEAUMONT EN GATINAIS (583)' ellipse
+584 'Geoffroy BEAUMONT EN GATINAIS (584)' triangle
+585 'Nicolas BEAUMONT EN GATINAIS (585)' triangle
+586 'Marie BEAUMONT EN GATINAIS (586)' ellipse
+587 'Adam IIIBEAUMONT EN GATINAIS (587)' triangle
+588 'Isabelle BEAUMONT EN GATINAIS (588)' ellipse
+589 'Pierre IIBEAUMONT EN GATINAIS (589)' triangle
+590 'Jean BEAUMONT EN GATINAIS (590)' triangle
+591 'Dreu BEAUMONT EN GATINAIS (591)' triangle
+592 'Geoffroy BEAUMONT EN GATINAIS (592)' triangle
+593 'Robert BEAUMONT EN GATINAIS (593)' triangle
+594 'Agnes BEAUMONT EN GATINAIS (594)' ellipse
+595 'Marguerite BEAUMONT EN GATINAIS (595)' ellipse
+596 'Elisa BEAUMONT EN GATINAIS (596)' ellipse
+597 'Philippa BEAUMONT EN GATINAIS (597)' ellipse
+598 'Marguerite BEAUMONT EN GATINAIS (598)' ellipse
+599 'Adam IVBEAUMONT EN GATINAIS (599)' triangle
+600 'Jean BEAUMONT EN GATINAIS (600)' triangle
+601 'Jeanne BEAUMONT EN GATINAIS (601)' ellipse
+602 'Louis BEAUMONT EN GATINAIS (602)' triangle
+603 'Gillette BEAUMONT EN GATINAIS (603)' ellipse
+604 'Isabelle MAUVOISIN (604)' ellipse
+605 'Alix LE RICHE (605)' ellipse
+606 'Alix MAUVOISIN (606)' ellipse
+607 'Agnes TOUCY (607)' ellipse
+608 'Guillaume IVGARLANDE (608)' triangle
+609 'Raoul IIIMAUVOISIN (609)' triangle
+610 'Raoul IVMAUVOISIN (610)' triangle
+611 'Samson MAUVOISIN (611)' triangle
+612 'Robert IIIMAUVOISIN (612)' triangle
+613 'Manasses MAUVOISIN (613)' triangle
+614 'Raoul VMAUVOISIN (614)' triangle
+615 'Guillaume IIMAUVOISIN (615)' triangle
+616 'Pierre IIMAUVOISIN (616)' triangle
+617 'Manasses IIMAUVOISIN (617)' triangle
+618 'Gui IIIMAUVOISIN (618)' triangle
+619 'Guillaume IIIMAUVOISIN (619)' triangle
+620 'Raoul VIMAUVOISIN (620)' triangle
+621 'Robert MAUVOISIN (621)' triangle
+622 'Robert IVMAUVOISIN (622)' triangle
+623 'Agnes MAUVOISIN (623)' ellipse
+624 'Marie MAUVOISIN (624)' ellipse
+625 'Gui IVMAUVOISIN (625)' triangle
+626 'Guillaume IVMAUVOISIN (626)' triangle
+627 'Dreux IIIMELLO (627)' triangle
+628 'Cecile CHEVREUSE (628)' ellipse
+629 'Anseau IIIISLE-ADAM (629)' triangle
+630 'Anseau IVGARLANDE (630)' triangle
+631 'Robert GARLANDE (631)' triangle
+632 'Thibaut IIGARLANDE (632)' triangle
+633 'Mathilde GARLANDE (633)' ellipse
+634 'Marie GARLANDE (634)' ellipse
+635 'Henri IVGRANDPRE (635)' triangle
+636 'Guillaume IGARLANDE (636)' triangle
+637 'Gilbert GARLANDE (637)' triangle
+638 'Gui IGARLANDE (638)' triangle
+639 'Gui IIGARLANDE (639)' triangle
+640 'Gui IIIGARLANDE (640)' triangle
+641 'Gui IVGARLANDE (641)' triangle
+642 'ValentineVISCONTI (642)' ellipse
+643 'Esutachie POSSESSE (643)' ellipse
+644 'Eve GARLANDE (644)' ellipse
+645 'Manasses GARLANDE (645)' triangle
+646 'Hugues GARLANDE (646)' triangle
+647 'Hugues GARLANDE (647)' triangle
+648 'Agnes GARLANDE (648)' ellipse
+649 'Helissende CHAUMONT (649)' ellipse
+650 'Anseau IIIGARLANDE (650)' triangle
+651 'Marie CHAU (651)' ellipse
+652 'Agnes JALONA (652)' ellipse
+653 'Marguerite FLEURY (653)' ellipse
+654 'Jean britaud NANGIS (654)' triangle
+655 'Jean MONTFORT (655)' triangle
+656 'Robert IIDREUX (656)' triangle
+657 'Jean IHARCOURT (657)' triangle
+658 'Bouchard IMARLY (658)' triangle
+659 'Mathieu MARLY (659)' triangle
+660 'Guillaume MARLY (660)' triangle
+661 'Marguerite MARLY (661)' ellipse
+662 'Pierre MARLY (662)' triangle
+663 'Mathieu MARLY (663)' triangle
+664 'Mabille MARLY (664)' ellipse
+665 'Alphonse MARLY (665)' triangle
+666 'Richard MARLY (666)' triangle
+667 'Mathieu IIMARLY (667)' triangle
+668 'Thibaud MARLY (668)' triangle
+669 'Isabelle MARLY (669)' ellipse
+670 'Mahaut CHATEAUFORT (670)' ellipse
+671 'Guillaume bernard L4ESTENDART (671)' triangle
+672 'Jeanne ACQUIGNY (672)' ellipse
+673 'Agnes BEAUMONT EN GATINAIS (673)' ellipse
+674 'Jeanne MAREUIL (674)' ellipse
+675 'Clemence JOIGNY (675)' ellipse
+676 'Jacquette CONFLANS (676)' ellipse
+677 'Marie NESLE (677)' ellipse
+678 'Philippe CHAMBLY (678)' triangle
+679 'Thomas IIICOUCY (679)' triangle
+680 'Jean CHATILLON (680)' triangle
+681 'Jean PLOISY (681)' triangle
+682 'Robert VIDREUX (682)' triangle
+683 'Hypollyte POITIERS (683)' ellipse
+684 'Jeanne SANCERRE (684)' ellipse
+685 'Jeanne AMBROISE (685)' ellipse
+686 'BlancheBRAY (686)' ellipse
+687 'Jeanne ASPREMONT (687)' ellipse
+688 'Jean ICHATILLON-PORCIEN (688)' triangle
+689 'Jeanne FOSSEUX (689)' ellipse
+690 'Isabeau TRIE (690)' ellipse
+691 'Yolande TRIE (691)' ellipse
+692 'Jeanne BLARU (692)' ellipse
+693 'Jeanne LA ROCHE GUYON (693)' ellipse
+694 'Catherine LA TREMOILLE (694)' ellipse
+695 'Catherine FLEURIGNY (695)' ellipse
+696 'Thibaut MARLY (696)' triangle
+697 'Marie HANGEST (697)' ellipse
+698 'Jeanne VIEUXPONT (698)' ellipse
+699 'Jeanne LA CHAPELLE (699)' ellipse
+700 'Isabelle MALET DE GRAVILLE (700)' ellipse
+701 'Gasce POISSY (701)' triangle
+702 'Bouchard IMONTMORENCY (702)' triangle
+703 'Jeanne BRIENNE (703)' ellipse
+704 'Marie DREUX (704)' ellipse
+705 'Jeanne LEVIS (705)' ellipse
+706 'Jeanne LONGUEVAL (706)' ellipse
+707 'Clemence MURET (707)' ellipse
+708 'Jeanne CALLETOT (708)' ellipse
+709 'Jeanne ROUCY (709)' ellipse
+710 'Perenelle VILLIERS (710)' ellipse
+711 'Eglantine VENDOME (711)' ellipse
+712 'Robert IDREUX (712)' triangle
+713 'Adele DREUX (713)' ellipse
+714 'Raoul IIINESLE (714)' triangle
+715 'Guy IICHATILLON (715)' triangle
+716 'Helissent VILLIERS-LE-BEL (716)' ellipse
+717 'Agnes MAUVOISIN (717)' ellipse
+718 'Agnes GARLANDE (718)' ellipse
+719 'Marie SANGLIER (719)' ellipse
+720 'Marie LE BOUTEILLER DE SENLIS (720)' ellipse
+721 'Adam IIIVILLIERS-LE-BEL (721)' triangle
+722 'Jean IVVILLIERS DE L*ISLE ADAM (722)' triangle
+723 'Robert VILLIERS DE L*ISLE ADAM (723)' triangle
+724 'Jeanne VILLIERS DE L*ISLE ADAM (724)' ellipse
+725 'Jacques VILLIERS DE L*ISLE ADAM (725)' triangle
+726 'Philippe VILLIERS DE L*ISLE ADAM (726)' triangle
+727 'Jean VVILLIERS DE L*ISLE ADAM (727)' triangle
+728 'Charles VILLIERS DE L*ISLE ADAM (728)' triangle
+729 'Pernelle VILLIERS DE L*ISLE ADAM (729)' ellipse
+730 'Jean IIIVILLIERS-LE-BEL (730)' triangle
+731 'Lancelot ISLE-ADAM (731)' triangle
+732 'Adam ISLE-ADAM (732)' triangle
+733 'Manasses ISLE-ADAM (733)' triangle
+734 'Alix ISLE-ADAM (734)' ellipse
+735 'Mabile ISLE-ADAM (735)' ellipse
+736 'Manasses IIISLE-ADAM (736)' triangle
+737 'Adam VIISLE-ADAM (737)' triangle
+738 'Pierre ISLE-ADAM (738)' triangle
+739 'Alix IIISLE-ADAM (739)' ellipse
+740 'Jehan IISLE-ADAM (740)' triangle
+741 'Heloise MONTDIDIER (741)' ellipse
+742 'Adam VIIISLE-ADAM (742)' triangle
+743 'Ansel VISLE-ADAM (743)' triangle
+744 'Sedille THOUROTTE (744)' ellipse
+745 'Ansel VIIISLE-ADAM (745)' triangle
+746 'Isabelle BOURRIS (746)' ellipse
+747 'Isabelle ISLE-ADAM (747)' ellipse
+748 'Guillaume ISLE-ADAM (748)' triangle
+749 'Adam VIIIISLE-ADAM (749)' triangle
+750 'Gasce ISLE-ADAM (750)' triangle
+751 'Guillemette ISLE-ADAM (751)' ellipse
+752 'Jeanne ISLE-ADAM (752)' ellipse
+753 'Isabelle IIISLE-ADAM (753)' ellipse
+754 'Guillemette BEAUMONT-LUSARCHES (754)' ellipse
+755 'Clemence POMPONNE (755)' ellipse
+756 'Ansel IVISLE-ADAM (756)' triangle
+757 'Isabelle MOREUIL (757)' ellipse
+758 'Thibaut AUNAY (758)' triangle
+759 'Alain AUNAY (759)' triangle
+760 'Isabelle SANS NOM (760)' ellipse
+761 'Marguerite ACY (761)' ellipse
+762 'Agnes VILLIERS (762)' ellipse
+763 'Jacqueline PAILLARD (763)' ellipse
+764 'Isabelle ROUVROY (764)' ellipse
+765 'Pernelle CHAUMONT (765)' ellipse
+766 'Philippe VILLIERS-LE-BEL (766)' triangle
+767 'Leonore VILLIERS-LE-BEL (767)' ellipse
+768 'Guillaume HARCOURT (768)' triangle
+769 'JeanneVILLIERS-LE-BEL (769)' ellipse
+770 'Alix MERY (770)' ellipse
+771 'Jeanne CHATILLON-PORCIEN (771)' ellipse
+772 'Jeanne BEAUVAIS (772)' ellipse
+773 'Marguerite VENDOME (773)' ellipse
+774 'Jeanne CLERMONT-NESLE (774)' ellipse
+775 'Robert VIESTOUTEVILLE (775)' triangle
+776 'Marguerite BEAUJEU (776)' ellipse
+777 'Ida BOULOGNE (777)' ellipse
+778 'Gui LAVAL (778)' triangle
+779 'Guillaume IVRY (779)' triangle
+780 'Philippa MELUN (780)' ellipse
+781 'Jean IICHATILLON (781)' triangle
+782 'Lancelot TURPIN (782)' triangle
+783 'Eglantine VENDOME (783)' ellipse
+784 'Jean ICHATILLON-PORCIEN (784)' triangle
+785 'Mathieu IIMONTMORENCY (785)' triangle
+786 'Jeanne BRAQUE (786)' ellipse
+787 'Jean MONTMORENCY (787)' triangle
+788 'Isabelle MONTMORENCY (788)' ellipse
+789 'Luce MONTMORENCY (789)' ellipse
+790 'Guerin LORRIS (790)' triangle
+791 'Charles MONTMORENCY (791)' triangle
+792 'Jeanne RATAUT (792)' ellipse
+793 'Jeanne MONTMORENCY (793)' ellipse
+794 'Marguerite MONTMORENCY (794)' ellipse
+795 'Louis PRECY (795)' triangle
+796 'Pierre IDREUX (796)' triangle
+797 'Elisabeth COURTENAY (797)' ellipse
+798 'Anseau IGARLANDE (798)' triangle
+799 'Agnes GARLANDE (799)' ellipse
+800 'Amaury IIIMONTFORT (800)' triangle
+801 'Hedwige EVREUX (801)' ellipse
+802 'Gaucher IIICHATILLON (802)' triangle
+803 'Guy CHATILLON (803)' triangle
+804 'Robert CHATILLON (804)' triangle
+805 'Marie CHATILLON (805)' ellipse
+806 'Renaud IDAMMARTIN (806)' triangle
+807 'Jean IIIVENDOME (807)' triangle
+808 'Adele CHATILLON (808)' ellipse
+809 'Pierre IGONESSE (DE) (809)' triangle
+810 'Yves BEAUMONT-SUR-OISE (810)' triangle
+811 'Thibaut BEAUMONT-SUR-OISE (811)' triangle
+812 'Barthelemy BEAUMONT-LUSARCHES (812)' triangle
+813 'Jean IBEAUMONT-LUSARCHES (813)' triangle
+814 'Jean IIBEAUMONT-LUSARCHES (814)' triangle
+815 'Philippe BEAUMONT-LUSARCHES (815)' triangle
+816 'Jeanne CHAMBLY (816)' ellipse
+817 'Marie CHAMBLY (817)' ellipse
+818 'Louis CHAMBLY (818)' triangle
+819 'Jeanne HEILLY (819)' ellipse
+820 'Charles CHAMBLY (820)' triangle
+821 'Isabeau CHAMBLY (821)' ellipse
+822 'Marie CHAMBLY (822)' ellipse
+823 'Jean CHAMBLY (823)' triangle
+824 'Jean IICHAMBLY (824)' triangle
+825 'Marie CHAMBLY (825)' ellipse
+826 'Pierre XIICHAMBLY (826)' triangle
+827 'Jean CHAMBLY (827)' triangle
+828 'Philippe GrisMoutonCHAMBLY (828)' triangle
+829 'Marguerite LA CHAPELLE (829)' ellipse
+830 'Jeanne MAUVOISIN (830)' ellipse
+831 'Hugues IIBOUVILLE (831)' triangle
+832 'Beatrix LA ROCHE GUYON (832)' ellipse
+833 'Jeanne BAILLEUL (833)' ellipse
+834 'Jacqueline CHAMBLY (834)' ellipse
+835 'Charles ESTOUTEVILLE (835)' triangle
+836 'Jeanne CHAMBLY (836)' ellipse
+837 'Laure isabeau CHAMBLY (837)' ellipse
+838 'Nicole CHAMBLY (838)' ellipse
+839 'Nicolas louis ESTOUTEVILLE (839)' triangle
+840 'Gilles MALET DE COUPIGNY (840)' triangle
+841 'Hugues IICLERMONT EN BEAUVAISIS (841)' triangle
+842 'Philippe ICAPETIEN (842)' triangle
+843 'Hugues VERMANDOIS (843)' triangle
+844 'Adelaide VERMANDOIS (844)' ellipse
+845 'Marguerite MONTDIDIER (845)' ellipse
+846 'Renaud IICLERMONT EN BEAUVAISIS (846)' triangle
+847 'Raoul IVERMANDOIS (847)' triangle
+848 'Richilde CLERMONT EN BEAUVAISIS (848)' ellipse
+849 'Gilbert IIMELLO (849)' triangle
+850 'Dreux IVMELLO (850)' triangle
+851 'Alix BRETEUIL (851)' ellipse
+852 'Mathilde BRETEUIL (852)' ellipse
+853 'Simon ICLERMONT EN BEAUVAISIS (853)' triangle
+854 'Mahaut CLERMONT EN BEAUVAISIS (854)' ellipse
+855 'Clemence BAR-DAMMARTIN (855)' ellipse
+856 'Hugues DAMMARTIN (856)' triangle
+857 'Eudes IDAMMARTIN (857)' triangle
+858 'Aubri IDAMMARTIN (858)' triangle
+859 'Pierre DAMMARTIN (859)' triangle
+860 'Aubri IIDAMMARTIN (860)' triangle
+861 'N DAMMARTIN (861)' triangle
+862 'Adelaide DAMMARTIN (862)' ellipse
+863 'Basilie DAMMARTIN (863)' ellipse
+864 'Raoul IICLERMONT EN BEAUVAISIS (864)' triangle
+865 'Gertrude NESLE (865)' ellipse
+866 'Raoul IINESLE (866)' triangle
+867 'Jean INESLE (867)' triangle
+868 'Simon IICLERMONT EN BEAUVAISIS (868)' triangle
+869 'Thibaut CLERMONT EN BEAUVAISIS (869)' triangle
+870 'Raoul IIICLERMONT EN BEAUVAISIS (870)' triangle
+871 'Geoffroi CLERMONT EN BEAUVAISIS (871)' triangle
+872 'Isabelle CLERMONT EN BEAUVAISIS (872)' ellipse
+873 'Marguerite THOROTTE (873)' ellipse
+874 'Raoul CLERMONT EN BEAUVAISIS (874)' triangle
+875 'Gui ICLERMONT-NESLE (875)' triangle
+876 'Simon CLERMONT-NESLE (876)' triangle
+877 'Beatrix CLERMONT-NESLE (877)' ellipse
+878 'Jean CLERMONT-NESLE (878)' triangle
+879 'Alix MONTFORT (879)' ellipse
+880 'Jean ICLERMONT EN BEAUVAISIS (880)' triangle
+881 'Raoul IVCLERMONT EN BEAUVAISIS (881)' triangle
+882 'Raoul VCLERMONT EN BEAUVAISIS (882)' triangle
+883 'Isabelle BOVES (883)' ellipse
+884 'Jean IICLERMONT-NESLE (884)' triangle
+885 'Robert CLERMONT EN BEAUVAISIS (885)' triangle
+886 'Marguerite CLERMONT EN BEAUVAISIS (886)' ellipse
+887 'Jean IIICLERMONT EN BEAUVAISIS (887)' triangle
+888 'Marguerite MORTAGNE (888)' ellipse
+889 'Marguerite MELLO (889)' ellipse
+890 'Gui IICLERMONT-NESLE (890)' triangle
+891 'Isabeau CLERMONT-NESLE (891)' ellipse
+892 'Guillaume CLERMONT-NESLE (892)' triangle
+893 'Alips SAINT-VENAN (893)' ellipse
+894 'Jeanne BRUYERES (894)' ellipse
+895 'Isabeau THOUARS (895)' ellipse
+896 'Jean IVCLERMONT-NESLE (896)' triangle
+897 'Adele MAILLY (897)' ellipse
+898 'Robert CLERMONT-NESLE (898)' triangle
+899 'Ide DORMANS (899)' ellipse
+900 'Jean CLERMONT-NESLE (900)' triangle
+901 'Gui IIICLERMONT-NESLE (901)' triangle
+902 'Jeanne CLERMONT-NESLE (902)' ellipse
+903 'Marie CLERMONT-NESLE (903)' ellipse
+904 'Gui IVCLERMONT-NESLE (904)' triangle
+905 'Jean VCLERMONT-NESLE (905)' triangle
+906 'Marguerite COUCY (906)' ellipse
+907 'Robert CLERMONT-NESLE (907)' triangle
+908 'Yolande CLERMONT-NESLE (908)' ellipse
+909 'Blanche CLERMONT-NESLE (909)' ellipse
+910 'Blanche CLERMONT-NESLE (910)' ellipse
+911 'Jeanne SALUCES (911)' ellipse
+912 'Jean VICLERMONT-NESLE (912)' triangle
+913 'Jeanne DES TOURNELLES (913)' ellipse
+914 'Aubri MELLO (914)' triangle
+915 'Renaud MELLO (915)' triangle
+916 'Guillaume IMELLO (916)' triangle
+917 'Lancelot IBEAUVAIS (917)' triangle
+918 'Lancelot IIBULLES (918)' triangle
+919 'Basilie BULLES (919)' ellipse
+920 'Ermentrude BULLES (920)' ellipse
+921 'Renaud IIMELLO (921)' triangle
+922 'Renaud IMELLO (922)' triangle
+923 'Ermentrude MOUCHY (923)' ellipse
+924 'Guillaume IMELLO (924)' triangle
+925 'RenaudMELLO (925)' triangle
+926 'Basilie MELLO (926)' ellipse
+927 'Guillaume IIMELLO (927)' triangle
+928 'Dreux VMELLO (928)' triangle
+929 'Gui MELLO (929)' triangle
+930 'Dreux VIMELLO (930)' triangle
+931 'Guillaume IIIMELLO (931)' triangle
+932 'Isabelle MELLO (932)' ellipse
+933 'Elisabeth MONT SAINT JEAN (933)' ellipse
+934 'Helvise MONTBARD (934)' ellipse
+935 'Eustachie LUSIGNAN (935)' ellipse
+936 'Agnes SAINT VERAN (936)' ellipse
+937 'Yolande MELLO (937)' ellipse
+938 'Richard HARCOURT (938)' triangle
+939 'Guillaume IVMELLO (939)' triangle
+940 'Gui VMAUVOISIN (940)' triangle
+941 'Gui VIMAUVOISIN (941)' triangle
+942 'Catherine TRIE (942)' ellipse
+943 'Jeanne MAUVOISIN (943)' ellipse
+944 'Jeanne TRIE (944)' ellipse
+945 'Jean CLERMONT-NESLE (945)' triangle
+946 'Etienne LE BOUTEILLER DE SENLIS (946)' triangle
+947 'Herve LE BOUTEILLER DE SENLIS (947)' triangle
+948 'Guy IILE BOUTEILLER DE SENLIS (948)' triangle
+949 'Guy ILE BOUTEILLER DE SENLIS (949)' triangle
+950 'Guillaume 0LE BOUTEILLER DE SENLIS (950)' triangle
+951 'Guy IIILE BOUTEILLER DE SENLIS (951)' triangle
+952 'GuillaumeBEAUMONT-EN-GATINAIS (952)' triangle
+953 'Philippa NANGIS (953)' ellipse
+954 'Louis TRIE (954)' triangle
+955 'Eleonore ROYE (955)' ellipse
+956 'Isabelle DREUX (956)' ellipse
+957 'Gaucher VICHATILLON-PORCIEN (957)' triangle
+958 'Gaucher VIICHATILLON-PORCIEN (958)' triangle
+959 'Marguerite DAMPIERRE (959)' ellipse
+960 'Jeanne CONFLANS (960)' ellipse
+961 'Gaucher VICHATILLON (961)' triangle
+962 'Philippe IIPACY (962)' triangle
+963 'N. PACY (963)' ellipse
+964 'Gaucher CHATILLON (964)' triangle
+965 'Isabeau CHATILLON (965)' ellipse
+966 'Charles CHATILLON (966)' triangle
+967 'Jacqueline CHATILLON (967)' ellipse
+968 'Jeanne COUCY (968)' ellipse
+969 'Hugues VCHATILLON-SAINT-POL (969)' triangle
+970 'Elisabeth SAINT-POL (970)' ellipse
+971 'Marie AVESNES-BLOIS (971)' ellipse
+972 'Gaucher IVCHATILLON-POCIEN (972)' triangle
+973 'Isabeau VILLEHARDOUIN (973)' ellipse
+974 'Ermentrude/INCONNUE (974)' ellipse
+975 'Roharde/TONBRIDGE (975)' ellipse
+976 'Emme/INCONNUE (976)' ellipse
+977 'Ildelinde/INCONNUE (977)' ellipse
+978 'Helvide/BESSET (978)' ellipse
+979 'Inconnue/INCONNUE (979)' ellipse
+980 'Inconnue/INCONNUE (980)' ellipse
+981 'Hugues IIGISORS (981)' triangle
+982 'Maria/INCONNUE (982)' ellipse
+983 'Beatrix/INCONNUE (983)' ellipse
+984 'Marie/PONTHIEU (984)' ellipse
+985 'Jeanne/NAVARRE (985)' ellipse
+986 'Isabelle/HAINAUT (986)' ellipse
+987 'Agnes/MERANIE (987)' ellipse
+988 'Isabelle/ARAGON (988)' ellipse
+989 'Marie/BRABANT (989)' ellipse
+990 'Marguerite/PROVENCE (990)' ellipse
+991 'Marguerite/ANJOU (991)' ellipse
+992 'Jeanne/BOURGOGNE (992)' ellipse
+993 'Robert II/BOURGOGNE (993)' triangle
+994 'Agnes/CAPETIEN (994)' ellipse
+995 'Agnes/DE LA GRANGE (995)' ellipse
+996 'Mathilde/CHATEAUDUN (996)' ellipse
+997 'Emmeline/BRIE-SUR-MARNE (997)' ellipse
+998 'Blanche/CASTILLE (998)' ellipse
+999 'Bonne/Luxembourg (999)' ellipse
+1000 'Adele/CHAMPAGNE (1000)' ellipse
+1001 'Jeanne/BOURBON (1001)' ellipse
+1002 'Jacqueline/QUIERET (1002)' ellipse
+1003 'Marie/BEAUMARCHAIS (1003)' ellipse
+1004 'Marguerite/LA ROUE (1004)' ellipse
+1005 'Isabelle/LA GOULAY (1005)' ellipse
+1006 'Gertrude/MONTAIGU (1006)' ellipse
+1007 'Elisabeth/LAMBERSART (1007)' ellipse
+1008 'Berthe/HOLLANDE (1008)' ellipse
+1009 'Henri I/CAPETIEN (1009)' triangle
+1010 'Anne/KIEV (1010)' ellipse
+1011 'Jeanne/VALLANGOUJARD (1011)' ellipse
+1012 'Adeline/MAUDETOUR (1012)' ellipse
+1013 'Aelix/PORHOET (1013)' ellipse
+1014 'Ide/ROSNY (1014)' ellipse
+1015 'Etienne/GARLANDE (1015)' triangle
+1016 'Jacqueline/MONTMORENCY (1016)' ellipse
+1017 'Catherine/MONTMORENCY (1017)' ellipse
+1018 'Marguerite/MONTMORENCY (1018)' ellipse
+1019 'Adélaïde/CORBEIL (1019)' ellipse
+1020 'Mathieu/TRIE (1020)' triangle
+1021 'Louis/VALOIS-ORLEANS (1021)' triangle
+1022 'Jeanne/ARAINES (1022)' ellipse
+1023 'Ide/MAUVOISIN (1023)' ellipse
+1024 'Guy/MAUVOISIN (1024)' triangle
+1025 'DOUBLON/DOUBLON (1025)' triangle
+1026 'Jeanne/FOSSEUX-NIVELLE (1026)' ellipse
+1027 'Denise/MONTMORENCY (1027)' ellipse
+1028 'RobertI/BEAUMONT-LE-ROGER (1028)' triangle
+1029 'Elisabeth/VERMANDOIS (1029)' ellipse
+1030 'GaleranIV/BEAUMONT-LE-ROGER (1030)' triangle
+1031 'RobertII/BEAUMONT-LE-ROGER (1031)' triangle
+1032 'RobertIII/BEAUMONT-LE-ROGER (1032)' triangle
+1033 'Amicie/BEAUMONT-LE-ROGER (1033)' ellipse
+1034 'Amicie/MONTFORT (1034)' ellipse
+1035 'Petronille/GRAND-MESNIL (1035)' ellipse
+1036 'SimonIII/MONTFORT (1036)' triangle
+1037 'Mahaut/INCONNU (1037)' ellipse
+1038 'Agnès/MONTFORT (1038)' ellipse
+1039 'SimonIV/MONTFORT (1039)' triangle
+1040 'AmauryVII/MONTFORT (1040)' triangle
+1041 'Béatrix/VIENNOIS (1041)' ellipse
+1042 'RaoulIII/CLERMONT-NESLE (1042)' triangle
+1043 'JeanneERBLAINCOURT (1043)' ellipse
+1044 'Adam/GARLANDE (1044)' triangle
+1045 'PhilippeVILLIERS-LE-BEL (1045)' triangle
+1046 'MargueriteLORRIS (1046)' ellipse
+1047 'RobertLORRIS (1047)' triangle
+1048 'JeanLORRIS (1048)' triangle
+1049 'GuyCHATILLON-PORCIEN (1049)' triangle
+1050 'MarieLORRAINE (1050)' ellipse
+1051 'MarieCHATILLON-PORCIEN (1051)' ellipse
+1052 'Anseau IIIGARLANDE-TOURNAN (1052)' triangle
+1053 'Anseau IVGARLANDE-TOURNAN (1053)' triangle
+1054 'SophieASPREMONT (1054)' ellipse
+1055 'MargueriteMAUVOISIN (1055)' ellipse
+1056 'Jean IIHEILLY (1056)' triangle
+1057 'PierreHEILLY (1057)' triangle
+1058 'Jean IHEILLY (1058)' triangle
+1059 'MarthePICQUIGNY (1059)' ellipse
+1060 'AdeDU PAS (1060)' ellipse
+1061 'AenorVILLIERS-LE-BEL (1061)' ellipse
+1062 'AlemandeREVEL (1062)' ellipse
+1063 'GillesPOISSY (1063)' triangle
+1064 'Philippe DUISY (1064)' triangle
+1065 'Jean ANDRESEL (1065)' triangle
+1066 'Bouchard IIMONTMORENCY (1066)' triangle
+1067 'Pierre MACHAU (1067)' triangle
+1068 'Robert CAPETIEN (1068)' triangle
+1069 'Louis IBOURBON (1069)' triangle
+1070 'Charles IIEVREUX-NAVARRE (1070)' triangle
+1071 'Charles IIIEVREUX-NAVARRE (1071)' triangle
+1072 'Philippe IIIEVREUX-NAVARRE (1072)' triangle
+1073 'Louis CAPETIEN (1073)' triangle
+1074 'Jeanne IICAPETIEN-NAVARRE (1074)' ellipse
+1075 'Jean IVALOIS-BOURGOGNE (1075)' triangle
+1076 'Philippe IIVALOIS-BOURGOGNE (1076)' triangle
+1077 'Marguerite IIIFLANDRE (1077)' ellipse
+1078 'Catherine DOUY (1078)' ellipse
+1079 'Jeanne AUMONT (1079)' ellipse
+1080 'Louis IVALOIS-ANJOU (1080)' triangle
+1081 'Marie BLOIS (1081)' ellipse
+1082 'Louis IIVALOIS-ANJOU (1082)' triangle
+1083 'Antoine VALOIS-BOURGOGNE (1083)' triangle
+1084 'Ferry CASSINEL (1084)' triangle
+1085 'JeanneVILLIERS-LE-BEL (1085)' ellipse
+1086 'CatherineTURPIN (1086)' ellipse
+1087 'HuguesMELUN (1087)' triangle
+1088 'BeatrixBEAUSSART (1088)' ellipse
+1089 'RobertBEAUSSART (1089)' triangle
+1090 'LaurenceMARIGNY (1090)' ellipse
+1091 'Philippe IIIVALOIS-BOURGOGNE (1091)' triangle
+1092 'Jean IVMELUN (1092)' triangle
+1093 'JeanneLuxembourg (1093)' ellipse
+1094 'JeanneFOSSEUX (1094)' ellipse
+1095 'JeanFOSSEUX (1095)' triangle
+1096 'JeannePREURE (1096)' ellipse
+1097 'JeanLHUILLIER (1097)' triangle
+1098 'MargueriteBAVIERE (1098)' ellipse
+1099 'JacquesPREURE (1099)' triangle
+1100 'GuillaumeBARTHELEMY (1100)' triangle
+1101 'Guy IIMONTMORENCY-LAVAL (1101)' triangle
+1102 'Edouard IBAR (1102)' triangle
+1103 'JeanBEAUMONT EN GATINAIS (1103)' triangle
+1104 'Jean I/ MELUN (1104)' triangle
+1105 'Gaucher V/ CHATILLON (1105)' triangle
+1106 'GilleSOYECOURT (1106)' triangle
+1107 'GuillaumeCLERMONT-NESLE (1107)' triangle
+1108 'AlixWAVRIN (1108)' ellipse
+1109 'IsabelleTRIE (1109)' ellipse
+1110 'GuillaumeMEULAN (1110)' triangle
+1111 'PierreEVREUX-NAVARRE (1111)' triangle
+1112 'Gaucher VII/ CHATILLON (1112)' triangle
+1113 'IsabelleCHATILLON (1113)' ellipse
+1114 'Charles VII/ VALOIS (1114)' triangle
+1115 'MarieVALOIS-ANJOU (1115)' ellipse
+1116 'YolandeARAGON (1116)' ellipse
+1117 'CharlesSOYECOURT (1117)' triangle
+1118 'JeanLuxembourg (1118)' triangle
+1119 'Henri VI/ ANGLETERRE (1119)' triangle
+1120 'Jean I/ VALOIS-BERRY (1120)' triangle
+1121 'GaucherROUVROY (1121)' triangle
+1122 'Charles I/ VALOIS-ORLEANS (1122)' triangle
+1123 'PhilippeVALOIS-ORLEANS (1123)' triangle
+1124 'JeanVALOIS-ORLEANS (1124)' triangle
+1125 'AgnèsFORREST (1125)' ellipse
+1126 'PierreIORGEMONT (1126)' triangle
+1127 'Pierre II/ ORGEMONT (1127)' triangle
+1128 'Pierre III/ ORGEMONT (1128)' triangle
+1129 'AmauryORGEMONT (1129)' triangle
+1130 'NicolasORGEMONT (1130)' triangle
+1131 'GuillaumeORGEMONT (1131)' triangle
+1132 'RobertNANTOUILLET (1132)' triangle
+1133 'Jean I/ NANTOUILLET (1133)' triangle
+1134 'Renaud I/ NANTOUILLET (1134)' triangle
+1135 'OgierNANTOUILLET (1135)' triangle
+1136 'CatherineNANTOUILLET (1136)' ellipse
+1137 'JeanneLE SAICHE (1137)' ellipse
+1138 'Renaud II/ NANTOUILLET (1138)' triangle
+1139 'Robert II/ NANTOUILLET (1139)' triangle
+1140 'MargueritePACY (1140)' ellipse
+1141 'PhilibertPAILLARD (1141)' triangle
+1142 'CatherinePAILLARD (1142)' ellipse
+1143 'MilesPAILLARD (1143)' triangle
+1144 'MariePAILLARD (1144)' ellipse
+1145 'PhilippePOITIERS (1145)' triangle
+1146 'JeanneDORMANS (1146)' ellipse
+1147 'MargueriteORGEMONT (1147)' ellipse
+1148 'JacquelinePAYNEL (1148)' ellipse
+1149 'DenisPAILLARD (1149)' triangle
+1150 'PierreORGEMONT (1150)' triangle
+1151 'PierrePACY (1151)' triangle
+1152 'Jean II/ NANTOUILLET (1152)' triangle
+1153 'Renaut III/ NANTOUILLET (1153)' triangle
+1154 'RenaudPACY (1154)' triangle
+1155 'AdamVILLIERS-SAINT-PAUL (1155)' triangle
+1156 'EustacheVILLIERS-SAINT-PAUL (1156)' triangle
+1157 'PerenelleLIANCOURT (1157)' ellipse
+1158 'Pierre I/ VILLIERS-SAINT-PAUL (1158)' triangle
+1159 'Pierre II/ VILLIERS-SAINT-PAUL (1159)' triangle
+1160 'DrieuVILLIERS-SAINT-PAUL (1160)' triangle
+1161 'MarieVILLIERS-SAINT-PAUL (1161)' ellipse
+1162 'Guillaume IVILLIERS-SAINT-PAUL (1162)' triangle
+1163 'Guillaume II/ VILLIERS-SAINT-PAUL (1163)' triangle
+1164 'Jean I/ VILLIERS-SAINT-PAUL (1164)' triangle
+1165 'Jean II/ VILLIERS-SAINT-PAUL (1165)' triangle
+1166 'Simon I/ VILLIERS-SAINT-PAUL (1166)' triangle
+1167 'Simon II/ VILLIERS-SAINT-PAUL (1167)' triangle
+1168 'Guillaume I/ SAINT-CLAIR (1168)' triangle
+1169 'PipernelSAINT-CLAIR (1169)' triangle
+1170 'PierreSAINT-CLAIR (1170)' triangle
+1171 'Jean I/ SAINT-CLAIR (1171)' triangle
+1172 'CharlesSAINT-CLAIR (1172)' triangle
+1173 'Pierre I/ AUMONT (1173)' triangle
+1174 'Pierre II/ AUMONT (1174)' triangle
+1175 'RobertSAINT-CLAIR (1175)' triangle
+1176 'JacquelineMALET (1176)' ellipse
+1177 'Guillaume II/ SAINT-CLAIR (1177)' triangle
+1178 'Jean II/ SAINT-CLAIR (1178)' triangle
+1179 'LouisVALOIS (1179)' triangle
+1180 'MargueriteVALOIS-BOURGOGNE (1180)' ellipse
+1181 'IsabeauBAVIERE (1181)' ellipse
+1182 'MarieEVREUX-NAVARRE (1182)' ellipse
+1183 'CharlesEVREUX (1183)' triangle
+1184 'Louis II/ EVREUX (1184)' triangle
+1185 'JeanneEVREUX (1185)' ellipse
+1186 'MarieEspagne (1186)' ellipse
+1187 'LaurePONTHIEU (1187)' ellipse
+1188 'BlancheCAPETIEN (1188)' ellipse
+1189 'BlancheEVREUX-NAVARRE (1189)' ellipse
+1190 'AgnèsEVREUX-NAVARRE (1190)' ellipse
+1191 'PhilippeEVREUX-NAVARRE (1191)' triangle
+1192 'LouisEVREUX-NAVARRE (1192)' triangle
+1193 'JeanneVALOIS (1193)' ellipse
+1194 'MarieVALOIS (1194)' ellipse
+1195 'IsabelleVALOIS (1195)' ellipse
+1196 'JeanneHARCOURT (1196)' ellipse
+1197 'Pierre I/ CAPETIEN-ALENCON (1197)' triangle
+1198 'Jean I/ CHATILLON-BLOIS (1198)' triangle
+1199 'JeanneCHATILLON-BLOIS (1199)' ellipse
+1200 'HenriVERGY (1200)' triangle
+1201 'HelissentVERGY (1201)' ellipse
+1202 'JeanVERGY (1202)' triangle
+1203 'JeanneVALOIS (1203)' ellipse
+1204 'JeanCHASTELIER (1204)' triangle
+1205 'JeanMERY (1205)' triangle
+1206 'LyenorCHASTELIER (1206)' ellipse
+1207 'PierreCUIGNIERES (1207)' triangle
+1208 'MargueriteCUIGNIERES (1208)' ellipse
+1209 'PierreSERMOISES (1209)' triangle
+1210 'JeanneNERY (1210)' ellipse
+1211 'GuillaumeLE BOUTEILLER DE SENLIS (1211)' triangle
+1212 'HelissentMIRY (1212)' ellipse
+1213 'Guillaume IV/ MELUN (1213)' triangle
+1214 'JeannePARTHENAY (1214)' ellipse
+1215 'Dreux IMELLO (1215)' triangle
+1216 'JeanneHARCOURT (1216)' ellipse
+1217 'Isabeau SOISY (1217)' ellipse
+1218 'Philippe VITRY (1218)' ellipse
+1219 'Gui VIII MONTMORENCY-LAVAL (1219)' triangle
+1220 'Bouchard MONTMORENCY-LAVAL (1220)' triangle
+1221 'Isabeau BEAUMONT (1221)' ellipse
+1222 'Béatrice ERQUERY (1222)' ellipse
+1223 'Gui IXMONTMORENCY-LAVAL (1223)' triangle
+1224 'Béatrix GAURE (1224)' ellipse
+1225 'Gui XMONTMORENCY-LAVAL (1225)' triangle
+1226 'Fouquet MONTMORENCY-LAVAL (1226)' triangle
+1227 'Brumot MONTMORENCY-LAVAL (1227)' triangle
+1228 'Gui IMONTMORENCY-ATTICHY (1228)' triangle
+1229 'Bertrand MONTMORENCY-LAVAL (1229)' triangle
+1230 'Marguerite MONTMORENCY-LAVAL (1230)' ellipse
+1231 'Gui IIMONTMORENCY-ATTICHY (1231)' triangle
+1232 'Gui IIIMONTMORENCY-ATTICHY (1232)' triangle
+1233 'Jeanne CLERMONT-NESLE (1233)' ellipse
+1234 'ThomasseLA GUERCHE DE MAREUIL (1234)' ellipse
+1235 'Jean MONTMORENCY-LAVAL (1235)' triangle
+1236 'Guillaume BEAUMONT EN GATINAIS (1236)' triangle
+1237 'Philippe LA ROCHE GUYON (1237)' triangle
+1238 'Guy VLA ROCHE GUYON (1238)' triangle
+1239 'Guy VILA ROCHE GUYON (1239)' triangle
+1240 'Perrette LA RIVIERE (1240)' ellipse
+1241 'Gui VIILA ROCHE GUYON (1241)' triangle
+1242 'Guy IVLA ROCHE GUYON (1242)' triangle
+1243 'Guy IIILA ROCHE GUYON (1243)' triangle
+1244 'Guy IILA ROCHE GUYON (1244)' triangle
+1245 'Jean LA ROCHE GUYON (1245)' triangle
+1246 'Robert LA ROCHE GUYON (1246)' triangle
+1247 'Guerin BELLOY (1247)' triangle
+1248 'HuguesBELLOY (1248)' triangle
+1249 'Pierre BELLOY (1249)' triangle
+1250 'Guy BELLOY (1250)' triangle
+1251 'Jacques BELLOY (1251)' triangle
+1252 'Rigaut BELLOY (1252)' triangle
+1253 'Mathieu BELLOY (1253)' triangle
+1254 'Philippe BELLOY (1254)' triangle
+1255 'Jean IBELLOY (1255)' triangle
+1256 'Enguerran BELLOY (1256)' triangle
+1257 'Jean IIBELLOY (1257)' triangle
+1258 'Guillaume BELLOY (1258)' triangle
+1259 'AnceauBELLOY (1259)' triangle
+1260 'Pierre IIBELLOY (1260)' triangle
+1261 'GuiotBELLOY (1261)' triangle
+1262 'Jean IVILLIERS-LE-BEL (1262)' triangle
+1263 'AdamVILLIERS-LE-BEL (1263)' triangle
+1264 'Pierre IIVILLIERS-LE-BEL (1264)' triangle
+1265 'Pierre IIIVILLIERS-LE-BEL (1265)' triangle
+1266 'EustachieSAILLEVILLE (1266)' ellipse
+1267 'EustachieVILLIERS-LE-BEL (1267)' ellipse
+1268 'JeanFRESNOY (1268)' triangle
+1269 'PerenelleCHAUMONT (1269)' ellipse
+1270 'PhilippeVALOIS-ORLEANS (1270)' triangle
+1271 'MargueriteBOURGOGNE (1271)' ellipse
+1272 'Charles IICAPETIEN-ANJOU (1272)' triangle
+1273 'Robert ICAPETIEN-ARTOIS (1273)' triangle
+1274 'MathildeBRABANT (1274)' ellipse
+1275 'Robert IICAPETIEN-ARTOIS (1275)' triangle
+1276 'AmicieCOURTENAY (1276)' ellipse
+1277 'PhilippeCAPETIEN-ARTOIS (1277)' triangle
+1278 'Robert IIICAPETIEN-ARTOIS (1278)' triangle
+1279 'MahautCAPETIEN-ARTOIS (1279)' ellipse
+1280 'Othon IVBOURGOGNE (1280)' triangle
+1281 'Jeanne IIBOURGOGNE (1281)' ellipse
+1282 'Charles ICAPETIEN-ANJOU (1282)' triangle
+1283 'Robert ICAPETIEN-BOURBON (1283)' triangle
+1284 'Louis ICAPETIEN-BOURBON (1284)' triangle
+1285 'Pierre ICAPETIEN-BOURBON (1285)' triangle
+1286 'IsabelleVALOIS (1286)' ellipse
+1287 'BlancheCAPETIEN-ARTOIS (1287)' ellipse
+1288 'Henri INAVARRE (1288)' triangle
+1289 'Dreux MELLO (1289)' triangle
+1290 'BéatricePROVENCE (1290)' ellipse
+1291 'Raimond BérangerPROVENCE (1291)' triangle
+1292 'BéatriceSAVOIE (1292)' ellipse
+1293 'MargueriteBOURGOGNE (1293)' ellipse
+1294 'EudesBOURGOGNE (1294)' triangle
+1295 'Hugues IVBOURGOGNE (1295)' triangle
+1296 'Marguerite GACOURT (1296)' ellipse
+1297 'Robert LIHUS (1297)' triangle
+1298 'Catherine JAGNY (1298)' ellipse
+1299 'Jean BATESTE (1299)' triangle
+1300 'Jean THIBAUVILLIERS (1300)' triangle
+1301 'Jean IIFRESNOY (1301)' triangle
+1302 'Bertrand LEVIS (1302)' triangle
+1303 'Henri MILLY (1303)' triangle
+1304 'Bouchard IIIMONTMORENCY SAINT LEU (1304)' triangle
+1305 'Jean IMONTMORENCY SAINT LEU (1305)' triangle
+1306 'Guillaume MONTMORENCY SAINT LEU (1306)' triangle
+1307 'Jean IIMONTMORENCY SAINT LEU (1307)' triangle
+1308 'Jean VILLIERS-MONTMAGNY (1308)' triangle
+1309 'Erart VILLIERS-MONTMAGNY (1309)' triangle
+1310 'Adam VILLIERS-MONTAGNY (1310)' triangle
+1311 'Philippe MONTMORENCY (1311)' ellipse
+1312 'Alienor SACQUAINVILLE (1312)' ellipse
+1313 'Jehan CHATEAUFORT (1313)' triangle
+1314 'Guiot JAIGNY (1314)' triangle
+1315 'Adam JAGNY (1315)' triangle
+1316 'Pierre LIHUS (1316)' triangle
+1317 'Perrinet GACOURT (1317)' triangle
+1318 'Jean PONT (1318)' triangle
+1319 'Jean BILLY (1319)' triangle
+1320 'Guillaume BALAIGNY (1320)' triangle
+1321 'Pierre LE VENEUR (1321)' triangle
+1322 'Renaud OGNON (1322)' triangle
+1323 'Raoul GARGES (1323)' triangle
+1324 'Mathieu VER (1324)' triangle
+1325 'Jean BOIS (1325)' triangle
+1326 'Simon PLAILLY (1326)' triangle
+1327 'Jean MESSY (1327)' triangle
+1328 'Jeanne MESSY (1328)' ellipse
+1329 'Robert VERSAILLES (1329)' triangle
+1330 'Regnault ROQUEMONT (1330)' triangle
+1331 'Guillaume GOUSSAINVILLE (1331)' triangle
+1332 'Moreau CHANTEMERLE (1332)' triangle
+1333 'Thibaut CHANTEMERLE (1333)' triangle
+1334 'Moreau FAY (1334)' triangle
+1335 'Etienne LORMAISONS (1335)' triangle
+1336 'Peronnelle FAYEL (1336)' triangle
+1337 'Oyseau FAY (1337)' triangle
+1338 'Etienne BELLOY (1338)' triangle
+1339 'Pierre BOVES (1339)' triangle
+1340 'Jehan FAYEL (1340)' triangle
+1341 'Taupin CHANTEMERLE (1341)' triangle
+1342 'Pierre MARINES (1342)' triangle
+1343 'Jean HELLOY (1343)' triangle
+1344 'Ansel ISLE-ADAM (1344)' triangle
+1345 'Adam ISLE-ADAM (1345)' triangle
+1346 'Ansel ISLE-ADAM (1346)' triangle
+1347 'Jacques AUMONT (1347)' triangle
+1348 'Jehan BOVES (1348)' triangle
+1349 'Gautier THIBAUVILLIERS (1349)' triangle
+1350 'Gasce BOUCONVILLIERS (1350)' triangle
+1351 'Jean BOUCONVILLIERS (1351)' triangle
+1352 'Guerard FRESNOY (1352)' triangle
+1353 'Mathieu FRESNOY (1353)' triangle
+1354 'Guillaume FRESNES (1354)' triangle
+1355 'Villain FAY (1355)' triangle
+1356 'Pierre FAY (1356)' triangle
+1357 'Jehan HODENC (1357)' triangle
+1358 'Philippe COURCELLES (1358)' triangle
+1359 'Philippe GONDREVILLE (1359)' triangle
+1360 'Regnault SAINT MESME (1360)' triangle
+1361 'Marie MITRY (1361)' ellipse
+1362 'Regnault GRESSY (1362)' triangle
+1363 'Regnault FAYEL (1363)' ellipse
+1364 'Thibaut THIBOUVILLE (1364)' triangle
+1365 'Jean VILLIERS-LE-BEL (1365)' triangle
+1366 'Robert IICAPETIEN (1366)' triangle
+1367 'Constance ARLES (1367)' ellipse
+1368 'Robert IBOURGOGNE (1368)' triangle
+1369 'Hugues IBOURGOGNE (1369)' triangle
+1370 'Alphonse CAPETIEN (1370)' triangle
+1371 'Philippe EAUBONNE (1371)' triangle
+1372 'Robert SAINT-CLAIR (1372)' triangle
+1373 'Eleonore DREUX (1373)' ellipse
+1374 'Yolande COUCY (1374)' ellipse
+1375 'Jean LE FEVRE (1375)' triangle
+1376 'Yon IIGARENCIERES (1376)' triangle
+1377 'Clément IVPAPE (1377)' triangle
+1378 'Alix NEUVILLE (1378)' ellipse
+1379 'Roberte AUNAY (1379)' ellipse
+1380 'Robert AUNAY (1380)' triangle
+1381 'AdamCARDONNOIS (1381)' triangle
+1382 'GaleranIVRY (1382)' triangle
+1383 'JeanFONTAINES (1383)' triangle
+1384 'GillesNEUVILLE (1384)' triangle
+1385 'JeanSOISY (1385)' triangle
+1386 'ThomasBRUYERES (1386)' triangle
+1387 'OlivierBRIANCON (1387)' triangle
+1388 'Bouchard IIIMARLY (1388)' triangle
+1389 'Mathieu IIIMARLY (1389)' triangle
+1390 'PhilippaMEZALENT (1390)' ellipse
+1391 'GuillaumeBOUCONVILLIERS (1391)' triangle
+1392 'SimonMELUN (1392)' triangle
+1393 'Pierre IGARGES (1393)' triangle
+1394 'GuyMONTFORT (1394)' triangle
+1395 'HelvideIBELIN (1395)' ellipse
+1396 'Philippe IMONTFORT (1396)' triangle
+1397 'EléonoreCOURTENAY (1397)' ellipse
+1398 'MarieANTIOCHE (1398)' ellipse
+1399 'Philippe IIMONTFORT (1399)' triangle
+1400 'Jeanne IILEVIS (1400)' ellipse
+1401 'GuyMONTFORT (1401)' triangle
+1402 'Simon VIMONTFORT (1402)' triangle
+1403 'EléonoreANGLETERRE (1403)' ellipse
+1404 'SimonMONTFORT (1404)' triangle
+1405 'Guillaume IIDES BARRES (1405)' triangle
+1406 'Guillaume IIIDES BARRES (1406)' triangle
+1407 'Guillaume IVDES BARRES (1407)' triangle
+1408 'Jean DES BARRES (1408)' triangle
+1409 'HonfroyMONTFORT (1409)' triangle
+1410 'Helvide britaudNANGIS (1410)' ellipse
+1411 'Guillaume VDES BARRES (1411)' triangle
+1412 'Guy VIIILE BOUTEILLER DE SENLIS (1412)' triangle
+1413 'Adam IIIMELUN (1413)' triangle
+1414 'Adam IVMELUN (1414)' triangle
+1415 'Guillaume IIIMELUN (1415)' triangle
+1416 'AnselmeCHEVREUSE (1416)' triangle
+1417 'Hervé ICHEVREUSE (1417)' triangle
+1418 'Hervé IICHEVREUSE (1418)' triangle
+1419 'SimonCHEVREUSE (1419)' triangle
+1420 'Charles/  IVRY (1420)' triangle
+1421 'Pierre IIIAUMONT (1421)' triangle
+1422 'Jean IIIBEAUMONT-LUSARCHES (1422)' triangle
+1423 'JacquelineCHAUMONT (1423)' ellipse
+1424 'Guillaume VICHAUMONT (1424)' triangle
+1425 'Guillaume VCHAUMONT (1425)' triangle
+1426 'GuillebautCHAILLY (1426)' triangle
+1427 'MargueriteVILLIERS-LIVRY (1427)' ellipse
+1428 'AnselVILLIERS-LIVRY (1428)' triangle
+1429 'PierreVILLIERS-LIVRY (1429)' triangle
+1430 'NDESCHAMPS (1430)' ellipse
+1431 'BlancheAUMONT (1431)' ellipse
+1432 'ThibautFAY (1432)' triangle
+1433 'JeanGAUCOURT (1433)' triangle
+1434 'Raoul V/ GAUCOURT (1434)' triangle
+1435 'Raoul VIGAUCOURT (1435)' triangle
+1436 'Marguerite/  BEAUMONT-LUSARCHES (1436)' ellipse
+1437 'EustacheGAUCOURT (1437)' triangle
+1438 'JacquesSOYECOURT (1438)' triangle
+1439 'CatherineAUMONT (1439)' ellipse
+1440 'RenaudACY (1440)' triangle
+1441 'PhilippeGONDREVILLE (1441)' triangle
+1442 'SimonDAMMARTIN (1442)' triangle
+1443 'MargueriteCORBEIL (1443)' ellipse
+1444 'JeanneDROUARD DE CHAMEROLLES (1444)' ellipse
+1445 'FilippaCECCANO (1445)' ellipse
+1446 'AgnèsGOUSSAINVILLE (1446)' ellipse
+1447 'CatherineGRANCEY (1447)' ellipse
+1448 'Jean GaleasVISCONTI (1448)' triangle
+1449 'MarieHAINAUT (1449)' ellipse
+1450 'JeanneMELLO (1450)' ellipse
+1451 'BéatrixBOURBON (1451)' ellipse
+1452 'Valeran IIIBRETEUIL (1452)' triangle
+1453 'Jean ITHOUROTTE (1453)' triangle
+1454 'Hugues IICHAUMONT (1454)' triangle
+1455 'EUDESBEAUMONT-SUR-OISE (1455)' triangle
+1456 'INGEBURGEDANEMARK (1456)' ellipse
+1457 'CatherineCOURTENAY (1457)' ellipse
+1458 'MahautCHATILLON (1458)' ellipse
+1459 'JeanneBOULOGNE (1459)' ellipse
+1460 'JeanneCAPETIEN (1460)' ellipse
+1461 'Philippe/BOULOGNE (1461)' triangle
+1462 'Eudes IV/BOURGOGNE (1462)' triangle
+1463 'Philippe I/BOURGOGNE (1463)' triangle
+*arcs
+1 2 1
+1 4 1
+1 3 1
+2 6 1
+4 5 1
+5 37 1
+5 12 1
+6 35 1
+6 36 1
+11 111 1
+11 460 1
+12 14 1
+13 164 1
+14 15 1
+14 68 1
+14 16 1
+14 67 1
+14 49 1
+15 17 1
+15 18 1
+17 19 1
+17 22 1
+17 80 1
+17 20 1
+17 75 1
+18 72 1
+20 23 1
+23 31 1
+23 26 1
+23 29 1
+23 33 1
+23 27 1
+25 31 1
+25 26 1
+25 29 1
+25 33 1
+25 27 1
+31 156 1
+32 156 1
+38 39 1
+39 40 1
+36 137 1
+36 88 1
+36 38 1
+40 96 1
+40 95 1
+40 93 1
+40 41 1
+40 94 1
+47 90 1
+44 45 1
+45 56 1
+45 46 1
+45 47 1
+51 50 1
+48 91 1
+48 89 1
+55 159 1
+55 556 1
+55 160 1
+55 172 1
+52 59 1
+52 112 1
+52 113 1
+59 1188 1
+58 1210 1
+57 58 1
+56 58 1
+69 78 1
+69 1203 1
+69 158 1
+69 1286 1
+70 161 1
+65 192 1
+65 52 1
+65 69 1
+66 1283 1
+66 1197 1
+66 994 1
+66 65 1
+77 361 1
+77 364 1
+77 363 1
+77 359 1
+77 362 1
+77 360 1
+78 1270 1
+78 114 1
+75 76 1
+75 74 1
+85 518 1
+85 519 1
+85 130 1
+85 131 1
+84 529 1
+84 174 1
+84 530 1
+87 319 1
+87 321 1
+87 328 1
+86 316 1
+86 314 1
+86 87 1
+86 317 1
+86 315 1
+86 318 1
+81 76 1
+81 74 1
+81 462 1
+80 24 1
+83 529 1
+83 174 1
+83 530 1
+82 462 1
+93 1154 1
+92 96 1
+92 95 1
+92 93 1
+92 41 1
+92 94 1
+89 962 1
+91 92 1
+90 91 1
+90 89 1
+102 101 1
+103 72 1
+100 101 1
+98 1151 1
+98 100 1
+99 1151 1
+99 100 1
+110 562 1
+110 560 1
+110 561 1
+110 559 1
+111 1282 1
+111 1273 1
+111 66 1
+108 109 1
+109 1103 1
+109 60 1
+109 1236 1
+107 562 1
+107 560 1
+107 561 1
+107 559 1
+107 106 1
+117 119 1
+117 120 1
+117 118 1
+116 162 1
+116 549 1
+116 550 1
+116 548 1
+114 1120 1
+114 146 1
+114 1193 1
+114 1076 1
+114 1195 1
+114 1080 1
+113 1460 1
+112 1074 1
+124 11 1
+121 165 1
+121 718 1
+136 137 1
+136 88 1
+136 38 1
+157 957 1
+157 1049 1
+157 784 1
+159 50 1
+144 15 1
+144 68 1
+144 16 1
+144 67 1
+144 49 1
+146 147 1
+146 1021 1
+147 1114 1
+147 1179 1
+170 55 1
+169 55 1
+168 105 1
+168 586 1
+168 108 1
+168 62 1
+168 583 1
+175 176 1
+174 175 1
+172 1211 1
+163 554 1
+163 169 1
+162 720 1
+162 107 1
+162 13 1
+162 163 1
+166 105 1
+166 164 1
+166 586 1
+166 108 1
+165 630 1
+165 608 1
+165 633 1
+165 632 1
+165 631 1
+186 531 1
+187 185 1
+178 822 1
+178 826 1
+178 191 1
+178 824 1
+176 177 1
+176 153 1
+176 173 1
+177 178 1
+177 531 1
+177 180 1
+177 540 1
+183 825 1
+183 184 1
+180 678 1
+180 816 1
+180 818 1
+180 204 1
+180 181 1
+180 182 1
+180 817 1
+181 183 1
+204 205 1
+204 823 1
+204 207 1
+204 206 1
+201 210 1
+201 211 1
+201 202 1
+200 199 1
+203 678 1
+203 816 1
+203 818 1
+203 204 1
+203 181 1
+203 182 1
+203 817 1
+202 212 1
+202 213 1
+202 209 1
+197 522 1
+197 735 1
+196 732 1
+196 731 1
+196 733 1
+196 734 1
+196 197 1
+199 716 1
+199 201 1
+193 1183 1
+193 1182 1
+193 1072 1
+193 1185 1
+192 1183 1
+192 1182 1
+192 1072 1
+192 1185 1
+195 732 1
+195 731 1
+195 733 1
+195 734 1
+195 197 1
+220 767 1
+220 710 1
+216 217 1
+216 721 1
+216 218 1
+217 730 1
+219 225 1
+219 221 1
+219 766 1
+219 228 1
+219 223 1
+219 226 1
+219 729 1
+212 214 1
+214 1263 1
+214 215 1
+215 1264 1
+208 828 1
+209 216 1
+209 1262 1
+239 243 1
+239 245 1
+239 242 1
+239 244 1
+238 241 1
+238 240 1
+238 942 1
+238 293 1
+238 239 1
+237 720 1
+237 107 1
+237 13 1
+237 163 1
+234 241 1
+234 240 1
+234 942 1
+234 293 1
+234 239 1
+231 630 1
+231 608 1
+231 633 1
+231 632 1
+231 631 1
+230 235 1
+230 237 1
+230 234 1
+229 230 1
+229 232 1
+229 231 1
+228 723 1
+228 722 1
+228 724 1
+227 28 1
+254 270 1
+254 273 1
+255 274 1
+252 257 1
+252 255 1
+252 254 1
+252 258 1
+252 256 1
+250 253 1
+250 252 1
+251 279 1
+248 263 1
+248 262 1
+248 264 1
+248 261 1
+248 265 1
+246 260 1
+246 259 1
+244 251 1
+242 250 1
+243 248 1
+243 247 1
+243 246 1
+243 249 1
+240 299 1
+240 298 1
+240 296 1
+240 297 1
+241 944 1
+275 277 1
+275 276 1
+275 278 1
+274 275 1
+279 285 1
+279 280 1
+279 282 1
+279 281 1
+279 283 1
+279 284 1
+283 287 1
+283 289 1
+283 294 1
+283 291 1
+283 295 1
+283 288 1
+283 290 1
+281 286 1
+258 821 1
+258 820 1
+256 691 1
+256 690 1
+260 268 1
+260 266 1
+266 267 1
+266 269 1
+270 272 1
+270 271 1
+308 310 1
+308 309 1
+308 307 1
+308 300 1
+312 313 1
+312 1020 1
+317 660 1
+317 661 1
+317 663 1
+317 658 1
+319 325 1
+319 322 1
+319 323 1
+319 329 1
+319 327 1
+319 324 1
+296 310 1
+296 309 1
+296 307 1
+296 300 1
+297 303 1
+297 305 1
+297 306 1
+297 304 1
+297 302 1
+300 1109 1
+300 301 1
+301 312 1
+301 311 1
+342 352 1
+340 455 1
+340 457 1
+340 456 1
+338 343 1
+338 341 1
+338 346 1
+338 344 1
+338 339 1
+338 340 1
+338 345 1
+338 342 1
+337 355 1
+337 356 1
+337 357 1
+337 77 1
+337 354 1
+344 1311 1
+322 1219 1
+322 1220 1
+323 320 1
+323 331 1
+323 702 1
+323 330 1
+323 334 1
+334 243 1
+334 245 1
+334 242 1
+334 244 1
+335 336 1
+335 337 1
+330 338 1
+330 349 1
+330 348 1
+330 350 1
+330 335 1
+328 1402 1
+328 1040 1
+372 374 1
+372 375 1
+372 377 1
+372 376 1
+374 383 1
+374 380 1
+374 382 1
+374 384 1
+374 378 1
+374 381 1
+368 372 1
+378 387 1
+378 386 1
+378 388 1
+378 390 1
+378 389 1
+356 966 1
+356 680 1
+352 369 1
+355 787 1
+355 785 1
+355 789 1
+355 788 1
+364 1086 1
+366 412 1
+366 411 1
+361 1420 1
+363 417 1
+363 418 1
+363 366 1
+363 416 1
+408 396 1
+408 409 1
+406 1138 1
+397 399 1
+397 400 1
+396 398 1
+396 397 1
+387 393 1
+387 395 1
+387 391 1
+387 394 1
+391 396 1
+391 409 1
+440 442 1
+440 443 1
+442 622 1
+442 623 1
+443 445 1
+445 447 1
+445 446 1
+445 448 1
+446 170 1
+447 449 1
+435 436 1
+436 438 1
+436 437 1
+438 441 1
+438 439 1
+438 440 1
+439 374 1
+439 375 1
+439 377 1
+439 376 1
+478 471 1
+478 981 1
+478 470 1
+479 481 1
+476 478 1
+474 476 1
+474 353 1
+474 475 1
+475 368 1
+475 477 1
+475 370 1
+472 474 1
+472 473 1
+473 479 1
+473 480 1
+470 230 1
+470 232 1
+470 231 1
+468 471 1
+468 981 1
+468 470 1
+469 478 1
+467 468 1
+462 459 1
+462 465 1
+459 466 1
+455 227 1
+455 82 1
+453 455 1
+453 457 1
+453 456 1
+450 1379 1
+450 1380 1
+449 454 1
+449 453 1
+448 759 1
+448 758 1
+448 452 1
+448 450 1
+448 451 1
+508 1455 1
+508 509 1
+509 515 1
+509 483 1
+509 513 1
+510 523 1
+510 525 1
+510 1454 1
+504 263 1
+504 262 1
+504 264 1
+504 261 1
+504 265 1
+506 442 1
+506 648 1
+506 443 1
+506 645 1
+506 647 1
+506 644 1
+506 650 1
+507 648 1
+507 645 1
+507 647 1
+507 644 1
+507 650 1
+500 303 1
+500 305 1
+500 306 1
+500 304 1
+500 302 1
+502 250 1
+503 248 1
+503 247 1
+503 246 1
+503 249 1
+496 235 1
+496 237 1
+496 234 1
+498 612 1
+499 944 1
+493 320 1
+493 331 1
+493 702 1
+493 330 1
+493 334 1
+492 325 1
+492 322 1
+492 327 1
+495 492 1
+495 493 1
+494 495 1
+489 319 1
+489 321 1
+489 328 1
+491 323 1
+491 329 1
+491 324 1
+490 1402 1
+490 1040 1
+485 316 1
+485 314 1
+485 87 1
+485 317 1
+485 315 1
+485 318 1
+487 796 1
+487 124 1
+487 712 1
+486 796 1
+486 124 1
+486 712 1
+481 488 1
+481 86 1
+483 488 1
+483 86 1
+482 481 1
+551 554 1
+551 169 1
+547 545 1
+547 546 1
+547 116 1
+547 544 1
+547 542 1
+547 543 1
+558 159 1
+558 556 1
+558 160 1
+558 172 1
+559 564 1
+559 1412 1
+559 563 1
+555 106 1
+552 667 1
+552 669 1
+552 668 1
+552 665 1
+553 162 1
+553 549 1
+553 550 1
+553 548 1
+567 569 1
+565 566 1
+565 568 1
+565 567 1
+563 565 1
+574 566 1
+574 568 1
+574 567 1
+573 565 1
+572 563 1
+570 579 1
+569 570 1
+569 571 1
+516 85 1
+516 528 1
+517 518 1
+517 131 1
+512 515 1
+512 483 1
+512 513 1
+515 85 1
+515 528 1
+524 229 1
+524 527 1
+526 524 1
+522 736 1
+522 737 1
+522 739 1
+522 738 1
+522 629 1
+523 524 1
+532 178 1
+532 180 1
+532 540 1
+535 878 1
+534 822 1
+534 826 1
+534 191 1
+534 824 1
+528 810 1
+531 185 1
+541 545 1
+541 546 1
+541 116 1
+541 544 1
+541 542 1
+541 543 1
+536 257 1
+536 255 1
+536 254 1
+536 258 1
+536 256 1
+539 177 1
+539 153 1
+539 173 1
+610 614 1
+610 717 1
+610 617 1
+610 616 1
+610 615 1
+608 634 1
+608 167 1
+608 166 1
+609 610 1
+609 498 1
+609 611 1
+609 613 1
+615 619 1
+615 621 1
+615 620 1
+615 618 1
+612 622 1
+612 623 1
+618 626 1
+618 625 1
+618 551 1
+618 624 1
+622 606 1
+622 604 1
+627 916 1
+627 850 1
+627 922 1
+626 830 1
+625 940 1
+624 740 1
+624 743 1
+624 572 1
+624 742 1
+629 745 1
+629 740 1
+629 743 1
+629 572 1
+629 742 1
+628 606 1
+628 604 1
+633 660 1
+633 661 1
+633 663 1
+633 658 1
+637 640 1
+636 121 1
+576 569 1
+577 570 1
+577 571 1
+578 579 1
+580 253 1
+580 252 1
+581 582 1
+581 168 1
+582 590 1
+582 952 1
+582 595 1
+582 592 1
+582 594 1
+582 591 1
+582 587 1
+582 589 1
+582 593 1
+586 1042 1
+588 1223 1
+589 598 1
+589 597 1
+589 596 1
+591 600 1
+591 601 1
+591 599 1
+591 603 1
+591 602 1
+597 260 1
+597 259 1
+596 953 1
+605 582 1
+605 168 1
+604 590 1
+604 952 1
+604 595 1
+604 592 1
+604 594 1
+604 591 1
+604 587 1
+604 589 1
+604 593 1
+607 165 1
+607 718 1
+607 612 1
+607 1215 1
+606 62 1
+606 583 1
+686 1216 1
+685 267 1
+685 269 1
+684 268 1
+684 266 1
+684 967 1
+678 821 1
+678 820 1
+677 277 1
+677 276 1
+677 278 1
+676 272 1
+676 271 1
+675 274 1
+674 270 1
+674 273 1
+673 667 1
+673 669 1
+673 668 1
+673 665 1
+702 1066 1
+703 338 1
+703 349 1
+703 348 1
+703 350 1
+703 335 1
+698 312 1
+698 311 1
+697 313 1
+697 1020 1
+694 286 1
+695 287 1
+695 289 1
+695 294 1
+695 291 1
+695 295 1
+695 288 1
+695 290 1
+692 280 1
+692 282 1
+692 281 1
+693 285 1
+693 283 1
+693 284 1
+689 275 1
+654 953 1
+651 600 1
+651 601 1
+651 599 1
+651 603 1
+651 602 1
+650 1052 1
+644 736 1
+644 737 1
+644 739 1
+644 738 1
+644 629 1
+640 507 1
+643 640 1
+642 1123 1
+642 1122 1
+642 1124 1
+670 664 1
+670 659 1
+670 662 1
+670 552 1
+670 696 1
+667 1388 1
+667 139 1
+658 664 1
+658 659 1
+658 662 1
+658 552 1
+658 696 1
+747 754 1
+747 814 1
+746 251 1
+743 750 1
+741 747 1
+741 756 1
+740 747 1
+740 756 1
+762 227 1
+762 82 1
+763 459 1
+763 465 1
+760 759 1
+760 758 1
+760 452 1
+760 450 1
+760 451 1
+761 449 1
+764 466 1
+755 745 1
+756 753 1
+756 752 1
+756 751 1
+757 753 1
+757 752 1
+757 751 1
+713 808 1
+713 803 1
+713 521 1
+713 491 1
+713 802 1
+713 805 1
+713 804 1
+712 713 1
+715 808 1
+715 803 1
+715 802 1
+715 805 1
+715 804 1
+714 521 1
+714 491 1
+716 441 1
+716 439 1
+716 440 1
+719 387 1
+719 386 1
+719 388 1
+719 390 1
+719 389 1
+718 383 1
+718 380 1
+718 382 1
+718 384 1
+718 378 1
+718 381 1
+705 336 1
+705 337 1
+707 343 1
+707 346 1
+707 344 1
+707 345 1
+707 342 1
+706 341 1
+706 339 1
+706 340 1
+709 361 1
+709 359 1
+709 360 1
+708 355 1
+708 356 1
+708 357 1
+708 77 1
+708 354 1
+710 364 1
+710 363 1
+710 362 1
+730 220 1
+730 219 1
+730 1045 1
+720 393 1
+720 395 1
+720 391 1
+720 394 1
+722 727 1
+722 728 1
+722 726 1
+722 725 1
+816 884 1
+816 882 1
+816 885 1
+816 557 1
+816 886 1
+819 183 1
+829 828 1
+830 208 1
+830 827 1
+824 208 1
+824 827 1
+827 834 1
+826 836 1
+826 838 1
+826 837 1
+806 385 1
+800 1036 1
+800 1038 1
+801 713 1
+802 969 1
+812 813 1
+813 754 1
+813 814 1
+814 815 1
+808 634 1
+808 167 1
+808 166 1
+810 811 1
+811 812 1
+790 1046 1
+790 25 1
+788 1046 1
+788 25 1
+786 791 1
+786 793 1
+786 794 1
+785 791 1
+785 793 1
+785 794 1
+784 961 1
+784 967 1
+784 964 1
+784 965 1
+784 966 1
+784 680 1
+799 1036 1
+799 1038 1
+798 799 1
+772 225 1
+772 221 1
+772 223 1
+772 226 1
+773 766 1
+773 228 1
+773 729 1
+770 767 1
+770 710 1
+771 723 1
+771 722 1
+771 724 1
+768 1216 1
+782 1086 1
+783 787 1
+783 785 1
+783 789 1
+783 788 1
+780 417 1
+780 418 1
+780 366 1
+780 416 1
+779 1420 1
+777 385 1
+881 884 1
+881 882 1
+881 885 1
+881 557 1
+881 886 1
+880 890 1
+880 892 1
+880 891 1
+884 887 1
+889 890 1
+889 892 1
+889 891 1
+888 887 1
+891 369 1
+890 908 1
+890 896 1
+890 907 1
+893 898 1
+892 898 1
+894 908 1
+894 896 1
+894 907 1
+864 874 1
+864 869 1
+864 872 1
+864 868 1
+864 871 1
+865 874 1
+865 869 1
+865 872 1
+865 868 1
+865 871 1
+866 867 1
+866 714 1
+867 865 1
+868 876 1
+868 877 1
+868 875 1
+868 870 1
+873 880 1
+874 878 1
+875 880 1
+878 1042 1
+879 876 1
+879 877 1
+879 875 1
+879 870 1
+850 926 1
+850 924 1
+850 925 1
+849 915 1
+849 914 1
+849 627 1
+848 916 1
+848 850 1
+848 922 1
+855 854 1
+855 9 1
+855 45 1
+855 853 1
+855 553 1
+854 806 1
+854 1442 1
+854 238 1
+853 864 1
+852 864 1
+859 861 1
+858 860 1
+857 858 1
+856 862 1
+856 859 1
+856 857 1
+862 196 1
+862 918 1
+862 919 1
+860 806 1
+860 1442 1
+860 238 1
+832 834 1
+832 1239 1
+833 836 1
+833 838 1
+833 837 1
+842 487 1
+843 847 1
+843 1029 1
+841 516 1
+841 848 1
+841 846 1
+846 854 1
+846 9 1
+846 853 1
+846 553 1
+847 520 1
+844 847 1
+844 1029 1
+845 516 1
+845 848 1
+845 846 1
+956 957 1
+956 784 1
+957 958 1
+958 688 1
+959 958 1
+952 588 1
+953 1066 1
+955 961 1
+955 964 1
+955 965 1
+948 946 1
+948 541 1
+949 948 1
+941 1023 1
+941 1024 1
+940 943 1
+940 186 1
+940 1055 1
+940 941 1
+933 931 1
+933 928 1
+933 929 1
+933 873 1
+932 943 1
+932 186 1
+932 1055 1
+932 941 1
+934 939 1
+934 937 1
+934 932 1
+934 930 1
+928 939 1
+928 937 1
+928 932 1
+928 930 1
+927 931 1
+927 928 1
+927 929 1
+927 873 1
+924 921 1
+920 921 1
+919 926 1
+919 924 1
+919 925 1
+917 196 1
+917 918 1
+917 919 1
+913 352 1
+911 774 1
+911 912 1
+906 910 1
+906 904 1
+906 902 1
+906 905 1
+904 774 1
+904 912 1
+901 910 1
+901 904 1
+901 902 1
+901 905 1
+899 945 1
+898 945 1
+897 909 1
+897 677 1
+897 1233 1
+897 901 1
+896 909 1
+896 677 1
+896 1233 1
+896 901 1
+1019 522 1
+1019 735 1
+1021 1123 1
+1021 1122 1
+1021 1124 1
+1008 487 1
+1009 843 1
+1009 842 1
+1010 843 1
+1010 842 1
+1011 727 1
+1011 728 1
+1011 726 1
+1011 725 1
+1012 619 1
+1012 621 1
+1012 620 1
+1012 618 1
+1013 626 1
+1013 625 1
+1013 551 1
+1013 624 1
+1014 940 1
+1001 147 1
+1001 1021 1
+1000 11 1
+1003 205 1
+1003 823 1
+1003 207 1
+1003 206 1
+1002 825 1
+1005 691 1
+1005 690 1
+1004 279 1
+1007 865 1
+1006 867 1
+1006 714 1
+993 1462 1
+993 1271 1
+993 992 1
+992 1270 1
+992 114 1
+995 24 1
+994 1462 1
+994 1271 1
+994 992 1
+997 92 1
+996 519 1
+996 130 1
+999 1120 1
+999 146 1
+999 1193 1
+999 1076 1
+999 1195 1
+999 1080 1
+998 1282 1
+998 1273 1
+998 66 1
+986 111 1
+987 460 1
+985 59 1
+985 112 1
+985 113 1
+990 1283 1
+990 1197 1
+990 994 1
+990 65 1
+991 78 1
+991 158 1
+988 52 1
+988 69 1
+989 192 1
+978 479 1
+978 480 1
+979 476 1
+979 353 1
+979 475 1
+976 1455 1
+976 509 1
+977 474 1
+977 473 1
+982 35 1
+982 36 1
+983 14 1
+980 368 1
+980 477 1
+980 370 1
+971 972 1
+970 969 1
+969 972 1
+968 771 1
+968 1113 1
+975 862 1
+975 859 1
+975 857 1
+974 915 1
+974 914 1
+974 627 1
+973 157 1
+972 157 1
+962 1140 1
+962 963 1
+962 98 1
+961 1112 1
+961 781 1
+960 688 1
+966 771 1
+966 1113 1
+965 1232 1
+1096 1094 1
+1098 1091 1
+1098 1180 1
+1095 1094 1
+1088 1092 1
+1088 780 1
+1116 1115 1
+1134 1138 1
+1133 1135 1
+1133 1153 1
+1133 1152 1
+1129 1127 1
+1126 1131 1
+1126 1129 1
+1126 1150 1
+1126 1130 1
+1127 1147 1
+1127 1128 1
+1125 398 1
+1125 397 1
+1121 764 1
+1148 1147 1
+1148 1128 1
+1146 1144 1
+1146 102 1
+1146 763 1
+1146 1142 1
+1146 1143 1
+1144 1127 1
+1141 1144 1
+1141 102 1
+1141 763 1
+1141 1142 1
+1141 1143 1
+1140 1133 1
+1138 1133 1
+1137 399 1
+1137 400 1
+1032 1033 1
+1033 1394 1
+1033 490 1
+1033 1406 1
+1034 1032 1
+1035 1033 1
+1036 1039 1
+1037 1039 1
+1039 1394 1
+1039 490 1
+1025 1078 1
+1026 412 1
+1026 411 1
+1028 1030 1
+1028 1031 1
+1029 1030 1
+1029 1031 1
+1031 1032 1
+1049 1051 1
+1050 1051 1
+1052 1053 1
+1041 879 1
+1040 879 1
+1043 881 1
+1042 881 1
+1045 28 1
+1044 637 1
+1044 1015 1
+1044 798 1
+1044 636 1
+1047 1048 1
+1047 790 1
+1066 1304 1
+1070 1071 1
+1070 1111 1
+1058 536 1
+1058 1056 1
+1058 819 1
+1058 1057 1
+1062 1112 1
+1062 781 1
+1060 536 1
+1060 1056 1
+1060 819 1
+1060 1057 1
+1082 1115 1
+1081 1082 1
+1080 1082 1
+1087 1092 1
+1087 780 1
+1085 220 1
+1085 219 1
+1085 1045 1
+1075 1091 1
+1075 1180 1
+1074 1189 1
+1074 1190 1
+1074 1192 1
+1074 1070 1
+1074 1191 1
+1072 1189 1
+1072 1190 1
+1072 1192 1
+1072 1070 1
+1072 1191 1
+1079 1170 1
+1079 1177 1
+1078 1172 1
+1077 1075 1
+1077 1083 1
+1076 1075 1
+1076 1083 1
+1220 1235 1
+1220 1230 1
+1220 1228 1
+1220 1229 1
+1223 1226 1
+1223 1225 1
+1222 1235 1
+1222 1230 1
+1222 1228 1
+1222 1229 1
+1217 1311 1
+1219 1223 1
+1218 1219 1
+1228 1231 1
+1231 1232 1
+1230 832 1
+1226 1227 1
+1237 832 1
+1238 1239 1
+1239 1241 1
+1234 1220 1
+1244 1243 1
+1245 1244 1
+1245 1246 1
+1240 1241 1
+1242 1238 1
+1242 693 1
+1243 1242 1
+1243 1237 1
+1271 1074 1
+1269 730 1
+1266 1267 1
+1266 1085 1
+1264 1265 1
+1265 1267 1
+1265 1085 1
+1279 194 1
+1279 1281 1
+1276 1277 1
+1276 1279 1
+1277 193 1
+1277 1278 1
+1274 1275 1
+1274 1287 1
+1275 1277 1
+1275 1279 1
+1273 1275 1
+1273 1287 1
+1157 1155 1
+1156 1155 1
+1158 1159 1
+1166 1167 1
+1168 1170 1
+1168 1177 1
+1170 1172 1
+1174 1421 1
+1175 1168 1
+1175 1169 1
+1181 1114 1
+1181 1179 1
+1183 1184 1
+1186 1184 1
+1185 1188 1
+1195 642 1
+1193 1071 1
+1193 1111 1
+1198 1199 1
+1202 1201 1
+1202 1200 1
+1201 1049 1
+1206 770 1
+1207 1208 1
+1204 1206 1
+1205 770 1
+1210 1208 1
+1208 577 1
+1209 577 1
+1215 927 1
+1367 1009 1
+1366 1009 1
+1405 1406 1
+1403 1401 1
+1402 1401 1
+1397 1399 1
+1396 1409 1
+1396 1399 1
+1398 1409 1
+1395 1396 1
+1394 1396 1
+1378 1379 1
+1378 1380 1
+1304 1306 1
+1304 1305 1
+1296 161 1
+1291 990 1
+1291 1290 1
+1288 985 1
+1289 1215 1
+1294 1293 1
+1295 1294 1
+1295 993 1
+1292 990 1
+1292 1290 1
+1283 1284 1
+1280 194 1
+1280 1281 1
+1281 1460 1
+1286 1069 1
+1286 1001 1
+1287 985 1
+1284 1285 1
+1285 1069 1
+1285 1001 1
+1425 1423 1
+1425 1424 1
+1428 1427 1
+1428 1429 1
+1434 1435 1
+1436 1435 1
+1413 1392 1
+1413 1414 1
+1413 1415 1
+1417 1416 1
+1417 1418 1
+1457 1203 1
+1458 1286 1
+1459 1463 1
+1460 1461 1
+1461 1463 1
+1462 1461 1
+1443 564 1
+1443 1412 1
+1449 1285 1
+1448 642 1
+1451 1284 1
+1450 1423 1
+1450 1424 1
+*edges
+6 982 1
+9 851 1
+11 986 1
+11 1456 1
+11 987 1
+12 983 1
+13 166 1
+14 144 1
+18 103 1
+21 1296 1
+23 25 1
+41 25 1
+24 155 1
+28 27 1
+30 29 1
+32 31 1
+34 33 1
+36 136 1
+92 40 1
+44 855 1
+51 159 1
+961 50 1
+48 90 1
+55 341 1
+55 558 1
+253 54 1
+52 985 1
+59 194 1
+59 1185 1
+56 57 1
+60 61 1
+69 1457 1
+69 1458 1
+69 991 1
+70 1296 1
+65 989 1
+65 988 1
+66 990 1
+77 709 1
+77 776 1
+77 710 1
+78 1189 1
+78 992 1
+74 171 1
+75 81 1
+85 517 1
+85 996 1
+87 489 1
+86 485 1
+86 486 1
+82 81 1
+80 995 1
+83 84 1
+91 997 1
+100 102 1
+101 1136 1
+98 99 1
+111 998 1
+107 110 1
+107 555 1
+105 106 1
+116 553 1
+114 1459 1
+114 999 1
+113 1281 1
+112 1271 1
+124 1000 1
+121 607 1
+131 167 1
+131 491 1
+130 521 1
+130 520 1
+153 533 1
+157 1201 1
+157 956 1
+158 1186 1
+336 159 1
+146 1001 1
+147 1181 1
+169 170 1
+168 606 1
+173 537 1
+163 551 1
+162 237 1
+160 557 1
+168 166 1
+165 231 1
+1056 186 1
+531 187 1
+178 534 1
+176 539 1
+177 186 1
+177 532 1
+183 1002 1
+180 203 1
+181 819 1
+204 1003 1
+197 1019 1
+192 193 1
+195 196 1
+220 770 1
+217 1269 1
+219 772 1
+219 773 1
+208 829 1
+239 334 1
+234 497 1
+234 238 1
+230 496 1
+229 470 1
+228 771 1
+1045 227 1
+254 674 1
+255 675 1
+252 536 1
+250 580 1
+251 1004 1
+248 504 1
+1200 249 1
+246 597 1
+244 746 1
+242 502 1
+243 503 1
+241 499 1
+275 677 1
+274 689 1
+272 1447 1
+279 692 1
+279 693 1
+283 695 1
+281 694 1
+678 258 1
+259 683 1
+256 1005 1
+679 257 1
+260 684 1
+266 685 1
+270 676 1
+271 1446 1
+688 268 1
+311 699 1
+313 700 1
+312 697 1
+317 633 1
+319 492 1
+319 491 1
+501 293 1
+296 308 1
+297 500 1
+301 698 1
+302 1023 1
+342 913 1
+453 340 1
+338 706 1
+338 707 1
+337 708 1
+344 1217 1
+324 984 1
+322 1234 1
+322 1218 1
+323 493 1
+335 705 1
+335 704 1
+330 703 1
+1053 331 1
+490 328 1
+372 439 1
+374 718 1
+369 1216 1
+370 471 1
+378 719 1
+784 356 1
+775 359 1
+352 891 1
+355 783 1
+782 364 1
+366 1026 1
+1227 360 1
+779 361 1
+781 361 1
+363 780 1
+1134 406 1
+397 1137 1
+396 1125 1
+387 720 1
+460 385 1
+391 408 1
+440 506 1
+612 442 1
+447 761 1
+438 716 1
+479 482 1
+474 979 1
+475 980 1
+472 977 1
+473 978 1
+468 478 1
+469 476 1
+462 763 1
+459 764 1
+455 762 1
+450 1378 1
+448 760 1
+508 976 1
+509 512 1
+507 506 1
+498 607 1
+487 486 1
+481 483 1
+481 484 1
+559 572 1
+559 1443 1
+552 673 1
+567 576 1
+566 575 1
+565 574 1
+563 573 1
+570 578 1
+569 577 1
+568 580 1
+522 518 1
+515 516 1
+522 644 1
+523 526 1
+874 535 1
+541 547 1
+540 538 1
+608 808 1
+615 1012 1
+618 1013 1
+622 628 1
+627 848 1
+625 1014 1
+629 624 1
+629 755 1
+635 634 1
+637 643 1
+581 605 1
+582 604 1
+878 586 1
+1219 588 1
+591 651 1
+654 596 1
+656 598 1
+655 598 1
+809 607 1
+1289 607 1
+688 687 1
+768 686 1
+784 684 1
+681 690 1
+680 690 1
+702 953 1
+1021 642 1
+658 670 1
+813 747 1
+750 1061 1
+740 741 1
+766 1046 1
+1063 767 1
+756 757 1
+1453 713 1
+1452 713 1
+715 713 1
+714 713 1
+712 801 1
+712 799 1
+768 710 1
+815 729 1
+730 1085 1
+722 1011 1
+881 816 1
+824 830 1
+827 832 1
+826 833 1
+806 805 1
+807 805 1
+802 970 1
+790 788 1
+785 786 1
+784 955 1
+800 799 1
+795 794 1
+768 895 1
+806 777 1
+880 889 1
+882 883 1
+884 888 1
+890 894 1
+890 895 1
+892 893 1
+864 865 1
+921 865 1
+866 1006 1
+867 1007 1
+868 879 1
+875 873 1
+850 919 1
+849 974 1
+861 855 1
+860 854 1
+853 852 1
+856 975 1
+917 862 1
+835 834 1
+1238 832 1
+840 838 1
+839 837 1
+842 1008 1
+843 844 1
+841 845 1
+846 855 1
+846 844 1
+957 959 1
+958 960 1
+939 936 1
+940 932 1
+938 932 1
+928 934 1
+930 944 1
+930 935 1
+927 933 1
+924 920 1
+904 911 1
+901 906 1
+898 899 1
+1231 897 1
+896 897 1
+1009 1010 1
+993 994 1
+1442 984 1
+969 971 1
+972 973 1
+964 963 1
+961 1062 1
+966 968 1
+1231 965 1
+1095 1096 1
+1117 1113 1
+1114 1115 1
+1110 1109 1
+1129 1144 1
+1127 1148 1
+1145 1142 1
+1141 1146 1
+1138 1140 1
+1032 1035 1
+1405 1033 1
+1039 1033 1
+1036 1037 1
+1028 1029 1
+1030 1038 1
+1031 1034 1
+1049 1050 1
+1048 1051 1
+1057 1055 1
+1040 1041 1
+1042 1043 1
+1070 1193 1
+1058 1060 1
+1082 1116 1
+1080 1081 1
+1087 1088 1
+1241 1086 1
+1075 1098 1
+1072 1074 1
+1168 1079 1
+1170 1078 1
+1076 1077 1
+1220 1222 1
+1251 1217 1
+1237 1230 1
+1239 1240 1
+1232 1233 1
+1268 1267 1
+1265 1266 1
+1280 1279 1
+1275 1276 1
+1273 1274 1
+1155 1176 1
+1154 1430 1
+1156 1157 1
+1179 1180 1
+1183 1186 1
+1270 1188 1
+1448 1195 1
+1197 1199 1
+1207 1210 1
+1205 1206 1
+1211 1208 1
+1209 1208 1
+1213 1214 1
+1366 1367 1
+1356 1431 1
+1402 1403 1
+1396 1398 1
+1396 1397 1
+1394 1395 1
+1388 1390 1
+1350 1311 1
+1297 1298 1
+1291 1292 1
+1282 1290 1
+1282 1293 1
+1283 1451 1
+1288 1287 1
+1284 1449 1
+1285 1286 1
+1426 1427 1
+1425 1450 1
+1434 1436 1
+1461 1459 1
+1462 1460 1

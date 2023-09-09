@@ -1,0 +1,54 @@
+*Network Ore graph Ngatatjara1966.puc
+
+*vertices 19
+1 'H 1 (1)' triangle
+2 'H 2 (2)' triangle
+3 'H 3 (3)' triangle
+4 'H 4 (4)' triangle
+5 'H 5 (5)' triangle
+6 'H 6 (6)' triangle
+7 'F 11 (11)' ellipse
+8 'F 12 (12)' ellipse
+9 'F 13 (13)' ellipse
+10 'F 14 (14)' ellipse
+11 'F 15 (15)' ellipse
+12 'F 16 (16)' ellipse
+13 'F 17 (17)' ellipse
+14 'H 21 (21)' triangle
+15 'H 22 (22)' triangle
+16 'H 23 (23)' triangle
+17 'F 24 (24)' ellipse
+18 'H 25 (25)' triangle
+19 'F 26 (26)' ellipse
+*arcs
+5 1 1
+5 8 1
+5 9 1
+11 7 1
+12 1 1
+12 8 1
+12 9 1
+13 4 1
+13 3 1
+13 10 1
+13 2 1
+14 7 1
+15 4 1
+15 3 1
+15 10 1
+15 2 1
+17 11 1
+17 5 1
+16 11 1
+16 5 1
+19 12 1
+19 6 1
+18 12 1
+18 6 1
+*edges
+5 12 1
+6 13 1
+14 11 1
+15 13 1
+16 17 1
+18 19 1

@@ -1,0 +1,281 @@
+*Network Ore graph Iglulik1960-61SeaCyc.puc
+
+*vertices 104
+1 'H 0 (1)' triangle
+2 'H 0 (2)' triangle
+3 'H 0 (3)' triangle
+4 'H 0 (4)' triangle
+5 'H 0 (5)' triangle
+6 'H 0 (6)' triangle
+7 'H 0 (7)' triangle
+8 'H 0 (8)' triangle
+9 'H 0 (9)' triangle
+10 'H 0 (10)' triangle
+11 'H 0 (11)' triangle
+12 'H 0 (12)' triangle
+13 'H 0 (13)' triangle
+14 'H 0 (14)' triangle
+15 'H 0 (15)' triangle
+16 'H 0 (16)' triangle
+17 'H 0 (17)' triangle
+18 'H 19 (18)' triangle
+19 'H 0 (19)' triangle
+20 'H 0 (20)' triangle
+21 'H 0 (21)' triangle
+22 'H 18 (22)' triangle
+23 'H 2 (23)' triangle
+24 'H 3 (24)' triangle
+25 'H 0 (25)' triangle
+26 'H 0 (26)' triangle
+27 'H 0 (27)' triangle
+28 'H 16 (28)' triangle
+29 'H 5 (29)' triangle
+30 'H 17 (30)' triangle
+31 'H 6 (31)' triangle
+32 'H 7 (32)' triangle
+33 'H 8 (33)' triangle
+34 'H 0 (34)' triangle
+35 'H 0 (35)' triangle
+36 'H 11 (36)' triangle
+37 'H 12 (37)' triangle
+38 'H 13 (38)' triangle
+39 'H 0 (39)' triangle
+40 'H 0 (40)' triangle
+41 'H 0 (41)' triangle
+42 'H 0 (42)' triangle
+43 'H 20 (43)' triangle
+44 'H 1 (44)' triangle
+45 'H 4 (45)' triangle
+46 'H 9 (46)' triangle
+47 'H 14 (47)' triangle
+48 'H 15 (48)' triangle
+49 'F 0 (51)' ellipse
+50 'F 0 (52)' ellipse
+51 'F 0 (53)' ellipse
+52 'F 0 (54)' ellipse
+53 'F 0 (55)' ellipse
+54 'F 0 (56)' ellipse
+55 'F 0 (57)' ellipse
+56 'F 0 (58)' ellipse
+57 'F 0 (59)' ellipse
+58 'F 0 (60)' ellipse
+59 'F 0 (61)' ellipse
+60 'F 0 (62)' ellipse
+61 'F 0 (63)' ellipse
+62 'F 0 (64)' ellipse
+63 'F 0 (65)' ellipse
+64 'F 0 (66)' ellipse
+65 'F 0 (67)' ellipse
+66 'F 0 (68)' ellipse
+67 'F 0 (69)' ellipse
+68 'F 0 (70)' ellipse
+69 'F 0 (71)' ellipse
+70 'F 0 (72)' ellipse
+71 'F 0 (73)' ellipse
+72 'F 0 (74)' ellipse
+73 'F 0 (75)' ellipse
+74 'F 0 (76)' ellipse
+75 'F 10 (77)' ellipse
+76 'F 0 (78)' ellipse
+77 'F 0 (79)' ellipse
+78 'F 0 (80)' ellipse
+79 'F 0 (81)' ellipse
+80 'F 0 (82)' ellipse
+81 'F 0 (83)' ellipse
+82 'F 0 (84)' ellipse
+83 'F 0 (85)' ellipse
+84 'F 0 (86)' ellipse
+85 'F 0 (87)' ellipse
+86 'F 0 (101)' ellipse
+87 'H 0 (102)' triangle
+88 'H 0 (103)' triangle
+89 'F 0 (104)' ellipse
+90 'H 0 (105)' triangle
+91 'F 0 (106)' ellipse
+92 'H 0 (107)' triangle
+93 'F 0 (108)' ellipse
+94 'H 0 (109)' triangle
+95 'H 0 (110)' triangle
+96 'F 0 (111)' ellipse
+97 'H 0 (112)' triangle
+98 'F 0 (113)' ellipse
+99 'F 0 (114)' ellipse
+100 'H 0 (115)' triangle
+101 'H 0 (116)' triangle
+102 'F 0 (117)' ellipse
+103 'H 0 (118)' triangle
+104 'F 0 (119)' ellipse
+*arcs
+18 1 1
+18 2 1
+18 49 1
+23 4 1
+23 5 1
+23 6 1
+23 51 1
+22 50 1
+22 3 1
+24 52 1
+29 8 1
+29 9 1
+29 53 1
+28 7 1
+31 11 1
+30 54 1
+30 10 1
+34 57 1
+32 13 1
+32 55 1
+32 12 1
+33 56 1
+38 60 1
+37 58 1
+37 14 1
+37 15 1
+37 59 1
+37 16 1
+46 35 1
+46 32 1
+46 71 1
+46 33 1
+46 34 1
+47 39 1
+47 42 1
+47 40 1
+47 38 1
+47 78 1
+47 79 1
+47 80 1
+47 41 1
+44 61 1
+44 21 1
+44 20 1
+44 19 1
+45 25 1
+45 65 1
+45 26 1
+45 68 1
+45 67 1
+45 29 1
+45 24 1
+45 27 1
+45 66 1
+63 4 1
+63 5 1
+63 6 1
+63 51 1
+62 50 1
+62 3 1
+69 8 1
+69 9 1
+69 53 1
+70 54 1
+70 10 1
+71 11 1
+64 52 1
+67 7 1
+76 58 1
+76 14 1
+76 15 1
+76 59 1
+76 16 1
+77 60 1
+78 17 1
+72 13 1
+72 55 1
+72 12 1
+73 56 1
+74 57 1
+84 35 1
+84 32 1
+84 71 1
+84 33 1
+84 34 1
+87 17 1
+86 1 1
+86 2 1
+86 49 1
+81 61 1
+81 21 1
+81 20 1
+81 19 1
+83 28 1
+83 31 1
+83 69 1
+83 30 1
+82 25 1
+82 65 1
+82 26 1
+82 68 1
+82 67 1
+82 29 1
+82 24 1
+82 27 1
+82 66 1
+93 23 1
+93 64 1
+92 23 1
+92 64 1
+95 31 1
+95 69 1
+95 30 1
+94 28 1
+89 18 1
+88 18 1
+91 62 1
+90 62 1
+102 46 1
+102 47 1
+103 101 1
+103 100 1
+100 45 1
+100 93 1
+101 46 1
+101 47 1
+98 92 1
+98 81 1
+98 90 1
+99 45 1
+99 93 1
+96 39 1
+96 42 1
+96 40 1
+96 38 1
+96 78 1
+96 79 1
+96 80 1
+96 41 1
+97 92 1
+97 81 1
+97 90 1
+104 101 1
+104 100 1
+*edges
+18 86 1
+23 63 1
+22 62 1
+24 64 1
+29 69 1
+28 67 1
+31 71 1
+30 70 1
+34 74 1
+32 72 1
+33 73 1
+38 77 1
+37 76 1
+46 84 1
+47 96 1
+44 81 1
+45 82 1
+48 85 1
+87 78 1
+95 83 1
+94 83 1
+92 93 1
+88 89 1
+90 91 1
+103 104 1
+101 102 1
+100 99 1
+97 98 1

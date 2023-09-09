@@ -1,0 +1,1072 @@
+*Network Ore graph Genesis.puc
+
+*vertices 439
+1 'Adam (1)' triangle
+2 'Eve (2)' ellipse
+3 'Cain (3)' triangle
+4 'Seth (4)' triangle
+5 'Ashuth (5)' ellipse
+6 'Azurah (6)' ellipse
+7 'Enoch (7)' triangle
+8 '`Adan (8)' ellipse
+9 'Mulith (9)' ellipse
+10 'Irad (10)' triangle
+11 'Mehujael (11)' triangle
+12 'Bawil (12)' triangle
+13 'Barakil (13)' triangle
+14 'Mathusael (14)' triangle
+15 'al-Darmasil (15)' triangle
+16 'Adanah (16)' ellipse
+17 'Dinah (17)' ellipse
+18 'Sim`an (18)' ellipse
+19 'Batanush (19)' ellipse
+20 'Amzurah (20)' ellipse
+21 'Azra*il (21)' triangle
+22 '`Adna (22)' ellipse
+23 'Lamech (23)' triangle
+24 'Sella (24)' ellipse
+25 'Ada (25)' ellipse
+26 'Tubal-Cain (26)' triangle
+27 'Naamah (27)' ellipse
+28 'Jabal (28)' triangle
+29 'Jubal (29)' triangle
+30 'Barakna (30)' ellipse
+31 'Marazil (31)' triangle
+32 'Arbasisah (32)' ellipse
+33 'Marib (33)' triangle
+34 'Nahlab (34)' ellipse
+35 'Batawil (35)' triangle
+36 'Salib (36)' ellipse
+37 'Na`mah (37)' ellipse
+38 'Enosh (38)' triangle
+39 'Kenan (39)' triangle
+40 'Mahalalel (40)' triangle
+41 'Irad (41)' triangle
+42 'Enoch (42)' triangle
+43 'Mathuselah (43)' triangle
+44 'Lamech (44)' triangle
+45 'Noah (45)' triangle
+46 'Shem (46)' triangle
+47 'Ham (47)' triangle
+48 'Japheth (48)' triangle
+49 'Cush (49)' triangle
+50 'Qarnabil (50)' ellipse
+51 'Seba (51)' triangle
+52 'Havilah (52)' triangle
+53 'Sabtah (53)' triangle
+54 'Sabteca (54)' triangle
+55 'Raamah (55)' triangle
+56 'Dedan (56)' triangle
+57 'Sheba (57)' triangle
+58 'Nimrod (58)' triangle
+59 'Mizraim (59)' triangle
+60 'Phylistinus (60)' triangle
+61 'Ludim (61)' triangle
+62 'Ananim (62)' triangle
+63 'Lehabim (63)' triangle
+64 'Naphtuhim (64)' triangle
+65 'Pathrusim (65)' triangle
+66 'Casluhim (66)' triangle
+67 'Caphtorim (67)' triangle
+68 'Put (68)' triangle
+69 'Bakht (69)' ellipse
+70 'Canaan (70)' triangle
+71 'Arsal (71)' ellipse
+72 'Sidon (72)' triangle
+73 'Hamath (73)' triangle
+74 'Arvad (74)' triangle
+75 'Arca (75)' triangle
+76 'Hiv (76)' triangle
+77 'Heth (77)' triangle
+78 'Jebus (78)' triangle
+79 'Amor (79)' triangle
+80 'Girgas (80)' triangle
+81 'Sinan (81)' triangle
+82 'Zemar (82)' triangle
+83 'Gomer (83)' triangle
+84 'Magog (84)' triangle
+85 'Javan (85)' triangle
+86 'Madai (86)' triangle
+87 'Tubal (87)' triangle
+88 'Meshech (88)' triangle
+89 'Tiras (89)' triangle
+90 'Wa*il (90)' triangle
+91 'Jayumart (91)' triangle
+92 'Shakbah (92)' ellipse
+93 'Ashkenaz (93)' triangle
+94 'Riphat (94)' triangle
+95 'Togarmah (95)' triangle
+96 'Gog (96)' triangle
+97 'Elishah (97)' triangle
+98 'Tarshish (98)' triangle
+99 'Kittim (99)' triangle
+100 'Gog (100)' triangle
+101 'Magog (101)' triangle
+102 'Batawil (102)' triangle
+103 'Elam (103)' triangle
+104 'Asshur (104)' triangle
+105 'Arpachshad (105)' triangle
+106 'Nimrod (106)' triangle
+107 'Kutha (107)' triangle
+108 'Karita (108)' triangle
+109 'Nuba (109)' ellipse
+110 '(Qaynan) (110)' triangle
+111 'Shelah (111)' triangle
+112 'Eber (112)' triangle
+113 'Peleg (113)' triangle
+114 'Malikan (114)' triangle
+115 'Baliya (115)' triangle
+116 'Reu (116)' triangle
+117 'Afraham (117)' triangle
+118 'Anmuta (118)' ellipse
+119 'Serug (119)' triangle
+120 'Nahor I (120)' triangle
+121 'Terah (121)' triangle
+122 'Haran (122)' triangle
+123 'Lot (123)' triangle
+124 'Lot*s daughter 1 (124)' ellipse
+125 'Lot*s daughter 2 (125)' ellipse
+126 'Moab (126)' triangle
+127 'Ammon (127)' triangle
+128 'Sarah (128)' ellipse
+129 'Milcah (129)' ellipse
+130 'Nahor II (130)' triangle
+131 'Uz (131)' triangle
+132 'Buz (132)' triangle
+133 'Kemuel (133)' triangle
+134 'Chesed (134)' triangle
+135 'Hazo (135)' triangle
+136 'Pildash (136)' triangle
+137 'Jidlaph (137)' triangle
+138 'Bethuel (138)' triangle
+139 'Laban (139)' triangle
+140 'Leah (140)' ellipse
+141 'Rachel (141)' ellipse
+142 'Rebekah (142)' ellipse
+143 'Tebah (143)' triangle
+144 'Gaham (144)' triangle
+145 'Tahash (145)' triangle
+146 'Maacah (146)' triangle
+147 'Abraham (147)' triangle
+148 'Ishmael (148)' triangle
+149 'Nabit (149)' triangle
+150 'Basemath (150)' ellipse
+151 'Isaac (151)' triangle
+152 'Esau (152)' triangle
+153 'Jeush (153)' triangle
+154 'Jalam (154)' triangle
+155 'Korah (155)' triangle
+156 'Eliphaz (156)' triangle
+157 'Teman (157)' triangle
+158 'Omar (158)' triangle
+159 'Gatam (159)' triangle
+160 'Kenaz (160)' triangle
+161 'Amalek (161)' triangle
+162 'Maws (162)' triangle
+163 'Job (163)' triangle
+164 'Hawmal (164)' triangle
+165 'Bishr (165)' triangle
+166 'Abdan (166)' triangle
+167 'Jacob (167)' triangle
+168 'Reuben (168)' triangle
+169 'Enoch (169)' triangle
+170 'Pallu (170)' triangle
+171 'On (171)' triangle
+172 'Hezron (172)' triangle
+173 'Carmi (173)' triangle
+174 'Simeon (174)' triangle
+175 'Jemuel (175)' triangle
+176 'Jamin (176)' triangle
+177 'Ohad (177)' triangle
+178 'Jachin (178)' triangle
+179 'Zohar (179)' triangle
+180 'Shaul (180)' triangle
+181 'Levi (181)' triangle
+182 'Gershon (182)' triangle
+183 'Jochebed (183)' ellipse
+184 'Kohath (184)' triangle
+185 'Izhar (185)' triangle
+186 'Korah (186)' triangle
+187 'Amram (187)' triangle
+188 'Miriam (188)' ellipse
+189 'Aaron (189)' triangle
+190 'Moses (190)' triangle
+191 'Nadab (191)' triangle
+192 'Abihu (192)' triangle
+193 'Eleazar (193)' triangle
+194 'Phinehas (194)' triangle
+195 'Yasin (195)' triangle
+196 'Elijah (196)' triangle
+197 'Ithamar (197)' triangle
+198 'Gershom (198)' triangle
+199 'Eleazar (199)' triangle
+200 'Uzziel (200)' triangle
+201 'Mishael (201)' triangle
+202 'Elzaphan (202)' triangle
+203 'Merari (203)' triangle
+204 'Judah (204)' triangle
+205 'Shelah (205)' triangle
+206 'Zerah (206)' triangle
+207 'Perez (207)' triangle
+208 'Hamul (208)' triangle
+209 'Hezron (209)' triangle
+210 'Ram (210)' triangle
+211 'Amminadab (211)' triangle
+212 'Nahson (212)' triangle
+213 'Salmon (213)' triangle
+214 'Boaz (214)' triangle
+215 'Obed (215)' triangle
+216 'Jesse (216)' triangle
+217 'David (217)' triangle
+218 'Absalom (218)' triangle
+219 'Solomon (219)' triangle
+220 'Issachar (220)' triangle
+221 'Tola (221)' triangle
+222 'Puvah (222)' triangle
+223 'Job (223)' triangle
+224 'Shimron (224)' triangle
+225 'Mari (225)' triangle
+226 'Zebulon (226)' triangle
+227 'Sered (227)' triangle
+228 'Elon (228)' triangle
+229 'Jahleel (229)' triangle
+230 'Dinah (230)' ellipse
+231 'Dan (231)' triangle
+232 'Hushim (232)' triangle
+233 'Naphtali (233)' triangle
+234 'Jahzeel (234)' triangle
+235 'Gounis (235)' triangle
+236 'Jezer (236)' triangle
+237 'Shillem (237)' triangle
+238 'Gad (238)' triangle
+239 'Ziphion (239)' triangle
+240 'Haggi (240)' triangle
+241 'Shuni (241)' triangle
+242 'Ezbon (242)' triangle
+243 'Eri (243)' triangle
+244 'Arodi (244)' triangle
+245 'Areli (245)' triangle
+246 'Asher (246)' triangle
+247 'Serah (247)' ellipse
+248 'Imnah (248)' triangle
+249 'Ishvah (249)' triangle
+250 'Ishvi (250)' triangle
+251 'Beriah (251)' triangle
+252 'Heber (252)' triangle
+253 'Malchiel (253)' triangle
+254 'Joseph (254)' triangle
+255 'Manasseh (255)' triangle
+256 'Moses (256)' triangle
+257 'Ephraim (257)' triangle
+258 'Nun (258)' triangle
+259 'Joshua (259)' triangle
+260 'Benjamin (260)' triangle
+261 'Bela (261)' triangle
+262 'Becher (262)' triangle
+263 'Ashbel (263)' triangle
+264 'Gera (264)' triangle
+265 'Naaman (265)' triangle
+266 'Ehi (266)' triangle
+267 'Rosh (267)' triangle
+268 'Muppim (268)' triangle
+269 'Huppim (269)' triangle
+270 'Ard (270)' triangle
+271 'Aysh (271)' triangle
+272 'Aphiah (272)' triangle
+273 'Becorat (273)' triangle
+274 'Zeror (274)' triangle
+275 'Abiel (275)' triangle
+276 'Kish (276)' triangle
+277 'Saul (277)' triangle
+278 'Michal (278)' ellipse
+279 'Zimran (279)' triangle
+280 'Jokshan (280)' triangle
+281 'Bakariya (281)' triangle
+282 'Batadit (282)' triangle
+283 'Medan (283)' triangle
+284 'Ephah (284)' triangle
+285 'Epher (285)' triangle
+286 'Enoch (286)' triangle
+287 'Abida (287)' triangle
+288 'Eldaah (288)' triangle
+289 'Midian (289)' triangle
+290 'Thabit (290)' triangle
+291 '`Anqa (291)' triangle
+292 'Sayfun (292)' triangle
+293 'Ishbak (293)' triangle
+294 'Shuah (294)' triangle
+295 'Sheba (295)' triangle
+296 'Dedan (296)' triangle
+297 'Letushim (297)' triangle
+298 'Asshurim (298)' triangle
+299 'Leummin (299)' triangle
+300 'Kaysan (300)' triangle
+301 'Shawarukh (301)' triangle
+302 'Amim (302)' triangle
+303 'Lutan (303)' triangle
+304 'Nafis (304)' triangle
+305 'Aram (305)' triangle
+306 'Uz (306)' triangle
+307 'Gether (307)' triangle
+308 'Ad I (308)' triangle
+309 'al-Khalud (309)' triangle
+310 'Ribah (310)' triangle
+311 '`Abdallah (311)' triangle
+312 'Hud (312)' triangle
+313 'Ubayl (313)' triangle
+314 'Hul (314)' triangle
+315 'Gether (Ebe (315)' triangle
+316 'Thamud (316)' triangle
+317 'Khadir (317)' triangle
+318 '`Ubayd (318)' triangle
+319 'Masikh (319)' triangle
+320 'Asif (320)' triangle
+321 '`Ubayd (321)' triangle
+322 'Salih (322)' triangle
+323 'Iram (323)' triangle
+324 'Kamashij (324)' triangle
+325 'Asif (325)' triangle
+326 'Salih (326)' triangle
+327 'Judays (327)' triangle
+328 'Mash (328)' triangle
+329 'Nabit (329)' triangle
+330 'Lud (330)' triangle
+331 'Faris (331)' triangle
+332 'Jurjan (332)' triangle
+333 'Tasm (333)' triangle
+334 'Judays (334)' triangle
+335 'Imliq (335)' triangle
+336 '`Amr (336)' triangle
+337 'Faran (337)' triangle
+338 'Marib (338)' triangle
+339 'Thamila (339)' triangle
+340 'Qaran (340)' triangle
+341 'Arashah (341)' triangle
+342 'Tharwan (342)' triangle
+343 'al-Walid (343)' triangle
+344 'al-Rayyan (344)' triangle
+345 '`Ubayd (345)' triangle
+346 'Muzahim (346)' triangle
+347 'Asiyah (347)' ellipse
+348 'al-Silwas (348)' triangle
+349 'Numayr (349)' triangle
+350 'Mu`awiyah (350)' triangle
+351 'Mus`ab (351)' triangle
+352 'Qabus (352)' triangle
+353 'al-Walid (353)' triangle
+354 '`Uwayj (354)' triangle
+355 '`Ubayd (355)' triangle
+356 '`Alwan (356)' triangle
+357 'Sinan (357)' triangle
+358 'Umaym (358)' triangle
+359 'Abar (359)' triangle
+360 'Joktan (360)' triangle
+361 'Almodad (361)' triangle
+362 'Saleph (362)' triangle
+363 'Jurhum (363)' triangle
+364 'Ludhan (364)' triangle
+365 'Yaqtan (365)' triangle
+366 'Zamar (366)' triangle
+367 'Keturah (367)' ellipse
+368 'Ira (368)' triangle
+369 'Adoram (369)' triangle
+370 'Uzal (370)' triangle
+371 'Dacles (371)' triangle
+372 'Ebal (372)' triangle
+373 'Abimael (373)' triangle
+374 'Sheba (374)' triangle
+375 'Ophir (375)' triangle
+376 'Havilah (376)' triangle
+377 'Jobab (Ya`r (377)' triangle
+378 'Yashjub (378)' triangle
+379 'Saba* (379)' triangle
+380 'Sayfi (380)' triangle
+381 'Qays (381)' triangle
+382 'al-Harith (382)' triangle
+383 'Ayli Sharh (383)' triangle
+384 'al-Ra*ish (384)' triangle
+385 'Abraha (385)' triangle
+386 'al-`Abd (386)' triangle
+387 'Himyar (387)' triangle
+388 'Kahlan (388)' triangle
+389 'al-Ash`ar (389)' triangle
+390 'Anmar (390)' triangle
+391 '`Anmar (391)' triangle
+392 '`Amr (392)' triangle
+393 '`Adi (393)' triangle
+394 'Judham (394)' triangle
+395 'Lakhm (395)' triangle
+396 'Nimarah (396)' triangle
+397 '`Amam (397)' triangle
+398 'Malik (398)' triangle
+399 'al-Harith (399)' triangle
+400 'Rabiah (400)' triangle
+401 'Nasr (401)' triangle
+402 'Yaqtan (402)' triangle
+403 'Buqayin (403)' triangle
+404 'Reuel (404)' triangle
+405 'unknown (1001)' ellipse
+406 'Ruma (1002)' ellipse
+407 'Hagar (1003)' ellipse
+408 'al-Sayyidah (1004)' ellipse
+409 'Madad (1005)' triangle
+410 '`Amr al-Jur (1006)' triangle
+411 'Oholibamah (1007)' ellipse
+412 'Zibeon (1008)' triangle
+413 'Elon (1009)' triangle
+414 'Ada (1010)' ellipse
+415 'Timna (1011)' ellipse
+416 'Nabitah (1012)' ellipse
+417 'Fahi (1013)' ellipse
+418 'Masin (1014)' triangle
+419 'Bethuel (1015)' triangle
+420 'Elias (1016)' triangle
+421 'Shamit (1017)' ellipse
+422 'Caleb (1018)' triangle
+423 'Jephunneh (1019)' triangle
+424 'Jethro (1020)' triangle
+425 'Zipporah (1021)' ellipse
+426 'unknown (1022)' ellipse
+427 'Bathsheba (1023)' ellipse
+428 'Bilqis (1024)' ellipse
+429 'Bilhah (1025)' ellipse
+430 'Zilphah (1026)' ellipse
+431 'Asenath (1027)' ellipse
+432 'Arhir (1030)' triangle
+433 'Hajur (1031)' ellipse
+434 'Ra`wah (1032)' ellipse
+435 'Dhu Tubba (1033)' triangle
+436 'unnamed (1034)' ellipse
+437 'unnamed (1035)' ellipse
+438 'unnamed (1036)' ellipse
+439 'unnamed (1037)' ellipse
+*arcs
+1 6 1
+1 3 1
+1 4 1
+1 5 1
+2 6 1
+2 3 1
+2 4 1
+2 5 1
+3 7 1
+3 8 1
+4 37 1
+4 38 1
+5 7 1
+5 8 1
+6 37 1
+6 38 1
+7 9 1
+7 10 1
+8 9 1
+8 10 1
+9 21 1
+9 23 1
+10 11 1
+11 12 1
+11 14 1
+11 13 1
+11 15 1
+12 16 1
+13 18 1
+13 17 1
+14 21 1
+14 23 1
+15 33 1
+15 31 1
+15 35 1
+15 30 1
+17 20 1
+17 40 1
+17 19 1
+16 43 1
+19 45 1
+18 41 1
+21 22 1
+20 46 1
+20 48 1
+20 47 1
+23 29 1
+23 26 1
+23 27 1
+23 28 1
+22 44 1
+25 29 1
+25 28 1
+24 26 1
+24 27 1
+31 32 1
+30 42 1
+34 59 1
+34 49 1
+34 68 1
+34 70 1
+34 65 1
+35 36 1
+32 83 1
+32 84 1
+32 85 1
+32 86 1
+32 87 1
+32 90 1
+32 88 1
+32 92 1
+32 89 1
+32 91 1
+33 34 1
+38 39 1
+39 20 1
+39 40 1
+39 19 1
+36 105 1
+36 305 1
+36 103 1
+36 104 1
+36 330 1
+37 39 1
+42 43 1
+43 44 1
+40 41 1
+41 42 1
+46 105 1
+46 305 1
+46 103 1
+46 104 1
+46 330 1
+47 59 1
+47 49 1
+47 68 1
+47 70 1
+47 65 1
+44 45 1
+45 46 1
+45 48 1
+45 47 1
+50 53 1
+50 58 1
+50 54 1
+50 55 1
+50 52 1
+50 51 1
+49 53 1
+49 58 1
+49 54 1
+49 55 1
+49 52 1
+49 51 1
+48 83 1
+48 84 1
+48 85 1
+48 86 1
+48 87 1
+48 90 1
+48 88 1
+48 92 1
+48 89 1
+48 91 1
+55 56 1
+55 57 1
+59 61 1
+59 64 1
+59 60 1
+59 62 1
+59 63 1
+70 75 1
+70 77 1
+70 79 1
+70 78 1
+70 73 1
+70 82 1
+70 72 1
+70 81 1
+70 76 1
+70 80 1
+70 74 1
+71 75 1
+71 77 1
+71 79 1
+71 78 1
+71 73 1
+71 82 1
+71 72 1
+71 81 1
+71 76 1
+71 80 1
+71 74 1
+65 66 1
+65 67 1
+85 99 1
+85 97 1
+85 98 1
+86 100 1
+86 101 1
+83 95 1
+83 94 1
+83 93 1
+83 96 1
+92 335 1
+92 331 1
+92 332 1
+92 334 1
+92 333 1
+89 102 1
+102 69 1
+102 71 1
+102 50 1
+110 111 1
+111 112 1
+108 109 1
+109 122 1
+109 147 1
+109 130 1
+106 107 1
+107 108 1
+105 106 1
+105 110 1
+119 120 1
+117 118 1
+116 117 1
+116 119 1
+114 115 1
+113 114 1
+113 116 1
+112 113 1
+112 360 1
+125 127 1
+124 126 1
+124 163 1
+123 125 1
+123 124 1
+123 127 1
+123 126 1
+122 128 1
+122 123 1
+122 129 1
+121 122 1
+121 147 1
+121 130 1
+120 121 1
+139 141 1
+139 140 1
+138 139 1
+138 142 1
+141 254 1
+141 260 1
+140 226 1
+140 174 1
+140 181 1
+140 230 1
+140 168 1
+140 220 1
+140 204 1
+142 167 1
+142 152 1
+129 137 1
+129 133 1
+129 131 1
+129 138 1
+129 134 1
+129 136 1
+129 132 1
+129 135 1
+128 151 1
+130 137 1
+130 133 1
+130 145 1
+130 144 1
+130 131 1
+130 138 1
+130 143 1
+130 134 1
+130 136 1
+130 132 1
+130 135 1
+130 146 1
+152 156 1
+152 154 1
+152 404 1
+152 155 1
+152 153 1
+156 159 1
+156 160 1
+156 157 1
+156 158 1
+156 161 1
+147 294 1
+147 302 1
+147 303 1
+147 279 1
+147 293 1
+147 304 1
+147 289 1
+147 300 1
+147 301 1
+147 148 1
+147 280 1
+147 151 1
+147 283 1
+148 150 1
+148 149 1
+150 404 1
+151 167 1
+151 152 1
+170 171 1
+168 172 1
+168 169 1
+168 170 1
+168 173 1
+174 180 1
+174 176 1
+174 175 1
+174 177 1
+174 179 1
+174 178 1
+163 164 1
+163 165 1
+162 163 1
+161 162 1
+167 231 1
+167 226 1
+167 174 1
+167 181 1
+167 238 1
+167 230 1
+167 168 1
+167 254 1
+167 260 1
+167 220 1
+167 246 1
+167 204 1
+165 166 1
+187 190 1
+187 188 1
+187 189 1
+184 200 1
+184 185 1
+184 187 1
+185 186 1
+190 198 1
+190 199 1
+189 197 1
+189 193 1
+189 191 1
+189 192 1
+183 190 1
+183 188 1
+183 189 1
+181 203 1
+181 184 1
+181 183 1
+181 182 1
+204 206 1
+204 205 1
+204 207 1
+207 208 1
+207 209 1
+200 201 1
+200 202 1
+193 194 1
+195 196 1
+194 195 1
+220 223 1
+220 221 1
+220 222 1
+220 225 1
+220 224 1
+216 217 1
+217 218 1
+217 219 1
+212 213 1
+213 214 1
+214 215 1
+215 216 1
+209 210 1
+210 211 1
+211 212 1
+238 240 1
+238 243 1
+238 244 1
+238 239 1
+238 241 1
+238 242 1
+238 245 1
+233 237 1
+233 235 1
+233 234 1
+233 236 1
+231 233 1
+231 232 1
+230 164 1
+230 165 1
+226 228 1
+226 229 1
+226 227 1
+225 416 1
+254 255 1
+254 257 1
+255 256 1
+246 250 1
+246 247 1
+246 253 1
+246 252 1
+246 249 1
+246 251 1
+246 248 1
+275 276 1
+274 275 1
+273 274 1
+272 273 1
+277 278 1
+276 277 1
+283 286 1
+283 285 1
+283 287 1
+283 284 1
+283 288 1
+282 421 1
+281 282 1
+280 281 1
+258 259 1
+257 258 1
+260 268 1
+260 266 1
+260 262 1
+260 265 1
+260 261 1
+260 271 1
+260 264 1
+260 269 1
+260 267 1
+260 263 1
+260 270 1
+271 272 1
+305 315 1
+305 328 1
+305 306 1
+305 314 1
+306 313 1
+306 307 1
+306 308 1
+309 310 1
+308 309 1
+311 312 1
+310 311 1
+315 316 1
+315 327 1
+317 318 1
+316 317 1
+316 323 1
+319 320 1
+318 319 1
+289 290 1
+289 292 1
+289 291 1
+292 424 1
+294 295 1
+295 296 1
+296 298 1
+296 297 1
+296 299 1
+343 344 1
+342 343 1
+341 342 1
+340 348 1
+340 341 1
+338 339 1
+337 338 1
+336 340 1
+336 337 1
+351 352 1
+351 353 1
+350 351 1
+349 350 1
+348 349 1
+346 347 1
+345 346 1
+344 345 1
+324 325 1
+325 326 1
+323 324 1
+320 321 1
+321 322 1
+335 336 1
+335 354 1
+330 335 1
+330 358 1
+330 331 1
+330 332 1
+330 334 1
+330 333 1
+328 329 1
+381 382 1
+380 384 1
+380 381 1
+382 383 1
+382 428 1
+377 378 1
+379 392 1
+379 389 1
+379 387 1
+379 388 1
+379 380 1
+379 391 1
+379 390 1
+378 379 1
+356 357 1
+358 359 1
+354 355 1
+355 356 1
+364 365 1
+365 366 1
+365 367 1
+366 434 1
+367 294 1
+367 279 1
+367 293 1
+367 280 1
+367 283 1
+367 289 1
+360 363 1
+360 372 1
+360 370 1
+360 402 1
+360 368 1
+360 371 1
+360 362 1
+360 369 1
+360 375 1
+360 361 1
+360 377 1
+360 374 1
+360 376 1
+360 373 1
+363 364 1
+410 409 1
+411 154 1
+411 155 1
+411 153 1
+408 150 1
+408 149 1
+409 408 1
+414 156 1
+415 161 1
+412 411 1
+413 414 1
+402 403 1
+400 401 1
+406 145 1
+406 144 1
+406 143 1
+406 146 1
+407 148 1
+405 125 1
+405 124 1
+395 396 1
+393 395 1
+393 394 1
+392 393 1
+399 400 1
+398 399 1
+397 398 1
+396 397 1
+385 386 1
+384 385 1
+432 433 1
+433 300 1
+433 302 1
+433 301 1
+433 303 1
+433 304 1
+434 281 1
+436 121 1
+437 123 1
+438 347 1
+439 217 1
+425 198 1
+425 199 1
+424 425 1
+427 219 1
+426 218 1
+429 231 1
+431 255 1
+431 257 1
+430 238 1
+430 246 1
+417 200 1
+417 185 1
+417 187 1
+416 203 1
+416 184 1
+416 183 1
+416 182 1
+419 418 1
+418 417 1
+421 186 1
+420 419 1
+423 422 1
+*edges
+1 2 1
+3 5 1
+4 6 1
+7 8 1
+14 9 1
+39 17 1
+42 16 1
+44 19 1
+40 18 1
+45 20 1
+23 25 1
+23 24 1
+43 22 1
+41 30 1
+47 34 1
+48 32 1
+46 36 1
+38 37 1
+49 50 1
+68 69 1
+70 71 1
+330 92 1
+121 109 1
+121 118 1
+162 124 1
+123 125 1
+123 405 1
+123 124 1
+122 437 1
+120 436 1
+167 141 1
+167 140 1
+151 142 1
+130 129 1
+147 128 1
+130 406 1
+152 411 1
+152 414 1
+156 415 1
+147 407 1
+147 367 1
+147 433 1
+148 408 1
+152 150 1
+163 230 1
+167 430 1
+167 429 1
+184 417 1
+185 421 1
+190 425 1
+422 188 1
+187 183 1
+181 416 1
+216 439 1
+217 426 1
+217 427 1
+217 278 1
+219 428 1
+254 431 1
+280 434 1
+352 347 1
+353 347 1
+346 438 1
+435 428 1

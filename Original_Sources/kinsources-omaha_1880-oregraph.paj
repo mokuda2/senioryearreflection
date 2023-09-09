@@ -1,0 +1,3735 @@
+*Network Ore graph Omaha.puc
+
+*vertices 1513
+1 'G Heqa*ta (1)' triangle
+2 'wife of 1 (2)' ellipse
+3 'Hi-da-ha (mea (3)' triangle
+4 'wife of three (5)' ellipse
+5 'G A*pa*tan*gai* (6)' triangle
+6 'Te*mi*wa*u (7)' ellipse
+7 'Ka*ze wi* (8)' ellipse
+8 'Ni*agi*-wa$e (9)' ellipse
+9 'U$e*ama*$i* (10)' ellipse
+10 'G A*pa*tanga ji (11)' triangle
+11 'Cross Elk (di (12)' triangle
+12 'A*pa*naji* (S (13)' triangle
+13 'Mi*a*ba$i* (14)' ellipse
+14 'Sindede*pa (15)' triangle
+15 'Inq$a*-hanga (16)' triangle
+16 'G$eda**wi*teq (17)' ellipse
+17 'Sindewi* (18)' ellipse
+18 'Sindewi* (19)' ellipse
+19 'U Ibahanbi (20)' triangle
+20 'A*pa*mi*ga (21)' ellipse
+21 'A*pa*mi*ga (22)' ellipse
+22 'Mi**daca**$i* (23)' ellipse
+23 'Pa-hi**xi (25)' ellipse
+24 'Pa-ha-di$e (26)' triangle
+25 'G A*pa*ska i*ca (27)' triangle
+26 'Ma*zepewi* (28)' ellipse
+27 'Na*zei*ze (29)' ellipse
+28 'Pankasa* (30)' ellipse
+29 'name unknown (31)' ellipse
+30 'fa of 27-30 (32)' triangle
+31 'mo of 27-30 (33)' ellipse
+32 'Waka*dagi (My (34)' triangle
+33 'Waba*aze (35)' triangle
+34 'K Mahi*$inge/Wa (36)' triangle
+35 'Ma*chia$i* (37)' ellipse
+36 '^ Susette (1/2 (38)' ellipse
+37 'Hidaha (Matth (39)' triangle
+38 'Sarah (40)' ellipse
+39 'Caroline Font (41)' ellipse
+40 'Ni*da wi* (Ma (42)' ellipse
+41 'Wiketanga (Et (43)' ellipse
+42 'A*pa*jinga (F (44)' triangle
+43 'Nugaqti (45)' triangle
+44 'Ase*qube (46)' ellipse
+45 'Sindewi* (47)' ellipse
+46 'Na*zei*ze (Be (48)' ellipse
+47 'Tahejan/Wenan (49)' triangle
+48 'Mary Fontenel (50)' ellipse
+49 'Na*zei*ze (Vi (51)' ellipse
+50 'Christopher T (52)' triangle
+51 'Therese Tynda (53)' ellipse
+52 'Amelia Tyndal (54)' ellipse
+53 'Madeline Tynd (55)' ellipse
+54 'Emily Tyndall (56)' ellipse
+55 'Ta*sa* bawi* (57)' ellipse
+56 'A*pa*mi*ga (S (58)' ellipse
+57 'Na*zei*ze (60)' ellipse
+58 'A*$abi (61)' triangle
+59 '2nd husband o (62)' triangle
+60 'Mangecabe (63)' triangle
+61 'Mi*daca*$i* (64)' ellipse
+62 'Aoeqube (65)' ellipse
+63 'A*pa*ska (jin (67)' triangle
+64 'Ase*qube (69)' ellipse
+65 'Tat*-ackade ( (70)' triangle
+66 'Te-xu-naji* ( (71)' triangle
+67 'Bi*ze*tiq$e ( (72)' triangle
+68 'Ku*-wi*xa*xa (73)' triangle
+69 'Sindewi* (Isa (74)' ellipse
+70 'Ci-be ka* (Ja (75)' triangle
+71 'G Ictama*ze (Ir (76)' triangle
+72 'A*pa*ta*ga II (78)' triangle
+73 'Pankasa* (79)' ellipse
+74 'Uc*a$in*ge (80)' triangle
+75 'Na*zei*ze (81)' ellipse
+76 'Pa$i*ma**ha* (82)' triangle
+77 'A*wega*$a (Up (83)' triangle
+78 'Sindewi* (Sar (85)' ellipse
+79 'Hectanga (Cha (86)' triangle
+80 'Na-ma*-ma*$a (87)' triangle
+81 'Ni*dawi* (88)' ellipse
+82 'Ase*qube (89)' ellipse
+83 'Oagama*$i* (J (90)' triangle
+84 'Mi*g$ita*i* (91)' ellipse
+85 'Inga#a$i* (St (92)' triangle
+86 'Ing$a-*hangac (93)' triangle
+87 'A*pa*jinga (A (94)' triangle
+88 'Na*zei*ze Bla (95)' ellipse
+89 'Mi*gaca$i* (96)' ellipse
+90 'Tasa*-bawi* R (97)' ellipse
+91 'C Teu*-ka*ha (A (99)' triangle
+92 'Waka*dagi (100)' triangle
+93 'K B$a**ti (Keep (101)' triangle
+94 'Wa*qaqada (102)' triangle
+95 'Mi*akan*da (103)' ellipse
+96 'Sesesnede (104)' triangle
+97 'A*pa* (Stephe (105)' triangle
+98 'Ma*zepewi* (106)' ellipse
+99 'Sesesnede (Ho (107)' triangle
+100 'We*b$a*aji (E (108)' triangle
+101 'Ja**i*wa$e (109)' ellipse
+102 'U*bani (Danie (110)' triangle
+103 'Pa*$i*ma**ha/ (111)' triangle
+104 'Pankaza* (112)' ellipse
+105 'Tasa*bawi* (113)' ellipse
+106 'B$a**dawi* (114)' triangle
+107 'Ni**dawi* (115)' ellipse
+108 'He*zi$in*ke (116)' triangle
+109 'Na*ze-*tiq$e (119)' ellipse
+110 'Bi*ze*tiq$e ( (120)' triangle
+111 'Ni*dawi* (121)' ellipse
+112 'Ki*baq$ag$i-d (122)' triangle
+113 'He*ctanga (Da (123)' triangle
+114 'We*-ta*-ne (124)' ellipse
+115 'Sindewi* (125)' ellipse
+116 'Jade*gi (126)' triangle
+117 'wife of 76 (127)' ellipse
+118 'Wa*ba-da**da (128)' triangle
+119 'Ictama**ze (129)' triangle
+120 'Julie (131)' ellipse
+121 'Mi*ma*ciha$i* (132)' ellipse
+122 'Tasa*bawi* Co (133)' ellipse
+123 'Ni*dawi* (136)' ellipse
+124 'Nama* ma*$a ( (137)' triangle
+125 'Maja*wi* (138)' ellipse
+126 'Kukuwi*ye (Jo (139)' triangle
+127 'Ja**i*wa$e (140)' ellipse
+128 'Na*zei*ze (141)' ellipse
+129 'Waqaqa*da* (A (142)' triangle
+130 'He*sa ta* (143)' triangle
+131 'Hasnata (144)' triangle
+132 'Na*zei*ze (145)' ellipse
+133 'Maja*wi* (147)' ellipse
+134 'no name (150)' ellipse
+135 'Ta*qtijinga (151)' triangle
+136 'no name (152)' ellipse
+137 'Pa*hi**xi (154)' ellipse
+138 'Simikasi (155)' triangle
+139 'elder bro. of (156)' triangle
+140 'Mi*gaca*$i* ( (157)' ellipse
+141 'Wacejinga (Ja (158)' triangle
+142 'Tasabawi* (Ne (159)' ellipse
+143 'no name (woul (161)' ellipse
+144 'G Gahige/Pe$a*b (162)' triangle
+145 'Mi*g$eda*wi* (163)' ellipse
+146 'no name (164)' ellipse
+147 'Phan*gama*$i* (165)' triangle
+148 'Nikahu*ta* (166)' ellipse
+149 'Mi*ta*i* Wolf (167)' ellipse
+150 'He$i*axe (Tho (168)' triangle
+151 'I*(e)u-he* Ri (169)' triangle
+152 'Uka*adia$a* S (170)' triangle
+153 'Rosalie Prime (171)' ellipse
+154 'Inikacigabi M (173)' ellipse
+155 'George Leib (174)' triangle
+156 'Ta*i*g$ihe Vi (175)' ellipse
+157 'Tehe egan Alf (176)' triangle
+158 'Ickadabi (177)' triangle
+159 'G Thomas Wood i (178)' triangle
+160 ' (180)' ellipse
+161 'no name (181)' ellipse
+162 '? Gahiqeqti Joh (182)' triangle
+163 'Mi*ma*$i* (183)' ellipse
+164 'Ta*i*q$ihe (184)' ellipse
+165 'Ase*qube (185)' ellipse
+166 'Pahiska Burns (186)' triangle
+167 'Ce$ua$ita* Be (187)' triangle
+168 'U-ga*e Amos M (188)' triangle
+169 'Mi**ta*-i* (189)' ellipse
+170 'I*nikacabi An (190)' ellipse
+171 'Mi*g$ita*i* L (191)' ellipse
+172 'Ase*qube (192)' ellipse
+173 'Badize, Na*ge (194)' triangle
+174 'Wacu*ce (Henr (195)' triangle
+175 'Mi*g$itaa*i* (196)' ellipse
+176 'He-be*-ji (Ol (197)' triangle
+177 'Pan*ka-sa* (198)' ellipse
+178 'Mi*ta*-i* (Lu (199)' ellipse
+179 'Nathan Mitche (200)' triangle
+180 'Ase*gube (Ali (201)' ellipse
+181 '^ Frank LaFlesc (202)' triangle
+182 'Teji**aba*-da (203)' triangle
+183 'Edi-a-i-naji* (204)' triangle
+184 'Mi**teqi (205)' ellipse
+185 'no name (206)' ellipse
+186 'C Wanita-waae ( (207)' triangle
+187 'Ase*qube (Fa (208)' ellipse
+188 'Temi*tegi (209)' ellipse
+189 'Hebazabaji (210)' triangle
+190 'Wa-u-aa (211)' triangle
+191 'Mi**mite (212)' ellipse
+192 'C Kida-ha-nu (G (213)' triangle
+193 'U$aqadang$e (214)' triangle
+194 'I$aqumi (Nell (215)' ellipse
+195 'A**ba$ia$i* (216)' ellipse
+196 'Ta*$i*na**ba (217)' triangle
+197 'Ma*zepewi* (E (219)' ellipse
+198 'Sika*gega (220)' triangle
+199 'Hi*ta*jinga (221)' triangle
+200 'Mi**anba$i* (222)' ellipse
+201 'G Tijebeg$a* (T (224)' triangle
+202 'A*ba$ig$i* (225)' ellipse
+203 'Ase*gube (226)' ellipse
+204 'Wanan*gewa*$e (227)' triangle
+205 'A$cehage ma*$ (228)' triangle
+206 'A$uhagema*$i* (229)' triangle
+207 'Ase*ta*ga (230)' ellipse
+208 'Ase*qube Whit (231)' ellipse
+209 'Hi*zijinga An (232)' triangle
+210 'He*a*ka*$inge (233)' triangle
+211 'Ginaji*-wa$e (235)' triangle
+212 'Edia*ina*ji* (236)' triangle
+213 'unidentified (237)' triangle
+214 'U*ni*dja*bi H (238)' triangle
+215 'Mi**aka*da (239)' ellipse
+216 'Na*iza (240)' triangle
+217 'Ta*i*g$ihe (241)' ellipse
+218 'Wabaska*ha Ro (242)' triangle
+219 'Nankene Ansle (243)' triangle
+220 'Gina*g$i Jack (244)' triangle
+221 'Mi*tegi Mary (245)' ellipse
+222 'Pude*$a Caleb (246)' triangle
+223 'Mi*ma*ciha$i* (247)' ellipse
+224 'Tenuaganaji* (248)' triangle
+225 'Ce$ug$ita* (249)' triangle
+226 'Mi*mite (250)' ellipse
+227 'G$adi**g$i$a* (251)' triangle
+228 'Wacace (252)' triangle
+229 'no name (253)' ellipse
+230 'no name (254)' ellipse
+231 'Na*ga/Wa$a*na (255)' triangle
+232 'Wada*$i*ga Ch (257)' triangle
+233 'Pe$a*ba Alber (258)' triangle
+234 'Ase*qube (259)' ellipse
+235 'Ase*qube Leam (260)' ellipse
+236 'no name (262)' triangle
+237 'father of 60 (263)' triangle
+238 'Sihi*duba (264)' triangle
+239 'Mi**ma*ciha$i (265)' ellipse
+240 'Ta*wa*jinga ( (266)' triangle
+241 'Cagena*ba/Ma* (267)' triangle
+242 'Mi*ta*i* (268)' ellipse
+243 'Sihi*duba/Wak (269)' triangle
+244 'Ta*i*$i* (270)' ellipse
+245 'Mi*mite Freem (271)' ellipse
+246 'Teaza$inge Je (272)' triangle
+247 'Qi$a*pahi Tho (273)' triangle
+248 'Wehani Robert (275)' triangle
+249 'Ma**ci-ha$i* (276)' ellipse
+250 'Ta*i*g$i-he A (277)' triangle
+251 'Wanangewa$e E (278)' triangle
+252 'Wakandakie (279)' triangle
+253 'wife of 70 (280)' ellipse
+254 'Mi*hanga (281)' ellipse
+255 'Ta*i*g$ihe Cl (283)' ellipse
+256 'no name (285)' triangle
+257 'wife of 73 (286)' ellipse
+258 'father of 73 (287)' triangle
+259 '$u*mate i**ge (288)' triangle
+260 'Ki*katanga Cu (289)' triangle
+261 'wife of 75 (290)' ellipse
+262 'Mangetanga Jo (291)' triangle
+263 'no name (292)' ellipse
+264 'Lena (293)' ellipse
+265 'Susette (294)' ellipse
+266 'Wanangowa*-$e (296)' triangle
+267 'Mi*-ja-wa Eli (297)' ellipse
+268 '$ianbati*g$e (298)' triangle
+269 'Mamie Springe (299)' ellipse
+270 'Mi**ta*i* Agn (300)' ellipse
+271 'Ug$ita* Walla (301)' triangle
+272 'Joseph Spring (302)' triangle
+273 'Mattie Spring (303)' ellipse
+274 'Fanny Springe (304)' ellipse
+275 'Sarah Springe (305)' ellipse
+276 'Na*ba*tewa$e (306)' triangle
+277 'no name (307)' ellipse
+278 'Ki*katanga Jo (308)' triangle
+279 '$uma-tanga Wi (309)' triangle
+280 'Elsie Grace P (310)' ellipse
+281 'Sika*gega Hen (311)' triangle
+282 'Ase*qube Clar (312)' ellipse
+283 'Hogan or Kawk (313)' triangle
+284 'Mi*ta*i* Etti (314)' ellipse
+285 'Uka*adig$a Le (315)' triangle
+286 'Letta Springe (316)' ellipse
+287 'Cu-i*-na* Cha (317)' triangle
+288 'Erwin Springe (318)' triangle
+289 'Mary Srpinger (319)' ellipse
+290 'Elsie Springe (320)' ellipse
+291 'Gia*ze$in*ge (321)' triangle
+292 'no name (322)' ellipse
+293 'Pankawi* (323)' ellipse
+294 'Ma**e*-gahi B (324)' triangle
+295 'Ta*i*g$ihe (325)' ellipse
+296 'Ta*i*g$ihe (326)' ellipse
+297 'Mi**ta*i* Har (327)' ellipse
+298 'Mi**anbaki* (328)' ellipse
+299 'no name (329)' ellipse
+300 'Mazikido (=Ma (330)' triangle
+301 'Ase*qube (331)' ellipse
+302 'Si$edejingahk (332)' triangle
+303 'Uni*djabe Jos (333)' triangle
+304 'Mi*ma*ciha$i (334)' ellipse
+305 'Mi*g$ita*i* (335)' ellipse
+306 'Inika*ci*gabi (337)' ellipse
+307 'Na*iza David (338)' triangle
+308 'Ase*qube Magg (339)' ellipse
+309 'Mi*mite Mary (340)' ellipse
+310 'Cagena*ba Alb (341)' triangle
+311 'Sika*gega Fre (342)' triangle
+312 'Niuba$ide Cha (344)' triangle
+313 'Wabakanga Sam (345)' triangle
+314 'Wanange wa*-$ (346)' triangle
+315 'Cagena*ba Alf (347)' triangle
+316 'Ta*wa*jinga P (348)' triangle
+317 'Cu-i*-na* Fre (349)' triangle
+318 'Tesa**janga W (350)' triangle
+319 'Mi*g$ada*wi* (351)' ellipse
+320 'Father of 116 (352)' triangle
+321 'Heba*ju Arthu (353)' triangle
+322 'Weta*ne (354)' ellipse
+323 'Ta-the-ge (355)' ellipse
+324 'Inikaci*gabi (356)' ellipse
+325 'Mi*g$ita*i* (357)' ellipse
+326 'Teang$ickema* (358)' triangle
+327 'Ase*qube (359)' ellipse
+328 'Ma**a*gata (360)' triangle
+329 'Mi**mite Hele (361)' ellipse
+330 'Tenuaqana*-ji (362)' triangle
+331 'Nan*ke$a*be (363)' triangle
+332 'Ta*i*g$ihe (364)' ellipse
+333 'Mi*ta*i* (365)' ellipse
+334 'He*beni*ka (366)' triangle
+335 'Haga namba (367)' triangle
+336 'Waka*tu (368)' triangle
+337 'father of 127 (369)' triangle
+338 'Hi*t*a*jinga (370)' triangle
+339 'father of 1 (371)' triangle
+340 'wife of 1 (372)' ellipse
+341 'Zizikajinga S (373)' triangle
+342 'wife of 2, no (374)' ellipse
+343 'Ictapede (376)' triangle
+344 'Mi**g$ita*i* (377)' ellipse
+345 'Mi*mite (378)' ellipse
+346 'Ictapede (379)' triangle
+347 'Ta*i*g$ihe (380)' ellipse
+348 'no name (381)' triangle
+349 'fa of 8 (382)' triangle
+350 'wife of 8 (383)' ellipse
+351 'Inkedecuga (384)' triangle
+352 ' (385)' ellipse
+353 'Quga  Asa Lov (386)' triangle
+354 'Mi**mite (388)' ellipse
+355 'Hi*t*a*jinga (390)' triangle
+356 'Wa-ke-da-ah-g (392)' triangle
+357 'Sika*gega Pau (393)' triangle
+358 'Mia*ba$i* (394)' ellipse
+359 'Heba*ju Davis (395)' triangle
+360 'Mi**g$ita*i* (396)' ellipse
+361 'Cage*cuge (397)' triangle
+362 'Mi**mi-te Irw (398)' ellipse
+363 'no name (399)' triangle
+364 'Wa$utata* Sam (400)' triangle
+365 'Ta$azapa (401)' triangle
+366 'fa of 18 (402)' triangle
+367 'name unknown (403)' ellipse
+368 'He*ba*ju Char (405)' triangle
+369 'no name (406)' ellipse
+370 'Mi*a*ba$i* Ma (408)' ellipse
+371 'Qi$a*nika (409)' triangle
+372 'Ase*qube (410)' ellipse
+373 'Sig$unange Mo (411)' triangle
+374 'Mi*ta*i*/Mi*m (412)' ellipse
+375 'Ta**wa*jinga (413)' triangle
+376 'Temi*teqi (414)' ellipse
+377 'G$adi*q$i$a* (415)' triangle
+378 'Ta*i*g$ihe (416)' ellipse
+379 'He*baju (417)' triangle
+380 'Ase*qube (418)' ellipse
+381 'Wa$ihi (419)' triangle
+382 'Teji**aba*da* (420)' triangle
+383 'He*ba*ja (422)' triangle
+384 'Ta*i*g$ihe/Mi (423)' ellipse
+385 'Qi$apahi (424)' triangle
+386 'Mi*mite (425)' ellipse
+387 'Waji**hanga F (426)' triangle
+388 'no name (427)' ellipse
+389 'Mi**mite Furn (428)' ellipse
+390 'Heqa*gaska (429)' triangle
+391 'Heqagajinga (430)' triangle
+392 'L Jingagahige O (431)' triangle
+393 'Ase*qube (432)' ellipse
+394 'Mi**jawa (433)' ellipse
+395 'no name (434)' triangle
+396 'wife of 1, no (435)' ellipse
+397 'Gackawange$e (436)' triangle
+398 'wife of 2 (437)' ellipse
+399 'Mi**g$ita*i* (438)' ellipse
+400 'Stephen Guite (439)' triangle
+401 'Ta**i*g$ihe (440)' ellipse
+402 'name unknown (442)' triangle
+403 'fa of 1 (443)' triangle
+404 'wife of 1 (444)' ellipse
+405 'B Ma*zeguhe (Ch (445)' triangle
+406 'name unknown (446)' ellipse
+407 'name unknown (447)' ellipse
+408 '$ezesabe Colu (448)' triangle
+409 'Ginaji*-wa$e (451)' triangle
+410 'Mi*g$eda*wi* (452)' ellipse
+411 'Tesa**wi* (453)' ellipse
+412 'Mi*husa (454)' ellipse
+413 'Mi*g$eda*wi* (455)' ellipse
+414 'Mi*g$eda*wi* (456)' ellipse
+415 'Mi*ma*ciha$i* (457)' ellipse
+416 'Tewa*ke*naji* (459)' triangle
+417 'Eva Grant (460)' ellipse
+418 'Fay Mrtin (461)' ellipse
+419 'Mary McCauley (462)' ellipse
+420 'Mi*te*qe Alic (463)' ellipse
+421 'Kima*ha* (464)' triangle
+422 'Edita* (465)' triangle
+423 'Naqe*taji (466)' triangle
+424 'Ta*i*g$ihe (467)' ellipse
+425 'Hi*gega (Litt (468)' triangle
+426 'Nuga Alfred M (469)' triangle
+427 'Niagiwa$e (470)' ellipse
+428 'Miahstasta Ju (472)' ellipse
+429 'Mi*te*qi (473)' ellipse
+430 'Weta*ni* (474)' ellipse
+431 'Walking Horse (475)' triangle
+432 'Gi-w*-ka Char (476)' triangle
+433 'Mi*te*gi Mari (478)' ellipse
+434 'Weta*i* Lucy (479)' ellipse
+435 'Wate*-qi Isaa (480)' triangle
+436 'Ma-ge-ne-moni (481)' triangle
+437 'Mi*huza (482)' ellipse
+438 'Mi*ma*ciha$i* (483)' ellipse
+439 'Macti**ce*sa* (484)' triangle
+440 'G$edama*$i* G (486)' triangle
+441 'U$ixide Owen (487)' triangle
+442 'Mi*husa Maud (488)' ellipse
+443 'Mi*ma*ciha$i* (489)' ellipse
+444 'I*deub$i* Sim (490)' triangle
+445 'Nagetaji (491)' triangle
+446 'Ta*i*g$ihe (492)' ellipse
+447 'Mochazhe "las (493)' triangle
+448 'Pam-on-gra-zh (494)' triangle
+449 'Hi*zijinga (L (495)' triangle
+450 'name unknown (496)' ellipse
+451 'Q Wa*qu-pa*g$a* (498)' triangle
+452 'G Du-bama*$i* H (499)' triangle
+453 'Mi*husa (500)' ellipse
+454 'Ni*dawi* Anni (501)' ellipse
+455 'fa of 37a (502)' triangle
+456 'Br of 37a (503)' triangle
+457 'Nia*ba$i* Rys (504)' triangle
+458 'Na*ze*i*ze Ed (505)' ellipse
+459 'name unkown (506)' ellipse
+460 'Mi**ma*ciha$i (507)' ellipse
+461 'Tade*ta* Thom (508)' triangle
+462 'Josephine Fon (509)' ellipse
+463 'Ta*i*g$ihe Ma (510)' ellipse
+464 'Na*cke*g$e Al (511)' triangle
+465 'Laura McCaule (512)' ellipse
+466 'Janette McCau (513)' ellipse
+467 'Alice McCaule (514)' ellipse
+468 'Baza*nange i* (515)' triangle
+469 'Ta*i*$i* (516)' ellipse
+470 'name unknown (517)' triangle
+471 'Ha**ma*$i jin (518)' triangle
+472 'wife of 48 (519)' ellipse
+473 'Mi*teqi Parke (520)' ellipse
+474 'U$ica*ma*$i*i (522)' triangle
+475 'U$ica*ma*$i*i (524)' triangle
+476 'Be-tce Betsy (525)' ellipse
+477 'name not give (526)' ellipse
+478 'Panerhaunaji* (527)' triangle
+479 'Mi*-hu-sa Cha (528)' ellipse
+480 'Bazanangejing (532)' triangle
+481 'Mi*teqi Dick (534)' ellipse
+482 'Charles Dick (535)' triangle
+483 'Tade*ta* Howa (536)' triangle
+484 'Mi*g$eda*wi* (537)' ellipse
+485 'Mi*-ha-sa (558)' ellipse
+486 'Mi*ha-sa (559)' ellipse
+487 'Mi**maciha*ci (560)' ellipse
+488 'Mi*gacan$i* (561)' ellipse
+489 'G Gahigewacace (562)' triangle
+490 'Mathe-ke Char (563)' triangle
+491 'wife of 62 (564)' ellipse
+492 'fa of 62 (565)' triangle
+493 'Mi*gaca**$i* (566)' ellipse
+494 'Na*ji*$ia Les (567)' triangle
+495 'U$ixide Warre (569)' triangle
+496 'Mi*te*ai (570)' ellipse
+497 'Lizzie Leib (571)' ellipse
+498 'John Leib (572)' triangle
+499 'Annie Leib (573)' ellipse
+500 'Andrew (Antoi (574)' triangle
+501 'Silas Leib (575)' triangle
+502 'George Leib (576)' triangle
+503 'Arthur Leib (577)' triangle
+504 'Julia Wright (578)' ellipse
+505 'I*ingobi Dani (579)' triangle
+506 'Larry James H (580)' triangle
+507 'Etta Hogan (581)' ellipse
+508 'Emily Guiteau (582)' ellipse
+509 'Lucy Guiteau (583)' ellipse
+510 'Henry Guiteau (584)' triangle
+511 'Frank Guiteau (585)' triangle
+512 'Charles Guite (586)' triangle
+513 'Hu$ainde (587)' ellipse
+514 'no name (589)' ellipse
+515 'name unkown (590)' ellipse
+516 'Camgesha husb (591)' triangle
+517 'no name (592)' ellipse
+518 'U*ckodaji (593)' triangle
+519 'Mi*mite (594)' ellipse
+520 'Hejata (595)' triangle
+521 'Mia*ba$i* Ree (596)' ellipse
+522 'Waa** (597)' triangle
+523 'no name (598)' ellipse
+524 'Mahinze (599)' triangle
+525 'Tewa*u (600)' ellipse
+526 'Mahi*ze (601)' triangle
+527 'Ta$ozapa Fred (602)' triangle
+528 'Mi*a*ba$i (603)' ellipse
+529 'William Cayea (604)' triangle
+530 'Francis Mitch (605)' triangle
+531 'Louise Adelin (606)' ellipse
+532 'Lee Cayeau (607)' triangle
+533 'Mi*a*ba$i* Ha (608)' ellipse
+534 'Waceta*jinga (609)' triangle
+535 'Mi*gi-na* Har (610)' ellipse
+536 'Tewa*u (611)' ellipse
+537 'Mi**da*abi (613)' ellipse
+538 'no name (615)' ellipse
+539 'Mi*mite Walke (617)' ellipse
+540 'Tenugajinga B (618)' triangle
+541 'Mi*g$ita (619)' ellipse
+542 'Maca*ska (620)' triangle
+543 'Mi*g$ita*i* M (621)' ellipse
+544 'Temi*teqi Jen (623)' ellipse
+545 'Mi*g$ca*$i* C (624)' ellipse
+546 'Tewa*u Watson (625)' ellipse
+547 'Wasugia* (626)' triangle
+548 'P Tenuga na*pew (627)' triangle
+549 'wife of 1  Te (628)' ellipse
+550 'Kiche fa of 1 (629)' triangle
+551 'U$ucinaji* (630)' triangle
+552 'W Kaxe$a*ba (632)' triangle
+553 'no name (635)' ellipse
+554 'Mi**wasa* Mor (636)' ellipse
+555 '? Qi$agahige Ge (637)' triangle
+556 'Ga*i*baji Wal (638)' triangle
+557 'U$ucinaji* (640)' triangle
+558 'Teba*gije Art (642)' triangle
+559 'Cange Charles (643)' triangle
+560 'Gray Buffalo (644)' triangle
+561 'Icta Ma*zewi* (645)' ellipse
+562 'Mi**gaca**$i* (646)' ellipse
+563 'U$a*gae (648)' triangle
+564 'Kaxegi*a* (649)' triangle
+565 'Te*huta**bi G (652)' triangle
+566 'Pankawi* (653)' ellipse
+567 'Pankasa** Fox (654)' ellipse
+568 'A*geda Thomas (655)' triangle
+569 'Bad Stable (656)' triangle
+570 'Mi**gaca**$i* (657)' ellipse
+571 'Cukama*$i* Be (658)' triangle
+572 'Nia-dictagabi (660)' triangle
+573 'Nank*e$a**be (662)' triangle
+574 'Mi**wasa** (663)' ellipse
+575 'Ga*i*-baji (664)' triangle
+576 'Miag$ita*i* (665)' ellipse
+577 'O-na-he-zhing (666)' triangle
+578 'Tesandabi (667)' ellipse
+579 'Tehug$abe Dav (669)' triangle
+580 'Te Sa*wi* (671)' ellipse
+581 'Mig$ita*i* (672)' ellipse
+582 'Mi**mite (673)' ellipse
+583 'Mi**gaca**$i* (674)' ellipse
+584 'Mi**gaca**$i* (675)' ellipse
+585 'Mi*mite Lucy (677)' ellipse
+586 'Ma*zeda* Hora (678)' triangle
+587 'Tesa**wi* (679)' ellipse
+588 '? Gahigewada$in (680)' triangle
+589 'Ma**peji Eddi (681)' triangle
+590 'Mi*xa*ta* Hen (682)' triangle
+591 'Mi**mite Jane (683)' ellipse
+592 'Tesa**wi* Min (686)' ellipse
+593 'Ucka**bitega (688)' triangle
+594 'Ictabasude (691)' triangle
+595 'Te*huta**bi H (692)' triangle
+596 'Icta*ma*zewi* (693)' ellipse
+597 'Nan-ban-the-d (694)' triangle
+598 'Pa**ge Artich (695)' triangle
+599 'Caa** Silas M (696)' triangle
+600 'Na*ze*inze Sa (697)' ellipse
+601 'Mary Hewitt S (699)' ellipse
+602 'U$u$ingji* (700)' triangle
+603 'Bicu*deke* Ar (701)' triangle
+604 'Mi*hupe*g$i N (702)' ellipse
+605 'son of 48 & 4 (703)' triangle
+606 'E$a*$a*be Hen (704)' triangle
+607 'Cude na*zi (705)' triangle
+608 'Mi*mite (706)' ellipse
+609 'Mi**gaca*$i* (707)' ellipse
+610 'Kicke (I) (708)' triangle
+611 '^ Nacti the Pon (709)' ellipse
+612 'Tesinde gens (710)' ellipse
+613 'Tesan*dabi (711)' ellipse
+614 'Wa$ixage (713)' triangle
+615 'no name/no ge (714)' ellipse
+616 ' (715)' ellipse
+617 'Wanaceki$abi (716)' triangle
+618 'no name, Wasa (717)' ellipse
+619 'Kicke (II) Em (718)' triangle
+620 'A*a wi* (719)' ellipse
+621 'Mi*ma*-ciha$i (720)' ellipse
+622 'Mi*-mite Laur (721)' ellipse
+623 'Qi$agaxe Harr (722)' triangle
+624 'Tesandabi Agg (723)' ellipse
+625 'Ictaxi Willie (724)' triangle
+626 'Mi*gaca*$i* (725)' triangle
+627 'Ma*tcupa Will (726)' triangle
+628 'Mi*ma*ziha$i* (727)' ellipse
+629 'Mi*g$ita*i* (728)' ellipse
+630 'Igada*$a (729)' triangle
+631 'Tesandabe (730)' ellipse
+632 'G Ma*tcana*ba R (731)' triangle
+633 'Ni*dawi* (733)' ellipse
+634 'G Mactcinge Jes (734)' triangle
+635 'Ma*zepewi* (735)' ellipse
+636 'Mi*wasa* (736)' ellipse
+637 'Mi*gaca*$i* (738)' ellipse
+638 'E*$a*$a**be (739)' triangle
+639 'Te*huta*bi Ja (740)' triangle
+640 'Tesa*dabi Agg (741)' ellipse
+641 'Can*gewa*ji*p (742)' triangle
+642 'Pahi* ska (743)' triangle
+643 'Acawage (=Ten (744)' triangle
+644 'Te*huta*bi (745)' triangle
+645 'Mi*g$ita*i* N (746)' ellipse
+646 'K Tenuga Edward (749)' triangle
+647 'Ma*tca*na*tid (751)' triangle
+648 'Cu*de na zi (752)' triangle
+649 'Nika$ige Sijm (753)' triangle
+650 'no name (754)' ellipse
+651 'Mi*a*ba$i* (755)' ellipse
+652 'Tesa*wi* (756)' ellipse
+653 'Na-da-hunga (758)' triangle
+654 'Mi*mite (759)' ellipse
+655 'Uma*hajinga (760)' triangle
+656 'Ictama*zewi* (761)' ellipse
+657 'Q Cu*denazi (Sm (763)' triangle
+658 'PKTeha**ma*ci* (764)' triangle
+659 'Inga$anjinga (766)' triangle
+660 'PKGahige 1847-7 (767)' triangle
+661 'U$e*amea*$i* (768)' ellipse
+662 'Q?fa of 1 & 3 s (769)' triangle
+663 'Wihejinga (770)' ellipse
+664 'We*naxi$a Abr (772)' triangle
+665 'no name (773)' ellipse
+666 'Nan*gaji Lewi (774)' triangle
+667 'G$eda**wi* (775)' ellipse
+668 'Uma**ag$ih Sa (776)' ellipse
+669 'Weta*be$i* El (777)' ellipse
+670 'Hemudabe Rich (778)' triangle
+671 'Mi*b$i*wi* (779)' ellipse
+672 'I*tcanga$a Ed (780)' triangle
+673 'Pankasa* (781)' ellipse
+674 'Nikada*$i* (782)' triangle
+675 'no name (783)' triangle
+676 'Teje*b$a* Wil (785)' triangle
+677 'Mi*g$ita*i* (786)' ellipse
+678 '$igi*se Paul (787)' triangle
+679 'Nanzegita* Sa (788)' ellipse
+680 'Gazube Fanny (789)' ellipse
+681 'Kagejinga Sam (792)' triangle
+682 'Na*cta*aji Ch (793)' triangle
+683 'Sha*gehanga H (794)' triangle
+684 'Nanzegita* Fa (795)' ellipse
+685 'U$u$inaji* Th (796)' triangle
+686 'Mi*akanda (797)' ellipse
+687 'Nekahananaa (798)' triangle
+688 'H*akige or Na (799)' triangle
+689 'no name (800)' ellipse
+690 'Ha*gagti (Tho (801)' triangle
+691 '^ Susette 1/2 w (802)' ellipse
+692 'Ta*i*$el (803)' ellipse
+693 'Nikada*$i* Ed (804)' triangle
+694 'We*sa*ki$i Ka (805)' ellipse
+695 'Mi*ma*ciha$i* (806)' ellipse
+696 'Ukipata* Henr (807)' triangle
+697 'Wa*ci*u*ne (808)' triangle
+698 'C*abenaji* Lu (809)' triangle
+699 'Ta*i*g$ike (810)' ellipse
+700 'Mi*gaca*$i* (811)' ellipse
+701 'Mi*g$ita*i* (812)' ellipse
+702 'Mi*ma*ciha$i* (813)' ellipse
+703 'Haoshaneda (814)' triangle
+704 'Haashadabega (815)' triangle
+705 'Seven in Wate (816)' triangle
+706 'Na*cta*aji (817)' triangle
+707 'Ta*i*$i* (818)' ellipse
+708 'fa of 19,32 (819)' triangle
+709 'mo of 19,32 (820)' ellipse
+710 'Nie*wagaxe Jo (821)' triangle
+711 'Mi*tena (822)' triangle
+712 'Mi*daca*$i* M (823)' ellipse
+713 'Mi*ma*ciha$i* (825)' ellipse
+714 'Mangejide (826)' triangle
+715 'Wakanga-ctage (827)' triangle
+716 'Agahawacuce ( (829)' triangle
+717 'no name (830)' ellipse
+718 'W Pa$i*na*paji (831)' triangle
+719 'Na*qtise*wi (832)' ellipse
+720 'Mi**g$eda**wi (833)' ellipse
+721 'Ma*cka-gaxc ( (834)' triangle
+722 'Ni**da-ha* Ph (835)' triangle
+723 'Wasabejixga E (837)' triangle
+724 'Kuwi*xeg$i$a (838)' triangle
+725 'Da**abi (F1:1 (839)' ellipse
+726 'Mary Stabler (840)' ellipse
+727 'Ta*i*gina* (841)' ellipse
+728 'Wata*i* (843)' triangle
+729 'Mi*ta**i*gi (844)' ellipse
+730 'Kaxe*-kati$i (845)' triangle
+731 'Da**abi (F1:1 (846)' ellipse
+732 'Sida*ma*$i* (847)' triangle
+733 'no name (848)' ellipse
+734 'Da*ama (849)' ellipse
+735 'Da**ama (F1:1 (850)' ellipse
+736 'Indenanba (852)' triangle
+737 'Mikasina*zi L (853)' triangle
+738 'no name (854)' ellipse
+739 'Waweq*a (Laug (855)' triangle
+740 'Tesa*wi* (856)' ellipse
+741 'Sida*ma*$i* ( (857)' triangle
+742 'fa of 20,22 (858)' triangle
+743 'mo of 20,22 (859)' ellipse
+744 'wife of 20 (860)' ellipse
+745 '$atawi*sa* Es (861)' ellipse
+746 'Cka**caka*ti$ (862)' triangle
+747 'Sin*desa*tiq$ (863)' triangle
+748 'G Niu*qacude Be (864)' triangle
+749 'no name (865)' triangle
+750 'no name (866)' ellipse
+751 'Mawa*da*$i* (867)' triangle
+752 'Mi**ta**i*ge (869)' ellipse
+753 'Nib$a*ska Alf (870)' triangle
+754 'Ku*wi*xeg$i$a (871)' triangle
+755 'We*tewi* Dora (872)' ellipse
+756 'Wagi*ace Luke (873)' triangle
+757 'Na*be*qadabi (874)' triangle
+758 'Da*ama Mary M (875)' ellipse
+759 'Ta**wa*peji U (876)' triangle
+760 'Maja*wi* Lucy (877)' ellipse
+761 'Ta**i*gina (N (878)' ellipse
+762 'Da**abi (F1:1 (879)' ellipse
+763 'Wata*i* Edwar (880)' triangle
+764 'Mi**hupe*g$i* (881)' ellipse
+765 '$a*tawesa* (882)' ellipse
+766 'Hu*pe$a i*c*a (883)' triangle
+767 'Adita (884)' triangle
+768 'Hupe$a George (885)' triangle
+769 'no name Inkes (886)' ellipse
+770 'no name Icta (887)' ellipse
+771 'Pankawi* (888)' ellipse
+772 '^ Julie, 1/2 Ot (889)' ellipse
+773 '"A French Wom (890)' ellipse
+774 'Wawe*ga Georg (891)' triangle
+775 'Waesheahne (892)' ellipse
+776 'Mita*i*gi Ree (893)' ellipse
+777 'Ma*a*jinga Ch (894)' triangle
+778 'Mi**hupeg$i N (895)' ellipse
+779 'Arthur Solomo (896)' triangle
+780 'no name (897)' triangle
+781 'no name T.S. (898)' ellipse
+782 'Ma*ajinga Alb (899)' triangle
+783 'Na*ze*i*ze Wo (902)' ellipse
+784 'Mac*awakude R (903)' triangle
+785 'Mina*dabi Jos (904)' ellipse
+786 'Inkewacuce Ja (905)' triangle
+787 'Waji**ga (Waj (906)' triangle
+788 'no name (907)' triangle
+789 'Was*abe (908)' triangle
+790 'no name (909)' ellipse
+791 'We*te wi* Fro (910)' ellipse
+792 'Waba*hi Allen (912)' triangle
+793 'P no name ?Buff (913)' triangle
+794 'no name Ictas (914)' ellipse
+795 'Ca*jinga Hora (915)' triangle
+796 'Mange-jinge (918)' triangle
+797 'Mi**ta**i*gi (919)' ellipse
+798 'Ni**dewi* (922)' ellipse
+799 'Nangema*$i* C (923)' triangle
+800 'Mi*xa*ska Phi (924)' triangle
+801 'Alice Cline (925)' ellipse
+802 'Spotted Frog (926)' triangle
+803 'T Te* $iti* Tho (927)' triangle
+804 'Nan*gejinga (929)' triangle
+805 'Pa*nuhu anaji (930)' triangle
+806 'no name Ictas (931)' ellipse
+807 'no name Tapa (932)' ellipse
+808 'no name I.W.5 (933)' ellipse
+809 'Giha*ji Samue (934)' triangle
+810 'Ni**dawi* Cle (935)' triangle
+811 'Mina*dabi Fan (936)' ellipse
+812 'Ma*$i*uke Luk (937)' triangle
+813 'Ketanga (939)' triangle
+814 'Ni**dawi* (My (940)' ellipse
+815 'Ma**cka a*xe (941)' triangle
+816 'Githika**bi ( (942)' triangle
+817 'Icta*dubai*c* (943)' triangle
+818 'no name (944)' ellipse
+819 'Wasabejinga H (946)' triangle
+820 'Ta*i*$i* Ict. (947)' ellipse
+821 'We*tewi* (Vic (948)' ellipse
+822 'Cuina* (949)' triangle
+823 'Ni*daha* (Myt (950)' triangle
+824 'G Na*pabi (Fear (951)' triangle
+825 'Qi$awahi Joel (952)' triangle
+826 'Na*zei*ze Hel (953)' ellipse
+827 'Tikaha*da (954)' triangle
+828 'Hebawahi (955)' triangle
+829 '$atawi*sa* (956)' ellipse
+830 'no name (958)' triangle
+831 'Gada*ka (F1:1 (959)' triangle
+832 'no name Ictas (960)' ellipse
+833 'Ku*jiha ma*$i (961)' triangle
+834 'Tanga*gaxe (S (962)' triangle
+835 'Maja*wi* Brow (963)' ellipse
+836 'Na Ma* ma*$a (964)' triangle
+837 'Ka*xepa Cyrus (965)' triangle
+838 'Si*qude somet (967)' triangle
+839 'no name (969)' ellipse
+840 'Ke a**haj (970)' ellipse
+841 'Ma**jinga Ruf (971)' triangle
+842 'Na*ze i*ze (972)' ellipse
+843 'no name (973)' triangle
+844 'no name (974)' triangle
+845 'Maqpiyaqaga J (975)' triangle
+846 'Mi**mitega So (976)' ellipse
+847 'Pankasa* T.S. (977)' ellipse
+848 'Wa$awajig$e J (978)' triangle
+849 'Wetewi* Eliza (979)' ellipse
+850 'Da*ama (Jane (981)' ellipse
+851 'Hacima*$i* Ic (982)' triangle
+852 'U Cangeska (Mad (984)' triangle
+853 'no name (986)' ellipse
+854 'no name (988)' ellipse
+855 'Camugahi II I (989)' triangle
+856 'We*ta*-ne (990)' ellipse
+857 'Hacima*$i* Ic (991)' triangle
+858 'Danabi (992)' ellipse
+859 'Tatansa David (993)' triangle
+860 'W Gia**habi i*c (994)' triangle
+861 'no name Ict.W (995)' ellipse
+862 'Macadi$i*  Ch (996)' ellipse
+863 'Wackanma*$i* (997)' triangle
+864 'Mi*daca**$i* (999)' ellipse
+865 'Waqpeca Jacks (1000)' triangle
+866 '$atawi**sa* E (1001)' ellipse
+867 'Nugajinga Isa (1003)' triangle
+868 'M Uma*ha*ta*wa* (1004)' triangle
+869 'Qa-ema*$i* (1006)' triangle
+870 'U-*e$atce (1007)' triangle
+871 'Mi**tena (1008)' ellipse
+872 'Wata**i* (1009)' triangle
+873 'Mijinga (1010)' ellipse
+874 'Mon-gthe-ta-s (1011)' triangle
+875 'no name (1012)' ellipse
+876 'We*ta*-ne (1013)' ellipse
+877 'Utahi (1014)' triangle
+878 'Wate*wi* M.N. (1015)' ellipse
+879 'M Ha*a*kipa Wil (1016)' triangle
+880 'Ta*i*gina* Ic (1017)' ellipse
+881 'Naji**ma**$i* (1019)' triangle
+882 'A*higega Hube (1020)' triangle
+883 '$atawi*sa* Su (1021)' ellipse
+884 'G Tesa* (Second (1022)' triangle
+885 'no name Tesin (1023)' ellipse
+886 'no name Tapa (1024)' ellipse
+887 'G G$eda*naji* ( (1025)' triangle
+888 'no name (1026)' ellipse
+889 'Ponkasa* Tapa (1028)' ellipse
+890 'Zizikawate Ic (1029)' ellipse
+891 'Giqpe*axe (1030)' ellipse
+892 'G Wanukige i*ca (1031)' triangle
+893 'Mi*kae*jinga (1032)' triangle
+894 'Tenugagahi Jo (1033)' triangle
+895 '^ no name Ponka (1034)' ellipse
+896 'Mi**daca*$i* (1035)' ellipse
+897 'A*hi*ji*de Ja (1037)' triangle
+898 'Ma*cadi$i Ict (1038)' ellipse
+899 'Ab$ujide (1039)' triangle
+900 'Ta*i*g$ihe (1040)' ellipse
+901 'Tawa* $i*gi B (1042)' triangle
+902 'Ta*i*g$i*he (1043)' ellipse
+903 'no name (1044)' ellipse
+904 'no name (1045)' ellipse
+905 'G Wahaxi Ict.W. (1046)' triangle
+906 'P Pe*dega*hi Jo (1047)' triangle
+907 'no name Inkes (1049)' ellipse
+908 'A*ba$ag$i* Ic (1050)' ellipse
+909 'Ta*i*g$ihe (1051)' ellipse
+910 'W Ka*zchanga He (1052)' triangle
+911 'Mi*tena (1053)' ellipse
+912 'Mi*daca**$i* (1055)' ellipse
+913 'Mi**tena Ruth (1057)' ellipse
+914 'Giqpe*caxe (1058)' ellipse
+915 'A*hi*qwga Geo (1059)' triangle
+916 'Ta*i*g$ihe Mi (1060)' ellipse
+917 'no name (1062)' triangle
+918 'U*ha*$in**ge (1063)' triangle
+919 'no name, no g (1064)' ellipse
+920 '^ no name, no g (1065)' ellipse
+921 'Ta*i*g$ihe Ca (1066)' ellipse
+922 '^ Waha*xi (Ponk (1067)' triangle
+923 'Icta*baca**ca (1068)' triangle
+924 'Gia*habi Theo (1069)' triangle
+925 '^ no name Ponka (1070)' ellipse
+926 'Mi*daca*$i* M (1073)' ellipse
+927 'Ke$ihi James (1074)' triangle
+928 'Ta*i*g$ihe El (1075)' ellipse
+929 'Mi*a*ba$i* Ja (1076)' ellipse
+930 'Gamo**qpi (Wi (1077)' triangle
+931 'Mi*tena Susan (1078)' ellipse
+932 'C Wa$i*daxe (Ge (1079)' triangle
+933 'Mi*b$i*wi* (1080)' ellipse
+934 'Jideta* John (1081)' triangle
+935 'Mi*tena (1082)' ellipse
+936 'Ke$ihi Josiah (1084)' triangle
+937 'U$eama**$i* T (1085)' ellipse
+938 'Mi**g$ita*i* (1086)' ellipse
+939 'Tigna**p*i* G (1087)' triangle
+940 'Mi*ma*ciha$i* (1088)' ellipse
+941 'Uhaki (Uha*hi (1089)' triangle
+942 'Ahi*shede Mud (1090)' triangle
+943 'wife of 54 (1091)' ellipse
+944 '$atadawi* Kee (1092)' ellipse
+945 'Hemu*snade Wi (1093)' triangle
+946 'Ni$a*ctage (1094)' triangle
+947 'Gedaabe Webst (1095)' ellipse
+948 'He*ka$a* Davi (1096)' triangle
+949 'Ta*i*gina* We (1097)' ellipse
+950 'Ta*i*g$ihe Ma (1098)' ellipse
+951 'Tawain*ge Rob (1099)' triangle
+952 'Na*ji**ma**$i (1100)' triangle
+953 'Wiheta*ga (1101)' ellipse
+954 'Meahbawe (1102)' triangle
+955 'Mi*-gaca**$i (1103)' ellipse
+956 'S Nuda**hanga ( (1104)' triangle
+957 'fa of 53,63,5 (1105)' triangle
+958 'mo of 53,63,5 (1106)' ellipse
+959 'W A*gahama**$i* (1107)' triangle
+960 'Pan*kasa* Tap (1108)' ellipse
+961 'no name (1109)' triangle
+962 'Ta*gtijinga (1110)' triangle
+963 'no name Weji* (1111)' ellipse
+964 'Mi*daca*$i* B (1112)' ellipse
+965 'Wabahizi Hira (1113)' triangle
+966 'P Na*be*duba (P (1114)' triangle
+967 '^ no name Ponka (1115)' ellipse
+968 'Rosalie Dorio (1116)' ellipse
+969 'Ji*da*ha*$i* (1117)' triangle
+970 'Ta*i*gina* Ic (1118)' ellipse
+971 'no name (1119)' ellipse
+972 'A*ba$aa*g$i* (1120)' ellipse
+973 'Mi**a*ba$i* I (1121)' ellipse
+974 'Ma**ciha$i* E (1122)' ellipse
+975 'Pazi Thomas W (1123)' triangle
+976 'Tawa*-ingo (1124)' triangle
+977 'Tea**nie-mi*z (1125)' triangle
+978 '$a*tawi*sa* (1126)' ellipse
+979 'Wata*i* (1127)' ellipse
+980 'Mi**-gaca**$i (1128)' ellipse
+981 'Emma (1129)' ellipse
+982 'Tigina*p*i* G (1130)' triangle
+983 'Macadi$i* Ict (1131)' ellipse
+984 'A*hi*jide Alf (1133)' triangle
+985 'Cujinga Alber (1134)' triangle
+986 'Mag$iq*ta-ska (1135)' triangle
+987 'Giqpe*axe (1136)' ellipse
+988 'Min*akanda Em (1137)' ellipse
+989 'Muda Pidai*ga (1138)' triangle
+990 'Mi**g$aita*i* (1140)' ellipse
+991 'Ahi*snede (1141)' ellipse
+992 'Ma*ciha*$i* M (1142)' ellipse
+993 'Ma*g$i-gta Ch (1143)' triangle
+994 '$utawisa* (1144)' ellipse
+995 'Wiheta*ga Els (1145)' ellipse
+996 'Ta*i*g$i*he M (1146)' ellipse
+997 'Naji**ma**$i* (1147)' triangle
+998 '$a*tawi*sa* E (1148)' ellipse
+999 'Ma*ciha*$i* H (1149)' ellipse
+1000 'Wa*qanaji* T. (1150)' triangle
+1001 'Na*bama*$i*,s (1151)' triangle
+1002 'Nikanji**ha P (1152)' ellipse
+1003 'Na*beduba, Jr (1153)' triangle
+1004 'Pan*kasa* Tap (1154)' ellipse
+1005 'Ma*ciha$in (1155)' ellipse
+1006 'Mi*daca*$i* (1157)' ellipse
+1007 'Mi*tena* Etta (1158)' ellipse
+1008 'Wa$idaxe Noah (1160)' triangle
+1009 'Wata*i* (1161)' triangle
+1010 'Itga*na*pi* G (1162)' triangle
+1011 'Mi**a*ba*$i* (1163)' ellipse
+1012 'Kucala Rousse (1164)' triangle
+1013 'Mary Pepin (1167)' ellipse
+1014 'Susanne Pepin (1168)' ellipse
+1015 'Charles Pepin (1169)' triangle
+1016 'No men dae (p (1170)' triangle
+1017 'He*ka$a* Jame (1171)' triangle
+1018 'Mi**sebe Tes. (1172)' ellipse
+1019 'Mi**aka*da He (1173)' ellipse
+1020 'Na**nonde (1174)' triangle
+1021 'Nai**mo*$i* T (1175)' triangle
+1022 'Giqpe*axe (1176)' ellipse
+1023 'Mi*daca*$i* (1177)' ellipse
+1024 'Mi*tena (1178)' ellipse
+1025 'Ahi*su (1179)' triangle
+1026 'C Waji*a-gahige (1180)' triangle
+1027 'Mi*tegizi Ict (1182)' ellipse
+1028 'no name (1183)' ellipse
+1029 'Uha*jinga Ict (1184)' triangle
+1030 'Mi*-te na Kem (1185)' ellipse
+1031 'Waseka* Thoma (1186)' triangle
+1032 'Wa*backa* Sam (1187)' triangle
+1033 '^?A*a-wi* Ponka (1188)' ellipse
+1034 'Miaka*da (1189)' ellipse
+1035 'Logan Webster (1190)' triangle
+1036 'Mi*a*ba$i* Sa (1191)' ellipse
+1037 '$atawi*sa* An (1192)' ellipse
+1038 'Ma*zeda* Thom (1193)' triangle
+1039 'Tenugagahi Pe (1194)' triangle
+1040 'Giqpe*axe Fan (1195)' ellipse
+1041 'no name (1196)' triangle
+1042 'Si*mikazi Wil (1197)' triangle
+1043 'Ma*$i*te Tes. (1198)' ellipse
+1044 'Pahi*xi W.e (1199)' ellipse
+1045 'G Ma*g$iqta Bla (1200)' triangle
+1046 'Ma*ciha$i* Ra (1202)' ellipse
+1047 'Wata*i* Louis (1203)' triangle
+1048 'Giqpe*axe Lid (1204)' ellipse
+1049 'Mi*a*ba$i* Gr (1205)' ellipse
+1050 'Ma*g$iqta (1206)' triangle
+1051 'Tenugawaji* P (1207)' triangle
+1052 'G$eda**qude J (1209)' triangle
+1053 'Ahi*sned? Lon (1211)' triangle
+1054 'Mi*tena (1212)' ellipse
+1055 'Nada asha (1213)' triangle
+1056 'Mati*ska Eli (1214)' triangle
+1057 'Ahi*jide Henr (1215)' triangle
+1058 'Ma*ciha$i* (1216)' ellipse
+1059 'Ma*ciha$i* (1217)' ellipse
+1060 'Ihu**ugine Jo (1218)' triangle
+1061 '$atawi*sa* An (1219)' ellipse
+1062 'Mi*-daca**-$i (1220)' ellipse
+1063 'Mi*tena (1221)' ellipse
+1064 'Wata*i* (1222)' triangle
+1065 'Tenugawaji* ( (1223)' triangle
+1066 'no name or ge (1224)' ellipse
+1067 'C Tenugaja*$ink (1225)' triangle
+1068 'no name Man$i (1226)' ellipse
+1069 'Mi*teqizi Ict (1227)' ellipse
+1070 'Ta*i*$i* (1228)' ellipse
+1071 'Mangejide (1230)' triangle
+1072 '? (1232)' ellipse
+1073 'W Agaa-ma*$i* ( (1233)' triangle
+1074 'Tenugawaji* ( (1234)' triangle
+1075 'Mi*ten* (1235)' ellipse
+1076 'Kaxejinga (Li (1236)' triangle
+1077 'Teda$inga (1237)' triangle
+1078 'Waba*aze (1239)' triangle
+1079 'Pahetape (1240)' triangle
+1080 'Ke$ihi (Scary (1242)' triangle
+1081 'Waha**zabe (S (1243)' triangle
+1082 'Nindawin Ict. (1244)' ellipse
+1083 'Ni*atagig$e G (1245)' triangle
+1084 'Mi*ma*ciha-$i (1246)' ellipse
+1085 'Na*g$eze Anni (1247)' ellipse
+1086 'Ketca* (1248)' triangle
+1087 'Nae$a*be Geor (1249)' triangle
+1088 'Niakibana* Ha (1250)' triangle
+1089 'Tesa*wi* M.Q. (1251)' ellipse
+1090 'Mi*g$eda*-wi* (1252)' ellipse
+1091 'Ketca* John E (1253)' triangle
+1092 'Ba**naji* (1254)' triangle
+1093 'Ni*dawi* Ict. (1255)' ellipse
+1094 'U*nema*$i*i*c (1256)' triangle
+1095 'Tukabaa$i* Ic (1257)' ellipse
+1096 'Ke*hanga Jona (1259)' triangle
+1097 'Mi*g*abaku Jo (1261)' triangle
+1098 'Mi*daca$i* Ma (1262)' ellipse
+1099 'Mi*tena Dora (1263)' ellipse
+1100 'Mi*a*ba-$i* (1264)' ellipse
+1101 'U*nema*$i* Da (1265)' triangle
+1102 'Mi**nejinga I (1266)' ellipse
+1103 'Nanga$eze Ing (1267)' ellipse
+1104 'Ma*zeda* (1268)' triangle
+1105 'C Cageska Rolan (1269)' triangle
+1106 'no name (1270)' ellipse
+1107 'Iwagube Ict.W (1271)' triangle
+1108 'Ma*tcu*naji* (1272)' triangle
+1109 'A*bc$a*g$i* I (1273)' ellipse
+1110 'C Wata*naji* Ge (1274)' triangle
+1111 'Watewi* (M.n (1275)' ellipse
+1112 'Tactadegi*$a (1277)' triangle
+1113 'Mi*akanda (1278)' ellipse
+1114 'Mi*g*abaku (1279)' triangle
+1115 'Keg$eze-icta- (1280)' triangle
+1116 'Mi*ma*ciha$i* (1281)' ellipse
+1117 'Da*ama (1282)' ellipse
+1118 'no name (1283)' ellipse
+1119 'Huta*ma*$i* P (1284)' triangle
+1120 'Mitena (1285)' ellipse
+1121 'Wa$icnatiq$e (1286)' triangle
+1122 'no name (1287)' ellipse
+1123 'Wau*gtawa$e J (1288)' triangle
+1124 'Ing$anga Thom (1289)' triangle
+1125 'no name (1291)' ellipse
+1126 'Frank Dick M. (1292)' triangle
+1127 'Mi*tena (1293)' ellipse
+1128 'G Akidagahige N (1294)' triangle
+1129 'Ke$ihi David (1295)' triangle
+1130 'Ma*zepewi* An (1296)' ellipse
+1131 'Ma*zeda Willi (1297)' triangle
+1132 'Ta*i*g$ihe Ic (1298)' ellipse
+1133 'Uga*hatl$e (1299)' triangle
+1134 'Mi*a*ba-$i* (1300)' ellipse
+1135 'Ingthun haepa (1301)' triangle
+1136 'Ug*hati$e Wal (1302)' triangle
+1137 'Miacte*cta* M (1303)' ellipse
+1138 'Mi*tena Edwar (1304)' ellipse
+1139 'Kei*jinga Cha (1305)' triangle
+1140 'Ma*zeda* (1306)' triangle
+1141 'Kei*jinga (1307)' triangle
+1142 'Mi*-gaca*-$i* (1308)' ellipse
+1143 '$atada*wi* (1309)' ellipse
+1144 'Mi**an-ba*$i* (1311)' ellipse
+1145 'Mi*b$i*wi* (1313)' ellipse
+1146 'Hemudabe Rich (1315)' triangle
+1147 'Mi*tena Cox (1316)' ellipse
+1148 'Waji*a*ba Ict (1317)' triangle
+1149 'Mipi Dick (1318)' ellipse
+1150 'James Dick M. (1319)' triangle
+1151 'Da*zei*ze Dic (1320)' ellipse
+1152 'no name (1321)' ellipse
+1153 'Hegazaza T.S. (1322)' triangle
+1154 'no name T. r? (1323)' triangle
+1155 'Ni*dawi* Sara (1324)' ellipse
+1156 'Wasa-apa (1325)' triangle
+1157 'Mi**gaca*$i* (1327)' ellipse
+1158 'g Wadjepa Samue (1329)' triangle
+1159 'Igatcije (1332)' triangle
+1160 'Giqpe*axe (1333)' ellipse
+1161 'Ni*dawi* Nett (1334)' ellipse
+1162 'Na*zei*ze Mak (1335)' ellipse
+1163 'Ma*ciha$i* Na (1336)' ellipse
+1164 'Weta*na* Maud (1337)' ellipse
+1165 'Mipi Margueri (1338)' ellipse
+1166 'Qi$agega Fran (1339)' triangle
+1167 'Qidajinga (1340)' triangle
+1168 'Gaha*g$i* (1341)' triangle
+1169 'G Logan Fontane (1343)' triangle
+1170 'Na*ze*inze (1344)' ellipse
+1171 'Heqaga T.N. 1 (1345)' triangle
+1172 'Wabag$oji Mil (1346)' triangle
+1173 'Pasa*naji* Lo (1347)' triangle
+1174 'Mi**g$ita*i* (1348)' ellipse
+1175 'Na*ze*i*ze Em (1349)' ellipse
+1176 'Pi*dai*ga i*c (1351)' triangle
+1177 'no name (1352)' ellipse
+1178 'Pidaiga, Jr. (1353)' triangle
+1179 'Ag$i*duba All (1354)' ellipse
+1180 'Ma*zeguhe (1355)' triangle
+1181 'Ecna**ma*ha T (1356)' ellipse
+1182 'Pasan Oscar F (1357)' triangle
+1183 'Ka*zewi* Kanz (1358)' ellipse
+1184 'Ta*i*g$ihe An (1361)' ellipse
+1185 'Ma*ciha$i* Em (1362)' ellipse
+1186 'Qi$agti (1363)' triangle
+1187 'Qi$ajinga (1364)' triangle
+1188 'Pahejinga (1365)' triangle
+1189 'Mi*hewi Ing. (1366)' ellipse
+1190 'Julia Freemon (1367)' ellipse
+1191 'Oi$ajinga (1369)' triangle
+1192 'Ca*ta*-sabe (1371)' triangle
+1193 'Ma*-ciha$i* F (1372)' ellipse
+1194 '^ Na*zandaji Dw (1373)' triangle
+1195 'Wata*ne Julia (1374)' ellipse
+1196 'Giqpe*axe (1376)' ellipse
+1197 'Ikicabe Cyrus (1377)' triangle
+1198 'Qi$i*cage Jac (1378)' triangle
+1199 'no name (1379)' ellipse
+1200 'mo of 33 & 28 (1380)' ellipse
+1201 'Ci*hai*cage (1381)' triangle
+1202 'Gakiema*$i (1382)' triangle
+1203 'Mi**g$edawi* (1383)' ellipse
+1204 'Mipi (1385)' ellipse
+1205 'Togietig$ Wil (1386)' triangle
+1206 'Mi**dawi* (1388)' ellipse
+1207 'Tes. h (1389)' triangle
+1208 'Ma*ciha*$i* (1390)' ellipse
+1209 'no name (1391)' ellipse
+1210 'We ta*ne Harr (1392)' ellipse
+1211 'Giqpe*axe Car (1393)' ellipse
+1212 'no name (1395)' triangle
+1213 'Mi*ma*ciha$i* (1396)' ellipse
+1214 'Tcaza$inge Je (1397)' triangle
+1215 'unknown (1398)' ellipse
+1216 'Mi*mite I.N. (1399)' ellipse
+1217 'Weta*na (1400)' ellipse
+1218 'Mipi Alice Fr (1401)' ellipse
+1219 'Cage-jinga Mi (1402)' triangle
+1220 'Nidawi* Virgi (1403)' ellipse
+1221 'Ma*ciha$i* Mi (1404)' ellipse
+1222 'Ahi*-ska Samu (1405)' triangle
+1223 'Niniba George (1406)' triangle
+1224 'Qi$aqt  on I. (1407)' triangle
+1225 'Igatcije Rufu (1408)' triangle
+1226 'Na*zei*ze Jul (1410)' ellipse
+1227 'Ma*ciha$i* Be (1411)' ellipse
+1228 'Much she ahne (1412)' ellipse
+1229 'Weta*ne (1413)' ellipse
+1230 'Gipe*exe Dore (1414)' ellipse
+1231 'Mi*gaca*$i* (1415)' ellipse
+1232 'Ni*dawi* (1417)' ellipse
+1233 'Te*ma*$i* Jam (1418)' triangle
+1234 'C Eena*hanga Jo (1419)' triangle
+1235 'Mi*hejinga In (1420)' ellipse
+1236 'Mi*g$eda*wi* (1421)' ellipse
+1237 'Gakawi*xe Ber (1422)' triangle
+1238 'Giqpe*axe (1424)' ellipse
+1239 'Giq pe*axe Je (1425)' ellipse
+1240 'Siha Paul Fre (1426)' triangle
+1241 'Herageah (1427)' triangle
+1242 'Ing$anga Joe? (1428)' triangle
+1243 'Ma*ciha$in (1429)' ellipse
+1244 'Mahi*$inge (1430)' triangle
+1245 'Giape*axe (1431)' ellipse
+1246 'Mi*pi Deborah (1433)' ellipse
+1247 'We*ta*ne (1436)' ellipse
+1248 'Na*zei*ze (1438)' ellipse
+1249 'Ma*ya*aji M.Q (1439)' triangle
+1250 'Mi*gaca*$i* M (1441)' ellipse
+1251 'Uhangema*$i* (1442)' triangle
+1252 'Giqpe*axe (1443)' ellipse
+1253 'Na*beqadubi I (1444)' triangle
+1254 'Wasaapa (1445)' triangle
+1255 'Mi*maciha$i* (1446)' ellipse
+1256 'Mi*ma*ciha$i* (1447)' ellipse
+1257 'Giqpe*axe (sa (1448)' ellipse
+1258 'Gi-cha-pa wa- (1450)' ellipse
+1259 '$atada*wi* Ly (1452)' ellipse
+1260 'name unknown (1455)' ellipse
+1261 'Haxige H.H. 1 (1456)' triangle
+1262 'Hie*wagaxe H. (1457)' triangle
+1263 'name unknown (1458)' ellipse
+1264 'Wacibinahi* M (1459)' triangle
+1265 'Wetewi* (1460)' ellipse
+1266 'Pa$i*wactanka (1461)' triangle
+1267 'name unknown (1462)' ellipse
+1268 'Qi$anika T.J. (1463)' triangle
+1269 'mo of c & f (1464)' ellipse
+1270 'name unkown (1465)' ellipse
+1271 'Wasabejinga I (1466)' triangle
+1272 'name unknown (1467)' ellipse
+1273 'Wacka*hi Ict. (1468)' triangle
+1274 'Watewi* (1469)' ellipse
+1275 'A*pa*wahi Ict (1470)' triangle
+1276 'We*ta*ne (1471)' ellipse
+1277 'Ta*i*g$ihe (1473)' ellipse
+1278 'Ma*ciha$i* (1475)' ellipse
+1279 'Mitcaqpe I (1477)' triangle
+1280 'Za*gimande Jo (1478)' triangle
+1281 'unknown (1479)' ellipse
+1282 'Mi*ma*ciha$i* (1480)' ellipse
+1283 'G?Wajingasabe ( (1481)' triangle
+1284 'Q$a*jinga (1482)' triangle
+1285 'wife of 1483 (1483)' ellipse
+1286 'Ka*zejinga (1484)' triangle
+1287 'Nia*cadinke (1485)' ellipse
+1288 'Na*ha*naji Gi (1487)' triangle
+1289 'Ma*zepewi* T. (1488)' ellipse
+1290 'Ta*i*$i* (1489)' ellipse
+1291 'Kuge* (1491)' triangle
+1292 'fa of 9 & 7 (1493)' triangle
+1293 'mo of 9 & 7 (1494)' ellipse
+1294 'Waji*$icage (1495)' triangle
+1295 '$ig$igaji Jos (1497)' triangle
+1296 '^ no name (Ponc (1498)' ellipse
+1297 'Tasiha Paul D (1499)' triangle
+1298 'Mi*ma*ziha$i* (1500)' ellipse
+1299 'Ta*i*$i* Lydi (1501)' ellipse
+1300 'Ka*zewin* (1502)' ellipse
+1301 'Qu*degi K.T. (1503)' ellipse
+1302 'Tadiwi* K.T. (1505)' ellipse
+1303 'Mitca*gpe i*c (1508)' triangle
+1304 '^ Macadi$i* Gil (1509)' ellipse
+1305 'fa of 18 & 30 (1510)' triangle
+1306 'mo of 18 & 30 (1511)' ellipse
+1307 '% Mi*ma*ciha$i* (1512)' ellipse
+1308 'G?Kika*zi  ?Log (1513)' triangle
+1309 '^ Ubiska (Head (1516)' triangle
+1310 '% Da*da*$inge G (1518)' triangle
+1311 'Hebadija* (1519)' triangle
+1312 '% Wasi*si*de Sa (1520)' triangle
+1313 '^ Mi*ta*i* Ponk (1521)' ellipse
+1314 'noname (1522)' triangle
+1315 'Tasiha (1523)' triangle
+1316 'Tadu*ma*$i* (1524)' triangle
+1317 'Na*x$adema*$i (1525)' triangle
+1318 'Ka*zeda$i* (1526)' triangle
+1319 'Ta*i*$i* (1527)' ellipse
+1320 'Wa*bece$a* Be (1528)' triangle
+1321 '^ Ta*ingewa Oto (1529)' ellipse
+1322 'no name (1530)' ellipse
+1323 'Ka**jewi* (1531)' ellipse
+1324 'Mi*ma*ciha$i* (1533)' ellipse
+1325 'Ta*i*$i* (1535)' ellipse
+1326 'Ba*ega Thomas (1536)' triangle
+1327 '^ no name Ponka (1537)' ellipse
+1328 'Tega*na*ba He (1538)' triangle
+1329 'Mi*gaca*$i* $ (1539)' ellipse
+1330 'Ka**zewi* (1540)' ellipse
+1331 'Cu*degina* Ru (1541)' triangle
+1332 'Pa$i*wasa T.N (1542)' triangle
+1333 'Ah he waite M (1544)' triangle
+1334 'Mi*ma*ciha$i (1545)' ellipse
+1335 'Mi*aka*da Whi (1546)' ellipse
+1336 'Tade$a (1548)' triangle
+1337 'Mi**hanga K.T (1549)' ellipse
+1338 'Cagewga (1551)' triangle
+1339 'M Muxanaji Alfr (1552)' triangle
+1340 'Ma*ja*kidetan (1553)' triangle
+1341 'L Pasiduba Jona (1554)' triangle
+1342 'Ka*zewi* T.T. (1555)' ellipse
+1343 'Ka*zewin Ruth (1556)' ellipse
+1344 'Mi*ma*ciha$i* (1558)' ellipse
+1345 ' (1559)' triangle
+1346 'T.J. 1 (1560)' triangle
+1347 'Panuhu (1561)' triangle
+1348 'Ma*ca wakude (1563)' triangle
+1349 'Na*zei*ze $.W (1564)' ellipse
+1350 '^ Mi*na*pabi Po (1565)' ellipse
+1351 'Ka*zejinga Al (1566)' triangle
+1352 'Mi*manciha$i* (1567)' ellipse
+1353 'Ecna**gi$abi (1568)' triangle
+1354 'Quaegi Eva Ru (1570)' ellipse
+1355 'Ka**zejinga O (1571)' triangle
+1356 'Susannah Rush (1572)' ellipse
+1357 'Alfred Rush (1573)' triangle
+1358 'Grover C. Rus (1574)' triangle
+1359 'M Maja*kide Sil (1575)' triangle
+1360 'no name K.N. (1578)' ellipse
+1361 'G?Gahi*jinga Ir (1580)' triangle
+1362 'A*ba$ag$i* St (1581)' ellipse
+1363 'Mi*ma*ciha$i* (1582)' ellipse
+1364 '$ig$igaji (1583)' triangle
+1365 'Ka*zejinga (1586)' triangle
+1366 'Ma*aqude Noah (1587)' triangle
+1367 'Lucy LaFlesch (1588)' ellipse
+1368 'Ma*tcu*ska Ch (1589)' triangle
+1369 'name not give (1590)' ellipse
+1370 'no name T.S. (1591)' ellipse
+1371 'Wami Wahme Bu (1592)' triangle
+1372 'Watewi* M.Q. (1593)' ellipse
+1373 'Ma*ca*$inke D (1594)' ellipse
+1374 'Eugene Pepin (1595)' triangle
+1375 'Mitca*qpejing (1596)' triangle
+1376 'no name Ict. (1597)' ellipse
+1377 'Hi*qudewi* T. (1598)' ellipse
+1378 'Mi*hanga (1599)' ellipse
+1379 'Tabejinga Nat (1601)' triangle
+1380 'Ma*ca$in**ka (1602)' ellipse
+1381 'Mi*akanda (1604)' ellipse
+1382 'Ka*zewi* Mary (1606)' ellipse
+1383 'Ta*i*$i* Mary (1608)' ellipse
+1384 'Xage*wa$e (1609)' triangle
+1385 'Mi*hanga (1610)' ellipse
+1386 'Ma*tcawanaxi (1611)' triangle
+1387 'Tadewahage Ph (1612)' ellipse
+1388 'Ma**zebaha T. (1613)' triangle
+1389 'Tenuga na*ba (1614)' triangle
+1390 'Sanssouci K.S (1615)' triangle
+1391 'Wizan Sanssou (1617)' triangle
+1392 ', Marie Sanssou (1618)' ellipse
+1393 'Ardent Sansso (1622)' triangle
+1394 '$u-i Louis Sa (1623)' triangle
+1395 '^ Qrami Oto tri (1624)' ellipse
+1396 'Rebecca Mormo (1625)' ellipse
+1397 'Pankasa* Lucy (1627)' ellipse
+1398 'Pa-i Edwin/Ar (1628)' triangle
+1399 'Rosalie Sanss (1630)' ellipse
+1400 'Bunny Sanssou (1631)' triangle
+1401 'Marguerite Sa (1632)' ellipse
+1402 'Suzanne Sanss (1633)' ellipse
+1403 'Ju$i Sanssouc (1634)' ellipse
+1404 'Ma$i Sanssouc (1635)' ellipse
+1405 'He*ska ma*$i* (1636)' triangle
+1406 'Inke*tanga Ge (1637)' triangle
+1407 'Frank or Sa-s (1638)' triangle
+1408 'Helen Sanssou (1639)' ellipse
+1409 'Susanne Sanss (1640)' ellipse
+1410 'Mice$a Sansso (1641)' triangle
+1411 'Elizabeth San (1642)' ellipse
+1412 'Be$ikuwi*xe D (1643)' triangle
+1413 'Ma$i Sanssouc (1644)' ellipse
+1414 '$usi Lucy San (1645)' ellipse
+1415 'Pi$iji or Pai (1646)' triangle
+1416 '$uza$i Rosali (1647)' ellipse
+1417 'Rosalie Sasso (1648)' ellipse
+1418 'Wi-zun or Edw (1649)' triangle
+1419 'Ma-g$i-ca Mar (1650)' ellipse
+1420 'Julie Sanssou (1651)' ellipse
+1421 'Kan*zewi* (1653)' ellipse
+1422 'Ma*$iake $WH (1654)' triangle
+1423 'Ka**zewi* Ka* (1655)' ellipse
+1424 'Mi*aka*da Kan (1658)' ellipse
+1425 'Ni*ma*ciha$i* (1660)' ellipse
+1426 'Niatogig$e $K (1661)' triangle
+1427 'Ka*zewi* (1662)' ellipse
+1428 'K Pasa* (Keeper (1663)' triangle
+1429 '^ no name (Ponc (1664)' ellipse
+1430 '^ Joseph LaFles (1665)' triangle
+1431 '% Na*za*daji T. (1666)' triangle
+1432 'Todewahage (1667)' ellipse
+1433 'Tezehi*sabe G (1668)' triangle
+1434 'Mi*ha*ge (1669)' ellipse
+1435 'Anpa*wahi Ict (1670)' triangle
+1436 'Mary Rush (1671)' ellipse
+1437 'Charles Pilch (1672)' triangle
+1438 'Macadi$i Smit (1673)' ellipse
+1439 'L Pa$i*gahige T (1674)' triangle
+1440 'Tadewi* (1675)' ellipse
+1441 'Ka**zewi**  K (1677)' ellipse
+1442 'Teaq$a (1679)' triangle
+1443 'Pankasa* (1680)' ellipse
+1444 'Ka*ze wi* (1681)' ellipse
+1445 'mo of 1254 an (1682)' ellipse
+1446 'G Joseph LaFles (1683)' triangle
+1447 '^ mo of 202 (Po (1684)' ellipse
+1448 '^ Mrs. Mary LaF (1685)' ellipse
+1449 '^ Susette LaFle (1686)' ellipse
+1450 '^ Francis LaFle (1687)' triangle
+1451 ' (1701)' ellipse
+1452 ' (1702)' triangle
+1453 'G Ickadabi adde (1703)' triangle
+1454 ' (1704)' ellipse
+1455 ' (1705)' triangle
+1456 ' (1706)' triangle
+1457 ' (1707)' triangle
+1458 ' (1708)' triangle
+1459 ' (1709)' triangle
+1460 ' (1710)' triangle
+1461 ' (1711)' triangle
+1462 ' (1712)' triangle
+1463 ' (1713)' triangle
+1464 ' (1714)' triangle
+1465 ' (1715)' triangle
+1466 ' (1716)' triangle
+1467 ' (1717)' triangle
+1468 ' (1718)' triangle
+1469 ' (1719)' triangle
+1470 ' (1720)' triangle
+1471 ' (1721)' triangle
+1472 ' (1722)' triangle
+1473 ' (1723)' triangle
+1474 ' (1724)' triangle
+1475 ' (1725)' triangle
+1476 ' (1726)' triangle
+1477 ' (1727)' triangle
+1478 ' (1728)' triangle
+1479 ' (1729)' triangle
+1480 ' (1730)' triangle
+1481 ' (1731)' triangle
+1482 ' (1732)' triangle
+1483 ' (1733)' triangle
+1484 ' (1734)' triangle
+1485 ' (1735)' triangle
+1486 ' (1736)' triangle
+1487 ' (1737)' triangle
+1488 ' (1738)' triangle
+1489 ' (1739)' triangle
+1490 ' (1740)' triangle
+1491 ' (1741)' triangle
+1492 ' (1742)' triangle
+1493 ' (1743)' triangle
+1494 '^ Susanne LaFle (1744)' ellipse
+1495 ' (1745)' triangle
+1496 ' (1746)' triangle
+1497 'br of 1747 (1748)' triangle
+1498 ' (1749)' triangle
+1499 ' (1750)' triangle
+1500 ' (1751)' triangle
+1501 ' (1752)' triangle
+1502 ' (1753)' triangle
+1503 ' (1754)' triangle
+1504 ' (1755)' triangle
+1505 ' (1756)' triangle
+1506 ' (1757)' triangle
+1507 ' (1758)' triangle
+1508 ' (1759)' triangle
+1509 ' (1760)' triangle
+1510 ' (1761)' triangle
+1511 ' (1762)' triangle
+1512 ' (1763)' triangle
+1513 'Susanne LaFle (1764)' ellipse
+*arcs
+1 3 1
+2 3 1
+3 5 1
+3 25 1
+4 103 1
+4 93 1
+4 94 1
+5 10 1
+5 18 1
+6 10 1
+7 20 1
+8 21 1
+8 1156 1
+9 23 1
+10 11 1
+10 12 1
+12 15 1
+12 142 1
+12 14 1
+13 15 1
+13 14 1
+15 17 1
+16 17 1
+22 1158 1
+22 1170 1
+22 1157 1
+25 70 1
+25 71 1
+25 34 1
+25 74 1
+25 32 1
+25 63 1
+25 62 1
+27 71 1
+27 74 1
+26 34 1
+26 63 1
+26 62 1
+29 92 1
+29 33 1
+29 32 1
+28 70 1
+31 27 1
+31 26 1
+31 28 1
+30 27 1
+30 26 1
+30 28 1
+34 140 1
+34 37 1
+34 55 1
+34 61 1
+34 56 1
+34 60 1
+34 57 1
+35 47 1
+35 37 1
+38 40 1
+39 41 1
+39 49 1
+39 43 1
+39 44 1
+39 42 1
+39 46 1
+39 45 1
+36 55 1
+36 61 1
+36 56 1
+36 60 1
+36 57 1
+47 53 1
+47 54 1
+47 52 1
+47 51 1
+47 50 1
+56 1049 1
+56 1055 1
+56 1046 1
+56 1050 1
+56 1048 1
+56 1047 1
+63 68 1
+63 67 1
+63 69 1
+63 64 1
+62 716 1
+71 72 1
+76 78 1
+77 81 1
+77 82 1
+77 79 1
+77 80 1
+74 90 1
+75 90 1
+84 85 1
+84 86 1
+84 88 1
+84 87 1
+84 89 1
+83 85 1
+83 86 1
+83 88 1
+83 87 1
+83 89 1
+95 97 1
+95 96 1
+94 97 1
+94 96 1
+90 1196 1
+90 1193 1
+90 1195 1
+90 1198 1
+103 105 1
+103 106 1
+98 101 1
+98 99 1
+98 100 1
+97 101 1
+97 99 1
+97 100 1
+108 109 1
+108 110 1
+108 111 1
+106 115 1
+106 112 1
+106 108 1
+106 113 1
+107 115 1
+107 112 1
+107 108 1
+107 113 1
+104 129 1
+104 116 1
+104 105 1
+104 106 1
+119 122 1
+119 123 1
+117 124 1
+117 118 1
+117 119 1
+116 124 1
+116 118 1
+116 119 1
+125 126 1
+125 127 1
+125 128 1
+124 126 1
+124 127 1
+124 128 1
+120 123 1
+143 144 1
+129 131 1
+129 130 1
+133 969 1
+133 1080 1
+132 562 1
+132 553 1
+132 556 1
+132 554 1
+154 497 1
+154 500 1
+154 503 1
+154 502 1
+154 501 1
+154 498 1
+154 499 1
+155 497 1
+155 500 1
+155 503 1
+155 502 1
+155 501 1
+155 498 1
+155 499 1
+158 162 1
+159 144 1
+159 174 1
+159 172 1
+159 187 1
+159 185 1
+159 188 1
+159 191 1
+144 152 1
+144 156 1
+144 154 1
+144 147 1
+145 156 1
+146 147 1
+147 151 1
+147 149 1
+148 151 1
+148 149 1
+175 182 1
+175 180 1
+175 183 1
+175 184 1
+175 176 1
+174 182 1
+174 180 1
+174 183 1
+174 184 1
+174 176 1
+173 504 1
+172 1101 1
+172 504 1
+163 168 1
+163 171 1
+163 170 1
+163 169 1
+163 164 1
+163 167 1
+163 165 1
+162 168 1
+162 171 1
+162 170 1
+162 169 1
+162 164 1
+162 167 1
+162 165 1
+161 188 1
+161 191 1
+176 179 1
+176 178 1
+177 179 1
+177 178 1
+181 1494 1
+205 206 1
+205 223 1
+207 210 1
+207 216 1
+207 219 1
+207 221 1
+207 208 1
+207 217 1
+207 220 1
+207 213 1
+207 214 1
+206 210 1
+206 216 1
+206 219 1
+206 221 1
+206 208 1
+206 217 1
+206 220 1
+206 213 1
+206 214 1
+201 203 1
+202 203 1
+197 199 1
+196 199 1
+196 204 1
+196 198 1
+193 196 1
+195 200 1
+194 196 1
+222 225 1
+222 224 1
+222 226 1
+222 227 1
+223 225 1
+223 224 1
+223 226 1
+223 227 1
+210 212 1
+210 211 1
+238 240 1
+237 252 1
+237 236 1
+236 238 1
+236 241 1
+235 1365 1
+235 1361 1
+235 1360 1
+235 1364 1
+231 232 1
+231 234 1
+231 233 1
+230 235 1
+229 231 1
+228 231 1
+228 235 1
+255 785 1
+255 783 1
+252 787 1
+252 782 1
+252 254 1
+253 782 1
+253 254 1
+244 245 1
+244 251 1
+244 247 1
+244 250 1
+244 248 1
+243 245 1
+243 251 1
+243 247 1
+243 250 1
+243 248 1
+277 278 1
+276 285 1
+276 290 1
+276 287 1
+276 281 1
+276 279 1
+276 278 1
+276 288 1
+276 282 1
+276 284 1
+276 286 1
+276 289 1
+283 506 1
+283 507 1
+282 506 1
+282 507 1
+258 256 1
+256 260 1
+256 291 1
+256 259 1
+257 260 1
+257 291 1
+257 259 1
+262 273 1
+262 274 1
+262 271 1
+262 269 1
+262 270 1
+262 267 1
+262 266 1
+262 275 1
+262 272 1
+263 266 1
+260 276 1
+260 262 1
+261 276 1
+261 262 1
+264 285 1
+264 287 1
+264 281 1
+264 279 1
+264 288 1
+264 282 1
+264 267 1
+264 284 1
+264 286 1
+264 289 1
+265 273 1
+265 271 1
+265 270 1
+265 272 1
+305 842 1
+305 841 1
+304 314 1
+304 306 1
+304 315 1
+304 310 1
+304 305 1
+304 308 1
+304 307 1
+304 309 1
+311 317 1
+311 324 1
+311 313 1
+311 316 1
+311 312 1
+319 330 1
+319 335 1
+319 332 1
+319 327 1
+319 329 1
+319 334 1
+319 325 1
+319 331 1
+319 321 1
+319 333 1
+318 330 1
+318 335 1
+318 332 1
+318 327 1
+318 329 1
+318 334 1
+318 325 1
+318 331 1
+318 321 1
+318 333 1
+291 311 1
+291 294 1
+291 299 1
+292 294 1
+292 299 1
+293 311 1
+293 301 1
+293 303 1
+294 297 1
+294 298 1
+294 296 1
+295 297 1
+295 298 1
+295 296 1
+303 314 1
+303 306 1
+303 315 1
+303 310 1
+303 305 1
+303 308 1
+303 307 1
+303 309 1
+342 344 1
+342 343 1
+341 346 1
+341 344 1
+341 343 1
+341 347 1
+341 345 1
+340 341 1
+339 338 1
+338 341 1
+337 336 1
+351 360 1
+351 362 1
+351 935 1
+349 348 1
+348 351 1
+322 323 1
+320 318 1
+321 323 1
+368 375 1
+368 372 1
+368 374 1
+368 378 1
+368 377 1
+368 370 1
+368 376 1
+368 379 1
+382 385 1
+382 383 1
+382 384 1
+382 386 1
+352 360 1
+352 362 1
+352 935 1
+353 354 1
+353 358 1
+353 359 1
+353 357 1
+353 355 1
+354 561 1
+354 559 1
+354 560 1
+354 558 1
+354 557 1
+355 356 1
+365 382 1
+365 380 1
+365 368 1
+366 365 1
+366 387 1
+367 380 1
+367 368 1
+411 413 1
+411 412 1
+408 425 1
+408 423 1
+408 416 1
+408 419 1
+408 415 1
+408 424 1
+408 420 1
+409 413 1
+409 412 1
+409 414 1
+402 451 1
+402 474 1
+402 470 1
+402 450 1
+402 405 1
+402 468 1
+403 402 1
+400 511 1
+400 509 1
+400 508 1
+400 510 1
+400 512 1
+401 1229 1
+401 1230 1
+401 1228 1
+401 1226 1
+401 1227 1
+406 439 1
+406 426 1
+406 449 1
+406 408 1
+406 432 1
+404 451 1
+404 474 1
+404 470 1
+404 450 1
+404 405 1
+404 468 1
+405 439 1
+405 426 1
+405 449 1
+405 408 1
+405 432 1
+395 397 1
+399 511 1
+399 509 1
+399 508 1
+399 510 1
+399 512 1
+398 399 1
+398 401 1
+397 399 1
+397 401 1
+396 397 1
+387 389 1
+387 393 1
+387 394 1
+388 389 1
+388 393 1
+388 394 1
+432 437 1
+432 434 1
+432 433 1
+432 438 1
+432 435 1
+432 436 1
+439 445 1
+439 447 1
+439 448 1
+439 443 1
+439 446 1
+439 440 1
+439 441 1
+439 442 1
+439 444 1
+427 429 1
+426 429 1
+426 430 1
+426 431 1
+428 430 1
+428 431 1
+479 1192 1
+479 1295 1
+479 1299 1
+479 1310 1
+479 1298 1
+479 1297 1
+479 1300 1
+476 479 1
+476 477 1
+474 475 1
+474 480 1
+475 479 1
+475 477 1
+473 875 1
+473 866 1
+473 868 1
+473 865 1
+470 471 1
+470 473 1
+462 464 1
+462 466 1
+462 463 1
+462 465 1
+462 467 1
+461 464 1
+461 466 1
+461 463 1
+461 465 1
+461 467 1
+456 454 1
+455 456 1
+455 453 1
+454 457 1
+454 459 1
+454 460 1
+452 457 1
+452 459 1
+452 460 1
+451 461 1
+451 452 1
+450 1301 1
+450 1294 1
+492 489 1
+494 495 1
+494 496 1
+489 493 1
+480 488 1
+480 485 1
+480 490 1
+480 481 1
+480 483 1
+480 484 1
+480 486 1
+480 487 1
+550 548 1
+548 564 1
+548 563 1
+548 551 1
+548 571 1
+548 552 1
+548 599 1
+548 590 1
+548 598 1
+549 563 1
+549 551 1
+549 571 1
+549 552 1
+549 599 1
+549 590 1
+549 598 1
+556 561 1
+556 559 1
+556 560 1
+556 558 1
+556 557 1
+552 562 1
+552 553 1
+552 556 1
+552 554 1
+567 569 1
+566 568 1
+565 569 1
+565 568 1
+564 570 1
+562 987 1
+562 986 1
+572 576 1
+572 575 1
+572 574 1
+572 573 1
+572 577 1
+571 584 1
+571 572 1
+571 578 1
+571 589 1
+571 585 1
+571 587 1
+571 579 1
+513 909 1
+527 532 1
+527 531 1
+527 530 1
+527 529 1
+528 532 1
+528 531 1
+528 530 1
+528 529 1
+537 764 1
+537 762 1
+537 765 1
+537 752 1
+537 761 1
+537 763 1
+537 758 1
+537 755 1
+537 767 1
+537 760 1
+536 659 1
+610 613 1
+610 646 1
+610 614 1
+611 613 1
+614 617 1
+614 619 1
+614 627 1
+615 617 1
+612 646 1
+612 614 1
+612 632 1
+613 1078 1
+619 622 1
+619 626 1
+619 624 1
+620 622 1
+620 624 1
+621 626 1
+627 631 1
+627 629 1
+628 631 1
+628 629 1
+635 637 1
+635 639 1
+635 640 1
+635 636 1
+635 638 1
+634 637 1
+634 639 1
+634 640 1
+634 636 1
+634 638 1
+633 643 1
+633 644 1
+633 645 1
+632 634 1
+632 643 1
+632 644 1
+632 642 1
+632 641 1
+632 645 1
+636 78 1
+636 81 1
+636 82 1
+636 79 1
+636 80 1
+578 425 1
+578 423 1
+578 424 1
+579 583 1
+579 580 1
+579 581 1
+579 582 1
+584 1238 1
+590 595 1
+590 593 1
+590 596 1
+590 591 1
+590 597 1
+590 592 1
+591 317 1
+591 313 1
+591 316 1
+591 312 1
+593 594 1
+592 726 1
+592 723 1
+592 725 1
+592 724 1
+599 602 1
+599 606 1
+599 603 1
+599 601 1
+600 602 1
+600 606 1
+600 603 1
+600 601 1
+603 605 1
+604 605 1
+680 1113 1
+680 1114 1
+677 682 1
+677 681 1
+677 685 1
+677 684 1
+677 687 1
+677 680 1
+677 683 1
+677 686 1
+677 692 1
+676 682 1
+676 681 1
+676 685 1
+676 684 1
+676 687 1
+676 680 1
+676 683 1
+676 686 1
+676 692 1
+675 676 1
+673 679 1
+673 678 1
+673 674 1
+672 679 1
+672 678 1
+672 674 1
+700 706 1
+700 704 1
+700 705 1
+698 703 1
+698 702 1
+698 706 1
+698 704 1
+698 705 1
+698 701 1
+699 703 1
+699 702 1
+699 701 1
+690 694 1
+690 693 1
+691 694 1
+691 693 1
+689 698 1
+649 657 1
+649 656 1
+648 653 1
+648 655 1
+648 654 1
+650 657 1
+650 656 1
+645 274 1
+645 275 1
+644 662 1
+646 647 1
+646 648 1
+668 669 1
+664 666 1
+665 666 1
+660 663 1
+661 663 1
+662 664 1
+662 660 1
+663 872 1
+663 870 1
+663 873 1
+663 874 1
+663 869 1
+663 871 1
+656 1116 1
+656 1115 1
+656 416 1
+656 419 1
+656 415 1
+656 409 1
+656 420 1
+658 659 1
+744 745 1
+751 764 1
+751 762 1
+751 765 1
+751 752 1
+751 761 1
+751 754 1
+751 763 1
+751 758 1
+751 755 1
+751 767 1
+751 760 1
+750 751 1
+749 751 1
+738 739 1
+737 739 1
+736 737 1
+743 741 1
+743 748 1
+742 741 1
+742 748 1
+741 745 1
+766 768 1
+715 716 1
+717 737 1
+717 718 1
+717 733 1
+716 718 1
+716 733 1
+719 722 1
+719 727 1
+719 730 1
+719 728 1
+719 721 1
+718 722 1
+718 727 1
+718 734 1
+718 730 1
+718 728 1
+718 731 1
+718 721 1
+718 729 1
+709 707 1
+709 688 1
+708 707 1
+708 688 1
+732 735 1
+733 735 1
+735 375 1
+735 372 1
+735 374 1
+735 378 1
+735 377 1
+735 370 1
+735 376 1
+735 379 1
+720 731 1
+720 729 1
+722 726 1
+722 723 1
+722 725 1
+722 724 1
+727 445 1
+727 447 1
+727 448 1
+727 443 1
+727 446 1
+727 440 1
+727 441 1
+727 442 1
+727 444 1
+820 823 1
+820 827 1
+820 824 1
+820 826 1
+820 828 1
+820 822 1
+820 821 1
+820 825 1
+817 820 1
+816 817 1
+819 823 1
+819 827 1
+819 824 1
+819 826 1
+819 828 1
+819 822 1
+819 821 1
+819 825 1
+818 820 1
+829 110 1
+829 111 1
+831 835 1
+831 834 1
+831 833 1
+830 831 1
+805 815 1
+805 809 1
+805 812 1
+806 809 1
+806 812 1
+803 804 1
+812 813 1
+812 814 1
+808 815 1
+809 811 1
+809 810 1
+791 488 1
+791 485 1
+791 490 1
+791 481 1
+791 483 1
+791 484 1
+791 486 1
+791 487 1
+790 792 1
+790 791 1
+789 792 1
+789 791 1
+788 790 1
+797 608 1
+797 607 1
+797 609 1
+795 797 1
+795 798 1
+795 796 1
+795 801 1
+795 802 1
+794 803 1
+794 795 1
+793 803 1
+793 795 1
+770 778 1
+770 776 1
+768 778 1
+768 776 1
+768 774 1
+769 774 1
+782 785 1
+782 783 1
+885 903 1
+884 906 1
+884 904 1
+884 903 1
+884 887 1
+887 898 1
+887 891 1
+887 894 1
+887 901 1
+887 900 1
+887 902 1
+886 906 1
+889 898 1
+888 891 1
+888 894 1
+890 901 1
+890 900 1
+890 902 1
+892 19 1
+895 896 1
+894 896 1
+868 872 1
+868 870 1
+868 873 1
+868 874 1
+868 869 1
+868 871 1
+877 879 1
+878 912 1
+878 879 1
+878 913 1
+878 914 1
+879 883 1
+879 882 1
+850 77 1
+850 72 1
+850 83 1
+850 76 1
+849 584 1
+849 572 1
+849 578 1
+849 589 1
+849 585 1
+849 587 1
+849 579 1
+853 1366 1
+863 875 1
+863 866 1
+863 868 1
+863 865 1
+862 877 1
+861 876 1
+861 863 1
+860 877 1
+860 876 1
+860 863 1
+832 835 1
+832 834 1
+832 833 1
+838 842 1
+838 841 1
+837 839 1
+837 838 1
+837 840 1
+843 844 1
+844 849 1
+844 845 1
+845 848 1
+956 963 1
+956 999 1
+956 1001 1
+956 959 1
+956 1026 1
+956 966 1
+957 946 1
+957 941 1
+957 956 1
+958 946 1
+958 941 1
+958 956 1
+959 961 1
+948 952 1
+948 951 1
+948 950 1
+948 954 1
+948 953 1
+949 952 1
+949 951 1
+949 950 1
+949 954 1
+949 953 1
+946 949 1
+946 955 1
+947 949 1
+947 955 1
+941 942 1
+941 944 1
+937 940 1
+937 939 1
+936 940 1
+936 939 1
+932 933 1
+932 936 1
+935 354 1
+935 358 1
+935 359 1
+935 357 1
+935 355 1
+924 930 1
+924 929 1
+924 928 1
+924 931 1
+924 926 1
+924 927 1
+925 926 1
+922 1296 1
+923 924 1
+921 924 1
+921 1296 1
+918 921 1
+919 921 1
+917 918 1
+917 932 1
+911 122 1
+908 915 1
+907 911 1
+906 915 1
+906 909 1
+906 912 1
+906 913 1
+906 911 1
+906 914 1
+900 583 1
+900 580 1
+900 581 1
+900 582 1
+898 899 1
+897 899 1
+1017 1023 1
+1017 1021 1
+1017 1024 1
+1017 1020 1
+1017 1025 1
+1017 1022 1
+1018 1021 1
+1018 1024 1
+1018 1020 1
+1018 1025 1
+1018 1022 1
+1011 1014 1
+1011 1013 1
+1011 1015 1
+1011 1016 1
+1012 1014 1
+1012 1013 1
+1012 1015 1
+1012 1016 1
+1013 1357 1
+1013 1356 1
+1013 1355 1
+1013 1354 1
+1013 1358 1
+1001 1017 1
+1001 1011 1
+1001 1003 1
+1003 1009 1
+1003 1006 1
+1003 1010 1
+1003 1008 1
+1003 1005 1
+1003 1007 1
+1002 1017 1
+1002 1011 1
+1002 1003 1
+1005 109 1
+1004 1009 1
+1004 1006 1
+1004 1010 1
+1004 1008 1
+1004 1005 1
+1004 1007 1
+990 998 1
+990 995 1
+990 997 1
+990 996 1
+989 998 1
+989 992 1
+989 993 1
+989 994 1
+989 995 1
+989 997 1
+989 996 1
+989 991 1
+982 985 1
+982 987 1
+982 988 1
+982 984 1
+982 986 1
+983 985 1
+983 984 1
+970 974 1
+969 974 1
+969 977 1
+969 979 1
+969 981 1
+969 976 1
+969 978 1
+969 980 1
+968 989 1
+973 979 1
+972 977 1
+972 976 1
+972 978 1
+963 964 1
+963 975 1
+962 964 1
+962 975 1
+960 961 1
+967 982 1
+966 982 1
+966 969 1
+966 989 1
+1101 1104 1
+1102 1104 1
+1096 1098 1
+1096 1097 1
+1096 1099 1
+1096 1100 1
+1094 1101 1
+1094 1106 1
+1094 1096 1
+1095 1096 1
+1088 1091 1
+1112 1113 1
+1112 1114 1
+1109 1122 1
+1109 1110 1
+1108 1122 1
+1108 1110 1
+1111 1112 1
+1110 1116 1
+1110 1118 1
+1110 1121 1
+1110 1117 1
+1110 1115 1
+1110 1112 1
+1110 1120 1
+1132 1134 1
+1132 1133 1
+1131 1134 1
+1131 1133 1
+1124 1125 1
+1124 1127 1
+1124 1131 1
+1124 1135 1
+1124 1129 1
+1145 565 1
+1144 385 1
+1144 383 1
+1144 384 1
+1144 386 1
+1143 382 1
+1137 1141 1
+1137 1140 1
+1137 1138 1
+1137 1142 1
+1137 1139 1
+1136 1141 1
+1136 1140 1
+1136 1138 1
+1136 1142 1
+1136 1139 1
+1032 1035 1
+1034 1035 1
+1026 1030 1
+1026 1040 1
+1026 1036 1
+1026 1028 1
+1026 1037 1
+1026 1032 1
+1026 1039 1
+1027 1030 1
+1027 1040 1
+1027 1037 1
+1027 1032 1
+1027 1039 1
+1052 1054 1
+1052 1053 1
+1041 1042 1
+1043 1051 1
+1043 1045 1
+1043 1052 1
+1043 1056 1
+1042 1064 1
+1042 1059 1
+1042 1051 1
+1042 1063 1
+1042 1045 1
+1042 1052 1
+1042 1056 1
+1042 1058 1
+1042 1061 1
+1042 1062 1
+1042 1057 1
+1045 1049 1
+1045 1055 1
+1045 1046 1
+1045 1050 1
+1045 1048 1
+1045 1047 1
+1044 1064 1
+1044 1059 1
+1044 1063 1
+1044 1058 1
+1044 1061 1
+1044 1062 1
+1066 1077 1
+1066 1067 1
+1067 1070 1
+1067 1071 1
+1065 1077 1
+1065 1067 1
+1070 346 1
+1070 347 1
+1070 345 1
+1071 1075 1
+1071 1074 1
+1071 1076 1
+1071 1073 1
+1068 1070 1
+1069 1071 1
+1083 1087 1
+1083 1086 1
+1082 1083 1
+1082 1088 1
+1081 1083 1
+1081 1088 1
+1084 1087 1
+1084 1086 1
+1079 1080 1
+1077 1079 1
+1077 1078 1
+1216 1222 1
+1216 1221 1
+1231 437 1
+1231 434 1
+1231 433 1
+1231 438 1
+1231 435 1
+1231 436 1
+1225 1229 1
+1225 1230 1
+1225 1228 1
+1225 1226 1
+1225 1227 1
+1224 1232 1
+1224 1225 1
+1224 1231 1
+1237 1238 1
+1234 1242 1
+1234 1237 1
+1234 1239 1
+1234 1240 1
+1234 1241 1
+1235 1237 1
+1245 174 1
+1245 187 1
+1245 185 1
+1247 570 1
+1259 676 1
+1259 697 1
+1259 695 1
+1259 690 1
+1258 25 1
+1257 67 1
+1269 1267 1
+1269 1265 1
+1278 496 1
+1279 1280 1
+1276 594 1
+1277 198 1
+1156 1158 1
+1156 1170 1
+1156 1157 1
+1158 1163 1
+1158 1168 1
+1158 1159 1
+1158 1161 1
+1158 1165 1
+1158 1166 1
+1158 1162 1
+1158 1160 1
+1158 1164 1
+1158 1167 1
+1173 1175 1
+1174 1175 1
+1176 1178 1
+1177 1178 1
+1180 1188 1
+1180 1190 1
+1180 1182 1
+1181 1188 1
+1181 1190 1
+1181 1182 1
+1182 1184 1
+1182 1185 1
+1182 1187 1
+1182 1186 1
+1191 1196 1
+1191 1193 1
+1191 1195 1
+1191 1198 1
+1190 232 1
+1190 234 1
+1190 233 1
+1195 356 1
+1202 1204 1
+1202 1211 1
+1202 1210 1
+1202 1206 1
+1202 1208 1
+1202 1209 1
+1203 1204 1
+1203 1206 1
+1203 1208 1
+1203 1209 1
+1200 1191 1
+1200 1199 1
+1201 1202 1
+1204 211 1
+1214 1217 1
+1214 1222 1
+1214 1220 1
+1214 1218 1
+1214 1221 1
+1214 1223 1
+1215 1217 1
+1215 1220 1
+1215 1218 1
+1212 1214 1
+1213 1214 1
+1375 1379 1
+1375 1378 1
+1375 1383 1
+1375 1381 1
+1375 1380 1
+1375 1382 1
+1370 1373 1
+1369 1371 1
+1368 1373 1
+1368 1371 1
+1362 1363 1
+1361 1363 1
+1360 992 1
+1360 993 1
+1360 994 1
+1360 991 1
+1359 1365 1
+1359 1366 1
+1359 1361 1
+1359 1360 1
+1359 1364 1
+1353 1357 1
+1353 1356 1
+1353 1355 1
+1353 1354 1
+1353 1358 1
+1348 1352 1
+1348 1351 1
+1349 1352 1
+1349 1351 1
+1347 1353 1
+1347 1348 1
+1344 162 1
+1344 172 1
+1407 1410 1
+1407 1409 1
+1407 1417 1
+1397 1413 1
+1397 1411 1
+1397 1415 1
+1397 1414 1
+1397 1407 1
+1397 1416 1
+1397 1418 1
+1397 1419 1
+1396 1404 1
+1396 1402 1
+1396 1403 1
+1398 1400 1
+1398 1399 1
+1398 1401 1
+1392 634 1
+1392 619 1
+1392 627 1
+1394 1413 1
+1394 1411 1
+1394 1415 1
+1394 1414 1
+1394 1404 1
+1394 1407 1
+1394 1402 1
+1394 1403 1
+1394 1416 1
+1394 1418 1
+1394 1419 1
+1390 1394 1
+1390 1391 1
+1390 1393 1
+1390 1392 1
+1384 1388 1
+1384 1385 1
+1380 576 1
+1380 575 1
+1380 574 1
+1380 573 1
+1380 577 1
+1382 1400 1
+1382 1399 1
+1382 1401 1
+1376 1379 1
+1376 1378 1
+1376 1380 1
+1377 1383 1
+1377 1381 1
+1377 1382 1
+1307 811 1
+1307 804 1
+1307 810 1
+1306 1323 1
+1306 1304 1
+1306 1324 1
+1306 1320 1
+1305 1323 1
+1305 1304 1
+1305 1324 1
+1305 1320 1
+1304 1307 1
+1304 1311 1
+1304 1312 1
+1309 1310 1
+1303 1307 1
+1303 1311 1
+1303 1312 1
+1302 929 1
+1302 928 1
+1301 1098 1
+1301 1097 1
+1301 1099 1
+1301 1100 1
+1290 595 1
+1290 593 1
+1290 596 1
+1290 591 1
+1290 597 1
+1290 592 1
+1291 1301 1
+1291 1294 1
+1288 1290 1
+1289 1290 1
+1294 1295 1
+1294 1299 1
+1294 1298 1
+1294 1297 1
+1294 1300 1
+1292 1288 1
+1292 1291 1
+1293 1288 1
+1293 1291 1
+1280 1282 1
+1281 1282 1
+1287 1394 1
+1287 1391 1
+1287 1393 1
+1287 1392 1
+1284 1287 1
+1284 1286 1
+1285 1287 1
+1285 1286 1
+1336 1337 1
+1338 1339 1
+1338 1340 1
+1338 1344 1
+1341 1343 1
+1340 1341 1
+1343 1054 1
+1343 1053 1
+1342 1353 1
+1342 1343 1
+1342 1348 1
+1329 1334 1
+1329 1333 1
+1328 1334 1
+1328 1333 1
+1330 829 1
+1320 1322 1
+1321 1322 1
+1323 647 1
+1323 648 1
+1324 797 1
+1324 798 1
+1324 796 1
+1324 801 1
+1324 802 1
+1326 1335 1
+1326 1328 1
+1326 1330 1
+1327 1335 1
+1327 1328 1
+1327 1330 1
+1312 1318 1
+1312 1317 1
+1312 1314 1
+1312 1315 1
+1312 1325 1
+1312 1316 1
+1312 1319 1
+1313 1318 1
+1313 1317 1
+1313 1091 1
+1313 1314 1
+1313 1315 1
+1313 1325 1
+1313 1316 1
+1313 1319 1
+1495 884 1
+1492 1375 1
+1493 1405 1
+1490 1359 1
+1491 1368 1
+1488 1349 1
+1489 1350 1
+1502 1126 1
+1503 1197 1
+1500 892 1
+1501 1313 1
+1498 1094 1
+1499 1278 1
+1496 893 1
+1479 1171 1
+1478 1152 1
+1477 1150 1
+1476 1145 1
+1475 1082 1
+1474 1029 1
+1473 910 1
+1472 880 1
+1487 1342 1
+1486 1331 1
+1485 1289 1
+1484 1260 1
+1483 1259 1
+1482 1246 1
+1481 1234 1
+1480 1189 1
+1509 621 1
+1508 696 1
+1511 371 1
+1510 610 1
+1505 1387 1
+1504 1329 1
+1507 537 1
+1506 781 1
+1512 193 1
+1424 1125 1
+1424 1127 1
+1424 1131 1
+1424 1135 1
+1424 1129 1
+1430 1446 1
+1430 181 1
+1431 1194 1
+1431 1367 1
+1429 1194 1
+1429 1367 1
+1429 1446 1
+1408 1410 1
+1408 1409 1
+1408 1417 1
+1423 839 1
+1423 838 1
+1423 840 1
+1420 642 1
+1420 641 1
+1456 228 1
+1457 264 1
+1458 300 1
+1459 326 1
+1460 364 1
+1461 392 1
+1462 534 1
+1464 649 1
+1465 689 1
+1466 717 1
+1467 747 1
+1468 805 1
+1469 850 1
+1470 860 1
+1471 878 1
+1441 813 1
+1441 814 1
+1443 1444 1
+1442 1444 1
+1445 1105 1
+1445 1092 1
+1444 11 1
+1444 12 1
+1447 181 1
+1446 1450 1
+1446 1449 1
+1448 1450 1
+1448 1449 1
+1451 5 1
+1453 159 1
+1452 133 1
+1455 186 1
+1454 268 1
+*edges
+1 2 1
+3 4 1
+3 1258 1
+3 1451 1
+5 8 1
+5 6 1
+5 7 1
+5 9 1
+10 1444 1
+12 13 1
+15 16 1
+19 55 1
+19 18 1
+24 23 1
+1156 22 1
+25 29 1
+25 27 1
+25 26 1
+25 28 1
+30 31 1
+34 36 1
+34 35 1
+37 38 1
+37 39 1
+47 48 1
+58 57 1
+59 57 1
+1045 56 1
+63 1257 1
+715 62 1
+71 850 1
+65 64 1
+66 64 1
+76 636 1
+77 636 1
+72 73 1
+74 850 1
+74 75 1
+83 84 1
+94 95 1
+91 90 1
+1191 90 1
+103 104 1
+102 101 1
+96 122 1
+97 98 1
+108 829 1
+108 1005 1
+106 107 1
+119 121 1
+119 120 1
+119 911 1
+116 117 1
+113 114 1
+124 125 1
+1029 122 1
+1202 122 1
+138 137 1
+1026 136 1
+141 140 1
+159 143 1
+1079 133 1
+924 133 1
+966 133 1
+552 132 1
+135 134 1
+152 153 1
+152 912 1
+155 154 1
+157 156 1
+158 1344 1
+159 1245 1
+159 161 1
+159 1344 1
+159 160 1
+144 145 1
+144 146 1
+147 148 1
+150 149 1
+174 175 1
+1094 172 1
+173 172 1
+162 163 1
+166 165 1
+186 187 1
+186 185 1
+192 191 1
+190 188 1
+189 188 1
+176 177 1
+181 180 1
+181 797 1
+206 207 1
+201 202 1
+1158 200 1
+1158 203 1
+196 1277 1
+196 197 1
+193 194 1
+193 195 1
+222 223 1
+218 217 1
+213 1204 1
+214 215 1
+209 208 1
+210 1204 1
+238 239 1
+1359 235 1
+231 1190 1
+228 229 1
+228 230 1
+887 254 1
+782 255 1
+252 253 1
+248 249 1
+247 916 1
+246 245 1
+243 244 1
+241 242 1
+279 280 1
+276 277 1
+283 282 1
+256 257 1
+262 263 1
+262 645 1
+262 265 1
+262 264 1
+260 261 1
+268 267 1
+276 264 1
+838 305 1
+311 591 1
+318 319 1
+291 293 1
+291 292 1
+294 295 1
+300 299 1
+300 301 1
+302 301 1
+303 304 1
+341 1070 1
+341 342 1
+338 340 1
+351 352 1
+348 350 1
+326 329 1
+328 327 1
+326 325 1
+321 322 1
+373 372 1
+368 735 1
+368 369 1
+371 380 1
+371 370 1
+381 380 1
+382 1144 1
+353 935 1
+556 354 1
+355 1195 1
+364 866 1
+365 367 1
+365 1143 1
+361 360 1
+364 362 1
+363 362 1
+408 578 1
+408 656 1
+409 411 1
+409 410 1
+879 415 1
+402 404 1
+1225 401 1
+405 407 1
+405 406 1
+395 396 1
+392 1157 1
+400 399 1
+397 398 1
+387 388 1
+392 389 1
+391 389 1
+390 389 1
+432 1231 1
+439 727 1
+426 427 1
+426 652 1
+426 428 1
+416 417 1
+416 418 1
+421 420 1
+422 420 1
+1294 479 1
+1182 479 1
+1309 479 1
+478 477 1
+475 476 1
+863 473 1
+461 462 1
+457 458 1
+452 453 1
+452 454 1
+1291 450 1
+505 504 1
+495 1278 1
+494 1278 1
+482 481 1
+480 791 1
+551 1246 1
+548 549 1
+547 546 1
+555 554 1
+565 566 1
+565 567 1
+564 1247 1
+564 1145 1
+563 1246 1
+982 562 1
+572 1380 1
+571 849 1
+518 517 1
+520 519 1
+906 513 1
+906 514 1
+516 515 1
+526 525 1
+527 528 1
+522 521 1
+524 523 1
+534 533 1
+534 535 1
+542 541 1
+552 543 1
+754 537 1
+751 537 1
+658 536 1
+540 539 1
+768 538 1
+610 611 1
+610 612 1
+614 615 1
+614 1392 1
+614 616 1
+1077 613 1
+619 620 1
+619 621 1
+617 618 1
+623 622 1
+627 628 1
+625 624 1
+630 629 1
+634 635 1
+632 1392 1
+632 633 1
+632 1420 1
+579 900 1
+1237 584 1
+586 585 1
+588 587 1
+590 1290 1
+593 1276 1
+593 1007 1
+722 592 1
+599 797 1
+599 600 1
+603 604 1
+1112 680 1
+1071 680 1
+676 677 1
+675 1259 1
+672 673 1
+698 699 1
+698 700 1
+696 707 1
+696 695 1
+690 691 1
+688 689 1
+688 1259 1
+710 689 1
+649 1392 1
+649 650 1
+649 651 1
+1051 645 1
+646 1323 1
+670 671 1
+664 665 1
+666 668 1
+666 667 1
+660 661 1
+868 663 1
+1110 656 1
+747 783 1
+747 745 1
+746 745 1
+749 750 1
+739 740 1
+737 738 1
+742 743 1
+741 744 1
+757 755 1
+756 755 1
+753 752 1
+759 758 1
+714 713 1
+1364 712 1
+736 717 1
+716 717 1
+718 719 1
+718 720 1
+708 709 1
+732 733 1
+817 818 1
+817 1330 1
+819 820 1
+831 832 1
+805 806 1
+805 807 1
+805 808 1
+803 1307 1
+812 1441 1
+809 1307 1
+789 790 1
+786 785 1
+800 798 1
+799 798 1
+795 1324 1
+795 1440 1
+793 794 1
+774 775 1
+768 773 1
+768 770 1
+768 771 1
+768 769 1
+768 772 1
+782 1337 1
+784 783 1
+780 781 1
+787 781 1
+779 778 1
+777 776 1
+894 880 1
+884 886 1
+884 885 1
+887 888 1
+887 889 1
+887 890 1
+893 891 1
+892 891 1
+893 896 1
+892 903 1
+894 895 1
+865 864 1
+867 866 1
+877 878 1
+906 878 1
+879 880 1
+852 850 1
+851 850 1
+855 854 1
+1359 853 1
+859 858 1
+857 856 1
+860 861 1
+860 862 1
+836 835 1
+837 1423 1
+845 846 1
+845 847 1
+957 958 1
+959 960 1
+948 949 1
+945 944 1
+946 947 1
+942 943 1
+936 938 1
+936 937 1
+934 933 1
+924 925 1
+924 1302 1
+922 921 1
+923 921 1
+918 919 1
+918 920 1
+910 1378 1
+910 1381 1
+910 909 1
+906 908 1
+906 907 1
+905 904 1
+897 898 1
+1017 1019 1
+1017 1018 1
+1012 1011 1
+1353 1013 1
+1001 1002 1
+1003 1004 1
+1000 999 1
+989 990 1
+989 1360 1
+982 983 1
+969 971 1
+969 973 1
+969 970 1
+969 972 1
+962 963 1
+966 968 1
+966 967 1
+965 964 1
+1101 1103 1
+1101 1102 1
+1096 1301 1
+1092 1093 1
+1094 1095 1
+1088 1090 1
+1088 1313 1
+1088 1089 1
+1119 1118 1
+1108 1109 1
+1110 1111 1
+1107 1106 1
+1131 1132 1
+1129 1130 1
+1126 1127 1
+1128 1127 1
+1124 1424 1
+1126 1125 1
+1123 1122 1
+1150 1151 1
+1150 1149 1
+1148 1147 1
+1146 1145 1
+1136 1137 1
+1032 1034 1
+1032 1033 1
+1038 1037 1
+1026 1027 1
+1029 1028 1
+1031 1030 1
+1052 1343 1
+1042 1044 1
+1042 1043 1
+1067 1069 1
+1067 1068 1
+1065 1066 1
+1071 1072 1
+1060 1059 1
+1083 1084 1
+1083 1085 1
+1105 1082 1
+1081 1082 1
+1219 1218 1
+1233 1232 1
+1234 1236 1
+1234 1235 1
+1244 1243 1
+1254 1255 1
+1253 1252 1
+1251 1250 1
+1249 1248 1
+1264 1263 1
+1261 1260 1
+1262 1260 1
+1271 1270 1
+1268 1267 1
+1266 1265 1
+1275 1274 1
+1273 1272 1
+1153 1152 1
+1154 1152 1
+1169 1157 1
+1171 1170 1
+1172 1170 1
+1171 1199 1
+1173 1174 1
+1394 1175 1
+1176 1177 1
+1178 1179 1
+1180 1181 1
+1182 1302 1
+1182 1183 1
+1364 1189 1
+1188 1189 1
+1194 1217 1
+1194 1193 1
+1197 1209 1
+1197 1196 1
+1202 1203 1
+1207 1206 1
+1205 1204 1
+1214 1216 1
+1214 1215 1
+1212 1213 1
+1375 1376 1
+1375 1377 1
+1374 1373 1
+1371 1372 1
+1368 1370 1
+1368 1369 1
+1366 1367 1
+1361 1362 1
+1348 1350 1
+1348 1349 1
+1345 1344 1
+1346 1344 1
+1405 1404 1
+1406 1404 1
+1407 1408 1
+1394 1396 1
+1394 1395 1
+1394 1397 1
+1386 1385 1
+1388 1387 1
+1389 1387 1
+1398 1382 1
+1308 1307 1
+1305 1306 1
+1303 1304 1
+1288 1289 1
+1295 1296 1
+1292 1293 1
+1283 1282 1
+1280 1281 1
+1390 1287 1
+1284 1285 1
+1341 1342 1
+1347 1342 1
+1328 1329 1
+1331 1335 1
+1331 1330 1
+1332 1330 1
+1320 1321 1
+1326 1327 1
+1312 1313 1
+1428 1427 1
+1426 1425 1
+1430 1447 1
+1431 1429 1
+1430 1429 1
+1435 1434 1
+1433 1432 1
+1439 1438 1
+1437 1436 1
+1412 1411 1
+1422 1421 1
+1442 1443 1
+1446 1448 1
+1497 1454 1

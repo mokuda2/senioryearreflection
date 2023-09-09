@@ -1,0 +1,740 @@
+*Network Ore graph Tikopia.puc
+
+*vertices 294
+1 'X (1)' ellipse
+2 'X (2)' ellipse
+3 'X (3)' ellipse
+4 'X (4)' ellipse
+5 'X (5)' ellipse
+6 'X (6)' ellipse
+7 'X (7)' ellipse
+8 'X (8)' ellipse
+9 'X (9)' ellipse
+10 'X (10)' ellipse
+11 'X (11)' ellipse
+12 'X (12)' ellipse
+13 'X (13)' ellipse
+14 'X (14)' ellipse
+15 'X (15)' ellipse
+16 'X (16)' ellipse
+17 'X (17)' ellipse
+18 'X (18)' ellipse
+19 'X (19)' ellipse
+20 'X (20)' ellipse
+21 'X (22)' ellipse
+22 'X (23)' ellipse
+23 'X (24)' ellipse
+24 'X (25)' ellipse
+25 'Ngarifoe (26)' ellipse
+26 'Matapona (27)' ellipse
+27 '(Raropuka (28)' ellipse
+28 'Taramoa (40)' triangle
+29 'Mapusanga (42)' triangle
+30 'Mapusanga (43)' triangle
+31 'Tavi (44)' triangle
+32 'Kafika?? (45)' triangle
+33 'Rangifaka (46)' triangle
+34 'Nukumare (47)' triangle
+35 'Fakamaina (48)' triangle
+36 'Tavi (49)' triangle
+37 'Rangimase (50)' triangle
+38 'Rangifaka (51)' triangle
+39 'Foetasi (52)' triangle
+40 'Ariki Kaf (53)' triangle
+41 'Fenuatara (54)' triangle
+42 'Rakeivave (55)' triangle
+43 'Tongarei (56)' triangle
+44 'Tarotu (57)' triangle
+45 'Vainunu (58)' triangle
+46 'Nukuraro (59)' triangle
+47 'Nukuraro (60)' triangle
+48 'RangiFuti (61)' triangle
+49 'Nukuafi (62)' triangle
+50 'Nukupuia (63)' triangle
+51 'Rangitatu (64)' triangle
+52 'Motusio (65)' triangle
+53 'Nikiua (66)' triangle
+54 'Fetauta (67)' triangle
+55 'Fetauta (68)' triangle
+56 'Maraetanu (69)' triangle
+57 'Fenuaone (70)' triangle
+58 'Farangang (71)' triangle
+59 'Farangang (72)' triangle
+60 'Nukutai (73)' triangle
+61 'Marinoa (74)' triangle
+62 'Marinoa (75)' triangle
+63 'Tarafanga (76)' triangle
+64 'Tarafanga (77)' triangle
+65 'Uvaite Ra (78)' triangle
+66 'Totiare (79)' triangle
+67 'Totiare (80)' triangle
+68 'Totiare (81)' triangle
+69 'Kunuone (82)' triangle
+70 'Tariariki (83)' triangle
+71 'Vakauke (84)' triangle
+72 'X (85)' triangle
+73 'X (86)' triangle
+74 'Tuisifo (87)' triangle
+75 'Tikarere (88)' triangle
+76 'Mourongo (89)' triangle
+77 'Kafitupua (90)' triangle
+78 'Papaivaru (91)' triangle
+79 'Pepe (92)' triangle
+80 'Marangi (93)' triangle
+81 'Kamuparik (94)' triangle
+82 'Veka (95)' triangle
+83 'Marinoa (96)' triangle
+84 'X (101)' ellipse
+85 'X (102)' ellipse
+86 'X (103)' ellipse
+87 'X (104)' ellipse
+88 'X (105)' ellipse
+89 'X (106)' ellipse
+90 'X (107)' ellipse
+91 'X (108)' ellipse
+92 'X (109)' ellipse
+93 'X (110)' ellipse
+94 'X (111)' ellipse
+95 'X (112)' ellipse
+96 'X (113)' ellipse
+97 'X (114)' ellipse
+98 'X (115)' ellipse
+99 'X (116)' ellipse
+100 'X (117)' ellipse
+101 'X (119)' ellipse
+102 'X (120)' ellipse
+103 'X (121)' ellipse
+104 'X (122)' ellipse
+105 'X (123)' ellipse
+106 'X (124)' ellipse
+107 'X (125)' ellipse
+108 'X (126)' ellipse
+109 'X (127)' ellipse
+110 'X (128)' ellipse
+111 'X (130)' triangle
+112 'X (131)' triangle
+113 'X (132)' triangle
+114 'X (133)' triangle
+115 'X (134)' triangle
+116 'X (135)' triangle
+117 'X (136)' triangle
+118 'X (137)' triangle
+119 'X (138)' triangle
+120 'X (139)' triangle
+121 'X (140)' triangle
+122 'X (141)' triangle
+123 'X (142)' triangle
+124 'X (143)' triangle
+125 'X (144)' triangle
+126 'X (145)' triangle
+127 'X (146)' triangle
+128 'X (147)' triangle
+129 'X (148)' triangle
+130 'X (149)' triangle
+131 'X (150)' triangle
+132 'X (153)' triangle
+133 'X (154)' triangle
+134 'X (155)' triangle
+135 'X (156)' triangle
+136 'X (158)' triangle
+137 'X (159)' triangle
+138 'X (160)' triangle
+139 'X (161)' triangle
+140 'X (162)' triangle
+141 'X (163)' triangle
+142 'X (164)' triangle
+143 'X (165)' triangle
+144 'X (166)' triangle
+145 'X (167)' triangle
+146 'X (168)' triangle
+147 'X (169)' triangle
+148 'X (170)' triangle
+149 'X (171)' triangle
+150 'X (172)' triangle
+151 'X (173)' triangle
+152 'X (174)' triangle
+153 'X (175)' triangle
+154 'X (176)' triangle
+155 'X (177)' triangle
+156 'X (178)' triangle
+157 'X (179)' triangle
+158 'X (180)' triangle
+159 'X (181)' triangle
+160 'X (182)' triangle
+161 'X (183)' triangle
+162 'X (184)' triangle
+163 'X (185)' triangle
+164 'X (186)' triangle
+165 'X (201)' ellipse
+166 'X (202)' ellipse
+167 'X (203)' ellipse
+168 'X (204)' ellipse
+169 'X (205)' ellipse
+170 'X (206)' ellipse
+171 'X (207)' ellipse
+172 'X (208)' ellipse
+173 'X (209)' ellipse
+174 'X (210)' ellipse
+175 'X (211)' ellipse
+176 'X (212)' ellipse
+177 'X (213)' ellipse
+178 'X (214)' ellipse
+179 'X (215)' ellipse
+180 'X (216)' ellipse
+181 'X (217)' ellipse
+182 'X (218)' ellipse
+183 'X (221)' ellipse
+184 'X (222)' ellipse
+185 'X (224)' ellipse
+186 'X (227)' ellipse
+187 'X (230)' ellipse
+188 'X (231)' ellipse
+189 'X (232)' ellipse
+190 'X (233)' ellipse
+191 'X (234)' ellipse
+192 'X (235)' ellipse
+193 'Rangitisa (237)' triangle
+194 'Rangitisa (238)' triangle
+195 'Rimarenga (239)' triangle
+196 'Ariki Tau (240)' triangle
+197 'Veterei (241)' triangle
+198 'Vangatau (242)' triangle
+199 'Motuata (243)' triangle
+200 'Kavakiua (244)' triangle
+201 'Nukura (245)' triangle
+202 'Faitoka (246)' triangle
+203 'Koroaman (248)' triangle
+204 'Taungatat (249)' triangle
+205 'Ariki Ta (250)' triangle
+206 'Rimakoro (251)' triangle
+207 'Rongonaf (252)' triangle
+208 'Avakofe (253)' triangle
+209 'Futikena (254)' triangle
+210 'Tofikite (255)' triangle
+211 'TarikiTon (256)' triangle
+212 'Fakasinga (257)' triangle
+213 'TevaManga (258)' triangle
+214 'Fonongaru (259)' triangle
+215 'Koroatu (260)' triangle
+216 'Koroatu (261)' triangle
+217 'Niukapu (262)' triangle
+218 'Vaitere (263)' triangle
+219 'RangiTisa (264)' triangle
+220 'Matakai2 (269)' triangle
+221 'Oliki (270)' triangle
+222 'Nukura (271)' triangle
+223 'Morava (272)' triangle
+224 'Rangifau (274)' triangle
+225 'Nukumanai (275)' triangle
+226 'Maniva (276)' triangle
+227 'Maniva (277)' triangle
+228 'Matangi (278)' triangle
+229 'Rangifau (279)' triangle
+230 'Niukaso (282)' triangle
+231 'Raroakau (285)' triangle
+232 'Taitai (286)' triangle
+233 'Fenuatai (287)' triangle
+234 'Fetu (289)' triangle
+235 'Papa (290)' triangle
+236 'Ngatotiu (291)' triangle
+237 'Ngatotiu (292)' triangle
+238 'Tekaumata (293)' triangle
+239 'Rarotonga (294)' triangle
+240 'Niumano (295)' triangle
+241 'Papavai (296)' triangle
+242 'Niumano (297)' triangle
+243 'Toaki (299)' triangle
+244 'X (301)' ellipse
+245 'X (302)' ellipse
+246 'X (303)' ellipse
+247 'X (304)' ellipse
+248 'X (305)' ellipse
+249 'X (306)' ellipse
+250 'X (307)' ellipse
+251 'Nopu (310)' triangle
+252 'Tungatai (311)' triangle
+253 'Kirikirei (312)' triangle
+254 'Nukumaro (313)' triangle
+255 'Arika Fan (314)' triangle
+256 'Arika Fan (315)' triangle
+257 'Rongonafa (316)' triangle
+258 'X (317)' triangle
+259 'X (318)' triangle
+260 'X (319)' triangle
+261 'X (320)' triangle
+262 'X (321)' triangle
+263 'X (322)' triangle
+264 'X (323)' triangle
+265 'X (324)' triangle
+266 'X (325)' triangle
+267 'X (326)' triangle
+268 'X (401)' ellipse
+269 'X (402)' ellipse
+270 'X (403)' ellipse
+271 'X (404)' ellipse
+272 '(Fangitut (405)' ellipse
+273 '(Gilbert) (501)' ellipse
+274 'Faisina (600)' triangle
+275 'Father:70 (601)' triangle
+276 'Rifu (602)' triangle
+277 'Saufano (603)' triangle
+278 'Tangatari (604)' triangle
+279 'Tamako (605)' triangle
+280 'Lasi (606)' triangle
+281 'Atafu (607)' triangle
+282 'Kamota (608)' triangle
+283 'X (609)' triangle
+284 'X (610)' triangle
+285 'X (611)' triangle
+286 'X (612)' triangle
+287 'X (613)' triangle
+288 'X (614)' triangle
+289 'X (615)' triangle
+290 'X (616)' triangle
+291 'X (617)' triangle
+292 'Raumako (640)' ellipse
+293 '(Ravenga) (641)' ellipse
+294 '(Faea) (642)' ellipse
+*arcs
+1 204 1
+1 198 1
+1 208 1
+2 199 1
+2 200 1
+2 165 1
+4 213 1
+4 207 1
+4 171 1
+4 212 1
+4 211 1
+5 214 1
+8 104 1
+8 135 1
+8 139 1
+8 111 1
+8 120 1
+9 106 1
+9 128 1
+10 99 1
+10 130 1
+14 247 1
+14 253 1
+17 225 1
+17 228 1
+17 185 1
+16 196 1
+16 221 1
+16 224 1
+18 232 1
+21 190 1
+23 69 1
+22 65 1
+27 84 1
+27 117 1
+27 89 1
+26 280 1
+29 4 1
+29 30 1
+31 6 1
+31 5 1
+30 3 1
+35 37 1
+32 33 1
+32 36 1
+33 31 1
+33 2 1
+33 35 1
+39 43 1
+39 7 1
+39 40 1
+36 38 1
+40 41 1
+41 42 1
+46 48 1
+46 10 1
+46 47 1
+47 49 1
+47 12 1
+44 45 1
+48 13 1
+48 50 1
+48 51 1
+48 11 1
+54 55 1
+54 56 1
+52 15 1
+52 53 1
+59 65 1
+58 18 1
+58 59 1
+63 64 1
+62 9 1
+62 29 1
+62 63 1
+62 39 1
+62 61 1
+62 27 1
+61 8 1
+61 83 1
+60 19 1
+60 20 1
+68 69 1
+69 24 1
+70 62 1
+71 70 1
+64 21 1
+64 22 1
+66 60 1
+66 58 1
+66 67 1
+67 68 1
+76 77 1
+77 78 1
+78 44 1
+78 25 1
+72 71 1
+73 72 1
+74 75 1
+74 73 1
+75 76 1
+84 205 1
+84 166 1
+84 230 1
+84 186 1
+84 170 1
+81 80 1
+80 79 1
+80 74 1
+82 26 1
+82 81 1
+92 122 1
+92 93 1
+95 97 1
+94 123 1
+89 218 1
+88 216 1
+91 119 1
+91 109 1
+102 226 1
+103 19 1
+103 20 1
+100 55 1
+100 133 1
+100 56 1
+100 134 1
+100 101 1
+98 88 1
+110 215 1
+111 85 1
+108 192 1
+108 241 1
+106 33 1
+106 36 1
+105 145 1
+119 104 1
+119 135 1
+119 139 1
+119 111 1
+119 120 1
+118 119 1
+118 109 1
+116 84 1
+116 117 1
+116 89 1
+115 92 1
+115 116 1
+115 100 1
+115 91 1
+113 87 1
+113 114 1
+112 86 1
+112 113 1
+127 106 1
+127 128 1
+127 118 1
+126 97 1
+124 94 1
+124 95 1
+124 125 1
+122 123 1
+121 122 1
+121 93 1
+136 115 1
+136 138 1
+136 98 1
+138 137 1
+141 142 1
+140 143 1
+140 141 1
+143 144 1
+142 107 1
+129 99 1
+129 130 1
+128 124 1
+128 88 1
+131 132 1
+131 121 1
+132 133 1
+132 134 1
+132 101 1
+152 151 1
+153 152 1
+153 158 1
+154 156 1
+155 112 1
+156 110 1
+156 157 1
+157 108 1
+158 159 1
+159 160 1
+144 145 1
+145 146 1
+147 127 1
+148 147 1
+149 148 1
+150 149 1
+150 154 1
+151 150 1
+171 85 1
+170 209 1
+168 210 1
+175 42 1
+174 43 1
+173 7 1
+173 40 1
+172 87 1
+163 164 1
+162 163 1
+161 162 1
+160 161 1
+167 169 1
+167 206 1
+166 203 1
+164 136 1
+185 30 1
+191 24 1
+188 187 1
+188 234 1
+189 237 1
+189 238 1
+189 184 1
+178 92 1
+178 116 1
+178 100 1
+178 91 1
+179 94 1
+179 95 1
+179 125 1
+176 45 1
+183 168 1
+183 227 1
+180 118 1
+205 169 1
+205 206 1
+204 205 1
+204 166 1
+204 230 1
+204 186 1
+204 170 1
+207 209 1
+202 203 1
+197 204 1
+197 272 1
+197 198 1
+197 208 1
+196 197 1
+198 199 1
+198 200 1
+198 165 1
+193 219 1
+192 256 1
+195 194 1
+194 193 1
+220 196 1
+220 221 1
+220 224 1
+221 222 1
+222 223 1
+222 181 1
+223 201 1
+223 202 1
+223 182 1
+216 191 1
+216 177 1
+216 217 1
+217 218 1
+219 180 1
+219 215 1
+213 214 1
+215 216 1
+208 213 1
+208 207 1
+208 171 1
+208 271 1
+208 212 1
+208 211 1
+211 210 1
+239 190 1
+236 237 1
+236 238 1
+236 184 1
+235 189 1
+235 188 1
+233 187 1
+233 234 1
+231 232 1
+228 229 1
+226 168 1
+226 227 1
+225 226 1
+224 225 1
+224 228 1
+224 185 1
+255 256 1
+255 254 1
+252 247 1
+252 253 1
+251 252 1
+251 246 1
+246 15 1
+246 53 1
+244 197 1
+245 41 1
+242 192 1
+242 241 1
+240 167 1
+241 240 1
+275 57 1
+275 274 1
+274 220 1
+272 268 1
+279 278 1
+279 283 1
+278 277 1
+277 276 1
+277 195 1
+283 284 1
+282 175 1
+281 280 1
+280 279 1
+280 292 1
+287 242 1
+286 287 1
+285 286 1
+284 285 1
+258 255 1
+259 258 1
+257 250 1
+257 249 1
+262 263 1
+262 261 1
+263 264 1
+260 259 1
+261 260 1
+264 265 1
+265 251 1
+270 229 1
+271 146 1
+268 191 1
+268 177 1
+268 217 1
+269 124 1
+293 278 1
+294 283 1
+*edges
+197 1 1
+204 2 1
+198 2 1
+199 3 1
+208 4 1
+213 5 1
+34 6 1
+43 7 1
+119 8 1
+127 9 1
+129 10 1
+49 11 1
+50 12 1
+130 13 1
+252 14 1
+253 15 1
+224 17 1
+220 16 1
+232 19 1
+231 18 1
+239 21 1
+135 20 1
+68 23 1
+59 22 1
+243 25 1
+146 24 1
+116 27 1
+281 26 1
+29 185 1
+28 165 1
+32 106 1
+39 173 1
+39 174 1
+37 86 1
+40 245 1
+41 175 1
+44 176 1
+45 273 1
+51 99 1
+55 101 1
+54 100 1
+53 247 1
+52 246 1
+58 107 1
+57 181 1
+57 182 1
+60 103 1
+69 191 1
+204 84 1
+83 109 1
+119 93 1
+121 92 1
+126 95 1
+122 94 1
+217 89 1
+215 88 1
+118 91 1
+117 90 1
+225 102 1
+132 100 1
+128 98 1
+125 96 1
+123 97 1
+219 110 1
+111 171 1
+242 108 1
+238 104 1
+144 105 1
+115 178 1
+113 172 1
+127 180 1
+124 179 1
+120 177 1
+137 187 1
+139 190 1
+128 269 1
+152 292 1
+145 271 1
+207 170 1
+211 168 1
+205 167 1
+202 166 1
+207 186 1
+227 184 1
+233 188 1
+236 189 1
+226 183 1
+197 250 1
+196 244 1
+255 192 1
+216 268 1
+228 270 1
+254 248 1
+241 249 1
+279 293 1
+279 294 1

@@ -1,0 +1,914 @@
+*Network Ore graph Wilcania.puc
+
+*vertices 337
+1 'Alf Biggs (1)' triangle
+2 'Edna Young (2)' ellipse
+3 'Martin Biggs (3)' triangle
+4 'Jean Harris (4)' ellipse
+5 'Dave Harris (5)' triangle
+6 'Kelly (6)' ellipse
+7 'Edith Williams (7)' ellipse
+8 'David Johnson (8)' triangle
+9 'Elizabeth Clark (9)' ellipse
+10 'Frank Johnson (10)' triangle
+11 'Kevin Williams (11)' triangle
+12 'Edith Webster (12)' ellipse
+13 'Anzac Williams (13)' triangle
+14 'Elaine Williams (14)' ellipse
+15 'Les Harris (15)' triangle
+16 'Alice Clark (16)' ellipse
+17 'Sam Harris (17)' triangle
+18 'Robert Bates (18)' triangle
+19 'Colleen Harris (19)' ellipse
+20 'Alf Bates (20)' triangle
+21 'Evelyn Harris (21)' ellipse
+22 'Jim Bates (22)' triangle
+23 'Eadie Quayle (23)' ellipse
+24 'Paul Bates (24)' triangle
+25 'Joyce Whyman (25)' ellipse
+26 'Gerald Quayle (26)' triangle
+27 'X (27)' ellipse
+28 'Jack Quayle (28)' triangle
+29 'Amy Quayle (29)' ellipse
+30 'Ivy Johnson (30)' ellipse
+31 'Walter Clark (31)' triangle
+32 'Nellie Johnson (32)' ellipse
+33 'X (33)' triangle
+34 'X (34)' ellipse
+35 'Ada Johnson (35)' ellipse
+36 'Rusty O*Donnell (36)' triangle
+37 'Fred Johnson (37)' triangle
+38 'Kathleen (38)' ellipse
+39 'Layreen Bugby (39)' ellipse
+40 'Ray Hunter (40)' triangle
+41 'Joyce Johnson (41)' ellipse
+42 'Nonny Christina Clark (42)' ellipse
+43 'Bert Hunter (43)' triangle
+44 'Doug Hall (44)' triangle
+45 'Joyce Bugby (45)' ellipse
+46 'Ruby Bugby (46)' ellipse
+47 'Frank Bugby (47)' triangle
+48 'Douglas Hall (48)' triangle
+49 'Marj Hall (49)' ellipse
+50 'James Clark (50)' triangle
+51 'Bella Biggs (51)' ellipse
+52 'Angus Hall (52)' triangle
+53 'Tommy James Clark (53)' triangle
+54 'Freg Biggs (54)' triangle
+55 'Nancy Parkes (55)' ellipse
+56 'Sam Hall (56)' triangle
+57 'Milly Mitchell (57)' ellipse
+58 'Doris Barlow (58)' ellipse
+59 'Bobby Hunter (59)' triangle
+60 'Anthony Hall (60)' triangle
+61 '0 (61)' ellipse
+62 'Debby Hall (62)' ellipse
+63 'Lenny Hunter (63)' triangle
+64 'Cyril Hunter (64)' triangle
+65 'Evelyn Johnson (65)' ellipse
+66 'Colin Harris (66)' triangle
+67 'Margaret Bugby (67)' ellipse
+68 'Marlene Hunter (68)' ellipse
+69 'Steve Harris (69)' triangle
+70 'Bill Harris (70)' triangle
+71 'Annie O*Donnell (71)' ellipse
+72 'X (72)' ellipse
+73 'Kathleen Bugby (73)' ellipse
+74 'George Dutton Jr (74)' triangle
+75 'George Dutton (75)' triangle
+76 'Lilly Dolly (76)' ellipse
+77 'Alice Bates (77)' ellipse
+78 'Evelyn Dutton (78)' ellipse
+79 'Victor Whyman (79)' triangle
+80 'Phyllis Whyman (80)' ellipse
+81 'Cyril Johnson (Toddy) (81)' triangle
+82 'Maggie Whyman (82)' ellipse
+83 'Jim Whyman (83)' triangle
+84 'Cecil Whyman (84)' triangle
+85 'Gladys Whyman (85)' ellipse
+86 'Rita Charles (86)' ellipse
+87 'Ronny Johnson (87)' triangle
+88 'Archie Johnson (88)' triangle
+89 'Gertie Johnson (89)' ellipse
+90 'Arthur Clark (90)' triangle
+91 'Ada Clark (91)' ellipse
+92 'Martin Webster (92)' triangle
+93 'Dutton (93)' triangle
+94 'X (94)' ellipse
+95 'Alf Bates (95)' triangle
+96 'Nancy (96)' ellipse
+97 'Granny (Hannah) Quayle (97)' ellipse
+98 'Laurie Quayle (98)' triangle
+99 'Ethel Bates (99)' ellipse
+100 'John Quayle (100)' triangle
+101 'William Dutton (101)' triangle
+102 'Annie Knight (102)' ellipse
+103 'Ebsworth (103)' triangle
+104 'Gladys Ebsweth (104)' ellipse
+105 'James Williams (105)' triangle
+106 'Ethel Young (106)' ellipse
+107 'Doug Young (107)' triangle
+108 'Cecil O*Donnell (108)' triangle
+109 'Joyce Williams (109)' ellipse
+110 'Doug Harris (110)' triangle
+111 'Patsy Black (111)' ellipse
+112 'Percy Hunter (112)' triangle
+113 'Ray Wilson (113)' triangle
+114 'Lily O*Donnell (114)' ellipse
+115 'Tom Bugby (115)' triangle
+116 'Kathleen (116)' ellipse
+117 'Grandma Moisy (117)' ellipse
+118 'Harry Whyman (118)' triangle
+119 'Gracie Brown (119)' ellipse
+120 'Gilbert Bates (120)' triangle
+121 'Emily Clark (121)' ellipse
+122 'F of Annie Knight (122)' triangle
+123 'M of Annie Knight (123)' ellipse
+124 'Alfie Barlow (124)' triangle
+125 'Topsy (125)' ellipse
+126 'M of Kathleen (126)' ellipse
+127 'F of Kathleen (127)' triangle
+128 'X (128)' triangle
+129 'Jack Mitchell (129)' triangle
+130 'Hilda Hall (130)' ellipse
+131 'Don Barlow (131)' triangle
+132 'Lucky Mitchell (132)' triangle
+133 'X (133)' triangle
+134 'X (134)' ellipse
+135 'X (135)' triangle
+136 'X (136)' ellipse
+137 'Williams (140)' triangle
+138 'X (141)' ellipse
+139 'Cyril Harnett (142)' triangle
+140 'Neville Dutton (143)' triangle
+141 'Janet Crow (144)' ellipse
+142 'Frank Johnson*s F (145)' triangle
+143 'Ronnie Black (146)' triangle
+144 'Joyce William*s F (147)' triangle
+145 'Lawson (150)' triangle
+146 'Gladys Clark (152)' ellipse
+147 'Les Lawson (153)' triangle
+148 'Elsie Lawson (154)' ellipse
+149 'Jessie Lawson (155)' ellipse
+150 'Philip Kirwin (156)' triangle
+151 'June Jones (157)' ellipse
+152 'Marjorie Jones (158)' ellipse
+153 'Denis Williams (159)' triangle
+154 'X (160)' ellipse
+155 'X (161)' triangle
+156 'Ricky Williams (162)' triangle
+157 'Brenda Mitchell (163)' ellipse
+158 'Doreen Harris (164)' ellipse
+159 'X (169)' triangle
+160 'X (170)' ellipse
+161 'Edward Clark (171)' triangle
+162 'X (172)' ellipse
+163 'Niel Clark (173)' triangle
+164 'X (174)' ellipse
+165 '0 (200)' ellipse
+166 '0 (201)' ellipse
+167 '0 (202)' triangle
+168 '0 (203)' triangle
+169 '0 (204)' ellipse
+170 '0 (205)' ellipse
+171 '0 (206)' ellipse
+172 '0 (207)' triangle
+173 '0 (208)' triangle
+174 '0 (209)' ellipse
+175 '0 (210)' ellipse
+176 '0 (211)' ellipse
+177 '0 (212)' ellipse
+178 '0 (213)' ellipse
+179 '0 (215)' triangle
+180 '0 (216)' triangle
+181 '0 (217)' triangle
+182 '0 (218)' ellipse
+183 '0 (219)' triangle
+184 '0 (220)' triangle
+185 '0 (221)' ellipse
+186 '0 (222)' ellipse
+187 '0 (223)' ellipse
+188 '0 (224)' triangle
+189 '0 (225)' triangle
+190 '0 (226)' ellipse
+191 '0 (227)' triangle
+192 '0 (228)' triangle
+193 '0 (229)' triangle
+194 '0 (230)' ellipse
+195 '0 (231)' triangle
+196 '0 (232)' ellipse
+197 '0 (233)' triangle
+198 '0 (234)' triangle
+199 '0 (235)' ellipse
+200 '0 (236)' ellipse
+201 '0 (237)' triangle
+202 '0 (238)' triangle
+203 '0 (239)' triangle
+204 '0 (240)' ellipse
+205 '0 (241)' triangle
+206 '0 (242)' triangle
+207 '0 (243)' triangle
+208 '0 (244)' ellipse
+209 '0 (245)' triangle
+210 '0 (246)' triangle
+211 '0 (247)' triangle
+212 '0 (248)' triangle
+213 '0 (249)' ellipse
+214 '0 (250)' triangle
+215 '0 (251)' triangle
+216 '0 (252)' triangle
+217 '0 (253)' triangle
+218 '0 (254)' ellipse
+219 '0 (255)' triangle
+220 '0 (256)' triangle
+221 '0 (257)' triangle
+222 '0 (258)' ellipse
+223 '0 (259)' ellipse
+224 '0 (260)' triangle
+225 '0 (261)' triangle
+226 '0 (262)' ellipse
+227 '0 (263)' ellipse
+228 '0 (264)' triangle
+229 '0 (265)' triangle
+230 '0 (266)' ellipse
+231 '0 (267)' ellipse
+232 '0 (268)' ellipse
+233 '0 (269)' triangle
+234 '0 (270)' triangle
+235 '0 (271)' triangle
+236 '0 (272)' ellipse
+237 '0 (273)' ellipse
+238 '0 (274)' ellipse
+239 '0 (275)' ellipse
+240 '0 (276)' triangle
+241 '0 (277)' ellipse
+242 '0 (278)' triangle
+243 '0 (279)' ellipse
+244 '0 (280)' ellipse
+245 '0 (281)' triangle
+246 '0 (282)' ellipse
+247 '0 (283)' triangle
+248 '0 (284)' triangle
+249 '0 (285)' ellipse
+250 '0 (286)' triangle
+251 '0 (287)' ellipse
+252 '0 (288)' triangle
+253 '0 (289)' triangle
+254 '0 (290)' ellipse
+255 '0 (291)' ellipse
+256 '0 (292)' triangle
+257 '0 (293)' ellipse
+258 '0 (294)' ellipse
+259 '0 (295)' ellipse
+260 '0 (296)' ellipse
+261 '0 (297)' triangle
+262 '0 (298)' triangle
+263 '0 (299)' triangle
+264 '0 (300)' ellipse
+265 '0 (301)' triangle
+266 '0 (302)' ellipse
+267 '0 (303)' triangle
+268 '0 (304)' ellipse
+269 '0 (305)' triangle
+270 '0 (306)' triangle
+271 '0 (307)' ellipse
+272 '0 (308)' triangle
+273 '0 (309)' ellipse
+274 '0 (400)' triangle
+275 '0 (401)' triangle
+276 '0 (402)' triangle
+277 '0 (403)' ellipse
+278 '0 (404)' ellipse
+279 '0 (405)' triangle
+280 '0 (406)' triangle
+281 '0 (407)' ellipse
+282 '0 (410)' triangle
+283 '0 (411)' triangle
+284 '0 (412)' triangle
+285 '0 (413)' triangle
+286 '0 (414)' ellipse
+287 '0 (416)' ellipse
+288 '0 (417)' triangle
+289 '0 (418)' triangle
+290 '0 (419)' triangle
+291 '0 (420)' ellipse
+292 '0 (421)' triangle
+293 '0 (422)' triangle
+294 '0 (423)' triangle
+295 '0 (424)' triangle
+296 '0 (425)' triangle
+297 '0 (426)' ellipse
+298 '0 (427)' ellipse
+299 '0 (428)' ellipse
+300 '0 (429)' triangle
+301 '0 (430)' triangle
+302 '0 (431)' triangle
+303 '0 (432)' ellipse
+304 '0 (433)' triangle
+305 '0 (434)' triangle
+306 '0 (435)' triangle
+307 '0 (436)' triangle
+308 '0 (438)' ellipse
+309 '0 (439)' triangle
+310 '0 (440)' triangle
+311 '0 (441)' triangle
+312 '0 (442)' triangle
+313 '0 (443)' ellipse
+314 '0 (444)' ellipse
+315 '0 (445)' ellipse
+316 '0 (446)' triangle
+317 '0 (447)' triangle
+318 '0 (448)' triangle
+319 '0 (449)' ellipse
+320 '0 (450)' ellipse
+321 '0 (451)' triangle
+322 '0 (452)' triangle
+323 '0 (453)' triangle
+324 '0 (454)' triangle
+325 '0 (455)' triangle
+326 '0 (456)' ellipse
+327 '0 (457)' ellipse
+328 '0 (458)' triangle
+329 '0 (459)' triangle
+330 '0 (461)' triangle
+331 '0 (462)' ellipse
+332 '0 (463)' ellipse
+333 '0 (465)' triangle
+334 '0 (467)' triangle
+335 '0 (468)' ellipse
+336 '0 (469)' triangle
+337 '0 (470)' ellipse
+*arcs
+3 1 1
+4 1 1
+5 21 1
+5 17 1
+5 216 1
+5 70 1
+5 4 1
+6 21 1
+6 17 1
+6 216 1
+6 70 1
+6 4 1
+9 183 1
+9 229 1
+9 8 1
+9 182 1
+10 183 1
+10 229 1
+10 8 1
+10 182 1
+11 7 1
+12 192 1
+12 11 1
+12 14 1
+12 218 1
+12 193 1
+12 226 1
+12 225 1
+12 105 1
+13 192 1
+13 11 1
+13 14 1
+13 218 1
+13 193 1
+13 226 1
+13 225 1
+13 105 1
+17 15 1
+17 228 1
+17 19 1
+16 15 1
+16 228 1
+16 19 1
+21 230 1
+21 18 1
+20 230 1
+20 18 1
+23 24 1
+23 231 1
+22 24 1
+22 231 1
+29 236 1
+29 235 1
+29 26 1
+28 236 1
+28 235 1
+28 26 1
+31 29 1
+30 29 1
+34 37 1
+34 35 1
+34 32 1
+35 71 1
+32 30 1
+33 37 1
+33 35 1
+33 32 1
+38 87 1
+38 171 1
+38 10 1
+38 88 1
+39 263 1
+39 262 1
+39 261 1
+39 260 1
+39 264 1
+36 71 1
+37 87 1
+37 171 1
+37 88 1
+42 40 1
+42 112 1
+42 64 1
+42 173 1
+42 68 1
+42 59 1
+43 40 1
+43 112 1
+43 64 1
+43 173 1
+43 68 1
+43 59 1
+40 187 1
+41 187 1
+46 175 1
+46 73 1
+46 167 1
+46 176 1
+46 45 1
+46 174 1
+46 67 1
+47 175 1
+47 73 1
+47 167 1
+47 176 1
+47 45 1
+47 174 1
+47 67 1
+51 172 1
+51 50 1
+51 163 1
+51 161 1
+49 62 1
+49 44 1
+49 60 1
+48 62 1
+48 44 1
+48 60 1
+55 51 1
+55 3 1
+54 51 1
+54 3 1
+53 172 1
+53 50 1
+53 163 1
+53 161 1
+59 186 1
+59 63 1
+59 61 1
+59 237 1
+59 185 1
+58 186 1
+58 63 1
+58 61 1
+58 237 1
+58 185 1
+57 130 1
+57 48 1
+57 52 1
+56 130 1
+56 48 1
+56 52 1
+60 262 1
+60 261 1
+60 260 1
+70 66 1
+70 217 1
+70 110 1
+70 69 1
+70 158 1
+70 258 1
+70 184 1
+71 110 1
+71 69 1
+71 158 1
+71 258 1
+71 184 1
+76 74 1
+76 190 1
+76 101 1
+76 78 1
+77 232 1
+78 197 1
+78 198 1
+78 196 1
+72 66 1
+72 217 1
+73 189 1
+73 188 1
+74 189 1
+74 188 1
+75 74 1
+75 232 1
+75 190 1
+75 101 1
+75 78 1
+85 194 1
+85 25 1
+84 197 1
+84 198 1
+84 196 1
+87 81 1
+87 65 1
+87 41 1
+86 81 1
+86 65 1
+86 41 1
+83 80 1
+83 84 1
+83 180 1
+83 179 1
+83 85 1
+83 79 1
+82 80 1
+82 84 1
+82 180 1
+82 179 1
+82 85 1
+82 79 1
+93 75 1
+92 214 1
+92 213 1
+92 12 1
+95 77 1
+95 22 1
+95 20 1
+95 99 1
+95 120 1
+94 75 1
+89 16 1
+89 146 1
+91 214 1
+91 213 1
+91 12 1
+90 16 1
+90 146 1
+102 109 1
+102 191 1
+102 270 1
+102 104 1
+102 140 1
+102 271 1
+102 111 1
+103 104 1
+103 271 1
+100 28 1
+100 98 1
+100 23 1
+101 191 1
+101 270 1
+101 140 1
+96 77 1
+96 22 1
+96 20 1
+96 99 1
+96 120 1
+97 28 1
+97 98 1
+97 23 1
+111 202 1
+111 204 1
+111 205 1
+111 206 1
+111 203 1
+106 2 1
+107 2 1
+119 89 1
+119 83 1
+118 89 1
+118 83 1
+117 121 1
+117 170 1
+117 46 1
+117 9 1
+117 136 1
+117 90 1
+117 82 1
+117 31 1
+117 166 1
+117 91 1
+117 42 1
+117 53 1
+116 47 1
+116 168 1
+116 169 1
+115 47 1
+115 168 1
+115 169 1
+114 113 1
+113 205 1
+113 206 1
+112 202 1
+112 204 1
+112 203 1
+127 38 1
+126 38 1
+125 58 1
+125 131 1
+125 165 1
+124 58 1
+124 131 1
+124 165 1
+123 102 1
+122 102 1
+121 234 1
+121 233 1
+120 234 1
+120 233 1
+137 215 1
+137 13 1
+136 106 1
+136 108 1
+136 114 1
+139 194 1
+139 25 1
+138 215 1
+138 13 1
+140 263 1
+140 264 1
+143 111 1
+142 10 1
+129 132 1
+128 27 1
+130 132 1
+130 27 1
+133 49 1
+135 106 1
+135 108 1
+135 114 1
+134 49 1
+154 156 1
+154 153 1
+155 156 1
+155 153 1
+158 157 1
+159 164 1
+159 162 1
+144 109 1
+145 147 1
+145 148 1
+145 149 1
+146 238 1
+147 238 1
+148 239 1
+148 240 1
+148 152 1
+148 151 1
+148 241 1
+149 150 1
+169 177 1
+160 164 1
+160 162 1
+185 201 1
+190 207 1
+190 208 1
+182 199 1
+182 200 1
+182 181 1
+183 178 1
+180 195 1
+194 211 1
+194 212 1
+194 210 1
+194 209 1
+222 243 1
+222 242 1
+218 251 1
+218 250 1
+213 221 1
+213 220 1
+213 219 1
+213 222 1
+214 224 1
+214 223 1
+215 227 1
+239 268 1
+239 267 1
+238 266 1
+238 265 1
+232 259 1
+228 256 1
+228 254 1
+228 252 1
+228 257 1
+228 253 1
+228 255 1
+226 248 1
+226 249 1
+225 244 1
+225 246 1
+225 247 1
+225 245 1
+241 269 1
+272 273 1
+287 195 1
+286 224 1
+286 223 1
+271 272 1
+305 207 1
+305 208 1
+307 221 1
+307 220 1
+307 219 1
+307 222 1
+309 150 1
+311 248 1
+311 249 1
+310 239 1
+310 240 1
+310 241 1
+313 252 1
+313 253 1
+312 251 1
+312 250 1
+314 256 1
+314 254 1
+314 257 1
+314 255 1
+318 259 1
+289 200 1
+289 181 1
+290 199 1
+294 201 1
+327 178 1
+324 268 1
+324 267 1
+325 269 1
+323 266 1
+323 265 1
+335 244 1
+335 246 1
+335 247 1
+335 245 1
+332 227 1
+333 243 1
+333 242 1
+330 211 1
+330 212 1
+330 210 1
+330 209 1
+*edges
+1 2 1
+3 4 1
+5 6 1
+8 7 1
+10 9 1
+13 12 1
+15 14 1
+17 16 1
+18 19 1
+22 21 1
+20 21 1
+22 23 1
+24 25 1
+26 27 1
+28 29 1
+31 30 1
+36 35 1
+33 34 1
+142 38 1
+140 39 1
+60 39 1
+37 38 1
+43 42 1
+40 41 1
+47 46 1
+44 45 1
+52 51 1
+53 51 1
+50 49 1
+48 49 1
+54 55 1
+59 58 1
+56 57 1
+63 141 1
+63 62 1
+293 61 1
+292 61 1
+60 61 1
+69 68 1
+70 72 1
+70 71 1
+64 65 1
+108 65 1
+66 67 1
+288 78 1
+84 78 1
+79 78 1
+74 73 1
+75 77 1
+75 76 1
+139 85 1
+87 86 1
+81 80 1
+83 82 1
+93 94 1
+95 96 1
+90 89 1
+88 89 1
+92 91 1
+143 102 1
+103 102 1
+144 102 1
+101 102 1
+98 99 1
+100 97 1
+132 111 1
+112 111 1
+113 111 1
+110 109 1
+107 106 1
+105 104 1
+118 119 1
+115 116 1
+127 126 1
+124 125 1
+122 123 1
+120 121 1
+137 138 1
+129 130 1
+128 130 1
+131 130 1
+133 134 1
+135 136 1
+153 152 1
+155 154 1
+156 157 1
+328 158 1
+159 160 1
+147 146 1
+310 148 1
+309 149 1
+150 151 1
+279 170 1
+280 170 1
+283 175 1
+282 174 1
+173 281 1
+163 164 1
+161 162 1
+167 278 1
+276 166 1
+275 166 1
+274 165 1
+295 186 1
+296 187 1
+184 291 1
+294 185 1
+305 190 1
+304 190 1
+188 297 1
+189 298 1
+302 178 1
+284 176 1
+285 177 1
+289 182 1
+290 182 1
+183 327 1
+180 287 1
+201 303 1
+300 200 1
+301 199 1
+193 299 1
+192 331 1
+330 194 1
+333 222 1
+334 223 1
+216 308 1
+312 218 1
+307 213 1
+214 286 1
+215 332 1
+306 208 1
+324 239 1
+323 238 1
+322 237 1
+321 236 1
+234 319 1
+233 320 1
+317 232 1
+318 232 1
+316 231 1
+336 230 1
+229 315 1
+228 313 1
+228 314 1
+311 226 1
+225 335 1
+253 277 1
+325 241 1
+272 337 1
+329 259 1
+269 326 1

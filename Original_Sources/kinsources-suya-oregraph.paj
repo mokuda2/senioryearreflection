@@ -1,0 +1,595 @@
+*Network Ore graph kinsources-suya.puc
+
+*vertices 219
+1 'Gaihwuko (1)' ellipse
+2 'Sireti (2)' ellipse
+3 'Gaisonta (3)' ellipse
+4 'Iawekidi (4)' ellipse
+5 'Kokontü (5)' ellipse
+6 'Kokohwa (6)' ellipse
+7 'Gaisoti (7)' ellipse
+8 'Gaikawno (8)' ellipse
+9 'Edju (9)' ellipse
+10 'Kupenmbetkande (10)' triangle
+11 'Gaikrã (11)' ellipse
+12 'Hwanduwumba (12)' triangle
+13 'Wenioro (13)' triangle
+14 'Ianaru (14)' triangle
+15 'Wausüreti (15)' triangle
+16 'Ropti (16)' triangle
+17 'Poikokidi (17)' triangle
+18 'Tonwuti (18)' triangle
+19 'Gaitemti (19)' ellipse
+20 'Turu (20)' ellipse
+21 '? (21)' ellipse
+22 'Gaindawmbedi (22)' ellipse
+23 '? (23)' triangle
+24 'Hwatigi (24)' triangle
+25 'Temokati (25)' triangle
+26 'Sôkrantugu (26)' triangle
+27 'Ñikragaise (27)' triangle
+28 'Angrodiyi (28)' ellipse
+29 'Dombedi (29)' triangle
+30 'Koirada (30)' triangle
+31 'Petoroti (31)' triangle
+32 'Kamriso (32)' ellipse
+33 'Kokomasama (33)' ellipse
+34 'Gaisonta (34)' triangle
+35 'Tebnti (35)' ellipse
+36 'Wetemti (36)' ellipse
+37 'Tebrinti (37)' ellipse
+38 'Gaiti (38)' ellipse
+39 'Ngatuhrigi (39)' triangle
+40 'Niokombedi (40)' triangle
+41 'Kowo (41)' triangle
+42 'Motindaw (42)' triangle
+43 'Botesi (43)' triangle
+44 'Sokini (44)' triangle
+45 'Takulu (101)' ellipse
+46 'Hwanke (102)' ellipse
+47 'Gaikra (103)' ellipse
+48 'Kokoyango (104)' ellipse
+49 'Niokombedi (105)' triangle
+50 'Moti (106)' triangle
+51 'Gaimbedi (107)' ellipse
+52 'Gaiwuti (108)' ellipse
+53 'Kahranti (109)' triangle
+54 'Ntoni (110)' triangle
+55 'Kahrantoti (111)' triangle
+56 'Gaitemti (112)' ellipse
+57 'Hwadubndaw (113)' triangle
+58 'Kwokwoni (114)' ellipse
+59 'Kogrere (115)' ellipse
+60 'Pekuho (116)' triangle
+61 'Wekwoiyi (117)' ellipse
+62 'Botesi (118)' triangle
+63 'Sokini (119)' triangle
+64 'Kaikwati (120)' triangle
+65 'Temwensoti (121)' triangle
+66 'Temwensoti (122)' triangle
+67 'Gaihwari (123)' ellipse
+68 '? (124)' triangle
+69 '? (125)' triangle
+70 '? (126)' triangle
+71 'Amtügaikidi (127)' ellipse
+72 'Wausüreti (128)' triangle
+73 'Gaiti (129)' ellipse
+74 'Sireti (130)' ellipse
+75 'Moti (131)' triangle
+76 'Gaisari (132)' ellipse
+77 'Domba (133)' triangle
+78 'Makayare (134)' ellipse
+79 '? (135)' ellipse
+80 'Kodngoti (136)' triangle
+81 'Gaikruti (137)' ellipse
+82 'Mekwoiti (138)' ellipse
+83 'Kokomasama (139)' ellipse
+84 'Gaihwü (140)' ellipse
+85 'Kuyayu (141)' ellipse
+86 'Wetacti (142)' triangle
+87 'Niogo (143)' triangle
+88 'Kwokwoni (144)' ellipse
+89 'Kokoti (145)' ellipse
+90 'Tonluti (146)' ellipse
+91 'Gaihri (147)' ellipse
+92 'Hwadubndo (148)' triangle
+93 'Hwaintü (149)' triangle
+94 'Gaimoti (150)' ellipse
+95 'Ndemonti (151)' triangle
+96 'Krätügü (152)' ellipse
+97 'Gaihwa (153)' ellipse
+98 '? (154)' ellipse
+99 'Roptindi (155)' ellipse
+100 'Kupenmbetkande (156)' triangle
+101 'Makaiwa (201)' triangle
+102 'Kokowiriti (202)' triangle
+103 'Soi (203)' ellipse
+104 'Waraku (204)' triangle
+105 'Gaiso (205)' ellipse
+106 'Ntontumu (206)' triangle
+107 'Sireti (207)' ellipse
+108 'Iawekïdi (208)' ellipse
+109 'Kupenbetkande (209)' triangle
+110 'Gaiwuti (210)' ellipse
+111 '? (211)' triangle
+112 'Gaiyindawti (212)' ellipse
+113 'Wegmele (213)' triangle
+114 'Hwatigi (214)' triangle
+115 'Kokohwati (215)' triangle
+116 '? (216)' ellipse
+117 'Koti (217)' triangle
+118 'Kokoiatene (218)' triangle
+119 'Gasari (219)' ellipse
+120 'Tonwuti (220)' triangle
+121 'Kuyayu (221)' ellipse
+122 'Roptuki (222)' triangle
+123 'Kokomasama (223)' ellipse
+124 'Kahrantochi (224)' triangle
+125 'Sokso (225)' ellipse
+126 'Aimengwatoti (226)' triangle
+127 'Takuti (227)' triangle
+128 '? (228)' ellipse
+129 'Temokati (229)' triangle
+130 'Kokoti (230)' ellipse
+131 'Peti (231)' triangle
+132 'Kokontü (232)' ellipse
+133 'Ngatuhrigi (233)' triangle
+134 'Mbeni (234)' ellipse
+135 'Robndokïti (235)' triangle
+136 'Krakuti (236)' triangle
+137 'Dombati (238)' triangle
+138 '? (239)' triangle
+139 'Angrodiyi (240)' ellipse
+140 'Kuyusi (241)' triangle
+141 'Gaiti (242)' ellipse
+142 'Pekuho (243)' triangle
+143 'Tebnti (244)' triangle
+144 'Gaikrati (245)' ellipse
+145 'Gaisanti (246)' ellipse
+146 'Hwankure (301)' ellipse
+147 '? (302)' triangle
+148 'Djakaungra (303)' triangle
+149 'Kokoyango (304)' ellipse
+150 'Gaisokti (305)' ellipse
+151 'Bentüti (306)' triangle
+152 'Gaihwukoti (307)' ellipse
+153 'Doyahogo (308)' ellipse
+154 'Kogrere (309)' triangle
+155 'Gaikoti (310)' ellipse
+156 'Kaka (311)' ellipse
+157 'Koti (312)' triangle
+158 'Kuyayu (313)' ellipse
+159 'Kogrere (314)' triangle
+160 'Angrodiyi (315)' ellipse
+161 'Temwensoti (316)' triangle
+162 'Tonluti (317)' ellipse
+163 'Kokohrikti (318)' triangle
+164 'Gaimbedi (319)' ellipse
+165 'Temokati (320)' triangle
+166 'Sökretügü (321)' ellipse
+167 'Sireti (322)' ellipse
+168 'Moti (323)' triangle
+169 'Dombati (324)' triangle
+170 'Wekwoiti (325)' ellipse
+171 'Hwaintü (326)' triangle
+172 'Botesi (327)' triangle
+173 'Sökrantügü (328)' triangle
+174 'Ñikragaise (329)' triangle
+175 'Kokohwinre (330)' triangle
+176 'Ropti (331)' triangle
+177 'Gaimoti (332)' ellipse
+178 'Tebrinti (333)' ellipse
+179 'Hwaintü (334)' triangle
+180 'Wetepkulu (335)' triangle
+181 'Awasinaku (336)' ellipse
+182 'Ndemonti (337)' triangle
+183 'Kokomasama (338)' ellipse
+184 'Kokohraw (339)' ellipse
+185 'Nikrambedi (401)' triangle
+186 'Ianaru (402)' triangle
+187 'Pednkopti (403)' triangle
+188 'Gaisöröti (404)' ellipse
+189 'Kokombü (405)' ellipse
+190 'Bentukradi (406)' triangle
+191 '? (407)' ellipse
+192 'Bentukradi (408)' triangle
+193 'Hwanketi (409)' ellipse
+194 'Kodngoti (410)' triangle
+195 'Tonluti (411)' ellipse
+196 'Waraku (412)' triangle
+197 'Pekühü (413)' ellipse
+198 'Pekühü (414)' ellipse
+199 'Waraku (415)' triangle
+200 'Takarawti (416)' triangle
+201 '? (417)' ellipse
+202 'Asisi (1001)' triangle
+203 'Mairawe (1002)' triangle
+204 'Suti (1003)' triangle
+205 'Mapalu (1004)' triangle
+206 '? (1005)' triangle
+207 '? (1006)' triangle
+208 '? (1007)' ellipse
+209 'Antonio (1008)' triangle
+210 '? (1009)' triangle
+211 'Kokoti (1010)' ellipse
+212 'Nikiti (1011)' ellipse
+213 '? (1012)' triangle
+214 'Gaimo (1013)' ellipse
+215 '? (1014)' triangle
+216 '? (1015)' ellipse
+217 '? (1016)' ellipse
+218 '? (1017)' triangle
+219 '? (1018)' triangle
+*arcs
+46 5 1
+46 4 1
+47 6 1
+45 1 1
+45 2 1
+45 3 1
+49 12 1
+49 11 1
+48 7 1
+48 8 1
+54 18 1
+54 19 1
+59 10 1
+59 9 1
+61 12 1
+61 11 1
+68 13 1
+70 14 1
+71 14 1
+64 34 1
+64 35 1
+64 44 1
+64 36 1
+64 37 1
+64 43 1
+66 30 1
+66 29 1
+66 31 1
+66 32 1
+66 28 1
+66 33 1
+67 13 1
+76 18 1
+76 19 1
+79 20 1
+73 15 1
+74 16 1
+74 17 1
+75 15 1
+85 27 1
+84 26 1
+84 24 1
+84 25 1
+81 23 1
+81 22 1
+80 21 1
+95 38 1
+89 32 1
+89 33 1
+88 30 1
+88 29 1
+88 31 1
+88 28 1
+91 36 1
+91 37 1
+90 34 1
+90 35 1
+103 49 1
+103 51 1
+103 52 1
+103 50 1
+103 53 1
+103 47 1
+103 48 1
+101 46 1
+101 45 1
+96 39 1
+96 40 1
+97 41 1
+97 42 1
+110 57 1
+110 56 1
+110 58 1
+110 55 1
+111 57 1
+111 58 1
+109 56 1
+109 55 1
+107 46 1
+107 45 1
+104 49 1
+104 51 1
+104 52 1
+104 50 1
+104 53 1
+104 54 1
+104 47 1
+104 48 1
+105 54 1
+118 100 1
+117 63 1
+117 62 1
+116 63 1
+116 62 1
+113 60 1
+113 61 1
+113 59 1
+112 67 1
+112 60 1
+112 61 1
+112 65 1
+112 64 1
+112 59 1
+112 66 1
+127 79 1
+127 78 1
+127 26 1
+127 24 1
+127 25 1
+127 77 1
+126 74 1
+126 75 1
+126 76 1
+125 74 1
+125 75 1
+125 76 1
+125 94 1
+123 71 1
+123 73 1
+123 72 1
+122 71 1
+122 73 1
+122 72 1
+120 67 1
+120 65 1
+120 64 1
+120 66 1
+136 94 1
+141 96 1
+141 98 1
+141 95 1
+141 97 1
+141 99 1
+142 96 1
+142 98 1
+142 95 1
+142 97 1
+142 99 1
+129 80 1
+129 81 1
+128 79 1
+128 78 1
+128 77 1
+130 80 1
+130 83 1
+130 81 1
+130 82 1
+133 87 1
+133 86 1
+133 93 1
+133 90 1
+133 84 1
+133 85 1
+133 92 1
+133 89 1
+133 91 1
+133 88 1
+132 87 1
+132 86 1
+132 84 1
+132 85 1
+134 93 1
+134 90 1
+134 92 1
+134 89 1
+134 91 1
+134 88 1
+152 110 1
+152 107 1
+152 108 1
+153 113 1
+153 114 1
+153 115 1
+154 113 1
+154 114 1
+154 115 1
+158 118 1
+158 112 1
+158 117 1
+159 118 1
+159 112 1
+159 117 1
+146 103 1
+146 101 1
+146 102 1
+147 103 1
+147 101 1
+147 102 1
+148 106 1
+148 104 1
+149 106 1
+149 104 1
+151 110 1
+151 107 1
+151 108 1
+170 127 1
+170 130 1
+169 127 1
+169 130 1
+168 126 1
+168 124 1
+168 119 1
+174 131 1
+163 122 1
+162 122 1
+161 120 1
+161 121 1
+160 120 1
+160 121 1
+167 126 1
+167 124 1
+167 119 1
+165 123 1
+164 123 1
+187 150 1
+187 151 1
+187 149 1
+184 131 1
+190 160 1
+191 161 1
+188 150 1
+188 151 1
+188 149 1
+189 160 1
+178 141 1
+178 140 1
+178 139 1
+179 138 1
+179 136 1
+179 134 1
+179 141 1
+179 137 1
+179 140 1
+179 139 1
+179 135 1
+177 138 1
+177 136 1
+177 134 1
+177 137 1
+177 135 1
+182 142 1
+182 143 1
+182 145 1
+182 144 1
+183 145 1
+181 142 1
+181 143 1
+181 144 1
+205 10 1
+205 9 1
+204 7 1
+204 8 1
+204 6 1
+207 20 1
+206 16 1
+206 17 1
+201 182 1
+200 182 1
+203 5 1
+203 4 1
+202 1 1
+202 2 1
+202 3 1
+197 175 1
+197 174 1
+197 176 1
+196 175 1
+196 174 1
+196 176 1
+199 179 1
+199 180 1
+198 179 1
+198 180 1
+193 170 1
+193 168 1
+192 161 1
+195 172 1
+195 171 1
+195 173 1
+194 172 1
+194 170 1
+194 168 1
+194 171 1
+194 173 1
+216 44 1
+216 43 1
+217 100 1
+218 83 1
+218 82 1
+213 212 1
+213 211 1
+214 212 1
+214 38 1
+214 211 1
+215 41 1
+215 42 1
+215 39 1
+215 40 1
+208 21 1
+209 23 1
+209 22 1
+210 27 1
+*edges
+203 46 1
+204 47 1
+202 45 1
+50 94 1
+49 61 1
+204 48 1
+54 76 1
+205 59 1
+70 71 1
+64 90 1
+64 216 1
+64 91 1
+66 89 1
+66 88 1
+68 67 1
+207 79 1
+75 73 1
+206 74 1
+210 85 1
+127 84 1
+86 99 1
+209 81 1
+80 208 1
+95 214 1
+104 103 1
+101 107 1
+219 98 1
+215 96 1
+215 97 1
+111 110 1
+109 110 1
+104 105 1
+118 217 1
+117 116 1
+113 112 1
+120 112 1
+127 128 1
+126 125 1
+136 125 1
+122 123 1
+142 141 1
+129 130 1
+218 130 1
+133 134 1
+133 132 1
+154 153 1
+159 158 1
+147 146 1
+148 149 1
+151 152 1
+169 170 1
+174 184 1
+163 162 1
+161 160 1
+168 167 1
+165 164 1
+187 188 1
+192 191 1
+190 189 1
+179 178 1
+179 177 1
+182 183 1
+182 181 1
+200 201 1
+196 197 1
+199 198 1
+194 193 1
+194 195 1
+213 214 1

@@ -1,0 +1,203 @@
+*Network Ore graph kinsources-tiwi.puc
+
+*vertices 87
+1 ' (1)' triangle
+2 ' (2)' ellipse
+3 'Y (3)' ellipse
+4 'J (4)' triangle
+5 'JY (5)' triangle
+6 'B (6)' triangle
+7 'P (7)' ellipse
+8 'F (9)' ellipse
+9 'M (11)' ellipse
+10 'BG (12)' triangle
+11 ' (14)' triangle
+12 ' (15)' triangle
+13 ' (19)' triangle
+14 ' (20)' ellipse
+15 ' (21)' triangle
+16 ' (22)' ellipse
+17 'MY (27)' ellipse
+18 'OJ (28)' triangle
+19 'MN (29)' ellipse
+20 ' (30)' ellipse
+21 ' (31)' triangle
+22 ' (32)' triangle
+23 'MA (35)' ellipse
+24 'D (36)' triangle
+25 ' (37)' triangle
+26 'N (38)' ellipse
+27 'LC (39)' triangle
+28 'R (40)' triangle
+29 'LG (41)' ellipse
+30 'C (42)' ellipse
+31 'M2 (43)' triangle
+32 'JN (44)' triangle
+33 ' (45)' ellipse
+34 'BH (46)' triangle
+35 'H (48)' ellipse
+36 'A (50)' ellipse
+37 'YM (51)' triangle
+38 'R (52)' ellipse
+39 ' (54)' ellipse
+40 ' (56)' ellipse
+41 ' (58)' ellipse
+42 ' (59)' triangle
+43 ' (60)' ellipse
+44 ' (61)' ellipse
+45 ' (62)' ellipse
+46 ' (64)' ellipse
+47 'R2 (65)' ellipse
+48 'J (66)' triangle
+49 ' (67)' triangle
+50 ' (68)' ellipse
+51 ' (69)' triangle
+52 'M1 (70)' triangle
+53 ' (71)' ellipse
+54 'F (74)' triangle
+55 'B (75)' ellipse
+56 'P (76)' triangle
+57 'M (77)' ellipse
+58 'JE (79)' ellipse
+59 'S (80)' triangle
+60 ' (81)' ellipse
+61 'PO (82)' triangle
+62 'S (83)' ellipse
+63 'LP (84)' triangle
+64 'D (85)' ellipse
+65 'PB (86)' triangle
+66 ' (87)' ellipse
+67 ' (88)' triangle
+68 ' (89)' ellipse
+69 'H (90)' triangle
+70 ' (91)' ellipse
+71 'OW (92)' triangle
+72 'E (93)' ellipse
+73 ' (94)' ellipse
+74 'AL (95)' triangle
+75 'P (96)' ellipse
+76 'BJ (97)' triangle
+77 'M (98)' ellipse
+78 'A (100)' ellipse
+79 'FA (101)' ellipse
+80 'T (102)' triangle
+81 'BB (103)' ellipse
+82 'Y (104)' ellipse
+83 'PY (105)' triangle
+84 ' (107)' ellipse
+85 'D (108)' ellipse
+86 'YB (109)' triangle
+87 'H (110)' ellipse
+*arcs
+1 6 1
+1 4 1
+2 5 1
+3 8 1
+3 9 1
+3 7 1
+7 26 1
+9 34 1
+12 1 1
+12 13 1
+12 3 1
+12 2 1
+13 17 1
+14 6 1
+14 17 1
+15 18 1
+17 27 1
+16 19 1
+16 20 1
+19 30 1
+19 28 1
+18 30 1
+18 27 1
+18 28 1
+20 32 1
+26 35 1
+30 37 1
+30 36 1
+35 39 1
+33 38 1
+38 41 1
+36 40 1
+43 48 1
+43 46 1
+46 54 1
+47 59 1
+47 58 1
+47 55 1
+47 57 1
+44 52 1
+44 51 1
+45 53 1
+50 60 1
+50 61 1
+48 59 1
+48 58 1
+48 55 1
+48 57 1
+55 70 1
+53 65 1
+53 63 1
+58 73 1
+57 72 1
+62 75 1
+62 74 1
+62 77 1
+68 83 1
+64 78 1
+66 81 1
+66 82 1
+77 85 1
+77 87 1
+75 84 1
+*edges
+1 14 1
+4 35 1
+5 36 1
+6 8 1
+6 9 1
+6 7 1
+6 23 1
+10 9 1
+22 9 1
+11 9 1
+13 14 1
+18 17 1
+18 19 1
+21 20 1
+25 26 1
+24 38 1
+27 26 1
+28 39 1
+31 30 1
+34 40 1
+32 33 1
+37 38 1
+42 41 1
+48 47 1
+51 50 1
+49 50 1
+56 55 1
+54 55 1
+52 53 1
+59 84 1
+56 58 1
+56 57 1
+63 64 1
+63 62 1
+61 62 1
+69 70 1
+71 72 1
+65 64 1
+65 66 1
+67 68 1
+76 78 1
+76 77 1
+80 79 1
+74 73 1
+76 75 1
+86 85 1
+86 87 1
+83 82 1

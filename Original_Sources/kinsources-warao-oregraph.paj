@@ -1,0 +1,8076 @@
+*Network Ore graph Warao.puc
+
+*vertices 2899
+1 'GUILLERMINA (6601)' ellipse
+2 'JAIME (6602)' triangle
+3 'VALENCIA (6603)' ellipse
+4 'NATALIO (6604)' triangle
+5 'DELFINA (6605)' ellipse
+6 'ERNESTO (6606)' triangle
+7 'FEMALE (6607)' ellipse
+8 'ENEMESIO NONACI (6608)' triangle
+9 'FEMALE (6609)' ellipse
+10 'MANI TORRES (6612)' triangle
+11 'FEMALE (6613)' ellipse
+12 'RENCO CARLOS TO (6614)' triangle
+13 'JOSE AGUSTIN (6616)' triangle
+14 'FEMALE (6617)' ellipse
+15 'MALE (6618)' triangle
+16 'FEMALE (6619)' ellipse
+17 'MACHADO (6620)' triangle
+18 'ISABEL GIOVETTI (6621)' ellipse
+19 'EMILIANO JIMENEZ (6622)' triangle
+20 'FEMALE (6623)' ellipse
+21 'JUAN  VICENTE (6624)' triangle
+22 'ISABEL GOMEZ (6625)' ellipse
+23 'SIMOTEO (6626)' triangle
+24 'FEMALE (6627)' ellipse
+25 'CRISTOBAL (6628)' triangle
+26 'MOLINO (6630)' triangle
+27 'LILIA (6631)' ellipse
+28 'JOSE MARIA (6632)' triangle
+29 'FEMALE (6633)' ellipse
+30 'BERNARDO (6634)' triangle
+31 'FEMALE (6635)' ellipse
+32 'TEODORO (6636)' triangle
+33 'FEMALE (6637)' ellipse
+34 'TARCISIO (6638)' triangle
+35 'MARIA LAVA (6639)' ellipse
+36 'NARCISIO (6640)' triangle
+37 'FEMALE (6641)' ellipse
+38 'CORNELIO (6642)' triangle
+39 'FEMALE (6643)' ellipse
+40 'MALE (6644)' triangle
+41 'EUSTACIA (6645)' ellipse
+42 'BENITO (6646)' triangle
+43 'FELICIA (BELICIA (6647)' ellipse
+44 'CHENTE (6648)' triangle
+45 'ANGELA (6649)' ellipse
+46 'OUINTIN (6650)' triangle
+47 'ADELAIDA (6651)' ellipse
+48 'ANGELINA (6653)' ellipse
+49 'GASPAR (6654)' triangle
+50 'AURELIA (6655)' ellipse
+51 'EPIFANIO (6656)' triangle
+52 'MARIA ROSA (6657)' ellipse
+53 'MALE (6658)' triangle
+54 'CATALINA (6659)' ellipse
+55 'ADELIO (6660)' triangle
+56 'MAGDALENA (6661)' ellipse
+57 'CANDIDO (6662)' triangle
+58 'ISABEL (6665)' ellipse
+59 'CONCEPCION (6666)' ellipse
+60 'LAURA (6667)' ellipse
+61 'AUGUSTO GOMEZ (6668)' triangle
+62 'ELMA LOPEZ (6669)' ellipse
+63 'MALE (6670)' triangle
+64 'CECILIA (6671)' ellipse
+65 'MALE (6672)' triangle
+66 'ELSA (6673)' ellipse
+67 'ENRIQUE GOMEZ (6674)' triangle
+68 'REGINA (6675)' ellipse
+69 'JUAN GOMEZ (6676)' triangle
+70 'MERCEDES (6677)' ellipse
+71 'MIGUEL GOMEZ (6678)' triangle
+72 'ADA (6679)' ellipse
+73 'JOSEITO GOMEZ (6680)' triangle
+74 'FEMALE (6681)' ellipse
+75 'MIGUEL GIOVETTI (6682)' triangle
+76 'FEMALE (6683)' ellipse
+77 'MALE (6684)' triangle
+78 'MALE (6686)' triangle
+79 'ADELIA (6687)' ellipse
+80 'JOSE (6688)' triangle
+81 'ERCILIA (6689)' ellipse
+82 'MALE (6690)' triangle
+83 'NELLY (6691)' ellipse
+84 'JESUS  MANUEL (6692)' triangle
+85 'ALEJANDRINA (6693)' ellipse
+86 'TEODOMIRO  GOMEZ (6694)' triangle
+87 'CLERIA (6695)' ellipse
+88 'ABELARDO GOMEZ (6696)' triangle
+89 'LUCIA (6697)' ellipse
+90 'MALE (6698)' triangle
+91 'URSULINA (6699)' ellipse
+92 'LEONARDA (6701)' ellipse
+93 'GABRIEL (6702)' triangle
+94 'ESTELITA (6703)' ellipse
+95 'ARMANDO (6704)' triangle
+96 'LUISA (6705)' ellipse
+97 'OTILIO (6706)' triangle
+98 'NARCISA (6707)' ellipse
+99 'ROMALDO (6708)' triangle
+100 'CUSTODIA (6709)' ellipse
+101 'PORFIRIO (6710)' triangle
+102 'MARIA ALEJANDRI (6711)' ellipse
+103 'SALOMON (6712)' triangle
+104 'DOLORES (6713)' ellipse
+105 'GERANIO (6714)' triangle
+106 'ALICIA (6715)' ellipse
+107 'ELISEO (6716)' triangle
+108 'MARGARITA (6717)' ellipse
+109 'MALE (6718)' triangle
+110 'FEMALE (6719)' ellipse
+111 'MALE (6720)' triangle
+112 'ANGELA (6721)' ellipse
+113 'SANDALINO (6722)' triangle
+114 'NIEVES (6723)' ellipse
+115 'ADRIANO (6724)' triangle
+116 'FEMALE (6725)' ellipse
+117 'MARCELO (6726)' triangle
+118 'FIDELA (6727)' ellipse
+119 'ARGENIO (6728)' triangle
+120 'ASUNCION (6729)' ellipse
+121 'MALE (6730)' triangle
+122 'OFELIA (6731)' ellipse
+123 'MANERO (6732)' triangle
+124 'FEMALE (6733)' ellipse
+125 'SILO (6734)' triangle
+126 'ISUBELA (6735)' ellipse
+127 'MELCHOR (6736)' triangle
+128 'ANA LUISA (6737)' ellipse
+129 'AQUILINO (6738)' triangle
+130 'FEMALE (6739)' ellipse
+131 'AVELINO (6740)' triangle
+132 'SILVINA (6741)' ellipse
+133 'PEDRITO (6742)' triangle
+134 'FEMALE (6743)' ellipse
+135 'MALE (6744)' triangle
+136 'JOSEFINA (6745)' ellipse
+137 'MELCHOR (6746)' triangle
+138 'MELISIA (6747)' ellipse
+139 'ROSELIO (6748)' triangle
+140 'LEONIA (6749)' ellipse
+141 'MALE (6750)' triangle
+142 'PETRICA (6751)' ellipse
+143 'MALE (6752)' triangle
+144 'LOURDES (6753)' ellipse
+145 'GUMERSINDO (6754)' triangle
+146 'FEMALE (6755)' ellipse
+147 'ATILANO (6756)' triangle
+148 'AOUILINA (6757)' ellipse
+149 'TEOBALDO (6758)' triangle
+150 'HERMINIA (6759)' ellipse
+151 'MELQUIADES (6760)' triangle
+152 'JOSEFITA (6761)' ellipse
+153 'EZEOUIEL (6762)' triangle
+154 'ARGELIA (6763)' ellipse
+155 'HANIBAL (6764)' triangle
+156 'VENICIA (6765)' ellipse
+157 'TIBURCIO (6766)' triangle
+158 'SONIA (6767)' ellipse
+159 'ISRAEL (6768)' triangle
+160 'FEMALE (6769)' ellipse
+161 'GOLARIO (6770)' triangle
+162 'ANUNCIATA (6771)' ellipse
+163 'JESUS CHUITO (6772)' triangle
+164 'FEMALE (6773)' ellipse
+165 'QUINTILIANO (6774)' triangle
+166 'FEMALE (6775)' ellipse
+167 'CONRADO (6776)' triangle
+168 'BERTINA (6777)' ellipse
+169 'DELIO (6778)' triangle
+170 'LUCENIA (6779)' ellipse
+171 'DIONISIO (6780)' triangle
+172 'URSULINA (6781)' ellipse
+173 'MANUEL (6782)' triangle
+174 'FEMALE (6783)' ellipse
+175 'ROMANCITO (6784)' triangle
+176 'AGEDA (6785)' ellipse
+177 'LOVICO (6786)' triangle
+178 'CELINA (6787)' ellipse
+179 'MALE (6788)' triangle
+180 'JOAQUINA (6789)' ellipse
+181 'GOYO (6790)' triangle
+182 'ELDINA (6791)' ellipse
+183 'RODOLFO (6792)' triangle
+184 'GUILLERMINA (6793)' ellipse
+185 'MALE (6794)' triangle
+186 'FEMALE (6795)' ellipse
+187 'RAINALDO (6796)' triangle
+188 'SELIMPIA (6797)' ellipse
+189 'MALE (6798)' triangle
+190 'ELOISA (6799)' ellipse
+191 'MICAELA (6801)' ellipse
+192 'MISAEL (6802)' triangle
+193 'MARIA SOLA (6803)' ellipse
+194 'LUCIO (6804)' triangle
+195 'FEMALE (6805)' ellipse
+196 'MALE (6806)' triangle
+197 'FEMALE (6807)' ellipse
+198 'LUIS (6808)' triangle
+199 'FEMALE (6809)' ellipse
+200 'DANIEL (6810)' triangle
+201 'EUDOCIA (6811)' ellipse
+202 'MALE (6812)' triangle
+203 'FEMALE (6813)' ellipse
+204 'MALE (6814)' triangle
+205 'FEMALE (6815)' ellipse
+206 'MALE (6816)' triangle
+207 'FEMALE (6817)' ellipse
+208 'JOSE RIVAS (6818)' triangle
+209 'DOMITILA (6819)' ellipse
+210 'CHECHE (6820)' triangle
+211 'CONCILIA (6821)' ellipse
+212 'VICENTE (6822)' triangle
+213 'FEMALE (6823)' ellipse
+214 'RENO (6824)' triangle
+215 'ELISA (6825)' ellipse
+216 'CHERIQUITO (6826)' triangle
+217 'SIXTA (6827)' ellipse
+218 'MALE (6828)' triangle
+219 'LINA (6829)' ellipse
+220 'PEDRITO (6830)' triangle
+221 'FEMALE (6831)' ellipse
+222 'GIOVETTI (6832)' triangle
+223 'FEMALE (6833)' ellipse
+224 'LA (6834)' ellipse
+225 'FEMALE (6835)' ellipse
+226 'MALE (6836)' triangle
+227 'ANSELMITA (6837)' ellipse
+228 'MALE (6838)' triangle
+229 'FEMALE (6839)' ellipse
+230 'ARSENIO (6840)' triangle
+231 'DOMINGA (6841)' ellipse
+232 'MALE (6842)' triangle
+233 'LEONARDA (6843)' ellipse
+234 'FABIO (6844)' triangle
+235 'FEMALE (6845)' ellipse
+236 'ANTINO (6846)' triangle
+237 'FEMALE (6847)' ellipse
+238 'FRANCISCO TORRES (6848)' triangle
+239 'FEMALE (6849)' ellipse
+240 'JOSE SALOME MEC (6850)' triangle
+241 'CRISTALINA (6851)' ellipse
+242 'MALE (6852)' triangle
+243 'FEMALE TWIN (6853)' ellipse
+244 'MALE (6854)' triangle
+245 'CLAUDINA (6855)' ellipse
+246 'MALE (6856)' triangle
+247 'ASUNTA (6857)' ellipse
+248 'MALE (6858)' triangle
+249 'FEMALE (6859)' ellipse
+250 'FEMALE (6861)' ellipse
+251 'SAMUEL (6862)' triangle
+252 'SINERCIA (6863)' ellipse
+253 'EZEOUIEL (6864)' triangle
+254 'INOCENCIA (6865)' ellipse
+255 'OCTAVIO (6866)' triangle
+256 'GENOVEVA (6867)' ellipse
+257 'ZENON (6868)' triangle
+258 'FEMALE (6869)' ellipse
+259 'MALE (6870)' triangle
+260 'BRIGIDA (6871)' ellipse
+261 'QUINTIN (6872)' triangle
+262 'NIEVES (6873)' ellipse
+263 'LUCIANO (6874)' triangle
+264 'BEGONIA (6875)' ellipse
+265 'ABEL (6876)' triangle
+266 'DITELIA (6877)' ellipse
+267 'MALE (6878)' triangle
+268 'FEMALE (6879)' ellipse
+269 'MALE (6880)' triangle
+270 'FEMALE (6881)' ellipse
+271 'MALE (6882)' triangle
+272 'FEMALE (6883)' ellipse
+273 'OTILIO (6884)' triangle
+274 'IRENA (6885)' ellipse
+275 'ESTEBAN (6886)' triangle
+276 'OFELIA (6887)' ellipse
+277 'MALE (6888)' triangle
+278 'PILAR (6889)' ellipse
+279 'PABLO (6890)' triangle
+280 'FEMALE (6891)' ellipse
+281 'ANGEL (6892)' triangle
+282 'FEMALE (6893)' ellipse
+283 'ALICIO (6894)' triangle
+284 'APOLONIA (6895)' ellipse
+285 'ROGELIO (6896)' triangle
+286 'CATALINA (6897)' ellipse
+287 'MALE (6898)' triangle
+288 'FEMALE (6899)' ellipse
+289 'ANGELINA (6901)' ellipse
+290 'MALE (6902)' triangle
+291 'FEMALE (6903)' ellipse
+292 'AVELINO (6904)' triangle
+293 'EUSEBIA (6905)' ellipse
+294 'NAZARIO (6906)' triangle
+295 'MILAGROS (6907)' ellipse
+296 'MALE (6908)' triangle
+297 'YOLANDA (6909)' ellipse
+298 'MAURICIO (6910)' triangle
+299 'VICTORIA (6911)' ellipse
+300 'CAYETANO (6912)' triangle
+301 'FEMALE (6913)' ellipse
+302 'MALE (6914)' triangle
+303 'ANGELICA (6915)' ellipse
+304 'SANTINO (6916)' triangle
+305 'CRISTINA (6917)' ellipse
+306 'MALE (6918)' triangle
+307 'CARMINA (6919)' ellipse
+308 'JUAN (6920)' triangle
+309 'FEMALE (6921)' ellipse
+310 'LUCAS (6922)' triangle
+311 'SELMIRA (6923)' ellipse
+312 'MELCHOR (6924)' triangle
+313 'CARMEN OLINDA (6925)' ellipse
+314 'MALE (6926)' triangle
+315 'MAGDALENA (6927)' ellipse
+316 'SABINITA (6929)' ellipse
+317 'EFRAIN (6930)' triangle
+318 'ROSITA (6931)' ellipse
+319 'ISAIAS (6932)' triangle
+320 'SANTIAGA (6933)' ellipse
+321 'BERNABE (6934)' triangle
+322 'FEMALE (6935)' ellipse
+323 'MALE (6936)' triangle
+324 'RUPERTA (6937)' ellipse
+325 'MALE (6938)' triangle
+326 'AGUSTINITA (6939)' ellipse
+327 'MALE (6940)' triangle
+328 'SITA (SIXTA (6941)' ellipse
+329 'ELADIO (6942)' triangle
+330 'MARINA (6943)' ellipse
+331 'ERASIMO (6944)' triangle
+332 'JOSEFA (6945)' ellipse
+333 'IVELIO (6946)' triangle
+334 'ISABEL (6947)' ellipse
+335 'ROSELINDO (6948)' triangle
+336 'ANA TERESA (6949)' ellipse
+337 'REMIDO (6950)' triangle
+338 'FEMALE (6951)' ellipse
+339 'MALE (6952)' triangle
+340 'LUISINA (6953)' ellipse
+341 'EFRAIN (6954)' triangle
+342 'REMIGIA (6955)' ellipse
+343 'MALE (6956)' triangle
+344 'NELLY (6957)' ellipse
+345 'JUAN (6958)' triangle
+346 'DOMINGA (6959)' ellipse
+347 'ISAIAS (6960)' triangle
+348 'CONCILIA (6961)' ellipse
+349 'MALE (6962)' triangle
+350 'ROSA (6963)' ellipse
+351 'JULIAN (6964)' triangle
+352 'AGAPITA (6965)' ellipse
+353 'SILVERIO (6966)' triangle
+354 'BANITA (6967)' ellipse
+355 'SERGIO (6968)' triangle
+356 'FEMALE (6969)' ellipse
+357 'RUFINO (6970)' triangle
+358 'RUFIANA (6971)' ellipse
+359 'QUIRINO (6972)' triangle
+360 'DELTINA (CELESTI (6973)' ellipse
+361 'JULIO (6974)' triangle
+362 'AUDELINA (6975)' ellipse
+363 'JOSE SOTO (6976)' triangle
+364 'FEMALE (6977)' ellipse
+365 'QUINTILIANO (6978)' triangle
+366 'MILIA TWIN (6979)' ellipse
+367 'GERVASIO (6980)' triangle
+368 'INOCENCIA (6981)' ellipse
+369 'ONORIO (6982)' triangle
+370 'JOSEFA (6983)' ellipse
+371 'FRANCISCO (6984)' triangle
+372 'ANITA (6985)' ellipse
+373 'MALE (6986)' triangle
+374 'ESTERIA (6987)' ellipse
+375 'RUBEN (6988)' triangle
+376 'FEMALE (6989)' ellipse
+377 'RAMON (6990)' triangle
+378 'ALGA (6991)' ellipse
+379 'AQUILES (6992)' triangle
+380 'IRENIA (6993)' ellipse
+381 'OCTAVIO (6994)' triangle
+382 'TRINA (6995)' ellipse
+383 'RUMALDO (6996)' triangle
+384 'ESTERITA (6997)' ellipse
+385 'MALE (6998)' triangle
+386 'FEMALE (6999)' ellipse
+387 'FEMALE (7701)' ellipse
+388 'MALE (7702)' triangle
+389 'MARCELA (7703)' ellipse
+390 'CIRILO (7704)' triangle
+391 'EPIFANEA (7705)' ellipse
+392 'EDUARDO (7706)' triangle
+393 'SEFERINA SEPERI (7707)' ellipse
+394 'RICARDO (7708)' triangle
+395 'ANTONIA (7709)' ellipse
+396 'IGNACIO (7710)' triangle
+397 'ANGELA DE LA CRUZ (7711)' ellipse
+398 'JUAN DE LA CRUZ (7712)' triangle
+399 'MARCELINA (7713)' ellipse
+400 'TOMAS DE LA CRUZ (7714)' triangle
+401 'MARIA JULIA (7715)' ellipse
+402 'PABLITO (7716)' triangle
+403 'RAMONA (7717)' ellipse
+404 'SAMUEL DARIO (7718)' triangle
+405 'FEMALE (7719)' ellipse
+406 'BIGUI (7720)' triangle
+407 'HORTENSIA (7721)' ellipse
+408 'MALE (7722)' triangle
+409 'FEMALE (7723)' ellipse
+410 'NAPOLEON APOLAN (7724)' triangle
+411 'CONSTANCIA (7725)' ellipse
+412 'MARCELINO (7726)' triangle
+413 'GLORIA (7727)' ellipse
+414 'MALE (7728)' triangle
+415 'FEMALE (7729)' ellipse
+416 'RENO (7730)' triangle
+417 'FERMINA (7731)' ellipse
+418 'ANGEL (7732)' triangle
+419 'ERMINIA (7733)' ellipse
+420 'MALE (7734)' triangle
+421 'FELICiA (7735)' ellipse
+422 'FRANCISCO (7736)' triangle
+423 'FEMALE (7737)' ellipse
+424 'TOMAS (7738)' triangle
+425 'FEMALE (7739)' ellipse
+426 'JOAQUIN (7740)' triangle
+427 'VINCENTA (7741)' ellipse
+428 'JOSE REYES (7742)' triangle
+429 'ISABELA (7743)' ellipse
+430 'ALEJANDRO (7744)' triangle
+431 'ADELINA (7745)' ellipse
+432 'EVARISTO (7746)' triangle
+433 'AUGLOJIA (7747)' ellipse
+434 'MALE (7748)' triangle
+435 'BERNARDINA (7749)' ellipse
+436 'ASUNCION (7750)' ellipse
+437 'FEMALE (7751)' ellipse
+438 'BENIGNO (7752)' triangle
+439 'EMILIANA (7753)' ellipse
+440 'JOSE JESUS (7754)' triangle
+441 'FEMALE (7755)' ellipse
+442 'NATIVIDAD FREITES (7756)' triangle
+443 'FEMALE (7757)' ellipse
+444 'CARLITOS (7758)' triangle
+445 'MARIA (7759)' ellipse
+446 'SILVERIO (7760)' triangle
+447 'FEMALE (7761)' ellipse
+448 'GERONIMO (7762)' triangle
+449 'ISABELA (7763)' ellipse
+450 'EUSTACIO (7764)' triangle
+451 'TOMASITA (7765)' ellipse
+452 'BORAHERA (7766)' ellipse
+453 'RUFIANA LUMPIAN (7767)' ellipse
+454 'ARTURO (7768)' triangle
+455 'AURORA (7769)' ellipse
+456 'AQUILES (7770)' triangle
+457 'MARIA LINA (7771)' ellipse
+458 'MALE (7772)' triangle
+459 'ELICIA (7773)' ellipse
+460 'MALE (7774)' triangle
+461 'ERMINIA (7775)' ellipse
+462 'NARANJO (7776)' triangle
+463 'COLUMBINA (7777)' ellipse
+464 'HALI NARANJO (7778)' triangle
+465 'ROSA (7779)' ellipse
+466 'NICACIO (7780)' triangle
+467 'ANTONIA (7781)' ellipse
+468 'MALE (7782)' triangle
+469 'FEMALE (7783)' ellipse
+470 'MALE (7784)' triangle
+471 'FELICITAS (7785)' ellipse
+472 'TEODORO (7786)' triangle
+473 'CRESPULA (7787)' ellipse
+474 'CESAR (7788)' triangle
+475 'OFILIA (7789)' ellipse
+476 'BERTO (7790)' triangle
+477 'FEMALE (7791)' ellipse
+478 'ANDRES (7792)' triangle
+479 'FEMALE (7793)' ellipse
+480 'LUCIANO (7794)' triangle
+481 'FEMALE (7795)' ellipse
+482 'FRANCISCO (7796)' triangle
+483 'FEMALE (7797)' ellipse
+484 'MARIANO (7798)' triangle
+485 'ROSA  TWIN (7799)' ellipse
+486 'VICTORINO (7800)' triangle
+487 'CECILIA (7801)' ellipse
+488 'CAMILO (7802)' triangle
+489 'FEMALE (7803)' ellipse
+490 'GREGORIO (7804)' triangle
+491 'IRMA (7805)' ellipse
+492 'ABELARDO (7806)' triangle
+493 'FEMALE BERIA (7807)' ellipse
+494 'MALE (7808)' triangle
+495 'MARGARITA (7809)' ellipse
+496 'AGUSTIN TWIN (7810)' triangle
+497 'BERTINA (7811)' ellipse
+498 'MALE (7812)' triangle
+499 'MARINA (7813)' ellipse
+500 'IGNACIO (7814)' triangle
+501 'FEMALE (7815)' ellipse
+502 'JULIO BERIA (7816)' triangle
+503 'FEMALE (7817)' ellipse
+504 'MALE (7818)' triangle
+505 'FEMALE (7819)' ellipse
+506 'VICIORIANO BERIA (7820)' triangle
+507 'FEMALE (7821)' ellipse
+508 'MALE (7822)' triangle
+509 'FEMALE (7823)' ellipse
+510 'MALE (7824)' triangle
+511 'FEMALE (7825)' ellipse
+512 'PABLO  HEDILLA (7826)' triangle
+513 'PATRICIA (7827)' ellipse
+514 'MALE (7828)' triangle
+515 'LUCIA (7829)' ellipse
+516 'MALE (7830)' triangle
+517 'JESUSITA (7831)' ellipse
+518 'LUCIANO (7832)' triangle
+519 'LUISA (7833)' ellipse
+520 'ALFONSO (7834)' triangle
+521 'JORGENA (7835)' ellipse
+522 'MALE (7836)' triangle
+523 'FELICIANA (7837)' ellipse
+524 'MALE (7838)' triangle
+525 'EMILIA (7839)' ellipse
+526 'EPIFANEO (7840)' triangle
+527 'CARLITA (7841)' ellipse
+528 'SATURNINO (7842)' triangle
+529 'ELIANA (7843)' ellipse
+530 'EFRAIN (7844)' triangle
+531 'FELICIA (7845)' ellipse
+532 'ALBERTO (7846)' triangle
+533 'FEMALE (7847)' ellipse
+534 'PASCUAL (7848)' triangle
+535 'PAULINA (7849)' ellipse
+536 'PABLO (7850)' triangle
+537 'FEMALE (7851)' ellipse
+538 'LALI (7852)' triangle
+539 'FEMALE (7853)' ellipse
+540 'CESAREO (7854)' triangle
+541 'ROSA (7855)' ellipse
+542 'ANTONIO (7856)' triangle
+543 'FELICITAS (7857)' ellipse
+544 'MALE (7858)' triangle
+545 'FELIPA (7859)' ellipse
+546 'VENANCIO (7860)' triangle
+547 'CARMEN (7861)' ellipse
+548 'EUSEBIO (7862)' triangle
+549 'PAULA (7863)' ellipse
+550 'DONATO (7864)' triangle
+551 'CAMILA (7865)' ellipse
+552 'MALE (7866)' triangle
+553 'FEMALE (7867)' ellipse
+554 'AGAPITO (7868)' triangle
+555 'ISMENIA (7869)' ellipse
+556 'MALE (7870)' triangle
+557 'ERSILIA (7871)' ellipse
+558 'BENITO SAHUKO (7872)' triangle
+559 'GLADYS (7873)' ellipse
+560 'JOSE DE LA ROSA (7874)' triangle
+561 'ERLINA (7875)' ellipse
+562 'SERAFIN (7876)' triangle
+563 'LUISA (7877)' ellipse
+564 'MALE (7878)' triangle
+565 'FEMALE (7879)' ellipse
+566 'OTILIO (7880)' triangle
+567 'BARTOLOME (7882)' triangle
+568 'SANTA (7883)' ellipse
+569 'LUIS (7884)' triangle
+570 'AUGUSTA (7885)' ellipse
+571 'FELIX (7886)' triangle
+572 'CELESTINA (7887)' ellipse
+573 'TITO (7888)' triangle
+574 'EMILIA (7889)' ellipse
+575 'FEMALE (7901)' ellipse
+576 'SABINO BERIA (7902)' triangle
+577 'FEMALE (7903)' ellipse
+578 'MALE (7904)' triangle
+579 'EVANGELISTA (7905)' ellipse
+580 'PANCHO (7906)' triangle
+581 'FEMALE (7907)' ellipse
+582 'JOSE (7908)' triangle
+583 'DARIA (7909)' ellipse
+584 'MALE (7910)' triangle
+585 'INES (7911)' ellipse
+586 'CELESTINO (7912)' triangle
+587 'NELY (7913)' ellipse
+588 'HILARIO (7914)' triangle
+589 'MARIA ROSA (7915)' ellipse
+590 'FLORIAN (7916)' triangle
+591 'CARMEN (7917)' ellipse
+592 'MALE (7918)' triangle
+593 'FEMALE (7919)' ellipse
+594 'PEDRITO (7920)' triangle
+595 'ELOISA (7921)' ellipse
+596 'AMBROSIA (7923)' ellipse
+597 'PAULINA (7925)' ellipse
+598 'JOSEFINA (7927)' ellipse
+599 'GLORIA (7929)' ellipse
+600 'MARIA ROSA (7931)' ellipse
+601 'EUGENIO (7932)' triangle
+602 'MALE (10012)' triangle
+603 'FEMALE (10021)' ellipse
+604 'MANUEL (10032)' triangle
+605 'FEMALE (10041)' ellipse
+606 'RAMONA ARANGURE (10051)' ellipse
+607 'EPIFANIA ARANGU (10061)' ellipse
+608 'FEMALE (10071)' ellipse
+609 'FEMALE (10081)' ellipse
+610 'MALE (10092)' triangle
+611 'JOAQUIN ARANGUR (10102)' triangle
+612 'FEMALE (10111)' ellipse
+613 'ARCANGEL (10122)' triangle
+614 'TERESA (10131)' ellipse
+615 'EUSEBIA (10141)' ellipse
+616 'ANTONIO (10152)' triangle
+617 'MALE (10162)' triangle
+618 'FEMALE (10171)' ellipse
+619 'TOVAR (10182)' triangle
+620 'FEMALE (10191)' ellipse
+621 'BIVAS (10202)' triangle
+622 'MARCOLINA (10211)' ellipse
+623 'BERNARDINO (10222)' triangle
+624 'EMILIANA (10231)' ellipse
+625 'BERNARDINA (10241)' ellipse
+626 'FEMALE (10251)' ellipse
+627 'LUCRECIA (10261)' ellipse
+628 'MALE (10272)' triangle
+629 'EUGENIO (10282)' triangle
+630 'MALE (10292)' triangle
+631 'FEMALE (10301)' ellipse
+632 'BRAVO (BABU) (10312)' triangle
+633 'JOSEFA (10321)' ellipse
+634 'MIGUEL BRAVO (10332)' triangle
+635 'MARIA  ROSA (10341)' ellipse
+636 'RAMONA  MARIUSA (10351)' ellipse
+637 'ROSA (10361)' ellipse
+638 'FEMALE (10371)' ellipse
+639 'FEMALE (10381)' ellipse
+640 'IRIANA (10391)' ellipse
+641 'FEMALE (10401)' ellipse
+642 'ROSA (TWO) (10411)' ellipse
+643 'JUSTO (10422)' triangle
+644 'COQUIN (10432)' triangle
+645 'FABIAN (10442)' triangle
+646 'FEMALE (10451)' ellipse
+647 'FEMALE (10461)' ellipse
+648 'JOSEFINA (10471)' ellipse
+649 'JUAN BRITO (10482)' triangle
+650 'PETRONILA (10491)' ellipse
+651 'PATROCINIA (10501)' ellipse
+652 'FEMALE (10511)' ellipse
+653 'LUIS JIMENEZ (10522)' triangle
+654 'SITA (SIXIA) (10531)' ellipse
+655 'LUCILA (10541)' ellipse
+656 'QUINTIN JIMENEZ (10572)' triangle
+657 'ARIANO (10582)' triangle
+658 'HELIO JIMENEZ (10592)' triangle
+659 'FEMALE (10601)' ellipse
+660 'DIEGO (10612)' triangle
+661 'MALE (10622)' triangle
+662 'LEONARDO PAREDE (10632)' triangle
+663 'PAULA  MENDEZ (10641)' ellipse
+664 'FELICISIMO (10652)' triangle
+665 'OLEGARIO (10662)' triangle
+666 'LEONARDO (10672)' triangle
+667 'AMERICA (10681)' ellipse
+668 'ROSA ARANGUREN (10691)' ellipse
+669 'MALE (10702)' triangle
+670 'PILAR ARANGUREN (10711)' ellipse
+671 'ALVARO PAREDES (10722)' triangle
+672 'TERESITA GARCIA (10731)' ellipse
+673 'KAMERO (CAMILO) (10742)' triangle
+674 'QUINTILIANO (10752)' triangle
+675 'ROSELIANO (10762)' triangle
+676 'AURELIA (10771)' ellipse
+677 'FACUNDO JIMENEZ (10782)' triangle
+678 'MALE (10792)' triangle
+679 'FEMALE (10801)' ellipse
+680 'FEMALE (10811)' ellipse
+681 'MALE (10822)' triangle
+682 'MALE (10832)' triangle
+683 'ANTONIA (10841)' ellipse
+684 'FLORENTINO (10852)' triangle
+685 'JOSE CABELLO PA (10862)' triangle
+686 'TOMASA (10871)' ellipse
+687 'HERMEMEGILDO  PA (10882)' triangle
+688 'FEMALE (10891)' ellipse
+689 'LETICIA (10901)' ellipse
+690 'MALE (10912)' triangle
+691 'MALE (10922)' triangle
+692 'ESTIDIA (10931)' ellipse
+693 'MALE (10942)' triangle
+694 'LUDMILA (10951)' ellipse
+695 'LOPE JIMENEZ (10962)' triangle
+696 'TEOFILA (10971)' ellipse
+697 'MALE (10982)' triangle
+698 'OTILIO (10992)' triangle
+699 'MALE (11002)' triangle
+700 'MARIA LOPEZ (11011)' ellipse
+701 'FEMALE (11021)' ellipse
+702 'BASILIO (11032)' triangle
+703 'FELICITA (11041)' ellipse
+704 'FEMALE (11051)' ellipse
+705 'FEMALE (11061)' ellipse
+706 'AGUSTINA (11071)' ellipse
+707 'MALE (11082)' triangle
+708 'FEMALE (11091)' ellipse
+709 'MALE (11102)' triangle
+710 'FEMALE (11111)' ellipse
+711 'JOSEFINA (11121)' ellipse
+712 'CLAUDIO (11132)' triangle
+713 'COSTENO (11142)' triangle
+714 'ATANASIO (11152)' triangle
+715 'MARIA (11161)' ellipse
+716 'JESUS (11172)' triangle
+717 'QUINTIN (11182)' triangle
+718 'JUANA (CECILIA) (11191)' ellipse
+719 'COROMOTO (11201)' ellipse
+720 'MEDINA (11211)' ellipse
+721 'MELCHOR (11222)' triangle
+722 'CARMEN (11231)' ellipse
+723 'HELIO (11242)' triangle
+724 'AVELINA (11251)' ellipse
+725 'ANTONIO (11262)' triangle
+726 'DOMINGO CARDONA (11272)' triangle
+727 'PABLO (11282)' triangle
+728 'LORENZO (11292)' triangle
+729 'BRIGIDA (11301)' ellipse
+730 'FEMALE (11311)' ellipse
+731 'MALE (11322)' triangle
+732 'MALE (11332)' triangle
+733 'MARIA LOURDES (11341)' ellipse
+734 'GONZALO CARDONA (11352)' triangle
+735 'PASCUALA (11361)' ellipse
+736 'COMITO (11372)' triangle
+737 'MALE (11382)' triangle
+738 'HELIO (11392)' triangle
+739 'MALE (11402)' triangle
+740 'MALE (11412)' triangle
+741 'CRISTOBAL (11422)' triangle
+742 'FEMALE (11431)' ellipse
+743 'MALE (11442)' triangle
+744 'FEMALE (11451)' ellipse
+745 'MARIA (11461)' ellipse
+746 'ANZOATEGUI (11472)' triangle
+747 'ERMILDA (11481)' ellipse
+748 'FELIPA (11491)' ellipse
+749 'PASTURA (11501)' ellipse
+750 'FEMALE TWINS (11511)' ellipse
+751 'FEMALE TWINS (11521)' ellipse
+752 'AMERICANO (11532)' triangle
+753 'FEMALE (11541)' ellipse
+754 'MALE (11552)' triangle
+755 'OTILIO (11562)' triangle
+756 'HORTENSIA (11571)' ellipse
+757 'JUANITA (11581)' ellipse
+758 'MALE (11592)' triangle
+759 'FEMALE (11601)' ellipse
+760 'MALE (11612)' triangle
+761 'FEMALE (11621)' ellipse
+762 'BABU (11632)' triangle
+763 'CASTILLO (11642)' triangle
+764 'MIGUEL (11652)' triangle
+765 'MALE (11662)' triangle
+766 'MALE (11672)' triangle
+767 'MALE (11682)' triangle
+768 'FEMALE (11691)' ellipse
+769 'FEMALE (11701)' ellipse
+770 'BERTA (11711)' ellipse
+771 'LUCIO (11722)' triangle
+772 'GILBERTO (11732)' triangle
+773 'DIVINA (IDUVINA) (11741)' ellipse
+774 'FRANCISCO ROJAS (11752)' triangle
+775 'SALVADOR (11762)' triangle
+776 'VALENTIN (11772)' triangle
+777 'AUVILIA (11781)' ellipse
+778 'FELIPE (11792)' triangle
+779 'NATIVIDAD (11802)' triangle
+780 'SERVINO (11812)' triangle
+781 'CRISTOBAL (11822)' triangle
+782 'MARIA ERMINIA (11831)' ellipse
+783 'ALELl (11841)' ellipse
+784 'JUANA (11851)' ellipse
+785 'SIBORORI (11862)' triangle
+786 'ENRIQUE (11872)' triangle
+787 'SOFIA (11881)' ellipse
+788 'MARIA (11891)' ellipse
+789 'NEGRO (MEKORO) (11902)' triangle
+790 'HELIO (11912)' triangle
+791 'DONATO (11922)' triangle
+792 'BONIFACIO (11932)' triangle
+793 'MALE (11942)' triangle
+794 'MALE (11952)' triangle
+795 'FEMALE (11961)' ellipse
+796 'MARIANO RIVERO (11972)' triangle
+797 'FEMALE (11981)' ellipse
+798 'FEMALE (11991)' ellipse
+799 'ROSA (12001)' ellipse
+800 'FEMALE (12011)' ellipse
+801 'ANA MARIA (12021)' ellipse
+802 'RICARDO GALAN (12032)' triangle
+803 'MALE (12042)' triangle
+804 'ALEJANDRO GALAN (12052)' triangle
+805 'MARGARITA PIZAR (12061)' ellipse
+806 'SALVASITA (12071)' ellipse
+807 'AMELIA (12081)' ellipse
+808 'ARELI (12091)' ellipse
+809 'AURA VIRGINIA (12101)' ellipse
+810 'FRANCO GALAN (12112)' triangle
+811 'BASILIO (12122)' triangle
+812 'BENINO (BENIGNO) (12132)' triangle
+813 'MARIA (12141)' ellipse
+814 'FIDEL (12152)' triangle
+815 'FRANCISCO (12162)' triangle
+816 'HILDA (12171)' ellipse
+817 'TERESITA (12181)' ellipse
+818 'MARIA URSULA (12191)' ellipse
+819 'MARGARITA (12201)' ellipse
+820 'MALE (12212)' triangle
+821 'FEMALE (12221)' ellipse
+822 'FEMALE (12231)' ellipse
+823 'MALE (12242)' triangle
+824 'FEMALE (12251)' ellipse
+825 'JOSE  VELASQUEZ (12262)' triangle
+826 'FEMALE (12271)' ellipse
+827 'CAROLINA (12281)' ellipse
+828 'ANICLETO (12292)' triangle
+829 'MANZANO (12302)' triangle
+830 'REGINA (12311)' ellipse
+831 'OTECIA (12321)' ellipse
+832 'FEMALE (12331)' ellipse
+833 'ELISEO (12342)' triangle
+834 'FEMALE (12351)' ellipse
+835 'MALE (12362)' triangle
+836 'ANGELA (12371)' ellipse
+837 'GERONIMO (12382)' triangle
+838 'QUINTILIANO (12392)' triangle
+839 'MISAEL (12402)' triangle
+840 'PEDRIN (12412)' triangle
+841 'MALE (12422)' triangle
+842 'JESUS BUADA (12432)' triangle
+843 'MAXIMINO (12442)' triangle
+844 'ANTONIA (12451)' ellipse
+845 'MORENO (ARAHE) (12462)' triangle
+846 'PANCHITA (12471)' ellipse
+847 'MALE (12482)' triangle
+848 'FEMALE (12491)' ellipse
+849 'JUANITA (12501)' ellipse
+850 'MALE (12512)' triangle
+851 'JUANCITO MORALE (12522)' triangle
+852 'SABINO MORALEDA (12532)' triangle
+853 'JUANA (12541)' ellipse
+854 'FEMALE (12551)' ellipse
+855 'NINO (12562)' triangle
+856 'MIGUEL (12572)' triangle
+857 'ESTIMIO (12582)' triangle
+858 'SONINDIA (12591)' ellipse
+859 'DELIA (12601)' ellipse
+860 'BENITO (12612)' triangle
+861 'CANDIDO (12622)' triangle
+862 'FEMALE (12631)' ellipse
+863 'JOSE (12642)' triangle
+864 'MALE (12652)' triangle
+865 'FEMALE (12661)' ellipse
+866 'JUSTINA (12671)' ellipse
+867 'MARIA MARIUSA (12681)' ellipse
+868 'MALE (12692)' triangle
+869 'FEMALE (12701)' ellipse
+870 'MALE (12712)' triangle
+871 'FEMALE (12721)' ellipse
+872 'ANTONIO KATOSE (12732)' triangle
+873 'MALE (12742)' triangle
+874 'MALE (12752)' triangle
+875 'FEMALE (12761)' ellipse
+876 'ESTEBAN (12772)' triangle
+877 'ALVARO (12782)' triangle
+878 'ROSARIO (12791)' ellipse
+879 'ADELINA (12801)' ellipse
+880 'FEMALE (12811)' ellipse
+881 'FEMALE (12821)' ellipse
+882 'PERUCHO (12832)' triangle
+883 'FEMALE (12841)' ellipse
+884 'MALE (12852)' triangle
+885 'IRIANA (12861)' ellipse
+886 'JUAN FEREZ (12872)' triangle
+887 'FEMALE (12881)' ellipse
+888 'PETRA (12891)' ellipse
+889 'MALE (12902)' triangle
+890 'FEMALE (12911)' ellipse
+891 'CECILIA (12921)' ellipse
+892 'ANGELINA (12931)' ellipse
+893 'JULIETA (12941)' ellipse
+894 'MALE (12952)' triangle
+895 'FEMALE (12961)' ellipse
+896 'JUAN  ZAPATA (12972)' triangle
+897 'FEMALE (12981)' ellipse
+898 'MALE (12992)' triangle
+899 'CARMELITA (13001)' ellipse
+900 'SOLTERO (13012)' triangle
+901 'ROSA (13021)' ellipse
+902 'MARCO  ZAPATA (13032)' triangle
+903 'FEMALE (13041)' ellipse
+904 'FEMALE (13051)' ellipse
+905 'FEMALE (13061)' ellipse
+906 'MALE (13072)' triangle
+907 'MALE (13082)' triangle
+908 'MALE (13092)' triangle
+909 'CHECHE (13102)' triangle
+910 'BERTINA (13111)' ellipse
+911 'BARBINA (13121)' ellipse
+912 'CARMEN (13131)' ellipse
+913 'FIDEL ZAPATA (13142)' triangle
+914 'JACOBA MORENA (13151)' ellipse
+915 'PRESENTACION ZA (13161)' ellipse
+916 'ROSA ZAPATA (13171)' ellipse
+917 'MORI ZAPATA (13181)' ellipse
+918 'BENINO (BENIGNO) (13192)' triangle
+919 'ANGELINA ZAPATA (13201)' ellipse
+920 'LUCIO BAEZ (13212)' triangle
+921 'EMILIO  ZAPATA (13222)' triangle
+922 'MALE (13232)' triangle
+923 'MARIA FABIOLA (13241)' ellipse
+924 'ERVA (13251)' ellipse
+925 'SILVERIA (13261)' ellipse
+926 'PERUCHO (13272)' triangle
+927 'RUDY (13281)' triangle
+928 'PRUDENCIA (13291)' ellipse
+929 'AURA (13301)' ellipse
+930 'FEMALE (13311)' ellipse
+931 'MARIANO (13322)' triangle
+932 'FEMALE (13331)' ellipse
+933 'LUIS MARIANO (13342)' triangle
+934 'MARIANA (13351)' ellipse
+935 'SEMBA (13362)' triangle
+936 'LORENZA (13371)' ellipse
+937 'FEMALE (13381)' ellipse
+938 'RAMON SEMBA (13392)' triangle
+939 'FEMALE (13401)' ellipse
+940 'HILDA (13411)' ellipse
+941 'MALE (13422)' triangle
+942 'ELISEA (13431)' ellipse
+943 'JULIA (13441)' ellipse
+944 'CESAR (13452)' triangle
+945 'FEMALE (13461)' ellipse
+946 'ALESIO (13472)' triangle
+947 'PACITO MARIANO (13482)' triangle
+948 'IGNACIO (13492)' triangle
+949 'AURORA (13501)' ellipse
+950 'MALE (13512)' triangle
+951 'MALE (13522)' triangle
+952 'RAQUEL (13531)' ellipse
+953 'ERME (13542)' triangle
+954 'ALEJANDRINA (13551)' ellipse
+955 'MALE (13562)' triangle
+956 'MALE (13572)' triangle
+957 'MALE (13582)' triangle
+958 'ROSA MARIA (13591)' ellipse
+959 'FEMALE (13601)' ellipse
+960 'IRISA (13611)' ellipse
+961 'LUCIA (13621)' ellipse
+962 'MARIA CONCEPCIO (13631)' ellipse
+963 'ISABELITA (13641)' ellipse
+964 'KARITO (13652)' triangle
+965 'MUNDARAI BANZE (13662)' triangle
+966 'MALE (13672)' triangle
+967 'JUANITA (13681)' ellipse
+968 'MICOLASA (13691)' ellipse
+969 'RAFAEL CALDERON (13702)' triangle
+970 'BUSTILLO CALDERON (13712)' triangle
+971 'TARITA (13721)' ellipse
+972 'PANTALEON (13732)' triangle
+973 'CANDELARIA (13741)' ellipse
+974 'FEMALE (13751)' ellipse
+975 'FEMALE (13761)' ellipse
+976 'JULIANA (13771)' ellipse
+977 'DAMASO (SAN PIER (13782)' triangle
+978 'LUIS (13792)' triangle
+979 'LIBRADO (13802)' triangle
+980 'FEMALE (13811)' ellipse
+981 'JUANA ROSA (13821)' ellipse
+982 'CHECHE JAIME (13832)' triangle
+983 'PEDRO JOSE (13842)' triangle
+984 'EPIFANIO (13852)' triangle
+985 'MALE (13862)' triangle
+986 'EPIFANIA (13871)' ellipse
+987 'ANTONIO KOTUA (13882)' triangle
+988 'MANUEL (13892)' triangle
+989 'FEMALE (13901)' ellipse
+990 'JUAN  MATA (13912)' triangle
+991 'JOSEFA (13921)' ellipse
+992 'FEMALE (13931)' ellipse
+993 'EMILIANO MATA (13942)' triangle
+994 'FEMALE (13951)' ellipse
+995 'ANTONIO  MATA (13962)' triangle
+996 'DANIEL (13972)' triangle
+997 'AQUILINO (13982)' triangle
+998 'VICTOR (13992)' triangle
+999 'HORTENSIO (14002)' triangle
+1000 'LOTE (14012)' triangle
+1001 'TEODORA MATA (14021)' ellipse
+1002 'RUFINA (14031)' ellipse
+1003 'PEDRO HEREDIA (14042)' triangle
+1004 'ROSA (14051)' ellipse
+1005 'ANTERO HEREDIA (14062)' triangle
+1006 'MARIA ADELFA (14071)' ellipse
+1007 'FRANCISCO (14082)' triangle
+1008 'MARIA LUISA (14091)' ellipse
+1009 'SILVERIO HEREJDI (14102)' triangle
+1010 'MALE (14112)' triangle
+1011 'FEMALE (14121)' ellipse
+1012 'MARTIN (14132)' triangle
+1013 'FEMALE (14141)' ellipse
+1014 'JUAN CORONCHO (14152)' triangle
+1015 'MARIA  ANTONIA (14161)' ellipse
+1016 'PIO  MEDINA (14172)' triangle
+1017 'GLORIA JIMENEZ (14181)' ellipse
+1018 'MARIA  FLORINDA (14191)' ellipse
+1019 'ANA  TERESA (14201)' ellipse
+1020 'ANGEL (14212)' triangle
+1021 'ABELARDO (14222)' triangle
+1022 'PATROCINIA (14231)' ellipse
+1023 'CORNELIO MEDINA (14242)' triangle
+1024 'ERVA RAMOS (14251)' ellipse
+1025 'GUMERSINDO (14262)' triangle
+1026 'ANA SOFIA (14271)' ellipse
+1027 'LAURENTINO (14282)' triangle
+1028 'ABRAHAM (14292)' triangle
+1029 'MIRELLA (14301)' ellipse
+1030 'MALE (14312)' triangle
+1031 'FEMALE (14321)' ellipse
+1032 'MORALEDA (14332)' triangle
+1033 'FEMALE (14341)' ellipse
+1034 'TEODORO MORALEDA (14352)' triangle
+1035 'GUILLERMO MORAL (14362)' triangle
+1036 'LASTENIA BENAZA (14371)' ellipse
+1037 'SILVERIO MORALE (14382)' triangle
+1038 'CLAUDIA MORALED (14391)' ellipse
+1039 'MARIA DE LOS AN (14401)' ellipse
+1040 'FEMALE (14411)' ellipse
+1041 'FELIPE (14422)' triangle
+1042 'MALE (14432)' triangle
+1043 'JOSE MORALEDA (14442)' triangle
+1044 'FEMALE (14451)' ellipse
+1045 'JUSTINO (14462)' triangle
+1046 'URSULINA (14471)' ellipse
+1047 'FEMALE (14481)' ellipse
+1048 'FEMALE (14491)' ellipse
+1049 'FEMALE (14501)' ellipse
+1050 'FEMALE (14511)' ellipse
+1051 'MICAELA (14521)' ellipse
+1052 'MARIA (14531)' ellipse
+1053 'BALTASAR (14542)' triangle
+1054 'ELISA (14551)' ellipse
+1055 'MALE (14562)' triangle
+1056 'FEMALE (14571)' ellipse
+1057 'FRANCISCO MORAL (14582)' triangle
+1058 'AGUSTINA (14591)' ellipse
+1059 'LUIS (14602)' triangle
+1060 'JULIANITA (14611)' ellipse
+1061 'DOMINGO (14622)' triangle
+1062 'MALE (14632)' triangle
+1063 'MARGARITA (14641)' ellipse
+1064 'MIGUEL RIVERO (14652)' triangle
+1065 'PASTORA (14661)' ellipse
+1066 'PEDRO (14672)' triangle
+1067 'MARIA JESUS (14681)' ellipse
+1068 'TOMASITO (14692)' triangle
+1069 'JULIO (MARCO) (14702)' triangle
+1070 'ALFONSO (14712)' triangle
+1071 'MILIA (14721)' ellipse
+1072 'CRISTINA (14731)' ellipse
+1073 'CHANO RIVERO (14742)' triangle
+1074 'JUANA (14751)' ellipse
+1075 'ADELA (14761)' ellipse
+1076 'ERVA (14771)' ellipse
+1077 'CONRADO (14782)' triangle
+1078 'AQUILINO (14792)' triangle
+1079 'BERNARDINO (14802)' triangle
+1080 'EMILIO (14812)' triangle
+1081 'DOLORES (14821)' ellipse
+1082 'CHIRIOUITO (14832)' triangle
+1083 'BERNARDINO (14842)' triangle
+1084 'FEMALE (14851)' ellipse
+1085 'CIRILO RIVERO (14862)' triangle
+1086 'SANTIAGO RIVERO (14872)' triangle
+1087 'EZEOUIEL (14882)' triangle
+1088 'MALE (14892)' triangle
+1089 'FEMALE (14901)' ellipse
+1090 'TIRSA (14911)' ellipse
+1091 'ESPERANZA (14921)' ellipse
+1092 'LORENZA (14931)' ellipse
+1093 'PANTALEON (14942)' triangle
+1094 'MARTA (14951)' ellipse
+1095 'ALBINA (14961)' ellipse
+1096 'MICAELA (14971)' ellipse
+1097 'OTILIO (14982)' triangle
+1098 'SABINO (14992)' triangle
+1099 'BERTA (15001)' ellipse
+1100 'SEGUNDINO RIVERO (15012)' triangle
+1101 'CARMELITA (15021)' ellipse
+1102 'MALE (15032)' triangle
+1103 'MARIA RIVERO (15041)' ellipse
+1104 'PEDRO RIVERO (15052)' triangle
+1105 'SEGUNDO LORENZA (15062)' triangle
+1106 'MEROUIEL (15072)' triangle
+1107 'OTILIO (15082)' triangle
+1108 'TIRSO (15092)' triangle
+1109 'TEBALDO (15102)' triangle
+1110 'ADOLFO (15112)' triangle
+1111 'TERESA (15121)' ellipse
+1112 'AVELINA (15131)' ellipse
+1113 'RAQUEL (15141)' ellipse
+1114 'MESA (15152)' triangle
+1115 'JULIAN (15162)' triangle
+1116 'AURELIA (15171)' ellipse
+1117 'PAULA (15181)' ellipse
+1118 'FRANCISCA (15191)' ellipse
+1119 'ESPERANZA (15201)' ellipse
+1120 'FEMALE (15211)' ellipse
+1121 'FEMALE (15221)' ellipse
+1122 'FEMALE (15231)' ellipse
+1123 'CAPORAL (15242)' triangle
+1124 'FEMALE (15251)' ellipse
+1125 'FEMALE (15261)' ellipse
+1126 'FEMALE (15271)' ellipse
+1127 'JULIA  MARIA (15281)' ellipse
+1128 'ROLLO (15292)' triangle
+1129 'ANASTASIA (15301)' ellipse
+1130 'ANDRES (15312)' triangle
+1131 'AMALIA (15321)' ellipse
+1132 'LIGIA (15331)' ellipse
+1133 'ARTURO (15342)' triangle
+1134 'OLIMPIA (15351)' ellipse
+1135 'JOSE (15362)' triangle
+1136 'FELICIANO (15372)' triangle
+1137 'CRISTOBAL (15382)' triangle
+1138 'SANTIAGO (15392)' triangle
+1139 'JOAQUIN RIVERO (15412)' triangle
+1140 'CATARlNA  BOLIVAR (15421)' ellipse
+1141 'BERNABE (15432)' triangle
+1142 'PASCUAL (15442)' triangle
+1143 'MALE (15452)' triangle
+1144 'BASILIO (15462)' triangle
+1145 'FEMALE (15471)' ellipse
+1146 'CESAR (15482)' triangle
+1147 'NINO (15492)' triangle
+1148 'FEMALE (15501)' ellipse
+1149 'MARIA (15511)' ellipse
+1150 'MALE (15522)' triangle
+1151 'ANSELMO (15532)' triangle
+1152 'FEMALE (15541)' ellipse
+1153 'EZEOUIEL (15552)' triangle
+1154 'CECILIA (15561)' ellipse
+1155 'AVILA (15571)' ellipse
+1156 'GUILLERMO RIVER (15582)' triangle
+1157 'ATANASIA (15591)' ellipse
+1158 'ZULI (15601)' ellipse
+1159 'JUAN (15612)' triangle
+1160 'PEDRIN (15622)' triangle
+1161 'GREGORIO (15632)' triangle
+1162 'FEMALE (15641)' ellipse
+1163 'FEMALE (15651)' ellipse
+1164 'FEMALE (15661)' ellipse
+1165 'ANTONIO (15672)' triangle
+1166 'MALE (15682)' triangle
+1167 'MALE (15692)' triangle
+1168 'MALE (15702)' triangle
+1169 'FEMALE (15711)' ellipse
+1170 'VINCENTE MORENO (15722)' triangle
+1171 'TOMASA (15731)' ellipse
+1172 'ZENOBIA (15741)' ellipse
+1173 'ROMANTA (15751)' ellipse
+1174 'FEMALE (15761)' ellipse
+1175 'LORENZO MORENO (15772)' triangle
+1176 'REMIGIO (15782)' triangle
+1177 'IGINIA (15791)' ellipse
+1178 'JOSEFINA (15801)' ellipse
+1179 'ESTEFANEO (15812)' triangle
+1180 'FATRICIO (15822)' triangle
+1181 'MALE (15832)' triangle
+1182 'FEMALE (15841)' ellipse
+1183 'DIEGO (15852)' triangle
+1184 'JUAN VELAZQUEZ (15862)' triangle
+1185 'PATRICIO (15872)' triangle
+1186 'CESAREO RIVERO (15882)' triangle
+1187 'ENRIQUE (15892)' triangle
+1188 'FEMALE (15901)' ellipse
+1189 'FEMALE (15911)' ellipse
+1190 'MALE (15922)' triangle
+1191 'MARIELA (15931)' ellipse
+1192 'ANA ROSA (JULIAN (15941)' ellipse
+1193 'FEMALE (15951)' ellipse
+1194 'EFRAIN (15962)' triangle
+1195 'ANA (15971)' ellipse
+1196 'DAMIAN (15982)' triangle
+1197 'ANISETO (15992)' triangle
+1198 'AGUSTIN MOYA (16002)' triangle
+1199 'FLORENTINA (16011)' ellipse
+1200 'JUSTINA (16021)' ellipse
+1201 'RODRIGO (16032)' triangle
+1202 'MALE (16042)' triangle
+1203 'JUAN MENDOZA (16052)' triangle
+1204 'JUAN (16062)' triangle
+1205 'CARMEN (16071)' ellipse
+1206 'DANIELA (16081)' ellipse
+1207 'CHARO (16092)' triangle
+1208 'DQMINIQUITA (16101)' ellipse
+1209 'SABINA (16111)' ellipse
+1210 'SITO (SIXTO) (16122)' triangle
+1211 'FEMALE (16131)' ellipse
+1212 'EMILIO (16142)' triangle
+1213 'BERNARDINO (16152)' triangle
+1214 'CARLOTA (16161)' ellipse
+1215 'ELADIO (16172)' triangle
+1216 'FEMALE (16181)' ellipse
+1217 'FEMALE (16191)' ellipse
+1218 'MALE (16202)' triangle
+1219 'FEMALE (16211)' ellipse
+1220 'ERVA (16221)' ellipse
+1221 'SANTO (16232)' triangle
+1222 'FEMALE (16241)' ellipse
+1223 'JUANA (16251)' ellipse
+1224 'URBINO (16262)' triangle
+1225 'FEMALE (16271)' ellipse
+1226 'PACHECO (16282)' triangle
+1227 'ANTONIO PACHECO (16292)' triangle
+1228 'LINA (16301)' ellipse
+1229 'JOSEFINA (16311)' ellipse
+1230 'VICIOR PACHECO (16322)' triangle
+1231 'MALE (16332)' triangle
+1232 'ANGELITA (16341)' ellipse
+1233 'MALE (16352)' triangle
+1234 'MALE (16362)' triangle
+1235 'FEMALE (16371)' ellipse
+1236 'RAFAELITO (16382)' triangle
+1237 'FLORENTINO (16392)' triangle
+1238 'ALICIO (16402)' triangle
+1239 'FEMALE (16411)' ellipse
+1240 'SEGUNDINO PACHE (16422)' triangle
+1241 'SANTONIA (16431)' ellipse
+1242 'PLACIDO (16442)' triangle
+1243 'CARMEN (16451)' ellipse
+1244 'MALE (16462)' triangle
+1245 'KAMERO (CAMILO) (16472)' triangle
+1246 'GERONIMO (16482)' triangle
+1247 'ALICIA (16491)' ellipse
+1248 'TIRSO (16502)' triangle
+1249 'ANTONIA (16511)' ellipse
+1250 'DOMINGA (16521)' ellipse
+1251 'MALE (16532)' triangle
+1252 'FEMALE (16541)' ellipse
+1253 'VALENTIN (16552)' triangle
+1254 'ANTONIO LORENZA (16562)' triangle
+1255 'FELICIA (16571)' ellipse
+1256 'CLEMENTINA (16581)' ellipse
+1257 'DOMITILA (16591)' ellipse
+1258 'PETRA (16601)' ellipse
+1259 'MALE (16612)' triangle
+1260 'OLGA (16621)' ellipse
+1261 'BRIGIDO  LORENZA (16632)' triangle
+1262 'CLERIA (16641)' ellipse
+1263 'AMERICO (16652)' triangle
+1264 'MIGUEL (16662)' triangle
+1265 'MAURICIO (16672)' triangle
+1266 'EMILIANA (16681)' ellipse
+1267 'GERONIMO  LORENZ (16692)' triangle
+1268 'RODRIGO (16702)' triangle
+1269 'PRIMITIVO (16712)' triangle
+1270 'EMILIO (16722)' triangle
+1271 'GLORIA (16731)' ellipse
+1272 'MELCHOR (16742)' triangle
+1273 'FLORINDO (16752)' triangle
+1274 'ANITA (16761)' ellipse
+1275 'CELINA (16771)' ellipse
+1276 'JOSE ANTONIO PA (16782)' triangle
+1277 'JUANA (16791)' ellipse
+1278 'MAGDALENA (16801)' ellipse
+1279 'ANITA (16811)' ellipse
+1280 'ISERA (16821)' ellipse
+1281 'LENCITO (16832)' triangle
+1282 'JULIO (16842)' triangle
+1283 'VANGELIO (16852)' triangle
+1284 'ALFREDO (16862)' triangle
+1285 'AVELINA (16871)' ellipse
+1286 'JESUS  MARIUSA (16882)' triangle
+1287 'SALVADOR (16892)' triangle
+1288 'LUCILA (16901)' ellipse
+1289 'CECILIA (16911)' ellipse
+1290 'MAESTRO (16922)' triangle
+1291 'KAMERO (CAMILO) (16932)' triangle
+1292 'PETRICIA (16941)' ellipse
+1293 'FEMALE (16951)' ellipse
+1294 'FEMALE (16961)' ellipse
+1295 'MALE (16972)' triangle
+1296 'FEMALE (16981)' ellipse
+1297 'MALE (16982)' triangle
+1298 'MALE (16992)' triangle
+1299 'FEMALE (17001)' ellipse
+1300 'PALACIO (17012)' triangle
+1301 'ROSA (17021)' ellipse
+1302 'QUINTILIANA (17031)' ellipse
+1303 'IDUVINA (17041)' ellipse
+1304 'COMPANIA (17052)' triangle
+1305 'MALE (17062)' triangle
+1306 'RENO (17072)' triangle
+1307 'FEMALE (17081)' ellipse
+1308 'FEMALE (17091)' ellipse
+1309 'CLETO (17102)' triangle
+1310 'LORENZA (17111)' ellipse
+1311 'DAMIAN (17122)' triangle
+1312 'VENANCITO (17132)' triangle
+1313 'LUCIA (LUCILA) (17141)' ellipse
+1314 'AVELINA (17151)' ellipse
+1315 'LUISA (17161)' ellipse
+1316 'FEMALE (17171)' ellipse
+1317 'CELESTINO JIMENEZ (17202)' triangle
+1318 'FEMALE (17211)' ellipse
+1319 'GENOVEVA PAREDE (17221)' ellipse
+1320 'AMELIA PAREDES (17231)' ellipse
+1321 'CARMEN PAREDES (17241)' ellipse
+1322 'JOSE RAMIREZ (17272)' triangle
+1323 'MARIANITA (17281)' ellipse
+1324 'FELIX (17292)' triangle
+1325 'EMILIANA (17301)' ellipse
+1326 'RAMERO (17312)' triangle
+1327 'FEMALE (17321)' ellipse
+1328 'ESTEBAN (17332)' triangle
+1329 'JESUS (17342)' triangle
+1330 'BRIGILIA (VIRGIN (17351)' ellipse
+1331 'CLETIA (17361)' ellipse
+1332 'FEMALE (17371)' ellipse
+1333 'MALE (17382)' triangle
+1334 'FEMALE (17391)' ellipse
+1335 'IRIA (17401)' ellipse
+1336 'ESTANISLAO (17412)' triangle
+1337 'DELIA ESTRELLA (17421)' ellipse
+1338 'LUISA (17431)' ellipse
+1339 'JUANA (17441)' ellipse
+1340 'ALVARO (17451)' triangle
+1341 'PURIFICACION (17462)' ellipse
+1342 'SILVANO (17472)' triangle
+1343 'LUCIA (17481)' ellipse
+1344 'MALE (17492)' triangle
+1345 'ERTRUDIS (17501)' ellipse
+1346 'ISA (17512)' ellipse
+1347 'FLORINDA (17521)' ellipse
+1348 'FEMALE (17531)' ellipse
+1349 'TOMASA (17541)' ellipse
+1350 'MALE (17552)' triangle
+1351 'FEMALE (17561)' ellipse
+1352 'RAFAEL KUASABANA (17572)' triangle
+1353 'TERESITA (17581)' ellipse
+1354 'FEDERICO  ZAMBRA (17592)' triangle
+1355 'FEMALE (17601)' ellipse
+1356 'ELMA PAREDES (17611)' ellipse
+1357 'GERMAN (17622)' triangle
+1358 'MOROE (MONROE) (17632)' triangle
+1359 'FEMALE (17641)' ellipse
+1360 'AFRICA (17651)' ellipse
+1361 'JOSE RAMON (17662)' triangle
+1362 'HELIA (17671)' ellipse
+1363 'CLETO (17682)' triangle
+1364 'SILVERINA (17691)' ellipse
+1365 'SILVESTRE (17702)' triangle
+1366 'CRISTINA (17711)' ellipse
+1367 'ROSELIN (17722)' ellipse
+1368 'MALE (17732)' triangle
+1369 'FEMALE (17741)' ellipse
+1370 'ROBERTO (17752)' triangle
+1371 'GABRIEL SANCHEZ (17762)' triangle
+1372 'CRUZ MARIA (17771)' ellipse
+1373 'MARCO SANCHEZ (17782)' triangle
+1374 'ERASMO (17792)' triangle
+1375 'SALVADORA (17801)' ellipse
+1376 'MALE (17812)' triangle
+1377 'LEVI (17822)' triangle
+1378 'RAFAEL (17832)' triangle
+1379 'BALTASAR SANCHEZ (17842)' triangle
+1380 'LUISITO (17852)' triangle
+1381 'MARCELA (17861)' ellipse
+1382 'SAMIRA (SELMIRA) (17871)' ellipse
+1383 'EMILIO SANCHEZ (17882)' triangle
+1384 'GLORIA SANCHEZ (17891)' ellipse
+1385 'FEMALE (17901)' ellipse
+1386 'CASIMIRA (17911)' ellipse
+1387 'PATRICIA (17921)' ellipse
+1388 'BRIGILIA (17931)' ellipse
+1389 'MALE (17942)' triangle
+1390 'FEMALE (17951)' ellipse
+1391 'SATURNIO (17962)' triangle
+1392 'ISABEL (17971)' ellipse
+1393 'FEMALE (17981)' ellipse
+1394 'TERESA (17991)' ellipse
+1395 'MALE (18002)' triangle
+1396 'FEMALE (18011)' ellipse
+1397 'FLORENTINA (18021)' ellipse
+1398 'MALE (18032)' triangle
+1399 'FEMALE (18041)' ellipse
+1400 'ANTONIA (JUANA) (18051)' ellipse
+1401 'ELOY (18062)' triangle
+1402 'TOMAS JIMENEZ (18082)' triangle
+1403 'JUANA ROSA (18091)' ellipse
+1404 'MARIA ROSA (18101)' ellipse
+1405 'BETANCOURT (18112)' triangle
+1406 'GUADALUPE (18122)' ellipse
+1407 'TUA (18131)' ellipse
+1408 'INOCENCIO (18142)' triangle
+1409 'FEMALE (18151)' triangle
+1410 'COMASARIO (18162)' triangle
+1411 'MALE (18172)' triangle
+1412 'MALE (18182)' triangle
+1413 'FEMALE (18191)' ellipse
+1414 'MALE (18202)' triangle
+1415 'FEMALE (18211)' ellipse
+1416 'FEMALE (18221)' ellipse
+1417 'FEMALE (18231)' ellipse
+1418 'FEMALE (18241)' ellipse
+1419 'FEMALE (18251)' ellipse
+1420 'MALE (18262)' triangle
+1421 'JESUS (18272)' triangle
+1422 'ATILANO (18282)' triangle
+1423 'PRISCILIA (18291)' ellipse
+1424 'SILVERIA (ISBERI (18301)' ellipse
+1425 'MARCELO (18312)' triangle
+1426 'JAVERIANO (18322)' triangle
+1427 'FEMALE (18331)' ellipse
+1428 'MARGARITA (18341)' ellipse
+1429 'BRAULIO TOVAR (18352)' triangle
+1430 'BERNARDO JIMENE (18362)' triangle
+1431 'MALE (18372)' triangle
+1432 'ELOY (18382)' triangle
+1433 'HORIPITO (18392)' triangle
+1434 'NARCISA (18402)' ellipse
+1435 'SERVINO (18411)' triangle
+1436 'ADELINA (18421)' ellipse
+1437 'MARGARITA (18431)' ellipse
+1438 'INOCENCIA (18441)' ellipse
+1439 'AQUILINO (18452)' triangle
+1440 'MALE (18462)' triangle
+1441 'FELICISIMO (18472)' triangle
+1442 'MALE (18482)' triangle
+1443 'MALE (18492)' triangle
+1444 'ENRIQUE (18502)' triangle
+1445 'FEMALE (18511)' ellipse
+1446 'KARiTO (CARLOS) (18522)' triangle
+1447 'FEMALE (18531)' ellipse
+1448 'SEVERINO (18542)' triangle
+1449 'DELFINA PAREDES (18551)' ellipse
+1450 'JOSEFA (18561)' ellipse
+1451 'JOSE  MANUEL (18572)' triangle
+1452 'HANIBAL SANCHEZ (18582)' triangle
+1453 'FEMALE (18591)' ellipse
+1454 'AULINA (18601)' ellipse
+1455 'VALERIO (18612)' triangle
+1456 'EVARISTO (18622)' triangle
+1457 'CELINA (18631)' ellipse
+1458 'MARCELINA (18641)' ellipse
+1459 'FEMALE (18651)' ellipse
+1460 'CARLOS (18662)' triangle
+1461 'FLORINDA (18671)' ellipse
+1462 'MALE (18682)' triangle
+1463 'FEMALE (18691)' ellipse
+1464 'MONICO TOVAR (18702)' triangle
+1465 'FEMALE (18711)' ellipse
+1466 'TALEJO (18722)' triangle
+1467 'SANTO MATA (18732)' triangle
+1468 'ANITA (18741)' ellipse
+1469 'VENANCITO RAMON (18752)' triangle
+1470 'LUIS JOSE (18762)' triangle
+1471 'MARIA ROSA (18781)' ellipse
+1472 'MARIA (18791)' ellipse
+1473 'MALE (18802)' triangle
+1474 'SERENA (18811)' ellipse
+1475 'FEMALE (18821)' ellipse
+1476 'SANTIAGO (18832)' triangle
+1477 'MALE (18842)' triangle
+1478 'FEMALE (18851)' ellipse
+1479 'MARIANA (18861)' ellipse
+1480 'FERMIN (18862)' triangle
+1481 'CASILDA (18871)' ellipse
+1482 'ROSARIA (18891)' ellipse
+1483 'JENARO (18902)' triangle
+1484 'FEMALE (18911)' ellipse
+1485 'AUGUSTO (18922)' triangle
+1486 'FEMALE (18931)' ellipse
+1487 'MAXIMINO (18942)' triangle
+1488 'VALENTIN (18952)' triangle
+1489 'FEMALE (18961)' ellipse
+1490 'ATANASIO JIMENE (18972)' triangle
+1491 'CORFILIO (PORFIRIO) (18992)' triangle
+1492 'ANITA TOVAR (19001)' ellipse
+1493 'ANTONINO (19012)' triangle
+1494 'TREVERO (19022)' triangle
+1495 'FEMALE (19031)' ellipse
+1496 'MAPOLEON (19042)' triangle
+1497 'INOCENCIO (19052)' triangle
+1498 'EUSEBIO (19062)' triangle
+1499 'FEMALE (19071)' ellipse
+1500 'SUTE (OLA) (19082)' triangle
+1501 'JOSEFINA (19091)' ellipse
+1502 'ZENOBiA (19101)' ellipse
+1503 'DEMETRIO NUNEZ (19112)' triangle
+1504 'ESTEBAN LIRA (19122)' triangle
+1505 'ROGELIO (19132)' triangle
+1506 'EMA (19141)' ellipse
+1507 'MARIA ANTONIA (19151)' ellipse
+1508 'ANSELMO (19162)' triangle
+1509 'RUFINA (19171)' ellipse
+1510 'MALE (19182)' triangle
+1511 'VALENTIN (19192)' triangle
+1512 'FEMALE (19201)' ellipse
+1513 'FEMALE (19211)' ellipse
+1514 'FEMALE (19221)' ellipse
+1515 'MARIA HELENA (19231)' ellipse
+1516 'PETRA (19241)' ellipse
+1517 'AURELIA (19251)' ellipse
+1518 'FEMALE (19261)' ellipse
+1519 'PATRICIO (19272)' triangle
+1520 'PACITO (19282)' triangle
+1521 'FEMALE (19291)' ellipse
+1522 'ESTERITA (19301)' ellipse
+1523 'IRENA (19311)' ellipse
+1524 'GREGORIO (19322)' triangle
+1525 'GILBERTO (19332)' triangle
+1526 'LICINIA (19341)' ellipse
+1527 'JOSE PEPITO (19352)' triangle
+1528 'TEODORO (19362)' triangle
+1529 'SAMUEL IZUERO (19372)' triangle
+1530 'GERMAN (19382)' triangle
+1531 'FELICISIMO (19392)' triangle
+1532 'ADELA (19401)' ellipse
+1533 'MALE (19412)' triangle
+1534 'NARCISIO (19422)' triangle
+1535 'MALE (19432)' triangle
+1536 'FEMALE (19441)' ellipse
+1537 'BETREMIN (19452)' triangle
+1538 'AURORA (19461)' ellipse
+1539 'MICANIO (19472)' triangle
+1540 'FEMALE (19481)' ellipse
+1541 'MALE (19492)' triangle
+1542 'FEMALE (19501)' ellipse
+1543 'FEMALE (19511)' ellipse
+1544 'ROSA (19521)' ellipse
+1545 'ERNESTO MATA (19532)' triangle
+1546 'JUANA (19541)' ellipse
+1547 'ANGELINA (19551)' ellipse
+1548 'EUSTIMIO BAEZ (19562)' triangle
+1549 'ABEL PASTOR (19572)' triangle
+1550 'JOSE ALFREDO (19582)' triangle
+1551 'PALACIO (19592)' triangle
+1552 'PERUCHO (19602)' triangle
+1553 'OLIMPIA (19611)' ellipse
+1554 'JACINTA (19621)' ellipse
+1555 'ALONSO (19632)' triangle
+1556 'BONIFACIO (19642)' triangle
+1557 'SIMONA (19651)' ellipse
+1558 'MALE (19662)' triangle
+1559 'FEMALE (19671)' ellipse
+1560 'RENO ZAFATA (19682)' triangle
+1561 'FEMALE (19691)' ellipse
+1562 'JOSEFINA (19701)' ellipse
+1563 'PETRA (19711)' ellipse
+1564 'MALE (19722)' triangle
+1565 'GENOVEVA (19731)' ellipse
+1566 'JESUS BAEZ (19742)' triangle
+1567 'ANTONIA (19751)' ellipse
+1568 'ISAIAS RODRIGUE (19762)' triangle
+1569 'ANTONA (19771)' ellipse
+1570 'GENOVITA (19781)' ellipse
+1571 'CELINA (19791)' ellipse
+1572 'VENICIA (19801)' ellipse
+1573 'CONCECIO (19811)' ellipse
+1574 'DIONISIO (19822)' triangle
+1575 'MARIANA (19831)' ellipse
+1576 'ALTAGRACIA (19841)' ellipse
+1577 'CARLOS ZAPATA (19852)' triangle
+1578 'EUSTECIA (19861)' ellipse
+1579 'ROSITA (19871)' ellipse
+1580 'FEMALE (19881)' ellipse
+1581 'MERCEDES (19891)' ellipse
+1582 'MALE (19902)' triangle
+1583 'FEMALE (19911)' ellipse
+1584 'ANTONIA (19921)' ellipse
+1585 'FEMALE (19931)' ellipse
+1586 'CESAR  (CECILIO) (19942)' triangle
+1587 'MARIA (19951)' ellipse
+1588 'PAULINO (19962)' triangle
+1589 'ARELI (19971)' ellipse
+1590 'FEMALE (19981)' ellipse
+1591 'MALE (19992)' triangle
+1592 'DAMASO (20002)' triangle
+1593 'ROSINA (20011)' ellipse
+1594 'MARGARITA (20021)' ellipse
+1595 'GILBERTO (20032)' triangle
+1596 'DARIO (20042)' triangle
+1597 'ANGELINA (20051)' ellipse
+1598 'JAIME ZAPATA (20062)' triangle
+1599 'HELENA (IRENA) (20071)' ellipse
+1600 'ISABELA (20081)' ellipse
+1601 'SERAFIN (20092)' triangle
+1602 'FEMALE (20101)' ellipse
+1603 'FORTUNA (20111)' ellipse
+1604 'FEMALE (20121)' ellipse
+1605 'DEMETRIO (20132)' triangle
+1606 'FEMALE (20141)' ellipse
+1607 'MARABES (20152)' ellipse
+1608 'MALE (20162)' triangle
+1609 'JOSEFINA (20171)' ellipse
+1610 'RAMON (20182)' triangle
+1611 'FERMIN (20192)' triangle
+1612 'MALE (20202)' triangle
+1613 'MARABES (20212)' triangle
+1614 'FEMALE (20221)' ellipse
+1615 'MALE (20232)' triangle
+1616 'MALE (20242)' triangle
+1617 'MALE (20252)' triangle
+1618 'MALE (20262)' triangle
+1619 'RAUL ZAPATA (20272)' triangle
+1620 'JUAN BAUTISTA (20282)' triangle
+1621 'MALE (20292)' triangle
+1622 'MALE (20302)' triangle
+1623 'PEDRO JESUS (20312)' triangle
+1624 'LUCIA (20321)' ellipse
+1625 'ADELA (20331)' ellipse
+1626 'MARTINO (20342)' triangle
+1627 'FEMALE (20351)' ellipse
+1628 'SIMON  RODRIGUEZ (20362)' triangle
+1629 'DOMINGA (20371)' ellipse
+1630 'HELIO (20382)' triangle
+1631 'BERTA (20391)' ellipse
+1632 'MOISES (20402)' triangle
+1633 'ELTO (20412)' triangle
+1634 'JULIA (20421)' ellipse
+1635 'ROSA (20431)' ellipse
+1636 'LINA (20441)' ellipse
+1637 'MALE (20452)' triangle
+1638 'MALE (20462)' triangle
+1639 'TRINA (20471)' ellipse
+1640 'LUIANA (20481)' ellipse
+1641 'MONTE (20492)' triangle
+1642 'BRIGIDO (20502)' triangle
+1643 'MARIA SARBONI (20511)' ellipse
+1644 'MALE (20522)' triangle
+1645 'JUAN (20532)' triangle
+1646 'MARCOLINA (20541)' ellipse
+1647 'FEMALE (20551)' ellipse
+1648 'MALE (20562)' triangle
+1649 'MALE (20572)' triangle
+1650 'MALE (20582)' triangle
+1651 'MALE (20592)' ellipse
+1652 'RODRIGO (20602)' triangle
+1653 'FEMALE (20611)' ellipse
+1654 'FEMALE (20621)' ellipse
+1655 'PANTALEON (20632)' triangle
+1656 'MALE (20642)' triangle
+1657 'MARIO (20652)' triangle
+1658 'JORGE (20662)' triangle
+1659 'MAGDALENA (20671)' ellipse
+1660 'FIDEL (20682)' triangle
+1661 'EDUARDO (20692)' triangle
+1662 'FRANCISCO (20702)' triangle
+1663 'JESUS (20712)' triangle
+1664 'MALE (20722)' triangle
+1665 'FEMALE (20835)' ellipse
+1666 'FEMALE (21601)' ellipse
+1667 'JOSE (21602)' triangle
+1668 'SIDERINA (21603)' ellipse
+1669 'MALE (21604)' triangle
+1670 'CANDELARlA (21605)' ellipse
+1671 'NINO (21606)' triangle
+1672 'SERAFINA (21607)' ellipse
+1673 'MALE (21608)' triangle
+1674 'EUFEMIA (21609)' ellipse
+1675 'INOCENCIO (21610)' triangle
+1676 'ALICIA (21611)' ellipse
+1677 'ANSELMO (21612)' triangle
+1678 'CLAUDINA (21613)' ellipse
+1679 'JULIAN (21614)' triangle
+1680 'DELFINA (21615)' ellipse
+1681 'EDUARDO (21616)' triangle
+1682 'DEL VALLE (21617)' ellipse
+1683 'JUAN (21618)' triangle
+1684 'LUCRECIA (21619)' ellipse
+1685 'LOPEZ (21620)' triangle
+1686 'AMALIA (21621)' ellipse
+1687 'ALIRIO (21622)' triangle
+1688 'FEMALE (21623)' ellipse
+1689 'ARTURO (21624)' triangle
+1690 'FEMALE (21625)' ellipse
+1691 'ADULIO (21626)' triangle
+1692 'CELIA (21627)' ellipse
+1693 'JESUS (21628)' triangle
+1694 'FEMALE (21629)' ellipse
+1695 'DONATO (21630)' triangle
+1696 'FEMALE (21631)' ellipse
+1697 'ELOY (21632)' triangle
+1698 'FEMALE (21633)' ellipse
+1699 'VICENTE ORTIZ (21634)' triangle
+1700 'FEMALE (21635)' ellipse
+1701 'MALE (21636)' triangle
+1702 'FEMALE (21637)' ellipse
+1703 'MALE (21638)' triangle
+1704 'TEODORA (21639)' ellipse
+1705 'MALE (21640)' triangle
+1706 'FEMALE (21641)' ellipse
+1707 'HELIO (21642)' triangle
+1708 'MARIA  DIAZ (21643)' ellipse
+1709 'EUGENIO (21644)' triangle
+1710 'FEMALE (21645)' ellipse
+1711 'HELIO (21646)' triangle
+1712 'FEMALE (21647)' ellipse
+1713 'CONRADO (21648)' triangle
+1714 'LUISA (21649)' ellipse
+1715 'MALE (21650)' triangle
+1716 'EUGENIA (21651)' ellipse
+1717 'MECO (21652)' triangle
+1718 'ZULA (URSULA (21653)' ellipse
+1719 'MALE (21654)' triangle
+1720 'RUFINA (21655)' ellipse
+1721 'MALE (21656)' triangle
+1722 'LUTECIA (21657)' ellipse
+1723 'ABEL (21658)' triangle
+1724 'MARINO (21660)' triangle
+1725 'MALE (21662)' triangle
+1726 'LUIS MIRANDA (21664)' triangle
+1727 'FEMALE (21665)' ellipse
+1728 'CRUZ DIAZ (21666)' ellipse
+1729 'BASILIO (21668)' triangle
+1730 'ANA ROSA (21669)' ellipse
+1731 'MALE (21670)' triangle
+1732 'DELFINA (21671)' ellipse
+1733 'MALE (21672)' triangle
+1734 'ISABEL (21673)' ellipse
+1735 'MALE (21674)' triangle
+1736 'FEMALE (21675)' ellipse
+1737 'HORACIO (21676)' triangle
+1738 'FEMALE (21677)' ellipse
+1739 'MAXIMINO (21678)' triangle
+1740 'JULIA (21679)' ellipse
+1741 'AQUILINO (21680)' triangle
+1742 'FEMALE (21681)' ellipse
+1743 'GORDITO (21682)' triangle
+1744 'FEMALE (21683)' ellipse
+1745 'ALBERTA (21685)' ellipse
+1746 'RAFAEL (21686)' triangle
+1747 'FEMALE (21687)' ellipse
+1748 'FEMALE (21689)' ellipse
+1749 'BENITO MOYA (21690)' triangle
+1750 'FEMALE (21691)' ellipse
+1751 'CELIA TWIN (21693)' ellipse
+1752 'ELVA (21695)' ellipse
+1753 'SILVINO (21696)' triangle
+1754 'PATRICIA (21697)' ellipse
+1755 'MALE (21698)' triangle
+1756 'FEMALE (21699)' ellipse
+1757 'SERAFINA (21701)' ellipse
+1758 'MALE (21702)' triangle
+1759 'RAQUEL (21703)' ellipse
+1760 'HIGINIO (21704)' triangle
+1761 'PURIFICACION (21705)' ellipse
+1762 'EMILIANO (21706)' triangle
+1763 'ERMELINDA (21707)' ellipse
+1764 'ANDRES (21708)' triangle
+1765 'LUCIANA (21709)' ellipse
+1766 'MALE (21710)' triangle
+1767 'CARMEN (21711)' ellipse
+1768 'PABLITO (21712)' triangle
+1769 'HILDA (21713)' ellipse
+1770 'AMADOR (21714)' triangle
+1771 'ERMILDA (21715)' ellipse
+1772 'FEMALE (21717)' ellipse
+1773 'FERNANDO (21718)' triangle
+1774 'PETRONILA (21719)' ellipse
+1775 'ISAAC TORRES (21720)' triangle
+1776 'MIRIAM (21721)' ellipse
+1777 'MALE (21722)' triangle
+1778 'TILDE (21723)' ellipse
+1779 'MALE (21724)' triangle
+1780 'CALTINA (21725)' ellipse
+1781 'TOMASITO (21726)' triangle
+1782 'OLIMPIA LIVIA (21727)' ellipse
+1783 'MALE (21728)' triangle
+1784 'FEMALE (21729)' ellipse
+1785 'MALE (21730)' triangle
+1786 'FEMALE (21731)' ellipse
+1787 'FEMALE (21733)' ellipse
+1788 'EUSEBIO (21734)' triangle
+1789 'SANTO (21736)' triangle
+1790 'TEODORO (21738)' triangle
+1791 'MALE (21740)' triangle
+1792 'PINTO (21742)' triangle
+1793 'GUADALUPE (21744)' ellipse
+1794 'TOMAS JIMENEZ (22022)' triangle
+1795 'PLACIDA (22031)' ellipse
+1796 'MALE (22042)' triangle
+1797 'ISELA (GISELA) (22051)' ellipse
+1798 'FEMALE (22061)' ellipse
+1799 'FEMALE (22071)' ellipse
+1800 'MALE (22082)' triangle
+1801 'MALE (22092)' triangle
+1802 'MALE (22112)' triangle
+1803 'FEMALE (22121)' ellipse
+1804 'VALENTIN (22142)' triangle
+1805 'VIRGINIA CAMPER (22151)' ellipse
+1806 'SERAFIN (22162)' triangle
+1807 'MARIA HELENA (22171)' ellipse
+1808 'PASTORA (22181)' ellipse
+1809 'TINA (SECUNDINA) (22191)' ellipse
+1810 'ANGELIANA (22201)' ellipse
+1811 'DARIO (22202)' triangle
+1812 'FEMALE (22211)' ellipse
+1813 'MALE (22212)' triangle
+1814 'OLGA (22221)' ellipse
+1815 'JOSE (22222)' triangle
+1816 'MARLENIS (22231)' ellipse
+1817 'OLANDO (22232)' triangle
+1818 'ISABELA (22241)' ellipse
+1819 'MAURICIO (22242)' triangle
+1820 'HORACIO (22252)' triangle
+1821 'ZOLANDA (22261)' ellipse
+1822 'JOSE (22262)' triangle
+1823 'CECILIA (22271)' ellipse
+1824 'MALE (22272)' triangle
+1825 'FEMALE (22281)' ellipse
+1826 'JESUS (22282)' triangle
+1827 'FEMALE (22291)' ellipse
+1828 'TOMASA (22301)' ellipse
+1829 'GUILLERMO (22302)' triangle
+1830 'SISONA DE CRUZ (22311)' ellipse
+1831 'MALE (22312)' triangle
+1832 'ERMILDA (22321)' ellipse
+1833 'ANTONIO GARAY (22322)' triangle
+1834 'FELINA (22331)' ellipse
+1835 'UBALDO GARAY (22332)' triangle
+1836 'QUINTINLIANA (22341)' ellipse
+1837 'ALVARO (22342)' triangle
+1838 'URSULINA (22351)' ellipse
+1839 'MALE (22352)' triangle
+1840 'FEMALE (22361)' ellipse
+1841 'CONRADO (22362)' triangle
+1842 'NILDA (22371)' ellipse
+1843 'PEDRO (22372)' triangle
+1844 'FEMALE (22381)' ellipse
+1845 'LIBRADO (22382)' triangle
+1846 'FEMALE (22391)' ellipse
+1847 'SANTIAGO (22392)' triangle
+1848 'MARIA MORALEDA (22401)' ellipse
+1849 'ENRIQUE (22402)' triangle
+1850 'FEMALE (22403)' ellipse
+1851 'TEODORITO (22404)' triangle
+1852 'FEMALE (22405)' ellipse
+1853 'MALE (22406)' triangle
+1854 'FEMALE (22407)' ellipse
+1855 'KULI (22408)' triangle
+1856 'RAMON  MARIUSA (22410)' triangle
+1857 'FEMALE (22411)' ellipse
+1858 'MALE (22412)' triangle
+1859 'FEMALE (22413)' ellipse
+1860 'MALE (22414)' triangle
+1861 'FEMALE (22415)' ellipse
+1862 'LINO RENO (22416)' triangle
+1863 'PETRA (22417)' ellipse
+1864 'FRANCISCO (22418)' triangle
+1865 'ROSA (22419)' ellipse
+1866 'MALE (22420)' triangle
+1867 'TERESITA (22421)' ellipse
+1868 'MANUEL RENAUD (22422)' triangle
+1869 'LUISA (22423)' ellipse
+1870 'PONCIANO (22424)' triangle
+1871 'FEMALE (22425)' ellipse
+1872 'CONRADO (22426)' triangle
+1873 'JULIANITA (22427)' ellipse
+1874 'MALE (22428)' triangle
+1875 'FEMALE (22429)' ellipse
+1876 'COREANO (22430)' triangle
+1877 'FEMALE (22431)' ellipse
+1878 'MALE (22432)' triangle
+1879 'FEMALE (22433)' ellipse
+1880 'MALE (22434)' triangle
+1881 'FEMALE (22435)' ellipse
+1882 'MALE (22436)' triangle
+1883 'FEMALE (22437)' ellipse
+1884 'MALE (22438)' triangle
+1885 'ROSA (22439)' ellipse
+1886 'MALE (22440)' triangle
+1887 'VIDA (22441)' ellipse
+1888 'CEFERINO BAEZ (22442)' triangle
+1889 'LENA (22443)' ellipse
+1890 'NATIVIDAD (22444)' triangle
+1891 'FEMALE (22445)' ellipse
+1892 'REMIGIO (22446)' triangle
+1893 'CARMEN (22447)' ellipse
+1894 'FELIPE (22448)' triangle
+1895 'FEMALE (22449)' ellipse
+1896 'MALE (22450)' triangle
+1897 'FEMALE (22451)' ellipse
+1898 'MALE (22452)' triangle
+1899 'LUTECIA (22453)' ellipse
+1900 'MALE (22454)' triangle
+1901 'GLADYS (22455)' ellipse
+1902 'SIXTO (22456)' triangle
+1903 'FEMALE (22457)' ellipse
+1904 'MALE (22458)' triangle
+1905 'MARCELA (22459)' ellipse
+1906 'ABELARDO (22460)' triangle
+1907 'FEMALE (22461)' ellipse
+1908 'EVELIO (22462)' triangle
+1909 'NILDA (22463)' ellipse
+1910 'ZAMBRANO (22464)' triangle
+1911 'SEBASTIAN (22466)' triangle
+1912 'FEMALE (22467)' ellipse
+1913 'JOSE TWIN (22468)' triangle
+1914 'FEMALE (22469)' ellipse
+1915 'LISANDRO TWIN (22470)' triangle
+1916 'MALE (22472)' triangle
+1917 'ROSARIO (22473)' ellipse
+1918 'ISMAEL (22474)' triangle
+1919 'PETRONILA (22475)' ellipse
+1920 'HENSE (22476)' triangle
+1921 'MALE (22480)' triangle
+1922 'PEDRO JULIO (22482)' triangle
+1923 'FEMALE (22483)' ellipse
+1924 'ADRIANO (22484)' triangle
+1925 'FEMALE (22485)' ellipse
+1926 'MALE (22486)' triangle
+1927 'FEMALE (22487)' ellipse
+1928 'DIONISIO (22488)' triangle
+1929 'FEMALE (22489)' ellipse
+1930 'ALEJANDRO TOBIA (22490)' triangle
+1931 'EMELDA (22491)' ellipse
+1932 'JOSE MARIA (22492)' triangle
+1933 'CLEMENCIA (22493)' ellipse
+1934 'JOSE MANI (22494)' triangle
+1935 'FEMALE (22495)' ellipse
+1936 'VENANCIO (22496)' triangle
+1937 'FELICIA (22497)' ellipse
+1938 'PERUCHO (22498)' triangle
+1939 'JOSE MARIA (22500)' triangle
+1940 'FEMALE (22507)' ellipse
+1941 'LEONIA (22509)' ellipse
+1942 'MALE (22510)' triangle
+1943 'CRUZITA (22511)' ellipse
+1944 'MALE (22512)' triangle
+1945 'FEMALE (22513)' ellipse
+1946 'EUGENIO (22514)' triangle
+1947 'CATALINA (22515)' ellipse
+1948 'VENTURA  JIMENEZ (22516)' triangle
+1949 'ELADIA (22517)' ellipse
+1950 'BENITO (22518)' triangle
+1951 'PRESENTE (22520)' triangle
+1952 'COROMOTO (22521)' triangle
+1953 'VENANCIO (22522)' triangle
+1954 'YOLANDA (22523)' ellipse
+1955 'CASIMIRO (22524)' triangle
+1956 'MARIA MERCEDES (22525)' ellipse
+1957 'MALE (22526)' triangle
+1958 'DELIA PIZARRO (22527)' ellipse
+1959 'HERME (22528)' triangle
+1960 'FEMALE (22529)' ellipse
+1961 'OTILIO (22530)' triangle
+1962 'AVELINA GARCIA (22531)' ellipse
+1963 'PIZARRO (22532)' triangle
+1964 'VIRGINIA (22533)' ellipse
+1965 'MALE (22534)' triangle
+1966 'FEMALE (22535)' ellipse
+1967 'MALE (22536)' triangle
+1968 'IRAIDA (22537)' ellipse
+1969 'MIGUEL (22538)' triangle
+1970 'PASTORA (22539)' ellipse
+1971 'MALE (22540)' triangle
+1972 'LUISA (22541)' ellipse
+1973 'JESUS PEDRO (22542)' triangle
+1974 'FEMALE (22543)' ellipse
+1975 'EMILIO (22544)' triangle
+1976 'FEMALE (22545)' ellipse
+1977 'DELFINO (22546)' triangle
+1978 'MIRNA (22547)' ellipse
+1979 'MALE (22548)' triangle
+1980 'FEMALE (22549)' ellipse
+1981 'MALE (22550)' triangle
+1982 'ELINA (22551)' ellipse
+1983 'MALE (22552)' triangle
+1984 'MARGARITA (22553)' ellipse
+1985 'NICOLAS (22554)' triangle
+1986 'FELICIA (22555)' ellipse
+1987 'VALERIO (22556)' triangle
+1988 'FEMALE (22557)' ellipse
+1989 'MALE (22558)' triangle
+1990 'CARLOTA (22559)' ellipse
+1991 'HANIBAL (22560)' triangle
+1992 'FEMALE (22561)' ellipse
+1993 'MALE (22562)' triangle
+1994 'FEMALE (22563)' ellipse
+1995 'MARCO (22564)' triangle
+1996 'CELTA (22565)' ellipse
+1997 'ENRIQUE (22566)' triangle
+1998 'FEMALE (22567)' ellipse
+1999 'TORIBIO (22568)' triangle
+2000 'LUCIA JIMENEZ (22569)' ellipse
+2001 'MALE (22570)' triangle
+2002 'ANGELINA (22571)' ellipse
+2003 'MALE (22572)' triangle
+2004 'ELVIRA (22573)' ellipse
+2005 'MALE (22574)' triangle
+2006 'DORI (22575)' ellipse
+2007 'CIRILO JIMENEZ (22576)' triangle
+2008 'NERSA (22577)' ellipse
+2009 'DUDU (22578)' triangle
+2010 'MARIA (22579)' ellipse
+2011 'FEMALE (22581)' ellipse
+2012 'BRIGIDO (22582)' triangle
+2013 'FEMALE (22583)' ellipse
+2014 'COPORITO (22584)' triangle
+2015 'FEMALE (22585)' ellipse
+2016 'ARSENIO (22586)' triangle
+2017 'TEODOSIA (22587)' ellipse
+2018 'MALE (22588)' triangle
+2019 'GLORIA (22589)' ellipse
+2020 'MALE (22590)' triangle
+2021 'MARIA ANTINA (22591)' ellipse
+2022 'MALE (22592)' triangle
+2023 'FEMALE (22593)' ellipse
+2024 'MARIA HELENA (22595)' ellipse
+2025 'DELFINA (22597)' ellipse
+2026 'MALE (22598)' triangle
+2027 'HORTENSIA (22599)' ellipse
+2028 'AMBROSIO (22600)' triangle
+2029 'FEMALE (22601)' ellipse
+2030 'MALE (22602)' triangle
+2031 'ANUNCIATA (22603)' ellipse
+2032 'DAMIAN (22604)' triangle
+2033 'AURELIA (22605)' ellipse
+2034 'LUCIANO (22606)' triangle
+2035 'LUISA (22607)' ellipse
+2036 'MAXIMINO (22608)' triangle
+2037 'FEMALE (22609)' ellipse
+2038 'DOMINGO (22610)' triangle
+2039 'FEMALE (22611)' ellipse
+2040 'MISAEL (22612)' triangle
+2041 'FEMALE (22613)' ellipse
+2042 'MALE (22614)' triangle
+2043 'FEMALE (22615)' ellipse
+2044 'MALE (22616)' triangle
+2045 'CECILIA (22617)' ellipse
+2046 'FRANCISCO (22618)' triangle
+2047 'PANCHO MORENO (22620)' triangle
+2048 'ALTAGRACIA (22621)' ellipse
+2049 'MALE (22622)' triangle
+2050 'GERALDA (22623)' ellipse
+2051 'PANCHITO CARDON (22624)' triangle
+2052 'FEMALE (22625)' ellipse
+2053 'LAUTERIO (22626)' triangle
+2054 'CECERINA (22627)' ellipse
+2055 'VICTOR PITO (22628)' triangle
+2056 'LILIA (22629)' ellipse
+2057 'ROMUALDO (22630)' triangle
+2058 'FEMALE (22631)' ellipse
+2059 'MAURICIO (22632)' triangle
+2060 'FEMALE (22633)' ellipse
+2061 'ALEJANDRO (22634)' triangle
+2062 'FEMALE (22635)' ellipse
+2063 'JUAN CENTENO (22636)' triangle
+2064 'LAURENCIA (22637)' ellipse
+2065 'MALE (22638)' triangle
+2066 'FEMALE (22639)' ellipse
+2067 'DAVID (22640)' triangle
+2068 'SUSANA (22641)' ellipse
+2069 'ANSELMO (22642)' triangle
+2070 'ANGELITA (22643)' ellipse
+2071 'SITO (22644)' triangle
+2072 'MARIA TERESA (22645)' ellipse
+2073 'MECO (22646)' triangle
+2074 'MARIA GRACIA (22647)' ellipse
+2075 'ROMANCITO (22648)' triangle
+2076 'FEMALE (22649)' ellipse
+2077 'PEDRIN (22650)' triangle
+2078 'FEMALE (22651)' ellipse
+2079 'ALIRIO (22652)' triangle
+2080 'ANA FRANCISCA (22653)' ellipse
+2081 'CHENTE (22654)' triangle
+2082 'FEMALE (22655)' ellipse
+2083 'MALE (22656)' triangle
+2084 'FEMALE (22657)' ellipse
+2085 'MALE (22658)' triangle
+2086 'FEMALE (22659)' ellipse
+2087 'SERGIO (22660)' triangle
+2088 'HELOISA (22661)' ellipse
+2089 'FEMALE (22663)' ellipse
+2090 'ALICIO (22664)' triangle
+2091 'LUCAS (22666)' triangle
+2092 'FEMALE (22667)' ellipse
+2093 'BENJAMIN (22668)' triangle
+2094 'FEMALE (22669)' ellipse
+2095 'REMIDO (22670)' triangle
+2096 'FEMALE (22671)' ellipse
+2097 'JOSE GABRIEL (22672)' triangle
+2098 'LUISITA (22673)' ellipse
+2099 'ARGENI (22674)' ellipse
+2100 'FILOMENA (22675)' ellipse
+2101 'MALE (22676)' triangle
+2102 'FEMALE (22677)' ellipse
+2103 'UNICO (22678)' triangle
+2104 'FEMALE (22679)' ellipse
+2105 'MALE (22680)' triangle
+2106 'FEMALE (22681)' ellipse
+2107 'RUDOLFO (22682)' triangle
+2108 'FEMALE (22683)' ellipse
+2109 'JOSELIN (22684)' ellipse
+2110 'INES (22685)' ellipse
+2111 'MALE (22686)' triangle
+2112 'JAIME (22690)' triangle
+2113 'FEMALE (22691)' ellipse
+2114 'CRISTOBAL (22692)' triangle
+2115 'FEMALE (22693)' ellipse
+2116 'MARIO (22694)' triangle
+2117 'ALEDI DEL CARME (22695)' ellipse
+2118 'CONCEPCION (22696)' ellipse
+2119 'ARACELIS (22697)' ellipse
+2120 'SECUNDINO (22698)' triangle
+2121 'CARMELITA (22699)' ellipse
+2122 'MALE (22700)' triangle
+2123 'MERCEDES (22701)' ellipse
+2124 'FREDY (22702)' triangle
+2125 'GENEROSA (22703)' ellipse
+2126 'MALE (22704)' triangle
+2127 'FEMALE (22705)' ellipse
+2128 'MALE (22706)' triangle
+2129 'JULIA (22707)' ellipse
+2130 'MALE (22708)' triangle
+2131 'ROSALINA (22709)' ellipse
+2132 'MALE (22710)' triangle
+2133 'ADELINA (22711)' ellipse
+2134 'MALE (22712)' triangle
+2135 'PATRICIA (22713)' ellipse
+2136 'MALE (22714)' triangle
+2137 'FRANCISCA (22715)' ellipse
+2138 'MALE (22716)' triangle
+2139 'GUILLERMINA (22717)' ellipse
+2140 'OMAIRA (22719)' ellipse
+2141 'TEOBALDO (22720)' triangle
+2142 'ESMERALDA (22721)' ellipse
+2143 'EDUARDO (22722)' triangle
+2144 'GRACIELA (22723)' ellipse
+2145 'JUANDO (22724)' triangle
+2146 'ENRIQUETA (22725)' ellipse
+2147 'ROMAN (22726)' triangle
+2148 'CRISTALINA (22727)' ellipse
+2149 'MALE (22728)' triangle
+2150 'FEMALE (22729)' ellipse
+2151 'MATEO NUÑEZ (22730)' triangle
+2152 'FEMALE (22731)' ellipse
+2153 'ELOY (22732)' triangle
+2154 'MARICELA (22733)' ellipse
+2155 'RAIMUNDO (22734)' triangle
+2156 'CAROLINA (22735)' ellipse
+2157 'ATILANO (22736)' triangle
+2158 'MELANIA (22737)' ellipse
+2159 'CRISTIANO (22738)' triangle
+2160 'MANUEL (22740)' triangle
+2161 'AVELINA (22741)' ellipse
+2162 'ABILIO (22742)' triangle
+2163 'HERMINIA (22743)' ellipse
+2164 'ALEXANDER (22744)' triangle
+2165 'FEMALE (22745)' ellipse
+2166 'CONCEPCION (22746)' triangle
+2167 'JOSEFINA (22747)' ellipse
+2168 'MALE (22748)' triangle
+2169 'CONSTANTINA (22749)' ellipse
+2170 'MALE (22750)' triangle
+2171 'FEMALE (22751)' ellipse
+2172 'MALE (22752)' triangle
+2173 'FEMALE (22753)' ellipse
+2174 'MARCELINO (22754)' triangle
+2175 'CRUZ AURISTELA (22755)' ellipse
+2176 'LORENZO (22756)' triangle
+2177 'SILVERIA ESTRELLA (22757)' ellipse
+2178 'MALE (22758)' triangle
+2179 'CONCILA ESTRELLA (22759)' ellipse
+2180 'MALE (22760)' triangle
+2181 'TERESA (22761)' ellipse
+2182 'MALE (22762)' triangle
+2183 'MARIA (22763)' ellipse
+2184 'FELICIANO (22764)' triangle
+2185 'FEMALE (22765)' ellipse
+2186 'ELTO (22766)' triangle
+2187 'CECILIA TOVAR (22767)' ellipse
+2188 'ALBERTO (22768)' triangle
+2189 'AMALIA TOVAR (22769)' ellipse
+2190 'MALE (22770)' triangle
+2191 'MARGARITA DEL V (22771)' ellipse
+2192 'EVELIO (22772)' triangle
+2193 'FEMALE (22773)' ellipse
+2194 'MIGUEL ESTRELLA (22774)' triangle
+2195 'ROSALIA (22775)' ellipse
+2196 'CRUZ SANTO (22776)' triangle
+2197 'ALVIRIA (22777)' ellipse
+2198 'LUCIO (22778)' triangle
+2199 'PORFIRIA (22779)' ellipse
+2200 'JESUS (22780)' triangle
+2201 'ROGELIA (22781)' ellipse
+2202 'FEMALE (22783)' ellipse
+2203 'MALE (22784)' triangle
+2204 'ISAURA (22785)' ellipse
+2205 'JOSE (22786)' triangle
+2206 'FEMALE (22787)' ellipse
+2207 'OLANDO (22788)' triangle
+2208 'GENEROSA (22789)' ellipse
+2209 'MALE (22790)' triangle
+2210 'OFELIA (22791)' ellipse
+2211 'MALE (22792)' triangle
+2212 'FEMALE (22793)' ellipse
+2213 'MALE (22794)' triangle
+2214 'FLORENCIA (22795)' ellipse
+2215 'ELAMO (22796)' triangle
+2216 'CECILIA (22797)' ellipse
+2217 'MALE (22798)' triangle
+2218 'FLORINDA (22799)' ellipse
+2219 'BENIGNO (22800)' triangle
+2220 'JOSEFA ANTONIA (22801)' ellipse
+2221 'MALE (22802)' triangle
+2222 'FEMALE (22803)' ellipse
+2223 'FIDEL (22804)' triangle
+2224 'MIRIAN (22805)' ellipse
+2225 'MENEGILDO (22806)' triangle
+2226 'FEMALE (22807)' ellipse
+2227 'MALE (22808)' triangle
+2228 'FEMALE (22809)' ellipse
+2229 'MALE (22810)' triangle
+2230 'FEMALE (22811)' ellipse
+2231 'ARMANDO (22812)' triangle
+2232 'FEMALE (22813)' ellipse
+2233 'KAYITO (22814)' triangle
+2234 'FEMALE (22815)' ellipse
+2235 'MALE (22816)' triangle
+2236 'ELCINIA (22817)' ellipse
+2237 'JOSE (22818)' triangle
+2238 'MAURICIA (22819)' ellipse
+2239 'MALE (22820)' triangle
+2240 'LIMA (22821)' ellipse
+2241 'MALE (22822)' triangle
+2242 'FEMALE (22823)' ellipse
+2243 'MALE (22824)' triangle
+2244 'FEMALE (22825)' ellipse
+2245 'ULISE (22826)' triangle
+2246 'FEMALE (22827)' ellipse
+2247 'BASILIO (22828)' triangle
+2248 'FEMALE (22829)' ellipse
+2249 'HERME (22830)' triangle
+2250 'FEMALE (22831)' ellipse
+2251 'EFRAIN (22832)' triangle
+2252 'FEMALE (22833)' ellipse
+2253 'LENCHO (22834)' triangle
+2254 'FEMALE (22835)' ellipse
+2255 'SIMEON (22836)' triangle
+2256 'FEMALE (22837)' ellipse
+2257 'ANDRADE (22838)' triangle
+2258 'FEMALE (22839)' ellipse
+2259 'MALE (22840)' triangle
+2260 'FEMALE (22841)' ellipse
+2261 'MALE (22842)' triangle
+2262 'JOSE MANUEL (22844)' triangle
+2263 'MALE (22846)' triangle
+2264 'MALE (22848)' triangle
+2265 'JOSE RANGEL (22850)' triangle
+2266 'FEMALE (22851)' ellipse
+2267 'SEB KAN (22852)' triangle
+2268 'LIDIA (22853)' ellipse
+2269 'URBANO (22854)' triangle
+2270 'FEMALE (22855)' ellipse
+2271 'MARIA ZORAIDA (22857)' ellipse
+2272 'CRISELIA (22859)' ellipse
+2273 'HILARDA (22861)' ellipse
+2274 'MALE (22862)' triangle
+2275 'MARIA AUXILIADO (22863)' ellipse
+2276 'MALE (22864)' triangle
+2277 'FEMALE (22865)' ellipse
+2278 'MALE (22866)' triangle
+2279 'JUDY (22867)' ellipse
+2280 'JOSE RAMON (22868)' triangle
+2281 'CELESTINA (22869)' ellipse
+2282 'JOSEFA (22871)' ellipse
+2283 'ARMANDO (22872)' triangle
+2284 'FEMALE (22873)' ellipse
+2285 'TEODORO (22874)' triangle
+2286 'ALBERTA (22875)' ellipse
+2287 'MALE (22876)' triangle
+2288 'REGINA (22877)' ellipse
+2289 'MALE (22878)' triangle
+2290 'HELIA (22879)' ellipse
+2291 'CUSTODIO GARCIA (22880)' triangle
+2292 'EMILIA (22881)' ellipse
+2293 'JOSE (22882)' triangle
+2294 'JOSEFINA (22883)' ellipse
+2295 'REGINO (22884)' triangle
+2296 'FEMALE (22885)' ellipse
+2297 'GILBERTO (22886)' triangle
+2298 'FEMALE (22887)' ellipse
+2299 'LAURENCIO (22888)' triangle
+2300 'MANUEL RENO (22890)' triangle
+2301 'CONSOLACION (22891)' ellipse
+2302 'EFRAIN (22892)' triangle
+2303 'CLEMENCIA (22893)' ellipse
+2304 'CLOTILDE (22895)' ellipse
+2305 'ALESIO (22896)' triangle
+2306 'BEATRIZ (22897)' ellipse
+2307 'MALE (22898)' triangle
+2308 'MARIA AMPARO (22899)' ellipse
+2309 'MALE (22900)' triangle
+2310 'PATROCINIA NUÑEZ (22901)' ellipse
+2311 'MALE (22902)' triangle
+2312 'MARIA NUÑEZ (22903)' ellipse
+2313 'MALE (22904)' triangle
+2314 'PONCIANA NUÑEZ (22905)' ellipse
+2315 'SILVANO MORALEDA (22906)' triangle
+2316 'ADELIA NUÑEZ (22907)' ellipse
+2317 'MALE (22908)' triangle
+2318 'GLADYS NUÑEZ (22909)' ellipse
+2319 'MELCHOR (22910)' triangle
+2320 'HERMELINDA NUÑEZ (22911)' ellipse
+2321 'MALE (22912)' triangle
+2322 'HERMINIA NUÑEZ (22913)' ellipse
+2323 'MALE (22914)' triangle
+2324 'ESPERANZA (22915)' ellipse
+2325 'VENANCIO NUÑEZ (22916)' triangle
+2326 'ELIANA (22917)' ellipse
+2327 'GERONIMO NUÑEZ (22918)' triangle
+2328 'SATURNINO NUÑEZ (22920)' triangle
+2329 'MALE (22922)' triangle
+2330 'LUiSITO NUÑEZ (22924)' triangle
+2331 'TIBURCIO NUÑEZ (22926)' triangle
+2332 'BALBINO NUÑEZ (22928)' triangle
+2333 'EUSTAQUIO NUÑEZ (22930)' triangle
+2334 'CLEMENTE NUÑEZ (22932)' triangle
+2335 'MAURICIO (22934)' triangle
+2336 'MALE (22936)' triangle
+2337 'ANGEL (22938)' triangle
+2338 'FEMALE (22939)' ellipse
+2339 'FEMALE (26601)' ellipse
+2340 'KOHOKOTORO (26602)' triangle
+2341 'MARIA ANTENIA (26603)' ellipse
+2342 'DOMINGO (26604)' triangle
+2343 'HOTUWAHOKU (26605)' ellipse
+2344 'EUSEBIO (26606)' triangle
+2345 'FEMALE (26607)' ellipse
+2346 'MANUEL (26608)' triangle
+2347 'FEMALE (26609)' ellipse
+2348 'MALE (26610)' triangle
+2349 'JUANITA (26611)' ellipse
+2350 'LORENZO (26612)' triangle
+2351 'FEMALE (26613)' ellipse
+2352 'MALE (26614)' triangle
+2353 'LUISA (26615)' ellipse
+2354 'TONI GOMEZ (26616)' triangle
+2355 'FEMALE (26617)' ellipse
+2356 'EMILIANO (26618)' triangle
+2357 'ERNESTINA (26619)' ellipse
+2358 'MALE (26620)' triangle
+2359 'FEMALE (26621)' ellipse
+2360 'JACINTO (26622)' triangle
+2361 'FEMALE (26623)' ellipse
+2362 'CREGORIO (26624)' triangle
+2363 'NAKURIOSA EMILI (26625)' ellipse
+2364 'GERONIMO (26626)' triangle
+2365 'FEMALE (26627)' ellipse
+2366 'RAMON EL ARAWAC (26628)' triangle
+2367 'FEMALE (26629)' ellipse
+2368 'MARCANO ESTRELLA (26630)' triangle
+2369 'ZENOBIA ESTRELLA (26631)' ellipse
+2370 'MALE (26632)' triangle
+2371 'AGUSTINA (26633)' ellipse
+2372 'LUCIO ESTRELLA (26634)' triangle
+2373 'FLADIA (26635)' ellipse
+2374 'JOSEITO MARQUEZ (26636)' triangle
+2375 'DOMINICIA (26637)' ellipse
+2376 'TIRSO GOMEZ (26638)' triangle
+2377 'EVANGELISTA (26639)' ellipse
+2378 'ALFREDO (26640)' triangle
+2379 'BALBINA (26641)' ellipse
+2380 'SALVADOR (26642)' triangle
+2381 'SURDELINA MARQU (26643)' ellipse
+2382 'JULIO JESUS (26644)' triangle
+2383 'FEMALE (26645)' ellipse
+2384 'MALE (26646)' triangle
+2385 'NILDA MARQUEZ (26647)' ellipse
+2386 'MALE (26648)' triangle
+2387 'ANGELINA MOYA (26649)' ellipse
+2388 'ANDRES MARQUEZ (26650)' triangle
+2389 'FEMALE (26651)' ellipse
+2390 'ROMAN MARQUEZ (26652)' triangle
+2391 'FEMALE (26653)' ellipse
+2392 'JULIO JESUS (26654)' triangle
+2393 'MALE (26656)' triangle
+2394 'ELISA (26657)' ellipse
+2395 'VALENTIN MARQUE (26658)' triangle
+2396 'ANGELINA (26659)' ellipse
+2397 'PEDRO JOSE (26660)' triangle
+2398 'NIEVES (ADONA) (26661)' ellipse
+2399 'SOTERO (26662)' triangle
+2400 'JOSEFA (26663)' ellipse
+2401 'SEBASTIAN (26664)' triangle
+2402 'MODESTA (26665)' ellipse
+2403 'BALBERIO (26666)' triangle
+2404 'RUFINA (26667)' ellipse
+2405 'RICARDO TORRES (26668)' triangle
+2406 'MARIA FAUSTINA (26669)' ellipse
+2407 'EDUARDO (26670)' triangle
+2408 'JUANA (MAMILA) (26671)' ellipse
+2409 'JOAQUIN (26672)' triangle
+2410 'JULIANA (26673)' ellipse
+2411 'JOSE IGNACIO (26674)' triangle
+2412 'ARCADIA (26675)' ellipse
+2413 'ANICETO (ENESlTO (26676)' triangle
+2414 'FEMALE (26677)' ellipse
+2415 'BASO (26678)' triangle
+2416 'TOMASA (26679)' ellipse
+2417 'RAFAEL (26680)' triangle
+2418 'TIDA HEBURA (26681)' ellipse
+2419 'MANUNANU (26682)' triangle
+2420 'BERNARDA (26683)' ellipse
+2421 'JIMENO (26684)' triangle
+2422 'SABE (26685)' ellipse
+2423 'ANICASIO BARRET (26686)' triangle
+2424 'FEMALE (26687)' ellipse
+2425 'ERNESTO (26688)' triangle
+2426 'PLACIDA FRANCIS (26689)' ellipse
+2427 'BETAKO (26690)' triangle
+2428 'FEMALE (26691)' ellipse
+2429 'MALE (26692)' triangle
+2430 'FEMALE (26693)' ellipse
+2431 'ANDRES TORRES (26694)' triangle
+2432 'BENITA (BANITA) (26695)' ellipse
+2433 'ENRIQUE TORRES (26696)' triangle
+2434 'RAMONA (26697)' ellipse
+2435 'OSORIO (26698)' triangle
+2436 'AMELIA (26699)' ellipse
+2437 'CONSTANTINA (26701)' ellipse
+2438 'CESAR (26702)' triangle
+2439 'MARCELINO (26704)' triangle
+2440 'GARCIA (26706)' ellipse
+2441 'FEMALE (26707)' ellipse
+2442 'BETINO (26708)' triangle
+2443 'FEMALE (26709)' ellipse
+2444 'ANTERU (26710)' triangle
+2445 'FEMALE (26711)' ellipse
+2446 'CEFERINO (26712)' triangle
+2447 'ELISA (26713)' ellipse
+2448 'BUSTILLO (26714)' triangle
+2449 'OLGA (26715)' ellipse
+2450 'BRAULIO (26716)' triangle
+2451 'ANGELICA (26717)' ellipse
+2452 'ALFONSO (26718)' triangle
+2453 'FEMALE (26719)' ellipse
+2454 'GILBERTO (26720)' triangle
+2455 'DELIA (26721)' ellipse
+2456 'DOMINGO (26722)' triangle
+2457 'SERAFINA (26723)' ellipse
+2458 'BRIGIDO (26724)' triangle
+2459 'OFELIA (26725)' ellipse
+2460 'JOSE NARANJO (26726)' triangle
+2461 'CASILDA (26727)' ellipse
+2462 'MARCELINO (26728)' triangle
+2463 'MARIA (26729)' ellipse
+2464 'ZENON (26730)' triangle
+2465 'FEMALE (26731)' ellipse
+2466 'FLORENTINO (26732)' triangle
+2467 'PETRA (26733)' ellipse
+2468 'MALE (26734)' triangle
+2469 'MARIA  DE  LOS  AN (26735)' ellipse
+2470 'MALE (26736)' triangle
+2471 'CONCILIA (26737)' ellipse
+2472 'VALERIO (26738)' triangle
+2473 'ISABELITA (26739)' ellipse
+2474 'ROMUALDO (26740)' triangle
+2475 'FEMALE (26741)' ellipse
+2476 'RICO (26742)' triangle
+2477 'FEMALE (26743)' ellipse
+2478 'VICENTE (26744)' triangle
+2479 'PATRICIA (26745)' ellipse
+2480 'LUCAS (26746)' triangle
+2481 'JULIA (26747)' ellipse
+2482 'CONSTANTINO (26748)' triangle
+2483 'MATILDE (26749)' ellipse
+2484 'JUAN DE LA CRUZ (26750)' triangle
+2485 'ADELINA (26751)' ellipse
+2486 'PEDRIN (26752)' triangle
+2487 'ELI A (26753)' ellipse
+2488 'AQUILINO (26754)' triangle
+2489 'EULOJIA (26755)' ellipse
+2490 'MELANIO (26756)' triangle
+2491 'FELICIA (26757)' ellipse
+2492 'SiLVERIO (26758)' triangle
+2493 'PAULA (26759)' ellipse
+2494 'ROSELINDO (26760)' triangle
+2495 'ELITA (26761)' ellipse
+2496 'REMIGIO (26762)' triangle
+2497 'MENA (26763)' ellipse
+2498 'MISAEL (26764)' triangle
+2499 'ANSELMINA (26765)' ellipse
+2500 'ELOPIO (26766)' triangle
+2501 'HELENA (26767)' ellipse
+2502 'MALE (26768)' triangle
+2503 'FEMALE (26769)' ellipse
+2504 'ZENON (26770)' triangle
+2505 'FEMALE (26771)' ellipse
+2506 'ZOILO (26772)' triangle
+2507 'CHINITA TWIN (26773)' ellipse
+2508 'ALBORNOZ (26774)' triangle
+2509 'CELIA (26775)' ellipse
+2510 'CUSTODIO (26776)' triangle
+2511 'SILVERIA (26777)' ellipse
+2512 'MALE (26778)' triangle
+2513 'ZENOBIA (26779)' ellipse
+2514 'TULIO (26780)' triangle
+2515 'FEMALE (26781)' ellipse
+2516 'MELQUIADES (26782)' triangle
+2517 'MAGDALENA (26783)' ellipse
+2518 'SEGUNDO (26784)' triangle
+2519 'MERLINA (MARINA) (26785)' ellipse
+2520 'ALBERTO (26786)' triangle
+2521 'GRACIELA (ACELA) (26787)' ellipse
+2522 'PEDRO JOSE (26788)' triangle
+2523 'DOMINGA (26789)' ellipse
+2524 'CHINITO TWIN (26790)' triangle
+2525 'FEMALE (26791)' ellipse
+2526 'MALE (26792)' triangle
+2527 'FEMALE (26793)' ellipse
+2528 'VALENTIN (26794)' triangle
+2529 'FEMALE (26795)' ellipse
+2530 'OVIDIO (26796)' triangle
+2531 'PEPINA (26797)' ellipse
+2532 'NITO (26798)' triangle
+2533 'ROSITA (26799)' ellipse
+2534 'TRINA (26801)' ellipse
+2535 'MIGUEL (26802)' triangle
+2536 'MARIA ROSA (26803)' ellipse
+2537 'JUAN RIVAS (26804)' triangle
+2538 'MONICO (26806)' triangle
+2539 'MARIETA (26807)' ellipse
+2540 'CLETO (26808)' triangle
+2541 'JULIA (26809)' ellipse
+2542 'RAIMUNDO (26810)' triangle
+2543 'SISTA (SIXTA) (26811)' ellipse
+2544 'ENRIQUE (26812)' triangle
+2545 'AVELINA (26813)' ellipse
+2546 'VIRGILIO (26814)' triangle
+2547 'PEDRO (26816)' triangle
+2548 'FEMALE (26817)' ellipse
+2549 'PINTO (26818)' triangle
+2550 'AMADA (26819)' ellipse
+2551 'DIDI (26820)' triangle
+2552 'FEMALE (26821)' ellipse
+2553 'FRANCISCO (26822)' triangle
+2554 'MARTINA (26823)' ellipse
+2555 'MARIO (26824)' triangle
+2556 'FEMALE (26825)' ellipse
+2557 'MALE (26826)' triangle
+2558 'LIRIA (26827)' ellipse
+2559 'ARMANDO (26828)' triangle
+2560 'FEMALE (26829)' ellipse
+2561 'JESUS (26830)' triangle
+2562 'ANTONIO (26832)' triangle
+2563 'CLAUDIA (26833)' ellipse
+2564 'PABLO (26834)' triangle
+2565 'ELISEO (ELICIO) (26836)' triangle
+2566 'FEMALE (26837)' ellipse
+2567 'MARIANO (26838)' triangle
+2568 'FEMALE (26839)' ellipse
+2569 'MALE (26840)' triangle
+2570 'JOSEFINA (26841)' ellipse
+2571 'ENEJO (ERNESTO) (26842)' triangle
+2572 'JULIA (26843)' ellipse
+2573 'LAOTERIO (26844)' triangle
+2574 'FEMALE (26845)' ellipse
+2575 'MALE (26846)' triangle
+2576 'LASTENIA (26847)' ellipse
+2577 'MALE (26848)' triangle
+2578 'FEMALE (26849)' ellipse
+2579 'ADOLFO (26850)' triangle
+2580 'FEMALE (26851)' ellipse
+2581 'ARCADIO (26852)' triangle
+2582 'NILDA (26853)' ellipse
+2583 'MALE (26854)' triangle
+2584 'PETRA (BERTA) (26855)' ellipse
+2585 'FEMALE (26857)' ellipse
+2586 'MALE (26858)' triangle
+2587 'ASUNCION (26859)' ellipse
+2588 'EZEOUIEL (26860)' triangle
+2589 'TEODORA (26861)' ellipse
+2590 'MALE (26862)' triangle
+2591 'GENOVEVA (26863)' ellipse
+2592 'MALE (26864)' triangle
+2593 'ELVIRA (26865)' ellipse
+2594 'MALE (26866)' triangle
+2595 'HORTENSIA (26867)' ellipse
+2596 'DOMITILO (26868)' triangle
+2597 'LETICIA (26869)' ellipse
+2598 'ABELARDO (26870)' triangle
+2599 'CELINA (26871)' ellipse
+2600 'SOTO (26872)' triangle
+2601 'TERESA (FELICITA (26873)' ellipse
+2602 'CESAREO SOTO (26874)' triangle
+2603 'MARIA (26875)' ellipse
+2604 'PIO TORRES (26876)' triangle
+2605 'ELIANA (26877)' ellipse
+2606 'CENTENO (26878)' triangle
+2607 'MARTA (26879)' ellipse
+2608 'FERNANDO TORRES (26880)' triangle
+2609 'CONCHITA (26881)' ellipse
+2610 'MARCO TORRES (26882)' triangle
+2611 'VIRGINIA (26883)' ellipse
+2612 'HECTOR TORRES (26884)' triangle
+2613 'MARIA ROSA (26885)' ellipse
+2614 'SILVANO TORRES (26886)' triangle
+2615 'MARIA DEL  VALLE (26887)' ellipse
+2616 'FRANCO TORRES (26888)' triangle
+2617 'GLORIA (26889)' ellipse
+2618 'CESAR TORRES (26890)' triangle
+2619 'FEMALE (26891)' ellipse
+2620 'CORNELIO (26892)' triangle
+2621 'FEMALE (26893)' ellipse
+2622 'RAMON EPIFANIO (26894)' triangle
+2623 'LINA (26895)' ellipse
+2624 'HANIBAL MOYA (26896)' triangle
+2625 'IGNACIA (26897)' ellipse
+2626 'TOBIAS (26898)' triangle
+2627 'SILVERIA (26899)' ellipse
+2628 'FELICIANA (26901)' ellipse
+2629 'CHANO CAMILO (26902)' triangle
+2630 'AURORA (26903)' ellipse
+2631 'FELIPE (26904)' triangle
+2632 'FLORENTINA CELE (26905)' ellipse
+2633 'JENARO (26908)' triangle
+2634 'AGAPITA (26909)' ellipse
+2635 'HELIO (26910)' triangle
+2636 'BRIGIDA (26911)' ellipse
+2637 'MALE ARAWAK (26912)' triangle
+2638 'TOMASA (26913)' ellipse
+2639 'MALE (26914)' triangle
+2640 'REGINA (26915)' ellipse
+2641 'PERUCHO (26916)' triangle
+2642 'LIBRADA (26917)' ellipse
+2643 'OSORIO (26918)' triangle
+2644 'EUGENIA (26919)' ellipse
+2645 'LUCAS (26920)' triangle
+2646 'TEOLINDA (26921)' ellipse
+2647 'GERTRUDI (26923)' ellipse
+2648 'AQUILES (26924)' triangle
+2649 'MARIA (26925)' ellipse
+2650 'ARTURO (26926)' triangle
+2651 'LUCRECIA (26927)' ellipse
+2652 'VICENTE (26928)' triangle
+2653 'ERCIA (ELSIA) (26929)' ellipse
+2654 'BRAULIO (26930)' triangle
+2655 'HILDA (26931)' ellipse
+2656 'AVELINO (26932)' triangle
+2657 'MARIA (26933)' ellipse
+2658 'PANCHO (PACITO) (26934)' triangle
+2659 'VICENTA (26935)' ellipse
+2660 'SIMON (26936)' triangle
+2661 'MARICELA BOLAÑO (26937)' ellipse
+2662 'TARACIO (26938)' triangle
+2663 'FERMINA (26939)' ellipse
+2664 'GABINO (26940)' triangle
+2665 'ANITA (26941)' ellipse
+2666 'MATILDE (26943)' ellipse
+2667 'CAMBAO (26944)' triangle
+2668 'FORTUNA (26945)' ellipse
+2669 'JUAN MANUEL (26946)' triangle
+2670 'LINA FREITES (26947)' ellipse
+2671 'ALONSO (26948)' triangle
+2672 'EULOJIA (26949)' ellipse
+2673 'MALE (26950)' triangle
+2674 'IDOLINA (26951)' ellipse
+2675 'SALVADOR (26952)' triangle
+2676 'LUCIELA (26953)' ellipse
+2677 'SEVERINO (SILVIN (26954)' triangle
+2678 'SABINA (26955)' ellipse
+2679 'GORDINO (26956)' triangle
+2680 'ODILIA (26957)' ellipse
+2681 'APOLONIO (26958)' triangle
+2682 'MAIGUALIDA (26959)' ellipse
+2683 'BERTO (26960)' triangle
+2684 'BOLAÑO (26962)' triangle
+2685 'ANSELMO (26964)' triangle
+2686 'GERMAN (26966)' triangle
+2687 'CLAUDIO TORRES (26968)' triangle
+2688 'FIDEL (26970)' triangle
+2689 'EUGENIO (26972)' triangle
+2690 'JOSE (26974)' triangle
+2691 'JOSE GREGORIO H (26976)' triangle
+2692 'AMADO ANTONIO H (26978)' triangle
+2693 'CARLOS KUABERE (26980)' triangle
+2694 'ALI (26982)' triangle
+2695 'GREGORIA (26986)' triangle
+2696 'JULIO (26988)' triangle
+2697 'SIMPLICIO (26990)' triangle
+2698 'FELIX (26992)' triangle
+2699 'MALE (26994)' triangle
+2700 'ARSENIO (26996)' triangle
+2701 'MALE (26998)' triangle
+2702 'JESUS DE LA CRUZ (27700)' triangle
+2703 'OFILIA (27701)' ellipse
+2704 'LAURIANO (27702)' triangle
+2705 'CARMEN (27703)' ellipse
+2706 'ANDRES (27704)' triangle
+2707 'PAULA (27705)' ellipse
+2708 'ELISEO (27706)' triangle
+2709 'MARIA SOLEDAD (27707)' ellipse
+2710 'BEGUIN VICUÑA (27708)' triangle
+2711 'EUSEBIA (27709)' ellipse
+2712 'FERNANDO (27710)' triangle
+2713 'ADELIA (27711)' ellipse
+2714 'CATALINO (27712)' triangle
+2715 'AMALIA (27713)' ellipse
+2716 'PABLO (27714)' triangle
+2717 'PASTORA (27715)' ellipse
+2718 'CLETO (27716)' triangle
+2719 'LAURA (27717)' ellipse
+2720 'MARINO (27718)' triangle
+2721 'FLORA (27719)' ellipse
+2722 'JENARO (27720)' triangle
+2723 'FEMALE (27721)' ellipse
+2724 'ANTONIO (27722)' triangle
+2725 'FEMALE (27723)' ellipse
+2726 'ANGEL (27724)' triangle
+2727 'OLINDA CORLISA (27725)' ellipse
+2728 'LORENZO (27726)' triangle
+2729 'CARMEN (27727)' ellipse
+2730 'MALE (27728)' triangle
+2731 'FEMALE (27729)' ellipse
+2732 'RUBEN (27730)' triangle
+2733 'ALEJANDRINA (27731)' ellipse
+2734 'JOAOUIN (27732)' triangle
+2735 'LINA (27733)' ellipse
+2736 'RODRIGO (27734)' triangle
+2737 'BELINDA (27735)' ellipse
+2738 'SALOMON (27736)' triangle
+2739 'FEMALE (27737)' ellipse
+2740 'GONZALO (27738)' triangle
+2741 'FEMALE (27739)' ellipse
+2742 'RICARDO (27740)' triangle
+2743 'FEMALE (27741)' ellipse
+2744 'MALE (27742)' triangle
+2745 'JULIA NORECA (27743)' ellipse
+2746 'SIMON HEDILLA (27744)' triangle
+2747 'TIULINDA (27745)' ellipse
+2748 'JOSE ANTONIO (27746)' triangle
+2749 'FEMALE (27747)' ellipse
+2750 'MALE (27748)' triangle
+2751 'FEMALE (27749)' ellipse
+2752 'LUIS MEDINA (27750)' triangle
+2753 'ROSITA (27751)' ellipse
+2754 'JESUS BENIGNO (27752)' triangle
+2755 'TRINA (27753)' ellipse
+2756 'RODOLFO (27754)' triangle
+2757 'ALEJANDRINA (27755)' ellipse
+2758 'ANGEL (27756)' triangle
+2759 'MARISA (27757)' ellipse
+2760 'MALE (27758)' triangle
+2761 'LISEÑA (27759)' ellipse
+2762 'BONIFACIO (27760)' triangle
+2763 'MARIANA (27761)' ellipse
+2764 'ISAIAS (27762)' triangle
+2765 'URSULA (27763)' ellipse
+2766 'HORTENSIO (27764)' triangle
+2767 'FEMALE (27765)' ellipse
+2768 'MARIANO (27766)' triangle
+2769 'SANTA (27767)' ellipse
+2770 'PEPITO (27768)' triangle
+2771 'CARMITA (27769)' ellipse
+2772 'ERNESTO (27770)' triangle
+2773 'JOSEFINA (27771)' ellipse
+2774 'HILARIO (27772)' triangle
+2775 'FEMALE (27773)' ellipse
+2776 'FELIPE (27774)' triangle
+2777 'FEMALE (27775)' ellipse
+2778 'MALE (27776)' triangle
+2779 'ISABELITA (27777)' ellipse
+2780 'MALE (27778)' triangle
+2781 'HILDA (27779)' ellipse
+2782 'BONIFACIO BRUNO (27780)' triangle
+2783 'CRUZITA (27781)' ellipse
+2784 'HELIO (27782)' triangle
+2785 'YOLANDA (27783)' ellipse
+2786 'MECO (27784)' triangle
+2787 'DIONISIA (27785)' ellipse
+2788 'GILBERTO (27786)' triangle
+2789 'PETRA (27787)' ellipse
+2790 'AQUILINO (27788)' triangle
+2791 'VIRGINIA (27789)' ellipse
+2792 'MALE (27790)' triangle
+2793 'JULIANITA (27791)' ellipse
+2794 'IGNACIO (27792)' triangle
+2795 'DOMINGA TWINS (27793)' ellipse
+2796 'ZOILO (27794)' triangle
+2797 'AMALIA (27795)' ellipse
+2798 'RODRIGO RICO (27796)' triangle
+2799 'FEMALE (27797)' ellipse
+2800 'VICTOR MANUEL (27798)' triangle
+2801 'JACINTA (27799)' ellipse
+2802 'BASILIO (27800)' triangle
+2803 'MARIA PILAR (27801)' ellipse
+2804 'DOMINGO TWINS (27802)' triangle
+2805 'FEMALE (27803)' ellipse
+2806 'JOSE ANTONIO (27804)' triangle
+2807 'URSULINA (27805)' ellipse
+2808 'RAMON QUINTIN (27806)' triangle
+2809 'FEMALE (27807)' ellipse
+2810 'DANIEL (27808)' triangle
+2811 'ERSILIA (27809)' ellipse
+2812 'ANSELMO (27810)' triangle
+2813 'EDUWINA (27811)' ellipse
+2814 'ISIDORO (27812)' triangle
+2815 'FEMALE (27813)' ellipse
+2816 'ONORIO (27814)' triangle
+2817 'FEMALE (27815)' ellipse
+2818 'VICTORIANO (27816)' triangle
+2819 'FEMALE (27817)' ellipse
+2820 'AURELIO (27818)' triangle
+2821 'HORTENSIA (27819)' ellipse
+2822 'MANUEL ANTONIO (27820)' triangle
+2823 'ANUNCIATA (27821)' ellipse
+2824 'DAMIAN (27822)' triangle
+2825 'MARIANITA (27823)' ellipse
+2826 'ANTONIO (27824)' triangle
+2827 'LIDIA (27825)' ellipse
+2828 'NILO (27826)' triangle
+2829 'ISABEL (27827)' ellipse
+2830 'MATEI (27828)' triangle
+2831 'MATILDE (27829)' ellipse
+2832 'ANSELMITO (27830)' triangle
+2833 'FRANCISCA (27831)' ellipse
+2834 'MALE (27832)' triangle
+2835 'JUANA (27833)' ellipse
+2836 'VICENTE (27834)' triangle
+2837 'MARIA (27835)' ellipse
+2838 'GREGORIO PONDE (27836)' triangle
+2839 'ROSALIA (27837)' ellipse
+2840 'MALE (27838)' triangle
+2841 'LUZMITA (27839)' ellipse
+2842 'EMILIO (27840)' triangle
+2843 'MARIA EUGENIA (27841)' ellipse
+2844 'MALE (27842)' triangle
+2845 'HORTENSIA (27843)' ellipse
+2846 'APOLONIO (27844)' triangle
+2847 'INOCENCIA (27845)' ellipse
+2848 'RUFINO (27846)' triangle
+2849 'FEMALE (27847)' ellipse
+2850 'ENESITO ERNESTO (27848)' triangle
+2851 'ERMINIA (27849)' ellipse
+2852 'MAXIMO (27850)' triangle
+2853 'LUISA (27851)' ellipse
+2854 'PASTOR (27852)' triangle
+2855 'ANTONIA (27853)' ellipse
+2856 'CEFERINO (27854)' triangle
+2857 'ANGELINA (27855)' ellipse
+2858 'CEFERINO (27856)' triangle
+2859 'BERTILIA (27857)' ellipse
+2860 'RAUL (27858)' triangle
+2861 'COROMOTO  NORECA (27859)' triangle
+2862 'CUSTODIO (27860)' triangle
+2863 'OLIMPIA (27861)' ellipse
+2864 'AQUILES (27862)' triangle
+2865 'FEMALE (27863)' ellipse
+2866 'MALE (27864)' triangle
+2867 'MAGDALENA (27865)' ellipse
+2868 'MALE (27866)' triangle
+2869 'LIBRADA (27867)' ellipse
+2870 'CARLOS (27868)' triangle
+2871 'JUSTINA (27869)' ellipse
+2872 'MALE (27870)' triangle
+2873 'CARLOTA (27871)' ellipse
+2874 'MARIO (27872)' triangle
+2875 'OLIMPIA (27873)' ellipse
+2876 'JULIO (27874)' triangle
+2877 'MIREYA (27875)' ellipse
+2878 'LEOPOLDO (27876)' triangle
+2879 'MARIA (27877)' ellipse
+2880 'ELISEO (27878)' triangle
+2881 'LIBRADA (27879)' ellipse
+2882 'MALE (27880)' triangle
+2883 'FEMALE (27881)' ellipse
+2884 'ALIRIO (27882)' triangle
+2885 'CRISTINA (27883)' ellipse
+2886 'MALE (27884)' triangle
+2887 'JOSEFINA (27885)' ellipse
+2888 'CLEOFITO (27886)' triangle
+2889 'FEMALE (27887)' ellipse
+2890 'SERAFIN (27888)' triangle
+2891 'ESPERANZA (27889)' ellipse
+2892 'SEBASTIAN (27890)' triangle
+2893 'VALENTINA (27891)' ellipse
+2894 'ANTONIO (27892)' triangle
+2895 'IGNACIA (27893)' ellipse
+2896 'JOAOUIN (27894)' triangle
+2897 'MAURICIO (27896)' triangle
+2898 'JUANITO (27898)' triangle
+2899 'FEMALE (38771)' ellipse
+
+*arcs
+1 3 1
+1 2671 1
+1 51 1
+2 2617 1
+2 2625 1
+2 1788 1
+2 2641 1
+2 2621 1
+2 2643 1
+2 2627 1
+2 2619 1
+2 2645 1
+2 2623 1
+4 2536 1
+4 2561 1
+4 2531 1
+4 2565 1
+4 2562 1
+4 2567 1
+4 2533 1
+4 2564 1
+4 2534 1
+5 7 1
+6 2594 1
+6 2578 1
+6 2592 1
+6 2582 1
+6 2580 1
+6 2596 1
+6 2590 1
+6 2576 1
+9 38 1
+9 2667 1
+10 2587 1
+10 2595 1
+10 2541 1
+10 2571 1
+10 2573 1
+10 2539 1
+10 2608 1
+10 2603 1
+10 2569 1
+10 2543 1
+10 2593 1
+10 2610 1
+10 2622 1
+10 2616 1
+10 2606 1
+10 2614 1
+10 2605 1
+10 2604 1
+10 2612 1
+12 2460 1
+12 66 1
+12 83 1
+12 2456 1
+12 1728 1
+12 81 1
+12 64 1
+12 60 1
+12 2440 1
+12 70 1
+12 2458 1
+12 37 1
+12 68 1
+12 2448 1
+12 62 1
+12 2452 1
+12 2450 1
+12 72 1
+12 79 1
+12 2462 1
+12 2454 1
+13 2523 1
+13 2540 1
+13 2521 1
+13 2538 1
+13 2519 1
+13 2551 1
+13 2544 1
+13 2547 1
+13 2542 1
+13 2546 1
+13 2549 1
+13 2517 1
+14 73 1
+14 67 1
+14 71 1
+14 22 1
+14 61 1
+14 69 1
+14 20 1
+15 2424 1
+15 2422 1
+15 17 1
+17 287 1
+17 281 1
+17 279 1
+17 283 1
+17 258 1
+17 260 1
+17 285 1
+17 266 1
+17 264 1
+17 262 1
+19 36 1
+19 21 1
+18 24 1
+18 77 1
+21 3 1
+21 2671 1
+23 25 1
+22 40 1
+22 44 1
+22 42 1
+22 49 1
+22 57 1
+22 2830 1
+22 46 1
+22 53 1
+22 11 1
+22 55 1
+26 40 1
+26 44 1
+26 42 1
+26 49 1
+26 57 1
+26 2830 1
+26 46 1
+26 53 1
+26 11 1
+26 55 1
+30 326 1
+30 89 1
+30 2437 1
+30 91 1
+30 324 1
+30 322 1
+30 87 1
+30 85 1
+30 2464 1
+35 37 1
+35 1781 1
+35 39 1
+35 2440 1
+33 2537 1
+33 2439 1
+33 2669 1
+33 2438 1
+38 302 1
+38 280 1
+38 296 1
+38 298 1
+38 300 1
+38 278 1
+38 294 1
+38 274 1
+38 276 1
+36 7 1
+42 291 1
+42 314 1
+42 325 1
+42 327 1
+42 288 1
+42 317 1
+42 289 1
+42 323 1
+42 319 1
+42 321 1
+42 1750 1
+43 1743 1
+43 2466 1
+43 1741 1
+43 54 1
+43 1718 1
+43 56 1
+41 1793 1
+41 45 1
+41 43 1
+41 48 1
+41 52 1
+47 227 1
+47 229 1
+44 1775 1
+45 1722 1
+45 1740 1
+51 282 1
+51 306 1
+51 304 1
+50 1746 1
+49 268 1
+49 270 1
+49 290 1
+54 1736 1
+52 1669 1
+52 1720 1
+52 1699 1
+59 2537 1
+59 2439 1
+59 2669 1
+59 2438 1
+58 1749 1
+62 287 1
+62 281 1
+62 279 1
+62 283 1
+62 258 1
+62 260 1
+62 285 1
+62 266 1
+62 264 1
+62 262 1
+61 1791 1
+61 2376 1
+61 65 1
+61 18 1
+61 63 1
+60 89 1
+60 2437 1
+60 91 1
+60 87 1
+60 85 1
+60 2464 1
+68 246 1
+68 242 1
+68 244 1
+68 225 1
+68 248 1
+68 223 1
+69 90 1
+69 84 1
+69 86 1
+69 88 1
+70 282 1
+70 306 1
+70 304 1
+64 302 1
+64 280 1
+64 296 1
+64 298 1
+64 300 1
+64 278 1
+64 294 1
+64 274 1
+64 276 1
+66 291 1
+66 314 1
+66 325 1
+66 327 1
+66 288 1
+66 317 1
+66 289 1
+66 323 1
+66 319 1
+66 321 1
+66 1750 1
+79 309 1
+79 311 1
+79 355 1
+79 307 1
+79 353 1
+79 313 1
+72 1698 1
+75 24 1
+75 77 1
+85 295 1
+85 335 1
+85 331 1
+85 329 1
+85 293 1
+85 333 1
+87 286 1
+87 312 1
+87 284 1
+81 1702 1
+92 127 1
+92 110 1
+94 104 1
+94 106 1
+94 123 1
+94 108 1
+89 145 1
+89 143 1
+102 94 1
+102 96 1
+102 98 1
+102 1784 1
+102 121 1
+102 92 1
+102 100 1
+100 1782 1
+101 2412 1
+101 1765 1
+96 131 1
+96 135 1
+96 133 1
+125 127 1
+125 110 1
+136 146 1
+129 131 1
+129 135 1
+129 133 1
+157 128 1
+157 130 1
+148 177 1
+148 158 1
+148 179 1
+148 181 1
+148 175 1
+172 182 1
+162 191 1
+165 146 1
+188 218 1
+193 195 1
+193 230 1
+193 197 1
+193 228 1
+193 201 1
+193 205 1
+193 207 1
+193 203 1
+193 226 1
+193 199 1
+221 2431 1
+221 238 1
+212 191 1
+213 209 1
+213 211 1
+208 222 1
+208 220 1
+208 224 1
+211 215 1
+211 217 1
+211 219 1
+211 236 1
+238 2474 1
+238 357 1
+238 240 1
+238 1730 1
+234 215 1
+234 217 1
+234 219 1
+234 236 1
+233 259 1
+232 209 1
+232 211 1
+231 245 1
+231 267 1
+231 263 1
+231 243 1
+231 265 1
+247 277 1
+247 2673 1
+240 246 1
+240 242 1
+240 244 1
+240 225 1
+240 248 1
+240 223 1
+275 277 1
+257 259 1
+262 272 1
+260 268 1
+260 270 1
+260 290 1
+261 245 1
+261 267 1
+261 263 1
+261 243 1
+261 265 1
+310 286 1
+310 312 1
+310 284 1
+316 361 1
+316 359 1
+318 344 1
+318 375 1
+318 340 1
+318 342 1
+292 272 1
+338 310 1
+350 1751 1
+350 354 1
+350 356 1
+350 362 1
+350 364 1
+350 360 1
+350 366 1
+350 358 1
+348 1679 1
+346 1675 1
+320 326 1
+320 324 1
+320 322 1
+332 369 1
+328 330 1
+328 367 1
+373 375 1
+373 340 1
+373 342 1
+372 386 1
+368 380 1
+368 1691 1
+371 344 1
+370 1666 1
+370 1705 1
+370 1668 1
+370 1703 1
+370 1701 1
+382 1693 1
+382 384 1
+382 1695 1
+382 1697 1
+377 1687 1
+377 1683 1
+377 374 1
+377 1685 1
+377 372 1
+377 370 1
+377 376 1
+377 379 1
+377 350 1
+377 368 1
+377 378 1
+377 1673 1
+379 1667 1
+379 348 1
+379 1671 1
+379 381 1
+379 346 1
+379 385 1
+379 383 1
+357 361 1
+357 310 1
+357 359 1
+352 1667 1
+352 348 1
+352 1671 1
+352 381 1
+352 346 1
+352 385 1
+352 383 1
+365 369 1
+363 330 1
+363 367 1
+410 2815 1
+412 414 1
+402 401 1
+402 413 1
+402 404 1
+402 411 1
+402 418 1
+402 407 1
+402 403 1
+402 410 1
+403 405 1
+403 408 1
+400 490 1
+400 485 1
+400 499 1
+400 492 1
+400 520 1
+400 497 1
+400 496 1
+400 518 1
+400 487 1
+401 2715 1
+401 2707 1
+401 545 1
+401 566 1
+401 2724 1
+401 2705 1
+401 2710 1
+401 567 1
+401 570 1
+401 2726 1
+401 543 1
+406 405 1
+406 408 1
+407 409 1
+407 414 1
+404 2783 1
+404 2785 1
+404 2792 1
+404 2786 1
+404 2787 1
+404 2784 1
+404 2789 1
+404 2788 1
+404 2790 1
+395 394 1
+394 2824 1
+394 2791 1
+394 2814 1
+394 2781 1
+394 2822 1
+394 2806 1
+394 2753 1
+394 2808 1
+394 2772 1
+393 415 1
+393 417 1
+393 419 1
+393 421 1
+393 430 1
+393 432 1
+393 431 1
+393 429 1
+399 523 1
+399 534 1
+399 536 1
+399 521 1
+399 530 1
+399 532 1
+398 2884 1
+398 2893 1
+398 2896 1
+398 2863 1
+398 2883 1
+398 2890 1
+398 2880 1
+398 2882 1
+398 2702 1
+398 2870 1
+397 401 1
+397 413 1
+397 404 1
+397 411 1
+397 418 1
+397 407 1
+397 403 1
+397 410 1
+396 398 1
+396 399 1
+396 400 1
+396 415 1
+396 417 1
+396 419 1
+396 421 1
+396 397 1
+387 389 1
+387 390 1
+387 576 1
+387 393 1
+387 391 1
+387 392 1
+391 398 1
+391 399 1
+391 400 1
+391 397 1
+390 394 1
+388 389 1
+388 390 1
+388 393 1
+388 391 1
+388 392 1
+440 441 1
+440 443 1
+440 442 1
+440 444 1
+440 439 1
+442 2819 1
+442 2811 1
+442 2821 1
+442 2846 1
+442 2854 1
+442 2826 1
+442 2862 1
+442 2856 1
+442 2859 1
+442 2828 1
+442 2864 1
+442 573 1
+442 2817 1
+442 2813 1
+445 449 1
+445 448 1
+445 447 1
+446 449 1
+446 451 1
+446 448 1
+446 447 1
+446 452 1
+446 450 1
+433 436 1
+433 438 1
+433 451 1
+433 452 1
+433 435 1
+433 450 1
+434 436 1
+434 438 1
+434 435 1
+435 453 1
+435 455 1
+435 456 1
+435 454 1
+435 460 1
+435 458 1
+435 457 1
+437 441 1
+437 443 1
+437 442 1
+437 444 1
+437 439 1
+438 2728 1
+438 2730 1
+438 2747 1
+438 2754 1
+438 2719 1
+438 2727 1
+438 2752 1
+439 2728 1
+439 2730 1
+439 2747 1
+439 2754 1
+439 2719 1
+439 2727 1
+439 2752 1
+425 427 1
+424 427 1
+427 2824 1
+427 2791 1
+427 2814 1
+427 2781 1
+427 2822 1
+427 2806 1
+427 2753 1
+427 2808 1
+427 2772 1
+430 595 1
+430 453 1
+430 455 1
+430 456 1
+430 454 1
+430 460 1
+430 458 1
+430 457 1
+417 2819 1
+417 2811 1
+417 2821 1
+417 2846 1
+417 2854 1
+417 2826 1
+417 2862 1
+417 2856 1
+417 2859 1
+417 2828 1
+417 2864 1
+417 573 1
+417 2817 1
+417 2813 1
+416 409 1
+419 525 1
+419 531 1
+419 533 1
+419 540 1
+419 542 1
+419 527 1
+419 538 1
+419 535 1
+419 529 1
+421 519 1
+421 526 1
+421 517 1
+421 528 1
+421 513 1
+421 524 1
+421 515 1
+420 428 1
+420 426 1
+420 422 1
+420 424 1
+423 428 1
+423 426 1
+423 422 1
+423 424 1
+422 430 1
+422 432 1
+422 431 1
+422 429 1
+478 601 1
+476 2771 1
+476 2778 1
+477 479 1
+477 494 1
+477 481 1
+477 483 1
+474 550 1
+474 548 1
+474 546 1
+474 552 1
+475 490 1
+475 485 1
+475 499 1
+475 492 1
+475 520 1
+475 497 1
+475 496 1
+475 518 1
+475 487 1
+472 2834 1
+472 2836 1
+472 2835 1
+472 2831 1
+472 2833 1
+468 470 1
+469 475 1
+469 486 1
+469 473 1
+469 484 1
+469 471 1
+469 488 1
+466 491 1
+466 467 1
+466 465 1
+466 478 1
+466 472 1
+466 463 1
+466 474 1
+466 476 1
+466 480 1
+467 2886 1
+467 2885 1
+467 2888 1
+467 2887 1
+464 2713 1
+464 2709 1
+464 2711 1
+463 470 1
+462 464 1
+462 459 1
+461 491 1
+461 467 1
+461 465 1
+461 478 1
+461 472 1
+461 463 1
+461 474 1
+461 476 1
+461 480 1
+459 2852 1
+459 2845 1
+459 2848 1
+459 2850 1
+457 561 1
+457 557 1
+457 2706 1
+457 565 1
+457 2704 1
+457 563 1
+457 2708 1
+456 572 1
+456 2720 1
+456 2716 1
+456 2703 1
+456 574 1
+456 2722 1
+456 2718 1
+455 2834 1
+455 464 1
+455 2836 1
+455 2835 1
+455 2831 1
+455 2833 1
+455 459 1
+454 2762 1
+454 2768 1
+454 2759 1
+454 2770 1
+454 2766 1
+454 2761 1
+454 2757 1
+454 2755 1
+453 2884 1
+453 2893 1
+453 2896 1
+453 2863 1
+453 2883 1
+453 2890 1
+453 2880 1
+453 2882 1
+453 2702 1
+453 2870 1
+450 525 1
+450 531 1
+450 533 1
+450 540 1
+450 542 1
+450 527 1
+450 538 1
+450 535 1
+450 529 1
+448 519 1
+448 526 1
+448 523 1
+448 534 1
+448 517 1
+448 536 1
+448 528 1
+448 521 1
+448 530 1
+448 524 1
+448 515 1
+448 532 1
+504 506 1
+506 508 1
+506 495 1
+506 510 1
+501 509 1
+501 505 1
+501 503 1
+501 507 1
+501 514 1
+502 493 1
+496 2765 1
+496 2774 1
+496 2767 1
+496 2776 1
+497 555 1
+498 500 1
+499 511 1
+499 516 1
+493 506 1
+489 493 1
+491 537 1
+491 539 1
+491 544 1
+490 479 1
+490 494 1
+490 481 1
+490 483 1
+485 2714 1
+485 2712 1
+485 547 1
+485 568 1
+487 508 1
+487 495 1
+487 510 1
+487 500 1
+549 553 1
+549 571 1
+549 551 1
+547 549 1
+545 2844 1
+545 2823 1
+545 2841 1
+545 2837 1
+545 2839 1
+545 2842 1
+545 2827 1
+545 2843 1
+556 577 1
+556 502 1
+557 559 1
+554 558 1
+554 560 1
+567 553 1
+567 571 1
+567 551 1
+566 561 1
+566 557 1
+566 2706 1
+566 565 1
+566 555 1
+566 2704 1
+566 563 1
+566 2708 1
+564 2717 1
+562 567 1
+560 2715 1
+560 2707 1
+560 545 1
+560 566 1
+560 2724 1
+560 2705 1
+560 2710 1
+560 570 1
+560 2726 1
+560 543 1
+575 580 1
+573 2849 1
+573 559 1
+570 572 1
+570 2720 1
+570 2716 1
+570 2703 1
+570 574 1
+570 2722 1
+570 2718 1
+569 549 1
+517 2777 1
+517 2769 1
+517 2780 1
+517 2779 1
+517 2763 1
+517 2775 1
+517 2782 1
+517 2773 1
+512 509 1
+512 511 1
+512 505 1
+512 503 1
+512 516 1
+512 507 1
+512 514 1
+527 2820 1
+527 2818 1
+527 2816 1
+522 513 1
+529 2807 1
+529 2809 1
+528 2802 1
+528 2794 1
+528 2800 1
+528 2799 1
+528 2804 1
+528 2793 1
+528 2796 1
+528 2795 1
+528 2797 1
+528 2798 1
+531 550 1
+531 548 1
+531 546 1
+531 552 1
+541 558 1
+541 560 1
+541 577 1
+541 502 1
+543 2717 1
+543 2875 1
+543 2878 1
+543 2867 1
+543 2871 1
+543 2872 1
+543 2879 1
+543 2873 1
+543 2877 1
+543 2881 1
+543 2869 1
+543 2876 1
+538 537 1
+538 539 1
+538 544 1
+610 609 1
+611 1821 1
+611 616 1
+611 613 1
+611 1810 1
+611 615 1
+611 614 1
+611 612 1
+608 606 1
+608 607 1
+609 935 1
+609 611 1
+618 619 1
+619 621 1
+617 619 1
+622 2018 1
+622 840 1
+622 839 1
+622 838 1
+620 621 1
+621 629 1
+621 624 1
+621 622 1
+621 623 1
+621 625 1
+621 626 1
+621 1823 1
+621 1663 1
+621 1826 1
+621 627 1
+621 628 1
+625 2111 1
+625 2098 1
+624 2188 1
+624 2190 1
+624 1270 1
+631 632 1
+630 632 1
+634 645 1
+634 642 1
+634 640 1
+634 641 1
+634 1908 1
+634 638 1
+634 647 1
+634 646 1
+634 643 1
+634 644 1
+634 639 1
+634 637 1
+633 861 1
+633 862 1
+633 859 1
+633 852 1
+633 1208 1
+633 1004 1
+633 860 1
+632 633 1
+632 634 1
+632 648 1
+637 756 1
+637 754 1
+637 755 1
+637 753 1
+637 2226 1
+636 645 1
+636 642 1
+636 640 1
+636 641 1
+636 1908 1
+636 638 1
+636 647 1
+636 646 1
+636 643 1
+636 644 1
+636 639 1
+636 637 1
+576 580 1
+576 475 1
+576 486 1
+576 473 1
+576 484 1
+576 471 1
+576 488 1
+577 585 1
+577 591 1
+577 587 1
+577 583 1
+577 589 1
+577 579 1
+578 576 1
+579 584 1
+579 581 1
+580 585 1
+580 591 1
+580 587 1
+580 583 1
+580 589 1
+580 579 1
+582 584 1
+582 581 1
+586 597 1
+586 600 1
+586 590 1
+586 588 1
+586 598 1
+586 596 1
+586 599 1
+586 592 1
+593 595 1
+595 597 1
+595 600 1
+595 590 1
+595 588 1
+595 598 1
+595 596 1
+595 599 1
+595 592 1
+603 604 1
+603 1323 1
+602 604 1
+602 1323 1
+605 609 1
+604 606 1
+604 607 1
+604 611 1
+607 1422 1
+607 2268 1
+607 1417 1
+607 1424 1
+607 1420 1
+607 2266 1
+607 1418 1
+607 1423 1
+607 1425 1
+607 1421 1
+607 1419 1
+606 671 1
+606 676 1
+606 669 1
+606 694 1
+606 675 1
+606 674 1
+606 661 1
+606 662 1
+606 668 1
+606 670 1
+687 692 1
+687 693 1
+687 2175 1
+687 691 1
+687 690 1
+687 689 1
+686 687 1
+686 2185 1
+686 2203 1
+685 2189 1
+685 694 1
+685 687 1
+685 2185 1
+685 2203 1
+683 1321 1
+683 1320 1
+683 2280 1
+683 1319 1
+677 679 1
+677 682 1
+677 680 1
+677 678 1
+677 681 1
+676 2117 1
+672 2279 1
+672 673 1
+696 1821 1
+696 616 1
+696 613 1
+696 1810 1
+696 615 1
+696 614 1
+696 612 1
+695 696 1
+695 700 1
+695 697 1
+695 701 1
+695 699 1
+695 698 1
+695 704 1
+695 2261 1
+695 702 1
+695 703 1
+688 692 1
+688 693 1
+688 691 1
+688 690 1
+688 689 1
+653 1641 1
+653 655 1
+653 2269 1
+653 2111 1
+653 654 1
+653 1644 1
+653 1640 1
+653 1639 1
+653 2115 1
+653 1642 1
+653 2098 1
+653 1643 1
+652 1371 1
+652 1139 1
+655 1795 1
+655 1860 1
+655 1490 1
+654 836 1
+654 834 1
+654 2020 1
+654 2006 1
+654 835 1
+649 652 1
+649 683 1
+649 705 1
+649 695 1
+649 653 1
+649 685 1
+649 660 1
+649 677 1
+649 651 1
+649 684 1
+648 1209 1
+648 1216 1
+648 1215 1
+648 1220 1
+648 1210 1
+648 1219 1
+648 1218 1
+648 1217 1
+648 1214 1
+651 2000 1
+651 1794 1
+651 2007 1
+651 2002 1
+650 652 1
+650 653 1
+650 651 1
+640 2250 1
+640 1046 1
+640 2259 1
+642 2232 1
+642 2234 1
+668 1008 1
+668 2164 1
+668 1006 1
+668 1007 1
+670 1039 1
+670 2308 1
+670 1040 1
+670 1041 1
+670 2319 1
+671 2279 1
+671 673 1
+660 671 1
+660 676 1
+660 669 1
+660 675 1
+660 674 1
+660 661 1
+660 662 1
+660 668 1
+660 670 1
+662 664 1
+662 666 1
+662 667 1
+662 665 1
+663 664 1
+663 666 1
+663 667 1
+663 1449 1
+663 665 1
+656 2126 1
+656 2130 1
+656 2124 1
+656 657 1
+656 2128 1
+658 2301 1
+658 2303 1
+659 683 1
+659 705 1
+659 695 1
+659 685 1
+659 660 1
+659 677 1
+659 684 1
+746 750 1
+746 749 1
+746 2247 1
+746 751 1
+746 748 1
+745 757 1
+745 746 1
+745 752 1
+744 745 1
+736 2242 1
+736 737 1
+743 745 1
+742 743 1
+762 747 1
+763 2195 1
+763 767 1
+763 770 1
+763 2213 1
+763 765 1
+763 764 1
+763 773 1
+763 766 1
+763 769 1
+763 772 1
+763 771 1
+763 768 1
+760 774 1
+760 785 1
+760 763 1
+760 784 1
+760 762 1
+760 791 1
+760 2014 1
+760 1451 1
+761 774 1
+761 785 1
+761 763 1
+761 784 1
+761 762 1
+761 791 1
+761 2014 1
+761 1451 1
+752 756 1
+752 754 1
+752 755 1
+752 753 1
+752 2226 1
+758 760 1
+759 760 1
+757 1532 1
+757 1530 1
+757 2222 1
+757 1531 1
+757 1533 1
+713 715 1
+713 716 1
+713 2240 1
+713 714 1
+712 713 1
+712 720 1
+712 721 1
+712 717 1
+717 2244 1
+719 2246 1
+718 719 1
+718 2244 1
+707 743 1
+707 709 1
+706 1504 1
+706 1501 1
+706 1505 1
+706 2123 1
+706 2125 1
+706 2147 1
+706 1502 1
+709 711 1
+708 709 1
+711 713 1
+711 720 1
+711 721 1
+711 734 1
+711 717 1
+711 726 1
+710 711 1
+734 739 1
+734 735 1
+734 741 1
+734 740 1
+734 738 1
+735 2242 1
+735 737 1
+721 724 1
+721 2248 1
+721 723 1
+722 724 1
+722 2248 1
+722 723 1
+725 757 1
+725 734 1
+725 746 1
+725 726 1
+725 752 1
+726 729 1
+726 732 1
+726 728 1
+726 733 1
+726 730 1
+726 731 1
+726 727 1
+821 822 1
+820 822 1
+823 844 1
+823 825 1
+822 1222 1
+822 1198 1
+822 1184 1
+822 1221 1
+822 1497 1
+822 1223 1
+822 1207 1
+817 2175 1
+819 679 1
+819 682 1
+819 680 1
+819 678 1
+819 681 1
+829 830 1
+829 1638 1
+831 997 1
+831 2004 1
+831 998 1
+831 1000 1
+831 996 1
+831 999 1
+830 2109 1
+825 832 1
+825 831 1
+825 841 1
+825 842 1
+825 829 1
+825 843 1
+825 837 1
+825 833 1
+825 827 1
+825 828 1
+824 844 1
+824 825 1
+827 1614 1
+827 1622 1
+827 1623 1
+827 1618 1
+827 1624 1
+827 1616 1
+827 1613 1
+827 1617 1
+827 1615 1
+827 1619 1
+826 829 1
+826 827 1
+826 828 1
+804 808 1
+804 809 1
+804 2105 1
+804 807 1
+804 2094 1
+804 806 1
+805 808 1
+805 809 1
+805 2105 1
+805 807 1
+805 2094 1
+805 806 1
+800 801 1
+801 1058 1
+801 767 1
+801 769 1
+801 768 1
+801 1062 1
+801 1063 1
+801 1067 1
+801 1061 1
+801 1073 1
+801 1084 1
+801 1064 1
+801 764 1
+801 765 1
+801 1065 1
+801 766 1
+802 816 1
+802 810 1
+802 804 1
+802 803 1
+802 815 1
+802 818 1
+802 817 1
+802 1661 1
+802 1662 1
+810 813 1
+810 814 1
+810 2096 1
+810 811 1
+810 2107 1
+810 812 1
+791 792 1
+785 2217 1
+785 786 1
+785 2215 1
+785 1654 1
+785 790 1
+785 788 1
+785 787 1
+785 789 1
+784 1415 1
+784 1407 1
+784 1416 1
+784 1412 1
+784 1403 1
+784 1404 1
+784 1410 1
+784 1406 1
+784 1411 1
+784 1413 1
+784 1405 1
+784 1414 1
+799 1186 1
+799 1101 1
+799 1185 1
+799 1100 1
+799 1102 1
+799 1085 1
+799 1103 1
+798 1104 1
+797 798 1
+797 799 1
+796 798 1
+796 819 1
+796 799 1
+796 801 1
+796 802 1
+795 796 1
+794 796 1
+792 2197 1
+792 793 1
+774 775 1
+774 776 1
+774 782 1
+774 780 1
+774 778 1
+774 783 1
+774 2161 1
+774 781 1
+774 779 1
+774 2182 1
+778 2211 1
+776 1905 1
+776 777 1
+776 1907 1
+882 883 1
+882 884 1
+882 885 1
+886 888 1
+886 892 1
+886 887 1
+886 2249 1
+886 890 1
+886 891 1
+886 889 1
+888 2224 1
+893 1538 1
+895 896 1
+894 896 1
+864 865 1
+864 867 1
+864 866 1
+866 1052 1
+866 1053 1
+866 1050 1
+866 1048 1
+866 1044 1
+866 2257 1
+866 1049 1
+866 1047 1
+866 1045 1
+866 1051 1
+867 1307 1
+867 1309 1
+867 1308 1
+867 1313 1
+867 1310 1
+867 1314 1
+867 1306 1
+867 1311 1
+867 1305 1
+867 2251 1
+867 1312 1
+868 870 1
+869 870 1
+870 872 1
+871 872 1
+872 886 1
+872 881 1
+872 875 1
+872 893 1
+872 876 1
+872 873 1
+872 882 1
+872 874 1
+876 880 1
+876 877 1
+876 879 1
+876 2223 1
+876 878 1
+876 2199 1
+877 2201 1
+851 861 1
+851 862 1
+851 859 1
+851 852 1
+851 860 1
+850 851 1
+850 863 1
+849 851 1
+849 863 1
+849 865 1
+849 867 1
+849 866 1
+848 849 1
+853 2022 1
+853 856 1
+853 857 1
+853 858 1
+853 854 1
+853 855 1
+852 2022 1
+852 856 1
+852 857 1
+852 858 1
+852 854 1
+852 855 1
+859 750 1
+859 749 1
+859 2247 1
+859 751 1
+859 747 1
+859 748 1
+863 2267 1
+861 2246 1
+832 1374 1
+833 836 1
+833 834 1
+833 2020 1
+833 2006 1
+833 835 1
+837 2018 1
+837 840 1
+837 839 1
+837 838 1
+843 2243 1
+846 1597 1
+847 849 1
+844 1171 1
+844 1655 1
+844 1175 1
+844 1173 1
+844 846 1
+844 1174 1
+844 1656 1
+844 1172 1
+845 1171 1
+845 1172 1
+949 2321 1
+949 2138 1
+947 2323 1
+947 954 1
+947 950 1
+947 951 1
+947 948 1
+947 949 1
+947 952 1
+947 953 1
+940 1905 1
+940 777 1
+940 1907 1
+936 1487 1
+936 1489 1
+936 1486 1
+936 1488 1
+938 2173 1
+938 939 1
+933 966 1
+933 960 1
+933 965 1
+933 947 1
+933 955 1
+933 963 1
+933 959 1
+933 934 1
+933 1807 1
+933 956 1
+933 964 1
+933 961 1
+933 958 1
+933 962 1
+933 957 1
+932 933 1
+935 944 1
+935 938 1
+935 937 1
+935 941 1
+935 946 1
+935 940 1
+935 945 1
+935 943 1
+935 942 1
+935 936 1
+934 944 1
+934 938 1
+934 937 1
+934 941 1
+934 946 1
+934 940 1
+934 945 1
+934 943 1
+934 942 1
+934 936 1
+931 970 1
+931 968 1
+931 969 1
+931 933 1
+920 2143 1
+920 2141 1
+920 2119 1
+921 922 1
+921 2145 1
+921 923 1
+918 2117 1
+919 2143 1
+919 2141 1
+919 2119 1
+916 2323 1
+916 954 1
+916 951 1
+916 952 1
+916 953 1
+917 2101 1
+917 1380 1
+917 1382 1
+917 2099 1
+917 1381 1
+914 919 1
+914 924 1
+914 2121 1
+914 918 1
+914 917 1
+914 921 1
+914 925 1
+914 2113 1
+915 950 1
+915 948 1
+915 949 1
+912 1106 1
+912 818 1
+912 2202 1
+912 2225 1
+913 916 1
+913 928 1
+913 2121 1
+913 918 1
+913 925 1
+913 2113 1
+913 930 1
+913 929 1
+913 919 1
+913 2180 1
+913 924 1
+913 2158 1
+913 926 1
+913 917 1
+913 921 1
+913 927 1
+913 915 1
+911 1284 1
+911 2235 1
+911 1283 1
+911 2208 1
+910 2206 1
+910 830 1
+910 1282 1
+910 1638 1
+910 1279 1
+910 1280 1
+910 1281 1
+910 2233 1
+902 906 1
+902 907 1
+902 909 1
+902 905 1
+902 908 1
+902 903 1
+902 912 1
+902 904 1
+902 911 1
+901 1641 1
+901 819 1
+901 1644 1
+901 1640 1
+901 2115 1
+901 1642 1
+901 1643 1
+899 655 1
+899 2269 1
+899 1639 1
+899 1002 1
+897 899 1
+897 913 1
+897 901 1
+897 898 1
+897 902 1
+897 900 1
+896 899 1
+896 913 1
+896 901 1
+896 898 1
+896 902 1
+896 900 1
+1016 1019 1
+1016 1021 1
+1016 1919 1
+1016 1020 1
+1016 1913 1
+1016 1018 1
+1016 1022 1
+1016 1915 1
+1017 1019 1
+1017 1021 1
+1017 1919 1
+1017 1020 1
+1017 1913 1
+1017 1018 1
+1017 1022 1
+1017 1915 1
+1023 1029 1
+1023 1027 1
+1023 1025 1
+1023 1028 1
+1023 1026 1
+1009 2262 1
+1010 1012 1
+1011 1012 1
+1012 1014 1
+1012 2294 1
+1012 1036 1
+1012 1923 1
+1012 659 1
+1013 1014 1
+1013 2294 1
+1013 1036 1
+1013 1923 1
+1013 659 1
+1014 1023 1
+1014 1016 1
+1015 1023 1
+1015 1016 1
+1001 1809 1
+1001 2254 1
+1001 2252 1
+1001 2263 1
+1001 2264 1
+1001 1468 1
+1001 2256 1
+1001 1808 1
+1001 1811 1
+1001 2265 1
+1003 1893 1
+1003 1892 1
+1003 1895 1
+1003 1894 1
+1002 1003 1
+1002 1896 1
+1002 1902 1
+1002 2336 1
+1002 1899 1
+1002 1005 1
+1002 1897 1
+1002 1009 1
+1002 1900 1
+1002 1898 1
+1005 1008 1
+1005 1006 1
+1005 1007 1
+1004 1893 1
+1004 1892 1
+1004 1894 1
+993 1003 1
+993 1896 1
+993 1902 1
+993 2336 1
+993 1001 1
+993 1899 1
+993 1005 1
+993 1897 1
+993 995 1
+993 1009 1
+993 1900 1
+993 1898 1
+992 1850 1
+992 1856 1
+992 1855 1
+992 1854 1
+992 993 1
+992 1852 1
+995 997 1
+995 2004 1
+995 998 1
+995 1000 1
+995 996 1
+995 999 1
+994 1001 1
+994 995 1
+990 1861 1
+990 1859 1
+990 1857 1
+990 1002 1
+990 1863 1
+991 1392 1
+991 1557 1
+991 1556 1
+991 1545 1
+988 991 1
+988 990 1
+989 991 1
+989 990 1
+976 979 1
+976 978 1
+977 979 1
+977 978 1
+982 983 1
+981 983 1
+970 971 1
+970 976 1
+970 974 1
+970 984 1
+970 975 1
+970 986 1
+970 980 1
+970 2219 1
+970 981 1
+970 985 1
+970 2221 1
+970 973 1
+970 987 1
+968 1861 1
+968 1859 1
+968 1857 1
+968 1863 1
+973 1621 1
+973 1620 1
+963 2126 1
+963 2130 1
+963 2124 1
+963 657 1
+963 2128 1
+962 922 1
+962 2145 1
+962 923 1
+967 970 1
+967 968 1
+967 969 1
+1101 1445 1
+1101 1431 1
+1101 1440 1
+1101 1438 1
+1101 1434 1
+1101 1436 1
+1101 1439 1
+1101 1437 1
+1101 1435 1
+1101 1432 1
+1101 1443 1
+1101 1441 1
+1101 1442 1
+1101 1433 1
+1101 1444 1
+1103 624 1
+1103 622 1
+1103 623 1
+1103 625 1
+1103 1663 1
+1103 1826 1
+1096 1461 1
+1097 1816 1
+1092 813 1
+1092 814 1
+1092 2096 1
+1092 811 1
+1092 2107 1
+1092 812 1
+1093 1094 1
+1114 2216 1
+1114 1117 1
+1114 1115 1
+1114 1118 1
+1114 1116 1
+1114 1119 1
+1114 2218 1
+1105 1106 1
+1105 2202 1
+1105 2225 1
+1104 1112 1
+1104 1111 1
+1104 2227 1
+1104 1110 1
+1104 1107 1
+1104 1113 1
+1104 1105 1
+1104 2204 1
+1104 1108 1
+1104 1109 1
+1130 1131 1
+1130 1134 1
+1130 1135 1
+1130 1133 1
+1130 1136 1
+1130 1132 1
+1130 1137 1
+1128 910 1
+1128 1129 1
+1128 1130 1
+1129 966 1
+1129 1626 1
+1129 1807 1
+1129 965 1
+1129 963 1
+1129 964 1
+1129 962 1
+1127 910 1
+1127 906 1
+1127 907 1
+1127 909 1
+1127 905 1
+1127 1129 1
+1127 908 1
+1127 903 1
+1127 912 1
+1127 904 1
+1127 911 1
+1127 1130 1
+1124 1138 1
+1124 1125 1
+1124 1127 1
+1124 1126 1
+1122 1230 1
+1122 1227 1
+1123 1138 1
+1123 1125 1
+1123 1139 1
+1123 1127 1
+1123 1126 1
+1142 1903 1
+1142 1901 1
+1141 1153 1
+1141 2108 1
+1141 1148 1
+1141 1147 1
+1141 1144 1
+1141 1146 1
+1141 2110 1
+1141 1151 1
+1141 1145 1
+1141 1149 1
+1141 1150 1
+1141 1142 1
+1141 1152 1
+1141 2205 1
+1141 1154 1
+1141 1143 1
+1140 1163 1
+1140 1164 1
+1140 1167 1
+1140 1166 1
+1140 1155 1
+1140 1141 1
+1140 1162 1
+1140 1160 1
+1140 1159 1
+1140 1161 1
+1140 1165 1
+1140 1156 1
+1139 1163 1
+1139 1164 1
+1139 1167 1
+1139 1166 1
+1139 1155 1
+1139 1141 1
+1139 1162 1
+1139 1160 1
+1139 1159 1
+1139 1161 1
+1139 1165 1
+1139 1156 1
+1032 1054 1
+1032 1848 1
+1032 1034 1
+1032 1042 1
+1032 1043 1
+1032 1035 1
+1033 1054 1
+1033 1034 1
+1033 1042 1
+1033 1043 1
+1033 1035 1
+1034 1834 1
+1034 1845 1
+1034 1851 1
+1034 1842 1
+1034 1849 1
+1034 1837 1
+1034 1841 1
+1034 1843 1
+1034 1847 1
+1034 1832 1
+1035 1039 1
+1035 2308 1
+1035 2136 1
+1035 2092 1
+1035 2132 1
+1035 1040 1
+1035 1038 1
+1035 2306 1
+1035 2319 1
+1035 2304 1
+1035 1037 1
+1035 2315 1
+1035 2134 1
+1035 1041 1
+1036 2304 1
+1036 1037 1
+1036 2315 1
+1036 2136 1
+1036 2092 1
+1036 2132 1
+1036 2134 1
+1036 1038 1
+1036 2306 1
+1037 2321 1
+1037 2138 1
+1038 2301 1
+1038 2303 1
+1024 1029 1
+1024 1027 1
+1024 1025 1
+1024 1028 1
+1024 1026 1
+1030 1032 1
+1030 1288 1
+1031 1032 1
+1031 1288 1
+1051 1895 1
+1055 608 1
+1055 1121 1
+1055 1123 1
+1055 1122 1
+1055 1120 1
+1055 1825 1
+1055 1057 1
+1054 729 1
+1054 732 1
+1054 728 1
+1054 733 1
+1054 730 1
+1054 731 1
+1054 727 1
+1043 1052 1
+1043 1053 1
+1043 1050 1
+1043 1048 1
+1043 1044 1
+1043 2257 1
+1043 1049 1
+1043 1047 1
+1043 1045 1
+1043 1051 1
+1045 2250 1
+1045 1046 1
+1045 2259 1
+1066 1664 1
+1066 1637 1
+1067 1658 1
+1067 1072 1
+1067 1070 1
+1067 1071 1
+1067 1660 1
+1067 1659 1
+1067 1806 1
+1067 1069 1
+1065 1664 1
+1065 792 1
+1065 1637 1
+1065 1657 1
+1068 1658 1
+1068 1072 1
+1068 1070 1
+1068 1071 1
+1068 1660 1
+1068 1659 1
+1068 1806 1
+1068 1657 1
+1068 1069 1
+1058 1201 1
+1058 1202 1
+1058 1204 1
+1058 1200 1
+1058 1060 1
+1058 1199 1
+1058 1203 1
+1059 1833 1
+1059 1835 1
+1059 1060 1
+1059 1828 1
+1056 608 1
+1056 1121 1
+1056 1123 1
+1056 1122 1
+1056 1120 1
+1056 1825 1
+1056 1057 1
+1057 1058 1
+1057 1100 1
+1057 1104 1
+1057 1102 1
+1057 1114 1
+1057 1103 1
+1057 1062 1
+1057 1063 1
+1057 1067 1
+1057 1061 1
+1057 1101 1
+1057 1073 1
+1057 1084 1
+1057 1064 1
+1057 1065 1
+1057 1085 1
+1060 696 1
+1060 700 1
+1060 697 1
+1060 701 1
+1060 699 1
+1060 698 1
+1060 704 1
+1060 702 1
+1060 703 1
+1086 1091 1
+1086 1089 1
+1086 1909 1
+1086 1090 1
+1086 1088 1
+1086 1087 1
+1085 1096 1
+1085 1099 1
+1085 1086 1
+1085 1093 1
+1085 1097 1
+1085 1098 1
+1085 1095 1
+1085 1092 1
+1073 1078 1
+1073 1082 1
+1073 1079 1
+1073 1083 1
+1073 1080 1
+1073 1074 1
+1073 2237 1
+1073 1077 1
+1073 2214 1
+1073 1081 1
+1073 1075 1
+1073 1076 1
+1076 2239 1
+1076 1589 1
+1223 1529 1
+1223 1508 1
+1223 1535 1
+1223 1507 1
+1223 1520 1
+1229 1091 1
+1229 1089 1
+1229 1909 1
+1229 1090 1
+1229 1088 1
+1229 1087 1
+1228 1273 1
+1228 1271 1
+1228 1272 1
+1230 1233 1
+1230 1237 1
+1230 1232 1
+1230 1235 1
+1230 1231 1
+1230 1238 1
+1230 1236 1
+1230 1234 1
+1225 1249 1
+1225 1226 1
+1225 1250 1
+1224 1249 1
+1224 1226 1
+1224 1250 1
+1227 1228 1
+1227 1906 1
+1227 1229 1
+1226 1230 1
+1226 1227 1
+1226 1240 1
+1239 1240 1
+1232 1903 1
+1232 1901 1
+1240 1247 1
+1240 2253 1
+1240 1242 1
+1240 1243 1
+1240 2238 1
+1240 1246 1
+1240 2236 1
+1240 1244 1
+1240 1248 1
+1240 1245 1
+1241 1242 1
+1241 1243 1
+1241 1244 1
+1255 1266 1
+1255 1260 1
+1255 1258 1
+1255 1267 1
+1255 1261 1
+1255 1256 1
+1255 1257 1
+1254 1266 1
+1254 1260 1
+1254 1273 1
+1254 1271 1
+1254 1272 1
+1254 1258 1
+1254 1267 1
+1254 1269 1
+1254 1261 1
+1254 1256 1
+1254 1257 1
+1253 1274 1
+1253 1275 1
+1253 1285 1
+1253 1254 1
+1253 1276 1
+1252 1253 1
+1252 1287 1
+1252 1316 1
+1251 1253 1
+1251 1287 1
+1251 1316 1
+1250 802 1
+1249 1458 1
+1249 1450 1
+1249 1447 1
+1249 1645 1
+1249 1448 1
+1249 654 1
+1249 1457 1
+1249 1446 1
+1249 1430 1
+1261 1262 1
+1261 1264 1
+1261 1263 1
+1261 2169 1
+1261 1265 1
+1261 2186 1
+1260 1523 1
+1260 2220 1
+1260 1525 1
+1260 1524 1
+1260 2241 1
+1260 1521 1
+1260 1528 1
+1260 1526 1
+1260 1527 1
+1260 1522 1
+1259 2212 1
+1258 2212 1
+1257 1078 1
+1257 1082 1
+1257 1079 1
+1257 1083 1
+1257 1080 1
+1257 1074 1
+1257 2237 1
+1257 1077 1
+1257 2214 1
+1257 1081 1
+1257 1075 1
+1257 1076 1
+1256 1112 1
+1256 1111 1
+1256 2227 1
+1256 1110 1
+1256 1107 1
+1256 1113 1
+1256 1105 1
+1256 2204 1
+1256 1108 1
+1256 1109 1
+1269 2188 1
+1269 2190 1
+1269 1270 1
+1266 2216 1
+1266 1117 1
+1266 1115 1
+1266 1118 1
+1266 1116 1
+1266 1119 1
+1266 2218 1
+1267 1268 1
+1267 2210 1
+1276 1284 1
+1276 2235 1
+1276 1283 1
+1276 1653 1
+1276 1280 1
+1276 2233 1
+1276 1652 1
+1276 1278 1
+1276 2206 1
+1276 1282 1
+1276 1279 1
+1276 2208 1
+1276 1281 1
+1277 1278 1
+1277 1653 1
+1277 1652 1
+1274 1605 1
+1274 1611 1
+1274 1612 1
+1274 1602 1
+1274 1600 1
+1274 1599 1
+1274 1604 1
+1274 1610 1
+1274 1607 1
+1274 1609 1
+1274 1606 1
+1274 1608 1
+1274 1603 1
+1274 1601 1
+1275 1096 1
+1275 1099 1
+1275 1086 1
+1275 1093 1
+1275 1097 1
+1275 1098 1
+1275 1095 1
+1275 1092 1
+1155 1633 1
+1155 1634 1
+1155 2114 1
+1155 1629 1
+1155 1632 1
+1155 1631 1
+1155 2228 1
+1155 1636 1
+1157 1158 1
+1156 2191 1
+1156 1158 1
+1168 1170 1
+1168 845 1
+1169 1170 1
+1169 845 1
+1170 1655 1
+1170 1175 1
+1170 1173 1
+1170 846 1
+1170 1174 1
+1170 1656 1
+1171 1582 1
+1171 1585 1
+1171 1587 1
+1171 1580 1
+1171 1579 1
+1171 1586 1
+1171 1583 1
+1171 1581 1
+1171 1584 1
+1172 1593 1
+1172 1595 1
+1172 1591 1
+1172 1596 1
+1172 1594 1
+1172 1588 1
+1172 1592 1
+1172 1590 1
+1173 1625 1
+1175 2008 1
+1175 1177 1
+1175 1179 1
+1175 1176 1
+1175 1178 1
+1175 1180 1
+1175 2010 1
+1181 1349 1
+1181 1183 1
+1181 1322 1
+1182 1349 1
+1182 1183 1
+1182 1322 1
+1183 1222 1
+1183 1198 1
+1183 1184 1
+1183 1221 1
+1183 1223 1
+1183 1207 1
+1186 1187 1
+1186 1191 1
+1186 2011 1
+1186 1188 1
+1186 1190 1
+1186 1189 1
+1184 1186 1
+1184 1193 1
+1184 1185 1
+1184 1195 1
+1184 1196 1
+1184 1194 1
+1184 1197 1
+1192 1193 1
+1192 1195 1
+1192 1196 1
+1192 1194 1
+1192 1197 1
+1199 1824 1
+1199 1331 1
+1199 1325 1
+1199 1329 1
+1199 1328 1
+1199 1326 1
+1199 1820 1
+1199 1327 1
+1199 1822 1
+1199 1330 1
+1198 1201 1
+1198 1202 1
+1198 1204 1
+1198 1200 1
+1198 1206 1
+1198 1199 1
+1198 1203 1
+1198 1205 1
+1203 2109 1
+1200 2008 1
+1200 1177 1
+1200 1179 1
+1200 1176 1
+1200 1178 1
+1200 1180 1
+1200 2010 1
+1207 1209 1
+1207 1216 1
+1207 1208 1
+1207 1215 1
+1207 1220 1
+1207 1210 1
+1207 1219 1
+1207 1218 1
+1207 1217 1
+1207 1214 1
+1205 1268 1
+1205 2210 1
+1210 1211 1
+1210 1912 1
+1210 1212 1
+1210 2230 1
+1210 1213 1
+1208 739 1
+1208 735 1
+1208 741 1
+1208 740 1
+1208 738 1
+1209 888 1
+1209 892 1
+1209 887 1
+1209 2249 1
+1209 890 1
+1209 891 1
+1209 889 1
+1214 715 1
+1214 716 1
+1214 2240 1
+1214 714 1
+1375 2260 1
+1375 1378 1
+1375 1377 1
+1375 1376 1
+1373 1378 1
+1373 1377 1
+1373 1376 1
+1373 1374 1
+1372 1383 1
+1372 1379 1
+1372 1373 1
+1371 1385 1
+1371 1383 1
+1371 1388 1
+1371 1386 1
+1371 2103 1
+1371 1387 1
+1371 1379 1
+1371 1373 1
+1371 1384 1
+1370 1371 1
+1369 1370 1
+1368 1370 1
+1358 2184 1
+1356 1453 1
+1356 1456 1
+1356 2289 1
+1356 1455 1
+1356 1454 1
+1356 2275 1
+1357 2167 1
+1357 2163 1
+1357 2165 1
+1354 1356 1
+1354 1362 1
+1354 1365 1
+1354 1366 1
+1354 1360 1
+1354 2285 1
+1354 1357 1
+1354 1358 1
+1354 1364 1
+1354 2283 1
+1354 1361 1
+1354 1359 1
+1354 1355 1
+1354 1367 1
+1354 2095 1
+1354 1363 1
+1352 1917 1
+1352 1354 1
+1352 1910 1
+1352 2281 1
+1353 1911 1
+1353 1917 1
+1353 1354 1
+1353 1910 1
+1353 2281 1
+1350 1352 1
+1350 1013 1
+1351 1352 1
+1351 1013 1
+1349 1274 1
+1349 1275 1
+1349 1285 1
+1349 1276 1
+1404 1153 1
+1404 1150 1
+1404 1152 1
+1404 2110 1
+1404 1154 1
+1404 1151 1
+1407 1409 1
+1400 1573 1
+1400 1575 1
+1400 1574 1
+1400 1578 1
+1400 1576 1
+1403 2108 1
+1403 1148 1
+1403 1149 1
+1403 1147 1
+1403 1144 1
+1403 1142 1
+1403 1146 1
+1403 2205 1
+1403 1145 1
+1403 1143 1
+1402 1415 1
+1402 1407 1
+1402 1416 1
+1402 1412 1
+1402 1403 1
+1402 1404 1
+1402 1410 1
+1402 1406 1
+1402 1411 1
+1402 1413 1
+1402 1405 1
+1402 1414 1
+1397 1254 1
+1396 1397 1
+1396 1401 1
+1396 1398 1
+1399 1400 1
+1398 1400 1
+1393 1394 1
+1392 816 1
+1392 810 1
+1392 804 1
+1392 803 1
+1392 815 1
+1392 817 1
+1392 1661 1
+1392 1662 1
+1395 1397 1
+1395 1401 1
+1395 1398 1
+1394 971 1
+1394 981 1
+1394 976 1
+1394 985 1
+1394 974 1
+1394 984 1
+1394 975 1
+1394 973 1
+1394 980 1
+1389 1391 1
+1390 1391 1
+1391 1392 1
+1391 1394 1
+1384 2173 1
+1384 939 1
+1379 2101 1
+1379 1380 1
+1379 1382 1
+1379 1795 1
+1379 2099 1
+1379 1381 1
+1306 2232 1
+1306 2234 1
+1304 1307 1
+1304 1309 1
+1304 1308 1
+1304 1313 1
+1304 1310 1
+1304 1314 1
+1304 1306 1
+1304 1311 1
+1304 1305 1
+1304 2251 1
+1304 1312 1
+1290 1302 1
+1290 1301 1
+1290 1295 1
+1290 1293 1
+1290 1303 1
+1290 1299 1
+1290 1296 1
+1290 1298 1
+1290 1291 1
+1290 1294 1
+1290 1300 1
+1291 1292 1
+1291 2209 1
+1291 2207 1
+1288 1290 1
+1288 1304 1
+1288 1646 1
+1288 1315 1
+1288 1648 1
+1288 1289 1
+1288 1649 1
+1288 1647 1
+1288 1650 1
+1288 1651 1
+1289 1513 1
+1289 1510 1
+1289 1511 1
+1289 1512 1
+1289 1509 1
+1286 95 1
+1287 1290 1
+1287 1304 1
+1287 1646 1
+1287 1315 1
+1287 1648 1
+1287 1289 1
+1287 1649 1
+1287 1647 1
+1287 1650 1
+1287 1651 1
+1337 1338 1
+1337 2192 1
+1337 1340 1
+1337 1341 1
+1337 1339 1
+1336 1338 1
+1336 2192 1
+1336 1340 1
+1336 1341 1
+1336 1339 1
+1343 1345 1
+1343 1346 1
+1343 1348 1
+1343 1344 1
+1343 1347 1
+1342 1345 1
+1342 1346 1
+1342 1348 1
+1342 1344 1
+1342 1347 1
+1335 775 1
+1335 776 1
+1335 780 1
+1335 778 1
+1335 779 1
+1320 1362 1
+1320 1365 1
+1320 1366 1
+1320 2285 1
+1320 1367 1
+1320 1364 1
+1320 2283 1
+1320 1363 1
+1321 1297 1
+1321 1491 1
+1321 2273 1
+1321 2287 1
+1322 1335 1
+1322 1324 1
+1322 1334 1
+1322 1332 1
+1322 1333 1
+1322 1336 1
+1322 1342 1
+1323 1324 1
+1324 1824 1
+1324 1331 1
+1324 1325 1
+1324 1329 1
+1324 1328 1
+1324 1326 1
+1324 1820 1
+1324 1327 1
+1324 1822 1
+1324 1330 1
+1325 1094 1
+1325 2178 1
+1325 2229 1
+1315 1516 1
+1315 1515 1
+1315 1519 1
+1315 1517 1
+1315 1518 1
+1315 1514 1
+1316 633 1
+1316 634 1
+1316 648 1
+1317 2009 1
+1317 1321 1
+1317 1320 1
+1317 2280 1
+1317 1449 1
+1317 1319 1
+1318 2009 1
+1319 1356 1
+1319 1361 1
+1319 1359 1
+1319 1360 1
+1319 1355 1
+1319 1357 1
+1319 1358 1
+1319 2095 1
+1494 1534 1
+1494 1544 1
+1494 1557 1
+1494 1556 1
+1494 1498 1
+1494 1545 1
+1494 1496 1
+1495 1534 1
+1495 1544 1
+1495 1498 1
+1495 1496 1
+1492 2282 1
+1492 2292 1
+1492 2300 1
+1492 2286 1
+1492 2116 1
+1492 2305 1
+1492 2288 1
+1492 2290 1
+1492 2302 1
+1490 1297 1
+1490 1491 1
+1490 2273 1
+1490 2287 1
+1502 2144 1
+1502 2140 1
+1502 2162 1
+1502 2142 1
+1503 2144 1
+1503 2140 1
+1503 2162 1
+1503 2142 1
+1500 1504 1
+1500 1501 1
+1500 1505 1
+1500 2123 1
+1500 1995 1
+1500 2125 1
+1500 2147 1
+1500 1502 1
+1500 1993 1
+1501 2180 1
+1501 2158 1
+1501 928 1
+1501 926 1
+1501 927 1
+1501 930 1
+1501 929 1
+1498 1529 1
+1498 1508 1
+1498 1500 1
+1498 1507 1
+1498 1506 1
+1498 1520 1
+1499 1500 1
+1499 1506 1
+1496 1497 1
+1479 2262 1
+1472 1247 1
+1472 2253 1
+1472 2238 1
+1472 1246 1
+1472 2236 1
+1472 1248 1
+1485 1487 1
+1485 1489 1
+1485 1486 1
+1485 1488 1
+1484 1485 1
+1483 1485 1
+1483 1860 1
+1483 1490 1
+1481 2261 1
+1520 1523 1
+1520 2220 1
+1520 1525 1
+1520 1524 1
+1520 2241 1
+1520 1521 1
+1520 1528 1
+1520 1526 1
+1520 1527 1
+1520 1522 1
+1522 2243 1
+1523 2245 1
+1534 1543 1
+1534 1537 1
+1534 1535 1
+1529 1532 1
+1529 1530 1
+1529 2222 1
+1529 1531 1
+1529 1533 1
+1509 1211 1
+1509 1912 1
+1509 1212 1
+1509 2230 1
+1509 1213 1
+1508 1516 1
+1508 1515 1
+1508 1519 1
+1508 1517 1
+1508 1513 1
+1508 1510 1
+1508 1518 1
+1508 1514 1
+1508 1511 1
+1508 1512 1
+1508 1509 1
+1511 2224 1
+1504 2178 1
+1504 2229 1
+1507 1302 1
+1507 1301 1
+1507 1295 1
+1507 1293 1
+1507 1303 1
+1507 1299 1
+1507 1296 1
+1507 1298 1
+1507 1291 1
+1507 1294 1
+1507 1300 1
+1426 1429 1
+1426 1428 1
+1427 1429 1
+1427 1428 1
+1430 1445 1
+1430 1431 1
+1430 1440 1
+1430 1438 1
+1430 1434 1
+1430 1436 1
+1430 1439 1
+1430 1437 1
+1430 1435 1
+1430 1432 1
+1430 1443 1
+1430 1441 1
+1430 1442 1
+1430 1433 1
+1430 1444 1
+1428 832 1
+1428 831 1
+1428 841 1
+1428 842 1
+1428 843 1
+1428 837 1
+1428 833 1
+1428 1114 1
+1429 1458 1
+1429 1450 1
+1429 1447 1
+1429 1645 1
+1429 1448 1
+1429 1457 1
+1429 1446 1
+1429 1430 1
+1429 1460 1
+1438 2167 1
+1438 2163 1
+1438 2165 1
+1408 1409 1
+1457 1187 1
+1457 1191 1
+1457 2011 1
+1457 1188 1
+1457 1190 1
+1457 1189 1
+1459 1460 1
+1460 1461 1
+1462 1464 1
+1462 1317 1
+1462 1829 1
+1463 1464 1
+1463 1317 1
+1463 1829 1
+1464 1492 1
+1464 1483 1
+1464 1493 1
+1464 1466 1
+1464 2187 1
+1465 1483 1
+1465 1466 1
+1465 2187 1
+1466 1478 1
+1466 1474 1
+1466 1475 1
+1466 1467 1
+1466 1477 1
+1466 1473 1
+1466 1471 1
+1466 1481 1
+1466 2899 1
+1466 1482 1
+1466 1479 1
+1466 1480 1
+1466 1472 1
+1466 1476 1
+1467 1809 1
+1467 2254 1
+1467 2252 1
+1467 1904 1
+1467 2263 1
+1467 2264 1
+1467 1468 1
+1467 2256 1
+1467 1808 1
+1467 1811 1
+1467 2265 1
+1468 1914 1
+1468 2016 1
+1468 1470 1
+1469 1914 1
+1469 2016 1
+1469 1470 1
+1471 629 1
+1471 626 1
+1471 1823 1
+1471 1245 1
+1471 627 1
+1471 628 1
+1449 1796 1
+1449 1799 1
+1449 1800 1
+1449 1798 1
+1449 1797 1
+1449 2171 1
+1449 1801 1
+1448 1796 1
+1448 1799 1
+1448 1800 1
+1448 1798 1
+1448 1797 1
+1448 2171 1
+1448 1801 1
+1451 1452 1
+1450 1385 1
+1450 1388 1
+1450 1386 1
+1450 1269 1
+1450 2103 1
+1450 1387 1
+1450 1452 1
+1450 1384 1
+1452 1453 1
+1452 1456 1
+1452 2289 1
+1452 1455 1
+1452 1454 1
+1452 2275 1
+1635 1478 1
+1635 1474 1
+1635 1475 1
+1635 1467 1
+1635 1477 1
+1635 1473 1
+1635 1471 1
+1635 1481 1
+1635 2899 1
+1635 1482 1
+1635 1479 1
+1635 1480 1
+1635 1472 1
+1635 1476 1
+1639 658 1
+1639 656 1
+1639 2012 1
+1609 1906 1
+1603 782 1
+1603 783 1
+1603 2161 1
+1603 781 1
+1603 2182 1
+1625 2201 1
+1624 2184 1
+1628 1633 1
+1628 1634 1
+1628 2114 1
+1628 1629 1
+1628 1632 1
+1628 1631 1
+1628 2228 1
+1628 1636 1
+1619 1621 1
+1619 1620 1
+1623 2245 1
+1581 1292 1
+1578 2195 1
+1578 770 1
+1578 2213 1
+1578 773 1
+1578 772 1
+1578 771 1
+1579 2217 1
+1579 786 1
+1579 2215 1
+1579 1654 1
+1579 790 1
+1579 788 1
+1579 787 1
+1579 789 1
+1577 1582 1
+1577 1587 1
+1577 1580 1
+1577 1596 1
+1577 1592 1
+1577 1586 1
+1577 1583 1
+1577 1597 1
+1577 1581 1
+1577 1593 1
+1577 1595 1
+1577 1585 1
+1577 1591 1
+1577 1579 1
+1577 1578 1
+1577 1594 1
+1577 1588 1
+1577 1584 1
+1577 1590 1
+1575 2197 1
+1575 793 1
+1572 1131 1
+1572 1134 1
+1572 1135 1
+1572 1133 1
+1572 1136 1
+1572 1132 1
+1572 1137 1
+1573 1539 1
+1570 2219 1
+1570 2221 1
+1570 1206 1
+1570 986 1
+1570 987 1
+1570 1205 1
+1571 1233 1
+1571 1237 1
+1571 1232 1
+1571 1235 1
+1571 1231 1
+1571 1238 1
+1571 1236 1
+1571 1234 1
+1568 1573 1
+1568 1575 1
+1568 1574 1
+1568 1570 1
+1568 1572 1
+1568 1576 1
+1568 1571 1
+1569 1570 1
+1569 1572 1
+1569 1571 1
+1599 883 1
+1599 1262 1
+1599 884 1
+1599 1264 1
+1599 885 1
+1599 1263 1
+1599 2169 1
+1599 1265 1
+1599 2186 1
+1598 1625 1
+1598 1626 1
+1598 1622 1
+1598 1612 1
+1598 1618 1
+1598 1602 1
+1598 1613 1
+1598 1610 1
+1598 1607 1
+1598 1609 1
+1598 1623 1
+1598 1608 1
+1598 1617 1
+1598 1615 1
+1598 1614 1
+1598 1605 1
+1598 1611 1
+1598 1600 1
+1598 1599 1
+1598 1624 1
+1598 1616 1
+1598 1604 1
+1598 1619 1
+1598 1606 1
+1598 1603 1
+1598 1601 1
+1597 1540 1
+1597 2231 1
+1597 1541 1
+1597 1542 1
+1593 2211 1
+1588 2239 1
+1588 1589 1
+1587 2223 1
+1587 2199 1
+1548 1549 1
+1548 1877 1
+1548 1550 1
+1548 1878 1
+1544 1635 1
+1544 934 1
+1544 959 1
+1544 947 1
+1544 955 1
+1544 956 1
+1544 958 1
+1544 957 1
+1545 1555 1
+1545 1547 1
+1545 1554 1
+1545 1551 1
+1545 1552 1
+1545 1553 1
+1545 1879 1
+1546 1555 1
+1546 1547 1
+1546 1554 1
+1546 1551 1
+1546 1552 1
+1546 1553 1
+1546 1879 1
+1547 1549 1
+1547 1877 1
+1547 1550 1
+1547 1878 1
+1543 880 1
+1543 877 1
+1543 879 1
+1543 878 1
+1536 1543 1
+1536 1537 1
+1537 1540 1
+1537 2231 1
+1537 1539 1
+1537 1541 1
+1537 1538 1
+1537 1542 1
+1538 2209 1
+1538 2207 1
+1565 1891 1
+1565 1888 1
+1565 1887 1
+1565 920 1
+1565 1885 1
+1565 1889 1
+1567 1628 1
+1567 1598 1
+1567 1627 1
+1567 1577 1
+1567 1568 1
+1566 1891 1
+1566 1888 1
+1566 1887 1
+1566 920 1
+1566 1548 1
+1566 1885 1
+1566 1889 1
+1561 1563 1
+1561 1562 1
+1561 1564 1
+1561 1565 1
+1560 1628 1
+1560 1598 1
+1560 1627 1
+1560 1635 1
+1560 1563 1
+1560 1562 1
+1560 1564 1
+1560 1565 1
+1560 1577 1
+1560 1568 1
+1563 1335 1
+1563 1228 1
+1563 1334 1
+1563 1332 1
+1563 1229 1
+1563 1333 1
+1563 1336 1
+1563 1342 1
+1562 886 1
+1562 881 1
+1562 875 1
+1562 893 1
+1562 876 1
+1562 873 1
+1562 882 1
+1562 874 1
+1557 960 1
+1557 961 1
+1559 1560 1
+1558 1560 1
+1770 2618 1
+1769 1771 1
+1768 1766 1
+1773 125 1
+1777 48 1
+1783 1749 1
+1781 1734 1
+1789 2628 1
+1789 2650 1
+1789 2652 1
+1789 2588 1
+1789 2648 1
+1789 2574 1
+1789 2586 1
+1789 2572 1
+1729 1702 1
+1731 193 1
+1731 1729 1
+1730 1734 1
+1730 1732 1
+1744 2424 1
+1744 2422 1
+1744 17 1
+1749 1738 1
+1754 1756 1
+1755 2637 1
+1758 1760 1
+1758 2363 1
+1758 1764 1
+1758 1762 1
+1700 193 1
+1700 1729 1
+1699 386 1
+1696 2374 1
+1696 1726 1
+1708 1710 1
+1708 1712 1
+1707 1666 1
+1707 1705 1
+1707 1668 1
+1707 1703 1
+1707 1701 1
+1704 1747 1
+1704 1735 1
+1704 1733 1
+1704 1706 1
+1717 1719 1
+1717 1690 1
+1717 1723 1
+1717 1692 1
+1717 1688 1
+1717 1721 1
+1717 1724 1
+1714 1689 1
+1714 50 1
+1714 1716 1
+1714 1742 1
+1714 1737 1
+1714 1739 1
+1714 2444 1
+1715 1686 1
+1726 1698 1
+1727 1760 1
+1727 2363 1
+1727 1764 1
+1727 1762 1
+1725 2374 1
+1725 1726 1
+1720 1738 1
+1670 1686 1
+1670 1711 1
+1670 1674 1
+1670 1676 1
+1670 1680 1
+1670 1682 1
+1670 1684 1
+1670 1678 1
+1670 1672 1
+1670 1713 1
+1670 1709 1
+1677 1679 1
+1686 1719 1
+1686 1690 1
+1686 1723 1
+1686 1692 1
+1686 1688 1
+1686 1721 1
+1686 1724 1
+1681 1751 1
+1681 354 1
+1681 356 1
+1681 362 1
+1681 364 1
+1681 360 1
+1681 366 1
+1681 358 1
+1683 1693 1
+1683 384 1
+1683 1695 1
+1683 1697 1
+1689 380 1
+1689 1691 1
+1917 1934 1
+1917 1924 1
+1917 1932 1
+1917 1927 1
+1917 1928 1
+1917 1931 1
+1917 1933 1
+1917 1938 1
+1917 1935 1
+1917 1930 1
+1917 1936 1
+1917 1925 1
+1910 1982 1
+1910 1969 1
+1910 1974 1
+1910 1967 1
+1910 1970 1
+1910 1981 1
+1910 1977 1
+1910 1985 1
+1910 1979 1
+1910 1989 1
+1910 1975 1
+1910 1972 1
+1910 1965 1
+1910 1987 1
+1910 1973 1
+1899 1904 1
+1888 2272 1
+1888 2276 1
+1888 2274 1
+1888 2270 1
+1888 2271 1
+1889 1929 1
+1890 1004 1
+1885 2023 1
+1875 1876 1
+1875 1546 1
+1874 1876 1
+1874 1546 1
+1873 1882 1
+1873 1880 1
+1873 1886 1
+1873 1884 1
+1873 1883 1
+1873 1881 1
+1872 1871 1
+1876 1882 1
+1876 1880 1
+1876 1886 1
+1876 1884 1
+1876 1883 1
+1876 1881 1
+1867 1869 1
+1867 1870 1
+1867 1871 1
+1864 1866 1
+1865 1866 1
+1868 1869 1
+1868 1870 1
+1858 1850 1
+1858 1856 1
+1858 1855 1
+1858 1854 1
+1858 993 1
+1858 1852 1
+1862 1867 1
+1862 1873 1
+1862 1865 1
+1863 1867 1
+1863 1873 1
+1863 1865 1
+1853 1033 1
+1853 1846 1
+1844 1033 1
+1844 1846 1
+1846 1848 1
+1841 1840 1
+1836 1839 1
+1837 1839 1
+1838 1840 1
+1833 2193 1
+1828 1845 1
+1828 1851 1
+1828 1842 1
+1828 1849 1
+1828 1837 1
+1828 1841 1
+1828 1843 1
+1828 1847 1
+1829 1986 1
+1829 1984 1
+1830 1834 1
+1830 1832 1
+1831 1059 1
+1831 1465 1
+1831 1818 1
+1827 1833 1
+1827 1835 1
+1827 1828 1
+1818 1492 1
+1818 1493 1
+1814 1815 1
+1814 1819 1
+1814 1813 1
+1814 1817 1
+1812 1059 1
+1812 1465 1
+1812 1818 1
+1806 1815 1
+1806 1819 1
+1806 1813 1
+1806 1817 1
+1807 1816 1
+1804 935 1
+1805 916 1
+1805 915 1
+1802 1561 1
+1802 1567 1
+1803 1561 1
+1803 1567 1
+1794 1422 1
+1794 2268 1
+1794 1417 1
+1794 1424 1
+1794 1420 1
+1794 2266 1
+1794 1418 1
+1794 1423 1
+1794 1425 1
+1794 1421 1
+1794 1419 1
+1792 1704 1
+2032 2023 1
+2034 2031 1
+2034 2025 1
+2034 2024 1
+2034 2337 1
+2034 2019 1
+2034 2032 1
+2034 2027 1
+2035 2037 1
+2038 2040 1
+2039 2041 1
+2039 2047 1
+2039 914 1
+2040 2042 1
+2043 2051 1
+2043 2045 1
+2044 2041 1
+2044 2047 1
+2044 914 1
+2045 2054 1
+2045 2053 1
+2045 2048 1
+2045 2050 1
+2045 2055 1
+2045 2052 1
+2047 2054 1
+2047 2053 1
+2047 2048 1
+2047 2050 1
+2047 2055 1
+2047 2052 1
+2017 2031 1
+2017 2025 1
+2017 2024 1
+2017 2337 1
+2017 2019 1
+2017 2032 1
+2017 2027 1
+2019 2082 1
+2019 2081 1
+2019 2021 1
+2019 2087 1
+2019 2036 1
+2019 2077 1
+2019 2085 1
+2019 2079 1
+2019 2080 1
+2019 2083 1
+2019 2078 1
+2024 2059 1
+2024 2060 1
+2024 2064 1
+2024 2062 1
+2024 2035 1
+2024 2033 1
+2024 2058 1
+2024 2056 1
+2024 2057 1
+2027 2042 1
+2026 2028 1
+2026 2015 1
+2029 2040 1
+2028 2063 1
+2028 2151 1
+2028 2061 1
+2028 2176 1
+2028 2174 1
+2028 2156 1
+2030 2017 1
+2002 2272 1
+2002 2276 1
+2002 2274 1
+2002 2270 1
+2002 2271 1
+2000 2335 1
+2000 2326 1
+2000 2320 1
+2000 2324 1
+2000 2318 1
+2000 2322 1
+2000 2334 1
+2007 2327 1
+2007 2328 1
+2007 2332 1
+2007 2333 1
+2007 2330 1
+2007 2325 1
+2007 2310 1
+2007 2314 1
+2007 2312 1
+2007 2316 1
+2007 2329 1
+2007 2331 1
+2005 650 1
+2009 658 1
+2009 656 1
+2009 2012 1
+2014 2021 1
+2014 2036 1
+2015 2017 1
+2012 2293 1
+2012 2284 1
+2012 2297 1
+2012 2299 1
+2012 2295 1
+2013 2028 1
+2013 2015 1
+1986 2135 1
+1986 2160 1
+1986 2137 1
+1986 2159 1
+1986 2153 1
+1986 2157 1
+1986 1503 1
+1986 2155 1
+1986 2139 1
+1986 2133 1
+1984 90 1
+1984 1791 1
+1984 2376 1
+1984 65 1
+1984 84 1
+1984 86 1
+1984 18 1
+1984 63 1
+1984 88 1
+1991 2059 1
+1991 2060 1
+1991 2064 1
+1991 2062 1
+1991 2035 1
+1991 2033 1
+1991 2058 1
+1991 2056 1
+1991 2057 1
+1990 2003 1
+1990 1996 1
+1990 1995 1
+1990 2001 1
+1990 2307 1
+1990 1997 1
+1990 1999 1
+1990 1992 1
+1990 1993 1
+1990 1994 1
+1988 1814 1
+1988 2118 1
+1988 2120 1
+1988 1990 1
+1998 650 1
+1972 2170 1
+1972 2152 1
+1972 2154 1
+1972 2148 1
+1972 2172 1
+1972 2150 1
+1969 1971 1
+1969 1966 1
+1969 1964 1
+1969 1968 1
+1970 1980 1
+1970 1978 1
+1970 1976 1
+1970 1983 1
+1958 1969 1
+1958 1972 1
+1958 1975 1
+1958 1965 1
+1958 1974 1
+1958 1967 1
+1958 1970 1
+1958 1981 1
+1958 1977 1
+1958 1973 1
+1958 1979 1
+1953 1980 1
+1953 1978 1
+1953 1976 1
+1953 1983 1
+1960 1958 1
+1960 805 1
+1963 1958 1
+1963 805 1
+1962 1971 1
+1962 1966 1
+1962 1964 1
+1962 1968 1
+1941 1954 1
+1941 1959 1
+1941 1952 1
+1941 1961 1
+1941 1956 1
+1939 1814 1
+1939 2122 1
+1939 2118 1
+1939 2120 1
+1939 1990 1
+1937 80 1
+1937 82 1
+1937 27 1
+1937 31 1
+1937 78 1
+1937 29 1
+1950 1954 1
+1950 1959 1
+1950 1957 1
+1950 1953 1
+1950 1949 1
+1950 1952 1
+1950 1951 1
+1950 1961 1
+1950 1955 1
+1950 1956 1
+1948 2000 1
+1948 1794 1
+1948 2007 1
+1948 1950 1
+1948 2002 1
+1949 1982 1
+1949 1985 1
+1949 1987 1
+1949 1989 1
+1946 2003 1
+1946 1996 1
+1946 2001 1
+1946 2307 1
+1946 1997 1
+1946 1999 1
+1946 1992 1
+1946 1991 1
+1946 1994 1
+1947 1957 1
+1947 1953 1
+1947 1949 1
+1947 1951 1
+1947 1955 1
+1944 1946 1
+1945 1946 1
+1945 1950 1
+1926 1927 1
+1926 1925 1
+1923 1922 1
+1923 1939 1
+1923 1937 1
+1923 706 1
+1923 2338 1
+1922 1934 1
+1922 1924 1
+1922 1932 1
+1922 1928 1
+1922 1931 1
+1922 1933 1
+1922 1938 1
+1922 1935 1
+1922 1930 1
+1922 1936 1
+1921 1922 1
+1921 1939 1
+1921 1937 1
+1921 706 1
+1921 2338 1
+1920 1943 1
+1920 1940 1
+1920 1942 1
+1920 1941 1
+1930 1929 1
+2196 2183 1
+2196 2200 1
+2187 2189 1
+2189 2191 1
+2177 2193 1
+2176 2335 1
+2176 2326 1
+2176 2320 1
+2176 2324 1
+2176 2318 1
+2176 2322 1
+2176 2334 1
+2181 2183 1
+2181 2200 1
+2258 2267 1
+2255 719 1
+2298 649 1
+2296 2313 1
+2296 1010 1
+2294 1947 1
+2294 1920 1
+2294 1986 1
+2294 1984 1
+2294 1991 1
+2291 672 1
+2282 2293 1
+2282 2284 1
+2282 2297 1
+2282 2299 1
+2282 2295 1
+2281 1943 1
+2281 1940 1
+2281 1941 1
+2278 1911 1
+2277 672 1
+2065 2068 1
+2065 2067 1
+2067 2082 1
+2067 2081 1
+2067 2087 1
+2067 2077 1
+2067 2085 1
+2067 2079 1
+2067 2080 1
+2067 2083 1
+2067 2078 1
+2066 2068 1
+2066 2063 1
+2066 2061 1
+2066 2067 1
+2069 2076 1
+2069 2072 1
+2069 2075 1
+2069 2071 1
+2069 2070 1
+2069 2073 1
+2069 2074 1
+2068 2076 1
+2068 2072 1
+2068 2075 1
+2068 2071 1
+2068 2070 1
+2068 2073 1
+2068 2074 1
+2070 2089 1
+2070 2097 1
+2070 2088 1
+2049 2051 1
+2049 2045 1
+2051 2086 1
+2051 2090 1
+2051 2091 1
+2051 2093 1
+2052 1337 1
+2053 2037 1
+2061 2260 1
+2102 2104 1
+2100 2198 1
+2100 1630 1
+2100 982 1
+2100 2196 1
+2100 1157 1
+2100 977 1
+2106 2122 1
+2084 2086 1
+2084 2090 1
+2084 2091 1
+2084 2093 1
+2091 2089 1
+2091 2097 1
+2091 2088 1
+2089 1918 1
+2094 1942 1
+2093 2317 1
+2133 2146 1
+2133 2168 1
+2129 2151 1
+2131 2176 1
+2131 2174 1
+2131 2156 1
+2116 2104 1
+2112 2198 1
+2112 1630 1
+2112 982 1
+2112 2196 1
+2112 1157 1
+2112 977 1
+2127 2131 1
+2127 2129 1
+2127 1566 1
+2166 2146 1
+2166 2168 1
+2174 2282 1
+2174 2292 1
+2174 2300 1
+2174 2286 1
+2174 2116 1
+2174 2305 1
+2174 2288 1
+2174 2290 1
+2174 2302 1
+2151 2135 1
+2151 2160 1
+2151 2137 1
+2151 2159 1
+2151 2153 1
+2151 2157 1
+2151 1503 1
+2151 2155 1
+2151 2139 1
+2151 2133 1
+2149 2131 1
+2149 2129 1
+2149 1566 1
+2147 2170 1
+2147 2152 1
+2147 2154 1
+2147 2148 1
+2147 2172 1
+2147 2150 1
+2156 2327 1
+2156 2328 1
+2156 2332 1
+2156 2333 1
+2156 2330 1
+2156 2325 1
+2156 2310 1
+2156 2314 1
+2156 2312 1
+2156 2316 1
+2156 2329 1
+2156 2331 1
+2153 2164 1
+2443 2396 1
+2443 1758 1
+2443 2345 1
+2442 1781 1
+2442 39 1
+2441 2349 1
+2441 2361 1
+2441 2347 1
+2444 227 1
+2444 229 1
+2435 2 1
+2435 6 1
+2435 8 1
+2435 4 1
+2434 2518 1
+2434 2505 1
+2434 2493 1
+2434 2503 1
+2434 2491 1
+2434 2497 1
+2434 2520 1
+2434 2495 1
+2434 2499 1
+2432 2486 1
+2432 2447 1
+2432 2478 1
+2432 2476 1
+2432 2445 1
+2432 2482 1
+2432 2453 1
+2432 2484 1
+2432 2451 1
+2432 2449 1
+2432 2480 1
+2439 2552 1
+2439 2548 1
+2439 2579 1
+2439 2581 1
+2439 2550 1
+2438 2513 1
+2438 2530 1
+2438 2509 1
+2438 2528 1
+2438 2511 1
+2436 2446 1
+2436 237 1
+2436 233 1
+2436 47 1
+2436 231 1
+2436 1787 1
+2436 255 1
+2436 251 1
+2436 253 1
+2436 235 1
+2436 239 1
+2436 241 1
+2436 1779 1
+2458 308 1
+2458 76 1
+2458 74 1
+2459 2498 1
+2456 1710 1
+2456 1712 1
+2450 255 1
+2450 251 1
+2450 253 1
+2450 235 1
+2450 237 1
+2450 239 1
+2450 241 1
+2450 233 1
+2450 231 1
+2451 2475 1
+2451 2477 1
+2448 2446 1
+2448 1669 1
+2448 1718 1
+2448 1732 1
+2448 47 1
+2448 1746 1
+2448 56 1
+2448 1740 1
+2448 1743 1
+2448 1787 1
+2448 2466 1
+2448 1722 1
+2448 1741 1
+2448 54 1
+2448 1720 1
+2448 1699 1
+2448 1779 1
+2454 195 1
+2454 230 1
+2454 197 1
+2454 228 1
+2454 201 1
+2454 205 1
+2454 207 1
+2454 203 1
+2454 226 1
+2454 199 1
+2455 2457 1
+2455 2494 1
+2455 2492 1
+2455 2490 1
+2455 2461 1
+2455 2488 1
+2455 2465 1
+2455 2459 1
+2455 2463 1
+2452 252 1
+2452 250 1
+2452 247 1
+2452 273 1
+2452 271 1
+2452 249 1
+2452 254 1
+2452 256 1
+2452 269 1
+2474 1786 1
+2476 2457 1
+2476 2494 1
+2476 2492 1
+2476 2490 1
+2476 2461 1
+2476 2488 1
+2476 2465 1
+2476 2459 1
+2476 2463 1
+2479 2481 1
+2479 2483 1
+2479 2489 1
+2479 2516 1
+2479 2487 1
+2479 2485 1
+2479 2514 1
+2478 2481 1
+2478 2483 1
+2478 2489 1
+2478 2516 1
+2478 2487 1
+2478 2485 1
+2478 2514 1
+2464 1745 1
+2464 297 1
+2464 299 1
+2464 339 1
+2464 337 1
+2467 2500 1
+2467 2469 1
+2467 2502 1
+2466 1675 1
+2468 2349 1
+2468 2361 1
+2468 2347 1
+2471 222 1
+2471 220 1
+2471 224 1
+2470 2396 1
+2470 1758 1
+2470 2345 1
+2491 2501 1
+2491 2513 1
+2491 2530 1
+2491 2509 1
+2491 2528 1
+2491 2511 1
+2493 2559 1
+2493 2555 1
+2493 2553 1
+2493 2529 1
+2493 2527 1
+2493 2525 1
+2493 2557 1
+2495 2545 1
+2495 2552 1
+2495 2548 1
+2495 2579 1
+2495 2581 1
+2495 2550 1
+2481 2512 1
+2482 2500 1
+2482 2469 1
+2482 2502 1
+2510 2512 1
+2506 218 1
+2504 2475 1
+2504 2477 1
+2501 2526 1
+2501 2507 1
+2501 2524 1
+2496 2498 1
+2522 2526 1
+2522 2507 1
+2522 2524 1
+2523 2615 1
+2521 2663 1
+2521 2668 1
+2521 2694 1
+2521 2666 1
+2521 2665 1
+2521 2659 1
+2519 172 1
+2519 178 1
+2519 200 1
+2519 204 1
+2519 180 1
+2519 198 1
+2519 174 1
+2519 176 1
+2519 194 1
+2519 202 1
+2519 196 1
+2515 2522 1
+2515 2532 1
+2515 2535 1
+2541 2536 1
+2541 2561 1
+2541 2531 1
+2541 2565 1
+2541 2562 1
+2541 2567 1
+2541 2533 1
+2541 2564 1
+2541 2534 1
+2540 148 1
+2540 167 1
+2543 1687 1
+2543 1683 1
+2543 374 1
+2543 1685 1
+2543 372 1
+2543 370 1
+2543 376 1
+2543 379 1
+2543 350 1
+2543 368 1
+2543 378 1
+2543 1673 1
+2542 216 1
+2542 212 1
+2542 190 1
+2542 188 1
+2542 210 1
+2542 214 1
+2542 208 1
+2537 2532 1
+2537 2535 1
+2536 109 1
+2536 107 1
+2536 111 1
+2539 2617 1
+2539 2625 1
+2539 1788 1
+2539 2641 1
+2539 2621 1
+2539 2643 1
+2539 2627 1
+2539 2619 1
+2539 2645 1
+2539 2623 1
+2538 2675 1
+2538 2638 1
+2538 2679 1
+2538 2683 1
+2538 2644 1
+2538 2642 1
+2538 2677 1
+2538 2634 1
+2538 2681 1
+2538 2636 1
+2538 2640 1
+2533 2696 1
+2533 2678 1
+2533 2700 1
+2533 2680 1
+2533 2682 1
+2533 2699 1
+2533 93 1
+2533 2701 1
+2533 2698 1
+2533 2697 1
+2533 95 1
+2534 1774 1
+2531 1694 1
+2558 2560 1
+2554 2594 1
+2554 2578 1
+2554 2592 1
+2554 2582 1
+2554 2580 1
+2554 2596 1
+2554 2590 1
+2554 2576 1
+2549 2559 1
+2549 2555 1
+2549 2553 1
+2549 2529 1
+2549 2527 1
+2549 2525 1
+2549 2557 1
+2551 206 1
+2551 186 1
+2551 184 1
+2544 1694 1
+2545 2577 1
+2546 1790 1
+2547 160 1
+2547 162 1
+2547 192 1
+2547 187 1
+2547 185 1
+2547 183 1
+2547 170 1
+2547 189 1
+2547 168 1
+2547 166 1
+2547 164 1
+2304 2317 1
+2311 2313 1
+2311 1010 1
+2309 1947 1
+2309 1918 1
+2309 1920 1
+2313 649 1
+2339 2342 1
+2339 2341 1
+2339 2343 1
+2340 2342 1
+2340 2341 1
+2340 2343 1
+2341 2356 1
+2341 2357 1
+2341 2352 1
+2341 2354 1
+2341 2350 1
+2341 2355 1
+2341 2353 1
+2342 13 1
+2342 2522 1
+2343 10 1
+2344 2472 1
+2344 2346 1
+2345 12 1
+2346 2356 1
+2346 2357 1
+2346 2352 1
+2346 2354 1
+2346 2350 1
+2346 2355 1
+2346 2353 1
+2347 2366 1
+2348 2413 1
+2348 2391 1
+2348 2397 1
+2348 2411 1
+2348 2418 1
+2348 2407 1
+2348 2405 1
+2348 2394 1
+2348 2409 1
+2349 2373 1
+2349 2371 1
+2349 2379 1
+2349 2377 1
+2349 2387 1
+2349 2375 1
+2351 2472 1
+2351 2346 1
+2353 2433 1
+2355 2426 1
+2355 28 1
+2355 23 1
+2355 2428 1
+2355 26 1
+2354 73 1
+2354 80 1
+2354 71 1
+2354 20 1
+2354 27 1
+2354 29 1
+2354 78 1
+2354 67 1
+2354 22 1
+2354 61 1
+2354 82 1
+2354 69 1
+2354 31 1
+2357 2515 1
+2359 2637 1
+2359 2362 1
+2359 2360 1
+2358 2362 1
+2358 2360 1
+2361 2633 1
+2361 1753 1
+2361 2635 1
+2361 1744 1
+2361 2364 1
+2360 2633 1
+2360 1753 1
+2360 2635 1
+2360 1744 1
+2360 2364 1
+2363 2367 1
+2363 2365 1
+2363 2179 1
+2363 2370 1
+2363 2194 1
+2363 2177 1
+2363 2369 1
+2363 2372 1
+2363 2368 1
+2362 2373 1
+2362 2366 1
+2362 2379 1
+2362 2377 1
+2362 2387 1
+2362 2375 1
+2364 2508 1
+2364 2473 1
+2364 2506 1
+2364 2471 1
+2364 2504 1
+2366 2367 1
+2366 2365 1
+2366 2179 1
+2366 2370 1
+2366 2194 1
+2366 2177 1
+2366 2369 1
+2366 2372 1
+2366 2368 1
+2374 2388 1
+2374 2393 1
+2374 2383 1
+2374 2385 1
+2374 2392 1
+2374 2395 1
+2374 2386 1
+2374 2384 1
+2374 2390 1
+2374 2381 1
+2375 68 1
+2375 66 1
+2375 2448 1
+2375 62 1
+2375 2450 1
+2375 2452 1
+2375 64 1
+2375 60 1
+2375 2454 1
+2375 70 1
+2373 1775 1
+2373 2474 1
+2373 357 1
+2373 240 1
+2373 1730 1
+2371 2629 1
+2371 2609 1
+2371 2613 1
+2371 2626 1
+2371 2611 1
+2371 2631 1
+2371 2607 1
+2368 34 1
+2368 5 1
+2368 51 1
+2381 2382 1
+2381 2380 1
+2381 2378 1
+2379 2388 1
+2379 2393 1
+2379 2383 1
+2379 2385 1
+2379 2392 1
+2379 2395 1
+2379 2386 1
+2379 2384 1
+2379 2390 1
+2379 2381 1
+2376 2382 1
+2376 2380 1
+2376 2378 1
+2377 2460 1
+2377 2458 1
+2377 83 1
+2377 2456 1
+2377 1728 1
+2377 72 1
+2377 79 1
+2377 2462 1
+2377 81 1
+2391 2415 1
+2391 2414 1
+2391 2416 1
+2391 1255 1
+2391 2425 1
+2391 2427 1
+2390 2673 1
+2389 2413 1
+2389 2391 1
+2389 2397 1
+2389 2418 1
+2389 2405 1
+2389 2394 1
+2389 2409 1
+2387 363 1
+2387 318 1
+2387 320 1
+2387 334 1
+2387 336 1
+2387 365 1
+2399 16 1
+2399 14 1
+2399 2401 1
+2399 59 1
+2398 2541 1
+2398 2571 1
+2398 2539 1
+2398 2573 1
+2398 2543 1
+2398 2569 1
+2397 2433 1
+2397 12 1
+2397 10 1
+2396 2410 1
+2396 2402 1
+2396 2408 1
+2396 2421 1
+2396 2406 1
+2396 2404 1
+2396 2398 1
+2396 2419 1
+2396 2400 1
+2396 2417 1
+2394 13 1
+2394 16 1
+2394 14 1
+2394 2401 1
+2394 59 1
+2392 2560 1
+2404 2563 1
+2404 2558 1
+2404 2403 1
+2404 2568 1
+2404 2554 1
+2404 1789 1
+2404 2556 1
+2404 2566 1
+2404 1665 1
+2405 181 1
+2405 2431 1
+2405 238 1
+2405 1337 1
+2407 2426 1
+2407 28 1
+2407 23 1
+2407 2428 1
+2407 26 1
+2400 2587 1
+2400 2593 1
+2400 2610 1
+2400 2616 1
+2400 2595 1
+2400 2606 1
+2400 2614 1
+2400 2608 1
+2400 2604 1
+2400 2612 1
+2401 2563 1
+2401 2558 1
+2401 2403 1
+2401 2597 1
+2401 2568 1
+2401 2554 1
+2401 2599 1
+2401 1789 1
+2401 2556 1
+2401 2566 1
+2401 1665 1
+2402 2540 1
+2402 2523 1
+2402 2521 1
+2402 2544 1
+2402 2546 1
+2402 2517 1
+2402 2549 1
+2402 2538 1
+2402 2411 1
+2402 2519 1
+2402 2551 1
+2402 2407 1
+2402 2542 1
+2402 2547 1
+2403 2501 1
+2403 1736 1
+2413 2410 1
+2413 2402 1
+2413 2408 1
+2413 2421 1
+2413 2406 1
+2413 2404 1
+2413 2398 1
+2413 2419 1
+2413 2400 1
+2413 2417 1
+2414 1786 1
+2415 1689 1
+2415 50 1
+2415 1716 1
+2415 1793 1
+2415 1742 1
+2415 45 1
+2415 1737 1
+2415 1739 1
+2415 43 1
+2415 52 1
+2415 2444 1
+2408 2601 1
+2408 2597 1
+2408 2622 1
+2408 2599 1
+2408 2605 1
+2408 2618 1
+2408 2603 1
+2408 1766 1
+2408 2620 1
+2410 2508 1
+2410 2473 1
+2410 2506 1
+2410 2471 1
+2410 2504 1
+2411 30 1
+2411 32 1
+2411 2434 1
+2411 1 1
+2411 2432 1
+2411 2436 1
+2421 2518 1
+2421 2505 1
+2421 2493 1
+2421 2503 1
+2421 2491 1
+2421 2497 1
+2421 2520 1
+2421 2495 1
+2421 2499 1
+2420 1772 1
+2423 2414 1
+2423 1255 1
+2423 2425 1
+2423 2427 1
+2417 2629 1
+2417 2609 1
+2417 2613 1
+2417 2626 1
+2417 2611 1
+2417 117 1
+2417 2631 1
+2417 2607 1
+2416 308 1
+2416 76 1
+2416 74 1
+2419 2486 1
+2419 2447 1
+2419 2478 1
+2419 2476 1
+2419 2445 1
+2419 2482 1
+2419 2453 1
+2419 2484 1
+2419 2451 1
+2419 2449 1
+2419 2480 1
+2418 2 1
+2418 6 1
+2418 8 1
+2418 4 1
+2429 2416 1
+2428 36 1
+2428 124 1
+2428 21 1
+2430 25 1
+2425 38 1
+2425 2667 1
+2425 2515 1
+2426 30 1
+2426 2434 1
+2426 34 1
+2426 5 1
+2426 1 1
+2426 2432 1
+2426 2436 1
+2748 2743 1
+2748 2741 1
+2746 2750 1
+2746 2729 1
+2746 2739 1
+2746 2733 1
+2746 2731 1
+2746 2735 1
+2746 2737 1
+2745 2749 1
+2745 2758 1
+2745 2760 1
+2745 2756 1
+2745 2751 1
+2732 2734 1
+2732 2723 1
+2732 2740 1
+2732 2725 1
+2732 2736 1
+2732 2738 1
+2732 2744 1
+2732 2721 1
+2732 2742 1
+2729 2743 1
+2729 2741 1
+2727 2750 1
+2727 2729 1
+2727 2739 1
+2727 2733 1
+2727 2731 1
+2727 2735 1
+2727 2737 1
+2724 2895 1
+2721 2858 1
+2721 2847 1
+2717 2851 1
+2717 2860 1
+2717 2855 1
+2717 2853 1
+2717 2857 1
+2719 2734 1
+2719 2723 1
+2719 2740 1
+2719 2725 1
+2719 2736 1
+2719 2738 1
+2719 2744 1
+2719 2721 1
+2719 2742 1
+2710 2714 1
+2710 2712 1
+2710 547 1
+2710 568 1
+2705 2805 1
+2705 2810 1
+2705 2812 1
+2705 2801 1
+2705 2803 1
+2707 2713 1
+2707 2709 1
+2707 2711 1
+2696 1756 1
+2693 2659 1
+2689 2657 1
+2689 2690 1
+2691 2692 1
+2808 2805 1
+2808 2810 1
+2808 2812 1
+2808 2801 1
+2808 2803 1
+2814 2820 1
+2814 2818 1
+2814 2816 1
+2813 2815 1
+2806 2861 1
+2793 601 1
+2796 2874 1
+2785 2849 1
+2784 594 1
+2784 482 1
+2791 2802 1
+2791 2794 1
+2791 2800 1
+2791 2799 1
+2791 2804 1
+2791 2793 1
+2791 2796 1
+2791 2795 1
+2791 2797 1
+2791 2798 1
+2781 2783 1
+2781 2785 1
+2781 2792 1
+2781 2786 1
+2781 2787 1
+2781 2784 1
+2781 2789 1
+2781 2788 1
+2781 2790 1
+2783 2891 1
+2783 2892 1
+2783 2889 1
+2783 2894 1
+2769 2771 1
+2769 2778 1
+2772 2777 1
+2772 2769 1
+2772 2780 1
+2772 2779 1
+2772 2763 1
+2772 2775 1
+2772 2782 1
+2772 2773 1
+2773 2898 1
+2773 2897 1
+2763 2765 1
+2763 2774 1
+2763 2767 1
+2763 2776 1
+2753 2762 1
+2753 2768 1
+2753 2759 1
+2753 2770 1
+2753 2766 1
+2753 2761 1
+2753 2757 1
+2753 2755 1
+2752 2764 1
+2755 2764 1
+2754 2749 1
+2754 2758 1
+2754 2760 1
+2754 2756 1
+2754 2751 1
+2614 1752 1
+2614 1763 1
+2614 1757 1
+2614 99 1
+2614 1754 1
+2614 97 1
+2614 1759 1
+2614 1761 1
+2613 167 1
+2612 2615 1
+2612 2695 1
+2612 2676 1
+2611 252 1
+2611 250 1
+2611 247 1
+2611 271 1
+2611 249 1
+2611 254 1
+2611 269 1
+2610 2696 1
+2610 2678 1
+2610 2700 1
+2610 2680 1
+2610 2682 1
+2610 2699 1
+2610 93 1
+2610 2701 1
+2610 2698 1
+2608 119 1
+2608 2584 1
+2608 1776 1
+2608 1780 1
+2608 1778 1
+2608 113 1
+2608 115 1
+2608 2598 1
+2608 2585 1
+2622 295 1
+2622 335 1
+2622 331 1
+2622 329 1
+2622 293 1
+2622 333 1
+2620 309 1
+2620 311 1
+2620 355 1
+2620 307 1
+2620 353 1
+2620 313 1
+2618 172 1
+2618 178 1
+2618 200 1
+2618 204 1
+2618 180 1
+2618 198 1
+2618 174 1
+2618 176 1
+2618 194 1
+2618 202 1
+2618 196 1
+2617 2628 1
+2617 2650 1
+2617 2652 1
+2617 2648 1
+2616 177 1
+2616 158 1
+2616 179 1
+2616 175 1
+2599 2658 1
+2599 2664 1
+2599 2654 1
+2599 2656 1
+2599 2630 1
+2599 2662 1
+2599 2660 1
+2599 2632 1
+2597 2675 1
+2597 2638 1
+2597 2679 1
+2597 2683 1
+2597 2644 1
+2597 2642 1
+2597 2677 1
+2597 2634 1
+2597 2681 1
+2597 2636 1
+2597 2640 1
+2595 171 1
+2595 173 1
+2595 169 1
+2595 152 1
+2595 154 1
+2595 156 1
+2595 150 1
+2593 2651 1
+2593 2653 1
+2593 148 1
+2593 2649 1
+2593 2686 1
+2593 2646 1
+2593 2655 1
+2593 2687 1
+2593 2647 1
+2593 2688 1
+2593 2685 1
+2606 1711 1
+2606 1674 1
+2606 1676 1
+2606 1680 1
+2606 1682 1
+2606 1684 1
+2606 1678 1
+2606 1672 1
+2606 1713 1
+2606 1709 1
+2607 216 1
+2607 212 1
+2607 190 1
+2607 188 1
+2607 210 1
+2607 214 1
+2607 208 1
+2604 2658 1
+2604 2664 1
+2604 2654 1
+2604 2656 1
+2604 2630 1
+2604 2662 1
+2604 2660 1
+2604 2632 1
+2605 301 1
+2605 305 1
+2605 345 1
+2605 343 1
+2605 347 1
+2605 1785 1
+2605 303 1
+2605 341 1
+2605 349 1
+2605 351 1
+2603 1745 1
+2603 297 1
+2603 299 1
+2603 339 1
+2603 337 1
+2600 2589 1
+2600 2591 1
+2600 2602 1
+2601 160 1
+2601 162 1
+2601 192 1
+2601 187 1
+2601 185 1
+2601 183 1
+2601 170 1
+2601 189 1
+2601 168 1
+2601 166 1
+2601 164 1
+2576 2584 1
+2576 2598 1
+2576 2585 1
+2591 273 1
+2591 256 1
+2590 2697 1
+2584 1790 1
+2587 2589 1
+2587 2591 1
+2587 2602 1
+2564 137 1
+2564 112 1
+2564 114 1
+2565 1771 1
+2561 1782 1
+2562 116 1
+2562 2545 1
+2562 141 1
+2562 122 1
+2562 118 1
+2562 120 1
+2562 139 1
+2563 105 1
+2563 1769 1
+2563 1767 1
+2563 103 1
+2563 101 1
+2563 2420 1
+2573 105 1
+2573 1769 1
+2573 1767 1
+2573 103 1
+2573 101 1
+2573 2420 1
+2575 2577 1
+2570 2588 1
+2570 2574 1
+2570 2586 1
+2570 2572 1
+2571 94 1
+2571 96 1
+2571 98 1
+2571 1784 1
+2571 121 1
+2571 92 1
+2571 100 1
+2675 109 1
+2675 1774 1
+2675 107 1
+2675 111 1
+2674 2695 1
+2674 2676 1
+2679 1772 1
+2677 104 1
+2677 106 1
+2677 123 1
+2677 108 1
+2685 2663 1
+2685 2668 1
+2685 2694 1
+2685 2666 1
+2685 2665 1
+2685 2661 1
+2684 2651 1
+2684 2653 1
+2684 2649 1
+2684 2686 1
+2684 2646 1
+2684 2655 1
+2684 2687 1
+2684 2647 1
+2684 2688 1
+2684 2685 1
+2658 124 1
+2659 2661 1
+2656 182 1
+2660 1748 1
+2641 153 1
+2641 149 1
+2641 151 1
+2641 126 1
+2641 147 1
+2641 155 1
+2640 137 1
+2640 112 1
+2640 114 1
+2643 161 1
+2643 140 1
+2643 138 1
+2643 163 1
+2643 144 1
+2643 136 1
+2643 142 1
+2642 2412 1
+2642 1765 1
+2646 161 1
+2646 140 1
+2646 138 1
+2646 163 1
+2646 144 1
+2646 136 1
+2646 142 1
+2651 2657 1
+2651 2692 1
+2651 2690 1
+2650 132 1
+2650 134 1
+2650 159 1
+2655 132 1
+2655 134 1
+2655 159 1
+2654 145 1
+2654 143 1
+2624 2601 1
+2624 2620 1
+2627 128 1
+2627 130 1
+2628 1748 1
+2629 301 1
+2629 305 1
+2629 345 1
+2629 343 1
+2629 347 1
+2629 1785 1
+2629 303 1
+2629 341 1
+2629 349 1
+2629 351 1
+2630 153 1
+2630 149 1
+2630 151 1
+2630 126 1
+2630 147 1
+2630 155 1
+2631 171 1
+2631 173 1
+2631 169 1
+2631 152 1
+2631 154 1
+2631 156 1
+2631 150 1
+2632 206 1
+2632 186 1
+2632 184 1
+2633 363 1
+2633 318 1
+2633 320 1
+2633 334 1
+2633 336 1
+2633 365 1
+2634 1752 1
+2634 1763 1
+2634 1757 1
+2634 99 1
+2634 1754 1
+2634 97 1
+2634 1759 1
+2634 1761 1
+2636 119 1
+2636 1776 1
+2636 1780 1
+2636 1778 1
+2636 113 1
+2636 115 1
+2636 117 1
+2637 2415 1
+2638 116 1
+2638 141 1
+2638 122 1
+2638 118 1
+2638 120 1
+2638 139 1
+2639 2371 1
+2854 2851 1
+2854 2860 1
+2854 2855 1
+2854 2853 1
+2854 2857 1
+2863 2868 1
+2863 2865 1
+2856 2858 1
+2856 2847 1
+2859 2861 1
+2870 2875 1
+2870 2878 1
+2870 2867 1
+2870 2871 1
+2870 2872 1
+2870 2879 1
+2870 2873 1
+2870 2877 1
+2870 2881 1
+2870 2869 1
+2870 2876 1
+2867 594 1
+2867 482 1
+2866 2868 1
+2866 2865 1
+2873 2874 1
+2822 2807 1
+2822 2809 1
+2823 2825 1
+2830 2825 1
+2828 2844 1
+2828 2823 1
+2828 2841 1
+2828 2837 1
+2828 2839 1
+2828 2842 1
+2828 2827 1
+2828 2843 1
+2827 2829 1
+2827 2832 1
+2838 2840 1
+2836 2829 1
+2836 2832 1
+2833 2840 1
+2846 2852 1
+2846 2845 1
+2846 2848 1
+2846 2850 1
+2884 2886 1
+2884 2885 1
+2884 2888 1
+2884 2887 1
+2890 2891 1
+2890 2892 1
+2890 2889 1
+2890 2894 1
+2893 2895 1
+2896 2898 1
+2896 2897 1

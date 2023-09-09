@@ -1,0 +1,1161 @@
+*Network Ore graph kinsources-kodiak.puc
+
+*vertices 410
+1 '1 – Unlabelled/Ug (1)' triangle
+2 '2 – Unlabelled/Ug (2)' ellipse
+3 '3 – Unlabelled/Ug (3)' triangle
+4 '4 – Unlabelled/Ug (4)' ellipse
+5 '5 – Unlabelled/Ug (5)' triangle
+6 '6 – Unlabelled/Ug (6)' ellipse
+7 '7 – Unlabelled/Kr (7)' triangle
+8 '8 – Unlabelled/Ug (8)' triangle
+9 '9 – Unlabelled/Wh (9)' triangle
+10 '10 – Unlabelled/Ug (10)' ellipse
+11 '11 – Unlabelled/Kr (11)' triangle
+12 '12 – Unlabelled/Af (12)' triangle
+13 '13 – Unlabelled/Wh (13)' triangle
+14 '14 – Unlabelled/Kr (14)' ellipse
+15 '15 – Unlabelled/Ug (15)' ellipse
+16 '16 – Unlabelled/Ma (16)' ellipse
+17 '17 – Unlabelled/Ug (17)' ellipse
+18 '18 – Unlabelled/Ug (18)' triangle
+19 '19 – Unlabelled/Ug (19)' triangle
+20 '20 – Unlabelled/Ug (20)' ellipse
+21 '21 – Unlabelled/Ug (21)' ellipse
+22 '22 – Unlabelled/Ug (22)' ellipse
+23 '23 – Unlabelled/Wh (23)' triangle
+24 '24 – Unlabelled/Ak (24)' triangle
+25 '25 – Unlabelled/Kr (25)' triangle
+26 '26 – Unlabelled/Af:Ma (26)' triangle
+27 '27 – Unlabelled/Af (27)' ellipse
+28 '28 – Unlabelled/Kr (28)' ellipse
+29 '29 – Unlabelled/Wh (29)' triangle
+30 '30 – Unlabelled/Wh:Ug (30)' ellipse
+31 '31 – Unlabelled/Wh:Ug (31)' ellipse
+32 '32 – Unlabelled/Wh:Ug (32)' ellipse
+33 '33 – Unlabelled/Kr:Ug (33)' ellipse
+34 '34 – Unlabelled/Kr:Ug (34)' ellipse
+35 '35 – Unlabelled/Wh:Ug (35)' triangle
+36 '36 – Unlabelled/Kr (36)' ellipse
+37 '37 – Unlabelled/Kr (37)' ellipse
+38 '38 – Unlabelled/Wh:Ug (38)' ellipse
+39 '39 – Unlabelled/Af-Ma:Wh-Ug (39)' ellipse
+40 '40 – Unlabelled/Kr (40)' ellipse
+41 '41 – Unlabelled/Kr (41)' ellipse
+42 '42 – Unlabelled/Wh:Ug (42)' triangle
+43 '43 – Unlabelled/Wh:Wh-Ug (43)' ellipse
+44 '44 – Unlabelled/Wh:Ug (44)' ellipse
+45 '45 – Unlabelled/Wh (45)' triangle
+46 '46 – Unlabelled/Wh:Ug (46)' ellipse
+47 '47 – Unlabelled/Wh:Wh-Ug (47)' triangle
+48 '48 – Unlabelled/Wh:Wh-Ug (48)' ellipse
+49 '49 – Unlabelled/Wh:Wh-Ug (49)' triangle
+50 '50 – Unlabelled/Kr-Ug:Kr (50)' triangle
+51 '51 – Unlabelled/Kr-Ug:Kr (51)' ellipse
+52 '52 – Unlabelled/Wh:Wh-Ug (52)' ellipse
+53 '53 – Unlabelled/Kr-Ug:Kr (53)' triangle
+54 '54 – Unlabelled/Kr-Ug:Kr (54)' ellipse
+55 '55 – Unlabelled/Wh:Wh-Ug (55)' ellipse
+56 '56 – Unlabelled/Kr-Ug:Kr (56)' triangle
+57 '57 – Unlabelled/Un (57)' triangle
+58 '58 – Unlabelled/Wh (58)' triangle
+59 '59 – Unlabelled/Af (59)' ellipse
+60 '60 – Unlabelled/Ug (60)' triangle
+61 '61 – Unlabelled/Af (61)' triangle
+62 '62 – Unlabelled/Ug (62)' ellipse
+63 '63 – Unlabelled/Kr (63)' triangle
+64 '64 – Unlabelled/Wh (64)' triangle
+65 '65 – Unlabelled/Kr (65)' ellipse
+66 '66 – Unlabelled/Un (66)' triangle
+67 '67 – Unlabelled/Af (67)' ellipse
+68 '68 – Unlabelled/Un:Af (68)' ellipse
+69 '69 – Unlabelled/Wh (69)' triangle
+70 '70 – Unlabelled/Kr (70)' triangle
+71 '71 – Unlabelled/Ug (71)' ellipse
+72 '72 – Unlabelled/Wh:Af (72)' triangle
+73 '73 – Unlabelled/Wh (73)' ellipse
+74 '74 – Unlabelled/Kr (74)' triangle
+75 '75 – Unlabelled/Wh:Af (75)' ellipse
+76 '76 – Unlabelled/Ug (76)' ellipse
+77 '77 – Unlabelled/Kr (77)' triangle
+78 '78 – Unlabelled/Wh (78)' triangle
+79 '79 – Unlabelled/Af (79)' ellipse
+80 '80 – Unlabelled/Kr (80)' ellipse
+81 '81 – Unlabelled/Kr:Ug (81)' triangle
+82 '82 – Unlabelled/Kr (82)' ellipse
+83 '83 – Unlabelled/Kr (83)' triangle
+84 '84 – Unlabelled/Af (84)' triangle
+85 '85 – Unlabelled/Kr:Ug (85)' ellipse
+86 '86 – Unlabelled/Af (86)' ellipse
+87 '87 – Unlabelled/Kr (87)' diamond
+88 '88 – Unlabelled/Kr (88)' diamond
+89 '89 – Unlabelled/Wh:Af (89)' ellipse
+90 '90 – Unlabelled/Kr (90)' diamond
+91 '91 – Unlabelled/Wh:Af (91)' ellipse
+92 '92 – Unlabelled/Kr (92)' ellipse
+93 '93 – Unlabelled/Kr (93)' ellipse
+94 '94 – Unlabelled/Wh:Af (94)' ellipse
+95 '95 – Unlabelled/Wh:Af (95)' triangle
+96 '96 – Unlabelled/Kr:Af (96)' ellipse
+97 '97 – Unlabelled/Kr (97)' ellipse
+98 '98 – Unlabelled/Uz (98)' triangle
+99 '99 – Unlabelled/Kr:Af (99)' ellipse
+100 '100 – Unlabelled/Kr:Af (100)' triangle
+101 '101 – Unlabelled/Un (101)' triangle
+102 '102 – Unlabelled/Kr:Af (102)' triangle
+103 '103 – Unlabelled/Kr-Ug:Af (103)' triangle
+104 '104 – Unlabelled/Co (104)' triangle
+105 '105 – Unlabelled/Af-Ug:Kr (105)' ellipse
+106 '106 – Unlabelled/Af-Ug:Kr (106)' ellipse
+107 '107 – Unlabelled/Af-Ug:Kr (107)' triangle
+108 '108 – Unlabelled/Kr:Af (108)' triangle
+109 '109 – Unlabelled/Wh•Af-Wh•Af:Wh-Af (109)' triangle
+110 '110 – Unlabelled/Af-Ug:Kr (110)' triangle
+111 '111 – Unlabelled/Wh•Af-Wh•Af:Wh-Af (111)' ellipse
+112 '112 – Unlabelled/Af-Ug:Kr (112)' ellipse
+113 '113 – Unlabelled/Af-Ug:Kr (113)' triangle
+114 '114 – Unlabelled/Af-Ug:Kr (114)' triangle
+115 '115 – Unlabelled/Af:Kr-Ug (115)' triangle
+116 '116 – Unlabelled/Ak:Kr•Ug-Af (116)' triangle
+117 '117 – Unlabelled/Kr:Kr•Ug-Ug (117)' ellipse
+118 '118 – Unlabelled/Uz:Kr-KrUg•Ug (118)' ellipse
+119 '119 – Unlabelled/Ak:Kr•Ug-Af (119)' ellipse
+120 '120 – Unlabelled/Af-Ug:Kr (120)' ellipse
+121 '121 – Unlabelled/Af-Ug:Kr (121)' triangle
+122 '122 – Unlabelled/Ak:Kr•Ug-Af (122)' triangle
+123 '123 – Unlabelled/Af•Ma-Kr:WhAf•WhAf-Wh•Af (123)' triangle
+124 '124 – Unlabelled/Af•Ma-Kr:WhAf•WhAf-Wh•Af (124)' ellipse
+125 '125 – Unlabelled/Kr-KrUg•Ug:Kr•Ma-Af (125)' ellipse
+126 '126 – Unlabelled/Ma (126)' triangle
+127 '127 – Unlabelled/Ma (127)' ellipse
+128 '128 – Unlabelled/Af (128)' triangle
+129 '129 – Unlabelled/Ma (129)' triangle
+130 '130 – Unlabelled/Ma (130)' ellipse
+131 '131 – Unlabelled/Af (131)' ellipse
+132 '132 – Unlabelled/Ma (132)' triangle
+133 '133 – Unlabelled/Ma (133)' ellipse
+134 '134 – Unlabelled/Ko (134)' triangle
+135 '135 – Unlabelled/Wh (135)' triangle
+136 '136 – Unlabelled/Af (136)' triangle
+137 '137 – Unlabelled/Wo (137)' ellipse
+138 '138 – Unlabelled/Un (138)' triangle
+139 '139 – Unlabelled/Kr (139)' ellipse
+140 '140 – Unlabelled/Wh (140)' triangle
+141 '141 – Unlabelled/Kr (141)' triangle
+142 '142 – Unlabelled/Kr (142)' triangle
+143 '143 – Unlabelled/Wo (143)' triangle
+144 '144 – Unlabelled/Kr (144)' triangle
+145 '145 – Unlabelled/Af (145)' triangle
+146 '146 – Unlabelled/Af (146)' triangle
+147 '147 – Unlabelled/Ma (147)' ellipse
+148 '148 – Unlabelled/Ma (148)' ellipse
+149 '149 – Unlabelled/Co (149)' ellipse
+150 '150 – Unlabelled/Af (150)' ellipse
+151 '151 – Unlabelled/Kr (151)' triangle
+152 '152 – Unlabelled/Af (152)' ellipse
+153 '153 – Unlabelled/Ma (153)' ellipse
+154 '154 – Unlabelled/Af (154)' triangle
+155 '155 – Unlabelled/Kg (155)' ellipse
+156 '156 – Unlabelled/Af (156)' ellipse
+157 '157 – Unalbeled/La (157)' triangle
+158 '158 – Unlabelled/Af (158)' triangle
+159 '159 – Unlabelled/Af (159)' ellipse
+160 '160 – Unlabelled/Wh (160)' triangle
+161 '161 – Unlabelled/Wh:Kg (161)' triangle
+162 '162 – Unlabelled/Kr:Ma (162)' triangle
+163 '163 – Unlabelled/Af:Co (163)' triangle
+164 '164 – Unlabelled/Af:Co (164)' ellipse
+165 '165 – Unlabelled/Af:Co (165)' triangle
+166 '166 – Unlabelled/Af:Co (166)' triangle
+167 '168 – Unlabelled/Af (168)' triangle
+168 '169 – Unlabelled/Af (169)' triangle
+169 '170 – Unlabelled/Wh:Ma (170)' triangle
+170 '171 – Unlabelled/Kr:Ma (171)' triangle
+171 '172 – Unlabelled/Uz (172)' triangle
+172 '173 – Unlabelled/Kr:Ma (173)' triangle
+173 '174 – Unlabelled/Af:Ma (174)' triangle
+174 '175 – Unlabelled/Af:Ma (175)' ellipse
+175 '176 – Unlabelled/Af (176)' ellipse
+176 '177 – Unlabelled/Ma (177)' ellipse
+177 '178 – Unlabelled/Kr:Ma (178)' triangle
+178 '179 – Unlabelled/Kr:Ma (179)' triangle
+179 '180 – Unlabelled/Wh (180)' triangle
+180 '181 – Unlabelled/Wh (181)' ellipse
+181 '182 – Unlabelled/Af:Ma (182)' ellipse
+182 '183 – Unlabelled/Kr:Ma (183)' ellipse
+183 '184 – Unlabelled/Kr:Ma (184)' ellipse
+184 '185 – Unlabelled/Kr (185)' ellipse
+185 '187 – Unlabelled/Af (187)' ellipse
+186 '188 – Unlabelled/Kr:Ma (188)' triangle
+187 '189 – Unlabelled/Af (189)' ellipse
+188 '190 – Unlabelled/Af:Ma (190)' diamond
+189 '191 – Unlabelled/Af:Ma (191)' triangle
+190 '192 – Unlabelled/Af:Ma (192)' ellipse
+191 '193 – Unlabelled/Af:Ma (193)' triangle
+192 '194 – Unlabelled/Wh:Ma (194)' ellipse
+193 '195 – Unlabelled/Wh:Ma (195)' ellipse
+194 '196 – Unlabelled/Wh:Ma (196)' triangle
+195 '197 – Unlabelled/Af:Ma (197)' triangle
+196 '198 – Unlabelled/Af:Ma (198)' triangle
+197 '199 – Unlabelled/Un (199)' triangle
+198 '200 – Unlabelled/Wh:Ma (200)' triangle
+199 '201 – Unlabelled/Wh:Ma (201)' triangle
+200 '202 – Unlabelled/Af:Ma (202)' triangle
+201 '203 – Unlabelled/Af:Ma (203)' diamond
+202 '204 – Unlabelled/Wh:Af (204)' ellipse
+203 '205 – Unlabelled/Un (205)' triangle
+204 '206 – Unlabelled/Un (206)' triangle
+205 '207 – Unlabelled/Un (207)' triangle
+206 '208 - Unlabelled/Un (208)' triangle
+207 '209 – Unlabelled/Ak (209)' ellipse
+208 '210 – Unlabelled/Un-Kr:Af-Ma (210)' triangle
+209 '211 – Unlabelled/Un-Kr:Af-Ma (211)' triangle
+210 '212 – Unlabelled/Ug:Kr-Ma (212)' triangle
+211 '213 – Unlabelled/Ug:Kr-Ma (213)' triangle
+212 '214 – Unlabelled/Ug:Kr-Ma (214)' ellipse
+213 '215 – Unlabelled/Ug:Kr-Ma (215)' triangle
+214 '216 – Unlabelled/Ug:Kr-Ma (216)' diamond
+215 '217 – Unlabelled/Un-Kr:Kr (217)' triangle
+216 '218 – Unlabelled/Kr-Ma:Wh-Ug (218)' ellipse
+217 '219 – Unlabelled/Kr-Ma:Wh-Ug (219)' diamond
+218 '220 – Unlabelled/Kr-Ma:Wh-Ug (220)' triangle
+219 '221 – Unlabelled/Kr-Ma:Wh-Ug (221)' ellipse
+220 '222 - Unlabelled/Kr-Ma:Af (222)' ellipse
+221 '223 – Unlabelled/La-Af:Af-Ma (223)' ellipse
+222 '224 – Unlabelled/La-Af:Af-Ma (224)' triangle
+223 '225 – Unlabelled/La-Af:Af-Ma (225)' ellipse
+224 '226 – Unlabelled/La-Af:Af-Ma (226)' ellipse
+225 '227 – Unlabelled/Kr-Ma:Af (227)' triangle
+226 '228 – Unlabelled/Kr-Ma:Af (228)' ellipse
+227 '229 – Unlabelled/Kr-Ma:Af (229)' triangle
+228 '230 – Unlabelled/Kr-Ma:Af (230)' ellipse
+229 '231 – Unlabelled/Kr-Ma:Af (231)' ellipse
+230 '232 – Unlabelled/Kr-Ma:Af (232)' ellipse
+231 '233 – Unlabelled/Kr-Ma:Af (233)' triangle
+232 '234 – Unlabelled/Kr-Ma:Af (234)' triangle
+233 '235 – Unlabelled/Kr-Ma:Af (235)' ellipse
+234 '236 – Unlabelled/Uz:Af (236)' ellipse
+235 '237 – Unlabelled/Kr-Ma:Wh-Af (237)' ellipse
+236 '238 – Unlabelled/Kr-Ma:Af-Co (238)' triangle
+237 '239 – Unlabelled/Kr-Ma:Af-Co (239)' triangle
+238 '240 – Unlabelled/Af:Af-Co (240)' triangle
+239 '241 – Unlabelled/Wh:Af (241)' ellipse
+240 '242 – Unlabelled/Kr-Ma:Af (242)' triangle
+241 '243 – Unlabelled/Af:Ma (243)' ellipse
+242 '244 – Unlabelled/Af:Ma (244)' triangle
+243 '245 – Unlabelled/Af:Ma (245)' triangle
+244 '246 – Unlabelled/Af:Ma (246)' triangle
+245 '247 – Unlabelled/Wh-Kg:Ko-Wo (247)' ellipse
+246 '248 – Unlabelled/Wh-Kg:Ko-Wo (248)' ellipse
+247 '249 – Unlabelled/Wh-Kg:Ko-Wo (249)' ellipse
+248 '250 – Unlabelled/Wh-Kg:Ko-Wo (250)' ellipse
+249 '251 – Unlabelled/Wh-Kg:Ko-Wo (251)' ellipse
+250 '252 – Unlabelled/Wh-Kg:Ko-Wo (252)' triangle
+251 '253 – Unlabelled/Wh-Ug:Kr•Ma-Af (253)' ellipse
+252 '254 – Unlabelled/Wh-Ug:Kr•Ma-Af (254)' diamond
+253 'H – 301/Ug (301)' triangle
+254 'H – 302/Af-Ma:Kr (302)' triangle
+255 'H - 303/Af:Ma (303)' triangle
+256 'H - 304/Wh:Kr•Ma-Wh•Ug (304)' triangle
+257 'H – 305/Wh (305)' triangle
+258 'F - 401/Kr-Ma:Af (401)' ellipse
+259 'F - 402/Ak:Kr•Ug-Af (402)' ellipse
+260 'F - 403/Kr•Ma-Af:Kr•Ma-Af•Co (403)' ellipse
+261 'F - 404/Kr-Af:Kr•Ma-Af (404)' ellipse
+262 'F - 405/Kr-Ug:Ug (405)' ellipse
+263 'H - 501/Wh-Ug:Kr•Ma-Af (501)' triangle
+264 'H - 502/Wh-Ug:Kr•Ma-Af (502)' triangle
+265 'H - 503/Wh-Ug:Kr•Ma-Af (503)' triangle
+266 'H - 504/Wh-Ug:Kr•Ma-Af (504)' triangle
+267 'H - 505/Wh-Ug:Kr•Ma-Af (505)' triangle
+268 'H - 506/Kr-Af:Kr•Ma-Af (506)' triangle
+269 'H - 507/Ak:Kr•Ug-Af (507)' triangle
+270 'H - 508/Ak:Kr•Ug-Af (508)' triangle
+271 'H - 509/Ak:Kr•Ug-Af (509)' triangle
+272 'H - 510/Ak (510)' triangle
+273 'H - 511/Uz:Af (511)' triangle
+274 'H - 512/Un:Kr•Ma-Af (512)' triangle
+275 'H - 513/Kr-Af:Kr•Ma-Af (513)' triangle
+276 'H - 514/Kr:Ma (514)' triangle
+277 'H - 515/Kr-Af:Kr•Ma-Af (515)' triangle
+278 'H - 516/Wh-Wh•Ug:Wh-Af (516)' triangle
+279 'H - 517/Un:Kr•Ma-Af (517)' triangle
+280 'H - 518/Uz:Af (518)' triangle
+281 'H - 519/Uz:Kr-KrUg•Ug (519)' triangle
+282 'H - 520/Co:Af•Ug-Kr (520)' triangle
+283 'H - 521/Kr-Af:Kr•Ma-Af (521)' triangle
+284 'H - 522/Af-Ug:Kr (522)' triangle
+285 'H - 523/Kr-Ma:Af (523)' triangle
+286 'H - 524/Wh-Ma:Ko-Wo (524)' triangle
+287 'H - 525/Ak-Af:Af•Ma-Wh•Ug (525)' triangle
+288 'H - 526/Kr-Ma:Af-Co (526)' triangle
+289 'H - 527/Wh-Af:Wh-Af (527)' triangle
+290 'H - 528/Af (528)' triangle
+291 'H - 529/Kr:Ug (529)' triangle
+292 'H - 530/Wh:Ma (530)' triangle
+293 'H - 531/Un:Kr (531)' triangle
+294 'H - 532/Wh:Ug (532)' triangle
+295 'H - 533/La-Af:Af-Ma (533)' triangle
+296 'H - 534/Kr-Ma:Af-Co (534)' triangle
+297 'H - 535/Ug:Af (535)' triangle
+298 'H - 536/Kr:Ug (536)' triangle
+299 'H - 537/Kr-Ug:Kr (537)' triangle
+300 'H - 538/Kr:Kr•Ug-Ug (538)' triangle
+301 'H - 539/Af-Ug:Kr (539)' triangle
+302 'H - 540/La-Af:Af-Ma (540)' triangle
+303 'H - 541/Af-Ug:Kr (541)' triangle
+304 'H - 542/La:Af (542)' triangle
+305 'H - 543/Ak-Af:Af•Ma-Wh•Ug (543)' triangle
+306 'F - 544/Wh:Ug (544)' triangle
+307 'H - 545/Ak-Af:Af•Ma-Wh•Ug (545)' triangle
+308 'H - 546/Kr:Kr•Ug-Ug (546)' triangle
+309 'H - 547/Wh:Wh-Ug (547)' triangle
+310 'H - 548/Wh-Wh•Ug:WhAf•WhAf-Wh•Af (548)' triangle
+311 'H - 549/Af:Ug (549)' triangle
+312 'H - 550/Kr-Af:Kr•Ma-Af (550)' triangle
+313 'H - 551/Kr-Af:Kr•Ma-Af (551)' triangle
+314 'H - 552/Af (552)' triangle
+315 'H - 553/Af:Af-Co (553)' triangle
+316 'H - 554/Kr-Ma:Af-Co (554)' triangle
+317 'H - 555/Kr-Ma:Af-Co (555)' triangle
+318 'H - 556/Wh•Af-Wh•Af:Wh-Af (556)' triangle
+319 'H - 557/Kr-Af:Kr•Ma-Af (557)' triangle
+320 'F - 601/Kr-Ma:Af (601)' ellipse
+321 'F - 602/Wh-Ug:Kr•Ma-Af (602)' ellipse
+322 'F - 603/Wh-Ug:Kr•Ma-Af (603)' ellipse
+323 'F - 604/Kr-Ma:Af (604)' ellipse
+324 'F - 605/Kr-Ug:Af (605)' ellipse
+325 'F - 606/Kr-Af:Kr•Ma-Af (606)' ellipse
+326 'F - 607/Kr-Af:Kr•Ma-Af (607)' ellipse
+327 'F - 608/Af:Co (608)' ellipse
+328 'F - 609/Un:Ak (609)' ellipse
+329 'F - 610/Wh:Ug (610)' ellipse
+330 'F - 611/Wh-Ma:Ko-Wo (611)' ellipse
+331 'F - 612/Ak-Af:Kr•Ma-Af (612)' ellipse
+332 'F - 613/Uz:Af (613)' ellipse
+333 'F - 614/Un:Kr-KrUg•Ug (614)' ellipse
+334 'F - 615/Wh-Ma:Ko-Wo (615)' ellipse
+335 'F - 616/Af-Ug:Kr (616)' ellipse
+336 'F - 617/Co:Af•Ug-Kr (617)' ellipse
+337 'F - 618/Kr-Ma:Wh-Ug (618)' ellipse
+338 'F - 619/Wh:Kr•Ma-Wh•Ug (619)' ellipse
+339 'F - 620/Kr-Ma:Wh-Ug (620)' ellipse
+340 'F - 621/Wh:Kr•Ma-Wh•Ug (621)' ellipse
+341 'F - 622/Wh:Kr•Ma-Wh•Ug (622)' ellipse
+342 'F - 623/Kr-Ma:Af (623)' ellipse
+343 'F - 624/Ko:Wo (624)' ellipse
+344 'F - 625/Kr (625)' ellipse
+345 'F - 626/Kr (626)' ellipse
+346 'F - 627/Uz:Kr-KrUg•Ug (627)' ellipse
+347 'F - 628/Uz:Kr-KrUg•Ug (628)' ellipse
+348 'F - 629/Wh:Af (629)' ellipse
+349 'F - 630/Co:Af•Ug-Kr (630)' ellipse
+350 'F - 631/Co:Af•Ug-Kr (631)' ellipse
+351 'F - 632/Uz:Kr-KrUg•Ug (632)' ellipse
+352 'F - 633/Kr:Ma (633)' ellipse
+353 'F - 634/Ug:Kr-Ma (634)' ellipse
+354 'F - 635/Af (635)' ellipse
+355 'F - 636/Wh•Af-Wh•Af:Wh-Af (636)' ellipse
+356 'F - 637/Wh-Wh•Ug:WhAf•WhAf-Wh•Af (637)' ellipse
+357 'F - 638/Kr (638)' ellipse
+358 'F - 639/Kr-Ma:Af (639)' ellipse
+359 'F - 640/Kr-Af:Kr•Ma-Af (640)' ellipse
+360 'F - 641/Ma (641)' ellipse
+361 'H - 701/Kr-Ma:Af-Co (701)' triangle
+362 'H - 702/Wh-Wh•Ug:WhAf•WhAf-Wh•Af (702)' triangle
+363 'H - 703/Wh-Kg:Ko-Wo (703)' triangle
+364 'H - 704/Ug:Kr-Ma (704)' triangle
+365 'H - 705/Un:Ug-Kr•Ma (705)' triangle
+366 'H - 706/Wh:Af (706)' triangle
+367 'H - 707/Wh (707)' triangle
+368 'H - 708/Wh (708)' triangle
+369 'H - 709/Wh:Wh-Ug (709)' triangle
+370 'H - 710/Uz (710)' triangle
+371 'H - 711/Uz:Kr-KrUg•Ug (711)' triangle
+372 'H - 712/Af:Ma (712)' triangle
+373 'H - 713/Wo:Af (713)' triangle
+374 'H - 714/Kr:Af (714)' triangle
+375 'H - 715/Af:Ma (715)' triangle
+376 'H - 716/Af-Ma:Wh-Ug (716)' triangle
+377 'H - 717/Kr:Kr•Ug-Ug (717)' triangle
+378 'H - 718/Kr:Kr•Ug-Ug (718)' triangle
+379 'H - 719/Wh•Af-Wh•Af:Wh-Af (719)' triangle
+380 'H - 720/Un:Un-Af (720)' triangle
+381 'H - 721/Wh-Wh•Ug:Kr•Ma-Af (721)' triangle
+382 'H - 722/Kr-Ma:Af (722)' triangle
+383 'H - 723/Af:Af-Co (723)' triangle
+384 'H - 724/Ak:Af (724)' triangle
+385 'H - 725/Ak-Af:Af•Ma-Wh•Ug (725)' triangle
+386 'H - 726/Ak:Af (726)' triangle
+387 'H - 727/Ak:Af (727)' triangle
+388 'H - 728/Wh-Ma:Ko-Wo (728)' triangle
+389 'H - 729/Ak:Kr•Ug-Af (729)' triangle
+390 'H - 730/Ak:Kr•Ug-Af (730)' triangle
+391 'H - 731/La-Af:Af-Ma (731)' triangle
+392 'H - 732/Wh:Wh-Ug (732)' triangle
+393 'H - 733/Wh (733)' triangle
+394 'F - 801/Kr-Ma:Af-Co (801)' ellipse
+395 'F - 802/Wh-Wh•Ug:WhAf•WhAf-Wh•Af (802)' ellipse
+396 'F - 803/Kr-Ma:Af (803)' ellipse
+397 'F - 804/Kr:Kr•Ug-Ug (804)' ellipse
+398 'F - 805/Uz:Kr-KrUg•Ug (805)' ellipse
+399 'F - 806/Uz:Kr-KrUg•Ug (806)' ellipse
+400 'F - 807/Af•Ma-Kr:WhAf•WhAf-Wh•Af (807)' ellipse
+401 'F - 808/Af•Ma-Kr:WhAf•WhAf-Wh•Af (808)' ellipse
+402 'F - 809/Af-Ug:Kr (809)' ellipse
+403 'F - 810/Af-Ug:Kr (810)' ellipse
+404 'F - 811/Af-Ma:Af•Ug-Kr (811)' ellipse
+405 'F - 812/Un:Wh-Af (812)' ellipse
+406 'F - 813/Ma (813)' ellipse
+407 'F - 814/Af (814)' ellipse
+408 'F - 815/Af-Ma:Wh-Ug (815)' ellipse
+409 'F - 816/Wh-Ma:Ko-Wo (816)' ellipse
+410 'F - 817/Wh-Ma:Ko-Wo (817)' ellipse
+*arcs
+1 4 1
+1 6 1
+2 4 1
+2 6 1
+3 22 1
+3 17 1
+4 22 1
+4 17 1
+5 15 1
+6 15 1
+7 291 1
+7 34 1
+7 33 1
+8 20 1
+8 19 1
+8 21 1
+8 18 1
+9 306 1
+9 44 1
+9 294 1
+9 329 1
+9 35 1
+9 38 1
+9 46 1
+9 42 1
+10 20 1
+10 19 1
+10 21 1
+10 18 1
+11 28 1
+11 345 1
+12 26 1
+12 375 1
+13 30 1
+14 28 1
+14 345 1
+15 30 1
+17 262 1
+16 26 1
+16 375 1
+21 31 1
+21 32 1
+23 55 1
+23 47 1
+23 43 1
+23 309 1
+23 48 1
+23 52 1
+23 49 1
+22 291 1
+22 306 1
+22 34 1
+22 33 1
+22 44 1
+22 294 1
+22 329 1
+22 35 1
+22 38 1
+22 46 1
+22 42 1
+25 41 1
+25 36 1
+25 37 1
+25 40 1
+25 344 1
+24 386 1
+24 384 1
+24 387 1
+27 386 1
+27 384 1
+27 387 1
+26 254 1
+29 369 1
+28 254 1
+31 55 1
+31 47 1
+31 43 1
+31 309 1
+31 48 1
+31 52 1
+31 49 1
+30 376 1
+30 408 1
+30 39 1
+32 369 1
+46 392 1
+45 392 1
+59 68 1
+59 72 1
+58 72 1
+57 68 1
+63 83 1
+63 74 1
+63 80 1
+62 71 1
+62 76 1
+62 253 1
+61 311 1
+60 71 1
+60 76 1
+60 253 1
+68 380 1
+69 393 1
+70 85 1
+70 81 1
+70 298 1
+71 85 1
+71 81 1
+71 298 1
+64 75 1
+65 83 1
+65 74 1
+65 80 1
+66 380 1
+67 75 1
+76 311 1
+77 87 1
+77 93 1
+77 92 1
+77 97 1
+77 90 1
+77 357 1
+77 88 1
+78 94 1
+78 91 1
+78 95 1
+78 348 1
+78 89 1
+79 94 1
+79 100 1
+79 91 1
+79 99 1
+79 374 1
+79 96 1
+79 108 1
+79 95 1
+79 348 1
+79 89 1
+79 102 1
+72 289 1
+73 393 1
+74 100 1
+74 99 1
+74 374 1
+74 96 1
+74 108 1
+74 102 1
+75 289 1
+85 115 1
+84 115 1
+86 324 1
+86 103 1
+81 262 1
+80 87 1
+80 90 1
+80 357 1
+80 88 1
+83 300 1
+83 308 1
+83 377 1
+83 117 1
+83 397 1
+83 378 1
+82 93 1
+82 92 1
+82 97 1
+101 333 1
+98 118 1
+111 124 1
+111 123 1
+111 401 1
+111 400 1
+104 282 1
+104 336 1
+104 349 1
+104 350 1
+105 404 1
+105 282 1
+105 336 1
+105 349 1
+105 350 1
+127 130 1
+127 133 1
+127 148 1
+126 130 1
+126 133 1
+126 148 1
+137 343 1
+136 327 1
+136 164 1
+136 165 1
+136 166 1
+136 163 1
+139 293 1
+138 293 1
+141 172 1
+141 276 1
+141 170 1
+140 169 1
+143 373 1
+142 352 1
+142 178 1
+142 177 1
+129 406 1
+129 147 1
+128 150 1
+128 136 1
+131 150 1
+131 136 1
+130 406 1
+130 147 1
+133 153 1
+133 360 1
+132 153 1
+132 360 1
+135 161 1
+134 343 1
+152 290 1
+152 354 1
+152 185 1
+153 162 1
+153 186 1
+154 407 1
+154 187 1
+155 161 1
+156 407 1
+156 187 1
+157 304 1
+158 181 1
+159 297 1
+144 162 1
+144 186 1
+145 290 1
+145 354 1
+145 185 1
+146 174 1
+146 173 1
+147 172 1
+147 276 1
+147 170 1
+147 169 1
+148 192 1
+148 199 1
+148 194 1
+148 198 1
+148 292 1
+148 193 1
+149 327 1
+149 164 1
+149 165 1
+149 166 1
+149 163 1
+150 373 1
+151 183 1
+151 182 1
+171 234 1
+171 280 1
+171 332 1
+171 273 1
+170 227 1
+170 226 1
+170 358 1
+170 230 1
+170 233 1
+170 229 1
+170 320 1
+170 228 1
+170 258 1
+170 342 1
+170 220 1
+170 231 1
+170 225 1
+170 323 1
+170 285 1
+170 232 1
+168 383 1
+168 238 1
+175 304 1
+174 209 1
+174 208 1
+172 235 1
+162 317 1
+161 246 1
+161 250 1
+161 245 1
+161 249 1
+161 363 1
+161 248 1
+161 247 1
+160 239 1
+160 366 1
+160 202 1
+167 315 1
+186 240 1
+186 382 1
+186 396 1
+187 396 1
+184 215 1
+178 218 1
+178 219 1
+178 339 1
+178 217 1
+178 216 1
+178 337 1
+179 368 1
+179 367 1
+176 181 1
+180 368 1
+180 367 1
+181 223 1
+181 302 1
+181 224 1
+181 295 1
+181 222 1
+181 391 1
+181 221 1
+205 274 1
+204 279 1
+207 328 1
+206 365 1
+203 405 1
+202 235 1
+197 328 1
+239 405 1
+239 278 1
+254 124 1
+254 123 1
+254 401 1
+254 400 1
+255 404 1
+253 214 1
+253 213 1
+253 297 1
+253 353 1
+253 212 1
+253 210 1
+253 364 1
+253 211 1
+272 389 1
+272 390 1
+272 116 1
+272 270 1
+272 271 1
+272 119 1
+272 269 1
+272 259 1
+272 122 1
+276 361 1
+276 316 1
+276 288 1
+276 296 1
+276 236 1
+276 237 1
+276 394 1
+258 125 1
+257 192 1
+257 199 1
+257 194 1
+257 31 1
+257 198 1
+257 292 1
+257 193 1
+257 32 1
+262 300 1
+262 308 1
+262 377 1
+262 117 1
+262 397 1
+262 378 1
+304 223 1
+304 302 1
+304 224 1
+304 295 1
+304 222 1
+304 391 1
+304 221 1
+306 266 1
+306 321 1
+306 263 1
+306 264 1
+306 322 1
+306 265 1
+309 395 1
+309 362 1
+309 278 1
+309 310 1
+309 356 1
+311 106 1
+311 335 1
+311 112 1
+311 303 1
+311 402 1
+311 105 1
+311 107 1
+311 113 1
+311 403 1
+311 120 1
+311 114 1
+311 284 1
+311 121 1
+311 301 1
+311 110 1
+314 195 1
+314 189 1
+314 190 1
+314 241 1
+314 372 1
+314 244 1
+314 255 1
+314 201 1
+314 200 1
+314 243 1
+314 191 1
+314 188 1
+314 196 1
+314 242 1
+289 318 1
+289 355 1
+289 379 1
+289 109 1
+289 111 1
+291 54 1
+291 51 1
+291 53 1
+291 50 1
+291 299 1
+291 56 1
+292 330 1
+292 388 1
+292 409 1
+292 334 1
+292 410 1
+292 286 1
+293 215 1
+293 209 1
+293 208 1
+294 267 1
+294 252 1
+294 251 1
+298 324 1
+298 103 1
+343 245 1
+343 388 1
+343 334 1
+343 248 1
+343 286 1
+343 247 1
+343 246 1
+343 330 1
+343 250 1
+343 249 1
+343 409 1
+343 363 1
+343 410 1
+342 331 1
+339 340 1
+339 341 1
+337 338 1
+337 256 1
+348 318 1
+348 355 1
+348 379 1
+348 109 1
+348 111 1
+345 41 1
+345 36 1
+345 37 1
+345 40 1
+345 344 1
+344 54 1
+344 51 1
+344 53 1
+344 50 1
+344 299 1
+344 56 1
+327 361 1
+327 317 1
+327 315 1
+327 316 1
+327 288 1
+327 383 1
+327 296 1
+327 236 1
+327 237 1
+327 238 1
+327 394 1
+324 389 1
+324 390 1
+324 116 1
+324 270 1
+324 271 1
+324 119 1
+324 269 1
+324 259 1
+324 122 1
+323 267 1
+323 252 1
+323 251 1
+320 266 1
+320 321 1
+320 263 1
+320 264 1
+320 322 1
+320 265 1
+329 218 1
+329 219 1
+329 339 1
+329 217 1
+329 216 1
+329 337 1
+375 376 1
+375 408 1
+375 39 1
+374 283 1
+374 326 1
+374 277 1
+374 275 1
+374 261 1
+374 359 1
+374 312 1
+374 313 1
+374 325 1
+374 268 1
+374 319 1
+369 381 1
+368 338 1
+368 256 1
+370 346 1
+370 371 1
+370 398 1
+370 351 1
+370 347 1
+370 281 1
+370 399 1
+382 260 1
+378 125 1
+357 106 1
+357 335 1
+357 112 1
+357 303 1
+357 402 1
+357 105 1
+357 107 1
+357 113 1
+357 403 1
+357 120 1
+357 114 1
+357 284 1
+357 121 1
+357 301 1
+357 110 1
+358 275 1
+358 261 1
+358 312 1
+358 283 1
+358 326 1
+358 277 1
+358 359 1
+358 274 1
+358 313 1
+358 268 1
+358 325 1
+358 319 1
+358 279 1
+352 214 1
+352 213 1
+352 353 1
+352 212 1
+352 210 1
+352 364 1
+352 211 1
+353 365 1
+354 234 1
+354 227 1
+354 280 1
+354 226 1
+354 358 1
+354 230 1
+354 233 1
+354 229 1
+354 320 1
+354 228 1
+354 258 1
+354 342 1
+354 220 1
+354 231 1
+354 225 1
+354 323 1
+354 285 1
+354 332 1
+354 232 1
+354 273 1
+355 395 1
+355 362 1
+355 310 1
+355 356 1
+367 340 1
+367 341 1
+360 195 1
+360 189 1
+360 190 1
+360 241 1
+360 372 1
+360 244 1
+360 255 1
+360 201 1
+360 200 1
+360 243 1
+360 191 1
+360 188 1
+360 196 1
+360 242 1
+408 305 1
+408 385 1
+408 287 1
+408 307 1
+406 352 1
+406 178 1
+406 174 1
+406 177 1
+406 183 1
+406 182 1
+406 173 1
+407 240 1
+407 239 1
+407 366 1
+407 202 1
+407 382 1
+394 260 1
+397 346 1
+397 118 1
+397 371 1
+397 398 1
+397 351 1
+397 347 1
+397 281 1
+397 333 1
+397 399 1
+396 381 1
+386 331 1
+384 305 1
+384 385 1
+384 287 1
+384 307 1
+*edges
+1 2 1
+3 4 1
+5 6 1
+7 22 1
+8 10 1
+9 22 1
+11 14 1
+12 16 1
+13 15 1
+81 17 1
+257 21 1
+23 31 1
+25 345 1
+24 27 1
+26 28 1
+29 32 1
+375 30 1
+45 46 1
+58 59 1
+57 59 1
+63 65 1
+61 76 1
+60 62 1
+69 73 1
+70 71 1
+64 67 1
+66 68 1
+77 82 1
+77 80 1
+78 79 1
+72 75 1
+74 79 1
+84 85 1
+298 86 1
+83 262 1
+101 397 1
+98 397 1
+254 111 1
+104 105 1
+255 105 1
+126 127 1
+136 149 1
+138 139 1
+141 147 1
+140 147 1
+143 150 1
+142 406 1
+129 130 1
+128 131 1
+132 133 1
+135 155 1
+134 137 1
+154 156 1
+157 175 1
+158 176 1
+253 159 1
+144 153 1
+145 152 1
+146 406 1
+257 148 1
+151 406 1
+171 354 1
+170 354 1
+168 327 1
+293 174 1
+172 202 1
+162 327 1
+161 343 1
+160 407 1
+167 327 1
+186 407 1
+186 187 1
+293 184 1
+178 329 1
+179 180 1
+304 181 1
+205 358 1
+204 358 1
+206 353 1
+203 239 1
+197 207 1
+309 239 1
+253 352 1
+272 324 1
+276 327 1
+378 258 1
+306 320 1
+309 355 1
+311 357 1
+314 360 1
+289 348 1
+291 344 1
+292 343 1
+294 323 1
+386 342 1
+367 339 1
+368 337 1
+369 396 1
+370 397 1
+382 394 1
+374 358 1
+384 408 1

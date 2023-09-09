@@ -1,0 +1,7905 @@
+*Network Ore graph Manus.puc
+
+*vertices 2821
+1 'JOHANIS LOKES CHANAN (1)' triangle
+2 'KAROL SORI TAPAS (2)' triangle
+3 'LUKAS POKUS NDROSOU (3)' triangle
+4 'PETRUS PONYELOU PONOWAN (4)' triangle
+5 'PILIBUS POLIAP PALIAU (5)' triangle
+6 'LUKAS BONYALO PONYO (6)' triangle
+7 'TOMAS POKAKES TUAIN (7)' triangle
+8 'BENEDIK KANAMONY SISI (8)' triangle
+9 'PRANIS KOWA PONGI (9)' triangle
+10 'MATIAS SORI POIYO (10)' triangle
+11 'MELIKIOR CHOLAI POMALAT (11)' triangle
+12 'PIUS SAMOL POKANAU (12)' triangle
+13 'JOSEP TAPAS KALOI (13)' triangle
+14 'PRANIS KATIWAI CHAWAN (14)' triangle
+15 'PRANIS POKIAP CHAPONAN (15)' triangle
+16 'OTTO MANUAI SELAN (16)' triangle
+17 'KAROL MATAWAI POKATON (17)' triangle
+18 'PETRUS POKIAP SELAN (18)' triangle
+19 'BENEDIK PONDRAKEN NYAMAL (19)' triangle
+20 'MATEUS MWE NANE (20)' triangle
+21 'SIMEON KUTAN SAMOL NANE (21)' triangle
+22 'BENEDIK POKANAU (22)' triangle
+23 'RAPAIL MANUAI PWISEU (23)' triangle
+24 'STEPAN KALOI POLYON (24)' triangle
+25 'KAROL KILEPAK POIYO (25)' triangle
+26 'MELIKIOR NYAUMALAI NYANGINDRAI (26)' triangle
+27 'PETRUS POMAT POKAIYO (27)' triangle
+28 'KILIMINIS NYAMAL KALUWIN (28)' triangle
+29 'ARNOLD BOPAU PONDRAKEN (29)' triangle
+30 'RENEUS POSUMAN NANE (30)' triangle
+31 'MIKAIL KILEPAK NYAMAL (31)' triangle
+32 'PIUS MOLEAN MALAI (32)' triangle
+33 'KAROL KUTAN POLUMWE (33)' triangle
+34 'MAKIS TANI POKANAU (34)' triangle
+35 'OTTO NAUNA POLONGOU (35)' triangle
+36 'ALOIS KANAWI POKATON (36)' triangle
+37 'JOHANIS NOAN POLI (37)' triangle
+38 'MATEUS KUMAION (38)' triangle
+39 'AKUSTIN KARAMAN POMELEU (39)' triangle
+40 'SIMON POPILEL SELAN (40)' triangle
+41 'ALOIS POKIAP PITILU (41)' triangle
+42 'FRANCIS TANOU PATALIAN (42)' triangle
+43 'MARTIN KANAWI (43)' triangle
+44 'JOHN KILEPAK KISOKAU (44)' triangle
+45 'MATEUS POCHELON POSELAUT (45)' triangle
+46 'TOMAS POLIN POLONGOU (46)' triangle
+47 'KASPAR POMELEU (47)' triangle
+48 'KRISTOP PONDROS PONGI (48)' triangle
+49 'MAKIS TOPAL MOLEAN (49)' triangle
+50 'ALOIS MANOI SALE (50)' triangle
+51 'PETRUS KANANDRU PAKA (51)' triangle
+52 'SELAN PAPI (52)' triangle
+53 'MAKIS KEYAI KAKESAN (53)' triangle
+54 'PETRUS PONYELOU KALOI (54)' triangle
+55 'JOHN KISOKAU SAMOL (55)' triangle
+56 'PETRUS SELAN KISOKAU (56)' triangle
+57 'JOHN SELAN PITILU (57)' triangle
+58 'PAULUS POMAT PITILU (58)' triangle
+59 'JOHANIS MATAWAI POKANAU (59)' triangle
+60 'AKUSTIN NOAN CHOLAI (60)' triangle
+61 'TOMAS CHOKAL MESTIL (61)' triangle
+62 'PETRUS NDRITAKO (62)' triangle
+63 'PRANIS PAKOP POSELAUT (63)' triangle
+64 'LUTWIK POPEO (64)' triangle
+65 'PAULUS NYAMAL POMO (65)' triangle
+66 'JOHANIS TAINI POMAI (66)' triangle
+67 'PAULUS KALOI NDRITAKO (67)' triangle
+68 'TOMAS PANKIAU NOAN (68)' triangle
+69 'KAROL MANOI PWENDRILEI (69)' triangle
+70 'TOMAS POMAT MANUAI (70)' triangle
+71 'PWENDRILEI TAPAS SELAN (71)' triangle
+72 'PILIBUS POMAT POKANAU (72)' triangle
+73 'TOMAS POKIAP MOLEAN (73)' triangle
+74 'PRANIS POLUM SELAN (74)' triangle
+75 'PETRUS CHOLAI NDROSOU (75)' triangle
+76 'PRANIS KANDRA (76)' triangle
+77 'FRANCIS PALIAU CHOLAI (77)' triangle
+78 'MOLEAN NDRITAKO (78)' triangle
+79 'POCHELAU KILEPAK (79)' triangle
+80 'KANAMONY (NANE) LANGARAP (80)' triangle
+81 'PONOWAN BONYALO (81)' triangle
+82 'POPICH KUTAN SAMOL (82)' triangle
+83 'KATIWAI POKIAP (83)' triangle
+84 'POPILEI POLUM (84)' triangle
+85 'KRISTOP NOAN (85)' triangle
+86 'TAINI NDRITAKO (86)' triangle
+87 'POLUME CHOLAI (87)' triangle
+88 'SELAN POLUM (88)' triangle
+89 'KALUWIN POMAT (89)' triangle
+90 'NDRITAKO PWOCHALON (90)' triangle
+91 'KANAWI POSANGAT (91)' triangle
+92 'KISAPWAI KITEMONG (92)' triangle
+93 'MATAWAI NOAN (93)' triangle
+94 'SELAN POSANGAT (94)' triangle
+95 'KANAWI KANANDRU (95)' triangle
+96 'PONOWAN KUMAION (96)' triangle
+97 'PWENDRILEI MATAWAI (97)' triangle
+98 'PONOWAN POKAKES (98)' triangle
+99 'CHOKOPAT POLIN (99)' triangle
+100 'KUSUNAN KUMAION (100)' triangle
+101 'POWASEO SAMOL NANE (101)' triangle
+102 'CHOXAL POMAT (102)' triangle
+103 'MOLEAN TAPAS KALOI (103)' triangle
+104 'SULUAN KILEPAK (104)' triangle
+105 'PWENDRILEI CHOKAL (105)' triangle
+106 'POKANAU SUEAN (106)' triangle
+107 'KALUWIN BONYALO (107)' triangle
+108 'KANAWI SORI (108)' triangle
+109 'MANUAI SORI (109)' triangle
+110 'POKOWEI MANOI (110)' triangle
+111 'BOPAU KATIWAI (111)' triangle
+112 'CHAWAN CHOLAI (112)' triangle
+113 'POLOU SORI (113)' triangle
+114 'KANAWI POKUS (114)' triangle
+115 'RAPI KANAMONY SISI (115)' triangle
+116 'PEPI PAKOP (116)' triangle
+117 'BONYALO NYANGINDRAI (117)' triangle
+118 'LITAU POMAT (118)' triangle
+119 'PWENDRILEI PONDRAKEN (119)' triangle
+120 'SORI MATAWAI (120)' triangle
+121 'ABRAM PWENDRILEI POKANAU (121)' triangle
+122 'POPICH CHANACHAN (122)' triangle
+123 'KIALO KEYAI POLUME (123)' triangle
+124 'MANUAI POMAT (124)' triangle
+125 'CHALAPI POKIAP (125)' triangle
+126 'MANUEL MAK (o/RAPAIL MAK) (126)' triangle
+127 'CHALAPI CHOLAI (127)' triangle
+128 'KOMWET POLIAP (128)' triangle
+129 'POLIN POCHELON (129)' triangle
+130 'POSELAUT POCHELON (130)' triangle
+131 'SELAN POKIAP MANUAI (131)' triangle
+132 'PRANIS CHOLAI POYAP (132)' triangle
+133 'KITEMONG MOLEAN (133)' triangle
+134 'PWAU KITO NDRABITO (134)' triangle
+135 'BUKAHAU MAK [o/ RAPAIL MAK] (135)' triangle
+136 'CHAUKA PWENDRILEI POKANAU (136)' triangle
+137 'KALUWIN SAMOL (137)' triangle
+138 'SELAN NYAMAL (138)' triangle
+139 'BOPAU POKAKES (139)' triangle
+140 'KIAPIN KEYAI POLUME (140)' triangle
+141 'SALEYAU PWENDRILEI POKANAU (141)' triangle
+142 'PALIAU POMAT POKANAU (142)' triangle
+143 'PALIAU NDRIOL (143)' triangle
+144 'POKANAU SELAN PAPI (144)' triangle
+145 'PONDROS CHOLAI (145)' triangle
+146 'POWASEO POKAKES (146)' triangle
+147 'PONDROS PONGI (147)' triangle
+148 'POKIAP PAKOP (148)' triangle
+149 'PIUS SELAN POLYON (149)' triangle
+150 'KAUBOI ANAKAPIS (150)' triangle
+151 'POKAIYO CHOLAI (151)' triangle
+152 'MOLEAN POSELAUT (152)' triangle
+153 'Joanna Pokanau (153)' ellipse
+154 'Teresa Yawow (154)' ellipse
+155 'Sepa Nauna Noan (155)' ellipse
+156 'Tonia Kichawen Kisokau (156)' ellipse
+157 'Benedikta Nyalawen Pokanau (157)' ellipse
+158 'Paula Indilo Pochimel (158)' ellipse
+159 'Rene Kapamolae Chaponan (159)' ellipse
+160 'Rosa Alupwai Samol (160)' ellipse
+161 'Kawetan Noan (161)' ellipse
+162 'Nyaulu Gizekup (162)' ellipse
+163 'Rikata Pwenchiam Manoi (163)' ellipse
+164 'Ilan Manus (164)' ellipse
+165 'Pinkes Pomisim (165)' ellipse
+166 'Elizabeta Kiteni Nyangindrai (166)' ellipse
+167 'Ipony Ponowan (167)' ellipse
+168 'Kisolel Nyamel (168)' ellipse
+169 'Rosa Molong Pongi (169)' ellipse
+170 'Anna Nyandruan Paliau (170)' ellipse
+171 'Tonia Ipau Pokaton (171)' ellipse
+172 'Kristina Alupwai (172)' ellipse
+173 'Benedikta Nyaulu Saleu (173)' ellipse
+174 'Saundrang Tapas (174)' ellipse
+175 'Maria Nyandros Chaponan (175)' ellipse
+176 'Anna Nyamusim Kitachet (176)' ellipse
+177 'Katerina Piwen Kiapung (177)' ellipse
+178 'Taliye Karotan (178)' ellipse
+179 'Monika Kauncho Papi (179)' ellipse
+180 'Salikon Poselaut (180)' ellipse
+181 'Anna Kiteni Pataran (181)' ellipse
+182 'Ilan Lokowa (182)' ellipse
+183 'Anna Chimolen Molean (183)' ellipse
+184 'Ilan Pokalong (184)' ellipse
+185 'Ilan ["Kita"] Katiwai (185)' ellipse
+186 'Lomot Kutan Samol (186)' ellipse
+187 'Piwen Pitilu (187)' ellipse
+188 'Aloisia Nyakakes Poli (188)' ellipse
+189 'Teresia Nyalawen Nyamal (189)' ellipse
+190 'Nyawaseu Pokaiyo (190)' ellipse
+191 'Teresia Makalita Tapas (191)' ellipse
+192 'Aliperta Lokowa (192)' ellipse
+193 'Agnes Nyalawen Chaponan (193)' ellipse
+194 'Monika Nauna Manuai (194)' ellipse
+195 'Siska Nyapin Pwochon (195)' ellipse
+196 'Kisolel Kialo (196)' ellipse
+197 'Maria Nyandros Kanawi (197)' ellipse
+198 'Julian Nyalin Pongi (198)' ellipse
+199 'Matelena Sosongan Kakesan (199)' ellipse
+200 'Nyachalau Ponkowen (200)' ellipse
+201 'Lauwyang Pokaiyo (201)' ellipse
+202 'Nyalaiap Pomekeo (202)' ellipse
+203 'Rene Ikanau Pwendrilei (203)' ellipse
+204 'Rita Alupwai Molean (204)' ellipse
+205 'Matrinde Ipau Manoi (205)' ellipse
+206 'Sila Nyandraken Selan (206)' ellipse
+207 'Maria Peita Tapas (207)' ellipse
+208 'Sophia Nyandros Kaitan (208)' ellipse
+209 'Teresia Ikanau Manus (209)' ellipse
+210 'Joanna Kapon Katiwai (210)' ellipse
+211 'Anna Molong Nyangindrai (211)' ellipse
+212 'Sapina Ipul Ndritako (212)' ellipse
+213 'Nyalawen Kaloi (213)' ellipse
+214 'Taltye Poliap (214)' ellipse
+215 'Nyamai Kilepak (215)' ellipse
+216 'Pwailep Poliap (216)' ellipse
+217 'Lomot Kisokau (217)' ellipse
+218 'Nyalawen Molean (218)' ellipse
+219 'Filipina Piwen Manuai (219)' ellipse
+220 'Indrilo Popwal (220)' ellipse
+221 'Anastasia Nyalel Suean (221)' ellipse
+222 'Aliponsa Wini Kamit (222)' ellipse
+223 'Kopa Piwen Pwochon (223)' ellipse
+224 'Nyalawen Molean (224)' ellipse
+225 'Nyakupwen Paliau (225)' ellipse
+226 'Maria Lomot Kio (226)' ellipse
+227 'Kawetan Kisae (227)' ellipse
+228 'Ilan Powaseu (228)' ellipse
+229 'PRANIS CHANACHAN MANUS (229)' triangle
+230 'PAULUS SUEAN POKANAU (230)' triangle
+231 'Mikaela Nyakop Molean (231)' ellipse
+232 'Rosina Pwailep Kiapung (232)' ellipse
+233 'Chimolen Manoi (233)' ellipse
+234 'Nyalin Kitachet (234)' ellipse
+235 'Sisilia Nyakakes Pomai (235)' ellipse
+236 'Piwen Kumaut Popeo (236)' ellipse
+237 'Krisanta Ipau Kaloan (237)' ellipse
+238 'Nyawali Malai (238)' ellipse
+239 'Nyalaiap Pomakeo (239)' ellipse
+240 'Nyaulu Poliap (240)' ellipse
+241 'Ilan Poselaut (241)' ellipse
+242 'Kristina Nyausai Laloan (242)' ellipse
+243 'Maria Ipau Poteki (243)' ellipse
+244 'Fransiska Nyapin Poli (244)' ellipse
+245 'Matrinde Piwen Manoi (245)' ellipse
+246 'Jakopa Piwen Kanamony (246)' ellipse
+247 'Piwen Polongou (247)' ellipse
+248 'Lutwika Pwailep Pasi (248)' ellipse
+249 'Nyakop Malai (249)' ellipse
+250 'Kiatrut Lomot Ndrosou (250)' ellipse
+251 'Tumolo Manoi (251)' ellipse
+252 'Nyawali Malai (252)' ellipse
+253 'Piwen Tyalapan (253)' ellipse
+254 'Maria Nyawali Samol (254)' ellipse
+255 'Karola Piwen Kangol (255)' ellipse
+256 'Nyarames Pokaon (256)' ellipse
+257 'Nyakupwen Ikanau Samol (257)' ellipse
+258 'Nyawali Polumwe (258)' ellipse
+259 'Maria Kisapwai Manoi (259)' ellipse
+260 'KASPAR KILEPAK NYANGINDRAI (260)' triangle
+261 'MARTIN POCHELON TAPAS (261)' triangle
+262 'BERNAT POCHELAU MANUAI (262)' triangle
+263 'Pwailep Piwen Manoi (263)' ellipse
+264 'Sila Molong Kaloi (264)' ellipse
+265 'Ipak Manuai (265)' ellipse
+266 'Nyasangat Mwe (266)' ellipse
+267 'Kauyap Pondraken (267)' ellipse
+268 'Nyandros Pomat (268)' ellipse
+269 'Nyakupwen Ponyelou (269)' ellipse
+270 'Tuain Manuai (270)' ellipse
+271 'Kauyap Katiwai (271)' ellipse
+272 'Nyalapan Kilepak (272)' ellipse
+273 'Ipak Langarap (273)' ellipse
+274 'Nialam Langarap (274)' ellipse
+275 'Lauwyang Manuai (275)' ellipse
+276 'Nyalapan Pomat (276)' ellipse
+277 'Piwen Pondros (277)' ellipse
+278 'Pikawas Poliap (278)' ellipse
+279 'Elen Popilel (279)' ellipse
+280 'Patulam Pokiap (280)' ellipse
+281 'Nyalaiap Matawai (281)' ellipse
+282 'Nyalangis Pankiau (282)' ellipse
+283 'Nyalawen Kaluwin (283)' ellipse
+284 'Nyalawen Pokowei (284)' ellipse
+285 'Ndriol Mwe (285)' ellipse
+286 'Nyachalau Kanawi (286)' ellipse
+287 'Nyawali Kitemong (287)' ellipse
+288 'Kapon Poliap (288)' ellipse
+289 'Kauncho Popilel (289)' ellipse
+290 'Ikanau Chapau (290)' ellipse
+291 'Melen Samol (291)' ellipse
+292 'Nyalaiap Polin (292)' ellipse
+293 'Nyakakes Kamit (293)' ellipse
+294 'Piwen Pokiap (294)' ellipse
+295 'Ipau Kiapin (295)' ellipse
+296 'Kisolel Kilepak (296)' ellipse
+297 'Lauwyang Suean (297)' ellipse
+298 'Sori Pokakes (298)' ellipse
+299 'Piwen Pondraken (299)' ellipse
+300 'Ikanau Molean (300)' ellipse
+301 'Pwailep Sain Manoi (301)' ellipse
+302 'Nyalapan Pochalon (302)' ellipse
+303 'Kiteni Kanamony (303)' ellipse
+304 'Missis Pomat (304)' ellipse
+305 'Niasul Langarap (305)' ellipse
+306 'Ipam Kiapin (306)' ellipse
+307 'Tutu Manuai (307)' ellipse
+308 'Ipau Kaloi (308)' ellipse
+309 'Nialapan Noan (309)' ellipse
+310 'Ilan Kitemong (310)' ellipse
+311 'Kiteni Kanandru (311)' ellipse
+312 'Lomot Popich (312)' ellipse
+313 'Nyalam Chauka (313)' ellipse
+314 'Kusunan Piuru Matawai (314)' ellipse
+315 'Ndrasol (from Nohang) (315)' ellipse
+316 'Ikanau Sori (316)' ellipse
+317 'Lauwyang Manoi (317)' ellipse
+318 'Chimolen Matawai (318)' ellipse
+319 'Nyawaseu Bonyalo (319)' ellipse
+320 'Patulam Taini (320)' ellipse
+321 'Kumaut Keyai (321)' ellipse
+322 'Nyalawen Bopau (322)' ellipse
+323 'Maria Nyakamai (323)' ellipse
+324 'Pipiana Lomot Litau (324)' ellipse
+325 'Molong Ndritako (325)' ellipse
+326 'Lomot Suean (326)' ellipse
+327 'Piwen Langarap (327)' ellipse
+328 'Ipau Chanachan (328)' ellipse
+329 'Nauna Pondros (329)' ellipse
+330 'Laris Lima (330)' ellipse
+331 'Piwen Kumaion (331)' ellipse
+332 'Pwenchiam Kiteiap (332)' ellipse
+333 'Tawali Poliap (333)' ellipse
+334 'Kiteni Bonyalo (334)' ellipse
+335 'Piuru Molean [o/ KAROL MOLEAN (335)' ellipse
+336 'KALOI TAPAS (336)' triangle
+337 'POKAKES BOPAU PONDRAKEN (337)' triangle
+338 'KANAWI BONYALO (338)' triangle
+339 'POWASEU POMAT (339)' triangle
+340 'POKATON PALIAU (340)' triangle
+341 'CHANACHAN KUMAION (341)' triangle
+342 'KITEIAP KATIWAI (342)' triangle
+343 'Nyalam Pakop (343)' ellipse
+344 'POKANAU PWENDRILEI (344)' triangle
+345 'CHOKAL MANUAI (345)' triangle
+346 'Ndriol Pomat (346)' triangle
+347 'POSANAU CHAPAU (347)' triangle
+348 'Imony Pokiap (348)' triangle
+349 'POLIN KISOKAU (349)' triangle
+350 'MOLEAN POKIAP (350)' triangle
+351 'CHOLAI NOAN (351)' triangle
+352 'NAUNA CHOLAI (352)' triangle
+353 'Ikanau Pondros (353)' ellipse
+354 'PONYELOU PONDROS (354)' triangle
+355 'Nyachacheng Polin (355)' ellipse
+356 'Sosongan Popilel (356)' ellipse
+357 'SELAN POMAT (357)' triangle
+358 'CHAMUKO POKUS (358)' triangle
+359 'KISAPWAI TAINI (359)' triangle
+360 'CHAUKA CHANACHAN (360)' triangle
+361 'PWAYIL POKAKES (361)' triangle
+362 'KITOLI SUEAN (362)' triangle
+363 'Kisolel Sori (363)' ellipse
+364 'POLOPWE KEYAI (364)' triangle
+365 'Itong Suean (365)' ellipse
+366 'Meri Kisokau (366)' ellipse
+367 'Kiapunk Poliap (367)' ellipse
+368 'SELAN TAPAS (368)' triangle
+369 'Chimolen Ponyelou (369)' ellipse
+370 'Ipak Ponyelou Ponowan (370)' ellipse
+371 'Ipau Kanandru (371)' ellipse
+372 'TAPAS NYAMAL (372)' triangle
+373 'CHOKAL POLIN (373)' triangle
+374 'POKATON PALIAU POMELEU (374)' triangle
+375 'Nyandros Nyamal (375)' ellipse
+376 'POSEYAP NOAN (376)' triangle
+377 'Lomot Selan (377)' ellipse
+378 'Nyachalau Matawai (378)' ellipse
+379 'Aloisia Nyalawen Pomai (380)' ellipse
+380 'Nyakupwen Pokanau (381)' ellipse
+381 'Maria Kichawen Pataran (382)' ellipse
+382 'Nyawali Molong Pokanau (383)' ellipse
+383 'Nyalawen Pochelon (384)' ellipse
+384 'Chimolen Kaloi (385)' ellipse
+385 'JOSEP BOPAU POKANAU (386)' triangle
+386 'PRANIS KIAPIN (387)' triangle
+387 'TUAIN POKAKES (388)' triangle
+388 'KUMALAU PANIU (389)' triangle
+389 'JAKOP CHAUKA POLI (390)' triangle
+390 'ILIUS CHOKAL (391)' triangle
+391 'GABRIEL POKAKES (392)' triangle
+392 'BERNAT POMAT POKANAU (393)' triangle
+393 'PONOU SAWOK (394)' triangle
+394 'SUEAN KITEMONG (395)' triangle
+395 'JOHN POKAIYO PAKOP (396)' triangle
+396 'UPER SELAN KEYAI (398)' triangle
+397 'KUMALAU KOKO (399)' triangle
+398 'Nyandros Manoi (400)' ellipse
+399 'Tata [= SORI MATAWAI] (401)' ellipse
+400 'JAKOP SELAN [see OP24, MWE] (402)' triangle
+401 'POPAS MAK (403)' triangle
+402 'ALOIS KANANDRU PAKOP (404)' triangle
+403 '[Name/sex unknown] (405)' diamond
+404 'MARTIN CHAMILOU PONOWAN (406)' triangle
+405 'KASPAR NDRIOL POLOPWE (407)' triangle
+406 'RAPAIL TAPAS (408)' triangle
+407 'Linit Watah (409)' ellipse
+408 'Nyamai Kiapin (410)' ellipse
+409 'Nyalapan Kanawi (411)' ellipse
+410 'Talawan Langarap (412)' ellipse
+411 'Pailep Paliau (413)' ellipse
+412 'PALIAU KALOI (414)' triangle
+413 'KITEMONG NDRITAKO (415)' triangle
+414 'Nialel Langarap (416)' ellipse
+415 'POTUKU SULUAN (417)' triangle
+416 'Fransiska Suean (418)' ellipse
+417 'Salikon Suean (419)' ellipse
+418 'EDWARD PANKIAU (420)' triangle
+419 'MANOI PALIAU (421)' triangle
+420 'POLONGOU KISOKAU (422)' triangle
+421 'KUSUNAN MANUS (423)' triangle
+422 'KANAMONY MOLEAN (424)' triangle
+423 'Nyalangis Manuai (425)' ellipse
+424 'Teresia Keyai Pomat (426)' ellipse
+425 'Nyalawen Samol (427)' ellipse
+426 'WAINIU SAVOL (428)' triangle
+427 'Anna Ilan Pomeleu (429)' ellipse
+428 'Lome Chawan Sisi (430)' ellipse
+429 'POKOWEN POKIAP (431)' triangle
+430 'SALEYAU MATAWAI [ad. 0059] (432)' triangle
+431 'Kisapwai Malai (433)' ellipse
+432 'Maria Lote Sisi (434)' ellipse
+433 'Lomot Chamuko (435)' ellipse
+434 'KISOKAU TANOU (436)' triangle
+435 'Nyakutu Ndritako (437)' ellipse
+436 'Josepa Pinkes Potyo (438)' ellipse
+437 'RAPAIL KANAWI PONOWAN (439)' triangle
+438 'Nyasangat Tapas (440)' ellipse
+439 'KIALO PONOWAN (441)' triangle
+440 'Kumaut Noan (442)' ellipse
+441 'POLIN KIAPIN (443)' triangle
+442 'SONGAN KATIWAI (444)' triangle
+443 'PONDROS SELAN (445)' triangle
+444 'PALIAU POKIAP (446)' triangle
+445 'KISOKAU POCHELON (447)' triangle
+446 'Posiam Frank(da. o/ head teacher) (448)' ellipse
+447 'Ikanau Pomat (449)' ellipse
+448 '[Male, o/ BUKAHAU MAK] (450)' triangle
+449 '[Female, o/ BUKAHAU MAK] (451)' ellipse
+450 'PAPI POKAKES (452)' triangle
+451 'Nialapan Pomat (453)' ellipse
+452 'GREGORY AMAI (454)' triangle
+453 'KANAMONY MANOI (455)' triangle
+454 'WINSEN BOMBUAI POKANAU (456)' triangle
+455 'KIALEI KALOAN (457)' triangle
+456 'ALEXANDER POLIN NYANGINDRAI (458)' triangle
+457 'Piwen Kilepak (459)' ellipse
+458 'CHAPAU KISALI     [Who is he?] (460)' triangle
+459 'KISOKAU MANOI (461)' triangle
+460 'Nyandros Pokaton  [Who is she?] (462)' ellipse
+461 'Nyalin Molean (463)' ellipse
+462 'POMAT NDRITAKO (465)' triangle
+463 'CHOLAI CHAUKA (466)' triangle
+464 'PRANIS KATIWAI PWENDRILEI (467)' triangle
+465 '[Name unknown = 2391] (468)' triangle
+466 'Ilan Tuain (469)' ellipse
+467 'Usiai Mikaela Martet (470)' ellipse
+468 'Alupwai Pomalat (471)' ellipse
+469 'PAULUS NYAUMALAI POIYO (472)' triangle
+470 'ALOIS PANIU (473)' triangle
+471 'Nyachalau Pondraken (474)' ellipse
+472 'Kusunan Pochelon (475)' ellipse
+473 'KANAWI POMAT (476)' triangle
+474 'KAMETAN POKANAU #1 (477)' triangle
+475 'POTUAN KANAWI (478)' triangle
+476 '[Name unknown=Lauwyang Posenau (479)' triangle
+477 'POKITON PALIAU (480)' triangle
+478 'CHALAPAN POLIN (481)' triangle
+479 'KALUWIN POLIN (482)' triangle
+480 'Nyamai Manuai (483)' ellipse
+481 'TAPAS PWENDRILEI (484)' triangle
+482 'Poilep Pwendrilei (485)' ellipse
+483 'SCOTT PONYO PWENDRILEI (486)' triangle
+484 'Nyawali Paniu (487)' ellipse
+485 'Matrinde Piwen Chawan (488)' ellipse
+486 '[Name/sex unknown] (489)' diamond
+487 'Katrunella Potuan (491)' ellipse
+488 'Kolumei Pokus (492)' ellipse
+489 'MANOI POKUS (493)' triangle
+490 'Kisapwai Pochelau (494)' ellipse
+491 'Pimakeo Pokus (495)' ellipse
+492 'SELAN CHANACHAN (496)' triangle
+493 'MANUAI PONDRAKEN (Ad. by 0019) (497)' triangle
+494 '[Male, name unk. o/ TAINI] (498)' triangle
+495 'PAULUS KAUAI (499)' triangle
+496 'Nyalangis Polin (500)' ellipse
+497 'MALAlSAL PAKOP (501)' triangle
+498 'POSALAK KAITAN POLI (502)' triangle
+499 'POMAT POLIAP (503)' triangle
+500 'PAULUS TUAIN MALAI (504)' triangle
+501 'Imony Nyamai Manuai (505)' ellipse
+502 'MATIAS POKOWEI KATIWAI (506)' triangle
+503 '[Name unknown=Paula](see OPl9] (507)' triangle
+504 'Nyakupwen Chawan (508)' ellipse
+505 'Molong Keyai (509)' ellipse
+506 '[Female o/ Paula] (510)' ellipse
+507 'Ipak Paliau (511)' ellipse
+508 'KISOKAU POKANAU (512)' triangle
+509 '[POKE KULA-head teacher] (513)' triangle
+510 '[Female o/ Paula] (514)' ellipse
+511 'Piuru Ponyelou (515)' ellipse
+512 'POMAI PONYELOU (516)' triangle
+513 'Sain Pokakes (517)' ellipse
+514 'KANAWI POMAT (518)' triangle
+515 'Ilan Nyamal (519)' ellipse
+516 '[Name unknown=Nyakakes](see OP19) (520)' triangle
+517 'LITAU KISOKAU (521)' triangle
+518 'TAPAS KISOKAU (522)' triangle
+519 'Atemut Pasi (523)' ellipse
+520 'Nyandruan Molean (524)' ellipse
+521 'GUY POPEO (525)' triangle
+522 'Nyawaseu Popeo (526)' ellipse
+523 'PHILIP PONYELOU KANAWI (527)' triangle
+524 'PALIAU POCHELON (528)' triangle
+525 'KIALO KUTAN (529)' triangle
+526 '[Child of head teacher-POKE KULA] (530)' ellipse
+527 'Kapapoi Tanou (531)' ellipse
+528 'NGAT BUAI (532)' triangle
+529 'Ipau Malai (533)' ellipse
+530 'POPOT POKUS (534)' triangle
+531 'MANUAI KITEMONG (535)' triangle
+532 'CHAPAU TANOU (536)' triangle
+533 'Indilo Manoi (537)' ellipse
+534 'Molong Pwendrilei (538)' ellipse
+535 'Chimolen Kakesan Ndriol (539)' ellipse
+536 'Nyakop Sori (540)' ellipse
+537 'Ipak Pochelon (541)' ellipse
+538 'KANAWI MATAWAI (542)' triangle
+539 'KANAWI [o/ Nyakakes] (543)' triangle
+540 'Teresa Nyalawen Popata (544)' ellipse
+541 'Ipul Kaloi (545)' ellipse
+542 'CHEROPWIL PIPOYIL [cripple] (546)' triangle
+543 'Male o/ MALAI (547)' triangle
+544 'Male o/ MALAI (548)' triangle
+545 'Nyakupwen Ponyelou (549)' ellipse
+546 '[Name unknown=TAPAS](see OPl9) (550)' ellipse
+547 '[Male o/ TAPAS](see OPl9) (551)' triangle
+548 'CHAWAN CHANACHAN (552)' triangle
+549 'Ipak Suean (553)' ellipse
+550 'TAYAN SORI (554)' triangle
+551 'Kupai Karaman (555)' ellipse
+552 'Indolo Karaman (556)' ellipse
+553 'ALAN NOAN (557)' triangle
+554 'Nyandros Kove (558)' ellipse
+555 'Lomot Malai (559)' ellipse
+556 'Nyakupwen Pomat (560)' ellipse
+557 'CHANAWAI PAKOP (561)' triangle
+558 'PITILU SELAN (562)' triangle
+559 'TUAIN SELAN (563)' triangle
+560 'CHAKUMAI SELAN (564)' triangle
+561 'KAKESAN POLIN (565)' triangle
+562 'Talawan Polin (566)' ellipse
+563 'KISEKUP KUTAN (567)' triangle
+564 'POLUME KUTAN (568)' triangle
+565 'Kisolel Sisi (569)' ellipse
+566 'Kametan Pokanau (571)' ellipse
+567 'NDRITAKO SISI (572)' triangle
+568 'Nyapanap Pochelon (573)' ellipse
+569 'NOAN CHOLAI (574)' triangle
+570 '[Male o/ TAPAS] (575)' triangle
+571 'Ilan Pomat (576)' ellipse
+572 'Kawetan Pankiau (577)' ellipse
+573 'PONDROS PANKIAU (578)' triangle
+574 'Itong Malai (579)' ellipse
+575 'TAPAS PWENDRILEI (580)' triangle
+576 'Nauna Samol (581)' ellipse
+577 'POKAKES CHOLAI (582)' triangle
+578 'POLIN MANUAI (583)' triangle
+579 '[Child o/ POKE KULA,Head teacher] (584)' diamond
+580 '[Child o/ POKE KULA,Head teacher] (585)' diamond
+581 '[Child o/ POKE KULA,Head teacher] (586)' diamond
+582 '[Child o/ POKE KULA,Head teacher] (588)' diamond
+583 'Child o/ MALAI (589)' triangle
+584 'Nyachapon Pomeleu (590)' ellipse
+585 'CHANAN KEYAI (591)' triangle
+586 'Missis Nyamai Katiwai (592)' ellipse
+587 'KARAMAN KIAPIN (593)' triangle
+588 'CHANGKOL CHOLAI (594)' triangle
+589 'Nyakakes Cholai (595)' ellipse
+590 'Poilep Cholai (596)' ellipse
+591 'Anna Popwal [see 1201. KAKESAN] (597)' ellipse
+592 '[Name unknown=Anna Popwal] (598)' triangle
+593 'TOMAS POPWAL (599)' triangle
+594 'TOMAS POKILOL (600)' triangle
+595 'Nyalangis Chauka (601)' ellipse
+596 'JOE CHAUKA (602)' triangle
+597 'Molong Pokiap (603)' ellipse
+598 'NYAMAI POMAT (604)' triangle
+599 'MOLEAN POMAT (605)' triangle
+600 'SELAN PONOWAN (606)' triangle
+601 'MATAWAI PONOWAN (607)' triangle
+602 'Sandy Klinek (608)' ellipse
+603 'Poilep Pokiap (609)' ellipse
+604 'Nyamai Imony Pokiap (610)' ellipse
+605 'POKUS POKIAP (611)' triangle
+606 'Lomot Selan (612)' ellipse
+607 'PONOWAN SELAN (613)' triangle
+608 'PAKOP SELAN (614)' triangle
+609 'POLIN POMAT (615)' triangle
+610 'Ilan Pokakes           [See 0007] (616)' ellipse
+611 'Naula (617)' ellipse
+612 'Teresia Pokilol (618)' ellipse
+613 'POSANGAN (619)' triangle
+614 '[Name/sex/age unknown] (620)' diamond
+615 '[Name/sex/age unknown] (621)' diamond
+616 '[Name/sex/age unknown] (622)' diamond
+617 'Talawan Sisi (623)' ellipse
+618 'Name/sex/age unknown (624)' triangle
+619 'Name/sex/age unknown (625)' triangle
+620 'POTUKU PATRI (626)' triangle
+621 'Teresia (627)' ellipse
+622 'POCHELON SONGAN (628)' triangle
+623 'Melen Naronkei (629)' ellipse
+624 'POLONGOU (630)' triangle
+625 'Joanna NyamatJa Katonan (631)' ellipse
+626 'TUNU PWOCHON (632)' triangle
+627 'OKO SUEAN (633)' triangle
+628 'JOHN NAMELE (634)' triangle
+629 'Rosa Kauai Kisokau (635)' ellipse
+630 'BILL WARREN (636)' triangle
+631 'Meri Warren (637)' ellipse
+632 'BILL WARREN 2nd (638)' triangle
+633 'Nyalawen Warren (639)' ellipse
+634 'Molong Kisokau (640)' ellipse
+635 'PETER LANGESAN (641)' triangle
+636 'Esau Langesan (642)' ellipse
+637 'Nyakupwen Langesan (643)' ellipse
+638 'Nyasangat Samol (644)' ellipse
+639 'JOSTAR PAKOP (645)' triangle
+640 'KIAPUNG (646)' triangle
+641 'Nyatai (647)' ellipse
+642 'Agnes Ilan Kilepak (648)' ellipse
+643 'TAITE PALIAU (649)' triangle
+644 'Nyakutu Pokilol (650)' ellipse
+645 'Rosa Polin (651)' ellipse
+646 'SELAN POLIN (652)' triangle
+647 'NYAMAL POLIN (653)' triangle
+648 'JOSEPH TAPAS SAMOL (654)' triangle
+649 'MATIAS POLIN (655)' triangle
+650 'POSALAK KILEPAK (656)' triangle
+651 'POMAT KILEPAK (657)' triangle
+652 'Keyau Kilepak (658)' ellipse
+653 'CHANAN (659)' triangle
+654 'Ikilol Naronkei (660)' ellipse
+655 'AKUSTIN TAPAS (661)' triangle
+656 'SAMEAN (662)' triangle
+657 'Pwendreni (663)' ellipse
+658 'FERNAN POKANAU (664)' triangle
+659 'Nyakapon (665)' ellipse
+660 'Nyalawen Pomat (666)' ellipse
+661 'Keyau Pomat (667)' ellipse
+662 'PONYO (668)' triangle
+663 'Kimale (669)' ellipse
+664 'TAPAS KISOKAU (670)' triangle
+665 '[Name unknown, female] (671)' ellipse
+666 'Itong Kisokau (672)' ellipse
+667 'Pisinona Kisokau (673)' ellipse
+668 'NANE KISOKAU (674)' triangle
+669 '[Name/sex unknown] (675)' diamond
+670 'POMAT POCHELON (676)' triangle
+671 'Ilan Samol (677)' ellipse
+672 'ALOIS POKAIYO (678)' triangle
+673 'JAMES KISOKA.U POKAIYO (679)' triangle
+674 'LESLIE POKAIYO (680)' triangle
+675 'CEDRIC POKAIYO (681)' triangle
+676 'Patricia Pokaiyo (682)' ellipse
+677 'POLONGOU POKAIYO (683)' triangle
+678 'PETER POKAIYO (684)' triangle
+679 'JOSEPH LOKES (685)' triangle
+680 'Poilep Lokes (686)' ellipse
+681 'MOLEAN NOAN (687)' triangle
+682 'KANOU KAMPOU (688)' triangle
+683 'SIMON MATAWAI CHANAN (689)' triangle
+684 'PONYO KAMPOU (690)' triangle
+685 'JOSEP KAITAN (691)' triangle
+686 'KANAWI SORI (692)' triangle
+687 'Nyawali Sori (693)' ellipse
+688 'Terry Sori (694)' ellipse
+689 'Maria Sori (695)' ellipse
+690 'KALUWIN SORI (696)' triangle
+691 'Rosa Poilep Kaluwin (697)' ellipse
+692 'JOACHIM TAPAS NDROSOU (698)' triangle
+693 'Ilan Pandrawai (699)' ellipse
+694 'KALUWIN (700)' triangle
+695 'Nyali (701)' ellipse
+696 'Tchomale (702)' ellipse
+697 'PONYO POKUS (703)' triangle
+698 'Kiteni Pokakes (704)' ellipse
+699 'Keyau Pokus (705)' ellipse
+700 'Kametan Pokus (706)' ellipse
+701 'Niarames Pokus (707)' ellipse
+702 'TAPAS POKUS (708)' triangle
+703 '[Name unknown] (709)' ellipse
+704 '[o/ TAPAS POKUS, male] (710)' triangle
+705 'POWASEO MANUS (711)' triangle
+706 'POTELIS PONOWAN (712)' triangle
+707 'Luisa Piuru (713)' ellipse
+708 'CHAPONAN KALA (714)' triangle
+709 'CHAMILOU POLIAP (715)' triangle
+710 'GABRIEL CHOLAI (716)' triangle
+711 'SELAN CHOLAI (717)' triangle
+712 'Nyalin Cholai (718)' ellipse
+713 'RON CHOLAI (719)' triangle
+714 'Piwen Cholai (720)' ellipse
+715 'KAROL POYAP (721)' triangle
+716 'Paula Poyap (722)' ellipse
+717 'PALIAU POLIAP (723)' triangle
+718 '[Name/sex unknown] (724)' diamond
+719 'ZAKARIAS POSELAUT (725)' triangle
+720 'POMENGAS PASI (726)' triangle
+721 'Kitipali (727)' ellipse
+722 'Nyalawen Bonyalo (728)' ellipse
+723 'SELAN KAMIT (729)' triangle
+724 'MANO KAr1IT (730)' triangle
+725 'Saundrang Cholai (731)' ellipse
+726 'Pwailep llanoi (732)' ellipse
+727 'GEMITZ SALE KAtlIT (733)' triangle
+728 'JAMES KAMIT (734)' triangle
+729 'Ona Kamit (735)' ellipse
+730 'POLIAP BONYALO (736)' triangle
+731 'Ipau Bonyalo (737)' ellipse
+732 'Kep (o/ Nyalawen Kemwai) (738)' ellipse
+733 'PWENDRILEI BONYALO (739)' triangle
+734 'PWAYAP BONYALO (740)' triangle
+735 'Nyakupwen Pomat (741)' ellipse
+736 'Nyasangat Bonyalo (742)' ellipse
+737 'MATAWAI BONYALO (743)' triangle
+738 'Kristina (744)' ellipse
+739 'Lucinda Piwen Bonyalo (745)' ellipse
+740 'Tanya Bonyalo (746)' ellipse
+741 'Molong Patri (747)' ellipse
+742 'Markarita Itong Poiyo (748)' ellipse
+743 'POIYO (749)' triangle
+744 'Kapon Manoi (750)' ellipse
+745 'MANOI BONYALO (751)' triangle
+746 'TUAIN MOLEAN (752)' triangle
+747 'Saundrang Ndropal (753)' ellipse
+748 'POKAKES TUAIN (754)' triangle
+749 'Saundra [o/ NDRAPOL-NO. ?] (755)' ellipse
+750 'JOSEP KITEMONG (756)' triangle
+751 'Maria Nyasangat (757)' ellipse
+752 'CHRISTIAN MALAI (758)' triangle
+753 'Peris (759)' ellipse
+754 'KISOKAU SISI (760)' triangle
+755 'JOHANIS SISI (761)' triangle
+756 'Nyalapan Kemwai (762)' ellipse
+757 'POIIELEU SISI (763)' triangle
+758 'POKATOU SISI (764)' triangle
+759 'GIZAKU (765)' triangle
+760 'LEMMEN KITEMONG (766)' triangle
+761 'PONDROS MALAI (767)' triangle
+762 'MALAI (768)' triangle
+763 'KANAMONY POMO (769)' triangle
+764 'SELAN KITEMONG (770)' triangle
+765 'Nanua Kitemong (771)' ellipse
+766 'PWAYAP KITEMONG (772)' triangle
+767 'FERNAN POMAT PONOWAN (773)' triangle
+768 'Aita (774)' ellipse
+769 'MANUAI KITEMONG (775)' triangle
+770 'LITAU KITEMONG (776)' triangle
+771 'LUKAS KO11ET (777)' triangle
+772 'KAROL POPICH NYANGINDRAI (778)' triangle
+773 'Kichawen (779)' ellipse
+774 'MATEUS CHAWAN (780)' triangle
+775 'Nyalawen Komet (781)' ellipse
+776 'POMAT POPICH (782)' triangle
+777 'PALIAU POMALAT (783)' triangle
+778 'Nyamusim Pomain (784)' ellipse
+779 'PAKOPAN YOKATOP POMAIN (785)' triangle
+780 'RAPAIL POMALAT (786)' triangle
+781 'POTUKU KOMET (787)' triangle
+782 'SIOLA (788)' triangle
+783 'Nyalawen Siola (789)' ellipse
+784 'LUKAS (790)' triangle
+785 'TOPAL CHOLAI (791)' triangle
+786 'SELAN KEYAI (792)' triangle
+787 'PHILIP BONYALO POKANAU (793)' triangle
+788 'Filipa Chino (794)' ellipse
+789 'Nyawaseu Pomai (795)' ellipse
+790 'REKIS KEYAI KAKESAN (796)' triangle
+791 'Josephine Keyai (797)' ellipse
+792 'Piuru Keyai (798)' ellipse
+793 'Nyawaseu Manuai (799)' ellipse
+794 'CHAMUTCHIN CHAWAN (800)' triangle
+795 'Indrilo Nyapol (801)' ellipse
+796 'NYAPOL (802)' triangle
+797 'LUTWIK POPE ["YESA"] (803)' triangle
+798 'Nyarames Pongi (804)' ellipse
+799 'Ilan Pope (805)' ellipse
+800 'JOHN [POSALAK?] POPE (806)' triangle
+801 'Molong Pope (807)' ellipse
+802 'LUKAS "KAPAMALAE" POPE (808)' triangle
+803 '[Name unknown]=PONOWAN (809)' ellipse
+804 'Nyalin Kiteiap [KatSwai] (810)' ellipse
+805 'Anatasia Kasan (811)' ellipse
+806 'MATIAS KASAN (812)' triangle
+807 'POKALONG (813)' triangle
+808 'KILA (814)' triangle
+809 'ROBIN KIAP POKOM (815)' triangle
+810 'CHOKAL KATIWAI (816)' triangle
+811 'Itong Katiwai (817)' ellipse
+812 'Imalo Katiwai (818)' ellipse
+813 'NYAMAL (819)' triangle
+814 'Nyatunu Cholai (820)' ellipse
+815 'POWASEU (821)' triangle
+816 'TALINGARON SELAN (822)' triangle
+817 'KANAMONY POKAKES (823)' triangle
+818 'POPOT (824)' triangle
+819 'Pwoke (825)' ellipse
+820 'Kumaut Manuai (826)' ellipse
+821 'ALFRED SEMMIE (827)' triangle
+822 'Nyandros Semmie (828)' ellipse
+823 'KALUWIN SEMMIE (829)' triangle
+824 'KAROL MATAMBUAI (830)' triangle
+825 'POKATON TALIKAWA (831)' triangle
+826 'POTUAN (832)' triangle
+827 'Nyalel (833)' ellipse
+828 'Ipul (834)' ellipse
+829 'Molong Pokaton (835)' ellipse
+830 'Husband o/ Molong (836)' triangle
+831 'Lapi (837)' ellipse
+832 'KAWARAI (838)' triangle
+833 'Molong Kawarai (839)' ellipse
+834 'Anna Kawarai (840)' ellipse
+835 'SIMON KAWARAI (841)' triangle
+836 'Barbara (842)' ellipse
+837 'POMAT (843)' triangle
+838 'JOSEPH TANO PONOWAN (844)' triangle
+839 'Lucy (845)' ellipse
+840 'Ravina Ipak Ponowan (846)' ellipse
+841 'KAUTAN TALIKAI (847)' triangle
+842 'Patulam Iamet Bualanin (848)' ellipse
+843 'Lomot (849)' ellipse
+844 'POTEKI (850)' triangle
+845 'Piuru Matawai (851)' ellipse
+846 'POLI (852)' triangle
+847 'Akita Kumaut Chauka (853)' ellipse
+848 'CHAUKA (854)' triangle
+849 'SONGAN (855)' triangle
+850 'Lomot (856)' ellipse
+851 'MANUAI POKIAP (857)' triangle
+852 'Kiteni Matawai (858)' ellipse
+853 'JOACHIM PONOWAN PONGI (859)' triangle
+854 'Mikaela Itong Nyamasue (860)' ellipse
+855 'Nyakupwen Samol (861)' ellipse
+856 'Barbara Nauna Samol (862)' ellipse
+857 'Stillbirth (863)' ellipse
+858 'GIZIKUK (864)' triangle
+859 'NANE (865)' triangle
+860 'Isopwe (866)' ellipse
+861 'KALI (867)' triangle
+862 'Pinkes (868)' ellipse
+863 'Molong Kali (869)' ellipse
+864 'LUWIL (870)' triangle
+865 'POTIK (871)' triangle
+866 'Kametal (872)' ellipse
+867 'KALUWIN (873)' triangle
+868 'Nyalawen (874)' ellipse
+869 'PWOCHON KALUWIN (875)' triangle
+870 'Nyalel Kaluwin (876)' ellipse
+871 'KIAPIN MWE (877)' triangle
+872 'CHANGOL MWE (878)' triangle
+873 'Kristina (879)' ellipse
+874 'LANGARAP MWE (880)' triangle
+875 'Molong Pakop (881)' ellipse
+876 'Rachel Pakop (882)' ellipse
+877 'KIAPIN PAKOP (883)' triangle
+878 'TAPAS PAKOP (884)' triangle
+879 '[Name unknown] (885)' ellipse
+880 'VITA (886)' triangle
+881 'Molong Vita (887)' ellipse
+882 'Dorothy Vita (888)' ellipse
+883 'Aisa Vita (889)' ellipse
+884 'Poilep Vita (890)' ellipse
+885 'Tonia (891)' ellipse
+886 'POLOU SAMOL (892)' triangle
+887 'Ikanau Samol (893)' ellipse
+888 'TANOU (894)' triangle
+889 'Ipau (895)' ellipse
+890 'Nyakasi (896)' ellipse
+891 'Indole (897)' ellipse
+892 'KANAMONY NYAMAL (898)' triangle
+893 'Pikawas Pokaton (899)' ellipse
+894 'KIALO (900)' triangle
+895 'Lauwyang Molean (901)' ellipse
+896 'Maria Paniu (902)' ellipse
+897 'KLINEK (903)' triangle
+898 'PAKOP KUMALAU (904)' triangle
+899 'Nyalapan Popwe (905)' ellipse
+900 'PWISEU POLOU (906)' triangle
+901 'Nyapeli Eku (907)' ellipse
+902 'Nyalawen Pwendrilei (908)' ellipse
+903 '[Name/sex unknown] (909)' diamond
+904 'PWENDRILEI (910)' triangle
+905 'Rosa Kitetyet (911)' ellipse
+906 'KASAN (912)' triangle
+907 'MARTIN NDRITAKO (913)' triangle
+908 'Kawetan (914)' ellipse
+909 'Nyawaseu Manuai (915)' ellipse
+910 'KALUWIN MANUAI (916)' triangle
+911 'Infant Manuai (917)' ellipse
+912 'Infant Manuai (918)' ellipse
+913 'Infant Manuai (919)' ellipse
+914 'Infant Manuai (920)' ellipse
+915 'POLYON POMAI (921)' triangle
+916 'Patulam Nyapolyon (922)' ellipse
+917 'PASEN (923)' triangle
+918 'Nyaulu (924)' ellipse
+919 'SONGAN POLI (925)' triangle
+920 'PWENDRILEI (926)' triangle
+921 'Patulam Poli (927)' ellipse
+922 'WILLIE POLI (928)' triangle
+923 'Nyakakes Poli (929)' ellipse
+924 'PETER SAOTO (930)' triangle
+925 'SAOTO (931)' triangle
+926 'Pisera Saoto (932)' ellipse
+927 'JACK SAOTO (933)' triangle
+928 'POCHIMEL (935)' triangle
+929 'DAVID DABAON (936)' triangle
+930 'Piyap Dabaon (937)' ellipse
+931 'Pwateli Pope (938)' ellipse
+932 'KATIPAI (939)' triangle
+933 'Kasiana Patali (940)' ellipse
+934 'POPE (941)' triangle
+935 'Songola (942)' ellipse
+936 'Melen Pokakes (943)' ellipse
+937 'Ikanau Kisokau (944)' ellipse
+938 'MOYAP NDRITAKO (945)' triangle
+939 'POYAP NDRITAKO (946)' triangle
+940 'Melen Ndritako (947)' ellipse
+941 'Nyandruan Ndritako (948)' ellipse
+942 'POSANGAT NDRITAKO (949)' triangle
+943 'AKUSTIN POLUIIPWE (950)' triangle
+944 'Molong Manoi (951)' ellipse
+945 'NAUNA KISOKAU KUTAN (952)' triangle
+946 'TAPAS KANAWI (953)' triangle
+947 'CHOLAI KANAWI (954)' triangle
+948 'KElIWAI POKAIYO (956)' triangle
+949 'Isali Potuan (957)' ellipse
+950 'CHAPAU POKAIYO (958)' triangle
+951 'Kulamei Pokaiyo (959)' ellipse
+952 'YITILI (960)' triangle
+953 '[Name unknown female] (961)' ellipse
+954 '[Name unknown female] (962)' ellipse
+955 '[Name unknown male] (963)' triangle
+956 '[Name unknown female] (964)' ellipse
+957 'Pimekeo (965)' ellipse
+958 '[Name unknown female] (966)' ellipse
+959 'KANAWI (967)' triangle
+960 '[Name unknown male] (968)' triangle
+961 'GABRIEL MANOI (969)' triangle
+962 'PAPI (970)' triangle
+963 'Chimolen Karaman (971)' ellipse
+964 '[Stillbirth] (972)' diamond
+965 'KISOYAU PAKOP (973)' triangle
+966 'Nyandros Pakop (974)' ellipse
+967 'Nyalangis Pakop (975)' ellipse
+968 'Pinkes Pakop (976)' ellipse
+969 'Tiolong Pakop (977)' ellipse
+970 'KATIWAI PAKOP (978)' triangle
+971 'KANAWI POMAT (979)' triangle
+972 'Anna (980)' ellipse
+973 'CHA2IILOU POMAT (981)' triangle
+974 'Geya (982)' ellipse
+975 'Nyachalau Pomat (983)' ellipse
+976 'Kawetan Pomat (984)' ellipse
+977 'Lomot Pomat (985)' ellipse
+978 'PONOWAN (986)' triangle
+979 'Rosa Ponowan (987)' ellipse
+980 'Powat (988)' ellipse
+981 'Infant Nyamal (989)' ellipse
+982 'Gabrielle Nyalawen Poselaut (990)' ellipse
+983 'Rosamond Molong Nyamal (991)' ellipse
+984 'Chimolen (992)' ellipse
+985 'Sisilia (993)' ellipse
+986 '[Name/sex unknown] (994)' diamond
+987 'KAROTAN (995)' triangle
+988 'Patulam Kupwai (996)' ellipse
+989 '[Name unknown=0832] (997)' ellipse
+990 'SORI (998)' triangle
+991 'Nyalawen (999)' ellipse
+992 'Asila Noangkau (1000)' ellipse
+993 'NOANGKAU KIALO (1001)' triangle
+994 'Kauncho Pondraken (1002)' ellipse
+995 'BOMBUAI PONDRAKEN (1003)' triangle
+996 'SORI PONDRAKEN (1004)' triangle
+997 'Lalu (1005)' ellipse
+998 'MATIAS BONYALO (1006)' triangle
+999 'Luisa Ipak Pataran (1007)' ellipse
+1000 'PWENDRILEI POSUMAN (1008)' triangle
+1001 'Wasita Pokeun (1009)' ellipse
+1002 'MOLEAN POSUMAN (1010)' triangle
+1003 'SELAN POSUMAN (1011)' triangle
+1004 'KALOI POSUMAN (1012)' triangle
+1005 'Kisolel Posuman (1013)' ellipse
+1006 'KATIN (1014)' triangle
+1007 'IIarau Katin (1015)' ellipse
+1008 'MAKIS CHAMILOU LANGARAP (1016)' triangle
+1009 'Stillborn Langarap (1017)' ellipse
+1010 'JOSEPH KOVE (1018)' triangle
+1011 'CHANGKOL AMAI (1019)' triangle
+1012 'Juliana Nyalin Kove (1020)' ellipse
+1013 'Marta Kove (1021)' ellipse
+1014 'Nyandros Langarap (1022)' ellipse
+1015 'DICK AMAI (1023)' triangle
+1016 'WILFRED KIAPIN AMAI (1024)' triangle
+1017 'POSALAK MOLEAN (1025)' triangle
+1018 'Ikanau Manoi (1026)' ellipse
+1019 'Nyalam Molean (1027)' ellipse
+1020 'Pwenchiam Molean (1028)' ellipse
+1021 'Ilan Molean (1029)' ellipse
+1022 'Nyandros Molean (1030)' ellipse
+1023 'TADEUS POKANAU (1031)' triangle
+1024 'Pinkes Kitachet (1032)' ellipse
+1025 'Fa o/ 0380. Nyalawen Pomai (1033)' triangle
+1026 'Mo.o/ 0380. [Nyalel Kaipan?] (1034)' ellipse
+1027 'POTYILI PIKOK (1035)' triangle
+1028 'POPIYAP (1036)' triangle
+1029 'PALIAU lfa. o/ 0225] (1037)' triangle
+1030 'TAINI POLIAP (1038)' triangle
+1031 'Lomot Papa (1039)' ellipse
+1032 'LUTWIK POLONGOU (1040)' triangle
+1033 'JULIUS LANGESAN (1041)' triangle
+1034 'Tapotop Tapas (1042)' ellipse
+1035 'DANIEL (1043)' triangle
+1036 'Ikanau (1044)' ellipse
+1037 'PWOCHALON MOLEAN (1045)' triangle
+1038 'Ndrantche (1046)' ellipse
+1039 'Molong Kamit (1047)' ellipse
+1040 'JOHN TAKELO (1048)' triangle
+1041 'THOMAS TAKELO (1049)' triangle
+1042 'JERRY TAKELO (1050)' triangle
+1043 'Lola Takelo (1051)' ellipse
+1044 'JOHN KAMBUO (1052)' triangle
+1045 'KISOKAU KAMBUO (1053)' triangle
+1046 'Sofia Nyamal (1054)' ellipse
+1047 'KISAPWAI NOAN (1055)' triangle
+1048 'MANUS (1056)' triangle
+1049 'Nyandros (1057)' ellipse
+1050 'CHAMILOU POLI (1058)' triangle
+1051 'KITEMONG POLI (1059)' triangle
+1052 'SORI KITEMONG (1060)' triangle
+1053 'Indilo Malamal (1061)' ellipse
+1054 'JOSEPH MALAMAL (1062)' triangle
+1055 'PWENDRILEI KITEMONG (1063)' triangle
+1056 'NYAMAL KITEMONG (1064)' triangle
+1057 'POTUAN KITEMONG (1065)' triangle
+1058 'KIALO KITEMONG (1066)' triangle
+1059 'NDRITAKO POLI (1067)' triangle
+1060 'Maria Manuai (1068)' ellipse
+1061 'CHAMILOU NDRITAKO (1069)' triangle
+1062 'Polina Ndritako (1070)' ellipse
+1063 'KITEMONG NDRITAKO (1071)' triangle
+1064 'NOAN NDRITAKO (1072)' triangle
+1065 'Pinkes Ndritako (1073)' ellipse
+1066 'PONOWAN KUMAION (1074)' triangle
+1067 'Nyapin Chanachan (1075)' ellipse
+1068 'MICHAEL PATRI (1076)' triangle
+1069 'ELIHU PAKOP (1077)' triangle
+1070 'Melen Molean (1078)' ellipse
+1071 'POYEM (1079)' triangle
+1072 'Sister of SAMEAN (1080)' ellipse
+1073 'Pwailep Pomeleu (1081)' ellipse
+1074 'KAROL POCHIMEL (1082)' triangle
+1075 'Molong Pochimel (1083)' ellipse
+1076 'Nyakupwen Pochimel (1084)' ellipse
+1077 'Kichawen Pochimel (1085)' ellipse
+1078 'POTUKU POCHIMEL (1086)' triangle
+1079 'Nyalawen Pomeleu (1087)' ellipse
+1080 'ALEXANDER KITECHET PITILU (1088)' triangle
+1081 'Ilan Pitilu (1089)' ellipse
+1082 'Molong Pitilu (1090)' ellipse
+1083 'CHAWAN PITILU (1091)' triangle
+1084 'Lomot Pitilu (1092)' ellipse
+1085 'MANOI PITILU (1093)' triangle
+1086 'KARAMAN POMELEU (1094)' triangle
+1087 'Nyalam Karaman (1095)' ellipse
+1088 'Dori Mwe (1096)' ellipse
+1089 'JOHN NDRITAKO (1097)' triangle
+1090 'Ikanau Ndritako (1098)' ellipse
+1091 'NGANDILU (1099)' triangle
+1092 'Saundrang (1100)' ellipse
+1093 'Ponyama (1101)' ellipse
+1094 'SIGFRID BESCHEL (1102)' triangle
+1095 'Karen Beschel (1103)' ellipse
+1096 'Doroti Popilel (1104)' ellipse
+1097 'POLIAP POPILEL (1105)' triangle
+1098 'Nyakatop Popilel (1106)' ellipse
+1099 'LOKOWA METI (1107)' triangle
+1100 'Ngapatchalon (1108)' ellipse
+1101 'STEPAN CHAMUKO (1109)' triangle
+1102 'Peita Ndropal (1110)' ellipse
+1103 'NDROPAL (1111)' triangle
+1104 'Patulam (1112)' ellipse
+1105 'Tecola Ndritako (1113)' ellipse
+1106 'Nyasapok Kampwow (1114)' ellipse
+1107 'KAMPWOW (1115)' triangle
+1108 'POPEO KANAWI (1116)' triangle
+1109 'Molong Kanawi (1117)' ellipse
+1110 'Molong Posangat (1118)' ellipse
+1111 'Itong Posangat (1119)' ellipse
+1112 'Molong Chamuko (1120)' ellipse
+1113 'NyalawenSelan (1121)' ellipse
+1114 'Nyakakes Malai (1122)' ellipse
+1115 'POKAIYO MALAI (1123)' triangle
+1116 'SAMOL POPEO (1124)' triangle
+1117 '[Name unknown=Ndriol Mwe] (1125)' triangle
+1118 'POSIN MOLEAN (1126)' triangle
+1119 'PALIAU MOLEAN (1127)' triangle
+1120 'POMELEU MOLEAN (1128)' triangle
+1121 'KRISTOP PITILU (1129)' triangle
+1122 'POSUMAN (1130)' triangle
+1123 'Nyamole (1131)' ellipse
+1124 'Kisolel (1132)' ellipse
+1125 'POKOWEI ANGKAT (1133)' triangle
+1126 'Langolon (1134)' ellipse
+1127 'Kisolel Katiwai (1135)' ellipse
+1128 'PAULUS KUSUNAN (1136)' triangle
+1129 'Nyalaiap Kusunan (1137)' ellipse
+1130 'Nancy Kusunan (1138)' ellipse
+1131 'TAPO PWENDRILEI (1139)' triangle
+1132 'Pwailep Pomat (1140)' ellipse
+1133 'LITAU CHOLAI (1141)' triangle
+1134 'MOSES KANAWI (1142)' triangle
+1135 'Miriam Ilaki (1143)' ellipse
+1136 'PAUL PATRI (1144)' triangle
+1137 'PONDRAMET POMEKEU (1145)' triangle
+1138 'ALFONS MANUAI (1146)' triangle
+1139 'Nyakutu Pomo (1147)' ellipse
+1140 '[Name unknown=1147] (1148)' triangle
+1141 '[Name unknown male] (1149)' triangle
+1142 '[Name unknown female] (1150)' ellipse
+1143 'Ipul Pochelau (1151)' ellipse
+1144 'KANAWI ElANOI (1152)' triangle
+1145 '[Name unknown=1152] (1153)' ellipse
+1146 'Talawan Manoi (1154)' ellipse
+1147 '[Name unknown=Talawan Manoi] (1155)' triangle
+1148 '[Name unknown female] (1156)' ellipse
+1149 '[Name unknown female] (1157)' ellipse
+1150 'Karola Kapapoi (1158)' ellipse
+1151 'PATALYAN (1159)' triangle
+1152 'Itong Poliap (1160)' ellipse
+1153 'Nyalinges Poselaut (1161)' ellipse
+1154 '[Name unknown=1161] (1162)' triangle
+1155 'Indrilo Pomechan (1163)' ellipse
+1156 'POLUMWE (1164)' triangle
+1157 'Moletun (1165)' ellipse
+1158 'POMECHAN (1166)' triangle
+1159 'Pwailep (1167)' ellipse
+1160 'Kisolel Paliau (1168)' ellipse
+1161 'Teresa Nyalam Polumwe (1170)' ellipse
+1162 'Kametan Pokaiyo (1171)' ellipse
+1163 '[Name unknown=1171] (1172)' triangle
+1164 'Lomot Poiyap (1173)' ellipse
+1165 'POCHELAU TANOU (1174)' triangle
+1166 'PONDROS CHANACHAN (1175)' triangle
+1167 'PONYO PWENDRILEI (1176)' triangle
+1168 'Nyakupwen Manoi (1177)' ellipse
+1169 '[Name unknown - div. o/1177] (1178)' triangle
+1170 'MOLEAN ElANOI (1179)' triangle
+1171 'TOMAS PONYO (1180)' triangle
+1172 'TIKO (1181)' triangle
+1173 'Judy Ponyo (1182)' ellipse
+1174 'Margaret Ponyo (1183)' ellipse
+1175 'Anna Ponyo (1184)' ellipse
+1176 'PAKA (1185)' triangle
+1177 'Taliye Paka (1186)' ellipse
+1178 '[Name unknown] (1187)' triangle
+1179 'KEPINIU PAKA (1188)' triangle
+1180 'Sapa (1189)' ellipse
+1181 'Kisolel Kanandru (1190)' ellipse
+1182 'ISAAC DALIU (1191)' triangle
+1183 'Josie Paswa (1192)' ellipse
+1184 'ANDREW PASWA (1193)' triangle
+1185 'KISOKAU KANANDRU (1194)' triangle
+1186 'PAPI (1195)' triangle
+1187 'Pinyangan (1196)' ellipse
+1188 'Nyalin Papi (1197)' ellipse
+1189 'PALIAU PAPI (1198)' triangle
+1190 'KISOKAU POSENAU PAPI (1199)' triangle
+1191 'Ilan Papi (1200)' ellipse
+1192 'KEYAI KAKESAN (1201)' triangle
+1193 'Nyawaseu Ponyelou (1202)' ellipse
+1194 'CHOLAI (1203)' triangle
+1195 '[Name unknown] #4=KAROTAN (1204)' ellipse
+1196 'Ipam #1=KAROTAN (1205)' ellipse
+1197 'Kisolel=CHOLAI (1206)' ellipse
+1198 'NDRAMBEU (1207)' triangle
+1199 'Chimolen (1208)' ellipse
+1200 'CHOLAI NOAN (1209)' triangle
+1201 'Kisolel Noan (1210)' ellipse
+1202 'KAROTAN NOAN (1211)' triangle
+1203 'Kumaut Noan (1212)' ellipse
+1204 'TAPAS NOAN (1213)' triangle
+1205 'Lomot Noan (1214)' ellipse
+1206 'BOPAU POPEO (1215)' triangle
+1207 'Lomot Noan #2 (1216)' ellipse
+1208 'SONGAN NOAN (1217)' triangle
+1209 'POMAT PALIAU (1218)' triangle
+1210 'PALIAU [See 0061?] (1219)' triangle
+1211 'MESTIL SAOT (1220)' triangle
+1212 'Nyakatap Kikia (1221)' ellipse
+1213 'Nyandilang (1222)' ellipse
+1214 'Lena Mestil (1223)' ellipse
+1215 'PONDRO (1224)' triangle
+1216 'Penny (1225)' ellipse
+1217 'KIAPIN (1226)' triangle
+1218 'Kisolel [high school] (1227)' ellipse
+1219 'MANOI (1228)' triangle
+1220 'JOHN (1229)' triangle
+1221 'Pwenchiam (1230)' ellipse
+1222 'POWEN (1231)' triangle
+1223 'Nyamoke Pasi (1232)' ellipse
+1224 '[Name unknown,=Nyamoke] (1233)' triangle
+1225 'Pwokara Pasi (1234)' ellipse
+1226 'OTTO PALIAU (1235)' triangle
+1227 'Nyalapan Ndritako (1236)' ellipse
+1228 'MALAMAL (1237)' triangle
+1229 'Nyakakes Malamal (1238)' ellipse
+1230 'KATIWAI MALAMAL (1239)' triangle
+1231 'MAYA MALAMAL (1240)' triangle
+1232 'Patulam Malamal [ST Sch.] (1241)' ellipse
+1233 'RONNIE MALAMAL (1242)' triangle
+1234 'ANTON MOLEAN (1243)' triangle
+1235 'Molong Kaloi (1244)' ellipse
+1236 'MANUAI ANGKAR POPATA (1245)' triangle
+1237 'NDRITAKO KALOI (1246)' triangle
+1238 'NIXON KALOI (1247)' triangle
+1239 'SIMON POIYAP (1248)' triangle
+1240 'NDRITAKO TAINI (1249)' triangle
+1241 'Nyachalau Pokanau (1250)' ellipse
+1242 'POKANAU POSALAK PAKOP (1251)' triangle
+1243 'Ilan Pakop (1252)' ellipse
+1244 'Nyakop Pakop (1253)' ellipse
+1245 '[Name unknown=POKANAU PAKOP] (1254)' ellipse
+1246 'DAVID KOPE (1255)' triangle
+1247 'NOAN NYAMAL (1256)' triangle
+1248 'Molong Nyamal (1257)' ellipse
+1249 'POTUAN NYAMAL (1258)' triangle
+1250 'Ikowei (1259)' ellipse
+1251 'Kauncho Sisi (1261)' ellipse
+1252 '[Name unknown=Kauncho] (1262)' triangle
+1253 '[Name/sex unknown] (1263)' diamond
+1254 '[Name/sex unknown] (1264)' diamond
+1255 '[Name/sex unknown] (1265)' diamond
+1256 '[Name/sex unknown] (1266)' diamond
+1257 '[Name unknown=Nyalapan Kemwai] (1267)' triangle
+1258 'KISAPWAI POMAI (1268)' triangle
+1259 'Kametal Pokanas (1269)' ellipse
+1260 'POKANAS (1270)' triangle
+1261 'Kametal (1271)' ellipse
+1262 'PONDROS [Who is he?] (1272)' triangle
+1263 'Nyandraken Taini (1273)' ellipse
+1264 'NOAN TAINI (1274)' triangle
+1265 'MANUAI PANKIAU (1275)' triangle
+1266 'PATRICK POMELEU NOAN (1276)' triangle
+1267 'Ikanau Noan (1277)' ellipse
+1268 'Josepa Kapon Pokaton (1278)' ellipse
+1269 'PRANIS KALUWIN (1279)' triangle
+1270 'PASEN POMAT (1280)' triangle
+1271 'Nyamoke (Tonia Nyakatop) (1281)' ellipse
+1272 'POMAT KALUWIN (1282)' triangle
+1273 'KALUWIN (1283)' triangle
+1274 'Lomot Kaluwin (1284)' ellipse
+1275 'Elen Kaluwin (1285)' ellipse
+1276 'Piwen Kaluwin (1286)' ellipse
+1277 'Belinda Kope (1287)' ellipse
+1278 'Female o/ 2009. TAPAS (1289)' ellipse
+1279 'AKUSTIN PONYELOU (1290)' triangle
+1280 'Kisolel Ponyelou (1292)' ellipse
+1281 'Tonia Kafim (1293)' ellipse
+1282 'Nyalapan Tapas (1294)' ellipse
+1283 'Matina Talawan (1295)' ellipse
+1284 'POKIAP CHOLAI (1296)' triangle
+1285 'Ipau Cholai (1297)' ellipse
+1286 'PONDRAKEN PWENDRILEI (1298)' triangle
+1287 'LUKAS KISOKAU (1299)' triangle
+1288 'POMAT POKANAU (1300)' triangle
+1289 'Kauat Bonyalo (1301)' ellipse
+1290 'CHAMILOU LALOAN (1302)' triangle
+1291 'Jakopa Imal Bonyalo (1303)' ellipse
+1292 'KANAMONY POCHAPOT (1304)' triangle
+1293 'Kristine Patri (1305)' ellipse
+1294 'JOACHIM POCHAPOT (1306)' triangle
+1295 'GABRIEL SULUAN (1307)' triangle
+1296 'Lutwika Molong Bonyalo (1308)' ellipse
+1297 'MARTIN (1309)' triangle
+1298 'Nyakop Chamilou (1310)' ellipse
+1299 'CHOKAL BOMBUAI (1311)' triangle
+1300 'KIALO BOMBUAI (1312)' triangle
+1301 'PHILIP POSENAU NANE (1313)' triangle
+1302 'Lomot Posenau (1315)' ellipse
+1303 'Julie Posenau (1316)' ellipse
+1304 'STEVEN LEEVERS (1317)' triangle
+1305 'POMAI LEEVERS (1318)' triangle
+1306 'Marie Leevers (1319)' ellipse
+1307 'TOMAS KEYAI POKANAU (1320)' triangle
+1308 '[Name unknown] (1321)' triangle
+1309 'Ipam Pomai (1322)' ellipse
+1310 'TOKIOS (1323)' triangle
+1311 '[Name unknown, fa o/ 0425] (1324)' triangle
+1312 '[Name unknown, mo o/ 0425] (1325)' ellipse
+1313 'CHAPEN LEMAUS POPEO (1326)' triangle
+1314 'Lomot Kiapin (1327)' ellipse
+1315 'Anna Nyandrinei Kutan (1328)' ellipse
+1316 'Anna Peni Posenau (1329)' ellipse
+1317 'TOMAS POSENAU (1330)' triangle
+1318 'FRANCIS BOPAU POSENAU (1331)' triangle
+1319 'Sally Milei (1332)' ellipse
+1320 'Siska Posenau (1333)' ellipse
+1321 'Saundrang Posenau (1334)' ellipse
+1322 'CHAMILOU POSENAU (1335)' triangle
+1323 'Kiteni Posenau (1336)' ellipse
+1324 'Lauwyang Posenau (1337)' ellipse
+1325 'Chimolen Posenau (1338)' ellipse
+1326 'Nyawaseu Chokal (1339)' ellipse
+1327 'PIUS NOAN (1340)' triangle
+1328 'PONOWAN (1341)' triangle
+1329 'NAUMPWE (1342)' triangle
+1330 'Niaman (1343)' ellipse
+1331 'Nyamusim Ponowan (1344)' ellipse
+1332 'SIMON POPEO TAPITO (1345)' triangle
+1333 'POSANGAT POKAKES (1346)' triangle
+1334 'PONDROS CHAMILOU (1347)' triangle
+1335 '[Name unknown, female] (1348)' ellipse
+1336 '[Name unknown, male] (1349)' triangle
+1337 'Kiteyap Pokakes (1350)' ellipse
+1338 'POSIN CHAMILOU (1351)' triangle
+1339 'Sepa Piwen Popeo (1352)' ellipse
+1340 '[Name unknown = Sepa Piwen] (1353)' triangle
+1341 'SAMOL POSAI (1354)' triangle
+1342 '[Name unknown = Nyawali Samol] (1355)' triangle
+1343 'POLATOU (1356)' triangle
+1344 'Piwen (1357)' ellipse
+1345 'Nyalel Pokatou (1358)' ellipse
+1346 'Lomot Pokatou (1359)' ellipse
+1347 'Nyakapwen Bombuai (1360)' ellipse
+1348 'Poilep Pokaton (1361)' ellipse
+1349 'ELIAP PITELOT (1362)' triangle
+1350 'Margaret Pitelot (1363)' ellipse
+1351 'POKATON PITELOT (1364)' triangle
+1352 'Niandros Pitelot (1365)' ellipse
+1353 'Nyalapan Pitelot [twin] (1366)' ellipse
+1354 'KILEPAK PITELOT  [twin] (1367)' triangle
+1355 'RIKAT NAUNA POKATON (1368)' triangle
+1356 'Lusi (1369)' ellipse
+1357 'Molong Pokaton (1370)' ellipse
+1358 'KAROL POKATON (1371)' triangle
+1359 'Nyalangis Pokaton (1372)' ellipse
+1360 'JOHN POKATOU (1375)' triangle
+1361 'Kisapwai Pokanau (1376)' ellipse
+1362 'MIKAIL LITAU (1377)' triangle
+1363 'PALIAU LITAU (1378)' triangle
+1364 'KUMAION LITAU (1379)' triangle
+1365 'MALAMAL POLIAP (1380)' triangle
+1366 'POCHELAU KILEPAK #1 (1384)' triangle
+1367 'POWASEU KILEPAK (1385)' triangle
+1368 'Piwen Kilepak #1 (1386)' ellipse
+1369 'KISAPWI KILEPAK (1387)' triangle
+1370 'LUKAS POMUKU BONYALO (1388)' triangle
+1371 'Nyakutu Momok (1389)' ellipse
+1372 'MOMOK (1390)' triangle
+1373 'KANAMONY POKAKES (1391)' triangle
+1374 'Piwen Pokakes (1392)' ellipse
+1375 'BOPAU PONDRAKEN (1393)' triangle
+1376 'KAS KUTAN (1394)' triangle
+1377 'Ipau Kutan (1395)' ellipse
+1378 'POYANAU KILEPAK (1396)' triangle
+1379 'Nyalaiap Lukas (1397)' ellipse
+1380 'SIONI KILEPAK (1398)' triangle
+1381 'Nyawaseu Pomat (1399)' ellipse
+1382 'Pwenchiam Nauna (1400)' ellipse
+1383 'Selan (1401)' ellipse
+1384 'Ilan (1402)' ellipse
+1385 'PALIAU TAPAS (1403)' triangle
+1386 'Nyachalau Tapas (1404)' ellipse
+1387 'Anna Nyandros Pokanau (1405)' ellipse
+1388 'ALOIS MANOI (1406)' triangle
+1389 'Nyalin Manoi (1407)' ellipse
+1390 'BENEDIK TUAIN (1408)' triangle
+1391 'Susan Jakop (1409)' ellipse
+1392 'Kiteiap Tuain (1410)' ellipse
+1393 'KANAWI TUAIN (1411)' triangle
+1394 'Poilep Manoi (1412)' ellipse
+1395 'CHAMILOU (1413)' triangle
+1396 'JAMES CHAMILOU (1414)' triangle
+1397 'Wendy Chamilou (1415)' ellipse
+1398 'Kate Chamilou (1416)' ellipse
+1399 'BERNAT CHAMILOU (1417)' triangle
+1400 'EDDIE CHAMILOU (1418)' triangle
+1401 'Nyandruan Manoi (1419)' ellipse
+1402 'KANAWI MANOI (1420)' triangle
+1403 'POSUMAN POPICH (1421)' triangle
+1404 'NYAMAL POKANAU (1422)' triangle
+1405 'Poilep Pokanau (1423)' ellipse
+1406 'SUEAN LITAU (1424)' triangle
+1407 'SELAN (1425)' triangle
+1408 'Ipul Lemaus (1426)' ellipse
+1409 'IGNOTUS KIO (1427)' triangle
+1410 'Kapamalae (1428)' ellipse
+1411 'Nyandros Selan (1429)' ellipse
+1412 'Nyandros Lemaus (1430)' ellipse
+1413 'CHOLAI PALIAU (1431)' triangle
+1414 'Nyakupwen Paliau (1432)' ellipse
+1415 'Piwen Paliau (1433)' ellipse
+1416 'POKOWEI PALIAU (1434)' triangle
+1417 'PWANGEAN [sp.?] PALIAU (1435)' triangle
+1418 'Lomot Pomat (1436)' ellipse
+1419 'Rosa Kila (1437)' ellipse
+1420 'Namena Kila (1438)' ellipse
+1421 'Martha Kila (1439)' ellipse
+1422 'Jean Kila (1440)' ellipse
+1423 'Paula Pokom (1441)' ellipse
+1424 '[Name unknown, girl] (1442)' ellipse
+1425 '[Name unknown = 0876. Nyalel] (1443)' triangle
+1426 'TOMAS PONGANDRA (1444)' triangle
+1427 'Asila Noan (1445)' ellipse
+1428 'Alupwai Kunera Kaitan (1446)' ellipse
+1429 '[Name unknown = Alupwai] (1447)' triangle
+1430 'NYASO (1448)' triangle
+1431 'Nyakasan (1449)' ellipse
+1432 'CHANACHAN [fa-in-law 0022?] (1450)' triangle
+1433 'Nyakanas (1451)' ellipse
+1434 'POIYAP (1452)' triangle
+1435 'POSAUL (1453)' triangle
+1436 'Patale (1454)' ellipse
+1437 'Kikeyu  [#1 wife KAKESAN] (1455)' ellipse
+1438 'Patulam [#2 wife KAKESAN] (1456)' ellipse
+1439 'KITYATEL POKATOU (1457)' triangle
+1440 'Lauwyang Posin (1458)' ellipse
+1441 'Anna Nyalawen (1459)' ellipse
+1442 'Pwenchiam Kasan (1460)' ellipse
+1443 'Patulam [Sain] (1461)' ellipse
+1444 'Nyatunu (1462)' ellipse
+1445 'JOSEP POTUAN (1463)' triangle
+1446 'Maria Molong (1464)' ellipse
+1447 'Nyachalau Potuan (1465)' ellipse
+1448 'GIZAKAU POTUAN (1466)' triangle
+1449 'PIUS MATAWAI (1467)' triangle
+1450 'Sain Lokowa (1468)' ellipse
+1451 'PALIAU LALINGE (1469)' triangle
+1452 'SELAN KATONAN (1470)' triangle
+1453 'Molong (1471)' ellipse
+1454 'Naute (1472)' ellipse
+1455 'PEPEU (1473)' triangle
+1456 'Gertrude Kupano (1474)' ellipse
+1457 'Namenya [= POWASEU] (1475)' ellipse
+1458 'Pwailep Powaseu (1476)' ellipse
+1459 'JOSEP POKENAS (1477)' triangle
+1460 'Moere (1478)' ellipse
+1461 'SAPO (1479)' triangle
+1462 'POLIN POKATOU (1480)' triangle
+1463 'Maso [wife of POTEKI] (1481)' ellipse
+1464 'BENEDIK CHOKAL (1482)' triangle
+1465 'GREGORIUS NYAMAL (1483)' triangle
+1466 'PIUS CHOKAL (1485)' triangle
+1467 'JOACHIM POKANAU KANAWI (1487)' triangle
+1468 'KAMETAN (1488)' triangle
+1469 'Lomot Popeo (1489)' ellipse
+1470 'Ianyo Kametan (1490)' triangle
+1471 'Nyandilang [wife o/ PAKA] (1491)' ellipse
+1472 'Mateun [gmo o/ GABRIEL POKAKES] (1492)' ellipse
+1473 '[Male KAMETAN] (1493)' triangle
+1474 'PANDRAWAI [fa o/ MATEUS POLIN] (1494)' triangle
+1475 'Songan [mo o/ MATEUS POLIN] (1495)' ellipse
+1476 'Nyakakes [wife o/ CHAUKA] (1496)' ellipse
+1477 'POKAON [fa o/ Nyarames] (1497)' triangle
+1478 'Sain [mo o/ Nyarames] (1498)' ellipse
+1479 'Kunera Sosongan (1499)' ellipse
+1480 'POIYAP (1500)' triangle
+1481 'Pwailep (1501)' ellipse
+1482 'PAITAS KANANDRU (1502)' triangle
+1483 'SALIKON POPEO (1503)' triangle
+1484 'MOLEAN MANOI (1504)' triangle
+1485 'MAYA [fa of Anton MOLEAN?] (1505)' triangle
+1486 '[mo o/ ANTON MOLEAN?] (1506)' ellipse
+1487 'WEYA [son o/ SAMEAN] (1507)' triangle
+1488 '[Name unknown - fa o/ SAMEAN] (1509)' triangle
+1489 '[Name unknown - mo o/ SAMEAN] (1510)' ellipse
+1490 'NDRITELUNG POLIKI (1511)' triangle
+1491 'Itong (1512)' ellipse
+1492 'CHOLAI [fa o/ Nyatunu] (1513)' triangle
+1493 '[mo o/ Nyatunu] (1514)' ellipse
+1494 'POMELEU (1516)' triangle
+1495 'Nyamoke (1517)' ellipse
+1496 'POTYILI [fa o/ PIKOK] (1518)' triangle
+1497 '[Name unknown, mo o/ PIKOK] (1519)' ellipse
+1498 '[Name unknown, hus o/ Tapatop] (1520)' triangle
+1499 '[Name unknown, fa o/ POSELAUT] (1521)' triangle
+1500 '[Name unknown, mo o/ POSELAUT] (1522)' ellipse
+1501 '[Name unknown, fa o/ KAKESAN] (1523)' triangle
+1502 '[Name unknown, mo o/ KAKESAN] (1524)' ellipse
+1503 'Nyandros [wife o/ OTTO PALIAU] (1525)' ellipse
+1504 'Ilei Chanachan (1526)' ellipse
+1505 'PATRI (1527)' triangle
+1506 '[Name unknown, hus o/ Piwen] (1528)' triangle
+1507 'POPEO (1529)' triangle
+1508 'Molong Popeo (1530)' ellipse
+1509 'Poilep Popeo (1531)' ellipse
+1510 'Rita Popeo (1532)' ellipse
+1511 'POSALA (1533)' triangle
+1512 'Nyamindro (1534)' ellipse
+1513 'Nyatuk (1535)' ellipse
+1514 'POMAT CHOLAI (1536)' triangle
+1515 'SELAN PWENDRILEI (1537)' triangle
+1516 'Nyalel (1538)' ellipse
+1517 'MALEAN [fa. o/ PILIBUS POLIAP] (1539)' triangle
+1518 'Tyopondo (1540)' ellipse
+1519 '[Name unknown, bro F. POKANAU] (1541)' triangle
+1520 '[Name unknown, wife o/ above] (1542)' ellipse
+1521 'JOSEP NYATOP (1543)' triangle
+1522 'Ikanau Kaloi (1544)' ellipse
+1523 'POTUAN KALOI (1545)' triangle
+1524 'NARONKEI (1546)' triangle
+1525 '[Name unknown, wife o/ above] (1547)' ellipse
+1526 '[Name unknown, fa o/ POPOT] (1548)' triangle
+1527 '[Name unknown, mo o/ POPOT] (1549)' ellipse
+1528 'PONDRAKEN POPICH (1550)' triangle
+1529 'BOMBUAI (1551)' triangle
+1530 'Pinjer [wife o/ BOMBUAI] (1552)' ellipse
+1531 'Ngamean [da. o/ BOMBUAI] (1553)' ellipse
+1532 '[Name unknown, hus o/ Ngamean] (1554)' triangle
+1533 'POKAIYO (1555)' triangle
+1534 '[Name unknown, mo o/ KEMWAI] (1556)' ellipse
+1535 'PONANGAL (1557)' triangle
+1536 '[Name unknown mo o/ KATIPAI] (1558)' ellipse
+1537 'Poilep Posangat (1559)' ellipse
+1538 'POMELEU KARAMAN (1560)' triangle
+1539 'Sofia Ipweo Poiyo (1561)' ellipse
+1540 'BERNAT fIAKIS (1562)' triangle
+1541 'TITUS MAKIS (1563)' triangle
+1542 'Nasua Janet [=TITUS] (1564)' ellipse
+1543 'WINSEN TITUS (1565)' triangle
+1544 'Julie Titus (1566)' ellipse
+1545 'RAILIE TITUS (1567)' triangle
+1546 'Grace Titus (1568)' ellipse
+1547 'Meri Makis (1569)' ellipse
+1548 'MOTAN (1570)' triangle
+1549 'ROBERT MOTAN (1571)' triangle
+1550 'RICHARD MOTAN (1572)' triangle
+1551 'Lomot Motan (1573)' ellipse
+1552 'JOHN KANAWI MAKIS (1574)' triangle
+1553 'Poilep Makis (1575)' ellipse
+1554 'JOHN (1576)' triangle
+1555 'PAUL (1577)' triangle
+1556 'Doroti Utan Makis (1578)' ellipse
+1557 'POKANAU WlAKIS (1579)' triangle
+1558 'BRUNO MAKIS (1580)' triangle
+1559 'STEPHEN MAKIS (1581)' triangle
+1560 'Gertrude Makis (1582)' ellipse
+1561 'Stillbirth [o/ Makis] (1583)' diamond
+1562 'Stillbirth [o/ Makis] (1584)' diamond
+1563 'POPE POIYO (1585)' triangle
+1564 'POKIAP (1586)' triangle
+1565 '[Name unk. = 2029] (1587)' triangle
+1566 'Paula Poiyo (1591)' ellipse
+1567 'PASEN [hus o/ Paula] (1592)' triangle
+1568 'SIMON PASEN (1593)' triangle
+1569 'Nyamatja Pasen (1594)' ellipse
+1570 'KALOI PASEN (1595)' triangle
+1571 'Nyalai Pasen (1596)' ellipse
+1572 'Komwet Pasen (1597)' ellipse
+1573 'KISOKAU LITAU (1598)' triangle
+1574 'Infant o/ OKO SUEAN (1599)' ellipse
+1575 'Infant o/ OKO SUEAN (1600)' ellipse
+1576 'Infant o/ OKO SUEAN (1601)' ellipse
+1577 'Infant o/ OKO SUEAN (1602)' ellipse
+1578 'Infant o/ OKO SUEAN (1603)' ellipse
+1579 'Infant o/ SAOT (1604)' ellipse
+1580 'Infant o/ SAOT (1605)' ellipse
+1581 '[Name unknown fa o/ POTIK] (1606)' triangle
+1582 '[Name unknown mo o/ POTIK] (1607)' ellipse
+1583 'Inrilo Paniu (1608)' ellipse
+1584 'KUKAN LALOLA (1609)' triangle
+1585 'KANAWI LALOLA (1610)' triangle
+1586 'POKUS KALI (1611)' triangle
+1587 'Molong Nyamalau (1612)' ellipse
+1588 'MOLEAN POKUS (1613)' triangle
+1589 'WAINIU POKUS (1614)' triangle
+1590 '[Name unknown, wife o/ Wainiu] (1615)' ellipse
+1591 'Ilan [o/ above] (1616)' ellipse
+1592 'TAPAS [hus o/ Ilan] (1617)' triangle
+1593 'Child o/ POWASEU/Namenya (1618)' triangle
+1594 'Child o/ POWASEU/Namenya (1619)' triangle
+1595 'Child o/ POWASEU/Namenya (1620)' triangle
+1596 'Nyaulu (1621)' ellipse
+1597 'PALIO (1622)' triangle
+1598 'Poilep Palio (1623)' ellipse
+1599 '[Name unknown, hus o/ above] (1624)' triangle
+1600 'TOMAS [o/ above] (1625)' triangle
+1601 'Poilep Posuman (1626)' ellipse
+1602 'PALIAU POKIAP #1 (1627)' triangle
+1603 'PALIAU POKIAP (1628)' triangle
+1604 'CHAMILOU MOLEAN SAMOL (1629)' triangle
+1605 'Sila (1630)' ellipse
+1606 'AUGUST SAMOL (1631)' triangle
+1607 'MOLEAN SAMOL (1632)' triangle
+1608 'Lillian Posenau (1633)' ellipse
+1609 'Nyalaiap Kanamony (1634)' ellipse
+1610 'MAMUT (1635)' triangle
+1611 'Alupwai Pokulai (1636)' ellipse
+1612 'NYANKSON (1637)' triangle
+1613 'RAFAEL SONY (1638)' triangle
+1614 'Maria (1639)' ellipse
+1615 'PONDROS (1640)' triangle
+1616 'LOKES CHANAN (1641)' triangle
+1617 '[Name unknown, wife o/ 1641] (1642)' ellipse
+1618 '[Name unknown, male, o/ POTIK] (1643)' triangle
+1619 'Ilan Taini (1644)' ellipse
+1620 'Lomot Paliau (1645)' ellipse
+1621 'LUKAS KONDAI (1646)' triangle
+1622 'Nyapin Kondai (1647)' ellipse
+1623 '[Name unknown] (1648)' triangle
+1624 '[Name/sex unknown] (1649)' diamond
+1625 '[Name/sex unknown] (1650)' diamond
+1626 'Nyalawen Chanachan (1651)' ellipse
+1627 'Kametal Ndritako (1652)' triangle
+1628 'POKANAU PAKOP (1653)' triangle
+1629 'KUMALAU POLIAP (1654)' triangle
+1630 'Kiteni Kilepak #1 (1655)' ellipse
+1631 'PONDROS DABAON (1656)' triangle
+1632 'NYAMASUE POKOWEI (1657)' triangle
+1633 'Keyau Nyamasue (1658)' ellipse
+1634 'TUL (1659)' triangle
+1635 'Maria Keyau Tul (1660)' ellipse
+1636 '[Name unknown, - 1660] (1661)' triangle
+1637 '[Name/sex unknown] (1662)' diamond
+1638 '[Name/sex unknown] (1663)' diamond
+1639 'SAMOL TUL (1664)' triangle
+1640 '[Name unknown,=1664] (1665)' ellipse
+1641 '[Name/sex unknown] (1666)' diamond
+1642 '[Name/sex unknown] (1667)' diamond
+1643 '[Name/sex unknown] (1668)' diamond
+1644 '[Name/sex unknown] (1669)' diamond
+1645 'TAYAN TUL (1670)' triangle
+1646 'Katerina Isangol Nyasmasue (1671)' ellipse
+1647 'Nyalam Pongaty (1672)' ellipse
+1648 '[Name unknown,=1672] (1673)' triangle
+1649 'Kisolel (1674)' ellipse
+1650 'POWASEU POKAKES (1675)' triangle
+1651 'POSENDRUAN POMAT (1676)' triangle
+1652 'Nialel Malai (1677)' ellipse
+1653 'POLIN POMAT (1678)' triangle
+1654 'PONYELOU POMAT (1679)' triangle
+1655 'POKAIYO PONOWAN (1680)' triangle
+1656 'TAPAS POMAT (1681)' triangle
+1657 '[Name unknown, infant] (1682)' ellipse
+1658 'Nyalawen Kilepak (1684)' ellipse
+1659 'CHAKUMAI PAKOP (1685)' triangle
+1660 'LENGAL PAKOP (1686)' triangle
+1661 'LITAU POMAT (1687)' triangle
+1662 'PALIAU NYAMAL (1688)' triangle
+1663 'Nyamai Ponyelou (1689)' ellipse
+1664 'Caroline [wife o/ 0100] (1690)' ellipse
+1665 'LESTER KUMAION (1691)' triangle
+1666 'ROBIN LEPON (1692)' triangle
+1667 'Ipul Lepon (1693)' ellipse
+1668 'SALEYAU POKOWEI (1694)' triangle
+1669 'Lucy Polum (1695)' ellipse
+1670 'POKANAU POLIN (1696)' triangle
+1671 'MOLEAN POLIN (1697)' triangle
+1672 'Maria Polin (1698)' ellipse
+1673 'Piwen Cholai (1699)' ellipse
+1674 '[Name unknown, fa o/ 0854 (1700)' triangle
+1675 '[Name unknown, mo o/ 0854] (1701)' ellipse
+1676 '[Name unknown, fa o/ 1497 (1702)' triangle
+1677 '[Name unknown, mo o/ 1497] (1703)' ellipse
+1678 'Nialaiap Chamilou (1705)' ellipse
+1679 '[Name unknown,=ANGKAT] (1706)' ellipse
+1680 'Nyalapan Pochelau (1707)' triangle
+1681 'Piwen Pokowei [ad by 0506/0241] (1708)' ellipse
+1682 'PANDRAWAI (1709)' triangle
+1683 '[Name unknown,=PANDRAWAI] (1710)' ellipse
+1684 'Itong Chawan (1711)' ellipse
+1685 'GRAHAM LEVI (1712)' triangle
+1686 'Miriam Levi (1713)' ellipse
+1687 'SELAN LEVI (1714)' triangle
+1688 '[Name unknown, girl] (1715)' ellipse
+1689 'GABRIEL POLOPWE (1716)' triangle
+1690 'Poilep Polopwe (1717)' ellipse
+1691 'DONALD SIGAMATA (1718)' triangle
+1692 'POLIN SIGAMATA (1719)' triangle
+1693 'JASON SIGAMATA (1720)' triangle
+1694 'THOMAS SIGAMATA (1721)' triangle
+1695 'PELE SIGAMATA (1722)' triangle
+1696 'Ilan Polopwe (1723)' ellipse
+1697 'MOLEAN POMAT (1724)' triangle
+1698 'MANOI PANDRAWAI (1725)' triangle
+1699 'Ipau Pandrawai (1726)' ellipse
+1700 '[Man, name unknown] (1727)' triangle
+1701 'PATRICK MANUAI ANGKAR (1728)' triangle
+1702 'Nyapanop (1729)' ellipse
+1703 'MANUAI ANGKAR (1730)' triangle
+1704 'Nyawaseu [=1728] (1731)' ellipse
+1705 'POMISIM (1732)' triangle
+1706 '[Name unknown, - 1732] (1733)' ellipse
+1707 'Melen Pomisim (1734)' ellipse
+1708 'KANAWI POMELEU (1735)' triangle
+1709 '[Name unknown, = 1735] (1736)' ellipse
+1710 'KITECHET POMELEU (1737)' triangle
+1711 'Karola Sisi (1738)' ellipse
+1712 '[Name unknown, = 1738] (1739)' triangle
+1713 '[Name/sex unknown] (1740)' diamond
+1714 '[Name/sex unknown] (1741)' diamond
+1715 '[Name/sex unknown] (1742)' diamond
+1716 '[Name/sex unknown] (1743)' diamond
+1717 '[Name/sex unknown] (1744)' diamond
+1718 'MOMALEI KANAWI (1745)' triangle
+1719 'Hiap Kanawi (1746)' ellipse
+1720 '[Name unknown, = 1746] (1747)' triangle
+1721 'POCHELAU [o/ 2119] (1748)' triangle
+1722 '[Name unknown, = 1748] (1749)' ellipse
+1723 '[Name unknown, o/ 1748] (1750)' triangle
+1724 'FRANCIS [o/ 1747] (1751)' triangle
+1725 'Moenai [= 1751] (1752)' ellipse
+1726 '[Name/sex unknown] (1753)' diamond
+1727 '[Name/sex unknown] (1754)' diamond
+1728 '[Name/sex unknown] (1755)' diamond
+1729 '[Name/sex unknown] (1756)' diamond
+1730 '[Name/sex unknown] (1757)' diamond
+1731 'Poilep [o/ 2119] (1758)' ellipse
+1732 'TAINI POKATOU (1759)' triangle
+1733 '[Name/sex unknown] (1760)' diamond
+1734 '[Name/sex unknown] (1761)' diamond
+1735 '[Name/sex unknown] (1762)' diamond
+1736 '[Name/sex unknown] (1763)' diamond
+1737 '[Name/sex unknown] (1764)' diamond
+1738 'POMELEU (1765)' triangle
+1739 '[Name unknown, = 1765] (1766)' ellipse
+1740 'KUTAN KEPINIU (1767)' triangle
+1741 'PONDROS KEPENIU (1768)' triangle
+1742 'Kiapung Kepeniu (1769)' ellipse
+1743 'POKATOU KEPENIU (1770)' triangle
+1744 'Solong Kepeniu (1771)' ellipse
+1745 'PAKOP KEPENIU (1772)' triangle
+1746 'MANOI KEPENIU (1773)' triangle
+1747 'Nyachachen Kepeniu (1774)' ellipse
+1748 'Nyalawen Kepeniu (1775)' ellipse
+1749 'DEAN KEPENIU (1776)' triangle
+1750 'KIAPUNG PAKA (1777)' triangle
+1751 'Solong Paka (1778)' ellipse
+1752 'RABI POKATOU (1779)' triangle
+1753 'LOKES POKATOU (1780)' triangle
+1754 'Kristina Itong (1781)' ellipse
+1755 'Lomot Malai (1782)' ellipse
+1756 'KAPOU (1783)' triangle
+1757 '[Name unknown, = 2393] (1784)' triangle
+1758 'BOPAU ANGKAR (1788)' triangle
+1759 'KIAPIN ANGKAR (1789)' triangle
+1760 'BERNAT CHAUKA ANGKAR (1791)' triangle
+1761 'KALIS ANGKAR (1792)' triangle
+1762 'Nyandruan Manoi (1793)' ellipse
+1763 '[Unnamed female, stillbirth] (1794)' ellipse
+1764 'PETER POLOU KILEPAK (1795)' triangle
+1765 'POPONOU POKIAP (1796)' triangle
+1766 'Kauncho Pokiap (1797)' ellipse
+1767 'Nyalel Polum (1798)' ellipse
+1768 'Naomi [= 0088] (1799)' ellipse
+1769 'Lomot Polum (1800)' ellipse
+1770 'PONYO POCHELON (1801)' triangle
+1771 'KALOI KITEMONG (1802)' triangle
+1772 'Ipak Kitemong (1803)' ellipse
+1773 '[Name unknown, = 0096] (1804)' ellipse
+1774 '[Name unknown, male] (1805)' triangle
+1775 'Nama Kini (1806)' ellipse
+1776 'JOHN KISOKAU POLUM [MATAWAI] (1807)' triangle
+1777 'Ipau Cholai (1810)' ellipse
+1778 'Nyalin Polin (1811)' ellipse
+1779 'PATALIAN PONDRAKEN (1812)' triangle
+1780 'KUSUNAN CHANACHAN (1813)' triangle
+1781 'Catherine Samol (1814)' ellipse
+1782 'Janet [= 0139] (1815)' ellipse
+1783 'ANGKAT POKAKES (1816)' triangle
+1784 'PATARAN (1817)' triangle
+1785 'Keyau (1818)' ellipse
+1786 'Pikaro [#2 = 1817] (1819)' ellipse
+1787 'Pinangan [Itong] (1820)' ellipse
+1788 'AKUSTIN POPWAL KAKESAN (1821)' triangle
+1789 'Lomot (1822)' ellipse
+1790 'KILAWEI (1823)' triangle
+1791 '[Name unknown, = 0231] (1824)' triangle
+1792 'Piuru Nambuen (1825)' ellipse
+1793 '[Name unknown, female] (1826)' ellipse
+1794 'POKAIYO MATAMBUAI (1827)' triangle
+1795 'Nyawaseu Matambuai (1828)' ellipse
+1796 'POISIE (1829)' triangle
+1797 'Nyamatou Poisie (1830)' ellipse
+1798 '[Name unknown, = 0270] (1831)' triangle
+1799 'LEO KALUWIN (1832)' triangle
+1800 'MANOI KANAMONY (1833)' triangle
+1801 'TUAIN KANAMONY (1834)' triangle
+1802 '[Name unknown, = 0277] (1835)' triangle
+1803 'KISOKAU (1836)' triangle
+1804 'WINSEN TONAM (1837)' triangle
+1805 'Aliam Tonam (1838)' ellipse
+1806 'KANAWI KANAMONY (1839)' triangle
+1807 'PONYO KANAMONY (1840)' triangle
+1808 '[Unnamed stillborn] (1841)' diamond
+1809 'KUMALAU MANOI (1842)' triangle
+1810 'PEPE KANAMONY (1843)' triangle
+1811 'POKUT (1844)' triangle
+1812 'POSANGAT PAPI (1845)' triangle
+1813 'KIALO MANOI (1846)' triangle
+1814 'Rosina Manoi (1847)' ellipse
+1815 'Malamal Manoi (1848)' ellipse
+1816 'KANAWI (1849)' triangle
+1817 '[Name/sex unknown] (1850)' diamond
+1818 '[Name/sex unknown] (1851)' diamond
+1819 'KISOKAU (1852)' triangle
+1820 'Salita Kisokau (1853)' ellipse
+1821 'Keyau Bonyalo (1854)' ellipse
+1822 'POPOT MOLEAN (1855)' triangle
+1823 'BUKAHAU [fa o/ 0323] (1856)' triangle
+1824 'SELAN CHALAPAN (1857)' triangle
+1825 'POLIAP CHALAPAN (1858)' triangle
+1826 '[Name unknown, fa o/ 0341] (1859)' triangle
+1827 '[Name unknown, mo o/ 0341] (1860)' ellipse
+1828 'Kisolel Kanandru (1861)' ellipse
+1829 'POCHELON TAPAS (1862)' triangle
+1830 'KOMET POLIAP (1863)' triangle
+1831 'Niaumalau Poliap (1864)' ellipse
+1832 'POPATA (1865)' triangle
+1833 'Maria Piwen (1866)' ellipse
+1834 '[Name unknown, fa o/ 0668] (1867)' triangle
+1835 '[Name unknown, mo o/ 0668] (1868)' ellipse
+1836 'Mary [div. wife JOE LOKES] (1869)' ellipse
+1837 'SIMON LOKES (1870)' triangle
+1838 'Ipau Lokes (1871)' ellipse
+1839 'Nyama Pimpati (1872)' ellipse
+1840 '[Name unknown] (1873)' triangle
+1841 '[Name unknown] (1874)' ellipse
+1842 'ANIS MATAMBUAI (1875)' triangle
+1843 'Maria Nyalel (1876)' ellipse
+1844 '[Name unknown, fa o/ 0833] (1877)' triangle
+1845 '[Name unknown, mo o/ 0833] (1878)' ellipse
+1846 'Lucy Nyalam Tanou (1879)' ellipse
+1847 'Delcey Molong Tanou (1880)' ellipse
+1848 'RAPAIL PETRUS (1881)' triangle
+1849 'PETER PETRUS (1882)' triangle
+1850 'KANAWI PETRUS (1883)' triangle
+1851 'Josephine Petrus (1884)' ellipse
+1852 'Makarta Petrus (1885)' ellipse
+1853 'Bernadette Petrus (1886)' ellipse
+1854 'BUALANIN [Fa o/ 0848] (1887)' triangle
+1855 '[Name unknown, = 1887] (1888)' ellipse
+1856 '[Name/sex unknown - see OP4] (1891)' diamond
+1857 '[Name/sex unknown - see OP4] (1892)' diamond
+1858 '[Name/sex unknown - see OP4] (1893)' diamond
+1859 '[Name/sex unknown - see OP4] (1894)' diamond
+1860 '[Name unknown, fa o/KIALO] (1895)' triangle
+1861 '[Name unknown, mo o/KIALO] (1896)' ellipse
+1862 'POPWE [fa o/ Nialapan (1897)' triangle
+1863 'PAPWAI [fa o/ GABRIEL MANOI] (1898)' triangle
+1864 'Nyatui [mo o/ GABRIEL MANOI] (1899)' ellipse
+1865 'Imony Kitemong (1900)' ellipse
+1866 'CHAUKA KITEMONG (1901)' triangle
+1867 '[Name unknown, fa o/ LOKOWA] (1902)' triangle
+1868 '[Name unknown, mo o/ LOKOWA] (1903)' ellipse
+1869 '[Unnamed male twin] (1904)' triangle
+1870 '[Unnamed male twin] (1905)' triangle
+1871 '[Name unknown, = 1861] (1906)' triangle
+1872 'PAKOP KANAWI (1907)' triangle
+1873 'PONYELOU KANAWI (1908)' triangle
+1874 '[Unnamed stillborn female] (1909)' ellipse
+1875 'Nyandruan Kanawi (1910)' ellipse
+1876 'CHAMOKOU POSIN (1911)' triangle
+1877 '[Name unknown, = 1911, above] (1912)' ellipse
+1878 'Kawalau (1913)' ellipse
+1879 '[Name unknown, #1 = 1223. Lena] (1914)' triangle
+1880 '[Name unknown, #3 5 1223. Lena] (1915)' triangle
+1881 'PIUS 1= 1277. Ikanau Noan] (1916)' triangle
+1882 'Lucy Pius (1917)' ellipse
+1883 'Sisilia Pius (1918)' ellipse
+1884 'MAYA PIUS (1919)' triangle
+1885 'Paula Pius (1920)' ellipse
+1886 'Piwen Pius (1921)' ellipse
+1887 'PONYO SULUAN (1922)' triangle
+1888 '[Name unknown male] (1923)' triangle
+1889 'STEVEN POSENAU (1925)' triangle
+1890 'Piwen Pomat (1926)' ellipse
+1891 'Nauna Tapito (1927)' ellipse
+1892 'POKATOU (1928)' triangle
+1893 'KUSUNAN POKATOU (1929)' triangle
+1894 'Josepa Peruwan (1930)' ellipse
+1895 '[Name unknown] (1931)' triangle
+1896 'Paula Pwenchiam (1932)' ellipse
+1897 'OTTO KANAMONY MANOI (1933)' triangle
+1898 'Maria Bombuai (1934)' ellipse
+1899 'BOMBUAI (1935)' triangle
+1900 'Salikon Pwanau (1936)' ellipse
+1901 'PWANAU (1937)' triangle
+1902 'POKAIYO (1938)' triangle
+1903 '[Name unknown, = 1938 above] (1939)' ellipse
+1904 'NAWAN (1940)' triangle
+1905 '[Name unknown, = NAWAN, above (1941)' ellipse
+1906 'KALIMON (1942)' triangle
+1907 'Name unknown, = KALIMON, above] (1943)' ellipse
+1908 'CHAKUMAI SORI (1944)' triangle
+1909 'Poilep Sori (1945)' ellipse
+1910 'POKANAU KUTAN (1946)' triangle
+1911 '[Name/sex unknown, o/ 0022] (1947)' diamond
+1912 'KISOKAU MATAWAI (1948)' triangle
+1913 'Peita Matawai (1949)' ellipse
+1914 'MAKI TIKO (1950)' triangle
+1915 'NAMELE TIKO (1951)' triangle
+1916 '[Name unknown, gmo o/ 0173] (1952)' ellipse
+1917 '[Name unknown, gfa o/ 0173] (1953)' triangle
+1918 'Kisolel (1954)' ellipse
+1919 'SALEU (1955)' triangle
+1920 'BRIAN CAMPBELL (1956)' triangle
+1921 'Tuain Kaloi (1957)' ellipse
+1922 'Nyalawen Lukas (1958)' ellipse
+1923 'TUAIN LUKAS (1959)' triangle
+1924 '[Name unknown, = 1483. POSUL] (1960)' ellipse
+1925 'KILA, JR. (1961)' triangle
+1926 'POSALAK KILA (1962)' triangle
+1927 '[Name unknown, o/ 0815.POKOM] (1963)' ellipse
+1928 'Itong Chawan (1964)' ellipse
+1929 'MATJE POLIAP PAPA (1965)' triangle
+1930 'Kunera Chawan (1966)' ellipse
+1931 'PRANIS KANANDRU (1967)' triangle
+1932 'MOLEAN (1968)' triangle
+1933 '[Name unknown, = 1968, above] (1969)' ellipse
+1934 'FRANCIS MALIKES MOLEAN (1970)' triangle
+1935 '[Name unknown, = 1970, above] (1971)' ellipse
+1936 'LANGOAN (1972)' triangle
+1937 'Pwai (1973)' ellipse
+1938 'MAKU (1974)' triangle
+1939 '[Name unknown, male, o/ KAMIT] (1975)' triangle
+1940 '[Name unknown, male, o/ KAMIT] (1976)' triangle
+1941 '[Name unknown, girl, o/ KAMIT] (1977)' ellipse
+1942 '[Name unknown, girl, o/ KAMIT] (1978)' triangle
+1943 'LUKAS TANI KAMIT (1979)' triangle
+1944 'Ilepin (1980)' ellipse
+1945 'Lea Tani (1981)' ellipse
+1946 'Ngamato (1982)' ellipse
+1947 '[Name unknown, = 1982, above] (1983)' triangle
+1948 'BEN PONDRAIN (1984)' triangle
+1949 'KALUWIN PONDRAIN (1985)' triangle
+1950 'POMAT POPE (1986)' triangle
+1951 '[Name unknown, female o/ POPE] (1987)' ellipse
+1952 'Lomot Pope (1988)' ellipse
+1953 'CHALAPAN (1989)' triangle
+1954 'MSAYON [fa o/ BERNAT MAKIS] (1990)' triangle
+1955 '2nd Sister o/ SAMEAN (1991)' ellipse
+1956 'POYEM (1992)' triangle
+1957 'PAPI POYEM (1993)' triangle
+1958 'Josepa [= PAPI, above] (1994)' ellipse
+1959 'Ninou Papi (1995)' ellipse
+1960 'PIKAH KASAU (1996)' triangle
+1961 '[Name unknown, o/ PIKAH, above] (1997)' diamond
+1962 'KIKIA (1998)' triangle
+1963 '[=YIKIA, above] (1999)' ellipse
+1964 'Taliye Pwanau (2000)' ellipse
+1965 'BERNAT KANAWI KAILO (2001)' triangle
+1966 'Kiteni Kailo (2002)' ellipse
+1967 'Nyasangat Kailo (2003)' ellipse
+1968 'Lita Kailo (2004)' ellipse
+1969 'POKANAU KAILO (2005)' triangle
+1970 'Nyachalau Kailo (2006)' ellipse
+1971 '[Name unknown, male, o/ 1159 (2007)' triangle
+1972 'Nyakakes (2008)' ellipse
+1973 'TAPAS (2009)' triangle
+1974 'Kusunan (2010)' ellipse
+1975 'Pesi Kaluwin (2011)' ellipse
+1976 'CHAMPALAN [fa o/ PWISEU] (2012)' triangle
+1977 '[Name unknown, = CHAMPALAN] (2013)' ellipse
+1978 'MOLEAN [fa o/ CHAMPALAN] (2014)' triangle
+1979 '[Name unknown, = MOLEAN] (2015)' ellipse
+1980 'POKOPWEN (2016)' triangle
+1981 'Nyalaiap Pwiseu (2017)' ellipse
+1982 'JOHANIS KUTAN (2018)' triangle
+1983 '[Name/sex unknown] (2019)' diamond
+1984 '[Name/sex unknown] (2020)' diamond
+1985 '[Name/sex unknown] (2021)' diamond
+1986 '[Name/sex unknown] (2022)' diamond
+1987 '[Name/sex unknown] (2023)' diamond
+1988 '[Name/sex unknown] (2024)' diamond
+1989 'Ponyama Molean (2025)' ellipse
+1990 'MIKAIL PONOWAN (2026)' triangle
+1991 'Itchamel Ponowan (2027)' ellipse
+1992 'PAULUS (2028)' triangle
+1993 'Piwen Paulus [married] (2029)' ellipse
+1994 'Ilan Paulus (2030)' ellipse
+1995 'Kauncho Ponowan (2031)' ellipse
+1996 'PRANIS PASO (2032)' triangle
+1997 'Nyachalau Paso (2033)' ellipse
+1998 'Ilango Paso (2034)' ellipse
+1999 'SELAN PASO (2035)' triangle
+2000 'Nyawaseu Paso (2036)' ellipse
+2001 'Molong Paso (2037)' ellipse
+2002 'Karola Piwen Ponowan (2038)' ellipse
+2003 'SIRIP (2039)' triangle
+2004 'CHAPAU SIRIP (2040)' triangle
+2005 'Kapapoi Sirip (2041)' ellipse
+2006 'KOVE, JR. (2044)' triangle
+2007 'Kiteni Paniu (2045)' ellipse
+2008 'ELIAS BOMBUAI (2047)' triangle
+2009 'Nialangat Nyamal (2048)' ellipse
+2010 '[Name/sex unknown, twin] (2049)' diamond
+2011 'PONDROS [fa o/ NDROSOU] (2050)' triangle
+2012 '[Name unknown, = PONDROS] (2051)' ellipse
+2013 'MPUNYON [fa o/ PONDROS] (2052)' triangle
+2014 '[Name unknown, = MPUNYON] (2053)' ellipse
+2015 'CHANGKOL [fa o/ MPUNYON] (2054)' triangle
+2016 '[Name unknown, = CHANGKOL] (2055)' ellipse
+2017 'Nyalapan Pochalon (2056)' ellipse
+2018 '[Name unknown, = Nyalapan #2] (2057)' triangle
+2019 'MALAMAL [fa o/ Kisae] (2058)' triangle
+2020 '[Name unknown, = MALAMAL] (2059)' ellipse
+2021 'Ikanau Kilepak (2060)' ellipse
+2022 'NKANKAI [fa o/ PASEN] (2061)' triangle
+2023 '[Name unknown, = NKANKAI] (2062)' ellipse
+2024 '[Name unknown, dau o/ CHAMPALAN] (2063)' ellipse
+2025 'YAWOW [fa o/ Teresia Nyawali] (2064)' triangle
+2026 'Nyamai Pomalat (2066)' ellipse
+2027 'JOSEP POPE (2067)' triangle
+2028 'KAROL POPE (2068)' triangle
+2029 'Piwen Pope (2069)' ellipse
+2030 'PANKIAU POPE (2070)' triangle
+2031 'Indole Pope (2071)' ellipse
+2032 'JOHN POPE (2072)' triangle
+2033 'Nyakupwen Pope (2073)' ellipse
+2034 'POMO [o/ POMAIN] (2074)' triangle
+2035 'Poat [= POMO] (2075)' ellipse
+2036 'TOMAS POSALAK (2076)' triangle
+2037 'PONGATY (2077)' triangle
+2038 '[=PONGATY] (2078)' ellipse
+2039 'Ilan Pakop (2079)' ellipse
+2040 'JAKOP (2080)' triangle
+2041 'POIYO MANI (2081)' triangle
+2042 'MANI (2082)' triangle
+2043 'Sapa (2083)' ellipse
+2044 'KEN KAMBUO (2084)' triangle
+2045 'POSENAU [see p. 81] (2085)' triangle
+2046 'TYAPO (2086)' triangle
+2047 '[Name unknown, = Nyakupwen Manoi] (2087)' triangle
+2048 'BENEDIK POSANGAT (2088)' triangle
+2049 'PWAIYAP POSANGAT (2090)' triangle
+2050 'Nyawaseu Pomat (2091)' ellipse
+2051 'Ikanau Ponowan (2092)' ellipse
+2052 'Makarta Itong Karotan (2093)' ellipse
+2053 '[Name unknown - infant] (2094)' diamond
+2054 'NASO KANAMONY (2095)' triangle
+2055 'KISOKAU (2096)' triangle
+2056 'SELAN POLUM #1 (2097)' triangle
+2057 'POLONGOU NYAUMALAI (2099)' triangle
+2058 'KALUWIN [fa o/ PASI] (2100)' triangle
+2059 '[Name unknown, = KALUWIN] (2101)' ellipse
+2060 'PALINKIN [fa o/ KALUWIN] (2102)' triangle
+2061 '[Name unknown, = PALINKIN] (2103)' ellipse
+2062 'Elas [= JAMES KAMIT] (2104)' ellipse
+2063 'SELAN KAMIT (2105)' triangle
+2064 'TOM SINTO (2106)' triangle
+2065 'POKANAU [fa o/ Nyachalau] (2107)' triangle
+2066 '[Name unknown, = POKANAU] (2108)' ellipse
+2067 'Ipau Polongou (2109)' ellipse
+2068 'TIMONAI [= Ipau] (2110)' triangle
+2069 'Nyandros [ mo. o/ Lomot/Kimale] (2111)' ellipse
+2070 '[Name unknown, = Nyandros] (2112)' triangle
+2071 '[Name unknown, = Ikanau Sori] (2113)' triangle
+2072 '[Name unknown, #2 = Nyarames] (2114)' triangle
+2073 'DOUGLAS PAKOP (2115)' triangle
+2074 'Gertrude [= GABRIEL POLOPWE] (2116)' ellipse
+2075 'ASARAI [fa o/ POMISIM] (2117)' triangle
+2076 '[Name unknown, = ASARAI] (2118)' ellipse
+2077 '[Name unknown, #2. = Hiap] (2119)' triangle
+2078 'PAPEI [fa o/ ASARAI] (2120)' triangle
+2079 '[Name unknown, = PAPEI] (2121)' ellipse
+2080 'Mary Samol (2122)' ellipse
+2081 'Stella Samol (2123)' ellipse
+2082 'DAVID SAlfOL (2124)' triangle
+2083 'TULONKOL [fa o/ NAUMPWE] (2125)' triangle
+2084 '[Name unknown, = TULONKOL] (2126)' ellipse
+2085 'Nyalawen Chamilou (2127)' ellipse
+2086 'PIUS (2128)' triangle
+2087 'MOLEAN KAMETAN (2129)' triangle
+2088 'PONYO POMAT (2130)' triangle
+2089 'Itong Pomat (2131)' ellipse
+2090 'POKAKES POKOWEI (2132)' triangle
+2091 'MARTIN POKATON (2133)' triangle
+2092 'Maria Losman (2134)' ellipse
+2093 'POKANAU (fa o/PANDRAWAI) (2135)' triangle
+2094 '[Name unknown, = POKANAU] (2136)' ellipse
+2095 'POMATOU [fa o/ POKANAU] (2137)' triangle
+2096 '[Name unknown, = POMATOU] (2138)' ellipse
+2097 'Ianyo Kametan (2139)' ellipse
+2098 'SAMUEL DALIU (2140)' triangle
+2099 'JONA PASWA [#1 = 1190] (2141)' triangle
+2100 '[POSIN [fa o/ Anna Nyamusim] (2142)' triangle
+2101 '[Name unknown, = POSIN] (2143)' ellipse
+2102 '[Name unknown = 1637. NYANKSON] (2144)' ellipse
+2103 'KALACHAMIN [see p. 118] (2145)' triangle
+2104 '[Name unknown, fa o/ PAPI] (2146)' triangle
+2105 '[Name unknown, mo o/ PAPI] (2147)' ellipse
+2106 'CHAUKA (2148)' triangle
+2107 'Nyalawen [rel. to NYAMAL OP43] (2149)' ellipse
+2108 'TAWALI (2150)' triangle
+2109 'Ikanau [= TAWALI] (2151)' ellipse
+2110 'KUMALAU TAWALI [the poet] (2152)' triangle
+2111 'Poilep Tawali (2153)' ellipse
+2112 'Nyalangis Tawali (2154)' ellipse
+2113 'Ipul Tawali (2155)' ellipse
+2114 'Piwen Tawali (2156)' ellipse
+2115 'KIAPIN TAWALI (2157)' triangle
+2116 'Ipapi Papi (2158)' ellipse
+2117 'KAMETAN PAPI (2159)' triangle
+2118 'POCHEPAT (2160)' triangle
+2119 'Lomot (2161)' ellipse
+2120 'Indrilo (2162)' ellipse
+2121 'Nyalin (2163)' ellipse
+2122 'SALEYAU (2164)' triangle
+2123 'BOPAU TAWALI (2165)' triangle
+2124 '[Name unknown, = BOPAU] (2166)' ellipse
+2125 'Ipak Papi (2167)' ellipse
+2126 '[Name unknown, = Ipak Papi] (2168)' triangle
+2127 'Ikanau (2169)' ellipse
+2128 'PAKOB (2170)' triangle
+2129 'POSELAUT (2171)' triangle
+2130 'TOMAS PAPI [d. on Johnson Isl.] (2172)' triangle
+2131 '[Name unknown, = TOMAS PAPI] (2173)' ellipse
+2132 '[Name unknown, son o/ TOMAS PAPI] (2174)' triangle
+2133 'NAUNA PAPI (2175)' triangle
+2134 '[Name unknown, = NAUNA PAPI. (2176)' ellipse
+2135 'KANAWI PAPI (2177)' triangle
+2136 'Ipau (2178)' ellipse
+2137 '[Name/sex unknown] (2179)' diamond
+2138 '[Name/sex unknown] (2180)' diamond
+2139 '[Name/sex unknown] (2181)' diamond
+2140 'KUMALAU POLUMPWE (2182)' triangle
+2141 'JOSEP POTYILI (2183)' triangle
+2142 'Molong Potyili (2184)' ellipse
+2143 'JOHANIS PONDROS (2185)' triangle
+2144 'KANANDRU PONDROS [deaf mute] (2186)' triangle
+2145 'Joanna PotySli (2187)' ellipse
+2146 '[Name unknown, = Joanna] (2188)' triangle
+2147 'TAPAS MWE (2189)' triangle
+2148 'EANAWI MWE [twin] (2190)' triangle
+2149 'PWENDRILEI POKAKES (2192)' triangle
+2150 'KAMBUEN (2194)' triangle
+2151 'Pia [= KAMBUEN] (2195)' ellipse
+2152 'MATEUS KILEPAK (2196)' triangle
+2153 'Ilei [mo o/ LUKAS KONDAI] (2197)' ellipse
+2154 '[Name unknown, = Ilei] (2198)' triangle
+2155 'PAKOP POCHELAU (2199)' triangle
+2156 '[Name unknown, = POTYILI] (2200)' ellipse
+2157 'KANAWI KOMET (2201)' triangle
+2158 'Doroti Titus (2202)' ellipse
+2159 '[Name/sex unknown, o/ MOTAN (2203)' diamond
+2160 '[Name unknown, = JOHN KANAWI] (2204)' ellipse
+2161 'PAKOP POPEO (2205)' triangle
+2162 'Albina Beschel (2206)' ellipse
+2163 'Ikanau Beschel (2207)' ellipse
+2164 'SIGGIE BESCHEL (2208)' triangle
+2165 'Shelley Tapas (2209)' ellipse
+2166 'PONDROS TAPAS (2210)' triangle
+2167 'Tonia Ikanau Selan (2211)' ellipse
+2168 'TOMAS BILIP (2212)' triangle
+2169 'POCHINEI (2214)' triangle
+2170 '[Name unknown, = POCHINEI] (2215)' ellipse
+2171 'MALAWAT POCHELAU (2216)' triangle
+2172 'PALIAU POKUS (2217)' triangle
+2173 'PONDROS POKUS (2218)' triangle
+2174 'KUMAION [o/ SAMEAN] (2219)' triangle
+2175 'MATEUS KILEPAK (2220)' triangle
+2176 'NDRANUM (2221)' triangle
+2177 '[Name unknown, = NDRANUM] (2222)' ellipse
+2178 'CHAMILOU POSENAU POPEO (2223)' triangle
+2179 'POKOWEI POPEO (2224)' triangle
+2180 'Nyakakes Popeo (2225)' ellipse
+2181 '[Female, name unknown] ) (2226)' ellipse
+2182 '[Name unknown, = above] (2227)' triangle
+2183 'KIALO MANOI (2228)' triangle
+2184 'JOHN MANOI (2229)' triangle
+2185 'POLIN MANOI (2230)' triangle
+2186 'PALIAU MANOI (2231)' triangle
+2187 'Itong Manoi (2232)' ellipse
+2188 'TOMAS TAPAS (2233)' triangle
+2189 'Nyamoto (2234)' ellipse
+2190 'Nyakatop Tapas (2235)' ellipse
+2191 'Ilan Tapas (2236)' ellipse
+2192 'POKAREU (2237)' triangle
+2193 '[Name unknown, = above] (2238)' ellipse
+2194 'KAPO (2240)' triangle
+2195 '[Name unknown, male infant] (2241)' triangle
+2196 '[Name unknown, male infant] (2242)' triangle
+2197 'PANKIAU KEYAI (2243)' triangle
+2198 'Ilan Tapito (2249)' ellipse
+2199 '[Unnamed stillborn female] (2250)' ellipse
+2200 'POSUL POKUS (2251)' triangle
+2201 'Nyandros (2252)' ellipse
+2202 '[Unnamed stillborn male] (2253)' triangle
+2203 'MICHAEL WARREN (2254)' triangle
+2204 'Asila Ipak Chaponan (2255)' ellipse
+2205 'BENEDIK TUL (2256)' triangle
+2206 'Pikawas Matawai (2257)' ellipse
+2207 'Margaret Matawai (2258)' ellipse
+2208 'Nyakupwen Pomai (2259)' ellipse
+2209 'Molong Songan (2260)' ellipse
+2210 '[Name unknown, fa o/ Ndrantche] (2261)' triangle
+2211 '[Name unknown, mo o/ Ndrantche] (2262)' ellipse
+2212 'KIALO [#2 = Lauwyang] (2263)' triangle
+2213 'Main Pokaiyo (2264)' ellipse
+2214 'NDRAPO (2265)' triangle
+2215 'Monika Pomat [o/ CHAMILOU] (2266)' ellipse
+2216 '[Name/sex unknown, o/ KEYAI] (2267)' diamond
+2217 '[Name/sex unknown, o/ KEYAI] (2268)' diamond
+2218 '[Name/sex unknown, o/ KEYAI] (2269)' diamond
+2219 'POKAI NDRAPO (2270)' triangle
+2220 'SIMON POKATOU (2271)' triangle
+2221 'Lomot Pokatou (2272)' ellipse
+2222 'MOLEAN TAPITO (2273)' triangle
+2223 'TAPAS TAPITO (2274)' triangle
+2224 'Ipau Tapito (2275)' ellipse
+2225 'Talawan Tapito (2276)' ellipse
+2226 'Ilei [#1. = POWEN] (2277)' ellipse
+2227 '[Name unknown, fa o/ Sally] (2281)' triangle
+2228 'Kristina Nyamatan Pongi (2282)' ellipse
+2229 'STEPHEN SELAN (2283)' triangle
+2230 'Sepa Piwen Pongi (2284)' ellipse
+2231 '[Name unknown, = Sepa] (2285)' triangle
+2232 'Alupwai Chamuko (2286)' ellipse
+2233 'PALIAU (2287)' triangle
+2234 '[Name unknown](see 0052) (2289)' triangle
+2235 '[Name unknown, fa o/ PATARAN] (2290)' triangle
+2236 '[Name unknonwn, mo o/PATARAN] (2291)' ellipse
+2237 '[Name unknown, fa o/XIAN MALAI] (2292)' triangle
+2238 '[Name unknown, mo o/XIAN MALAI] (2293)' ellipse
+2239 'PWENDRILEI SIOLA (2294)' triangle
+2240 'Kauyap Siola (2295)' ellipse
+2241 '[Name unknown, #1. = Pwateli] (2298)' triangle
+2242 'Sapa Pokowei (2299)' ellipse
+2243 'NDREPI [o/ SAMEAN] (2300)' triangle
+2244 'Ona Titus (2301)' ellipse
+2245 'Ipau [= KALOAN] (2302)' ellipse
+2246 'POSANGAT LALOLA (2303)' triangle
+2247 'KAMETAN LALOLA (2304)' triangle
+2248 'POLUMWE LALOLA (2305)' triangle
+2249 'Aloisia Ipak Ndrosou (2306)' ellipse
+2250 'Kiteni Dabaon (2307)' ellipse
+2251 'Ipau Chanan (2308)' ellipse
+2252 'TAPAS POKOWEI (2309)' triangle
+2253 'MANUAI NOAN (2317)' triangle
+2254 'Molong Pomat (2321)' ellipse
+2255 'Ipau Lokes (2322)' ellipse
+2256 'Nyakapot Potuan (2324)' ellipse
+2257 '[Name unknown, = POYAP] (2325)' ellipse
+2258 'POYAP (2326)' triangle
+2259 'Lomot Ndritako (2327)' ellipse
+2260 'POSALAK NDRITAKO (2328)' triangle
+2261 '[Name/sex unknown] (2329)' diamond
+2262 '[Name/sex unknown] (2330)' diamond
+2263 '[Name unknown, o/ KUSUNAN] (2331)' diamond
+2264 'Apia Pomisim (2332)' ellipse
+2265 'PETRUS POYAP (2333)' triangle
+2266 'ALBERT CHOLAI (2336)' triangle
+2267 '[Name unknown, male] (2337)' triangle
+2268 '[Name unknown, female] (2338)' ellipse
+2269 '[Unnamed stillborn female] (2339)' ellipse
+2270 'NYAMAL SORI (2341)' triangle
+2271 'KATIWAI SORI (2342)' triangle
+2272 'SALEYAU KUTAN (2343)' triangle
+2273 '[Unnamed stillborn, male] (2344)' triangle
+2274 '[Male, name unknown] (2345)' triangle
+2275 '[Name unknown] (2346)' ellipse
+2276 '[Male, name unknown] (2348)' triangle
+2277 'Poilep Malai (2349)' ellipse
+2278 'Imony Keyai (2350)' ellipse
+2279 '[Name unknown, female] (2351)' ellipse
+2280 'Kanda (2352)' ellipse
+2281 'SAM WAIGUMA (2353)' triangle
+2282 'Lola Waiguma (2354)' ellipse
+2283 'MIKAIL KISAPWAI (2355)' triangle
+2284 'Molong Kisapwai (2356)' ellipse
+2285 'KOKO (2357)' triangle
+2286 'POLONGOU KISAPWAI (2358)' triangle
+2287 'LALOAN (2359)' triangle
+2288 'KILEPAK SEMMIE (2360)' triangle
+2289 'SIGI SEMMIE (2361)' triangle
+2290 '[Unnamed stillborn] (2362)' diamond
+2291 'Poilep Manuai (2363)' ellipse
+2292 'POSALAK POPEO (2364)' triangle
+2293 'Nyakupwen Chanachan (2365)' ellipse
+2294 'KISOKAU (2366)' triangle
+2295 '[Name unknown, = KISOKAU] (2367)' ellipse
+2296 'Ipul Matawai (2368)' ellipse
+2297 'Ianyo Matawai (2369)' ellipse
+2298 'SORI MATAWAI #1 (2370)' triangle
+2299 'POKANAU TONAM (2371)' triangle
+2300 'POLIN TONAM (2372)' triangle
+2301 'TANOU TONAM (2373)' triangle
+2302 'FRED TIKO (2374)' triangle
+2303 'Kitemony (2375)' ellipse
+2304 'POKAKES MANOI (2376)' triangle
+2305 'KIAPIN PONOWAN (2377)' triangle
+2306 'MICHAEL PONOWAN (2378)' triangle
+2307 'POSANGAT MANOI (2379)' triangle
+2308 'Julie Leevers (2383)' ellipse
+2309 'Ikanau Pokopwen (2384)' ellipse
+2310 'Nyalawen Pomat (2385)' ellipse
+2311 'POKATON POMAT (2386)' triangle
+2312 'Molong Wtolean (2387)' ellipse
+2313 'Kiteni Kanamony (2388)' ellipse
+2314 'OTTO PAPA (2389)' triangle
+2315 'Nyawaseu Popeo (2390)' ellipse
+2316 'Pwenchiam Kanandru (2391)' ellipse
+2317 'Kiteni Kanandru (2392)' ellipse
+2318 'Martha Kanandru (2393)' ellipse
+2319 'PANKIAU KANANDRU (2394)' triangle
+2320 '[Unnamed stillbirth] (2395)' diamond
+2321 'Nyakakes Manoi (2396)' ellipse
+2322 'Jennie (2397)' ellipse
+2323 'Terry Pomeleu Karaman (2398)' ellipse
+2324 'POMAT KILAWEI (2399)' triangle
+2325 'CHAUKA KILAWEI (2400)' triangle
+2326 'Nyalawen Robin Kilawei (2401)' ellipse
+2327 'Molong Kilawei (2402)' ellipse
+2328 'Kiteni Kilawei (2403)' ellipse
+2329 'Imony Kilawei (2404)' ellipse
+2330 'MALAWAT KAMPOU (2405)' triangle
+2331 'Kispwai Kampou (2406)' ellipse
+2332 '[Name unknown] (2407)' triangle
+2333 'Bena [= POKANAU SUEAN] (2408)' ellipse
+2334 'Molong Kampou (2409)' ellipse
+2335 '[Unnamed Pochelon stillbirth] (2410)' diamond
+2336 'CHAKUMAI POCHELON (2411)' triangle
+2337 '[Name/sex unknown, infant] (2412)' diamond
+2338 'Ningu Bonyalo (2413)' ellipse
+2339 'POIYAP BOMBUAI (2414)' triangle
+2340 'POCHON KALUWIN [stillborn] (2415)' triangle
+2341 'RICHARD KALUWIN (2416)' triangle
+2342 'Margaret [= POMAT KALUWIN] (2417)' ellipse
+2343 'Monika Kaluwin (2418)' ellipse
+2344 'KALUWIN (2419)' triangle
+2345 'KISOKAU [= Lomot Kaluwin] (2420)' triangle
+2346 'Ipau Kisokau (2421)' ellipse
+2347 '[Name unknown, male] (2422)' triangle
+2348 'Piwen Samol (2423)' ellipse
+2349 'Ipul Bonyalo (2424)' ellipse
+2350 'KAMETAN KITEMONG (2425)' triangle
+2351 'Songan Keyai (2426)' ellipse
+2352 'Lomot Pokus (2427)' ellipse
+2353 'Patulam Pokus (2428)' ellipse
+2354 'Kristina Pokus (2429)' ellipse
+2355 'Piwen Pokus (2430)' ellipse
+2356 'PETRUS POKUS (2431)' triangle
+2357 '[Unnamed twin o/ PONYO POKUS] (2432)' diamond
+2358 '[Unnamed twin o/ PONYO POKUS] (2433)' diamond
+2359 '[Name unknown] (2434)' ellipse
+2360 'KOMET NDROSOU (2435)' triangle
+2361 'Imony Pokiap (2436)' ellipse
+2362 '[Stillborn o/ Aloisia Nyakutu] (2437)' diamond
+2363 'PAPI NDRITAKO (2438)' triangle
+2364 'JAMES SORI (2439)' triangle
+2365 'PAULUS SONGO TUL (2440)' triangle
+2366 'KISOYAU TUL (2441)' triangle
+2367 'Siwa Tul (2442)' ellipse
+2368 'OTTO TUL (2443)' triangle
+2369 'SIMON TUL (2444)' triangle
+2370 'MICHAEL TUL (2445)' triangle
+2371 'Ikanau Pokiap [stillborn] (2446)' ellipse
+2372 '[Unnamed stillborn female] (2448)' ellipse
+2373 'Kupano Saoto (2449)' ellipse
+2374 'TONTOMO KUSUNAN (2450)' triangle
+2375 'LEO PWENDRILEI KIAPIN (2451)' triangle
+2376 'SILIP [= Ipau Kiapin] (2452)' triangle
+2377 'Nyalin Silip (2453)' ellipse
+2378 '[Name unknown, male, o/ KALUWIN] (2454)' triangle
+2379 '[Name unknown, =CHAMILOU] (2455)' ellipse
+2380 '[Name unknown, female] (2456)' ellipse
+2381 '[Name unknown, male, o/DALIU] (2457)' triangle
+2382 '[Name unknown,=KANAWI KANANDRU] (2458)' ellipse
+2383 '[Name unknown, male o/ KANAWI] (2459)' triangle
+2384 '[Name/sex unknown, o/ TAIYAN] (2461)' diamond
+2385 '[Name/sex unknown, o/ TAIYAN] (2462)' diamond
+2386 '[Name/sex unknown, o/ TAIYAN] (2463)' diamond
+2387 'TAMOCHE KITEYAP (2465)' triangle
+2388 'LUTWIK KITEYAP (2466)' triangle
+2389 'TAPAS MOLEAN (2467)' triangle
+2390 '[Male Chamilou] (2468)' triangle
+2391 'JOHN KLINEK (2469)' triangle
+2392 'Fiona Klinek (2470)' ellipse
+2393 'SHANE KLINEK (2471)' triangle
+2394 'Tessie Paniu (2472)' ellipse
+2395 'CHOKAL TUAIN [infant] (2474)' triangle
+2396 'Ipak Kanawi (2475)' ellipse
+2397 'Nyachalau Kanawi (2476)' ellipse
+2398 '[Name unknown] (2477)' triangle
+2399 'CHALAPI (2478)' triangle
+2400 '[Name unknown, = CHALAPI] (2479)' ellipse
+2401 'Nyalapan Chalapi (2480)' ellipse
+2402 '[Name unknown, = 0962] (2481)' triangle
+2403 'Nyasangat [see 0959, OP40] (2482)' ellipse
+2404 '[Name unknown, = Pimakeo] (2483)' triangle
+2405 'TOMSEN (2484)' triangle
+2406 'Nyawaseu (2485)' ellipse
+2407 'POKIAP (2486)' triangle
+2408 'PWENDRILEI (2487)' triangle
+2409 'Wonogat (2488)' ellipse
+2410 'Nyakutu (2489)' ellipse
+2411 '[Name unknown - see 0959] (2490)' triangle
+2412 '[Name unknown, = KANAWI] (2491)' ellipse
+2413 'Komeni (2492)' ellipse
+2414 'Mochong (2493)' ellipse
+2415 'Nyakupwen (2494)' ellipse
+2416 'Indrilo (2495)' ellipse
+2417 'Nyawaseu (2496)' ellipse
+2418 'Nyandros Ndritako (2497)' ellipse
+2419 'WILLIE NDRITAKO (2498)' triangle
+2420 'Luci Ndritako (2499)' ellipse
+2421 'PONYALOU (2500)' triangle
+2422 'Nyakupwen Pomat (2501)' ellipse
+2423 'POLUMWE PONOWAN [see OP40] (2502)' triangle
+2424 'Kiapung Sisi [sm. child] (2503)' ellipse
+2425 'Ipak Sisi [sm. child] (2504)' ellipse
+2426 'Antonia Kisokau (2505)' ellipse
+2427 '[Name unknown, = Katrunella] (2506)' triangle
+2428 '[Name unknown, male](see p. 106) (2507)' triangle
+2429 '[Name unknown, male] (2508)' triangle
+2430 '[Name unknown, male] (2509)' triangle
+2431 '[Name unknown, female] (2510)' ellipse
+2432 'KANAWI POPEO (2511)' triangle
+2433 'KISAPWAI KILEPAK (2512)' triangle
+2434 'KANAWI SINTO [= Ona Kamit] (2513)' triangle
+2435 'Nyalapan Sinto (2514)' ellipse
+2436 'POKIAP BONYALO [o/ PWAIYAP] (2516)' triangle
+2437 'SELAN BONYALO #1 (2517)' triangle
+2438 'SELAN BONYALO #2 (2518)' triangle
+2439 'Laura Bonyalo [o/ MATAWAI] (2519)' ellipse
+2440 'Terry Kusunan (2520)' ellipse
+2441 'JOHN KUSUNAN (2521)' triangle
+2442 '[Name/sex unknown] (2522)' diamond
+2443 'Joanna Kusunan (2523)' ellipse
+2444 '[Name unknown] (2524)' ellipse
+2445 'POCHELAU MALAMAL (2525)' triangle
+2446 'PAKOP POKANAU (2526)' triangle
+2447 'Ipam Ndritako (2527)' ellipse
+2448 '[Name/sex unknown] (2528)' diamond
+2449 'Piwen Malamal (2530)' ellipse
+2450 'POLONGOU POLIN (2531)' triangle
+2451 '[Name unknown] (2532)' ellipse
+2452 '[Name unknown, = CHOKOPAT] (2533)' ellipse
+2453 'Nyalel Polin (2534)' ellipse
+2454 'PONYO NAUNA (2535)' triangle
+2455 'PAPI KANAMONY (2537)' triangle
+2456 'KANAMONY TAINI (2538)' triangle
+2457 'Lucy (2539)' ellipse
+2458 'Ipau Sisi [stillborn] (2540)' ellipse
+2459 'NOAN PALIAU (2541)' triangle
+2460 'Poilep Pepi [see p. 160] (2542)' ellipse
+2461 '[Name unknown] (2544)' triangle
+2462 'Nameh Mani (2545)' ellipse
+2463 'NOAN [fa o/ MANI] (2546)' triangle
+2464 '[Name unknown, = NOAN] (2547)' ellipse
+2465 'Talawan Chapau [=POCHON POMAT] (2548)' ellipse
+2466 'Hila Pomat (2549)' ellipse
+2467 'TOMAS POMAT (2550)' triangle
+2468 'POCHON POMAT [o/ KALUWIN] (2551)' triangle
+2469 'JOHNNY SELAN [o/ UPER] (2552)' triangle
+2470 '[Name unknown] (2553)' ellipse
+2471 'KUMALAU PONYELOU (2554)' triangle
+2472 'Inonou Bilip [see OP12] (2555)' ellipse
+2473 'Nyalawen Poliap [o/ MALAMAL] (2556)' ellipse
+2474 'POTUAN POLIAP (2557)' triangle
+2475 'COLIN SULUAN [= Pikawas Poliap] (2558)' triangle
+2476 'June Suluan (2559)' ellipse
+2477 'POMAT PAPA (2560)' triangle
+2478 'KEVIN PAPA (2561)' triangle
+2479 'PETER KOLA (2564)' triangle
+2480 'Nyalin Papa (2565)' ellipse
+2481 'LOKES TAPAS (2566)' triangle
+2482 'THOMAS PAPA (2567)' triangle
+2483 'RODNEY DAVARREL [see p. 38] (2568)' triangle
+2484 '[Name unknown, male, o/ TANOU] (2570)' triangle
+2485 'Ipau (= CHALAPI CHOLAI) (2571)' ellipse
+2486 'Talawan Pwendrilei [d. infancy] (2572)' ellipse
+2487 'Ipul Pwendrilei [d. infancy] (2573)' triangle
+2488 '[Name unknown, male, o/BILIP] (2574)' triangle
+2489 '[Name unknown, male, o/BILIP] (2575)' triangle
+2490 '[Name unknown, male, o/BILIP] (2576)' triangle
+2491 '[Name unknown, female] (2577)' ellipse
+2492 '[Name unknown, male] (2578)' triangle
+2493 '[Name unknown, male] (2579)' triangle
+2494 '[Name unknown, female] (2580)' ellipse
+2495 '[Name unknown, male] (2581)' triangle
+2496 'KUMAUT KAPO, #1. = Rosa Alupwai (2582)' triangle
+2497 'JOHN MESTIL (2583)' triangle
+2498 'KIALO CHOKAL (2584)' triangle
+2499 'Salikon Chokal (2585)' ellipse
+2500 'PONYELOU TAPAS [d. in infancy] (2586)' triangle
+2501 'Poilep Tapas [d. age 2 yr.] (2587)' ellipse
+2502 'NAMU SAMALA [= Ipau Tapas] (2588)' triangle
+2503 '[Name unknown, female] (2590)' ellipse
+2504 '[Name unknown, female] (2591)' ellipse
+2505 'POSUL CHOLAI [stillborn] (2592)' triangle
+2506 'Ikanau Pomeleu (2594)' ellipse
+2507 '[Unnamed male, stillborn] (2595)' triangle
+2508 'Chimolen Nauna Samol (2597)' ellipse
+2509 'Nyakaras [#2 = POPATA] (2599)' ellipse
+2510 'Poilep [stillborn, o/ BOPAU] (2600)' ellipse
+2511 '[Unnamed female, stillborn] (2601)' ellipse
+2512 'Nyalapan [stillborn o/ BOPAU] (2602)' ellipse
+2513 '[Name unknown, female, o/ LITAU] (2604)' ellipse
+2514 'Ilalon Isopwe (2606)' ellipse
+2515 '[Name/sex unknown, o/ KAMIT] (2607)' diamond
+2516 'Kisolel Samol (2608)' ellipse
+2517 'KANAMONY TAINI (2609)' triangle
+2518 'SELAN NYAMAL (2610)' triangle
+2519 'Nyandros Taini (2611)' ellipse
+2520 '[Name unknown, = Nyandros Pakop] (2612)' triangle
+2521 'Joyce [o/ Nyandros Pakop] (2613)' ellipse
+2522 'Ilan Polin [o/ CHOKOPAT] (2614)' ellipse
+2523 '[Name unknown, = Nyalawen] (2615)' triangle
+2524 'Elizabeth (2616)' ellipse
+2525 '[Name unknown, = Piwen] (2617)' triangle
+2526 '[Name unknown, female] (2618)' ellipse
+2527 '[Name unknown, male] (2619)' triangle
+2528 '[Name unknown, = TAPO] (2620)' ellipse
+2529 'Piwen Pwendrilei (2621)' ellipse
+2530 'PETER (2622)' triangle
+2531 '[Name unknown, male] (2623)' triangle
+2532 '[Name unknown, male] (2624)' triangle
+2533 '[Name unknown, female] (2625)' ellipse
+2534 '[Name unknown, female] (2626)' ellipse
+2535 'MARK PWENDRILEI (2627)' triangle
+2536 'Meri (2628)' ellipse
+2537 '[Name unknown, male] (2629)' triangle
+2538 '[Name unknown, female] (2630)' ellipse
+2539 'JOHN PWENDRILEI (2631)' triangle
+2540 'Terry Pwendrilei (2632)' ellipse
+2541 'TOM (2633)' triangle
+2542 '[Name unknown, male] (2634)' triangle
+2543 'Rosa Pwendrilei (2635)' ellipse
+2544 'Nama Pwendrilei (2636)' ellipse
+2545 'Noke Pwendrilei (2637)' ellipse
+2546 'JIM PWENDRILEI (2638)' triangle
+2547 'Nyalawen Pondros (2639)' ellipse
+2548 'KANAMONY PAPA (2640)' triangle
+2549 '[Name unknown, male] (2642)' triangle
+2550 '[Name unknown, female, see 41] (2643)' ellipse
+2551 '[Name/sex unknown] (2644)' diamond
+2552 '[Name unknown, male] (2645)' triangle
+2553 '[Name unknown, female] (2646)' ellipse
+2554 'TOMAS KIRAI (2647)' triangle
+2555 '[Name unknown, = Nyakupwen Pomai] (2648)' triangle
+2556 'Ikanau Kiapin (2649)' ellipse
+2557 '[Name unknown, = Ikanau Kiapin] (2650)' triangle
+2558 '[Name unknown, male] (2651)' triangle
+2559 '[Name unknown, female] (2652)' ellipse
+2560 '[Name unknown, female] (2653)' ellipse
+2561 'Eli Takelo (2654)' ellipse
+2562 'Linda Takelo (2655)' ellipse
+2563 'Rosa Bonyalo (2656)' ellipse
+2564 '[Name unknown, male,o/ MOLEAN] (2657)' triangle
+2565 '[Name unknown, female] (2658)' ellipse
+2566 'Florence Pochapot (2659)' ellipse
+2567 'POSANGAT POCHAPOT (2660)' triangle
+2568 'KANAMONY POCHAPOT (2661)' triangle
+2569 'Ipul Pochapot [pre-school] (2663)' ellipse
+2570 'Poilep [#1 = 1306] (2664)' ellipse
+2571 '[Name unknown, #2 = 1306] (2665)' ellipse
+2572 'BOPAU POCHAPOT (2666)' triangle
+2573 '[Name unknown, female] (2667)' ellipse
+2574 '[Name unknown, #3 = 1306] (2668)' ellipse
+2575 '[Name unknown, = PONYO SULUAN] (2669)' ellipse
+2576 'PETER SULUAN (2670)' triangle
+2577 '[Name unknown, female] (2671)' ellipse
+2578 'Kusunan Paliau (2672)' ellipse
+2579 '[Name unknown] (2673)' triangle
+2580 'TUAIN (2674)' triangle
+2581 '[Name unknown, female] (2675)' ellipse
+2582 '[Name unknown, female] (2676)' ellipse
+2583 'Rene (2677)' ellipse
+2584 'Nyamusim Kirai (2678)' ellipse
+2585 'Ipau Patalyan Pokanau (2679)' ellipse
+2586 '[Name unknown] (2680)' triangle
+2587 '[Name unknown, male] (2681)' triangle
+2588 '[Name unknown] (2682)' triangle
+2589 'Tasia (2683)' ellipse
+2590 '[Name unknown, male, o/CHAWAN] (2684)' triangle
+2591 '[Name unknown] (2685)' triangle
+2592 'Wendy (2686)' ellipse
+2593 'Klara (2687)' ellipse
+2594 'Fransiska (2688)' ellipse
+2595 'CHAMILOU (2690)' triangle
+2596 'DARRYL CHAMILOU (2691)' triangle
+2597 'ALAPI CHAMILOU (2692)' triangle
+2598 'Indilo (2693)' ellipse
+2599 'KIALO PASO (2694)' triangle
+2600 'KATONAN PASO (2695)' triangle
+2601 'POLANGIS PASO (2696)' triangle
+2602 'POMELEU VITA (2697)' triangle
+2603 'Nyandruan Sirip (2698)' ellipse
+2604 'Nyachalau Sirip (2699)' ellipse
+2605 'Elen Sirip (2700)' ellipse
+2606 'PONDRAKEN SIRIP (2701)' triangle
+2607 'Ilan (2702)' ellipse
+2608 'KALUWIN POKATON (2703)' triangle
+2609 'MARKUS KALOI PONOWAN (2706)' triangle
+2610 '[Name unknown, male, o/ POLI] (2707)' triangle
+2611 '[Name/sex unknown] (2708)' diamond
+2612 '[Name/sex unknown] (2709)' diamond
+2613 'Joyce Koko (2710)' ellipse
+2614 'SIMON KOKO (2711)' triangle
+2615 '[Name unknown] (see p.14) (2712)' ellipse
+2616 'POPIL (2714)' triangle
+2617 '[Name unknown, 5 POPIL] (2715)' ellipse
+2618 '[Name unknown, female] (2716)' ellipse
+2619 '[Unnamed stillbirth, o/ Ikanau] (2717)' diamond
+2620 'SELAN SAMOL (2718)' triangle
+2621 '[Name unknown, = KUKAN CHAMILOU] (2719)' ellipse
+2622 '[Name unknown, =KANAWI CHAMILOU] (2720)' ellipse
+2623 'PWENDRILEI KISOKAU (2721)' triangle
+2624 'Kupano Kanawi (2722)' ellipse
+2625 '[Name unknown, female] (2723)' ellipse
+2626 '[Name unknown, male] (2724)' triangle
+2627 '[Name unknown, male] (2725)' triangle
+2628 'Molong Kanawi (2726)' ellipse
+2629 'CHAPAU KUTAN (2727)' triangle
+2630 'POMATO KUTAN (2728)' triangle
+2631 '[Name unknown, male, KUTAN] (2729)' triangle
+2632 '[Name unknown, female] (2730)' ellipse
+2633 'JOHN (2731)' triangle
+2634 'Nyalin (2732)' ellipse
+2635 'Ikanau (2733)' ellipse
+2636 'Itong (2734)' ellipse
+2637 'Sasa (TUAIN] (2736)' ellipse
+2638 'Kiteni Matawai #1 (2737)' ellipse
+2639 'KOMBIL (2738)' triangle
+2640 'KISAPWAI (2740)' triangle
+2641 'DAVID KINI [fa o/ Nama] (2741)' triangle
+2642 'SOKOL KILEPAK (2746)' triangle
+2643 '[Name/sex unknown] (2757)' diamond
+2644 'PIUS PONDRAKEN POSELAUT (2758)' triangle
+2645 'KAITAN NDRITAKO KALOI (2759)' triangle
+2646 '[Name/sex unknown](d. 1 mo] (2760)' diamond
+2647 '[Name unknown, = dau M. Poteki] (2761)' triangle
+2648 'CHAMILOU LANGARAP (MWE) (2762)' triangle
+2649 '[Name unknown, male] (2763)' triangle
+2650 '[Name/sex unknown, o/ TIMONAI] (2764)' diamond
+2651 'KAMBUEN [#3 = Maria Poteki] (2765)' triangle
+2652 'Kisolel Posenau (2768)' ellipse
+2653 'JOSEP KUTAN (2769)' triangle
+2654 'KUTAN (2770)' triangle
+2655 'KILA KUTAN (2771)' triangle
+2656 'MALAWAN KUTAN (2772)' triangle
+2657 'Ilan Kutan (2773)' ellipse
+2658 'Serol Kutan (2774)' ellipse
+2659 '[Name unknown, female] (2775)' ellipse
+2660 '[Name unknown, male] (2776)' triangle
+2661 'BENEDIK CHOKAL (2777)' triangle
+2662 'Asila Nyasangat Polumpwe (2778)' ellipse
+2663 '[Name unknown, = 2175] (2779)' ellipse
+2664 'POLAS (2780)' triangle
+2665 'Nahipin (2781)' ellipse
+2666 'ALBERT POWIH (2782)' triangle
+2667 'Barbara (2783)' ellipse
+2668 '[Name unknown, male](Hi Sch.) (2784)' triangle
+2669 '[Name unknown, male](Hi Sch.) (2785)' triangle
+2670 '[Name unknown, male] (2786)' triangle
+2671 '[Name unknown, male] (2787)' triangle
+2672 '[Name unknown, female] (2788)' ellipse
+2673 '[Name unknown, female] (2789)' ellipse
+2674 '[Name unknown, female] (2790)' ellipse
+2675 '[Name unknown, female] (2791)' ellipse
+2676 'MIKAIL NDROHAS (2792)' triangle
+2677 'Mikaela Namakey (2793)' ellipse
+2678 'Name Ndrohas (2794)' ellipse
+2679 'LUKAS PAKOP (2795)' triangle
+2680 'Saundrang Pakop (2796)' ellipse
+2681 'Nyandros Pakop (2797)' ellipse
+2682 'TAPO PAKOP (2798)' triangle
+2683 'POKAWAS PAKOP (2799)' triangle
+2684 'KAYEH PAKOP (2800)' triangle
+2685 'PETER PAKOP (2801)' triangle
+2686 'JEFFREY PAKOP (2802)' triangle
+2687 'TUTUN PAKOP (2803)' triangle
+2688 'Eluh Pakop (2804)' ellipse
+2689 'WATAH (2805)' triangle
+2690 'Nandrinou (2806)' ellipse
+2691 'Helen Watah (2807)' ellipse
+2692 'STEVEN WATAH (2808)' triangle
+2693 'Susan Pakop [in ST Sch.] (2809)' ellipse
+2694 'PAHUN PAKOP [in ST Sch.] (2810)' triangle
+2695 'Lusi Pakop (2811)' ellipse
+2696 'BERNAT PAKOP (2812)' triangle
+2697 'Narambun (2813)' ellipse
+2698 'SIMON (2814)' triangle
+2699 'Maria Pwenchiam Kasan (2815)' ellipse
+2700 'NYACHEL KUTAN (2816)' triangle
+2701 'Tessie Klinek (2818)' ellipse
+2702 '[Name unknown, female] (2819)' ellipse
+2703 'SORI POKANAU (2820)' triangle
+2704 'PONDRAKEN KANANDRU (2821)' triangle
+2705 '[Name/sex unknown] (2822)' diamond
+2706 'MANUAI POMAT (2823)' triangle
+2707 '[Name unknown, female] (2824)' ellipse
+2708 'POSENAU POIYO (2827)' triangle
+2709 'Anna Ikanau Poiyo (2828)' ellipse
+2710 '[Name unknown] (2829)' triangle
+2711 'DAVID (2830)' triangle
+2712 'Ponyama (2831)' ellipse
+2713 '[Male, name unknown] (2832)' triangle
+2714 '[Male, name unknown] (2833)' triangle
+2715 'TANOU (2834)' triangle
+2716 '[Name/sex unknown] (2835)' diamond
+2717 'Barbara Pwendrilei (2836)' ellipse
+2718 'POKANAU MATAWAI (2837)' triangle
+2719 '[Name unknown] (2838)' triangle
+2720 'Fa. CHAMUCHIN CHAWAN (2839)' triangle
+2721 'Mo. CHAMUCHIN CHAWAN (2840)' ellipse
+2722 '[Male of PAPA] (2841)' triangle
+2723 'SATIN PAPA (2842)' triangle
+2724 '[Male, name unknown] (2843)' triangle
+2725 '[Female, name unknown] (2844)' ellipse
+2726 '[Female, name unknown] (2845)' ellipse
+2727 '[Male, name unknown] (2846)' triangle
+2728 '[Male, name unknown] (2847)' triangle
+2729 '[Male, name unknown] (2848)' triangle
+2730 '[Male, name unknown] (2849)' triangle
+2731 '[Male, name unknown] (2850)' triangle
+2732 '[Male, name unknown] (2851)' triangle
+2733 '[Male, name unknown] (2852)' triangle
+2734 '[Male, name unknown] (2853)' triangle
+2735 'Fa. o/ NDROPAL (2854)' triangle
+2736 'Mo. o/ NDROPAL (2855)' ellipse
+2737 'MATEUN (2856)' triangle
+2738 '[Name unknown, = Sofia Nyandros] (2857)' triangle
+2739 '[Name/sex unknown] (2858)' diamond
+2740 'POMO [= Alupwai Kunera Kaitan] (2859)' triangle
+2741 'Kisolel Bonyalo (2860)' ellipse
+2742 'Malina Kisokau (2861)' ellipse
+2743 'RAPAIL MAK (2862)' triangle
+2744 '[Male stillborn] (2863)' triangle
+2745 '[Male stillborn] (2864)' triangle
+2746 'NYAMAL (2865)' triangle
+2747 'Molong (2866)' ellipse
+2748 'Josephine Samala (2867)' ellipse
+2749 'PANKIAU PAULUS (2868)' triangle
+2750 '[Male, name unknown] (2869)' triangle
+2751 '[Male, name unknown] (2870)' triangle
+2752 '[Male, name unknown] (2871)' triangle
+2753 '[Female, name unknown] (2872)' ellipse
+2754 'Chimolen Cholai (2873)' ellipse
+2755 '[Name/sex unknown] (2874)' diamond
+2756 '[Name unknown] (2875)' ellipse
+2757 'Joanna Ipul 2112 (2876)' ellipse
+2758 'JOHANIS KUSUNAN (2877)' triangle
+2759 'TUNU KUSUNAN (2878)' triangle
+2760 'JAKOP KUSUNAN (2879)' triangle
+2761 'Tine Kusunan (2880)' ellipse
+2762 'Nyandraken Kusunan (2881)' ellipse
+2763 '[Male o/ KUSUNAN] (2882)' triangle
+2764 '[Male o/ KUSUNAN] (2883)' triangle
+2765 'Kapapoi Potuan (2884)' ellipse
+2766 '[Male Matawai] (2885)' triangle
+2767 '[Male Matawai] (2886)' triangle
+2768 '[Female Matawai] (2887)' ellipse
+2769 '[Female Matawai] (2888)' ellipse
+2770 '[Name unknown = POSALAK POLI] (2889)' ellipse
+2771 '[Name unknown = Lomot Selan] (2890)' triangle
+2772 'Brother of KAROTAN (2891)' triangle
+2773 '[Name unknown = 2891] (2892)' ellipse
+2774 'Nevelin Pokatou (2893)' ellipse
+2775 'KANAWI BONYALO #1 (2894)' triangle
+2776 'KIALANGIS POPATA (2895)' triangle
+2777 '[Name/sex unknown] (2896)' diamond
+2778 '[Name/sex unknown] (2897)' diamond
+2779 '[Name/sex unknown] (2898)' diamond
+2780 '[Name/sex unknown] (2899)' diamond
+2781 'Sherry Popeo (2900)' ellipse
+2782 'BERNAT POPEO (2901)' triangle
+2783 'Kichawen Sigamata (2902)' ellipse
+2784 '[Twin, name/sex unknown] (2903)' diamond
+2785 '[Twin, name/sex unknown] (2904)' diamond
+2786 'Fa. o/ Pwendrenai (2905)' triangle
+2787 'Mo. o/ Pwendrenai (2906)' ellipse
+2788 'INOK (2907)' triangle
+2789 'Nialangis Pokopwen (2908)' ellipse
+2790 'Elizabeth [ad. by F. POSENAU] (2909)' ellipse
+2791 'POKIO [adopted by 2027] (2910)' triangle
+2792 'Rose [ad. by Wini Kamit] (2911)' ellipse
+2793 'Susie Popich [adopted by 0778] (2912)' ellipse
+2794 'Julie Kisokau (2913)' ellipse
+2795 'Scola Kisokau (2914)' ellipse
+2796 'Nyalangis Kisokau (2915)' ellipse
+2797 'Talawan Pomat (2916)' ellipse
+2798 'Ilan Pomat (2917)' ellipse
+2799 'STEVEN SAOTO adopted by 0930] (2918)' triangle
+2800 'POMAT (2919)' triangle
+2801 '[Name unknown] (2920)' ellipse
+2802 'TOM KISOKAU (2921)' triangle
+2803 'Elizabeth (2922)' ellipse
+2804 'KILA (2923)' triangle
+2805 ' (2929)' diamond
+2806 ' (3000)' diamond
+2807 ' (3001)' diamond
+2808 ' (3002)' diamond
+2809 ' (3003)' diamond
+2810 ' (3004)' diamond
+2811 ' (3005)' diamond
+2812 ' (3006)' diamond
+2813 ' (3007)' diamond
+2814 ' (3008)' diamond
+2815 ' (3009)' diamond
+2816 ' (3010)' diamond
+2817 ' (3011)' diamond
+2818 ' (3012)' diamond
+2819 ' (3014)' diamond
+2820 ' (3015)' diamond
+2821 ' (9425)' diamond
+*arcs
+1 680 1
+1 679 1
+1 2255 1
+2 550 1
+2 690 1
+2 2269 1
+2 686 1
+2 113 1
+2 109 1
+2 689 1
+2 2273 1
+2 363 1
+3 2503 1
+3 2354 1
+3 2352 1
+3 697 1
+3 489 1
+3 2355 1
+3 358 1
+3 488 1
+3 114 1
+3 2356 1
+3 702 1
+3 491 1
+3 2504 1
+3 530 1
+3 2353 1
+4 1279 1
+4 2471 1
+4 1280 1
+4 600 1
+4 523 1
+4 439 1
+4 370 1
+4 601 1
+4 269 1
+5 717 1
+5 499 1
+5 333 1
+5 367 1
+5 214 1
+5 216 1
+5 288 1
+5 718 1
+5 240 1
+5 128 1
+5 1365 1
+5 278 1
+5 709 1
+6 722 1
+6 734 1
+6 730 1
+6 81 1
+6 737 1
+6 731 1
+6 334 1
+6 338 1
+6 319 1
+6 107 1
+6 2775 1
+7 387 1
+8 758 1
+8 757 1
+8 565 1
+8 754 1
+8 2424 1
+8 2425 1
+8 617 1
+8 115 1
+8 567 1
+8 428 1
+8 2458 1
+10 108 1
+10 316 1
+10 536 1
+11 151 1
+11 577 1
+11 112 1
+11 569 1
+11 352 1
+11 2267 1
+11 2268 1
+11 2266 1
+11 785 1
+11 1514 1
+12 137 1
+12 291 1
+13 336 1
+13 103 1
+13 368 1
+13 308 1
+13 2500 1
+13 2501 1
+14 342 1
+14 442 1
+14 804 1
+14 811 1
+14 111 1
+14 812 1
+14 271 1
+14 810 1
+14 586 1
+14 332 1
+15 83 1
+15 597 1
+15 294 1
+17 845 1
+17 378 1
+17 2767 1
+17 2206 1
+17 2766 1
+17 2638 1
+17 97 1
+17 2768 1
+17 2207 1
+17 2769 1
+17 314 1
+17 852 1
+16 265 1
+16 2290 1
+16 345 1
+16 820 1
+16 131 1
+16 480 1
+16 2291 1
+16 578 1
+16 275 1
+19 267 1
+21 669 1
+21 101 1
+21 671 1
+21 160 1
+21 638 1
+21 55 1
+21 257 1
+21 425 1
+21 2337 1
+21 82 1
+21 186 1
+20 2147 1
+20 2148 1
+20 872 1
+20 285 1
+20 266 1
+20 871 1
+23 70 1
+23 912 1
+23 307 1
+23 903 1
+23 270 1
+23 219 1
+23 793 1
+23 914 1
+23 913 1
+23 909 1
+23 911 1
+23 910 1
+23 194 1
+22 1911 1
+22 59 1
+22 2703 1
+22 2702 1
+22 153 1
+22 157 1
+25 296 1
+25 2021 1
+25 1630 1
+24 54 1
+24 264 1
+24 13 1
+24 384 1
+24 213 1
+27 977 1
+27 424 1
+27 304 1
+27 102 1
+27 973 1
+27 276 1
+27 971 1
+27 124 1
+26 456 1
+26 211 1
+26 260 1
+26 117 1
+26 166 1
+26 772 1
+29 996 1
+29 119 1
+29 337 1
+29 994 1
+29 299 1
+28 221 1
+28 981 1
+28 986 1
+28 983 1
+28 2468 1
+31 104 1
+31 79 1
+31 651 1
+31 650 1
+31 1367 1
+31 642 1
+31 1369 1
+31 1368 1
+31 457 1
+31 272 1
+31 215 1
+31 1366 1
+30 1000 1
+30 80 1
+30 1002 1
+34 508 1
+34 290 1
+34 347 1
+35 2454 1
+35 1382 1
+32 2564 1
+32 1017 1
+32 2565 1
+33 945 1
+33 563 1
+33 525 1
+33 564 1
+38 96 1
+38 331 1
+38 100 1
+39 963 1
+39 964 1
+39 551 1
+39 1087 1
+39 1086 1
+39 411 1
+39 2506 1
+39 552 1
+39 374 1
+39 1538 1
+36 2624 1
+36 946 1
+36 475 1
+36 409 1
+36 2625 1
+36 2627 1
+36 2626 1
+36 2628 1
+36 947 1
+37 1047 1
+37 440 1
+42 2484 1
+42 2585 1
+42 434 1
+43 1467 1
+43 197 1
+40 1096 1
+40 1098 1
+40 289 1
+40 279 1
+40 356 1
+40 1097 1
+41 444 1
+41 125 1
+41 851 1
+41 348 1
+41 2371 1
+41 311 1
+46 2450 1
+46 1672 1
+46 355 1
+46 1671 1
+46 373 1
+46 496 1
+46 1670 1
+46 561 1
+46 562 1
+46 99 1
+46 292 1
+47 1079 1
+47 2707 1
+47 427 1
+47 39 1
+47 1073 1
+44 56 1
+44 634 1
+44 629 1
+44 217 1
+45 2335 1
+45 670 1
+45 129 1
+45 152 1
+45 130 1
+45 568 1
+45 524 1
+45 2336 1
+45 383 1
+51 95 1
+51 1482 1
+51 1181 1
+51 371 1
+51 1185 1
+50 1168 1
+50 533 1
+50 1170 1
+50 317 1
+50 944 1
+50 2321 1
+50 233 1
+50 163 1
+50 301 1
+50 2307 1
+50 205 1
+50 110 1
+50 398 1
+49 520 1
+49 218 1
+49 1118 1
+49 461 1
+49 300 1
+49 422 1
+49 133 1
+49 1120 1
+48 353 1
+48 354 1
+48 147 1
+48 329 1
+55 666 1
+55 667 1
+55 2742 1
+55 664 1
+55 668 1
+54 1663 1
+54 512 1
+54 511 1
+54 369 1
+54 2372 1
+54 1193 1
+54 545 1
+53 2216 1
+53 2218 1
+53 790 1
+53 1657 1
+53 321 1
+53 2217 1
+53 396 1
+52 1191 1
+52 1190 1
+52 144 1
+52 608 1
+52 1189 1
+52 607 1
+52 1188 1
+52 606 1
+52 443 1
+59 318 1
+59 1912 1
+59 120 1
+59 2297 1
+59 2296 1
+59 2718 1
+59 281 1
+59 2298 1
+59 1913 1
+58 268 1
+58 473 1
+58 2089 1
+58 2088 1
+58 1132 1
+58 1651 1
+58 2582 1
+58 1890 1
+57 558 1
+57 559 1
+57 560 1
+56 518 1
+56 517 1
+56 420 1
+56 349 1
+56 366 1
+63 1660 1
+63 1244 1
+63 1243 1
+63 148 1
+63 1659 1
+63 343 1
+63 1242 1
+63 557 1
+62 325 1
+62 86 1
+62 1227 1
+62 435 1
+62 78 1
+62 67 1
+61 2499 1
+61 105 1
+61 2498 1
+61 2497 1
+60 1203 1
+60 1200 1
+60 1204 1
+60 1207 1
+60 309 1
+60 1205 1
+60 1201 1
+60 1208 1
+60 376 1
+60 351 1
+60 553 1
+60 1202 1
+68 572 1
+68 1265 1
+68 282 1
+68 573 1
+68 418 1
+69 1144 1
+69 1146 1
+70 1381 1
+70 339 1
+70 2254 1
+70 598 1
+70 609 1
+70 908 1
+70 599 1
+71 2486 1
+71 2166 1
+71 482 1
+71 2165 1
+71 481 1
+71 2487 1
+71 1167 1
+71 483 1
+64 1466 1
+64 1339 1
+64 1206 1
+64 1469 1
+64 1313 1
+64 236 1
+64 1116 1
+64 1316 1
+64 402 1
+64 1483 1
+65 515 1
+65 2010 1
+65 1249 1
+65 1248 1
+65 2009 1
+65 1247 1
+65 372 1
+65 892 1
+65 1662 1
+65 138 1
+65 375 1
+66 320 1
+66 1263 1
+66 1619 1
+66 359 1
+66 1264 1
+67 1921 1
+67 1522 1
+67 412 1
+67 2645 1
+67 1235 1
+67 541 1
+67 1523 1
+67 2646 1
+67 1237 1
+77 507 1
+77 1209 1
+77 477 1
+77 1160 1
+77 419 1
+77 340 1
+78 1763 1
+78 462 1
+79 2433 1
+79 1764 1
+72 1661 1
+72 2311 1
+72 118 1
+72 2310 1
+72 357 1
+72 451 1
+72 556 1
+72 660 1
+72 514 1
+72 661 1
+73 350 1
+73 280 1
+73 2361 1
+73 1603 1
+73 603 1
+73 605 1
+73 1602 1
+73 604 1
+74 88 1
+74 2056 1
+74 1411 1
+74 84 1
+75 1284 1
+75 87 1
+75 145 1
+75 127 1
+75 589 1
+75 1673 1
+75 2754 1
+75 2505 1
+75 590 1
+75 2202 1
+75 588 1
+75 1285 1
+85 1266 1
+85 155 1
+85 1267 1
+85 93 1
+85 1427 1
+85 2253 1
+85 68 1
+85 161 1
+84 1767 1
+84 1669 1
+86 2447 1
+86 1240 1
+86 494 1
+86 1627 1
+81 2741 1
+81 733 1
+81 2338 1
+81 745 1
+81 2349 1
+83 1766 1
+83 429 1
+83 1765 1
+82 887 1
+82 886 1
+82 2348 1
+82 1403 1
+92 1771 1
+92 1772 1
+95 2383 1
+94 2049 1
+94 1111 1
+94 1537 1
+94 857 1
+94 1110 1
+89 837 1
+89 2378 1
+88 1769 1
+91 1108 1
+91 1109 1
+91 2396 1
+91 2397 1
+90 1770 1
+103 2481 1
+100 2263 1
+100 1665 1
+98 817 1
+99 2453 1
+99 2522 1
+96 1774 1
+97 1776 1
+106 416 1
+119 2717 1
+119 1779 1
+116 1069 1
+116 2460 1
+114 2199 1
+114 2200 1
+113 2271 1
+113 2270 1
+112 1777 1
+112 2590 1
+122 2293 1
+122 1780 1
+121 141 1
+121 575 1
+121 136 1
+121 1286 1
+121 344 1
+121 534 1
+121 1515 1
+137 1781 1
+137 2620 1
+139 1783 1
+135 449 1
+135 448 1
+153 388 1
+153 896 1
+153 2394 1
+154 54 1
+154 264 1
+154 13 1
+154 384 1
+154 213 1
+155 1661 1
+155 507 1
+155 477 1
+155 118 1
+155 2310 1
+155 451 1
+155 419 1
+155 340 1
+156 346 1
+156 1697 1
+156 566 1
+156 142 1
+156 1361 1
+156 447 1
+156 474 1
+157 533 1
+157 1168 1
+157 301 1
+157 317 1
+157 1170 1
+157 2307 1
+157 110 1
+157 2321 1
+157 398 1
+158 164 1
+158 2661 1
+158 229 1
+158 228 1
+158 1464 1
+158 209 1
+159 325 1
+159 86 1
+159 1227 1
+159 435 1
+159 78 1
+159 67 1
+144 1812 1
+146 936 1
+171 572 1
+171 1265 1
+171 282 1
+171 573 1
+171 418 1
+168 83 1
+168 597 1
+168 294 1
+175 296 1
+175 2021 1
+175 1630 1
+174 362 1
+174 365 1
+174 2196 1
+174 2744 1
+174 2745 1
+174 2195 1
+174 106 1
+174 417 1
+174 549 1
+174 297 1
+173 224 1
+173 501 1
+173 385 1
+173 1405 1
+173 1387 1
+173 1761 1
+173 1404 1
+173 1604 1
+173 1307 1
+173 72 1
+172 1266 1
+172 155 1
+172 1267 1
+172 93 1
+172 1427 1
+172 2253 1
+172 68 1
+172 161 1
+163 137 1
+163 291 1
+162 267 1
+161 336 1
+161 368 1
+161 308 1
+161 2500 1
+161 2501 1
+160 2499 1
+160 105 1
+160 2498 1
+160 2311 1
+160 357 1
+160 2497 1
+160 556 1
+160 660 1
+160 514 1
+160 661 1
+167 156 1
+166 912 1
+166 307 1
+166 909 1
+166 270 1
+166 911 1
+166 914 1
+166 910 1
+166 913 1
+165 171 1
+165 36 1
+165 1268 1
+165 1348 1
+165 2608 1
+165 1355 1
+164 108 1
+164 316 1
+164 536 1
+186 2335 1
+186 670 1
+186 152 1
+186 568 1
+186 524 1
+186 2336 1
+187 2155 1
+187 1680 1
+187 1143 1
+187 490 1
+187 1141 1
+187 1142 1
+184 342 1
+184 442 1
+184 811 1
+184 812 1
+184 271 1
+184 810 1
+184 586 1
+185 151 1
+185 577 1
+185 112 1
+185 569 1
+185 352 1
+185 2267 1
+185 2268 1
+185 2266 1
+185 785 1
+185 1514 1
+191 1058 1
+191 531 1
+191 1052 1
+191 92 1
+191 310 1
+191 287 1
+191 394 1
+188 2640 1
+188 378 1
+188 2767 1
+188 2766 1
+188 97 1
+188 2768 1
+188 2769 1
+188 314 1
+189 273 1
+189 274 1
+189 410 1
+189 305 1
+189 327 1
+189 1009 1
+189 414 1
+189 1014 1
+178 2216 1
+178 2218 1
+178 790 1
+178 1657 1
+178 321 1
+178 2217 1
+178 396 1
+179 977 1
+179 424 1
+179 304 1
+179 102 1
+179 973 1
+179 276 1
+179 971 1
+179 124 1
+176 550 1
+176 690 1
+176 2269 1
+176 686 1
+176 113 1
+176 109 1
+176 689 1
+176 2273 1
+176 363 1
+177 669 1
+177 101 1
+177 671 1
+177 160 1
+177 638 1
+177 55 1
+177 257 1
+177 425 1
+177 2337 1
+177 82 1
+177 186 1
+182 2 1
+182 174 1
+182 406 1
+182 261 1
+182 1034 1
+182 1282 1
+182 191 1
+182 207 1
+183 90 1
+183 537 1
+183 302 1
+183 2017 1
+183 445 1
+183 472 1
+180 722 1
+180 734 1
+180 730 1
+180 81 1
+180 737 1
+180 731 1
+180 334 1
+180 338 1
+180 319 1
+180 107 1
+180 2775 1
+181 258 1
+181 2140 1
+181 405 1
+181 2662 1
+181 117 1
+181 33 1
+205 2486 1
+205 2166 1
+205 482 1
+205 2165 1
+205 481 1
+205 2487 1
+205 1167 1
+205 483 1
+204 195 1
+204 223 1
+207 141 1
+207 575 1
+207 136 1
+207 1286 1
+207 344 1
+207 534 1
+207 1515 1
+206 268 1
+201 263 1
+201 251 1
+201 259 1
+201 1484 1
+200 1007 1
+203 2167 1
+203 18 1
+203 49 1
+203 40 1
+203 206 1
+203 71 1
+203 16 1
+202 1139 1
+202 262 1
+202 1426 1
+202 65 1
+202 246 1
+197 1209 1
+197 1160 1
+196 585 1
+196 505 1
+196 123 1
+196 364 1
+196 140 1
+199 648 1
+198 963 1
+198 964 1
+198 551 1
+198 1087 1
+198 129 1
+198 130 1
+198 1086 1
+198 411 1
+198 552 1
+198 374 1
+198 1538 1
+198 383 1
+193 717 1
+193 499 1
+193 333 1
+193 367 1
+193 214 1
+193 216 1
+193 288 1
+193 718 1
+193 240 1
+193 128 1
+193 1365 1
+193 278 1
+193 709 1
+192 520 1
+192 218 1
+192 1118 1
+192 461 1
+192 300 1
+192 422 1
+192 133 1
+192 1120 1
+195 1578 1
+195 1575 1
+195 1576 1
+195 326 1
+195 1574 1
+195 1577 1
+194 320 1
+194 1263 1
+194 1619 1
+194 359 1
+194 1264 1
+220 1279 1
+220 2471 1
+220 1280 1
+220 600 1
+220 523 1
+220 439 1
+220 370 1
+220 601 1
+220 269 1
+221 2329 1
+221 2326 1
+221 2327 1
+221 2325 1
+221 2324 1
+221 2328 1
+222 558 1
+222 559 1
+222 560 1
+223 293 1
+223 222 1
+223 1039 1
+216 652 1
+216 2446 1
+216 1628 1
+218 518 1
+218 517 1
+218 420 1
+218 349 1
+218 366 1
+212 1381 1
+212 339 1
+212 2254 1
+212 598 1
+212 609 1
+212 908 1
+212 599 1
+213 622 1
+213 922 1
+213 923 1
+213 2209 1
+213 920 1
+213 921 1
+214 713 1
+214 712 1
+214 1133 1
+214 714 1
+214 711 1
+215 1385 1
+215 1386 1
+215 2081 1
+215 2080 1
+215 2082 1
+208 2705 1
+208 538 1
+209 2503 1
+209 489 1
+209 114 1
+209 358 1
+209 2504 1
+209 491 1
+209 530 1
+209 488 1
+210 2484 1
+210 434 1
+211 1144 1
+211 1146 1
+239 57 1
+239 1080 1
+239 187 1
+239 58 1
+239 41 1
+238 574 1
+238 313 1
+237 1442 1
+237 212 1
+237 1105 1
+236 758 1
+236 757 1
+236 565 1
+236 754 1
+236 2424 1
+236 2425 1
+236 617 1
+236 115 1
+236 567 1
+236 428 1
+236 2458 1
+235 1017 1
+234 350 1
+234 280 1
+234 2361 1
+234 1603 1
+234 603 1
+234 605 1
+234 1602 1
+234 604 1
+233 2454 1
+233 1382 1
+233 122 1
+233 1626 1
+233 548 1
+233 492 1
+233 1504 1
+233 328 1
+233 1166 1
+233 360 1
+232 104 1
+232 79 1
+232 651 1
+232 650 1
+232 1367 1
+232 642 1
+232 1369 1
+232 1368 1
+232 457 1
+232 272 1
+232 215 1
+232 1366 1
+230 574 1
+230 362 1
+230 365 1
+230 2196 1
+230 2744 1
+230 2745 1
+230 2195 1
+230 106 1
+230 417 1
+230 549 1
+230 297 1
+229 122 1
+229 1626 1
+229 548 1
+229 492 1
+229 1504 1
+229 328 1
+229 1166 1
+229 360 1
+228 2450 1
+228 1672 1
+228 355 1
+228 1671 1
+228 373 1
+228 496 1
+228 1670 1
+228 561 1
+228 562 1
+228 99 1
+228 292 1
+227 2204 1
+227 15 1
+227 159 1
+227 193 1
+227 1445 1
+227 175 1
+226 88 1
+226 2056 1
+226 1411 1
+226 84 1
+225 508 1
+225 290 1
+225 347 1
+224 1921 1
+224 1522 1
+224 412 1
+224 2645 1
+224 1235 1
+224 541 1
+224 1523 1
+224 2646 1
+224 1237 1
+255 2284 1
+255 1096 1
+255 1098 1
+255 279 1
+255 2286 1
+255 356 1
+255 1097 1
+252 387 1
+253 318 1
+253 1912 1
+253 120 1
+253 2297 1
+253 2296 1
+253 2718 1
+253 281 1
+253 2298 1
+253 1913 1
+250 337 1
+251 1663 1
+251 512 1
+251 511 1
+251 369 1
+251 2372 1
+251 1193 1
+251 545 1
+248 96 1
+248 35 1
+248 331 1
+248 100 1
+248 247 1
+248 2067 1
+248 46 1
+248 208 1
+249 1203 1
+249 1200 1
+249 1204 1
+249 1207 1
+249 309 1
+249 1205 1
+249 1201 1
+249 1208 1
+249 376 1
+249 351 1
+249 553 1
+249 1202 1
+247 1284 1
+247 589 1
+247 1673 1
+247 2754 1
+247 2505 1
+247 590 1
+247 588 1
+247 1285 1
+244 95 1
+244 1482 1
+244 1181 1
+244 371 1
+244 311 1
+244 1185 1
+245 353 1
+245 354 1
+245 147 1
+245 329 1
+242 265 1
+242 2290 1
+242 345 1
+242 820 1
+242 131 1
+242 480 1
+242 2291 1
+242 578 1
+242 275 1
+243 845 1
+243 1792 1
+240 666 1
+240 667 1
+240 2742 1
+240 664 1
+240 668 1
+241 284 1
+273 554 1
+273 1012 1
+273 2006 1
+273 1013 1
+272 1777 1
+272 2590 1
+279 2282 1
+278 2476 1
+277 1803 1
+283 2341 1
+283 1273 1
+282 1807 1
+282 1771 1
+282 1772 1
+282 453 1
+282 459 1
+281 2301 1
+281 2300 1
+281 2299 1
+281 1805 1
+287 1810 1
+287 1811 1
+286 1608 1
+286 1303 1
+286 1302 1
+286 1889 1
+285 1767 1
+285 1669 1
+285 1122 1
+284 2524 1
+284 1808 1
+284 2090 1
+258 2624 1
+258 946 1
+258 475 1
+258 409 1
+258 2625 1
+258 2627 1
+258 2626 1
+258 2628 1
+258 947 1
+259 1249 1
+259 1248 1
+259 1247 1
+259 372 1
+259 1662 1
+259 138 1
+259 375 1
+256 1127 1
+256 254 1
+256 185 1
+256 502 1
+256 210 1
+262 2155 1
+262 1680 1
+262 1143 1
+262 490 1
+262 2171 1
+262 1141 1
+262 1142 1
+263 939 1
+263 942 1
+263 2418 1
+263 1668 1
+263 2420 1
+263 941 1
+263 2419 1
+263 940 1
+263 938 1
+260 939 1
+260 942 1
+260 2418 1
+260 1668 1
+260 2420 1
+260 941 1
+260 2419 1
+260 940 1
+260 938 1
+261 90 1
+261 537 1
+261 302 1
+261 2017 1
+261 445 1
+261 472 1
+266 2741 1
+266 733 1
+266 2338 1
+266 745 1
+266 2349 1
+267 1797 1
+264 444 1
+264 125 1
+264 2206 1
+264 851 1
+264 2638 1
+264 2207 1
+264 348 1
+264 2371 1
+264 852 1
+265 1794 1
+265 1795 1
+270 1799 1
+271 1801 1
+271 2313 1
+268 2293 1
+268 1780 1
+307 1866 1
+307 1865 1
+307 403 1
+309 2179 1
+309 2178 1
+309 2180 1
+308 2748 1
+310 1818 1
+310 1817 1
+310 2716 1
+313 2447 1
+313 1240 1
+313 494 1
+313 1627 1
+312 1949 1
+314 2426 1
+314 1820 1
+314 2623 1
+317 1915 1
+317 1175 1
+317 1914 1
+317 2302 1
+317 1174 1
+317 1173 1
+316 1036 1
+316 1035 1
+316 1048 1
+319 2508 1
+319 2516 1
+318 2054 1
+318 2518 1
+318 1609 1
+288 1250 1
+288 1277 1
+289 2164 1
+289 2163 1
+289 1095 1
+289 2162 1
+290 1031 1
+290 2517 1
+290 2519 1
+290 2456 1
+291 791 1
+291 2351 1
+291 2197 1
+291 792 1
+291 786 1
+292 2642 1
+292 1380 1
+292 1658 1
+293 2044 1
+293 1045 1
+294 2364 1
+294 688 1
+294 1909 1
+294 1908 1
+294 687 1
+295 2377 1
+295 1314 1
+296 930 1
+296 2250 1
+296 1631 1
+297 898 1
+297 1583 1
+297 2007 1
+297 484 1
+298 2049 1
+298 1111 1
+298 1537 1
+298 857 1
+298 1110 1
+299 2700 1
+299 1910 1
+299 1377 1
+299 1378 1
+300 1812 1
+300 1119 1
+301 2306 1
+303 1814 1
+303 1813 1
+303 1815 1
+326 1364 1
+326 1406 1
+326 2513 1
+326 1363 1
+326 1573 1
+324 680 1
+324 679 1
+324 2255 1
+325 413 1
+322 2308 1
+322 1306 1
+322 1305 1
+323 312 1
+320 2789 1
+320 2309 1
+321 1822 1
+321 1870 1
+321 1869 1
+321 2278 1
+332 1825 1
+333 1164 1
+333 716 1
+333 1239 1
+331 1069 1
+331 2460 1
+328 1165 1
+328 1829 1
+329 1766 1
+329 429 1
+329 1765 1
+374 2323 1
+381 1465 1
+381 1690 1
+381 2142 1
+381 1684 1
+381 504 1
+381 2092 1
+381 1696 1
+381 2145 1
+381 1689 1
+383 1667 1
+382 1003 1
+382 1005 1
+382 1004 1
+379 392 1
+379 121 1
+379 1283 1
+379 34 1
+379 380 1
+379 382 1
+379 1288 1
+355 1781 1
+355 2620 1
+402 967 1
+402 968 1
+402 965 1
+402 966 1
+402 970 1
+402 395 1
+402 969 1
+400 1113 1
+406 1829 1
+404 2085 1
+404 1678 1
+404 1298 1
+405 143 1
+405 535 1
+392 346 1
+392 1697 1
+392 566 1
+392 142 1
+392 1361 1
+392 447 1
+392 474 1
+396 920 1
+396 2469 1
+387 1650 1
+386 1583 1
+386 295 1
+386 2375 1
+386 441 1
+386 306 1
+386 408 1
+385 2510 1
+385 89 1
+385 322 1
+385 2511 1
+385 2512 1
+384 2373 1
+384 925 1
+384 927 1
+384 926 1
+391 146 1
+391 139 1
+391 1333 1
+391 298 1
+391 98 1
+391 361 1
+391 450 1
+391 1336 1
+391 2149 1
+391 1337 1
+391 698 1
+391 513 1
+391 1335 1
+390 1326 1
+390 2713 1
+390 2714 1
+389 463 1
+389 596 1
+389 313 1
+389 595 1
+389 2507 1
+388 898 1
+388 2007 1
+388 484 1
+440 1152 1
+440 1831 1
+440 1830 1
+432 2510 1
+432 463 1
+432 322 1
+432 596 1
+432 595 1
+432 2511 1
+432 2507 1
+432 2512 1
+433 1134 1
+433 473 1
+433 2089 1
+433 2088 1
+433 571 1
+433 1132 1
+433 1651 1
+433 1890 1
+435 2506 1
+435 2171 1
+436 1660 1
+436 1244 1
+436 1243 1
+436 148 1
+436 1659 1
+436 343 1
+436 289 1
+436 557 1
+437 1134 1
+437 571 1
+437 1873 1
+437 1874 1
+437 1872 1
+437 1875 1
+425 2602 1
+425 882 1
+425 883 1
+425 884 1
+425 881 1
+424 967 1
+424 968 1
+424 965 1
+424 966 1
+424 970 1
+424 395 1
+424 969 1
+427 146 1
+427 139 1
+427 1333 1
+427 298 1
+427 98 1
+427 361 1
+427 450 1
+427 1336 1
+427 2149 1
+427 1337 1
+427 698 1
+427 513 1
+427 1335 1
+431 945 1
+431 563 1
+431 525 1
+431 564 1
+423 295 1
+423 2375 1
+423 89 1
+423 441 1
+423 306 1
+423 408 1
+476 486 1
+470 388 1
+470 896 1
+470 2394 1
+468 2240 1
+468 2239 1
+468 783 1
+469 2057 1
+464 1127 1
+464 185 1
+464 502 1
+464 210 1
+465 2727 1
+465 2726 1
+465 2725 1
+465 2728 1
+465 2724 1
+465 2729 1
+461 466 1
+461 555 1
+461 529 1
+461 2277 1
+461 1115 1
+461 1114 1
+461 1652 1
+457 2320 1
+457 478 1
+457 645 1
+457 479 1
+457 646 1
+457 647 1
+456 2320 1
+456 478 1
+456 645 1
+456 479 1
+456 646 1
+456 647 1
+454 2339 1
+454 1300 1
+454 1299 1
+454 1347 1
+453 2008 1
+451 2433 1
+451 1764 1
+450 1374 1
+450 1373 1
+504 1509 1
+504 1508 1
+504 2782 1
+504 1510 1
+504 2781 1
+500 466 1
+500 555 1
+500 529 1
+500 2277 1
+500 1115 1
+500 1114 1
+500 1652 1
+501 1191 1
+501 1190 1
+501 144 1
+501 608 1
+501 1189 1
+501 607 1
+501 1188 1
+501 606 1
+501 443 1
+502 284 1
+503 506 1
+503 510 1
+499 1152 1
+499 1831 1
+499 1830 1
+495 644 1
+487 1331 1
+487 2429 1
+487 2431 1
+487 2430 1
+487 2428 1
+546 547 1
+546 1278 1
+546 570 1
+516 539 1
+519 982 1
+519 63 1
+519 180 1
+519 45 1
+519 1153 1
+519 2644 1
+519 241 1
+527 1770 1
+520 2292 1
+520 2432 1
+520 2161 1
+520 522 1
+520 521 1
+529 936 1
+540 2469 1
+611 612 1
+612 2755 1
+612 619 1
+612 614 1
+612 615 1
+612 616 1
+612 618 1
+613 2755 1
+613 619 1
+613 614 1
+613 615 1
+613 616 1
+613 618 1
+623 543 1
+623 761 1
+623 44 1
+623 431 1
+623 544 1
+623 32 1
+623 238 1
+623 583 1
+623 249 1
+621 644 1
+627 1578 1
+627 1575 1
+627 1576 1
+627 326 1
+627 1574 1
+627 1577 1
+626 195 1
+626 223 1
+625 56 1
+625 634 1
+625 629 1
+625 217 1
+624 44 1
+630 632 1
+630 2203 1
+630 631 1
+630 633 1
+629 632 1
+629 2203 1
+629 631 1
+629 633 1
+635 636 1
+635 637 1
+635 1033 1
+634 636 1
+634 637 1
+634 1033 1
+639 877 1
+639 875 1
+639 876 1
+639 878 1
+638 877 1
+638 875 1
+638 876 1
+638 878 1
+594 612 1
+686 2364 1
+686 688 1
+686 1909 1
+686 1908 1
+686 687 1
+685 208 1
+685 1428 1
+683 538 1
+682 2331 1
+682 2330 1
+682 684 1
+682 2334 1
+680 681 1
+680 665 1
+680 584 1
+679 1838 1
+679 1837 1
+672 673 1
+672 676 1
+672 678 1
+672 677 1
+672 675 1
+672 674 1
+702 704 1
+703 704 1
+698 700 1
+698 2172 1
+698 2173 1
+698 2358 1
+698 701 1
+698 2357 1
+698 699 1
+697 700 1
+697 2172 1
+697 2173 1
+697 2358 1
+697 701 1
+697 2357 1
+697 699 1
+694 28 1
+694 691 1
+695 28 1
+695 691 1
+692 250 1
+692 75 1
+692 2360 1
+692 3 1
+692 2249 1
+693 250 1
+693 75 1
+693 2360 1
+693 2249 1
+691 2354 1
+691 2352 1
+691 697 1
+691 2355 1
+691 2356 1
+691 702 1
+691 2353 1
+653 683 1
+653 2251 1
+653 1 1
+655 2 1
+655 174 1
+655 406 1
+655 261 1
+655 1034 1
+655 1282 1
+655 191 1
+655 207 1
+654 683 1
+654 2251 1
+654 1 1
+649 648 1
+648 1385 1
+648 1386 1
+648 2081 1
+648 2080 1
+648 2082 1
+651 652 1
+650 2642 1
+650 1380 1
+650 1378 1
+650 1658 1
+644 2331 1
+644 2330 1
+644 684 1
+644 2334 1
+641 177 1
+640 232 1
+640 177 1
+643 1414 1
+643 1413 1
+643 1416 1
+643 1415 1
+643 1417 1
+642 1414 1
+642 1413 1
+642 1416 1
+642 1415 1
+642 1417 1
+671 673 1
+671 676 1
+671 678 1
+671 677 1
+671 675 1
+671 674 1
+662 6 1
+663 6 1
+656 2174 1
+656 624 1
+656 2243 1
+656 641 1
+656 1487 1
+656 743 1
+657 2174 1
+657 624 1
+657 2243 1
+657 641 1
+657 1487 1
+657 743 1
+658 385 1
+658 1405 1
+658 1387 1
+658 1404 1
+658 1307 1
+658 72 1
+659 232 1
+747 748 1
+746 2395 1
+746 7 1
+746 748 1
+744 25 1
+744 10 1
+744 742 1
+744 469 1
+751 764 1
+751 769 1
+751 770 1
+751 2350 1
+751 766 1
+751 765 1
+751 760 1
+750 764 1
+750 769 1
+750 770 1
+750 2350 1
+750 766 1
+750 765 1
+750 760 1
+749 2395 1
+749 7 1
+749 391 1
+749 404 1
+738 1370 1
+738 740 1
+738 2439 1
+738 739 1
+737 1370 1
+737 740 1
+737 2439 1
+737 739 1
+743 1566 1
+743 25 1
+743 2708 1
+743 2709 1
+743 1539 1
+743 1563 1
+743 436 1
+743 10 1
+743 742 1
+743 469 1
+742 2147 1
+742 2148 1
+742 872 1
+742 285 1
+742 266 1
+742 871 1
+762 543 1
+762 761 1
+762 431 1
+762 544 1
+762 32 1
+762 238 1
+762 583 1
+762 249 1
+763 1139 1
+763 65 1
+763 246 1
+767 377 1
+767 277 1
+767 1418 1
+755 432 1
+755 8 1
+755 1711 1
+755 1251 1
+752 252 1
+752 1755 1
+752 500 1
+753 1650 1
+759 751 1
+756 432 1
+756 732 1
+756 8 1
+756 1711 1
+756 1251 1
+715 1164 1
+715 716 1
+715 1239 1
+719 982 1
+719 63 1
+719 180 1
+719 45 1
+719 1153 1
+719 2644 1
+719 241 1
+705 164 1
+705 2661 1
+705 229 1
+705 228 1
+705 1464 1
+705 209 1
+707 437 1
+707 838 1
+707 17 1
+707 767 1
+707 840 1
+707 2609 1
+707 4 1
+706 437 1
+706 838 1
+706 767 1
+706 840 1
+706 2609 1
+706 4 1
+708 2204 1
+708 15 1
+708 159 1
+708 193 1
+708 1445 1
+708 175 1
+710 713 1
+710 712 1
+710 1133 1
+710 714 1
+710 711 1
+728 2063 1
+728 2515 1
+728 2643 1
+729 2064 1
+729 2435 1
+734 2436 1
+734 2438 1
+734 736 1
+734 2437 1
+735 2438 1
+735 736 1
+735 2437 1
+720 519 1
+720 1226 1
+720 248 1
+720 1223 1
+720 62 1
+720 1225 1
+720 1222 1
+721 519 1
+721 1226 1
+721 248 1
+721 1223 1
+721 62 1
+721 1225 1
+721 1222 1
+722 728 1
+722 729 1
+723 728 1
+723 729 1
+724 293 1
+724 222 1
+724 1039 1
+725 2713 1
+725 2714 1
+726 1942 1
+726 1939 1
+726 724 1
+726 723 1
+726 1943 1
+726 1940 1
+726 1941 1
+727 1942 1
+727 1939 1
+727 724 1
+727 723 1
+727 1943 1
+727 1940 1
+727 1941 1
+821 822 1
+821 823 1
+821 2289 1
+821 2288 1
+820 822 1
+820 823 1
+820 2289 1
+820 2288 1
+816 2167 1
+816 18 1
+816 49 1
+816 40 1
+816 206 1
+816 71 1
+816 16 1
+819 1091 1
+819 816 1
+818 1091 1
+818 816 1
+829 831 1
+828 893 1
+828 829 1
+831 835 1
+831 833 1
+831 834 1
+830 831 1
+825 893 1
+825 171 1
+825 17 1
+825 36 1
+825 829 1
+825 1268 1
+825 1348 1
+825 2608 1
+825 1355 1
+824 1794 1
+824 1795 1
+827 949 1
+827 825 1
+827 487 1
+827 1093 1
+827 841 1
+826 949 1
+826 2772 1
+826 825 1
+826 2256 1
+826 487 1
+826 1093 1
+826 841 1
+826 987 1
+805 804 1
+805 111 1
+805 332 1
+806 805 1
+807 184 1
+801 1927 1
+801 1424 1
+801 1423 1
+802 2387 1
+802 2388 1
+803 817 1
+813 1046 1
+813 189 1
+813 31 1
+813 19 1
+813 168 1
+814 1046 1
+814 189 1
+814 31 1
+814 19 1
+814 168 1
+815 788 1
+815 1593 1
+815 1594 1
+815 813 1
+815 1458 1
+815 1595 1
+808 1926 1
+808 1421 1
+808 1419 1
+808 1422 1
+808 1925 1
+808 1420 1
+809 1927 1
+809 1424 1
+809 1423 1
+790 791 1
+790 2351 1
+790 2197 1
+790 792 1
+790 786 1
+789 163 1
+789 944 1
+789 205 1
+789 233 1
+788 1291 1
+788 2563 1
+788 230 1
+788 1296 1
+788 1289 1
+788 1301 1
+788 12 1
+788 454 1
+787 1291 1
+787 2563 1
+787 230 1
+787 1296 1
+787 1289 1
+787 1301 1
+787 12 1
+787 454 1
+784 1379 1
+784 1922 1
+784 1923 1
+799 1926 1
+799 1421 1
+799 1419 1
+799 1422 1
+799 1925 1
+799 1420 1
+798 799 1
+798 800 1
+798 801 1
+797 799 1
+797 800 1
+797 801 1
+796 795 1
+795 14 1
+795 802 1
+795 485 1
+795 1928 1
+795 797 1
+795 1930 1
+794 14 1
+794 802 1
+794 485 1
+794 1928 1
+794 797 1
+794 1930 1
+793 103 1
+774 1690 1
+774 1684 1
+774 504 1
+774 2092 1
+774 1696 1
+774 1689 1
+772 1528 1
+772 312 1
+773 2157 1
+773 775 1
+773 781 1
+771 2157 1
+771 775 1
+771 781 1
+768 377 1
+768 277 1
+782 2240 1
+782 2239 1
+782 783 1
+783 2589 1
+778 2026 1
+778 468 1
+778 780 1
+778 11 1
+779 2034 1
+779 778 1
+777 2026 1
+777 468 1
+777 780 1
+777 11 1
+880 882 1
+880 883 1
+880 884 1
+880 881 1
+885 887 1
+885 886 1
+885 2348 1
+885 1403 1
+889 990 1
+889 22 1
+888 990 1
+888 22 1
+891 59 1
+891 2703 1
+891 2702 1
+891 153 1
+891 157 1
+890 1911 1
+893 515 1
+893 2010 1
+893 2009 1
+893 892 1
+892 2054 1
+892 2518 1
+892 1609 1
+895 70 1
+895 196 1
+895 219 1
+895 470 1
+895 793 1
+894 196 1
+894 470 1
+864 867 1
+865 1211 1
+865 626 1
+865 1618 1
+865 864 1
+866 626 1
+866 1618 1
+867 869 1
+867 870 1
+868 869 1
+868 870 1
+870 1856 1
+870 1859 1
+870 1858 1
+870 1857 1
+871 874 1
+871 1088 1
+872 2753 1
+873 874 1
+873 1088 1
+850 1138 1
+850 846 1
+849 1138 1
+849 846 1
+848 847 1
+853 798 1
+853 9 1
+853 2230 1
+853 48 1
+853 169 1
+853 2228 1
+853 198 1
+859 20 1
+859 21 1
+859 1008 1
+859 30 1
+858 162 1
+863 867 1
+862 1531 1
+862 1529 1
+862 815 1
+862 863 1
+861 1531 1
+861 1529 1
+861 815 1
+861 863 1
+860 20 1
+860 21 1
+860 1008 1
+860 30 1
+832 835 1
+832 833 1
+832 834 1
+838 1846 1
+838 1847 1
+838 1165 1
+839 1846 1
+839 1847 1
+836 837 1
+836 2378 1
+842 74 1
+842 1383 1
+840 1852 1
+840 1849 1
+840 1851 1
+840 1853 1
+840 1850 1
+846 498 1
+846 244 1
+846 389 1
+846 2610 1
+846 37 1
+846 919 1
+846 1059 1
+846 1051 1
+846 188 1
+846 2257 1
+846 1050 1
+847 498 1
+847 244 1
+847 389 1
+847 2610 1
+847 37 1
+847 919 1
+847 1059 1
+847 1051 1
+847 188 1
+847 2257 1
+847 1050 1
+844 243 1
+956 960 1
+956 958 1
+956 959 1
+956 957 1
+957 2410 1
+957 2409 1
+957 2408 1
+957 2405 1
+957 2407 1
+957 2406 1
+959 2415 1
+959 2413 1
+959 2414 1
+959 2416 1
+959 2417 1
+952 953 1
+952 954 1
+952 955 1
+953 2399 1
+954 2403 1
+955 960 1
+955 958 1
+955 959 1
+955 957 1
+948 27 1
+948 951 1
+948 201 1
+948 190 1
+948 950 1
+948 1162 1
+948 756 1
+949 27 1
+949 951 1
+949 201 1
+949 190 1
+949 950 1
+949 1162 1
+949 756 1
+951 953 1
+951 954 1
+951 955 1
+944 2582 1
+944 143 1
+944 535 1
+943 258 1
+943 2140 1
+943 405 1
+943 2662 1
+943 33 1
+937 1528 1
+933 26 1
+932 26 1
+935 1327 1
+935 1950 1
+935 931 1
+935 685 1
+935 1951 1
+935 1952 1
+935 390 1
+934 1327 1
+934 1950 1
+934 931 1
+934 685 1
+934 1951 1
+934 1952 1
+934 390 1
+929 930 1
+929 2250 1
+929 1631 1
+928 158 1
+931 456 1
+931 1633 1
+931 211 1
+931 260 1
+931 2242 1
+931 166 1
+931 772 1
+924 2373 1
+924 925 1
+924 927 1
+924 926 1
+918 915 1
+919 622 1
+919 922 1
+919 923 1
+919 2209 1
+919 921 1
+916 235 1
+916 1258 1
+916 2208 1
+916 1309 1
+916 1444 1
+916 149 1
+916 789 1
+916 24 1
+917 915 1
+915 235 1
+915 1258 1
+915 2208 1
+915 1309 1
+915 1444 1
+915 149 1
+915 789 1
+915 24 1
+907 212 1
+907 1105 1
+907 2053 1
+906 1442 1
+906 2699 1
+905 194 1
+904 69 1
+904 64 1
+904 1121 1
+904 464 1
+904 1131 1
+904 902 1
+902 903 1
+901 23 1
+901 1981 1
+900 23 1
+900 1981 1
+897 2392 1
+897 2448 1
+897 2701 1
+897 2393 1
+897 602 1
+897 2391 1
+896 2392 1
+896 2448 1
+896 2701 1
+896 2393 1
+896 602 1
+896 2391 1
+1017 1019 1
+1017 1022 1
+1017 1021 1
+1017 2389 1
+1017 1020 1
+1017 2312 1
+1018 1019 1
+1018 1022 1
+1018 1021 1
+1018 2389 1
+1018 1020 1
+1018 2312 1
+1023 392 1
+1023 1465 1
+1023 121 1
+1023 1283 1
+1023 34 1
+1023 380 1
+1023 382 1
+1023 1288 1
+1008 273 1
+1008 274 1
+1008 410 1
+1008 305 1
+1008 327 1
+1008 1009 1
+1008 414 1
+1008 1014 1
+1010 554 1
+1010 1012 1
+1010 2006 1
+1010 1013 1
+1014 493 1
+1014 1016 1
+1014 1011 1
+1014 452 1
+1015 493 1
+1015 1016 1
+1015 1011 1
+1015 452 1
+1001 1601 1
+1000 1601 1
+1002 1003 1
+1002 1005 1
+1002 1004 1
+1006 1007 1
+993 992 1
+992 996 1
+992 119 1
+992 994 1
+992 299 1
+994 995 1
+994 1375 1
+999 1000 1
+999 80 1
+999 1002 1
+987 178 1
+987 2052 1
+985 986 1
+990 29 1
+991 29 1
+988 178 1
+988 2052 1
+989 2772 1
+989 2256 1
+989 987 1
+978 1655 1
+978 979 1
+978 2423 1
+978 2051 1
+977 1655 1
+977 979 1
+977 2423 1
+977 2051 1
+982 221 1
+982 983 1
+982 2468 1
+980 981 1
+971 2422 1
+971 1653 1
+974 976 1
+974 1654 1
+974 2215 1
+974 975 1
+973 976 1
+973 1654 1
+973 2215 1
+973 975 1
+972 2422 1
+972 1653 1
+962 179 1
+961 263 1
+961 251 1
+961 1897 1
+961 259 1
+961 1484 1
+966 2521 1
+1100 1450 1
+1100 1989 1
+1100 1070 1
+1101 1112 1
+1101 94 1
+1101 433 1
+1101 91 1
+1102 2708 1
+1102 2709 1
+1102 433 1
+1103 1102 1
+1103 747 1
+1099 1101 1
+1099 192 1
+1099 182 1
+1093 1566 1
+1093 1539 1
+1093 1563 1
+1093 436 1
+1094 2164 1
+1094 2163 1
+1094 1095 1
+1094 2162 1
+1117 1122 1
+1116 2292 1
+1116 2432 1
+1116 2161 1
+1116 522 1
+1116 521 1
+1118 1822 1
+1118 1870 1
+1118 1869 1
+1118 2278 1
+1113 2753 1
+1105 1112 1
+1105 94 1
+1105 91 1
+1104 1102 1
+1104 747 1
+1107 1106 1
+1106 1108 1
+1106 1109 1
+1106 2396 1
+1106 2397 1
+1135 1873 1
+1135 1874 1
+1135 1872 1
+1135 1875 1
+1131 2545 1
+1131 2529 1
+1131 2535 1
+1131 2544 1
+1131 2540 1
+1131 2546 1
+1131 2539 1
+1131 2543 1
+1128 2443 1
+1128 1130 1
+1128 2440 1
+1128 2441 1
+1128 2374 1
+1128 1129 1
+1126 69 1
+1126 1131 1
+1127 2443 1
+1127 1130 1
+1127 2440 1
+1127 2441 1
+1127 2374 1
+1127 1129 1
+1124 64 1
+1125 904 1
+1125 1156 1
+1123 1121 1
+1123 464 1
+1123 902 1
+1121 57 1
+1121 1080 1
+1121 187 1
+1121 58 1
+1121 41 1
+1151 42 1
+1151 1971 1
+1150 42 1
+1150 1971 1
+1150 1900 1
+1150 1964 1
+1147 1148 1
+1147 1149 1
+1147 2739 1
+1146 1148 1
+1146 1149 1
+1146 2739 1
+1138 262 1
+1138 1426 1
+1137 202 1
+1032 35 1
+1032 247 1
+1032 2067 1
+1032 46 1
+1037 1450 1
+1037 1989 1
+1037 895 1
+1037 746 1
+1037 50 1
+1037 204 1
+1037 1503 1
+1037 1070 1
+1038 1101 1
+1038 895 1
+1038 746 1
+1038 50 1
+1038 204 1
+1038 192 1
+1038 1503 1
+1039 1042 1
+1039 2562 1
+1039 2561 1
+1039 1041 1
+1039 1043 1
+1025 379 1
+1026 379 1
+1027 1023 1
+1028 1517 1
+1028 1519 1
+1028 658 1
+1029 1449 1
+1029 170 1
+1029 225 1
+1029 1620 1
+1029 627 1
+1030 1031 1
+1030 2517 1
+1030 2519 1
+1030 2456 1
+1049 440 1
+1051 1058 1
+1051 531 1
+1051 1052 1
+1051 92 1
+1051 310 1
+1051 287 1
+1051 394 1
+1050 2612 1
+1050 2380 1
+1050 2611 1
+1053 1056 1
+1053 1057 1
+1053 1055 1
+1052 1056 1
+1052 1057 1
+1052 1055 1
+1054 1053 1
+1040 1042 1
+1040 2562 1
+1040 2561 1
+1040 1041 1
+1040 1043 1
+1044 2044 1
+1044 1045 1
+1046 1047 1
+1066 38 1
+1066 167 1
+1067 38 1
+1067 167 1
+1070 1079 1
+1070 2707 1
+1070 427 1
+1070 39 1
+1070 1073 1
+1071 47 1
+1058 1866 1
+1058 1865 1
+1058 403 1
+1059 1061 1
+1059 1062 1
+1059 1064 1
+1059 2259 1
+1059 1065 1
+1059 2260 1
+1059 1063 1
+1060 1061 1
+1060 1062 1
+1060 1064 1
+1060 2259 1
+1060 1065 1
+1060 2260 1
+1060 1063 1
+1080 1081 1
+1080 1082 1
+1080 1024 1
+1080 1084 1
+1080 1085 1
+1080 1083 1
+1075 1470 1
+1074 1077 1
+1074 1076 1
+1074 1078 1
+1074 1075 1
+1073 1077 1
+1073 1076 1
+1073 1078 1
+1073 1075 1
+1072 47 1
+1079 1081 1
+1079 1082 1
+1079 1024 1
+1079 1084 1
+1079 1085 1
+1079 1083 1
+1077 1379 1
+1077 1922 1
+1077 1923 1
+1076 1136 1
+1076 620 1
+1076 741 1
+1076 1293 1
+1076 1068 1
+1228 1230 1
+1228 1233 1
+1228 1231 1
+1228 2445 1
+1228 2449 1
+1228 1232 1
+1228 1229 1
+1225 169 1
+1227 1230 1
+1227 1233 1
+1227 1231 1
+1227 2445 1
+1227 2449 1
+1227 1232 1
+1227 1229 1
+1236 224 1
+1236 501 1
+1236 1701 1
+1236 1761 1
+1234 73 1
+1234 183 1
+1234 1604 1
+1245 2073 1
+1245 2039 1
+1246 1277 1
+1241 1242 1
+1242 2073 1
+1242 2446 1
+1242 2039 1
+1242 1628 1
+1252 1254 1
+1252 1255 1
+1252 1253 1
+1252 1256 1
+1251 1254 1
+1251 1255 1
+1251 1253 1
+1251 1256 1
+1261 1259 1
+1260 1259 1
+1259 66 1
+1258 66 1
+1257 732 1
+1270 1269 1
+1271 1269 1
+1268 1975 1
+1268 1272 1
+1268 1274 1
+1268 1275 1
+1268 283 1
+1268 1276 1
+1268 2340 1
+1268 2347 1
+1269 1975 1
+1269 1272 1
+1269 1274 1
+1269 1275 1
+1269 283 1
+1269 1276 1
+1269 2340 1
+1269 2347 1
+1266 681 1
+1266 665 1
+1266 584 1
+1267 1882 1
+1267 1885 1
+1267 1886 1
+1267 1884 1
+1267 1883 1
+1274 2346 1
+1272 2343 1
+1272 2344 1
+1155 1467 1
+1155 197 1
+1157 43 1
+1157 1161 1
+1156 43 1
+1156 1161 1
+1159 1155 1
+1158 1155 1
+1161 798 1
+1161 9 1
+1161 2230 1
+1161 48 1
+1161 2228 1
+1161 198 1
+1163 245 1
+1162 245 1
+1170 2442 1
+1170 2304 1
+1171 1175 1
+1171 1174 1
+1171 1173 1
+1172 1915 1
+1172 1914 1
+1172 2302 1
+1176 1177 1
+1176 1750 1
+1176 51 1
+1176 1751 1
+1176 1179 1
+1176 1439 1
+1179 1749 1
+1179 1744 1
+1179 1748 1
+1179 1741 1
+1179 1742 1
+1179 1746 1
+1179 1745 1
+1179 1747 1
+1179 1743 1
+1179 1740 1
+1180 1749 1
+1180 1744 1
+1180 1748 1
+1180 1741 1
+1180 1742 1
+1180 1746 1
+1180 1745 1
+1180 1747 1
+1180 1743 1
+1180 1740 1
+1181 2098 1
+1181 1184 1
+1181 2381 1
+1181 1183 1
+1182 2098 1
+1182 2381 1
+1187 2123 1
+1187 2117 1
+1187 2125 1
+1187 2116 1
+1187 52 1
+1187 2133 1
+1187 2130 1
+1186 2123 1
+1186 2117 1
+1186 2125 1
+1186 2116 1
+1186 52 1
+1186 2133 1
+1186 2130 1
+1194 77 1
+1194 725 1
+1194 60 1
+1192 1788 1
+1192 53 1
+1192 199 1
+1192 1032 1
+1199 826 1
+1198 826 1
+1197 77 1
+1197 725 1
+1197 60 1
+1206 2179 1
+1206 2178 1
+1206 2180 1
+1207 449 1
+1207 448 1
+1211 1579 1
+1211 1214 1
+1211 1580 1
+1211 61 1
+1209 2459 1
+1209 1250 1
+1214 1216 1
+1214 1217 1
+1214 1220 1
+1214 1218 1
+1214 1221 1
+1214 1219 1
+1212 1579 1
+1212 1214 1
+1212 1580 1
+1212 1646 1
+1212 61 1
+1212 854 1
+1213 1211 1
+1213 899 1
+1213 864 1
+1372 1371 1
+1371 1374 1
+1371 1373 1
+1365 2473 1
+1365 2474 1
+1362 1364 1
+1362 1406 1
+1362 2513 1
+1362 1363 1
+1362 1573 1
+1356 1357 1
+1356 1359 1
+1356 1358 1
+1355 1357 1
+1355 1359 1
+1355 1358 1
+1348 1354 1
+1348 1353 1
+1348 1350 1
+1348 1352 1
+1348 1351 1
+1349 1354 1
+1349 1353 1
+1349 1350 1
+1349 1352 1
+1349 1351 1
+1344 1462 1
+1344 1346 1
+1344 1345 1
+1344 2774 1
+1344 1360 1
+1407 74 1
+1407 1383 1
+1401 2271 1
+1401 2270 1
+1395 1398 1
+1395 1397 1
+1395 1400 1
+1395 2390 1
+1395 1399 1
+1395 1396 1
+1394 1398 1
+1394 1397 1
+1394 1400 1
+1394 2390 1
+1394 1399 1
+1394 1396 1
+1388 1401 1
+1388 1389 1
+1388 1402 1
+1388 1394 1
+1388 1018 1
+1389 1393 1
+1389 1392 1
+1389 1391 1
+1390 1393 1
+1390 1392 1
+1384 1412 1
+1384 1408 1
+1387 1401 1
+1387 1389 1
+1387 1402 1
+1387 1394 1
+1387 1018 1
+1383 1466 1
+1383 1339 1
+1383 1206 1
+1383 1469 1
+1383 1313 1
+1383 236 1
+1383 1116 1
+1383 1316 1
+1383 402 1
+1383 1483 1
+1376 2700 1
+1376 1910 1
+1376 1377 1
+1307 585 1
+1307 505 1
+1307 123 1
+1307 364 1
+1307 140 1
+1304 2308 1
+1304 1306 1
+1304 1305 1
+1311 423 1
+1310 386 1
+1309 386 1
+1309 1428 1
+1298 2008 1
+1298 2339 1
+1298 1300 1
+1298 1299 1
+1298 1347 1
+1297 2578 1
+1296 2578 1
+1301 1608 1
+1301 1303 1
+1301 1302 1
+1301 1889 1
+1290 1585 1
+1290 2248 1
+1290 2247 1
+1290 2246 1
+1290 1584 1
+1291 415 1
+1291 1887 1
+1291 303 1
+1291 1294 1
+1289 1585 1
+1289 2248 1
+1289 2247 1
+1289 2246 1
+1289 1584 1
+1294 2567 1
+1294 1629 1
+1294 2566 1
+1294 2573 1
+1294 2568 1
+1294 2572 1
+1294 2569 1
+1295 415 1
+1295 1887 1
+1295 2229 1
+1292 303 1
+1292 1294 1
+1282 87 1
+1282 2202 1
+1283 145 1
+1283 127 1
+1281 73 1
+1281 183 1
+1287 156 1
+1339 1343 1
+1341 254 1
+1340 1343 1
+1343 1462 1
+1343 1346 1
+1343 1345 1
+1343 2774 1
+1343 1360 1
+1329 1328 1
+1329 1125 1
+1328 1331 1
+1328 391 1
+1328 404 1
+1331 2225 1
+1331 2223 1
+1331 1891 1
+1331 2198 1
+1331 2222 1
+1331 2224 1
+1330 1338 1
+1330 1334 1
+1332 2225 1
+1332 2223 1
+1332 1891 1
+1332 2198 1
+1332 2222 1
+1332 2224 1
+1322 1338 1
+1322 1334 1
+1324 486 1
+1312 423 1
+1313 1412 1
+1313 1314 1
+1313 1408 1
+1316 1318 1
+1316 2652 1
+1316 1323 1
+1316 1326 1
+1316 1325 1
+1316 1322 1
+1316 1324 1
+1317 1318 1
+1317 2652 1
+1317 1323 1
+1317 1325 1
+1317 1322 1
+1317 1324 1
+1318 2315 1
+1318 1321 1
+1318 1320 1
+1319 2315 1
+1319 1321 1
+1319 1320 1
+1494 237 1
+1495 237 1
+1492 814 1
+1493 814 1
+1490 787 1
+1491 787 1
+1488 1072 1
+1488 1955 1
+1488 656 1
+1489 1072 1
+1489 1955 1
+1489 656 1
+1502 1192 1
+1500 2103 1
+1500 1187 1
+1500 719 1
+1500 231 1
+1501 1192 1
+1499 2103 1
+1499 1187 1
+1499 719 1
+1499 231 1
+1496 1028 1
+1496 1027 1
+1497 1028 1
+1497 1027 1
+1479 2085 1
+1479 1678 1
+1479 1298 1
+1478 256 1
+1477 256 1
+1476 847 1
+1475 649 1
+1474 649 1
+1472 1328 1
+1472 1125 1
+1486 1586 1
+1485 1586 1
+1484 1814 1
+1484 1813 1
+1484 1815 1
+1481 1479 1
+1480 1479 1
+1524 2176 1
+1524 2153 1
+1524 654 1
+1524 1962 1
+1524 2150 1
+1524 623 1
+1525 2176 1
+1525 2153 1
+1525 654 1
+1525 1962 1
+1525 2150 1
+1525 623 1
+1526 818 1
+1527 818 1
+1520 1521 1
+1532 934 1
+1533 988 1
+1533 948 1
+1533 2213 1
+1534 988 1
+1534 948 1
+1534 2213 1
+1535 932 1
+1529 859 1
+1530 859 1
+1531 934 1
+1511 849 1
+1511 779 1
+1505 1136 1
+1505 620 1
+1505 741 1
+1505 1293 1
+1505 1068 1
+1507 1509 1
+1507 1508 1
+1507 2782 1
+1507 1510 1
+1507 2781 1
+1517 5 1
+1516 1517 1
+1516 1519 1
+1516 658 1
+1519 1521 1
+1518 5 1
+1513 2034 1
+1513 778 1
+1512 849 1
+1512 779 1
+1427 1973 1
+1427 1896 1
+1427 1972 1
+1427 1974 1
+1427 587 1
+1425 1856 1
+1425 1859 1
+1425 1858 1
+1425 1857 1
+1430 907 1
+1430 655 1
+1431 907 1
+1431 655 1
+1435 1270 1
+1432 891 1
+1433 891 1
+1438 199 1
+1438 1032 1
+1439 234 1
+1439 176 1
+1439 1753 1
+1439 1752 1
+1436 1270 1
+1437 1788 1
+1437 53 1
+1410 226 1
+1409 226 1
+1457 788 1
+1457 1593 1
+1457 1594 1
+1457 813 1
+1457 1458 1
+1457 1595 1
+1460 1459 1
+1461 1459 1
+1463 243 1
+1468 1470 1
+1471 1177 1
+1471 1750 1
+1471 51 1
+1471 1751 1
+1471 1179 1
+1471 1439 1
+1441 992 1
+1440 234 1
+1440 176 1
+1440 1753 1
+1440 1752 1
+1443 202 1
+1445 1448 1
+1445 2765 1
+1445 1447 1
+1444 1449 1
+1444 170 1
+1444 225 1
+1444 1620 1
+1444 627 1
+1447 2482 1
+1447 2478 1
+1447 2477 1
+1447 2455 1
+1447 2480 1
+1446 1448 1
+1446 2765 1
+1446 1447 1
+1449 2640 1
+1451 2551 1
+1451 2550 1
+1450 2551 1
+1450 2550 1
+1453 594 1
+1453 495 1
+1453 750 1
+1453 625 1
+1453 771 1
+1452 594 1
+1452 495 1
+1452 750 1
+1452 625 1
+1452 771 1
+1640 1641 1
+1640 1642 1
+1640 1643 1
+1640 1644 1
+1646 2057 1
+1647 1649 1
+1647 2252 1
+1645 2385 1
+1645 2384 1
+1645 2386 1
+1634 1645 1
+1634 1635 1
+1634 1639 1
+1635 1638 1
+1635 1637 1
+1632 1633 1
+1632 1646 1
+1632 854 1
+1632 2252 1
+1632 2242 1
+1633 1645 1
+1633 1635 1
+1633 1639 1
+1639 1641 1
+1639 1642 1
+1639 1643 1
+1639 1644 1
+1636 1638 1
+1636 1637 1
+1649 2387 1
+1649 2388 1
+1648 1649 1
+1610 1612 1
+1610 1430 1
+1611 763 1
+1611 1612 1
+1611 1430 1
+1604 426 1
+1604 2508 1
+1604 1607 1
+1604 1606 1
+1604 2516 1
+1605 426 1
+1605 1607 1
+1605 1606 1
+1617 1100 1
+1617 653 1
+1616 1100 1
+1616 653 1
+1621 1625 1
+1621 1624 1
+1621 1622 1
+1620 1625 1
+1620 1624 1
+1620 1622 1
+1582 1490 1
+1582 2181 1
+1582 865 1
+1581 1490 1
+1581 2181 1
+1581 865 1
+1570 2279 1
+1570 2276 1
+1568 2261 1
+1568 2262 1
+1569 2274 1
+1599 1600 1
+1598 1600 1
+1597 1598 1
+1596 1598 1
+1590 1591 1
+1589 1591 1
+1587 1589 1
+1587 1234 1
+1587 1341 1
+1587 1588 1
+1586 1589 1
+1586 1234 1
+1586 1341 1
+1586 1588 1
+1548 2159 1
+1548 1550 1
+1548 1549 1
+1548 1551 1
+1547 2159 1
+1547 1550 1
+1547 1549 1
+1547 1551 1
+1540 1547 1
+1540 1562 1
+1540 1541 1
+1540 1557 1
+1540 1561 1
+1540 1552 1
+1540 1556 1
+1540 1558 1
+1540 1560 1
+1540 1553 1
+1540 1559 1
+1541 2244 1
+1541 1544 1
+1541 1546 1
+1541 2158 1
+1541 1545 1
+1541 1543 1
+1542 2244 1
+1542 1544 1
+1542 1546 1
+1542 2158 1
+1542 1545 1
+1542 1543 1
+1536 932 1
+1539 1547 1
+1539 1562 1
+1539 1541 1
+1539 1557 1
+1539 1561 1
+1539 1552 1
+1539 1556 1
+1539 1558 1
+1539 1560 1
+1539 1553 1
+1539 1559 1
+1565 2751 1
+1565 2750 1
+1565 2752 1
+1567 1568 1
+1567 1570 1
+1567 1572 1
+1567 2712 1
+1567 2711 1
+1567 1569 1
+1567 1571 1
+1567 2280 1
+1566 1568 1
+1566 1570 1
+1566 1572 1
+1566 2712 1
+1566 2711 1
+1566 1569 1
+1566 1571 1
+1566 2280 1
+1553 1555 1
+1554 1555 1
+1762 1763 1
+1762 462 1
+1768 1769 1
+1775 1776 1
+1773 1774 1
+1778 2717 1
+1778 1779 1
+1782 1783 1
+1786 381 1
+1787 182 1
+1784 381 1
+1784 181 1
+1784 999 1
+1785 181 1
+1785 999 1
+1790 2329 1
+1790 2326 1
+1790 2327 1
+1790 2325 1
+1790 2324 1
+1790 2328 1
+1788 591 1
+1788 593 1
+1788 220 1
+1789 591 1
+1789 593 1
+1789 220 1
+1731 1735 1
+1731 1736 1
+1731 1737 1
+1731 1734 1
+1731 1733 1
+1732 1735 1
+1732 1736 1
+1732 1737 1
+1732 1734 1
+1732 1733 1
+1739 1708 1
+1739 1176 1
+1738 1708 1
+1738 1176 1
+1740 2629 1
+1740 2632 1
+1740 2631 1
+1740 2630 1
+1742 2634 1
+1742 2635 1
+1742 2636 1
+1744 2481 1
+1754 252 1
+1754 1755 1
+1754 500 1
+1755 286 1
+1756 286 1
+1757 2733 1
+1757 2734 1
+1702 1703 1
+1702 1758 1
+1702 1759 1
+1701 1703 1
+1701 1758 1
+1701 1760 1
+1701 1759 1
+1700 2731 1
+1700 2730 1
+1700 2732 1
+1699 1701 1
+1711 1715 1
+1711 1714 1
+1711 1713 1
+1711 1716 1
+1711 1717 1
+1709 1710 1
+1709 755 1
+1709 1719 1
+1709 1718 1
+1708 1710 1
+1708 755 1
+1708 1719 1
+1708 1718 1
+1706 705 1
+1706 1707 1
+1706 2264 1
+1706 165 1
+1705 705 1
+1705 1707 1
+1705 2264 1
+1705 165 1
+1704 1760 1
+1719 1721 1
+1719 2233 1
+1719 1731 1
+1719 1724 1
+1712 1715 1
+1712 1714 1
+1712 1713 1
+1712 1716 1
+1712 1717 1
+1724 1730 1
+1724 1729 1
+1724 1728 1
+1724 1726 1
+1724 1727 1
+1725 1730 1
+1725 1729 1
+1725 1728 1
+1725 1726 1
+1725 1727 1
+1722 1723 1
+1720 2233 1
+1720 1724 1
+1721 1723 1
+1664 2263 1
+1664 1665 1
+1666 1667 1
+1677 1477 1
+1676 1477 1
+1679 904 1
+1679 1156 1
+1675 848 1
+1675 1123 1
+1674 848 1
+1674 1123 1
+1684 1687 1
+1684 1688 1
+1684 1686 1
+1685 1687 1
+1685 1688 1
+1685 1686 1
+1681 2527 1
+1681 2526 1
+1682 774 1
+1682 1698 1
+1682 1699 1
+1682 1287 1
+1682 693 1
+1683 774 1
+1683 1698 1
+1683 1699 1
+1683 1287 1
+1683 693 1
+1690 1693 1
+1690 1692 1
+1690 1695 1
+1690 1694 1
+1690 2783 1
+1691 1693 1
+1691 1692 1
+1691 1695 1
+1691 1694 1
+1691 2783 1
+1917 1918 1
+1917 1443 1
+1916 1918 1
+1916 1443 1
+1919 173 1
+1918 173 1
+1905 1902 1
+1904 1902 1
+1907 1904 1
+1906 1904 1
+1896 506 1
+1896 510 1
+1897 1806 1
+1897 2185 1
+1897 1800 1
+1897 2186 1
+1897 2183 1
+1897 2187 1
+1897 2184 1
+1897 1762 1
+1898 1806 1
+1898 2185 1
+1898 1800 1
+1898 2186 1
+1898 2183 1
+1898 2187 1
+1898 2184 1
+1898 1762 1
+1899 1898 1
+1900 1897 1
+1901 1900 1
+1901 1964 1
+1902 777 1
+1903 777 1
+1891 2221 1
+1891 1893 1
+1891 2220 1
+1892 2221 1
+1892 1893 1
+1892 2220 1
+1894 2473 1
+1894 2474 1
+1895 1973 1
+1895 1896 1
+1895 1972 1
+1895 1974 1
+1895 587 1
+1881 1882 1
+1881 1885 1
+1881 1886 1
+1881 1884 1
+1881 1883 1
+1880 1216 1
+1880 1217 1
+1880 1220 1
+1880 1218 1
+1880 1221 1
+1880 1219 1
+1887 2576 1
+1887 2577 1
+1878 2459 1
+1877 1150 1
+1876 1150 1
+1867 1099 1
+1864 1754 1
+1864 1832 1
+1864 961 1
+1871 1888 1
+1868 1099 1
+1862 899 1
+1863 1754 1
+1863 1832 1
+1863 961 1
+1860 894 1
+1860 1067 1
+1861 894 1
+1861 1067 1
+1855 842 1
+1854 842 1
+1848 1852 1
+1848 1849 1
+1848 1851 1
+1848 1853 1
+1848 1850 1
+1845 827 1
+1844 827 1
+1841 744 1
+1840 744 1
+1843 824 1
+1842 824 1
+1836 1838 1
+1836 1837 1
+1839 694 1
+1832 1809 1
+1832 2776 1
+1832 540 1
+1832 2188 1
+1833 540 1
+1833 2188 1
+1834 662 1
+1834 935 1
+1835 662 1
+1835 935 1
+1828 1888 1
+1824 1825 1
+1826 341 1
+1827 341 1
+1823 323 1
+1819 2426 1
+1819 1820 1
+1819 2623 1
+1816 1818 1
+1816 1817 1
+1816 2716 1
+1809 1810 1
+1809 1811 1
+1806 1807 1
+1806 453 1
+1806 459 1
+1804 2301 1
+1804 2300 1
+1804 2299 1
+1804 1805 1
+1802 1803 1
+1800 1801 1
+1800 2313 1
+1798 1799 1
+1796 1797 1
+1792 1793 1
+1792 2649 1
+2033 2587 1
+2034 2036 1
+2035 2036 1
+2037 1647 1
+2037 706 1
+2038 1647 1
+2038 706 1
+2040 1391 1
+2042 2041 1
+2042 2462 1
+2043 2041 1
+2043 2462 1
+2016 2013 1
+2019 227 1
+2020 227 1
+2023 917 1
+2022 917 1
+2025 154 1
+2024 154 1
+2027 2031 1
+2027 2033 1
+2027 2028 1
+2027 2029 1
+2027 2032 1
+2027 2030 1
+2026 2031 1
+2026 2033 1
+2026 2028 1
+2026 2029 1
+2026 2032 1
+2026 2030 1
+2002 2604 1
+2002 2603 1
+2002 2005 1
+2002 2004 1
+2002 2605 1
+2002 2606 1
+2003 2604 1
+2003 2603 1
+2003 2005 1
+2003 2004 1
+2003 2605 1
+2003 2606 1
+2011 692 1
+2014 2011 1
+2015 2013 1
+2012 692 1
+2013 2011 1
+1991 2749 1
+1991 1993 1
+1991 1564 1
+1991 1994 1
+1990 1995 1
+1990 1991 1
+1990 2002 1
+1989 1995 1
+1989 1991 1
+1989 2002 1
+1995 2001 1
+1995 2600 1
+1995 2601 1
+1995 2000 1
+1995 1998 1
+1995 1997 1
+1995 1999 1
+1993 2751 1
+1993 2750 1
+1993 2752 1
+1992 2749 1
+1992 1993 1
+1992 1564 1
+1992 1994 1
+1999 2599 1
+1998 2596 1
+1998 2597 1
+1997 2592 1
+1997 2593 1
+1997 2594 1
+1996 2001 1
+1996 2600 1
+1996 2601 1
+1996 2000 1
+1996 1998 1
+1996 1997 1
+1996 1999 1
+1972 539 1
+1973 547 1
+1973 1278 1
+1973 570 1
+1980 2789 1
+1980 2309 1
+1981 1984 1
+1981 1988 1
+1981 1985 1
+1981 1987 1
+1981 1983 1
+1981 1986 1
+1982 1984 1
+1982 1988 1
+1982 1985 1
+1982 1987 1
+1982 1983 1
+1982 1986 1
+1976 2024 1
+1976 900 1
+1977 2024 1
+1977 900 1
+1978 1976 1
+1979 1976 1
+1957 1959 1
+1956 1957 1
+1959 1961 1
+1958 1959 1
+1953 694 1
+1955 1957 1
+1954 1540 1
+1965 1967 1
+1965 1966 1
+1965 1968 1
+1965 1969 1
+1965 1970 1
+1964 1967 1
+1964 1966 1
+1964 1968 1
+1964 1969 1
+1964 1970 1
+1960 1961 1
+1963 1212 1
+1962 1212 1
+1943 1945 1
+1941 2436 1
+1936 726 1
+1937 726 1
+1948 1949 1
+1946 853 1
+1946 943 1
+1947 853 1
+1947 943 1
+1944 1945 1
+1933 1934 1
+1932 1934 1
+1931 2316 1
+1931 2317 1
+1931 2319 1
+1931 2318 1
+1931 2704 1
+1931 2305 1
+1931 1828 1
+1930 2316 1
+1930 2317 1
+1930 2319 1
+1930 2318 1
+1930 2704 1
+1930 2305 1
+1930 1828 1
+1929 2722 1
+1929 1030 1
+1929 2723 1
+1929 2548 1
+1929 2314 1
+1928 2722 1
+1928 1030 1
+1928 2723 1
+1928 2548 1
+1928 2314 1
+2201 2261 1
+2201 2262 1
+2204 2367 1
+2204 2366 1
+2204 2368 1
+2204 2370 1
+2204 2369 1
+2204 2365 1
+2205 2367 1
+2205 2366 1
+2205 2368 1
+2205 2370 1
+2205 2369 1
+2205 2365 1
+2192 172 1
+2193 172 1
+2194 2496 1
+2198 2199 1
+2198 2200 1
+2189 2191 1
+2189 2190 1
+2188 2191 1
+2188 2190 1
+2177 455 1
+2176 455 1
+2181 1901 1
+2182 1901 1
+2234 2136 1
+2235 916 1
+2235 1784 1
+2238 752 1
+2236 916 1
+2236 1784 1
+2237 752 1
+2227 1319 1
+2228 2229 1
+2211 1038 1
+2210 1038 1
+2208 2055 1
+2208 2556 1
+2208 2045 1
+2214 2219 1
+2213 2219 1
+2257 715 1
+2258 715 1
+2303 2442 1
+2303 2304 1
+2287 242 1
+2285 2614 1
+2285 2613 1
+2285 397 1
+2284 2614 1
+2284 2613 1
+2284 397 1
+2283 2284 1
+2283 2286 1
+2281 2282 1
+2275 2279 1
+2275 2276 1
+2272 2274 1
+2065 1241 1
+2067 2650 1
+2066 1241 1
+2069 2757 1
+2069 663 1
+2069 843 1
+2068 2650 1
+2071 1036 1
+2071 1035 1
+2071 1048 1
+2070 2757 1
+2070 663 1
+2070 843 1
+2075 1705 1
+2077 1721 1
+2077 1731 1
+2076 1705 1
+2079 1738 1
+2079 2075 1
+2078 1738 1
+2078 2075 1
+2052 2053 1
+2058 720 1
+2059 720 1
+2060 2058 1
+2061 2058 1
+2062 2063 1
+2062 2515 1
+2062 2643 1
+2099 1184 1
+2099 1183 1
+2096 2093 1
+2101 1440 1
+2100 1440 1
+2107 2108 1
+2106 2108 1
+2105 2121 1
+2105 2119 1
+2105 2106 1
+2105 2118 1
+2105 1186 1
+2105 2120 1
+2105 2122 1
+2104 2121 1
+2104 2119 1
+2104 2106 1
+2104 2118 1
+2104 1186 1
+2104 2120 1
+2104 2122 1
+2109 2111 1
+2109 2115 1
+2109 2114 1
+2109 2113 1
+2109 2110 1
+2109 2112 1
+2108 2111 1
+2108 2115 1
+2108 2114 1
+2108 2113 1
+2108 2110 1
+2108 2112 1
+2083 1329 1
+2086 2777 1
+2086 2778 1
+2086 2780 1
+2086 2779 1
+2084 1329 1
+2085 2777 1
+2085 2778 1
+2085 2780 1
+2085 2779 1
+2091 1824 1
+2094 1682 1
+2095 2093 1
+2092 1824 1
+2093 1682 1
+2133 2135 1
+2134 2135 1
+2131 2132 1
+2130 2132 1
+2141 2142 1
+2141 2145 1
+2143 2547 1
+2143 2144 1
+2142 2547 1
+2142 2144 1
+2136 2137 1
+2136 2138 1
+2136 2139 1
+2125 2128 1
+2125 2127 1
+2125 2129 1
+2126 2128 1
+2126 2127 1
+2126 2129 1
+2122 2137 1
+2122 2138 1
+2122 2139 1
+2167 2489 1
+2167 2490 1
+2167 2491 1
+2167 2494 1
+2167 2495 1
+2167 2472 1
+2167 2488 1
+2167 2492 1
+2167 2493 1
+2170 1535 1
+2170 1839 1
+2169 1535 1
+2169 1839 1
+2168 2489 1
+2168 2490 1
+2168 2491 1
+2168 2494 1
+2168 2495 1
+2168 2472 1
+2168 2488 1
+2168 2492 1
+2168 2493 1
+2150 2152 1
+2151 2152 1
+2146 2784 1
+2146 2549 1
+2146 2785 1
+2145 2784 1
+2145 2549 1
+2145 2785 1
+2154 2175 1
+2154 1621 1
+2153 2175 1
+2153 1621 1
+2434 2064 1
+2434 2435 1
+2457 2385 1
+2457 2384 1
+2457 2386 1
+2463 2042 1
+2452 2453 1
+2452 2522 1
+2475 2476 1
+2465 2706 1
+2465 2467 1
+2465 2466 1
+2464 2042 1
+2468 2706 1
+2468 2467 1
+2468 2466 1
+2470 1533 1
+2483 2341 1
+2483 1273 1
+2509 1809 1
+2509 2776 1
+2502 2748 1
+2525 2527 1
+2525 2526 1
+2523 2524 1
+2523 1808 1
+2523 2090 1
+2520 2521 1
+2514 795 1
+2541 2542 1
+2540 2542 1
+2536 2537 1
+2536 2538 1
+2535 2537 1
+2535 2538 1
+2529 2533 1
+2529 2531 1
+2529 2532 1
+2529 2534 1
+2528 2545 1
+2528 2529 1
+2528 2535 1
+2528 2544 1
+2528 2540 1
+2528 2546 1
+2528 2539 1
+2528 2543 1
+2530 2533 1
+2530 2531 1
+2530 2532 1
+2530 2534 1
+2556 2559 1
+2556 2558 1
+2556 2560 1
+2557 2559 1
+2557 2558 1
+2557 2560 1
+2552 2554 1
+2553 2554 1
+2554 2584 1
+2555 2055 1
+2555 2556 1
+2555 2045 1
+2305 2306 1
+2314 2482 1
+2314 2478 1
+2314 2477 1
+2314 2455 1
+2314 2480 1
+2318 2733 1
+2318 2734 1
+2316 2727 1
+2316 2726 1
+2316 2725 1
+2316 2728 1
+2316 2724 1
+2316 2729 1
+2317 2731 1
+2317 2730 1
+2317 2732 1
+2322 2323 1
+2333 416 1
+2332 2552 1
+2342 2343 1
+2342 2344 1
+2345 2346 1
+2350 2087 1
+2359 2552 1
+2382 2383 1
+2379 2612 1
+2379 2380 1
+2379 2611 1
+2376 2377 1
+2399 2401 1
+2398 2399 1
+2404 2410 1
+2404 2409 1
+2404 2408 1
+2404 2405 1
+2404 2407 1
+2404 2406 1
+2400 2401 1
+2402 2403 1
+2412 2415 1
+2412 2413 1
+2412 2414 1
+2412 2416 1
+2412 2417 1
+2421 1533 1
+2427 2429 1
+2427 2431 1
+2427 2430 1
+2427 2428 1
+2746 85 1
+2747 85 1
+2743 135 1
+2743 126 1
+2738 2705 1
+2736 1103 1
+2735 1103 1
+2721 1451 1
+2721 794 1
+2720 1451 1
+2720 794 1
+2715 532 1
+2715 527 1
+2689 2696 1
+2689 2693 1
+2689 407 1
+2689 2692 1
+2689 2691 1
+2689 2694 1
+2689 2695 1
+2690 2696 1
+2690 2693 1
+2690 407 1
+2690 2692 1
+2690 2691 1
+2690 2694 1
+2690 2695 1
+2810 721 1
+2811 749 1
+2808 640 1
+2809 707 1
+2814 1236 1
+2815 1295 1
+2812 1037 1
+2813 1213 1
+2802 2796 1
+2802 2795 1
+2802 2794 1
+2803 2796 1
+2803 2795 1
+2803 2794 1
+2800 2797 1
+2800 2798 1
+2801 2797 1
+2801 2798 1
+2801 735 1
+2806 200 1
+2807 255 1
+2805 735 1
+2787 657 1
+2786 657 1
+2788 413 1
+2772 1194 1
+2773 1194 1
+2757 2764 1
+2757 2760 1
+2757 2759 1
+2757 2761 1
+2757 2762 1
+2757 2763 1
+2756 2087 1
+2756 2097 1
+2758 2764 1
+2758 2760 1
+2758 2759 1
+2758 2761 1
+2758 2762 1
+2758 2763 1
+2618 2629 1
+2618 2632 1
+2618 2631 1
+2618 2630 1
+2617 1485 1
+2617 861 1
+2616 1485 1
+2616 861 1
+2598 2599 1
+2595 2596 1
+2595 2597 1
+2607 3 1
+2583 2584 1
+2579 2580 1
+2579 2581 1
+2578 2580 1
+2578 2581 1
+2588 2589 1
+2591 2592 1
+2591 2593 1
+2591 2594 1
+2584 2585 1
+2586 2587 1
+2563 2564 1
+2563 2565 1
+2575 2576 1
+2575 2577 1
+2570 2567 1
+2570 1629 1
+2570 2566 1
+2570 2568 1
+2570 2569 1
+2571 2573 1
+2571 2572 1
+2679 2681 1
+2679 2683 1
+2679 2682 1
+2679 2688 1
+2679 2686 1
+2679 2684 1
+2679 2685 1
+2679 2687 1
+2679 2680 1
+2678 2681 1
+2678 2683 1
+2678 2682 1
+2678 2688 1
+2678 2686 1
+2678 2684 1
+2678 2685 1
+2678 2687 1
+2678 2680 1
+2677 2697 1
+2677 2678 1
+2677 2689 1
+2676 2697 1
+2676 2678 1
+2676 2689 1
+2666 2670 1
+2666 2674 1
+2666 2671 1
+2666 2675 1
+2666 2669 1
+2666 2673 1
+2666 2668 1
+2666 2672 1
+2667 2670 1
+2667 2674 1
+2667 2671 1
+2667 2675 1
+2667 2669 1
+2667 2673 1
+2667 2668 1
+2667 2672 1
+2664 2666 1
+2665 2666 1
+2641 1775 1
+2647 1793 1
+2647 2649 1
+2651 1792 1
+2653 2656 1
+2653 2654 1
+2653 2658 1
+2653 2660 1
+2653 2655 1
+2653 2657 1
+2653 2659 1
+2652 2656 1
+2652 2654 1
+2652 2658 1
+2652 2660 1
+2652 2655 1
+2652 2657 1
+2652 2659 1
+2633 2634 1
+2633 2635 1
+2633 2636 1
+2820 2801 1
+2821 2097 1
+2818 1965 1
+2819 2756 1
+2816 1632 1
+2817 1937 1
+2817 2679 1
+*edges
+1 324 1
+2 176 1
+3 691 1
+3 209 1
+4 220 1
+5 193 1
+6 180 1
+7 252 1
+8 236 1
+9 246 1
+10 323 1
+11 185 1
+12 163 1
+12 164 1
+13 793 1
+13 161 1
+14 184 1
+15 168 1
+17 264 1
+17 188 1
+16 242 1
+19 162 1
+18 169 1
+21 177 1
+20 197 1
+20 742 1
+23 895 1
+23 905 1
+23 166 1
+22 173 1
+22 899 1
+22 890 1
+22 891 1
+25 175 1
+24 154 1
+27 179 1
+26 931 1
+26 181 1
+29 250 1
+29 992 1
+28 985 1
+28 982 1
+28 178 1
+28 980 1
+31 232 1
+31 243 1
+30 200 1
+30 999 1
+34 225 1
+35 1034 1
+35 223 1
+35 233 1
+32 235 1
+32 2563 1
+33 431 1
+38 195 1
+39 997 1
+39 435 1
+39 198 1
+36 258 1
+37 1049 1
+37 243 1
+37 1046 1
+42 2584 1
+42 210 1
+43 248 1
+43 1155 1
+40 255 1
+41 264 1
+46 228 1
+47 1070 1
+44 195 1
+44 625 1
+45 186 1
+51 244 1
+50 157 1
+50 789 1
+49 192 1
+48 245 1
+55 240 1
+54 251 1
+53 170 1
+52 501 1
+59 253 1
+58 171 1
+58 433 1
+57 222 1
+56 218 1
+63 1241 1
+63 436 1
+62 159 1
+61 175 1
+60 249 1
+68 171 1
+69 211 1
+70 212 1
+71 205 1
+64 1383 1
+65 893 1
+65 259 1
+66 194 1
+67 224 1
+77 155 1
+78 1762 1
+79 451 1
+72 160 1
+73 234 1
+74 226 1
+75 1283 1
+75 247 1
+75 1282 1
+85 172 1
+84 285 1
+86 313 1
+81 266 1
+83 329 1
+82 885 1
+92 280 1
+95 2382 1
+94 298 1
+89 836 1
+88 1768 1
+91 1106 1
+90 527 1
+103 1744 1
+100 1664 1
+98 803 1
+99 2452 1
+96 1773 1
+97 1775 1
+106 2333 1
+105 371 1
+119 1778 1
+116 331 1
+114 2198 1
+113 1401 1
+112 272 1
+127 2485 1
+123 356 1
+122 268 1
+121 207 1
+120 399 1
+137 355 1
+139 1782 1
+135 1207 1
+470 153 1
+392 156 1
+705 158 1
+144 300 1
+146 529 1
+149 158 1
+230 174 1
+1234 173 1
+1236 173 1
+658 173 1
+469 163 1
+2496 160 1
+1287 167 1
+825 165 1
+262 187 1
+802 190 1
+1051 191 1
+1449 188 1
+385 189 1
+1008 189 1
+655 182 1
+261 183 1
+943 181 1
+626 204 1
+961 201 1
+1006 200 1
+816 203 1
+1138 202 1
+763 202 1
+1308 196 1
+1307 196 1
+1341 199 1
+627 195 1
+1790 221 1
+724 223 1
+651 216 1
+1242 216 1
+628 217 1
+919 213 1
+710 214 1
+648 215 1
+683 208 1
+2738 208 1
+1121 239 1
+389 238 1
+907 237 1
+1791 231 1
+229 233 1
+1487 227 1
+708 227 1
+1342 254 1
+2283 255 1
+998 250 1
+685 248 1
+1032 248 1
+761 246 1
+2651 243 1
+502 241 1
+1010 273 1
+2281 279 1
+2475 278 1
+1802 277 1
+1806 282 1
+1804 281 1
+1809 287 1
+1301 286 1
+1117 285 1
+2523 284 1
+1341 256 1
+464 256 1
+260 263 1
+1796 267 1
+824 265 1
+1798 270 1
+1800 271 1
+2140 304 1
+1058 307 1
+1206 309 1
+2502 308 1
+1816 310 1
+1948 312 1
+1819 314 1
+1171 317 1
+1172 317 1
+2071 316 1
+1604 319 1
+892 318 1
+1246 288 1
+1094 289 1
+1030 290 1
+790 291 1
+650 292 1
+1044 293 1
+686 294 1
+1313 295 1
+2376 295 1
+929 296 1
+388 297 1
+1376 299 1
+2305 301 1
+2018 302 1
+1484 303 1
+1362 326 1
+1304 322 1
+1980 320 1
+1118 321 1
+1824 332 1
+715 333 1
+406 328 1
+2804 375 1
+374 2322 1
+2479 370 1
+774 381 1
+2141 381 1
+2048 380 1
+1666 383 1
+1002 382 1
+2771 377 1
+1023 379 1
+402 424 1
+404 1479 1
+405 944 1
+396 540 1
+387 2637 1
+387 753 1
+386 423 1
+385 432 1
+924 384 1
+391 427 1
+390 1315 1
+390 1316 1
+389 432 1
+499 440 1
+437 1135 1
+880 425 1
+476 1324 1
+782 468 1
+469 1646 1
+465 2316 1
+500 461 1
+456 457 1
+455 2245 1
+454 1298 1
+450 1371 1
+1507 504 1
+503 1896 1
+498 2770 1
+495 621 1
+1506 485 1
+1328 487 1
+2427 487 1
+1973 546 1
+516 1972 1
+719 519 1
+1116 520 1
+613 612 1
+762 623 1
+624 623 1
+630 629 1
+635 634 1
+639 638 1
+592 591 1
+594 611 1
+685 1309 1
+1266 680 1
+679 1836 1
+702 703 1
+697 698 1
+694 696 1
+694 695 1
+692 2607 1
+692 693 1
+653 654 1
+649 814 1
+649 1456 1
+682 644 1
+640 659 1
+640 641 1
+643 642 1
+672 671 1
+662 663 1
+656 657 1
+746 747 1
+746 749 1
+750 751 1
+737 738 1
+743 1093 1
+743 744 1
+755 756 1
+752 1754 1
+1257 756 1
+706 707 1
+728 2062 1
+2434 729 1
+730 732 1
+734 735 1
+720 721 1
+1434 721 1
+723 722 1
+724 725 1
+727 726 1
+821 820 1
+818 819 1
+830 829 1
+832 831 1
+825 828 1
+826 827 1
+826 989 1
+2461 804 1
+809 801 1
+802 1649 1
+813 814 1
+815 1457 1
+787 788 1
+784 1077 1
+808 799 1
+2072 798 1
+797 798 1
+796 2514 1
+794 795 1
+774 2232 1
+772 937 1
+771 773 1
+2588 783 1
+779 1513 1
+777 778 1
+888 889 1
+2212 895 1
+894 895 1
+865 1213 1
+865 866 1
+867 868 1
+1425 870 1
+871 873 1
+872 1113 1
+1333 879 1
+849 850 1
+848 1476 1
+853 1225 1
+853 1161 1
+859 860 1
+864 863 1
+861 862 1
+838 839 1
+1407 842 1
+1848 840 1
+841 843 1
+846 847 1
+844 1463 1
+2404 957 1
+2411 958 1
+959 2412 1
+2398 953 1
+2402 954 1
+955 956 1
+948 949 1
+952 951 1
+932 933 1
+934 935 1
+2241 931 1
+1632 931 1
+917 918 1
+915 916 1
+907 2699 1
+907 2052 1
+904 1126 1
+904 1124 1
+904 1123 1
+900 901 1
+2103 899 1
+897 896 1
+1017 1018 1
+1015 1014 1
+1000 1001 1
+993 1441 1
+2175 999 1
+2152 999 1
+987 988 1
+987 1195 1
+987 1196 1
+990 991 1
+978 977 1
+971 972 1
+973 974 1
+961 1900 1
+2520 966 1
+1101 1102 1
+1101 1105 1
+1103 1104 1
+1099 1787 1
+1091 1092 1
+1131 2528 1
+1128 1127 1
+1125 1679 1
+1901 1150 1
+1151 1150 1
+1147 1146 1
+1144 1145 1
+1140 1139 1
+1137 1443 1
+1498 1034 1
+1037 1100 1
+1037 1038 1
+1040 1039 1
+1025 1026 1
+1027 2156 1
+1028 1516 1
+1029 1444 1
+1050 2379 1
+1052 1053 1
+1066 1067 1
+1071 1072 1
+1059 1060 1
+1468 1075 1
+1074 1073 1
+1080 1079 1
+1505 1076 1
+1224 1223 1
+1222 2444 1
+1222 2226 1
+1228 1227 1
+1226 1503 1
+1236 1699 1
+1234 1281 1
+1242 1245 1
+1252 1251 1
+1260 1261 1
+1258 1259 1
+1270 1271 1
+1269 1268 1
+1881 1267 1
+2345 1274 1
+1272 2342 1
+1154 1153 1
+1156 1157 1
+1158 1159 1
+1163 1162 1
+1169 1168 1
+2047 1168 1
+1170 2303 1
+1176 1471 1
+1178 1177 1
+1179 1180 1
+1182 1181 1
+2099 1181 1
+1186 1187 1
+1194 1197 1
+1192 1437 1
+1192 1438 1
+1198 1199 1
+1211 1212 1
+1209 1878 1
+1879 1214 1
+1880 1214 1
+1215 1214 1
+1862 1213 1
+1365 1894 1
+1355 1356 1
+1349 1348 1
+1395 1394 1
+1920 1389 1
+1390 1389 1
+2040 1389 1
+1388 1387 1
+1311 1312 1
+1310 1309 1
+1297 1296 1
+1292 1291 1
+1295 1291 1
+1290 1289 1
+1294 2574 1
+1294 2571 1
+1294 2570 1
+1295 2228 1
+1340 1339 1
+1343 1344 1
+1329 1472 1
+1332 1331 1
+1322 1330 1
+1313 1384 1
+1317 1316 1
+1318 1319 1
+1494 1495 1
+1492 1493 1
+1490 1491 1
+1488 1489 1
+2046 1503 1
+1501 1502 1
+1499 1500 1
+1496 1497 1
+1477 1478 1
+1474 1475 1
+1485 1486 1
+1480 1481 1
+1524 1525 1
+1526 1527 1
+1533 1534 1
+1535 1536 1
+1529 1530 1
+1532 1531 1
+1511 1512 1
+1517 1518 1
+1519 1520 1
+1895 1427 1
+1430 1431 1
+1429 1428 1
+2740 1428 1
+1435 1436 1
+1432 1433 1
+1439 1440 1
+1409 1410 1
+1459 1458 1
+1461 1460 1
+1465 1924 1
+1467 2451 1
+1445 1446 1
+2314 1447 1
+1451 1450 1
+1452 1453 1
+1455 1454 1
+1648 1647 1
+1645 2457 1
+1636 1635 1
+1632 1647 1
+1634 1633 1
+1639 1640 1
+1610 1611 1
+1612 2102 1
+1604 1605 1
+1616 1617 1
+1621 1620 1
+2639 1622 1
+1581 1582 1
+1570 2275 1
+1568 2201 1
+2272 1569 1
+1599 1598 1
+1597 1596 1
+1592 1591 1
+1589 1590 1
+1586 1587 1
+1585 2622 1
+1584 2621 1
+1548 1547 1
+1541 1542 1
+1540 1539 1
+1565 1993 1
+1567 1566 1
+1554 1553 1
+1552 2160 1
+1784 1785 1
+1784 1786 1
+1788 1789 1
+1732 1731 1
+1738 1739 1
+1740 2618 1
+2633 1742 1
+1756 1755 1
+1757 2318 1
+1701 1702 1
+1701 1704 1
+1700 2317 1
+1712 1711 1
+1708 1709 1
+1705 1706 1
+2077 1719 1
+1720 1719 1
+1724 1725 1
+1721 1722 1
+1676 1677 1
+1674 1675 1
+1685 1684 1
+2525 1681 1
+1682 1683 1
+1689 2074 1
+1691 1690 1
+1917 1916 1
+1919 1918 1
+1904 1905 1
+1906 1907 1
+1897 1898 1
+1902 1903 1
+1892 1891 1
+1887 2575 1
+1876 1877 1
+1867 1868 1
+1863 1864 1
+1860 1861 1
+1854 1855 1
+1844 1845 1
+1842 1843 1
+1953 1839 1
+1832 2509 1
+1832 1833 1
+1834 1835 1
+1871 1828 1
+2647 1792 1
+2586 2033 1
+2034 2035 1
+2037 2038 1
+2042 2043 1
+2019 2020 1
+2022 2023 1
+2025 2024 1
+2027 2026 1
+2003 2002 1
+2011 2012 1
+2015 2016 1
+2013 2014 1
+1992 1991 1
+1990 1989 1
+1996 1995 1
+1999 2598 1
+2595 1998 1
+2591 1997 1
+1982 1981 1
+1976 1977 1
+1978 1979 1
+1957 1958 1
+1960 1959 1
+1956 1955 1
+1965 1964 1
+1962 1963 1
+1943 1944 1
+1936 1937 1
+1938 1937 1
+1947 1946 1
+1934 1935 1
+1932 1933 1
+1931 1930 1
+1929 1928 1
+2205 2204 1
+2192 2193 1
+2188 2189 1
+2176 2177 1
+2182 2181 1
+2235 2236 1
+2237 2238 1
+2231 2230 1
+2210 2211 1
+2555 2208 1
+2214 2213 1
+2265 2264 1
+2258 2257 1
+2294 2295 1
+2286 2615 1
+2285 2284 1
+2065 2066 1
+2068 2067 1
+2070 2069 1
+2075 2076 1
+2078 2079 1
+2058 2059 1
+2060 2061 1
+2100 2101 1
+2106 2107 1
+2104 2105 1
+2108 2109 1
+2083 2084 1
+2086 2085 1
+2091 2092 1
+2095 2096 1
+2093 2094 1
+2133 2134 1
+2133 2663 1
+2130 2131 1
+2143 2142 1
+2126 2125 1
+2122 2136 1
+2123 2124 1
+2168 2167 1
+2169 2170 1
+2150 2151 1
+2146 2145 1
+2154 2153 1
+2463 2464 1
+2468 2465 1
+2541 2540 1
+2535 2536 1
+2530 2529 1
+2557 2556 1
+2552 2553 1
+2554 2583 1
+2719 2321 1
+2332 2359 1
+2350 2756 1
+2399 2400 1
+2421 2470 1
+2746 2747 1
+2735 2736 1
+2720 2721 1
+2710 2709 1
+2698 2697 1
+2689 2690 1
+2802 2803 1
+2800 2801 1
+2786 2787 1
+2772 2773 1
+2758 2757 1
+2616 2617 1
+2579 2578 1
+2679 2678 1
+2676 2677 1
+2666 2667 1
+2664 2665 1
+2653 2652 1

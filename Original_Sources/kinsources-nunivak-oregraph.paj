@@ -1,0 +1,1848 @@
+*Network Ore graph kinsources-nuniwarmiut-cup_it_nunivak_island.puc
+
+*vertices 619
+1 '/ Son of Elizabeth (31)' triangle
+2 '/ Sister of Amelia (61)' ellipse
+3 'Louisedaughter of Rose (62)' ellipse
+4 '/ Daughter of Wilson (63)' ellipse
+5 'Janewife of Matthew and Lewis (71)' ellipse
+6 '/ Wife of Herbert, sister of Juliet (72)' ellipse
+7 '/ Mother of Ralph Johnson and Dan Johnson (73)' ellipse
+8 '/ Daughter of Ralph Johnson and (74)' ellipse
+9 'Harrietdaughter of Ralph and Rose (75)' ellipse
+10 '/ Sister at Harmon, mother of Pearl (81)' ellipse
+11 'Judy Cooksister of Duncan (82)' ellipse
+12 '/ Half sister of I*** (91)' ellipse
+13 'Claudia Fieldsister of Raymond (92)' ellipse
+14 '/ Son of Andy (101)' triangle
+15 '/ Daughter of U*** (102)' ellipse
+16 '/ Paternal grandfather of Daniel (103)' triangle
+17 '/ Aunt of Alberta (104)' ellipse
+18 'Dennisfather of Ethan (105)' triangle
+19 '/ Father of Aaron (106)' triangle
+20 '/ Daughter of Rhoda and Theodore (111)' ellipse
+21 'CatherineWife of Victor (121)' ellipse
+22 '/ Sister of Daniel (131)' ellipse
+23 '/ Second Mildred, daughter of Christine (132)' ellipse
+24 '/ Sister of Daniel (141)' ellipse
+25 'AnneWife of Paul Scott (142)' ellipse
+26 'JulietWife of Ethan (143)' ellipse
+27 'RosamondRosamond, wile of Ernest Norton (151)' ellipse
+28 '/ Wife of Harmon, sister of Lewis (201)' ellipse
+29 '/ First Wile of Matthew (211)' ellipse
+30 '/ Daughter of Chris Daniei (221)' ellipse
+31 'Noahson of Austin v, vi, ix (261)' triangle
+32 'Simonfirst husband of Ada (262)' triangle
+33 '/ Brother (or half brother?) of Rickie (271)' triangle
+34 '/ Son of Adam Larson v1 (301)' triangle
+35 'RobSon of Lucinda (302)' triangle
+36 '/ Father of Amelia (303)' triangle
+37 'IsaacHusband at Rose (304)' triangle
+38 '/ Father of K*** (305)' triangle
+39 '/ Son of L*** (306)' triangle
+40 '/ Husband of Constance (351)' triangle
+41 '/ Son ot Tim (361)' triangle
+42 '/ Father of C*** (371)' triangle
+43 '/ Husband of Esther and Lillian (372)' triangle
+44 'Alfred CookBrother of Duncan (411)' triangle
+45 '/ Father of Lewis (412)' triangle
+46 '/ Son of Esther (413)' triangle
+47 '/ Daughter of Lucinda (461)' ellipse
+48 'LeilaDaughter of Paul Scott (501)' ellipse
+49 '/ Stepgrand-mother of Gregory (502)' ellipse
+50 '/ Mother of Jeffrey and Fred Matthew (511)' ellipse
+51 '/ Daughter of Jeffrey (512)' ellipse
+52 '/ Mother of Helene (521)' ellipse
+53 '/ Daughter of Bob Wilson (531)' ellipse
+54 '? (532)' ellipse
+55 '/ Daughter of Victor, adopted by May (533)' ellipse
+56 '/ Son of Herbert, adopted by Lewis (601)' triangle
+57 '/ Husband of N*** (also of P***) (602)' triangle
+58 '/ Son of Simon and Ada, adopted by Ernest (603)' triangle
+59 '/ Wife of Billy and Tim (611)' ellipse
+60 'RhodaDaughter of Helene (651)' ellipse
+61 '/ Mother of Stephen (evidently not the same as Christine*s grandmother) (652)' ellipse
+62 '/ Mother of N***, niece of Aaron, possibly sister of M*** (653)' ellipse
+63 '/ Daughter of Zachary (654)' ellipse
+64 '/ Daughter of K*** (681)' ellipse
+65 '/ Probably name of daughter of Mary Russell (701)' ellipse
+66 'AdaWife of Luther (702)' ellipse
+67 '/ Daughter of Russell (703)' ellipse
+68 '/ First Mildred, daughter of Christine (704)' ellipse
+69 '/ Mother of Gregory (705)' ellipse
+70 '/ Mother of Russell*s first wife (706)' ellipse
+71 '/ Husband of Rachel (probably I***) (711)' triangle
+72 '/ Husband of Esther (731)' triangle
+73 '/ Father of Edwin Larson (732)' triangle
+74 '/ Mother or maternal aunt of Daniel (probably mother) (741)' ellipse
+75 '/ Wife of Aaron (801)' ellipse
+76 '/ Husband of Sophie (811)' triangle
+77 'HarmonBrother-in-law of Lewis (851)' triangle
+78 'Dick (or Richard)Son of Lewis (861)' triangle
+79 '/ Father of Scott (901)' triangle
+80 'Fritz RussellHusband of May (902)' triangle
+81 '/ Son-in-law of Russell (man from the mainland) (911)' triangle
+82 '/ Wife of Charlie Sharp (921)' ellipse
+83 '/ Wife of U*** (922)' ellipse
+84 '/ Aunt of Paul Scott (923)' ellipse
+85 '/ Field, brother of A*** (961)' triangle
+86 'CeliaHalf sister of Catherine, mother of K*** (1001)' ellipse
+87 '/ Brother ol Harmon (1051)' triangle
+88 '/ Son ol Clarence (1052)' triangle
+89 'Duncan CookSon-in-law ol Daniel (1053)' triangle
+90 '/ Father of John and Clarence, also of I*** (1054)' triangle
+91 'EthanSon of Dennis (1055)' triangle
+92 '/ Father of James, evidently not  as father of John and Clarence (1056)' triangle
+93 '/ Wife of C*** (1061)' ellipse
+94 '/ Grandmother of Ernest Norton (see Note) (1062)' ellipse
+95 '/ Daughter of A*** (1063)' ellipse
+96 '/ Daughter of Jeffrey and Dora (1071)' ellipse
+97 '/ Wife of Edwin Larson and Richard Chappel*s father (1111)' ellipse
+98 '/ Grandson of K*** (1121)' triangle
+99 '/ Son of K*** (1122)' triangle
+100 'Joe LarsonSon of Edwin Larson (1131)' triangle
+101 '/ Wife of Homer Larson (from the mainland) (1141)' ellipse
+102 '/ Son of Herbert (1251)' triangle
+103 'MaryDaughter of Russell (1271)' ellipse
+104 'Lucindasister of Herbert (1281)' ellipse
+105 'Chris DanielHusband ol Esther and Judith (1291)' triangle
+106 '/ Aunt of Helene (same as Scott*s mother) (1351)' ellipse
+107 'EstherWife of Chris and A*** (1352)' ellipse
+108 '/ Daughter of Ethan (1353)' ellipse
+109 'ChristineWife of Gregory (1354)' ellipse
+110 '/ Wife of Simon (same as Helene*s aunt ?) (1355)' ellipse
+111 '/ Son of Simon and Ada (1361)' triangle
+112 '/ Son of Daniel (1371)' triangle
+113 '/ Father or K*** and Herbert (same as father of Celia ?) (1401)' triangle
+114 '/ Probably name of father of Celia (1402)' triangle
+115 '/ Son of Ethan (1411)' triangle
+116 'ThomasSon of Paul Scott (1421)' triangle
+117 'Asael SharpHusband of Alberta (1431)' triangle
+118 'AdolphAdopted by Aaron (1461)' triangle
+119 '/ Father of A*** and N*** (1462)' triangle
+120 'JoshuaNephew of Daniel (1463)' triangle
+121 'FredSon of Matthew (1464)' triangle
+122 '/ Son of Herbert (1465)' triangle
+123 '/ Son of Tim (1466)' triangle
+124 'SteveSon of Ezra (1467)' triangle
+125 'JamesHusband of P*** (1471)' triangle
+126 'ArnoldStepson of Ralph Johnson (1472)' triangle
+127 'JeffreySon of Matthew (1511)' triangle
+128 'LillianWife of K*** (1512)' ellipse
+129 '/ Sister of Cook (1513)' ellipse
+130 'JudithWife of Chris (1551)' ellipse
+131 '/ Son of Catherine (1561)' triangle
+132 'Ernest NortonSon of P*** (1571)' triangle
+133 'JoelSon of John (1601)' triangle
+134 '/ Possibly name of son of Dick Lewis (1602)' triangle
+135 '/ Wife of Alfred Daniel (1611)' ellipse
+136 '/ Mother of N*** and A*** (1612)' ellipse
+137 '/ Daughter of Tim (1613)' ellipse
+138 '/ Sister of Daniel (1651)' ellipse
+139 '/ Husband of P*** (1701)' triangle
+140 'TheodoreHusband of Rhoda (1702)' triangle
+141 '/ Wife of K*** and Bernard (1711)' ellipse
+142 'VirginiaDaughter of Solomon Cannon (1712)' ellipse
+143 '/ Son of Tim (1713)' triangle
+144 '/ Son of lsaac and Rose (1721)' triangle
+145 'BensonBrother of A*** (1722)' triangle
+146 '/ Uncle of Benson (1731)' triangle
+147 '/ Brother of Richard Chappel (1761)' triangle
+148 'ClarissaWife of Tad Cook (1771)' ellipse
+149 '/ Mother ot Rose (1811)' ellipse
+150 'EllenDaughter-in-law of Russell (1812)' ellipse
+151 '/ Wife of Daniel (same as Ezra*s mother ?) (1813)' ellipse
+152 'BarbaraAdopted by Jane Matthew (1814)' ellipse
+153 '/ Brother of C*** and P*** (1861)' triangle
+154 '/ Brother of Amelia (1862)' triangle
+155 '/ Son of Rachel (1863)' triangle
+156 '/ Father of Ezra (1881)' triangle
+157 '/ Mother of Elizabeth (1911)' ellipse
+158 'AustinHalf brother of Rachel (1951)' triangle
+159 '/ Brother ot Daniel (1952)' triangle
+160 '/ Daughter of Ellen (1981)' ellipse
+161 '/ Sister of Juliet (1982)' ellipse
+162 '/ Son of Tim (1983)' triangle
+163 '/ Wife of Austin (2001)' ellipse
+164 '/ Child of Chris Daniel (sex unspecified, probably female) (2002)' ellipse
+165 '/ Adopted daughter of Zachary (2003)' ellipse
+166 '/ Grandfather of Christine (2051)' triangle
+167 '/ Son of M*** (2052)' triangle
+168 '/ Brother of Asael Sharp (2101)' triangle
+169 '/ Aunt (or uncle?) of Asael (2102)' triangle
+170 '/ Husband of Dorothy Gregory (2151)' triangle
+171 '/ Son of Lucinda (2201)' triangle
+172 'JimmieSon of Dennis (2202)' triangle
+173 '/ Father of Dennis (2203)' triangle
+174 '/ Uncle of Herbert (2204)' triangle
+175 '/ Daughter of Juliet (2211)' ellipse
+176 'Paul ScottBrother of Christine (2251)' triangle
+177 '/ Brother of Scott and Russell (2252)' triangle
+178 '/ Aunt of Stephen (2281)' ellipse
+179 '/ Wife of Zachary (2282)' ellipse
+180 '/ Mother of Celia (2291)' ellipse
+181 '/ Father of Alberta (2301)' triangle
+182 '/ Son of Asael Sharp and Alberta (2302)' triangle
+183 'Luther NortonBrother of Amelia (2351)' triangle
+184 '/ Maternal uncle of the Larsons (2361)' ellipse
+185 'Bernard LarsonHusband of May (2362)' triangle
+186 'Richard ChappelHusband at Jessie (2363)' triangle
+187 'PatrickSon of Clarence (2381)' triangle
+188 '/ Father of Richard Chappel (2382)' triangle
+189 '/ Father of Stephen (2411)' triangle
+190 'JeromeBrother of Ernest (2451)' triangle
+191 '/ Husband of Lucinda (2481)' triangle
+192 '/ Son of Celia (2482)' triangle
+193 'LouisSon of Asael Sharp (2483)' triangle
+194 '/ Mother of Alberta (2491)' ellipse
+195 '/ Grandfather of Gregory and May (2521)' triangle
+196 '/ Father of Austin (2522)' triangle
+197 'GregoryHusband of Christine (2523)' triangle
+198 '/ Son of Herbert (2551)' triangle
+199 '/ First wife of Adam Larson (2581)' ellipse
+200 '/ Possibly name of daughter of Esther (2582)' ellipse
+201 '/ Son of Oliver (2583)' triangle
+202 '/ Sophie, adopted daughter of Benson (2584)' ellipse
+203 '/ Daughter of Wilbert Daniel (2585)' ellipse
+204 '/ Daughter of Lewis, wife of Adolph (2601)' ellipse
+205 '/ Father of P*** (2611)' triangle
+206 '/ Son of P*** (2612)' triangle
+207 '/ Wife of Clarence (2651)' ellipse
+208 '/ Granddaughter of Celia Vlll (2652)' ellipse
+209 'EzraSon of I*** (2681)' triangle
+210 '/ Son of Celia (2701)' triangle
+211 '/ Son of Adolph (2702)' triangle
+212 '/ Father of Asael Sharp (2703)' triangle
+213 'CharlieSon of Asael Sharp (2704)' triangle
+214 'SammySon of Bob Wilson and Sophie (2711)' triangle
+215 '/ Brother of Cook 1, VI, Vlll, IX (2712)' triangle
+216 '/ Mother of Lewis (2751)' ellipse
+217 '/ Mother of Asael Sharp (2781)' ellipse
+218 '/ Wife of Duncan Cook (2791)' ellipse
+219 '/ Mother of Lydia (2792)' ellipse
+220 'HannahSister of Pearl, mother of Virginia (not same as Lydia*s mother) (2793)' ellipse
+221 'DannySon of Gregory (2821)' triangle
+222 '/ Maternal uncle of Daniel (possibly same as Gregory*s father) (2822)' triangle
+223 '/ Grandson of C*** (2823)' triangle
+224 '/ Father of P*** (2831)' triangle
+225 'Adam LarsonBrother of Bernard (2832)' triangle
+226 '/ Father of Matthew (2833)' triangle
+227 '/ Daughter of Dan Johnson and Pearl (2861)' ellipse
+228 '/ Probable name of daughter of Fritz Russell (2871)' ellipse
+229 'JessieWife of Nicholas and Richard (2872)' ellipse
+230 '/ Owen, son of Matthew (2881)' triangle
+231 '/ Son of Asael Sharp (2882)' triangle
+232 'CookHusband of Pearl (2883)' triangle
+233 'Solomon CannonHusband of Celia (2891)' triangle
+234 'EmilyAdopted daughter of Ernest Norton (2951)' ellipse
+235 '/ Wife of A*** and Paul Scott (2952)' ellipse
+236 '/ Mother of Asael Sharp (2953)' ellipse
+237 '/ Son-in-law of K*** (2981)' triangle
+238 '/ Son of Joel John and Judy Cook (2982)' triangle
+239 '/ Son of Matthew (2983)' triangle
+240 '/ Son of Simon and Ada (2984)' triangle
+241 'AaronHusband of A*** (2985)' triangle
+242 'JohnFather of Joel (2986)' triangle
+243 '/ Probably name of son of Paul Scott and Anne (2987)' triangle
+244 '/ Paternal uncle of Danie (2989)' triangle
+245 'RoseWife of Isaac and Ralph Johnson (3001)' ellipse
+246 'LouisAdopted son of Benson (3002)' triangle
+247 '/ Father of Benson (3003)' triangle
+248 '/ Mother of A*** (3004)' ellipse
+249 '/ Daughter of Wilbert Daniel (3005)' ellipse
+250 'PearlMother of Duncan Cook (3021)' ellipse
+251 '/ Wife of Simon (3031)' ellipse
+252 'LewisFather of Dick (3081)' triangle
+253 '/ Daughter of Jefrey Matthew and Dora (3091)' ellipse
+254 '/ Brother of C*** (3121)' triangle
+255 'RussellBrother of Scott (3151)' triangle
+256 '/ First wife of A*** (3181)' ellipse
+257 '/ Daughter of Tim (3182)' ellipse
+258 '/ Son of lsaac and Rose (3201)' triangle
+259 '/ Wife of Benson (3202)' ellipse
+260 '/ Brother of Martha (3211)' triangle
+261 '/ Husband of K*** (3251)' triangle
+262 'HansSon of Lydia (3252)' triangle
+263 '/ Mother of the Larsons (3281)' ellipse
+264 '/ Sister of C***, wife of K*** (3282)' ellipse
+265 '/ Sister of Daniel (3283)' ellipse
+266 '/ Daughter of Simon, adopted by Adam Larson (3301)' ellipse
+267 '/ Daughter of Chris and Judith, adopted by Luther Norton (3311)' ellipse
+268 'MarthaWife of Ralph Johnson (3321)' ellipse
+269 'GertrudeAdopted daughter of Jane Matthew (3322)' ellipse
+270 '/ Probably name of son of Ellen (3351)' triangle
+271 '/ Son of Russell (3352)' triangle
+272 '/ Father of Matthew*s first wife (3353)' triangle
+273 '/ Brother of Asael Sharp (3401)' triangle
+274 '/ Son of Simon and Ada (3421)' triangle
+275 '/ Mother of Herbert (3451)' ellipse
+276 'NicholasHusband or Lydia (3481)' triangle
+277 'DanielHusband or Amelia (3491)' triangle
+278 'AlfredSon of Daniel (3541)' triangle
+279 '/ Probably name of son of Adam Larson (3542)' triangle
+280 'MatthewFather of Jeffrey (3543)' triangle
+281 '/ Brother of Rachel (3544)' triangle
+282 'DavySon of Austin (3545)' triangle
+283 '/ Father of Rose (3561)' triangle
+284 'Dan JohnsonHusband of Pearl (3562)' triangle
+285 '/ Wife of Russell (3571)' ellipse
+286 '/ Father of A*** (3601)' triangle
+287 '/ Son of A*** (3611)' triangle
+288 'ZacharyHusband of K*** (3612)' triangle
+289 '/ Son of Paul Scott and Anne (3613)' triangle
+290 '/ Scott, father of Christine (3641)' triangle
+291 '/ Son of Joel John (3642)' triangle
+292 '/ Son of Paul Scott and Anne (3643)' triangle
+293 '/ Wife of C*** (3651)' ellipse
+294 '/ Father of Bernard Larson (3681)' triangle
+295 '/ Son of Adam Larson (3691)' triangle
+296 '/ Son or Homer Larson (3692)' triangle
+297 '/ Brother of Stephen (3693)' triangle
+298 '/ Daughter of Simon (3701)' ellipse
+299 '/ Mother ol K*** (3702)' ellipse
+300 '/ Mother-in-law of Zachary (3721)' ellipse
+301 '/ Brother of Daniel (3751)' triangle
+302 '/ Son of Jeffrey Matthew (3781)' triangle
+303 '/ wife of Ethan (3782)' ellipse
+304 '/ Father of A*** (3783)' triangle
+305 '/ Wife of Clarence (3811)' ellipse
+306 'RickieSon of Ethan (3812)' triangle
+307 '/ Wife of Jack Dennis (3813)' ellipse
+308 '/ Father of Solomon Cannon (3821)' triangle
+309 '/ Son of Solomon Cannon (3822)' triangle
+310 'HerbertBrother of Lucinda (3823)' triangle
+311 'Ted CookSon of Pearl (3824)' triangle
+312 'LottieDaughter or Lydia (3831)' ellipse
+313 '/ Wife of Lewis (3881)' ellipse
+314 '/ Possibly name of daughter of Dick Lewis (3882)' ellipse
+315 '/ Wife of Aaron (3883)' ellipse
+316 '/ Daughter of Dennis and Elizabeth (3884)' ellipse
+317 '/ Sister of Alberta (possibly same as 3883) (3885)' ellipse
+318 '/ Daughter of Amelia and first husband (Constance?) (3891)' ellipse
+319 '/ Daughter of Jeffrey and Dora (3892)' ellipse
+320 'ConstanceWife of Ezra (3893)' ellipse
+321 'AgnesWife of Olivier (3894)' ellipse
+322 '/ Mother of Christine (3895)' ellipse
+323 'DorothyDaughter of Christine (3896)' ellipse
+324 '/ Mother of A*** (3897)' ellipse
+325 '/ Daughter of Chris Daniel (3898)' ellipse
+326 '/ Daughter of Dennis and Elizabeth (3899)' ellipse
+327 '/ Daughter of Bob Wilson (3900)' ellipse
+328 '/ Step-mother and wife of Luther Norton (3901)' ellipse
+329 'BetsyWife of Wilbert Daniel (3921)' ellipse
+330 'MayMay, wife of Bernard (3951)' ellipse
+331 '/ Wife of Russell (3971)' ellipse
+332 '/ Grand daughter of Russell (3972)' ellipse
+333 '/ Daughter of Scott (4001)' ellipse
+334 'MelissaDaughter at Paul Scott (4002)' ellipse
+335 '/ Daughter of Dennis (4011)' ellipse
+336 '/ Grandmother of Dennis (4012)' ellipse
+337 '/ Sister of Dennis (4013)' ellipse
+338 '/ Mother of C*** (4031)' ellipse
+339 '/ Mother of Simon (4032)' ellipse
+340 '/ Daughter of Chris Daniel and Judith (4061)' ellipse
+341 '/ Wife of Edwin Larson (4062)' ellipse
+342 '/ Wife of James (possibly same as 4062) (4063)' ellipse
+343 '/ Daughter of Alfred Cook (4081)' ellipse
+344 '/ Mother of Ernest Norton (4101)' ellipse
+345 '/ Sister of Herbert (4121)' ellipse
+346 '/ Grandmother of Gregory (4122)' ellipse
+347 'Katewife of Jimmie Dennis (4131)' ellipse
+348 'AmeliaWife of Daniel (4132)' ellipse
+349 'MarjoryDaughter of Lewis (4133)' ellipse
+350 'ElizabethWife of Dennis (4171)' ellipse
+351 '/ Mother of Luther Norton (4172)' ellipse
+352 '/ Wife or John, mother of Joel (4201)' ellipse
+353 '/ Daughter of Joel John (4202)' ellipse
+354 '/ Daughter of Herbert (4203)' ellipse
+355 'Ralph JohnsonHusband at Rose (4241)' triangle
+356 '/ Son of Daniel, husband of Anne (4251)' triangle
+357 '/ Brother of Daniel (4252)' triangle
+358 '/ Possibly name of son of Chris Daniel (4253)' triangle
+359 '/ Brother of John (4301)' triangle
+360 '/ Wife of Aaron and T*** (4341)' ellipse
+361 'ClarenceHalf-brother of John (4351)' triangle
+362 '/ Paternal uncle of Ernest Norton (4381)' triangle
+363 '/ Son of u*mian, nephew of Bernard (4401)' triangle
+364 '/ Brother of Bernard Larson (4402)' triangle
+365 '/ Son of Adam Larson (4403)' triangle
+366 '/ Husband of Daniel‘s aunt? (4431)' triangle
+367 '/ Son of Adam Larson (4432)' triangle
+368 '/ Mother of Dennis (4461)' ellipse
+369 '/ Sister of K***, possibly mother of P*** (4462)' ellipse
+370 '/ Probably name of great-grand-daughter of K*** (4471)' ellipse
+371 '/ Daughter of K*** (4472)' ellipse
+372 '/ Husband of A*** (4511)' triangle
+373 'GilbertSon of Gregory (4512)' triangle
+374 '/ Son of Oliver (4513)' triangle
+375 '/ Son of Victor (4551)' triangle
+376 '/ Son of Rose (4581)' triangle
+377 'AlbertaWife of Asael Sharp (4601)' ellipse
+378 '/ Husband of Rachel, father of Arthur (4631)' triangle
+379 'NorbertSon of Lydia (4632)' triangle
+380 'Helene ?Mother of Rhoda (4641)' ellipse
+381 '/ Grandfather of Dennis (4661)' triangle
+382 '/ Husband of K*** (4681)' triangle
+383 'VictorSon of Ellzaheth (4682)' triangle
+384 '/ Probably name of son of Gregory (4683)' triangle
+385 'StephenHusband of Helene (4684)' triangle
+386 '/ Son of Theodore and Rhoda (4685)' triangle
+387 'LydiaDaughter of T*** (4701)' ellipse
+388 'JackJack, son of Dennis (4702)' triangle
+389 '/ Father of Ernest Norton (4741)' triangle
+390 '/ Brother of Stephen (4742)' triangle
+391 'Edwin LarsonFather of Joe (4771)' triangle
+392 'RaymondNephew of N*** Scott (4772)' triangle
+393 '/ Maternal uncle of Daniel (4801)' ellipse
+394 'MarianWife of T***, adopted daughter of Benson (4841)' ellipse
+395 '/ Mother of Benson (4842)' ellipse
+396 '/ Sister of Ernest and Jerome Norton (4861)' ellipse
+397 '/ Brother of Richard Chappel (4881)' triangle
+398 '/ Brother of Ernest and Jerome Norton (4901)' triangle
+399 'ArthurSon of Rachel (4921)' triangle
+400 'WilbertSon of Daniel (4951)' triangle
+401 'TimHusband at A*** (4981)' triangle
+402 '/ Paternal uncle of Daniel (4982)' triangle
+403 'LarsSon at Simon, adopted by Ezra (5011)' triangle
+404 '/ Sister ol Daniel (5051)' ellipse
+405 '/ Mother of Solomo, Cannon (5061)' ellipse
+406 'OlivierHusband of Agnes (5101)' triangle
+407 '/ Mother of Bernard, sister of Matthew (5141)' ellipse
+408 'DebbyDaughter of Adam Larson (5142)' ellipse
+409 'Mother of K***, possibly wife if U***, possibly maternal grandmother of Cook and P*** (5143)' ellipse
+410 '/ Paternal grandmother of Matthew (5144)' ellipse
+411 '/ Son of Asael Sharp (5161)' triangle
+412 '/ Father of Amelia (5162)' triangle
+413 '/ Harold, son of Anne (5163)' triangle
+414 '/ Father of Catherine (5164)' triangle
+415 '/ Son of Wilbert Daniel (5165)' triangle
+416 'BillyHusband of Rose (5201)' triangle
+417 'AndyHusband of N*** (5211)' triangle
+418 '/ Uncle of Daniel (5221)' triangle
+419 '/ Brother of Aaron, father of Cook (5251)' triangle
+420 '/ Daughter of K*** (5301)' ellipse
+421 'HomerBrother of Bernard (5311)' triangle
+422 '/ Uncle of Daniel ? (5341)' triangle
+423 '/ Brother of Aaron (5351)' triangle
+424 '/ Daughter of Richard Chappel and Jessie (5381)' ellipse
+425 'Bob WilsonHusband of Sophie (5382)' triangle
+426 '/ Adopted son of James, probably brother of Marta (5383)' triangle
+427 'RachelHalf sister of Helene (5411)' ellipse
+428 '/ Son of Jeffrey and Dora (5441)' triangle
+429 '? (5500)' triangle
+430 '? (5501)' triangle
+431 '? (5502)' ellipse
+432 '? (5503)' triangle
+433 '? (5504)' triangle
+434 'Ella / (5505)' ellipse
+435 '? (5506)' triangle
+436 '? (5507)' triangle
+437 '? (5508)' triangle
+438 '? (5509)' ellipse
+439 '? (5510)' triangle
+440 '? (5511)' triangle
+441 '? (5512)' triangle
+442 '? (5514)' ellipse
+443 '? (5515)' triangle
+444 '? (5516)' triangle
+445 '? (5517)' ellipse
+446 '? (5518)' ellipse
+447 '? (5519)' ellipse
+448 '? (5520)' triangle
+449 '? (5521)' ellipse
+450 '? (5523)' ellipse
+451 '? (5524)' triangle
+452 '? (5525)' ellipse
+453 '? (5526)' ellipse
+454 '? (5527)' ellipse
+455 '? (5528)' ellipse
+456 '? (5529)' triangle
+457 '? (5530)' ellipse
+458 '? (5531)' ellipse
+459 '? (5532)' ellipse
+460 '? (5533)' ellipse
+461 '? (5534)' ellipse
+462 '? (5535)' ellipse
+463 '? (5536)' triangle
+464 '? (5537)' triangle
+465 '? (5538)' triangle
+466 '? (5539)' ellipse
+467 '? (5540)' triangle
+468 '? (5541)' triangle
+469 '? (5542)' ellipse
+470 '? (5543)' ellipse
+471 '? (5544)' ellipse
+472 '? (5546)' triangle
+473 '? (5547)' ellipse
+474 '? (5548)' triangle
+475 '? (5549)' ellipse
+476 '? (5550)' triangle
+477 '? (5553)' triangle
+478 '? (5555)' triangle
+479 '? (5556)' triangle
+480 '? (5557)' ellipse
+481 '? (5558)' triangle
+482 '? (5559)' ellipse
+483 '? (5560)' triangle
+484 '? (5561)' triangle
+485 '? (5562)' ellipse
+486 '? (5563)' triangle
+487 '? (5564)' triangle
+488 '? (5565)' ellipse
+489 '? (5566)' triangle
+490 '? (5567)' ellipse
+491 '? (5568)' ellipse
+492 '? (5569)' ellipse
+493 '? (5570)' ellipse
+494 '? (5571)' triangle
+495 '? (5572)' triangle
+496 '? (5573)' triangle
+497 '? (5574)' ellipse
+498 '? (5575)' triangle
+499 '? (5576)' triangle
+500 '? (5577)' ellipse
+501 '? (5578)' ellipse
+502 '? (5579)' ellipse
+503 '? (5580)' triangle
+504 '? (5581)' ellipse
+505 '? (5582)' triangle
+506 '? (5583)' triangle
+507 '? (5584)' triangle
+508 '? (5585)' ellipse
+509 '? (5587)' triangle
+510 '? (5588)' ellipse
+511 '? (5589)' triangle
+512 '? (5590)' ellipse
+513 '? (5591)' ellipse
+514 '? (5592)' triangle
+515 '? (5593)' triangle
+516 '? (5594)' triangle
+517 '? (5595)' triangle
+518 '? (5596)' ellipse
+519 '? (5597)' triangle
+520 '? (5599)' triangle
+521 '? (5600)' ellipse
+522 '? (5601)' triangle
+523 '? (5602)' triangle
+524 '? (5603)' ellipse
+525 '? (5604)' ellipse
+526 '? (5605)' ellipse
+527 '? (5606)' triangle
+528 '? (5607)' ellipse
+529 '? (5608)' ellipse
+530 '? (5610)' triangle
+531 '? (5611)' diamond
+532 '? (5612)' triangle
+533 '? (5613)' triangle
+534 '? (5614)' triangle
+535 '? (5615)' ellipse
+536 '? (5616)' triangle
+537 '? (5617)' ellipse
+538 '? (5618)' triangle
+539 '? (5619)' ellipse
+540 '? (5620)' ellipse
+541 '? (5621)' ellipse
+542 '? (5622)' triangle
+543 '? (5626)' ellipse
+544 '? (5627)' ellipse
+545 '? (5628)' triangle
+546 '? (5629)' diamond
+547 '? (5630)' diamond
+548 '? (5631)' ellipse
+549 '? (5633)' triangle
+550 '? (5634)' ellipse
+551 '? (5635)' ellipse
+552 '? (5636)' triangle
+553 '? (5637)' diamond
+554 '? (5638)' diamond
+555 '? (5639)' diamond
+556 '? (5640)' triangle
+557 '? (5641)' ellipse
+558 '? (5642)' ellipse
+559 '? (5643)' ellipse
+560 '? (5644)' triangle
+561 '? (5645)' ellipse
+562 '? (5646)' ellipse
+563 '? (5647)' triangle
+564 '? (5648)' triangle
+565 '? (5649)' ellipse
+566 '? (5650)' ellipse
+567 '? (5651)' ellipse
+568 '? (5652)' ellipse
+569 '? (5653)' triangle
+570 '? (5654)' ellipse
+571 '? (5655)' ellipse
+572 '? (5657)' triangle
+573 '? (5658)' ellipse
+574 '? (5659)' ellipse
+575 '? (5660)' ellipse
+576 '? (5662)' ellipse
+577 '? (5663)' ellipse
+578 '? (5664)' triangle
+579 '? (5665)' triangle
+580 '? (5667)' triangle
+581 '? (5668)' triangle
+582 '? (5669)' triangle
+583 '? (5670)' triangle
+584 '? (5671)' triangle
+585 '? (5672)' ellipse
+586 '? (5673)' triangle
+587 '? (5674)' triangle
+588 '? (5675)' triangle
+589 '? (5676)' ellipse
+590 '? (5677)' triangle
+591 '? (5678)' ellipse
+592 'Wilson (5679)' triangle
+593 '? (5680)' ellipse
+594 '? (5681)' triangle
+595 '? (5683)' triangle
+596 '? (5684)' triangle
+597 '? (5685)' triangle
+598 '? (5686)' ellipse
+599 '? (5689)' ellipse
+600 '? (5690)' ellipse
+601 '? (5691)' diamond
+602 '? (5695)' ellipse
+603 '? (5696)' triangle
+604 '? (5697)' triangle
+605 '? (5698)' triangle
+606 '? (5699)' triangle
+607 '? (5700)' triangle
+608 '? (5701)' triangle
+609 '? (5702)' triangle
+610 '? (5703)' ellipse
+611 '? (5704)' ellipse
+612 '? (5705)' triangle
+613 '? (5706)' ellipse
+614 '? (5707)' ellipse
+615 '? (5708)' ellipse
+616 '? (5709)' triangle
+617 '? (5710)' triangle
+618 'Dora (5711)' ellipse
+619 '? (5992)' ellipse
+*arcs
+2 88 1
+5 239 1
+6 354 1
+6 102 1
+6 135 1
+6 122 1
+6 284 1
+6 307 1
+6 559 1
+6 56 1
+6 560 1
+6 198 1
+6 561 1
+7 355 1
+10 250 1
+10 220 1
+11 238 1
+11 551 1
+11 552 1
+16 402 1
+16 244 1
+16 526 1
+16 418 1
+16 422 1
+16 527 1
+19 241 1
+19 423 1
+19 450 1
+19 419 1
+19 440 1
+18 383 1
+18 91 1
+18 316 1
+18 107 1
+18 326 1
+18 1 1
+18 335 1
+18 388 1
+18 172 1
+18 441 1
+21 54 1
+21 442 1
+21 131 1
+21 375 1
+25 476 1
+25 289 1
+25 413 1
+25 269 1
+25 243 1
+25 556 1
+25 477 1
+25 292 1
+27 604 1
+26 306 1
+26 167 1
+26 175 1
+26 33 1
+35 569 1
+35 567 1
+35 568 1
+32 594 1
+32 595 1
+32 240 1
+32 58 1
+32 266 1
+32 298 1
+32 403 1
+32 111 1
+32 274 1
+38 210 1
+38 191 1
+38 192 1
+39 609 1
+36 412 1
+37 199 1
+37 144 1
+37 376 1
+37 329 1
+37 425 1
+37 152 1
+37 72 1
+37 258 1
+42 120 1
+42 324 1
+43 444 1
+45 28 1
+45 252 1
+50 121 1
+50 127 1
+52 219 1
+52 158 1
+52 380 1
+52 427 1
+52 281 1
+59 123 1
+59 137 1
+59 570 1
+59 257 1
+59 143 1
+59 41 1
+59 571 1
+59 162 1
+62 322 1
+62 84 1
+62 288 1
+61 385 1
+61 416 1
+61 297 1
+61 207 1
+61 390 1
+60 386 1
+60 537 1
+60 538 1
+60 20 1
+60 539 1
+69 347 1
+69 197 1
+69 330 1
+69 165 1
+70 331 1
+66 595 1
+66 240 1
+66 58 1
+66 266 1
+66 298 1
+66 403 1
+66 596 1
+66 111 1
+66 274 1
+67 332 1
+76 590 1
+76 95 1
+76 287 1
+76 598 1
+78 134 1
+78 610 1
+78 314 1
+79 255 1
+79 290 1
+79 177 1
+79 216 1
+72 46 1
+72 445 1
+73 179 1
+73 391 1
+74 265 1
+74 277 1
+74 301 1
+74 22 1
+74 357 1
+74 138 1
+74 404 1
+74 159 1
+74 24 1
+75 439 1
+85 13 1
+85 392 1
+84 13 1
+84 392 1
+86 210 1
+86 192 1
+81 101 1
+81 59 1
+81 332 1
+81 170 1
+80 228 1
+80 270 1
+80 508 1
+80 507 1
+80 160 1
+83 494 1
+83 495 1
+83 493 1
+83 491 1
+83 15 1
+83 490 1
+83 492 1
+83 363 1
+82 496 1
+92 616 1
+92 125 1
+92 617 1
+94 153 1
+94 351 1
+94 139 1
+94 264 1
+94 344 1
+94 254 1
+94 166 1
+94 362 1
+94 389 1
+89 513 1
+89 514 1
+89 619 1
+91 306 1
+91 464 1
+91 108 1
+91 460 1
+91 463 1
+91 115 1
+91 461 1
+91 462 1
+90 361 1
+90 166 1
+90 362 1
+90 359 1
+90 389 1
+90 242 1
+103 65 1
+100 438 1
+100 437 1
+100 436 1
+101 470 1
+101 469 1
+101 471 1
+101 296 1
+98 501 1
+98 499 1
+98 500 1
+99 223 1
+110 594 1
+111 597 1
+109 68 1
+109 23 1
+109 475 1
+109 474 1
+109 373 1
+109 323 1
+109 221 1
+106 255 1
+106 290 1
+106 177 1
+106 216 1
+107 593 1
+107 444 1
+107 579 1
+107 46 1
+107 443 1
+107 445 1
+104 92 1
+104 35 1
+104 565 1
+104 566 1
+104 47 1
+104 171 1
+105 358 1
+105 164 1
+105 30 1
+105 325 1
+105 340 1
+105 536 1
+105 535 1
+105 443 1
+105 267 1
+119 26 1
+119 401 1
+119 6 1
+119 83 1
+119 50 1
+119 305 1
+119 161 1
+118 211 1
+118 593 1
+118 579 1
+118 577 1
+117 231 1
+117 140 1
+117 193 1
+117 411 1
+117 182 1
+117 213 1
+117 235 1
+114 293 1
+114 86 1
+113 174 1
+113 345 1
+113 104 1
+113 310 1
+127 51 1
+127 302 1
+127 550 1
+127 549 1
+127 428 1
+127 253 1
+127 319 1
+127 96 1
+121 557 1
+136 26 1
+136 401 1
+136 6 1
+136 50 1
+136 305 1
+136 161 1
+139 489 1
+139 377 1
+139 317 1
+139 131 1
+138 120 1
+138 324 1
+141 99 1
+141 548 1
+141 547 1
+141 546 1
+140 386 1
+140 537 1
+140 538 1
+140 20 1
+140 539 1
+142 602 1
+128 208 1
+128 580 1
+128 583 1
+128 64 1
+128 581 1
+128 582 1
+128 82 1
+130 358 1
+130 164 1
+130 30 1
+130 325 1
+130 340 1
+130 536 1
+130 535 1
+130 267 1
+133 238 1
+133 551 1
+133 353 1
+133 291 1
+133 552 1
+132 604 1
+135 343 1
+135 541 1
+152 562 1
+152 563 1
+156 66 1
+156 209 1
+156 237 1
+156 360 1
+157 350 1
+157 261 1
+158 282 1
+158 534 1
+158 31 1
+148 502 1
+148 501 1
+148 499 1
+148 500 1
+149 209 1
+149 245 1
+150 228 1
+150 270 1
+150 508 1
+150 507 1
+150 160 1
+170 65 1
+170 473 1
+170 472 1
+174 99 1
+173 337 1
+173 18 1
+172 452 1
+163 282 1
+163 534 1
+163 31 1
+161 124 1
+161 150 1
+166 322 1
+166 426 1
+166 268 1
+166 84 1
+166 260 1
+165 590 1
+165 95 1
+165 287 1
+165 598 1
+186 424 1
+185 548 1
+185 547 1
+185 546 1
+191 92 1
+191 35 1
+191 171 1
+189 385 1
+189 416 1
+189 297 1
+189 417 1
+189 207 1
+189 390 1
+179 29 1
+179 63 1
+179 589 1
+179 130 1
+176 476 1
+176 289 1
+176 334 1
+176 116 1
+176 243 1
+176 48 1
+176 556 1
+176 477 1
+176 292 1
+182 497 1
+183 596 1
+180 293 1
+180 86 1
+180 21 1
+205 285 1
+205 352 1
+205 543 1
+205 544 1
+204 211 1
+204 577 1
+207 118 1
+207 425 1
+207 187 1
+202 327 1
+202 578 1
+202 214 1
+202 576 1
+202 53 1
+197 68 1
+197 23 1
+197 384 1
+197 475 1
+197 474 1
+197 373 1
+197 323 1
+197 221 1
+197 446 1
+196 202 1
+196 533 1
+196 532 1
+196 155 1
+196 158 1
+199 34 1
+199 545 1
+199 408 1
+199 295 1
+198 562 1
+198 563 1
+195 372 1
+195 69 1
+194 489 1
+194 377 1
+194 317 1
+220 309 1
+220 142 1
+222 197 1
+222 330 1
+222 165 1
+216 28 1
+216 252 1
+217 93 1
+217 273 1
+217 169 1
+217 117 1
+218 514 1
+219 387 1
+212 93 1
+212 273 1
+212 169 1
+212 117 1
+213 496 1
+209 124 1
+209 150 1
+210 208 1
+210 580 1
+210 583 1
+210 64 1
+210 581 1
+210 582 1
+210 82 1
+237 98 1
+237 39 1
+235 334 1
+235 116 1
+235 48 1
+234 569 1
+234 567 1
+234 568 1
+233 309 1
+233 234 1
+233 142 1
+232 89 1
+232 163 1
+232 284 1
+232 11 1
+232 394 1
+232 44 1
+232 311 1
+229 424 1
+226 280 1
+226 407 1
+225 34 1
+225 545 1
+225 367 1
+225 408 1
+225 365 1
+225 295 1
+225 279 1
+224 371 1
+224 420 1
+224 607 1
+224 606 1
+255 303 1
+255 103 1
+255 271 1
+255 67 1
+255 80 1
+255 148 1
+255 229 1
+252 321 1
+252 204 1
+252 78 1
+252 349 1
+250 227 1
+250 89 1
+250 234 1
+250 11 1
+250 44 1
+250 311 1
+248 179 1
+248 85 1
+248 37 1
+247 7 1
+247 145 1
+245 199 1
+245 144 1
+245 376 1
+245 329 1
+245 152 1
+245 9 1
+245 72 1
+245 258 1
+245 3 1
+242 555 1
+242 206 1
+242 133 1
+242 553 1
+242 5 1
+242 554 1
+241 439 1
+275 345 1
+275 104 1
+275 310 1
+272 29 1
+278 343 1
+278 541 1
+277 278 1
+277 524 1
+277 380 1
+277 105 1
+277 400 1
+277 356 1
+277 218 1
+277 112 1
+276 379 1
+276 262 1
+276 434 1
+276 312 1
+276 435 1
+283 245 1
+280 230 1
+280 121 1
+280 127 1
+280 239 1
+286 85 1
+286 37 1
+284 227 1
+256 101 1
+256 59 1
+256 170 1
+263 371 1
+263 607 1
+263 280 1
+263 391 1
+263 407 1
+263 606 1
+260 167 1
+260 565 1
+260 566 1
+260 175 1
+260 47 1
+265 531 1
+268 8 1
+268 614 1
+268 126 1
+305 25 1
+304 43 1
+307 454 1
+308 27 1
+308 233 1
+308 313 1
+311 502 1
+310 354 1
+310 102 1
+310 135 1
+310 122 1
+310 307 1
+310 559 1
+310 56 1
+310 560 1
+310 564 1
+310 198 1
+310 561 1
+313 321 1
+313 204 1
+313 78 1
+313 349 1
+312 438 1
+312 437 1
+312 436 1
+316 14 1
+316 384 1
+316 446 1
+288 63 1
+288 589 1
+288 130 1
+290 109 1
+290 176 1
+290 333 1
+294 421 1
+294 364 1
+294 185 1
+294 225 1
+297 33 1
+299 174 1
+299 66 1
+299 237 1
+299 360 1
+300 591 1
+303 505 1
+341 100 1
+339 32 1
+339 97 1
+338 141 1
+337 163 1
+337 426 1
+337 268 1
+337 260 1
+337 394 1
+336 465 1
+336 247 1
+336 368 1
+351 183 1
+351 516 1
+351 2 1
+351 154 1
+351 348 1
+351 515 1
+351 518 1
+351 517 1
+350 383 1
+350 316 1
+350 107 1
+350 326 1
+350 1 1
+350 335 1
+350 388 1
+350 172 1
+350 441 1
+349 597 1
+349 609 1
+348 318 1
+348 278 1
+348 524 1
+348 105 1
+348 400 1
+348 356 1
+348 218 1
+348 112 1
+347 452 1
+346 372 1
+346 69 1
+345 464 1
+345 108 1
+345 460 1
+345 463 1
+345 115 1
+345 461 1
+345 462 1
+344 190 1
+344 396 1
+344 132 1
+344 398 1
+344 76 1
+324 43 1
+325 497 1
+322 109 1
+322 176 1
+322 333 1
+323 473 1
+323 472 1
+320 417 1
+321 587 1
+321 586 1
+321 584 1
+321 588 1
+321 201 1
+321 585 1
+321 374 1
+333 353 1
+333 291 1
+331 303 1
+331 103 1
+331 271 1
+331 67 1
+331 80 1
+331 148 1
+331 229 1
+329 415 1
+329 249 1
+329 203 1
+329 522 1
+329 520 1
+329 523 1
+329 521 1
+372 406 1
+372 320 1
+372 288 1
+369 285 1
+369 352 1
+369 543 1
+369 544 1
+368 337 1
+368 18 1
+371 98 1
+371 367 1
+371 365 1
+371 39 1
+371 279 1
+381 465 1
+381 247 1
+381 368 1
+380 60 1
+383 54 1
+383 442 1
+383 375 1
+382 355 1
+382 350 1
+382 387 1
+382 261 1
+377 231 1
+377 140 1
+377 193 1
+377 411 1
+377 182 1
+377 213 1
+377 235 1
+378 399 1
+378 430 1
+356 413 1
+356 269 1
+352 555 1
+352 206 1
+352 133 1
+352 553 1
+352 5 1
+352 554 1
+353 134 1
+353 610 1
+353 314 1
+355 8 1
+355 614 1
+355 9 1
+360 91 1
+360 406 1
+361 25 1
+361 187 1
+361 88 1
+361 60 1
+410 226 1
+411 494 1
+411 495 1
+411 493 1
+411 491 1
+411 15 1
+411 490 1
+411 492 1
+411 363 1
+409 224 1
+409 232 1
+409 129 1
+409 215 1
+409 369 1
+414 21 1
+412 183 1
+412 516 1
+412 2 1
+412 154 1
+412 348 1
+412 515 1
+412 518 1
+412 517 1
+400 415 1
+400 249 1
+400 203 1
+400 522 1
+400 520 1
+400 523 1
+400 521 1
+401 123 1
+401 137 1
+401 570 1
+401 257 1
+401 143 1
+401 41 1
+401 571 1
+401 162 1
+406 587 1
+406 586 1
+406 584 1
+406 588 1
+406 201 1
+406 585 1
+406 374 1
+407 421 1
+407 364 1
+407 83 1
+407 185 1
+407 225 1
+405 27 1
+405 233 1
+405 313 1
+395 7 1
+395 145 1
+394 601 1
+394 230 1
+394 246 1
+394 599 1
+394 600 1
+396 420 1
+387 379 1
+387 262 1
+387 434 1
+387 312 1
+387 435 1
+391 100 1
+390 601 1
+390 599 1
+390 600 1
+389 190 1
+389 396 1
+389 132 1
+389 398 1
+389 76 1
+388 454 1
+447 241 1
+447 423 1
+447 450 1
+447 419 1
+447 440 1
+432 433 1
+432 276 1
+432 75 1
+425 327 1
+425 578 1
+425 214 1
+425 576 1
+425 53 1
+427 202 1
+427 533 1
+427 532 1
+427 399 1
+427 155 1
+427 430 1
+429 219 1
+429 427 1
+429 281 1
+431 433 1
+431 276 1
+431 75 1
+417 14 1
+416 3 1
+419 232 1
+419 129 1
+419 215 1
+421 470 1
+421 471 1
+420 564 1
+423 347 1
+479 87 1
+479 10 1
+479 77 1
+468 469 1
+468 296 1
+466 223 1
+465 141 1
+459 361 1
+458 359 1
+458 242 1
+457 286 1
+456 90 1
+456 73 1
+456 286 1
+456 173 1
+455 90 1
+455 73 1
+455 173 1
+449 42 1
+448 42 1
+509 224 1
+509 369 1
+510 412 1
+511 153 1
+511 351 1
+511 139 1
+511 264 1
+511 344 1
+511 254 1
+504 188 1
+506 505 1
+503 188 1
+498 331 1
+481 119 1
+481 304 1
+480 87 1
+480 10 1
+480 77 1
+483 250 1
+483 220 1
+482 119 1
+482 304 1
+558 557 1
+575 191 1
+574 320 1
+573 61 1
+573 38 1
+573 40 1
+572 61 1
+572 38 1
+572 40 1
+519 318 1
+512 513 1
+512 619 1
+525 402 1
+525 244 1
+525 526 1
+525 418 1
+525 422 1
+525 527 1
+527 265 1
+527 277 1
+527 301 1
+527 22 1
+527 357 1
+527 138 1
+527 404 1
+527 159 1
+527 24 1
+530 531 1
+542 226 1
+608 246 1
+608 126 1
+615 616 1
+615 125 1
+615 617 1
+612 259 1
+613 259 1
+618 51 1
+618 302 1
+618 550 1
+618 549 1
+618 428 1
+618 253 1
+618 319 1
+618 96 1
+590 591 1
+592 118 1
+603 602 1
+605 32 1
+605 97 1
+*edges
+361 2 1
+280 5 1
+252 5 1
+232 6 1
+310 6 1
+232 7 1
+483 10 1
+133 11 1
+16 525 1
+19 447 1
+18 350 1
+18 360 1
+383 21 1
+176 25 1
+356 25 1
+132 27 1
+91 26 1
+297 26 1
+260 26 1
+280 29 1
+77 28 1
+35 234 1
+32 251 1
+32 66 1
+32 110 1
+38 575 1
+38 86 1
+39 349 1
+36 510 1
+37 245 1
+37 207 1
+42 138 1
+43 128 1
+43 268 1
+43 107 1
+43 235 1
+40 320 1
+45 216 1
+280 50 1
+195 49 1
+277 52 1
+196 52 1
+429 52 1
+401 59 1
+416 59 1
+57 344 1
+57 328 1
+372 62 1
+166 62 1
+189 61 1
+140 60 1
+423 69 1
+222 69 1
+498 70 1
+71 427 1
+183 66 1
+81 67 1
+147 67 1
+76 165 1
+77 350 1
+77 245 1
+77 84 1
+78 353 1
+79 106 1
+72 107 1
+73 263 1
+73 248 1
+527 74 1
+241 75 1
+85 84 1
+233 86 1
+186 86 1
+81 256 1
+81 322 1
+80 330 1
+80 150 1
+411 83 1
+213 82 1
+120 93 1
+92 615 1
+511 94 1
+89 512 1
+89 218 1
+91 303 1
+91 345 1
+90 458 1
+90 459 1
+90 94 1
+170 103 1
+100 312 1
+421 101 1
+468 101 1
+98 148 1
+99 466 1
+188 97 1
+391 97 1
+197 109 1
+310 109 1
+215 106 1
+118 107 1
+191 104 1
+260 104 1
+105 104 1
+105 130 1
+105 107 1
+119 136 1
+119 407 1
+118 204 1
+117 377 1
+114 180 1
+113 299 1
+113 275 1
+113 180 1
+127 618 1
+125 342 1
+125 245 1
+121 558 1
+139 285 1
+139 293 1
+139 360 1
+139 194 1
+174 141 1
+185 141 1
+185 142 1
+210 128 1
+133 333 1
+278 135 1
+198 152 1
+155 347 1
+156 299 1
+382 157 1
+241 157 1
+158 163 1
+158 407 1
+145 259 1
+146 611 1
+311 148 1
+156 149 1
+283 149 1
+170 323 1
+168 337 1
+173 368 1
+172 347 1
+209 161 1
+166 337 1
+186 229 1
+185 330 1
+188 219 1
+188 540 1
+188 409 1
+189 320 1
+272 179 1
+288 179 1
+176 235 1
+177 352 1
+182 325 1
+183 328 1
+414 180 1
+181 194 1
+205 369 1
+361 207 1
+215 207 1
+592 207 1
+425 202 1
+197 387 1
+197 316 1
+196 427 1
+225 199 1
+195 346 1
+233 220 1
+382 219 1
+261 219 1
+212 217 1
+209 320 1
+237 371 1
+233 394 1
+232 337 1
+232 250 1
+276 229 1
+226 263 1
+226 380 1
+225 371 1
+225 380 1
+224 263 1
+255 331 1
+252 313 1
+284 250 1
+286 248 1
+247 395 1
+416 245 1
+242 352 1
+241 427 1
+241 315 1
+241 360 1
+273 427 1
+277 352 1
+277 529 1
+277 348 1
+277 368 1
+276 387 1
+276 330 1
+280 394 1
+530 265 1
+355 268 1
+361 305 1
+304 324 1
+388 307 1
+308 405 1
+310 420 1
+440 315 1
+417 316 1
+288 591 1
+290 322 1
+294 407 1
+297 387 1
+590 300 1
+506 303 1
+391 341 1
+605 339 1
+465 338 1
+381 336 1
+412 351 1
+519 348 1
+411 345 1
+389 344 1
+467 322 1
+406 321 1
+361 330 1
+412 328 1
+400 329 1
+372 574 1
+385 380 1
+378 431 1
+378 427 1
+357 528 1
+423 360 1
+372 360 1
+361 380 1
+542 410 1
+419 409 1
+392 408 1
+390 394 1
+432 431 1
+479 480 1
+456 457 1
+456 455 1
+451 450 1
+448 449 1
+503 504 1
+481 482 1
+572 573 1
+612 613 1

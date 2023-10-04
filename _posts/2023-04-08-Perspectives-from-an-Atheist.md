@@ -261,9 +261,9 @@ _Unfortunately, as I took my dose of Sertraline each night, my headache got wors
 
 _The last week of August 2019 was THE hardest week of my entire mission.  Elder Wingard had become extremely trunky halfway through the transfer.  He was finishing his mission in a couple weeks.  Even though my doctor told me that it would take about two weeks for the effects of the medication to kick in, I felt like the medication was backfiring on me._
 
-_On Tuesday, we had zone conference, and after that zone conference to Friday, Elder Wingard and I didn’t get out of the apartment.  I was extremely depressed.  There was no way I was going to be able to continue my mission like this.  I felt so guilty that I couldn’t do the work.  Literally all day after getting out of bed, I curled up in a ball on the floor, just wanting the day to be over.  I told myself to do just one simple thing, like to do my laundry, but even that seemed overwhelming.  Even looking at a Restoration pamphlet brought a cloud of depression to my mind.  One of the mission nurses called me, and I told her about my situation.  President Beardall also called and found out about my mental and emotional health.
+_On Tuesday, we had zone conference, and after that zone conference to Friday, Elder Wingard and I didn’t get out of the apartment.  I was extremely depressed.  There was no way I was going to be able to continue my mission like this.  I felt so guilty that I couldn’t do the work.  Literally all day after getting out of bed, I curled up in a ball on the floor, just wanting the day to be over.  I told myself to do just one simple thing, like to do my laundry, but even that seemed overwhelming.  Even looking at a Restoration pamphlet brought a cloud of depression to my mind.  One of the mission nurses called me, and I told her about my situation.  President Beardall also called and found out about my mental and emotional health._
 
-I grasped my name tag.  I was convinced that I was going to get sent home with Elder Wingard at the end of the transfer.  Each painful day, I thought about how it could be my last day as a full-time missionary._
+_I grasped my name tag.  I was convinced that I was going to get sent home with Elder Wingard at the end of the transfer.  Each painful day, I thought about how it could be my last day as a full-time missionary._
 
 ...
 

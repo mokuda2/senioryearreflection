@@ -22,6 +22,7 @@ import line_profiler
 import cython
 import marriage_code
 import graph_distributions
+from line_profiler import profile
 
 #%%
 def makeOutputDirectory(out_directory, name):

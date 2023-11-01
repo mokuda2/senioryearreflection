@@ -2365,6 +2365,41 @@ static PyObject *__Pyx_PyDict_GetItem(PyObject *d, PyObject* key);
 /* BufferIndexError.proto */
 static void __Pyx_RaiseBufferIndexError(int axis);
 
+/* py_dict_keys.proto */
+static CYTHON_INLINE PyObject* __Pyx_PyDict_Keys(PyObject* d);
+
+/* UnpackUnboundCMethod.proto */
+typedef struct {
+    PyObject *type;
+    PyObject **method_name;
+    PyCFunction func;
+    PyObject *method;
+    int flag;
+} __Pyx_CachedCFunction;
+
+/* CallUnboundCMethod0.proto */
+static PyObject* __Pyx__CallUnboundCMethod0(__Pyx_CachedCFunction* cfunc, PyObject* self);
+#if CYTHON_COMPILING_IN_CPYTHON
+#define __Pyx_CallUnboundCMethod0(cfunc, self)\
+    (likely((cfunc)->func) ?\
+        (likely((cfunc)->flag == METH_NOARGS) ?  (*((cfunc)->func))(self, NULL) :\
+         (PY_VERSION_HEX >= 0x030600B1 && likely((cfunc)->flag == METH_FASTCALL) ?\
+            (PY_VERSION_HEX >= 0x030700A0 ?\
+                (*(__Pyx_PyCFunctionFast)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0) :\
+                (*(__Pyx_PyCFunctionFastWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0, NULL)) :\
+          (PY_VERSION_HEX >= 0x030700A0 && (cfunc)->flag == (METH_FASTCALL | METH_KEYWORDS) ?\
+            (*(__Pyx_PyCFunctionFastWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0, NULL) :\
+            (likely((cfunc)->flag == (METH_VARARGS | METH_KEYWORDS)) ?  ((*(PyCFunctionWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, __pyx_empty_tuple, NULL)) :\
+               ((cfunc)->flag == METH_VARARGS ?  (*((cfunc)->func))(self, __pyx_empty_tuple) :\
+               __Pyx__CallUnboundCMethod0(cfunc, self)))))) :\
+        __Pyx__CallUnboundCMethod0(cfunc, self))
+#else
+#define __Pyx_CallUnboundCMethod0(cfunc, self)  __Pyx__CallUnboundCMethod0(cfunc, self)
+#endif
+
+/* py_dict_values.proto */
+static CYTHON_INLINE PyObject* __Pyx_PyDict_Values(PyObject* d);
+
 /* PyDictContains.proto */
 static CYTHON_INLINE int __Pyx_PyDict_ContainsTF(PyObject* item, PyObject* dict, int eq) {
     int result = PyDict_Contains(dict, item);
@@ -2518,38 +2553,6 @@ static CYTHON_INLINE double __Pyx_PyString_AsDouble(PyObject *obj) {
     return __Pyx_PyBytes_AsDouble(obj);
     #endif
 }
-
-/* py_dict_keys.proto */
-static CYTHON_INLINE PyObject* __Pyx_PyDict_Keys(PyObject* d);
-
-/* UnpackUnboundCMethod.proto */
-typedef struct {
-    PyObject *type;
-    PyObject **method_name;
-    PyCFunction func;
-    PyObject *method;
-    int flag;
-} __Pyx_CachedCFunction;
-
-/* CallUnboundCMethod0.proto */
-static PyObject* __Pyx__CallUnboundCMethod0(__Pyx_CachedCFunction* cfunc, PyObject* self);
-#if CYTHON_COMPILING_IN_CPYTHON
-#define __Pyx_CallUnboundCMethod0(cfunc, self)\
-    (likely((cfunc)->func) ?\
-        (likely((cfunc)->flag == METH_NOARGS) ?  (*((cfunc)->func))(self, NULL) :\
-         (PY_VERSION_HEX >= 0x030600B1 && likely((cfunc)->flag == METH_FASTCALL) ?\
-            (PY_VERSION_HEX >= 0x030700A0 ?\
-                (*(__Pyx_PyCFunctionFast)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0) :\
-                (*(__Pyx_PyCFunctionFastWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0, NULL)) :\
-          (PY_VERSION_HEX >= 0x030700A0 && (cfunc)->flag == (METH_FASTCALL | METH_KEYWORDS) ?\
-            (*(__Pyx_PyCFunctionFastWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, &__pyx_empty_tuple, 0, NULL) :\
-            (likely((cfunc)->flag == (METH_VARARGS | METH_KEYWORDS)) ?  ((*(PyCFunctionWithKeywords)(void*)(PyCFunction)(cfunc)->func)(self, __pyx_empty_tuple, NULL)) :\
-               ((cfunc)->flag == METH_VARARGS ?  (*((cfunc)->func))(self, __pyx_empty_tuple) :\
-               __Pyx__CallUnboundCMethod0(cfunc, self)))))) :\
-        __Pyx__CallUnboundCMethod0(cfunc, self))
-#else
-#define __Pyx_CallUnboundCMethod0(cfunc, self)  __Pyx__CallUnboundCMethod0(cfunc, self)
-#endif
 
 /* dict_getitem_default.proto */
 static PyObject* __Pyx_PyDict_GetItemDefault(PyObject* d, PyObject* key, PyObject* default_value);
@@ -2868,6 +2871,13 @@ static int __Pyx_ValidateAndInit_memviewslice(
 /* ObjectToMemviewSlice.proto */
 static CYTHON_INLINE __Pyx_memviewslice __Pyx_PyObject_to_MemoryviewSlice_d_dc_double(PyObject *, int writable_flag);
 
+/* ObjectToMemviewSlice.proto */
+static CYTHON_INLINE __Pyx_memviewslice __Pyx_PyObject_to_MemoryviewSlice_ds_double(PyObject *, int writable_flag);
+
+/* MemviewDtypeToObject.proto */
+static CYTHON_INLINE PyObject *__pyx_memview_get_double(const char *itemp);
+static CYTHON_INLINE int __pyx_memview_set_double(const char *itemp, PyObject *obj);
+
 /* MemviewSliceCopyTemplate.proto */
 static __Pyx_memviewslice
 __pyx_memoryview_copy_new_contig(const __Pyx_memviewslice *from_mvs,
@@ -2906,11 +2916,11 @@ static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *);
 /* CIntToPy.proto */
 static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value);
 
-/* CIntFromPy.proto */
-static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *);
-
 /* CIntToPy.proto */
 static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value);
+
+/* CIntFromPy.proto */
+static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *);
 
 /* CIntFromPy.proto */
 static CYTHON_INLINE char __Pyx_PyInt_As_char(PyObject *);
@@ -3002,8 +3012,8 @@ int __pyx_module_is_main_marriage_code = 0;
 /* #### Code section: global_var ### */
 static PyObject *__pyx_builtin_print;
 static PyObject *__pyx_builtin_round;
-static PyObject *__pyx_builtin_sum;
 static PyObject *__pyx_builtin_range;
+static PyObject *__pyx_builtin_sum;
 static PyObject *__pyx_builtin_zip;
 static PyObject *__pyx_builtin___import__;
 static PyObject *__pyx_builtin_ValueError;
@@ -3023,6 +3033,7 @@ static const char __pyx_k_d[] = "d";
 static const char __pyx_k_e[] = "e";
 static const char __pyx_k_i[] = "i";
 static const char __pyx_k_k[] = "k";
+static const char __pyx_k_n[] = "n";
 static const char __pyx_k_p[] = "p";
 static const char __pyx_k__2[] = ".";
 static const char __pyx_k__3[] = "*";
@@ -3033,9 +3044,16 @@ static const char __pyx_k_d3[] = "d3";
 static const char __pyx_k_d4[] = "d4";
 static const char __pyx_k_d5[] = "d5";
 static const char __pyx_k_gc[] = "gc";
+static const char __pyx_k_i2[] = "i2";
+static const char __pyx_k_i3[] = "i3";
+static const char __pyx_k_i4[] = "i4";
+static const char __pyx_k_i5[] = "i5";
 static const char __pyx_k_id[] = "id";
+static const char __pyx_k_n2[] = "n2";
+static const char __pyx_k_n3[] = "n3";
+static const char __pyx_k_n4[] = "n4";
 static const char __pyx_k_np[] = "np";
-static const char __pyx_k__28[] = "?";
+static const char __pyx_k__30[] = "?";
 static const char __pyx_k_abc[] = "abc";
 static const char __pyx_k_and[] = " and ";
 static const char __pyx_k_eps[] = "eps";
@@ -3052,8 +3070,8 @@ static const char __pyx_k_tol[] = "tol";
 static const char __pyx_k_val[] = "val";
 static const char __pyx_k_zip[] = "zip";
 static const char __pyx_k_base[] = "base";
+static const char __pyx_k_cset[] = "cset";
 static const char __pyx_k_dict[] = "__dict__";
-static const char __pyx_k_iter[] = "iter";
 static const char __pyx_k_keys[] = "keys";
 static const char __pyx_k_main[] = "__main__";
 static const char __pyx_k_man2[] = "man2";
@@ -3073,12 +3091,15 @@ static const char __pyx_k_stop[] = "stop";
 static const char __pyx_k_test[] = "__test__";
 static const char __pyx_k_ASCII[] = "ASCII";
 static const char __pyx_k_Error[] = "Error: ";
+static const char __pyx_k_array[] = "array";
+static const char __pyx_k_ckeys[] = "ckeys";
 static const char __pyx_k_class[] = "__class__";
 static const char __pyx_k_count[] = "count";
 static const char __pyx_k_error[] = "error";
 static const char __pyx_k_flags[] = "flags";
 static const char __pyx_k_index[] = "index";
 static const char __pyx_k_items[] = "items";
+static const char __pyx_k_iter2[] = "iter2:";
 static const char __pyx_k_man30[] = "man30";
 static const char __pyx_k_numpy[] = "numpy";
 static const char __pyx_k_print[] = "print";
@@ -3088,6 +3109,8 @@ static const char __pyx_k_shape[] = "shape";
 static const char __pyx_k_start[] = "start";
 static const char __pyx_k_woman[] = "woman";
 static const char __pyx_k_choice[] = "choice";
+static const char __pyx_k_ckeys2[] = "ckeys2";
+static const char __pyx_k_ckeys3[] = "ckeys3";
 static const char __pyx_k_couple[] = "couple";
 static const char __pyx_k_enable[] = "enable";
 static const char __pyx_k_encode[] = "encode";
@@ -3111,24 +3134,26 @@ static const char __pyx_k_woman2[] = "woman2";
 static const char __pyx_k_woman3[] = "woman3";
 static const char __pyx_k_woman5[] = "woman5";
 static const char __pyx_k_LINE_66[] = "LINE 66";
-static const char __pyx_k_LINE_70[] = "LINE 70";
-static const char __pyx_k_LINE_72[] = "LINE 72";
 static const char __pyx_k_LINE_81[] = "LINE 81";
 static const char __pyx_k_couple1[] = "couple1";
 static const char __pyx_k_couple2[] = "couple2";
 static const char __pyx_k_couple3[] = "couple3";
 static const char __pyx_k_couple4[] = "couple4";
 static const char __pyx_k_couple6[] = "couple6";
+static const char __pyx_k_cvalues[] = "cvalues";
 static const char __pyx_k_disable[] = "disable";
 static const char __pyx_k_fortran[] = "fortran";
 static const char __pyx_k_indices[] = "indices";
+static const char __pyx_k_iter2_2[] = "iter2";
 static const char __pyx_k_man_idx[] = "man_idx";
 static const char __pyx_k_memview[] = "memview";
+static const char __pyx_k_profile[] = "profile";
 static const char __pyx_k_replace[] = "replace";
 static const char __pyx_k_Ellipsis[] = "Ellipsis";
-static const char __pyx_k_LINE_171[] = "LINE 171";
 static const char __pyx_k_Sequence[] = "Sequence";
 static const char __pyx_k_couple30[] = "couple30";
+static const char __pyx_k_cvalues2[] = "cvalues2";
+static const char __pyx_k_cvalues3[] = "cvalues3";
 static const char __pyx_k_dis_prob[] = "dis_prob";
 static const char __pyx_k_distance[] = "distance";
 static const char __pyx_k_getstate[] = "__getstate__";
@@ -3172,6 +3197,7 @@ static const char __pyx_k_collections[] = "collections";
 static const char __pyx_k_next_person[] = "next_person";
 static const char __pyx_k_prev_people[] = "prev_people";
 static const char __pyx_k_total_prob2[] = "total_prob2";
+static const char __pyx_k_after_couple[] = "after couple";
 static const char __pyx_k_combinations[] = "combinations";
 static const char __pyx_k_couple_index[] = "couple_index";
 static const char __pyx_k_initializing[] = "_initializing";
@@ -3193,6 +3219,7 @@ static const char __pyx_k_allocate_buffer[] = "allocate_buffer";
 static const char __pyx_k_collections_abc[] = "collections.abc";
 static const char __pyx_k_dtype_is_object[] = "dtype_is_object";
 static const char __pyx_k_marry_strangers[] = "marry_strangers";
+static const char __pyx_k_memory_profiler[] = "memory_profiler";
 static const char __pyx_k_pyx_PickleError[] = "__pyx_PickleError";
 static const char __pyx_k_setstate_cython[] = "__setstate_cython__";
 static const char __pyx_k_possible_couples[] = "possible_couples";
@@ -3200,6 +3227,7 @@ static const char __pyx_k_marriage_code_pyx[] = "marriage_code.pyx";
 static const char __pyx_k_preferred_couples[] = "preferred_couples";
 static const char __pyx_k_pyx_unpickle_Enum[] = "__pyx_unpickle_Enum";
 static const char __pyx_k_add_marriage_edges[] = "add_marriage_edges";
+static const char __pyx_k_after_couple_index[] = "after couple_index";
 static const char __pyx_k_asyncio_coroutines[] = "asyncio.coroutines";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_least_bad_distance[] = "least_bad_distance";
@@ -3207,11 +3235,13 @@ static const char __pyx_k_marriage_distances[] = "marriage_distances";
 static const char __pyx_k_preferred_couples2[] = "preferred_couples2";
 static const char __pyx_k_strided_and_direct[] = "<strided and direct>";
 static const char __pyx_k_stay_single_forever[] = "stay_single_forever";
+static const char __pyx_k_after_first_for_loop[] = "after first for loop";
 static const char __pyx_k_possible_inf_couples[] = "possible_inf_couples";
 static const char __pyx_k_prob_marry_immigrant[] = "prob_marry_immigrant";
 static const char __pyx_k_stay_single_forever2[] = "stay_single_forever2";
 static const char __pyx_k_strided_and_indirect[] = "<strided and indirect>";
 static const char __pyx_k_Invalid_shape_in_axis[] = "Invalid shape in axis ";
+static const char __pyx_k_after_second_for_loop[] = "after second for loop";
 static const char __pyx_k_contiguous_and_direct[] = "<contiguous and direct>";
 static const char __pyx_k_finite_marriage_probs[] = "finite_marriage_probs";
 static const char __pyx_k_Cannot_index_with_type[] = "Cannot index with type '";
@@ -3221,10 +3251,12 @@ static const char __pyx_k_MemoryView_of_r_at_0x_x[] = "<MemoryView of %r at 0x%x
 static const char __pyx_k_contiguous_and_indirect[] = "<contiguous and indirect>";
 static const char __pyx_k_possible_finite_couples[] = "possible_finite_couples";
 static const char __pyx_k_desired_finite_distances[] = "desired_finite_distances";
-static const char __pyx_k_num_inf_couples_to_marry[] = "num_inf_couples_to_marry";
+static const char __pyx_k_num_inf_couples_to_marry[] = "num_inf_couples_to_marry:";
 static const char __pyx_k_possible_finite_couples2[] = "possible_finite_couples2";
 static const char __pyx_k_Dimension_d_is_not_direct[] = "Dimension %d is not direct";
+static const char __pyx_k_possible_inf_couples_size[] = "possible_inf_couples size:";
 static const char __pyx_k_Index_out_of_bounds_axis_d[] = "Index out of bounds (axis %d)";
+static const char __pyx_k_num_inf_couples_to_marry_2[] = "num_inf_couples_to_marry";
 static const char __pyx_k_possible_inf_couples_array[] = "possible_inf_couples_array";
 static const char __pyx_k_wont_marry_until_next_time[] = "wont_marry_until_next_time";
 static const char __pyx_k_Step_may_not_be_zero_axis_d[] = "Step may not be zero (axis %d)";
@@ -3247,6 +3279,7 @@ static const char __pyx_k_Indirect_dimensions_not_supporte[] = "Indirect dimensi
 static const char __pyx_k_Invalid_mode_expected_c_or_fortr[] = "Invalid mode, expected 'c' or 'fortran', got ";
 static const char __pyx_k_Out_of_bounds_on_buffer_access_a[] = "Out of bounds on buffer access (axis ";
 static const char __pyx_k_Unable_to_convert_item_to_object[] = "Unable to convert item to object";
+static const char __pyx_k_after_possible_inf_couples_array[] = "after possible_inf_couples_array";
 static const char __pyx_k_got_differing_extents_in_dimensi[] = "got differing extents in dimension ";
 static const char __pyx_k_no_default___reduce___due_to_non[] = "no default __reduce__ due to non-trivial __cinit__";
 static const char __pyx_k_unable_to_allocate_shape_and_str[] = "unable to allocate shape and strides.";
@@ -3299,6 +3332,7 @@ static PyObject *__pyx_tp_new_memoryview(PyTypeObject *t, PyObject *a, PyObject 
 static PyObject *__pyx_tp_new__memoryviewslice(PyTypeObject *t, PyObject *a, PyObject *k); /*proto*/
 static __Pyx_CachedCFunction __pyx_umethod_PyDict_Type_get = {0, 0, 0, 0, 0};
 static __Pyx_CachedCFunction __pyx_umethod_PyDict_Type_keys = {0, 0, 0, 0, 0};
+static __Pyx_CachedCFunction __pyx_umethod_PyDict_Type_values = {0, 0, 0, 0, 0};
 /* #### Code section: late_includes ### */
 /* #### Code section: module_state ### */
 typedef struct {
@@ -3358,10 +3392,7 @@ typedef struct {
   PyObject *__pyx_kp_s_Indirect_dimensions_not_supporte;
   PyObject *__pyx_kp_u_Invalid_mode_expected_c_or_fortr;
   PyObject *__pyx_kp_u_Invalid_shape_in_axis;
-  PyObject *__pyx_kp_s_LINE_171;
   PyObject *__pyx_kp_s_LINE_66;
-  PyObject *__pyx_kp_s_LINE_70;
-  PyObject *__pyx_kp_s_LINE_72;
   PyObject *__pyx_kp_s_LINE_81;
   PyObject *__pyx_n_s_MemoryError;
   PyObject *__pyx_kp_s_MemoryView_of_r_at_0x_x;
@@ -3376,19 +3407,28 @@ typedef struct {
   PyObject *__pyx_n_s_ValueError;
   PyObject *__pyx_n_s_View_MemoryView;
   PyObject *__pyx_kp_u__2;
-  PyObject *__pyx_n_s__28;
   PyObject *__pyx_n_s__3;
+  PyObject *__pyx_n_s__30;
   PyObject *__pyx_kp_u__6;
   PyObject *__pyx_kp_u__7;
   PyObject *__pyx_n_s_abc;
   PyObject *__pyx_n_s_add_marriage_edges;
+  PyObject *__pyx_kp_s_after_couple;
+  PyObject *__pyx_kp_s_after_couple_index;
+  PyObject *__pyx_kp_s_after_first_for_loop;
+  PyObject *__pyx_kp_s_after_possible_inf_couples_array;
+  PyObject *__pyx_kp_s_after_second_for_loop;
   PyObject *__pyx_n_s_allocate_buffer;
   PyObject *__pyx_kp_u_and;
+  PyObject *__pyx_n_s_array;
   PyObject *__pyx_n_s_asyncio_coroutines;
   PyObject *__pyx_n_s_base;
   PyObject *__pyx_n_s_c;
   PyObject *__pyx_n_u_c;
   PyObject *__pyx_n_s_choice;
+  PyObject *__pyx_n_s_ckeys;
+  PyObject *__pyx_n_s_ckeys2;
+  PyObject *__pyx_n_s_ckeys3;
   PyObject *__pyx_n_s_class;
   PyObject *__pyx_n_s_class_getitem;
   PyObject *__pyx_n_s_cline_in_traceback;
@@ -3406,6 +3446,10 @@ typedef struct {
   PyObject *__pyx_n_s_couple4;
   PyObject *__pyx_n_s_couple6;
   PyObject *__pyx_n_s_couple_index;
+  PyObject *__pyx_n_s_cset;
+  PyObject *__pyx_n_s_cvalues;
+  PyObject *__pyx_n_s_cvalues2;
+  PyObject *__pyx_n_s_cvalues3;
   PyObject *__pyx_n_s_d;
   PyObject *__pyx_n_s_d2;
   PyObject *__pyx_n_s_d3;
@@ -3445,6 +3489,10 @@ typedef struct {
   PyObject *__pyx_kp_u_got;
   PyObject *__pyx_kp_u_got_differing_extents_in_dimensi;
   PyObject *__pyx_n_s_i;
+  PyObject *__pyx_n_s_i2;
+  PyObject *__pyx_n_s_i3;
+  PyObject *__pyx_n_s_i4;
+  PyObject *__pyx_n_s_i5;
   PyObject *__pyx_n_s_id;
   PyObject *__pyx_n_s_immigrant;
   PyObject *__pyx_n_s_immigrants;
@@ -3458,7 +3506,8 @@ typedef struct {
   PyObject *__pyx_n_s_items;
   PyObject *__pyx_n_s_itemsize;
   PyObject *__pyx_kp_s_itemsize_0_for_cython_array;
-  PyObject *__pyx_n_s_iter;
+  PyObject *__pyx_kp_s_iter2;
+  PyObject *__pyx_n_s_iter2_2;
   PyObject *__pyx_n_s_itertools;
   PyObject *__pyx_n_s_k;
   PyObject *__pyx_n_s_key;
@@ -3478,9 +3527,14 @@ typedef struct {
   PyObject *__pyx_n_s_marriage_distances;
   PyObject *__pyx_n_s_marriage_probs;
   PyObject *__pyx_n_s_marry_strangers;
+  PyObject *__pyx_n_s_memory_profiler;
   PyObject *__pyx_n_s_memview;
   PyObject *__pyx_n_s_minimum_permissible_distance;
   PyObject *__pyx_n_s_mode;
+  PyObject *__pyx_n_s_n;
+  PyObject *__pyx_n_s_n2;
+  PyObject *__pyx_n_s_n3;
+  PyObject *__pyx_n_s_n4;
   PyObject *__pyx_n_s_name;
   PyObject *__pyx_n_s_name_2;
   PyObject *__pyx_n_s_ndim;
@@ -3491,7 +3545,8 @@ typedef struct {
   PyObject *__pyx_n_s_np;
   PyObject *__pyx_n_s_num_finite_couples_to_marry;
   PyObject *__pyx_n_s_num_immigrants;
-  PyObject *__pyx_n_s_num_inf_couples_to_marry;
+  PyObject *__pyx_kp_s_num_inf_couples_to_marry;
+  PyObject *__pyx_n_s_num_inf_couples_to_marry_2;
   PyObject *__pyx_n_s_num_people;
   PyObject *__pyx_n_s_numpy;
   PyObject *__pyx_n_s_obj;
@@ -3511,6 +3566,7 @@ typedef struct {
   PyObject *__pyx_n_s_possible_finite_couples_array;
   PyObject *__pyx_n_s_possible_inf_couples;
   PyObject *__pyx_n_s_possible_inf_couples_array;
+  PyObject *__pyx_kp_s_possible_inf_couples_size;
   PyObject *__pyx_n_s_preferred_couples;
   PyObject *__pyx_n_s_preferred_couples2;
   PyObject *__pyx_n_s_prev_people;
@@ -3518,6 +3574,7 @@ typedef struct {
   PyObject *__pyx_n_s_prob;
   PyObject *__pyx_n_s_prob_marry;
   PyObject *__pyx_n_s_prob_marry_immigrant;
+  PyObject *__pyx_n_s_profile;
   PyObject *__pyx_n_s_pyx_PickleError;
   PyObject *__pyx_n_s_pyx_checksum;
   PyObject *__pyx_n_s_pyx_result;
@@ -3600,9 +3657,11 @@ typedef struct {
   PyObject *__pyx_tuple__22;
   PyObject *__pyx_tuple__23;
   PyObject *__pyx_tuple__24;
+  PyObject *__pyx_tuple__25;
   PyObject *__pyx_tuple__26;
-  PyObject *__pyx_codeobj__25;
+  PyObject *__pyx_tuple__28;
   PyObject *__pyx_codeobj__27;
+  PyObject *__pyx_codeobj__29;
 } __pyx_mstate;
 
 #if CYTHON_USE_MODULE_STATE
@@ -3675,10 +3734,7 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_kp_s_Indirect_dimensions_not_supporte);
   Py_CLEAR(clear_module_state->__pyx_kp_u_Invalid_mode_expected_c_or_fortr);
   Py_CLEAR(clear_module_state->__pyx_kp_u_Invalid_shape_in_axis);
-  Py_CLEAR(clear_module_state->__pyx_kp_s_LINE_171);
   Py_CLEAR(clear_module_state->__pyx_kp_s_LINE_66);
-  Py_CLEAR(clear_module_state->__pyx_kp_s_LINE_70);
-  Py_CLEAR(clear_module_state->__pyx_kp_s_LINE_72);
   Py_CLEAR(clear_module_state->__pyx_kp_s_LINE_81);
   Py_CLEAR(clear_module_state->__pyx_n_s_MemoryError);
   Py_CLEAR(clear_module_state->__pyx_kp_s_MemoryView_of_r_at_0x_x);
@@ -3693,19 +3749,28 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_ValueError);
   Py_CLEAR(clear_module_state->__pyx_n_s_View_MemoryView);
   Py_CLEAR(clear_module_state->__pyx_kp_u__2);
-  Py_CLEAR(clear_module_state->__pyx_n_s__28);
   Py_CLEAR(clear_module_state->__pyx_n_s__3);
+  Py_CLEAR(clear_module_state->__pyx_n_s__30);
   Py_CLEAR(clear_module_state->__pyx_kp_u__6);
   Py_CLEAR(clear_module_state->__pyx_kp_u__7);
   Py_CLEAR(clear_module_state->__pyx_n_s_abc);
   Py_CLEAR(clear_module_state->__pyx_n_s_add_marriage_edges);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_after_couple);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_after_couple_index);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_after_first_for_loop);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_after_possible_inf_couples_array);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_after_second_for_loop);
   Py_CLEAR(clear_module_state->__pyx_n_s_allocate_buffer);
   Py_CLEAR(clear_module_state->__pyx_kp_u_and);
+  Py_CLEAR(clear_module_state->__pyx_n_s_array);
   Py_CLEAR(clear_module_state->__pyx_n_s_asyncio_coroutines);
   Py_CLEAR(clear_module_state->__pyx_n_s_base);
   Py_CLEAR(clear_module_state->__pyx_n_s_c);
   Py_CLEAR(clear_module_state->__pyx_n_u_c);
   Py_CLEAR(clear_module_state->__pyx_n_s_choice);
+  Py_CLEAR(clear_module_state->__pyx_n_s_ckeys);
+  Py_CLEAR(clear_module_state->__pyx_n_s_ckeys2);
+  Py_CLEAR(clear_module_state->__pyx_n_s_ckeys3);
   Py_CLEAR(clear_module_state->__pyx_n_s_class);
   Py_CLEAR(clear_module_state->__pyx_n_s_class_getitem);
   Py_CLEAR(clear_module_state->__pyx_n_s_cline_in_traceback);
@@ -3723,6 +3788,10 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_couple4);
   Py_CLEAR(clear_module_state->__pyx_n_s_couple6);
   Py_CLEAR(clear_module_state->__pyx_n_s_couple_index);
+  Py_CLEAR(clear_module_state->__pyx_n_s_cset);
+  Py_CLEAR(clear_module_state->__pyx_n_s_cvalues);
+  Py_CLEAR(clear_module_state->__pyx_n_s_cvalues2);
+  Py_CLEAR(clear_module_state->__pyx_n_s_cvalues3);
   Py_CLEAR(clear_module_state->__pyx_n_s_d);
   Py_CLEAR(clear_module_state->__pyx_n_s_d2);
   Py_CLEAR(clear_module_state->__pyx_n_s_d3);
@@ -3762,6 +3831,10 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_kp_u_got);
   Py_CLEAR(clear_module_state->__pyx_kp_u_got_differing_extents_in_dimensi);
   Py_CLEAR(clear_module_state->__pyx_n_s_i);
+  Py_CLEAR(clear_module_state->__pyx_n_s_i2);
+  Py_CLEAR(clear_module_state->__pyx_n_s_i3);
+  Py_CLEAR(clear_module_state->__pyx_n_s_i4);
+  Py_CLEAR(clear_module_state->__pyx_n_s_i5);
   Py_CLEAR(clear_module_state->__pyx_n_s_id);
   Py_CLEAR(clear_module_state->__pyx_n_s_immigrant);
   Py_CLEAR(clear_module_state->__pyx_n_s_immigrants);
@@ -3775,7 +3848,8 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_items);
   Py_CLEAR(clear_module_state->__pyx_n_s_itemsize);
   Py_CLEAR(clear_module_state->__pyx_kp_s_itemsize_0_for_cython_array);
-  Py_CLEAR(clear_module_state->__pyx_n_s_iter);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_iter2);
+  Py_CLEAR(clear_module_state->__pyx_n_s_iter2_2);
   Py_CLEAR(clear_module_state->__pyx_n_s_itertools);
   Py_CLEAR(clear_module_state->__pyx_n_s_k);
   Py_CLEAR(clear_module_state->__pyx_n_s_key);
@@ -3795,9 +3869,14 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_marriage_distances);
   Py_CLEAR(clear_module_state->__pyx_n_s_marriage_probs);
   Py_CLEAR(clear_module_state->__pyx_n_s_marry_strangers);
+  Py_CLEAR(clear_module_state->__pyx_n_s_memory_profiler);
   Py_CLEAR(clear_module_state->__pyx_n_s_memview);
   Py_CLEAR(clear_module_state->__pyx_n_s_minimum_permissible_distance);
   Py_CLEAR(clear_module_state->__pyx_n_s_mode);
+  Py_CLEAR(clear_module_state->__pyx_n_s_n);
+  Py_CLEAR(clear_module_state->__pyx_n_s_n2);
+  Py_CLEAR(clear_module_state->__pyx_n_s_n3);
+  Py_CLEAR(clear_module_state->__pyx_n_s_n4);
   Py_CLEAR(clear_module_state->__pyx_n_s_name);
   Py_CLEAR(clear_module_state->__pyx_n_s_name_2);
   Py_CLEAR(clear_module_state->__pyx_n_s_ndim);
@@ -3808,7 +3887,8 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_np);
   Py_CLEAR(clear_module_state->__pyx_n_s_num_finite_couples_to_marry);
   Py_CLEAR(clear_module_state->__pyx_n_s_num_immigrants);
-  Py_CLEAR(clear_module_state->__pyx_n_s_num_inf_couples_to_marry);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_num_inf_couples_to_marry);
+  Py_CLEAR(clear_module_state->__pyx_n_s_num_inf_couples_to_marry_2);
   Py_CLEAR(clear_module_state->__pyx_n_s_num_people);
   Py_CLEAR(clear_module_state->__pyx_n_s_numpy);
   Py_CLEAR(clear_module_state->__pyx_n_s_obj);
@@ -3828,6 +3908,7 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_possible_finite_couples_array);
   Py_CLEAR(clear_module_state->__pyx_n_s_possible_inf_couples);
   Py_CLEAR(clear_module_state->__pyx_n_s_possible_inf_couples_array);
+  Py_CLEAR(clear_module_state->__pyx_kp_s_possible_inf_couples_size);
   Py_CLEAR(clear_module_state->__pyx_n_s_preferred_couples);
   Py_CLEAR(clear_module_state->__pyx_n_s_preferred_couples2);
   Py_CLEAR(clear_module_state->__pyx_n_s_prev_people);
@@ -3835,6 +3916,7 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_prob);
   Py_CLEAR(clear_module_state->__pyx_n_s_prob_marry);
   Py_CLEAR(clear_module_state->__pyx_n_s_prob_marry_immigrant);
+  Py_CLEAR(clear_module_state->__pyx_n_s_profile);
   Py_CLEAR(clear_module_state->__pyx_n_s_pyx_PickleError);
   Py_CLEAR(clear_module_state->__pyx_n_s_pyx_checksum);
   Py_CLEAR(clear_module_state->__pyx_n_s_pyx_result);
@@ -3917,9 +3999,11 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_tuple__22);
   Py_CLEAR(clear_module_state->__pyx_tuple__23);
   Py_CLEAR(clear_module_state->__pyx_tuple__24);
+  Py_CLEAR(clear_module_state->__pyx_tuple__25);
   Py_CLEAR(clear_module_state->__pyx_tuple__26);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__25);
+  Py_CLEAR(clear_module_state->__pyx_tuple__28);
   Py_CLEAR(clear_module_state->__pyx_codeobj__27);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__29);
   return 0;
 }
 #endif
@@ -3970,10 +4054,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_kp_s_Indirect_dimensions_not_supporte);
   Py_VISIT(traverse_module_state->__pyx_kp_u_Invalid_mode_expected_c_or_fortr);
   Py_VISIT(traverse_module_state->__pyx_kp_u_Invalid_shape_in_axis);
-  Py_VISIT(traverse_module_state->__pyx_kp_s_LINE_171);
   Py_VISIT(traverse_module_state->__pyx_kp_s_LINE_66);
-  Py_VISIT(traverse_module_state->__pyx_kp_s_LINE_70);
-  Py_VISIT(traverse_module_state->__pyx_kp_s_LINE_72);
   Py_VISIT(traverse_module_state->__pyx_kp_s_LINE_81);
   Py_VISIT(traverse_module_state->__pyx_n_s_MemoryError);
   Py_VISIT(traverse_module_state->__pyx_kp_s_MemoryView_of_r_at_0x_x);
@@ -3988,19 +4069,28 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_ValueError);
   Py_VISIT(traverse_module_state->__pyx_n_s_View_MemoryView);
   Py_VISIT(traverse_module_state->__pyx_kp_u__2);
-  Py_VISIT(traverse_module_state->__pyx_n_s__28);
   Py_VISIT(traverse_module_state->__pyx_n_s__3);
+  Py_VISIT(traverse_module_state->__pyx_n_s__30);
   Py_VISIT(traverse_module_state->__pyx_kp_u__6);
   Py_VISIT(traverse_module_state->__pyx_kp_u__7);
   Py_VISIT(traverse_module_state->__pyx_n_s_abc);
   Py_VISIT(traverse_module_state->__pyx_n_s_add_marriage_edges);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_after_couple);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_after_couple_index);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_after_first_for_loop);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_after_possible_inf_couples_array);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_after_second_for_loop);
   Py_VISIT(traverse_module_state->__pyx_n_s_allocate_buffer);
   Py_VISIT(traverse_module_state->__pyx_kp_u_and);
+  Py_VISIT(traverse_module_state->__pyx_n_s_array);
   Py_VISIT(traverse_module_state->__pyx_n_s_asyncio_coroutines);
   Py_VISIT(traverse_module_state->__pyx_n_s_base);
   Py_VISIT(traverse_module_state->__pyx_n_s_c);
   Py_VISIT(traverse_module_state->__pyx_n_u_c);
   Py_VISIT(traverse_module_state->__pyx_n_s_choice);
+  Py_VISIT(traverse_module_state->__pyx_n_s_ckeys);
+  Py_VISIT(traverse_module_state->__pyx_n_s_ckeys2);
+  Py_VISIT(traverse_module_state->__pyx_n_s_ckeys3);
   Py_VISIT(traverse_module_state->__pyx_n_s_class);
   Py_VISIT(traverse_module_state->__pyx_n_s_class_getitem);
   Py_VISIT(traverse_module_state->__pyx_n_s_cline_in_traceback);
@@ -4018,6 +4108,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_couple4);
   Py_VISIT(traverse_module_state->__pyx_n_s_couple6);
   Py_VISIT(traverse_module_state->__pyx_n_s_couple_index);
+  Py_VISIT(traverse_module_state->__pyx_n_s_cset);
+  Py_VISIT(traverse_module_state->__pyx_n_s_cvalues);
+  Py_VISIT(traverse_module_state->__pyx_n_s_cvalues2);
+  Py_VISIT(traverse_module_state->__pyx_n_s_cvalues3);
   Py_VISIT(traverse_module_state->__pyx_n_s_d);
   Py_VISIT(traverse_module_state->__pyx_n_s_d2);
   Py_VISIT(traverse_module_state->__pyx_n_s_d3);
@@ -4057,6 +4151,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_kp_u_got);
   Py_VISIT(traverse_module_state->__pyx_kp_u_got_differing_extents_in_dimensi);
   Py_VISIT(traverse_module_state->__pyx_n_s_i);
+  Py_VISIT(traverse_module_state->__pyx_n_s_i2);
+  Py_VISIT(traverse_module_state->__pyx_n_s_i3);
+  Py_VISIT(traverse_module_state->__pyx_n_s_i4);
+  Py_VISIT(traverse_module_state->__pyx_n_s_i5);
   Py_VISIT(traverse_module_state->__pyx_n_s_id);
   Py_VISIT(traverse_module_state->__pyx_n_s_immigrant);
   Py_VISIT(traverse_module_state->__pyx_n_s_immigrants);
@@ -4070,7 +4168,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_items);
   Py_VISIT(traverse_module_state->__pyx_n_s_itemsize);
   Py_VISIT(traverse_module_state->__pyx_kp_s_itemsize_0_for_cython_array);
-  Py_VISIT(traverse_module_state->__pyx_n_s_iter);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_iter2);
+  Py_VISIT(traverse_module_state->__pyx_n_s_iter2_2);
   Py_VISIT(traverse_module_state->__pyx_n_s_itertools);
   Py_VISIT(traverse_module_state->__pyx_n_s_k);
   Py_VISIT(traverse_module_state->__pyx_n_s_key);
@@ -4090,9 +4189,14 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_marriage_distances);
   Py_VISIT(traverse_module_state->__pyx_n_s_marriage_probs);
   Py_VISIT(traverse_module_state->__pyx_n_s_marry_strangers);
+  Py_VISIT(traverse_module_state->__pyx_n_s_memory_profiler);
   Py_VISIT(traverse_module_state->__pyx_n_s_memview);
   Py_VISIT(traverse_module_state->__pyx_n_s_minimum_permissible_distance);
   Py_VISIT(traverse_module_state->__pyx_n_s_mode);
+  Py_VISIT(traverse_module_state->__pyx_n_s_n);
+  Py_VISIT(traverse_module_state->__pyx_n_s_n2);
+  Py_VISIT(traverse_module_state->__pyx_n_s_n3);
+  Py_VISIT(traverse_module_state->__pyx_n_s_n4);
   Py_VISIT(traverse_module_state->__pyx_n_s_name);
   Py_VISIT(traverse_module_state->__pyx_n_s_name_2);
   Py_VISIT(traverse_module_state->__pyx_n_s_ndim);
@@ -4103,7 +4207,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_np);
   Py_VISIT(traverse_module_state->__pyx_n_s_num_finite_couples_to_marry);
   Py_VISIT(traverse_module_state->__pyx_n_s_num_immigrants);
-  Py_VISIT(traverse_module_state->__pyx_n_s_num_inf_couples_to_marry);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_num_inf_couples_to_marry);
+  Py_VISIT(traverse_module_state->__pyx_n_s_num_inf_couples_to_marry_2);
   Py_VISIT(traverse_module_state->__pyx_n_s_num_people);
   Py_VISIT(traverse_module_state->__pyx_n_s_numpy);
   Py_VISIT(traverse_module_state->__pyx_n_s_obj);
@@ -4123,6 +4228,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_possible_finite_couples_array);
   Py_VISIT(traverse_module_state->__pyx_n_s_possible_inf_couples);
   Py_VISIT(traverse_module_state->__pyx_n_s_possible_inf_couples_array);
+  Py_VISIT(traverse_module_state->__pyx_kp_s_possible_inf_couples_size);
   Py_VISIT(traverse_module_state->__pyx_n_s_preferred_couples);
   Py_VISIT(traverse_module_state->__pyx_n_s_preferred_couples2);
   Py_VISIT(traverse_module_state->__pyx_n_s_prev_people);
@@ -4130,6 +4236,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_prob);
   Py_VISIT(traverse_module_state->__pyx_n_s_prob_marry);
   Py_VISIT(traverse_module_state->__pyx_n_s_prob_marry_immigrant);
+  Py_VISIT(traverse_module_state->__pyx_n_s_profile);
   Py_VISIT(traverse_module_state->__pyx_n_s_pyx_PickleError);
   Py_VISIT(traverse_module_state->__pyx_n_s_pyx_checksum);
   Py_VISIT(traverse_module_state->__pyx_n_s_pyx_result);
@@ -4212,9 +4319,11 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_tuple__22);
   Py_VISIT(traverse_module_state->__pyx_tuple__23);
   Py_VISIT(traverse_module_state->__pyx_tuple__24);
+  Py_VISIT(traverse_module_state->__pyx_tuple__25);
   Py_VISIT(traverse_module_state->__pyx_tuple__26);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__25);
+  Py_VISIT(traverse_module_state->__pyx_tuple__28);
   Py_VISIT(traverse_module_state->__pyx_codeobj__27);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__29);
   return 0;
 }
 #endif
@@ -4275,10 +4384,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_kp_s_Indirect_dimensions_not_supporte __pyx_mstate_global->__pyx_kp_s_Indirect_dimensions_not_supporte
 #define __pyx_kp_u_Invalid_mode_expected_c_or_fortr __pyx_mstate_global->__pyx_kp_u_Invalid_mode_expected_c_or_fortr
 #define __pyx_kp_u_Invalid_shape_in_axis __pyx_mstate_global->__pyx_kp_u_Invalid_shape_in_axis
-#define __pyx_kp_s_LINE_171 __pyx_mstate_global->__pyx_kp_s_LINE_171
 #define __pyx_kp_s_LINE_66 __pyx_mstate_global->__pyx_kp_s_LINE_66
-#define __pyx_kp_s_LINE_70 __pyx_mstate_global->__pyx_kp_s_LINE_70
-#define __pyx_kp_s_LINE_72 __pyx_mstate_global->__pyx_kp_s_LINE_72
 #define __pyx_kp_s_LINE_81 __pyx_mstate_global->__pyx_kp_s_LINE_81
 #define __pyx_n_s_MemoryError __pyx_mstate_global->__pyx_n_s_MemoryError
 #define __pyx_kp_s_MemoryView_of_r_at_0x_x __pyx_mstate_global->__pyx_kp_s_MemoryView_of_r_at_0x_x
@@ -4293,19 +4399,28 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_ValueError __pyx_mstate_global->__pyx_n_s_ValueError
 #define __pyx_n_s_View_MemoryView __pyx_mstate_global->__pyx_n_s_View_MemoryView
 #define __pyx_kp_u__2 __pyx_mstate_global->__pyx_kp_u__2
-#define __pyx_n_s__28 __pyx_mstate_global->__pyx_n_s__28
 #define __pyx_n_s__3 __pyx_mstate_global->__pyx_n_s__3
+#define __pyx_n_s__30 __pyx_mstate_global->__pyx_n_s__30
 #define __pyx_kp_u__6 __pyx_mstate_global->__pyx_kp_u__6
 #define __pyx_kp_u__7 __pyx_mstate_global->__pyx_kp_u__7
 #define __pyx_n_s_abc __pyx_mstate_global->__pyx_n_s_abc
 #define __pyx_n_s_add_marriage_edges __pyx_mstate_global->__pyx_n_s_add_marriage_edges
+#define __pyx_kp_s_after_couple __pyx_mstate_global->__pyx_kp_s_after_couple
+#define __pyx_kp_s_after_couple_index __pyx_mstate_global->__pyx_kp_s_after_couple_index
+#define __pyx_kp_s_after_first_for_loop __pyx_mstate_global->__pyx_kp_s_after_first_for_loop
+#define __pyx_kp_s_after_possible_inf_couples_array __pyx_mstate_global->__pyx_kp_s_after_possible_inf_couples_array
+#define __pyx_kp_s_after_second_for_loop __pyx_mstate_global->__pyx_kp_s_after_second_for_loop
 #define __pyx_n_s_allocate_buffer __pyx_mstate_global->__pyx_n_s_allocate_buffer
 #define __pyx_kp_u_and __pyx_mstate_global->__pyx_kp_u_and
+#define __pyx_n_s_array __pyx_mstate_global->__pyx_n_s_array
 #define __pyx_n_s_asyncio_coroutines __pyx_mstate_global->__pyx_n_s_asyncio_coroutines
 #define __pyx_n_s_base __pyx_mstate_global->__pyx_n_s_base
 #define __pyx_n_s_c __pyx_mstate_global->__pyx_n_s_c
 #define __pyx_n_u_c __pyx_mstate_global->__pyx_n_u_c
 #define __pyx_n_s_choice __pyx_mstate_global->__pyx_n_s_choice
+#define __pyx_n_s_ckeys __pyx_mstate_global->__pyx_n_s_ckeys
+#define __pyx_n_s_ckeys2 __pyx_mstate_global->__pyx_n_s_ckeys2
+#define __pyx_n_s_ckeys3 __pyx_mstate_global->__pyx_n_s_ckeys3
 #define __pyx_n_s_class __pyx_mstate_global->__pyx_n_s_class
 #define __pyx_n_s_class_getitem __pyx_mstate_global->__pyx_n_s_class_getitem
 #define __pyx_n_s_cline_in_traceback __pyx_mstate_global->__pyx_n_s_cline_in_traceback
@@ -4323,6 +4438,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_couple4 __pyx_mstate_global->__pyx_n_s_couple4
 #define __pyx_n_s_couple6 __pyx_mstate_global->__pyx_n_s_couple6
 #define __pyx_n_s_couple_index __pyx_mstate_global->__pyx_n_s_couple_index
+#define __pyx_n_s_cset __pyx_mstate_global->__pyx_n_s_cset
+#define __pyx_n_s_cvalues __pyx_mstate_global->__pyx_n_s_cvalues
+#define __pyx_n_s_cvalues2 __pyx_mstate_global->__pyx_n_s_cvalues2
+#define __pyx_n_s_cvalues3 __pyx_mstate_global->__pyx_n_s_cvalues3
 #define __pyx_n_s_d __pyx_mstate_global->__pyx_n_s_d
 #define __pyx_n_s_d2 __pyx_mstate_global->__pyx_n_s_d2
 #define __pyx_n_s_d3 __pyx_mstate_global->__pyx_n_s_d3
@@ -4362,6 +4481,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_kp_u_got __pyx_mstate_global->__pyx_kp_u_got
 #define __pyx_kp_u_got_differing_extents_in_dimensi __pyx_mstate_global->__pyx_kp_u_got_differing_extents_in_dimensi
 #define __pyx_n_s_i __pyx_mstate_global->__pyx_n_s_i
+#define __pyx_n_s_i2 __pyx_mstate_global->__pyx_n_s_i2
+#define __pyx_n_s_i3 __pyx_mstate_global->__pyx_n_s_i3
+#define __pyx_n_s_i4 __pyx_mstate_global->__pyx_n_s_i4
+#define __pyx_n_s_i5 __pyx_mstate_global->__pyx_n_s_i5
 #define __pyx_n_s_id __pyx_mstate_global->__pyx_n_s_id
 #define __pyx_n_s_immigrant __pyx_mstate_global->__pyx_n_s_immigrant
 #define __pyx_n_s_immigrants __pyx_mstate_global->__pyx_n_s_immigrants
@@ -4375,7 +4498,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_items __pyx_mstate_global->__pyx_n_s_items
 #define __pyx_n_s_itemsize __pyx_mstate_global->__pyx_n_s_itemsize
 #define __pyx_kp_s_itemsize_0_for_cython_array __pyx_mstate_global->__pyx_kp_s_itemsize_0_for_cython_array
-#define __pyx_n_s_iter __pyx_mstate_global->__pyx_n_s_iter
+#define __pyx_kp_s_iter2 __pyx_mstate_global->__pyx_kp_s_iter2
+#define __pyx_n_s_iter2_2 __pyx_mstate_global->__pyx_n_s_iter2_2
 #define __pyx_n_s_itertools __pyx_mstate_global->__pyx_n_s_itertools
 #define __pyx_n_s_k __pyx_mstate_global->__pyx_n_s_k
 #define __pyx_n_s_key __pyx_mstate_global->__pyx_n_s_key
@@ -4395,9 +4519,14 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_marriage_distances __pyx_mstate_global->__pyx_n_s_marriage_distances
 #define __pyx_n_s_marriage_probs __pyx_mstate_global->__pyx_n_s_marriage_probs
 #define __pyx_n_s_marry_strangers __pyx_mstate_global->__pyx_n_s_marry_strangers
+#define __pyx_n_s_memory_profiler __pyx_mstate_global->__pyx_n_s_memory_profiler
 #define __pyx_n_s_memview __pyx_mstate_global->__pyx_n_s_memview
 #define __pyx_n_s_minimum_permissible_distance __pyx_mstate_global->__pyx_n_s_minimum_permissible_distance
 #define __pyx_n_s_mode __pyx_mstate_global->__pyx_n_s_mode
+#define __pyx_n_s_n __pyx_mstate_global->__pyx_n_s_n
+#define __pyx_n_s_n2 __pyx_mstate_global->__pyx_n_s_n2
+#define __pyx_n_s_n3 __pyx_mstate_global->__pyx_n_s_n3
+#define __pyx_n_s_n4 __pyx_mstate_global->__pyx_n_s_n4
 #define __pyx_n_s_name __pyx_mstate_global->__pyx_n_s_name
 #define __pyx_n_s_name_2 __pyx_mstate_global->__pyx_n_s_name_2
 #define __pyx_n_s_ndim __pyx_mstate_global->__pyx_n_s_ndim
@@ -4408,7 +4537,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_np __pyx_mstate_global->__pyx_n_s_np
 #define __pyx_n_s_num_finite_couples_to_marry __pyx_mstate_global->__pyx_n_s_num_finite_couples_to_marry
 #define __pyx_n_s_num_immigrants __pyx_mstate_global->__pyx_n_s_num_immigrants
-#define __pyx_n_s_num_inf_couples_to_marry __pyx_mstate_global->__pyx_n_s_num_inf_couples_to_marry
+#define __pyx_kp_s_num_inf_couples_to_marry __pyx_mstate_global->__pyx_kp_s_num_inf_couples_to_marry
+#define __pyx_n_s_num_inf_couples_to_marry_2 __pyx_mstate_global->__pyx_n_s_num_inf_couples_to_marry_2
 #define __pyx_n_s_num_people __pyx_mstate_global->__pyx_n_s_num_people
 #define __pyx_n_s_numpy __pyx_mstate_global->__pyx_n_s_numpy
 #define __pyx_n_s_obj __pyx_mstate_global->__pyx_n_s_obj
@@ -4428,6 +4558,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_possible_finite_couples_array __pyx_mstate_global->__pyx_n_s_possible_finite_couples_array
 #define __pyx_n_s_possible_inf_couples __pyx_mstate_global->__pyx_n_s_possible_inf_couples
 #define __pyx_n_s_possible_inf_couples_array __pyx_mstate_global->__pyx_n_s_possible_inf_couples_array
+#define __pyx_kp_s_possible_inf_couples_size __pyx_mstate_global->__pyx_kp_s_possible_inf_couples_size
 #define __pyx_n_s_preferred_couples __pyx_mstate_global->__pyx_n_s_preferred_couples
 #define __pyx_n_s_preferred_couples2 __pyx_mstate_global->__pyx_n_s_preferred_couples2
 #define __pyx_n_s_prev_people __pyx_mstate_global->__pyx_n_s_prev_people
@@ -4435,6 +4566,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_prob __pyx_mstate_global->__pyx_n_s_prob
 #define __pyx_n_s_prob_marry __pyx_mstate_global->__pyx_n_s_prob_marry
 #define __pyx_n_s_prob_marry_immigrant __pyx_mstate_global->__pyx_n_s_prob_marry_immigrant
+#define __pyx_n_s_profile __pyx_mstate_global->__pyx_n_s_profile
 #define __pyx_n_s_pyx_PickleError __pyx_mstate_global->__pyx_n_s_pyx_PickleError
 #define __pyx_n_s_pyx_checksum __pyx_mstate_global->__pyx_n_s_pyx_checksum
 #define __pyx_n_s_pyx_result __pyx_mstate_global->__pyx_n_s_pyx_result
@@ -4517,9 +4649,11 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_tuple__22 __pyx_mstate_global->__pyx_tuple__22
 #define __pyx_tuple__23 __pyx_mstate_global->__pyx_tuple__23
 #define __pyx_tuple__24 __pyx_mstate_global->__pyx_tuple__24
+#define __pyx_tuple__25 __pyx_mstate_global->__pyx_tuple__25
 #define __pyx_tuple__26 __pyx_mstate_global->__pyx_tuple__26
-#define __pyx_codeobj__25 __pyx_mstate_global->__pyx_codeobj__25
+#define __pyx_tuple__28 __pyx_mstate_global->__pyx_tuple__28
 #define __pyx_codeobj__27 __pyx_mstate_global->__pyx_codeobj__27
+#define __pyx_codeobj__29 __pyx_mstate_global->__pyx_codeobj__29
 /* #### Code section: module_code ### */
 
 /* "View.MemoryView":131
@@ -18244,12 +18378,12 @@ static PyObject *__pyx_unpickle_Enum__set_state(struct __pyx_MemviewEnum_obj *__
   return __pyx_r;
 }
 
-/* "marriage_code.pyx":5
- * import random
+/* "marriage_code.pyx":6
+ * from memory_profiler import profile
  * 
- * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,             # <<<<<<<<<<<<<<
+ * @profile             # <<<<<<<<<<<<<<
+ * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
  *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
- *                        dict indices, list original_marriage_dist,
  */
 
 /* Python wrapper */
@@ -18295,7 +18429,7 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
   __pyx_nargs = PyTuple_GET_SIZE(__pyx_args);
   #else
   __pyx_nargs = PyTuple_Size(__pyx_args);
-  if (unlikely((__pyx_nargs < 0))) __PYX_ERR(0, 5, __pyx_L3_error)
+  if (unlikely((__pyx_nargs < 0))) __PYX_ERR(0, 6, __pyx_L3_error)
   #endif
   #endif
   __pyx_kwvalues = __Pyx_KwValues_FASTCALL(__pyx_args, __pyx_nargs);
@@ -18336,7 +18470,7 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[0]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else goto __pyx_L5_argtuple_error;
         CYTHON_FALLTHROUGH;
         case  1:
@@ -18344,9 +18478,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[1]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 1); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 1); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  2:
@@ -18354,9 +18488,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[2]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 2); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 2); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  3:
@@ -18364,9 +18498,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[3]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 3); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 3); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  4:
@@ -18374,9 +18508,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[4]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 4); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 4); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  5:
@@ -18384,9 +18518,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[5]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 5); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 5); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  6:
@@ -18394,9 +18528,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[6]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 6); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 6); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  7:
@@ -18404,9 +18538,9 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[7]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 7); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 7); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  8:
@@ -18414,28 +18548,28 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
           (void)__Pyx_Arg_NewRef_FASTCALL(values[8]);
           kw_args--;
         }
-        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+        else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         else {
-          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 8); __PYX_ERR(0, 5, __pyx_L3_error)
+          __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, 8); __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case  9:
         if (kw_args > 0) {
           PyObject* value = __Pyx_GetKwValue_FASTCALL(__pyx_kwds, __pyx_kwvalues, __pyx_n_s_tol);
           if (value) { values[9] = __Pyx_Arg_NewRef_FASTCALL(value); kw_args--; }
-          else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+          else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         }
         CYTHON_FALLTHROUGH;
         case 10:
         if (kw_args > 0) {
           PyObject* value = __Pyx_GetKwValue_FASTCALL(__pyx_kwds, __pyx_kwvalues, __pyx_n_s_eps);
           if (value) { values[10] = __Pyx_Arg_NewRef_FASTCALL(value); kw_args--; }
-          else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+          else if (unlikely(PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
         }
       }
       if (unlikely(kw_args > 0)) {
         const Py_ssize_t kwd_pos_args = __pyx_nargs;
-        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_kwvalues, __pyx_pyargnames, 0, values + 0, kwd_pos_args, "add_marriage_edges") < 0)) __PYX_ERR(0, 5, __pyx_L3_error)
+        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_kwvalues, __pyx_pyargnames, 0, values + 0, kwd_pos_args, "add_marriage_edges") < 0)) __PYX_ERR(0, 6, __pyx_L3_error)
       }
     } else {
       switch (__pyx_nargs) {
@@ -18458,27 +18592,27 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
     }
     __pyx_v_people = ((PyObject*)values[0]);
     __pyx_v_prev_people = ((PyObject*)values[1]);
-    __pyx_v_num_people = __Pyx_PyInt_As_int(values[2]); if (unlikely((__pyx_v_num_people == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 5, __pyx_L3_error)
+    __pyx_v_num_people = __Pyx_PyInt_As_int(values[2]); if (unlikely((__pyx_v_num_people == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 7, __pyx_L3_error)
     __pyx_v_marriage_probs = ((PyObject*)values[3]);
-    __pyx_v_prob_marry_immigrant = __pyx_PyFloat_AsFloat(values[4]); if (unlikely((__pyx_v_prob_marry_immigrant == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
-    __pyx_v_prob_marry = __pyx_PyFloat_AsFloat(values[5]); if (unlikely((__pyx_v_prob_marry == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 6, __pyx_L3_error)
-    __pyx_v_D = __Pyx_PyObject_to_MemoryviewSlice_d_dc_double(values[6], PyBUF_WRITABLE); if (unlikely(!__pyx_v_D.memview)) __PYX_ERR(0, 6, __pyx_L3_error)
+    __pyx_v_prob_marry_immigrant = __pyx_PyFloat_AsFloat(values[4]); if (unlikely((__pyx_v_prob_marry_immigrant == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 8, __pyx_L3_error)
+    __pyx_v_prob_marry = __pyx_PyFloat_AsFloat(values[5]); if (unlikely((__pyx_v_prob_marry == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 8, __pyx_L3_error)
+    __pyx_v_D = __Pyx_PyObject_to_MemoryviewSlice_d_dc_double(values[6], PyBUF_WRITABLE); if (unlikely(!__pyx_v_D.memview)) __PYX_ERR(0, 8, __pyx_L3_error)
     __pyx_v_indices = ((PyObject*)values[7]);
     __pyx_v_original_marriage_dist = ((PyObject*)values[8]);
     if (values[9]) {
-      __pyx_v_tol = __pyx_PyFloat_AsDouble(values[9]); if (unlikely((__pyx_v_tol == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 8, __pyx_L3_error)
+      __pyx_v_tol = __pyx_PyFloat_AsDouble(values[9]); if (unlikely((__pyx_v_tol == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 10, __pyx_L3_error)
     } else {
       __pyx_v_tol = ((double)((double)0.0));
     }
     if (values[10]) {
-      __pyx_v_eps = __pyx_PyFloat_AsDouble(values[10]); if (unlikely((__pyx_v_eps == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 8, __pyx_L3_error)
+      __pyx_v_eps = __pyx_PyFloat_AsDouble(values[10]); if (unlikely((__pyx_v_eps == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 10, __pyx_L3_error)
     } else {
       __pyx_v_eps = ((double)((double)1e-7));
     }
   }
   goto __pyx_L4_argument_unpacking_done;
   __pyx_L5_argtuple_error:;
-  __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, __pyx_nargs); __PYX_ERR(0, 5, __pyx_L3_error)
+  __Pyx_RaiseArgtupleInvalid("add_marriage_edges", 0, 9, 11, __pyx_nargs); __PYX_ERR(0, 6, __pyx_L3_error)
   goto __pyx_L3_error;
   __pyx_L3_error:;
   {
@@ -18492,11 +18626,11 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
   __Pyx_RefNannyFinishContext();
   return NULL;
   __pyx_L4_argument_unpacking_done:;
-  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_people), (&PyList_Type), 1, "people", 1))) __PYX_ERR(0, 5, __pyx_L1_error)
-  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_prev_people), (&PyList_Type), 1, "prev_people", 1))) __PYX_ERR(0, 5, __pyx_L1_error)
-  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_marriage_probs), (&PyDict_Type), 1, "marriage_probs", 1))) __PYX_ERR(0, 5, __pyx_L1_error)
-  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_indices), (&PyDict_Type), 1, "indices", 1))) __PYX_ERR(0, 7, __pyx_L1_error)
-  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_original_marriage_dist), (&PyList_Type), 1, "original_marriage_dist", 1))) __PYX_ERR(0, 7, __pyx_L1_error)
+  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_people), (&PyList_Type), 1, "people", 1))) __PYX_ERR(0, 7, __pyx_L1_error)
+  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_prev_people), (&PyList_Type), 1, "prev_people", 1))) __PYX_ERR(0, 7, __pyx_L1_error)
+  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_marriage_probs), (&PyDict_Type), 1, "marriage_probs", 1))) __PYX_ERR(0, 7, __pyx_L1_error)
+  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_indices), (&PyDict_Type), 1, "indices", 1))) __PYX_ERR(0, 9, __pyx_L1_error)
+  if (unlikely(!__Pyx_ArgTypeTest(((PyObject *)__pyx_v_original_marriage_dist), (&PyList_Type), 1, "original_marriage_dist", 1))) __PYX_ERR(0, 9, __pyx_L1_error)
   __pyx_r = __pyx_pf_13marriage_code_add_marriage_edges(__pyx_self, __pyx_v_people, __pyx_v_prev_people, __pyx_v_num_people, __pyx_v_marriage_probs, __pyx_v_prob_marry_immigrant, __pyx_v_prob_marry, __pyx_v_D, __pyx_v_indices, __pyx_v_original_marriage_dist, __pyx_v_tol, __pyx_v_eps);
 
   /* function exit code */
@@ -18542,12 +18676,20 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   float __pyx_v_man3;
   float __pyx_v_woman3;
   PyObject *__pyx_v_preferred_couples = 0;
-  float __pyx_v_couple1;
+  __Pyx_memviewslice __pyx_v_couple1 = { 0, 0, { 0 }, { 0 }, { 0 } };
   float __pyx_v_distance1;
+  PyObject *__pyx_v_ckeys = NULL;
+  PyObject *__pyx_v_cvalues = NULL;
+  int __pyx_v_n;
+  int __pyx_v_i2;
   PyObject *__pyx_v_other_couples = 0;
-  float __pyx_v_couple2;
+  __Pyx_memviewslice __pyx_v_couple2 = { 0, 0, { 0 }, { 0 }, { 0 } };
   float __pyx_v_distance2;
-  float __pyx_v_iter;
+  PyObject *__pyx_v_ckeys2 = NULL;
+  PyObject *__pyx_v_cvalues2 = NULL;
+  int __pyx_v_n2;
+  int __pyx_v_i3;
+  float __pyx_v_iter2;
   PyObject *__pyx_v_dis_probs = 0;
   PyObject *__pyx_v_dis_probs_pre = 0;
   PyObject *__pyx_v_dis_probs2 = 0;
@@ -18585,12 +18727,19 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   float __pyx_v_woman5;
   int __pyx_v_man_idx2;
   int __pyx_v_woman_idx2;
-  float __pyx_v_pair20;
+  __Pyx_memviewslice __pyx_v_pair20 = { 0, 0, { 0 }, { 0 }, { 0 } };
   float __pyx_v_distance20;
   PyObject *__pyx_v_stay_single_forever2 = 0;
-  float __pyx_v_couple30;
+  __Pyx_memviewslice __pyx_v_couple30 = { 0, 0, { 0 }, { 0 }, { 0 } };
   float __pyx_v_man30;
+  int __pyx_v_n3;
+  int __pyx_v_n4;
   PyObject *__pyx_v_possible_inf_couples_array = NULL;
+  PyObject *__pyx_v_ckeys3 = NULL;
+  PyObject *__pyx_v_cvalues3 = NULL;
+  long __pyx_v_i4;
+  PyObject *__pyx_v_cset = NULL;
+  long __pyx_v_i5;
   double __pyx_v_num_immigrants;
   PyObject *__pyx_v_immigrants = 0;
   float __pyx_v_i;
@@ -18619,48 +18768,52 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   Py_ssize_t __pyx_t_18;
   Py_ssize_t __pyx_t_19;
   Py_ssize_t __pyx_t_20;
-  int __pyx_t_21;
-  double __pyx_t_22;
-  PyObject *__pyx_t_23 = NULL;
-  PyObject *__pyx_t_24 = NULL;
-  PyObject *__pyx_t_25 = NULL;
-  char const *__pyx_t_26;
+  long __pyx_t_21;
+  long __pyx_t_22;
+  __Pyx_memviewslice __pyx_t_23 = { 0, 0, { 0 }, { 0 }, { 0 } };
+  int __pyx_t_24;
+  double __pyx_t_25;
+  PyObject *__pyx_t_26 = NULL;
   PyObject *__pyx_t_27 = NULL;
   PyObject *__pyx_t_28 = NULL;
-  PyObject *__pyx_t_29 = NULL;
+  char const *__pyx_t_29;
   PyObject *__pyx_t_30 = NULL;
   PyObject *__pyx_t_31 = NULL;
   PyObject *__pyx_t_32 = NULL;
-  double __pyx_t_33;
+  PyObject *__pyx_t_33 = NULL;
+  PyObject *__pyx_t_34 = NULL;
+  PyObject *__pyx_t_35 = NULL;
+  long __pyx_t_36;
+  double __pyx_t_37;
   int __pyx_lineno = 0;
   const char *__pyx_filename = NULL;
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("add_marriage_edges", 0);
 
-  /* "marriage_code.pyx":9
+  /* "marriage_code.pyx":11
  *                        dict indices, list original_marriage_dist,
  *                        double tol=0, double eps=1e-7):
  *     print("I'M IN ADD MARRIAGE EDGES FUNCTION")             # <<<<<<<<<<<<<<
  *     cdef dict finite_marriage_probs = {}
  *     cdef float key
  */
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 9, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 11, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":10
+  /* "marriage_code.pyx":12
  *                        double tol=0, double eps=1e-7):
  *     print("I'M IN ADD MARRIAGE EDGES FUNCTION")
  *     cdef dict finite_marriage_probs = {}             # <<<<<<<<<<<<<<
  *     cdef float key
  *     cdef float val
  */
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 10, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 12, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_finite_marriage_probs = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":13
+  /* "marriage_code.pyx":15
  *     cdef float key
  *     cdef float val
  *     for key, val in marriage_probs.items():             # <<<<<<<<<<<<<<
@@ -18670,9 +18823,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   __pyx_t_2 = 0;
   if (unlikely(__pyx_v_marriage_probs == Py_None)) {
     PyErr_Format(PyExc_AttributeError, "'NoneType' object has no attribute '%.30s'", "items");
-    __PYX_ERR(0, 13, __pyx_L1_error)
+    __PYX_ERR(0, 15, __pyx_L1_error)
   }
-  __pyx_t_5 = __Pyx_dict_iterator(__pyx_v_marriage_probs, 1, __pyx_n_s_items, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 13, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_dict_iterator(__pyx_v_marriage_probs, 1, __pyx_n_s_items, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 15, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_XDECREF(__pyx_t_1);
   __pyx_t_1 = __pyx_t_5;
@@ -18680,17 +18833,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   while (1) {
     __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_3, &__pyx_t_2, &__pyx_t_5, &__pyx_t_6, NULL, __pyx_t_4);
     if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 13, __pyx_L1_error)
+    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 15, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 13, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 15, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 13, __pyx_L1_error)
+    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 15, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_v_key = __pyx_t_8;
     __pyx_v_val = __pyx_t_9;
 
-    /* "marriage_code.pyx":14
+    /* "marriage_code.pyx":16
  *     cdef float val
  *     for key, val in marriage_probs.items():
  *         if key > 0:             # <<<<<<<<<<<<<<
@@ -18700,22 +18853,22 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_10 = (__pyx_v_key > 0.0);
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":15
+      /* "marriage_code.pyx":17
  *     for key, val in marriage_probs.items():
  *         if key > 0:
  *             finite_marriage_probs[key] = val             # <<<<<<<<<<<<<<
  * 
  *     cdef list desired_finite_distances = []
  */
-      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_val); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 15, __pyx_L1_error)
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_val); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 17, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_key); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 15, __pyx_L1_error)
+      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_key); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 17, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
-      if (unlikely((PyDict_SetItem(__pyx_v_finite_marriage_probs, __pyx_t_5, __pyx_t_6) < 0))) __PYX_ERR(0, 15, __pyx_L1_error)
+      if (unlikely((PyDict_SetItem(__pyx_v_finite_marriage_probs, __pyx_t_5, __pyx_t_6) < 0))) __PYX_ERR(0, 17, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-      /* "marriage_code.pyx":14
+      /* "marriage_code.pyx":16
  *     cdef float val
  *     for key, val in marriage_probs.items():
  *         if key > 0:             # <<<<<<<<<<<<<<
@@ -18726,19 +18879,19 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":17
+  /* "marriage_code.pyx":19
  *             finite_marriage_probs[key] = val
  * 
  *     cdef list desired_finite_distances = []             # <<<<<<<<<<<<<<
  *     cdef float distance
  *     cdef float prob
  */
-  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 17, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 19, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_desired_finite_distances = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":20
+  /* "marriage_code.pyx":22
  *     cdef float distance
  *     cdef float prob
  *     for distance, prob in finite_marriage_probs.items():             # <<<<<<<<<<<<<<
@@ -18746,7 +18899,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *             desired_finite_distances.append(distance)
  */
   __pyx_t_3 = 0;
-  __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_finite_marriage_probs, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_4)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 20, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_finite_marriage_probs, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_4)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 22, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_XDECREF(__pyx_t_1);
   __pyx_t_1 = __pyx_t_6;
@@ -18754,17 +18907,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   while (1) {
     __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_2, &__pyx_t_3, &__pyx_t_6, &__pyx_t_5, NULL, __pyx_t_4);
     if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 20, __pyx_L1_error)
+    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 22, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 20, __pyx_L1_error)
+    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 22, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 20, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 22, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_v_distance = __pyx_t_9;
     __pyx_v_prob = __pyx_t_8;
 
-    /* "marriage_code.pyx":21
+    /* "marriage_code.pyx":23
  *     cdef float prob
  *     for distance, prob in finite_marriage_probs.items():
  *         if prob > 0:             # <<<<<<<<<<<<<<
@@ -18774,19 +18927,19 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_10 = (__pyx_v_prob > 0.0);
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":22
+      /* "marriage_code.pyx":24
  *     for distance, prob in finite_marriage_probs.items():
  *         if prob > 0:
  *             desired_finite_distances.append(distance)             # <<<<<<<<<<<<<<
  * 
  *     cdef float minimum_permissible_distance = -1
  */
-      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_distance); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 22, __pyx_L1_error)
+      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_distance); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 24, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_desired_finite_distances, __pyx_t_5); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 22, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_desired_finite_distances, __pyx_t_5); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 24, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-      /* "marriage_code.pyx":21
+      /* "marriage_code.pyx":23
  *     cdef float prob
  *     for distance, prob in finite_marriage_probs.items():
  *         if prob > 0:             # <<<<<<<<<<<<<<
@@ -18797,7 +18950,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":24
+  /* "marriage_code.pyx":26
  *             desired_finite_distances.append(distance)
  * 
  *     cdef float minimum_permissible_distance = -1             # <<<<<<<<<<<<<<
@@ -18806,7 +18959,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   __pyx_v_minimum_permissible_distance = -1.0;
 
-  /* "marriage_code.pyx":26
+  /* "marriage_code.pyx":28
  *     cdef float minimum_permissible_distance = -1
  *     cdef float k
  *     for k in original_marriage_dist:             # <<<<<<<<<<<<<<
@@ -18815,22 +18968,22 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   if (unlikely(__pyx_v_original_marriage_dist == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not iterable");
-    __PYX_ERR(0, 26, __pyx_L1_error)
+    __PYX_ERR(0, 28, __pyx_L1_error)
   }
   __pyx_t_1 = __pyx_v_original_marriage_dist; __Pyx_INCREF(__pyx_t_1); __pyx_t_2 = 0;
   for (;;) {
     if (__pyx_t_2 >= PyList_GET_SIZE(__pyx_t_1)) break;
     #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-    __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_2); __Pyx_INCREF(__pyx_t_5); __pyx_t_2++; if (unlikely((0 < 0))) __PYX_ERR(0, 26, __pyx_L1_error)
+    __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_2); __Pyx_INCREF(__pyx_t_5); __pyx_t_2++; if (unlikely((0 < 0))) __PYX_ERR(0, 28, __pyx_L1_error)
     #else
-    __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_2); __pyx_t_2++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 26, __pyx_L1_error)
+    __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_2); __pyx_t_2++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 28, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     #endif
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 26, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 28, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_v_k = __pyx_t_8;
 
-    /* "marriage_code.pyx":27
+    /* "marriage_code.pyx":29
  *     cdef float k
  *     for k in original_marriage_dist:
  *         if k > -1:             # <<<<<<<<<<<<<<
@@ -18840,7 +18993,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_10 = (__pyx_v_k > -1.0);
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":28
+      /* "marriage_code.pyx":30
  *     for k in original_marriage_dist:
  *         if k > -1:
  *             minimum_permissible_distance = min(minimum_permissible_distance, k)             # <<<<<<<<<<<<<<
@@ -18857,7 +19010,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       }
       __pyx_v_minimum_permissible_distance = __pyx_t_12;
 
-      /* "marriage_code.pyx":27
+      /* "marriage_code.pyx":29
  *     cdef float k
  *     for k in original_marriage_dist:
  *         if k > -1:             # <<<<<<<<<<<<<<
@@ -18866,7 +19019,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     }
 
-    /* "marriage_code.pyx":26
+    /* "marriage_code.pyx":28
  *     cdef float minimum_permissible_distance = -1
  *     cdef float k
  *     for k in original_marriage_dist:             # <<<<<<<<<<<<<<
@@ -18876,43 +19029,43 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":30
+  /* "marriage_code.pyx":32
  *             minimum_permissible_distance = min(minimum_permissible_distance, k)
  * 
  *     cdef list marriage_distances = []             # <<<<<<<<<<<<<<
  *     cdef set unions = set()
  * 
  */
-  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 30, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 32, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_marriage_distances = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":31
+  /* "marriage_code.pyx":33
  * 
  *     cdef list marriage_distances = []
  *     cdef set unions = set()             # <<<<<<<<<<<<<<
  * 
  *     cdef set people_set = set(people)
  */
-  __pyx_t_1 = PySet_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 31, __pyx_L1_error)
+  __pyx_t_1 = PySet_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 33, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_unions = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":33
+  /* "marriage_code.pyx":35
  *     cdef set unions = set()
  * 
  *     cdef set people_set = set(people)             # <<<<<<<<<<<<<<
  *     cdef float next_person = num_people + 1
  *     cdef float num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)
  */
-  __pyx_t_1 = PySet_New(__pyx_v_people); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 33, __pyx_L1_error)
+  __pyx_t_1 = PySet_New(__pyx_v_people); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 35, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_people_set = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "marriage_code.pyx":34
+  /* "marriage_code.pyx":36
  * 
  *     cdef set people_set = set(people)
  *     cdef float next_person = num_people + 1             # <<<<<<<<<<<<<<
@@ -18921,7 +19074,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   __pyx_v_next_person = (__pyx_v_num_people + 1);
 
-  /* "marriage_code.pyx":35
+  /* "marriage_code.pyx":37
  *     cdef set people_set = set(people)
  *     cdef float next_person = num_people + 1
  *     cdef float num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)             # <<<<<<<<<<<<<<
@@ -18930,19 +19083,19 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   if (unlikely(__pyx_v_people == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "object of type 'NoneType' has no len()");
-    __PYX_ERR(0, 35, __pyx_L1_error)
+    __PYX_ERR(0, 37, __pyx_L1_error)
   }
-  __pyx_t_2 = __Pyx_PyList_GET_SIZE(__pyx_v_people); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 35, __pyx_L1_error)
-  __pyx_t_1 = PyFloat_FromDouble(((__pyx_v_prob_marry_immigrant * __pyx_t_2) / 2.0)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 35, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyList_GET_SIZE(__pyx_v_people); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 37, __pyx_L1_error)
+  __pyx_t_1 = PyFloat_FromDouble(((__pyx_v_prob_marry_immigrant * __pyx_t_2) / 2.0)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 37, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_builtin_round, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 35, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_builtin_round, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 37, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 35, __pyx_L1_error)
+  __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 37, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_num_inf_couples_to_marry = __pyx_t_12;
 
-  /* "marriage_code.pyx":36
+  /* "marriage_code.pyx":38
  *     cdef float next_person = num_people + 1
  *     cdef float num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)
  *     cdef float num_finite_couples_to_marry = round(prob_marry * len(people) / 2)             # <<<<<<<<<<<<<<
@@ -18951,32 +19104,32 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   if (unlikely(__pyx_v_people == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "object of type 'NoneType' has no len()");
-    __PYX_ERR(0, 36, __pyx_L1_error)
+    __PYX_ERR(0, 38, __pyx_L1_error)
   }
-  __pyx_t_2 = __Pyx_PyList_GET_SIZE(__pyx_v_people); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 36, __pyx_L1_error)
-  __pyx_t_5 = PyFloat_FromDouble(((__pyx_v_prob_marry * __pyx_t_2) / 2.0)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 36, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyList_GET_SIZE(__pyx_v_people); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 38, __pyx_L1_error)
+  __pyx_t_5 = PyFloat_FromDouble(((__pyx_v_prob_marry * __pyx_t_2) / 2.0)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 38, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_builtin_round, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 36, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_builtin_round, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 38, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 36, __pyx_L1_error)
+  __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 38, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_num_finite_couples_to_marry = __pyx_t_12;
 
-  /* "marriage_code.pyx":37
+  /* "marriage_code.pyx":39
  *     cdef float num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)
  *     cdef float num_finite_couples_to_marry = round(prob_marry * len(people) / 2)
  *     cdef set will_marry = set(random.sample(people_set, len(people_set) // 2))             # <<<<<<<<<<<<<<
  * 
  *     cdef list wont_marry_until_next_time = []
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_random); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 37, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_random); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_sample); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 37, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_sample); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_2 = __Pyx_PySet_GET_SIZE(__pyx_v_people_set); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 37, __pyx_L1_error)
-  __pyx_t_5 = PyInt_FromSsize_t(__Pyx_div_Py_ssize_t(__pyx_t_2, 2)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 37, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PySet_GET_SIZE(__pyx_v_people_set); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 39, __pyx_L1_error)
+  __pyx_t_5 = PyInt_FromSsize_t(__Pyx_div_Py_ssize_t(__pyx_t_2, 2)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __pyx_t_13 = NULL;
   __pyx_t_4 = 0;
@@ -18997,29 +19150,29 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_6, __pyx_callargs+1-__pyx_t_4, 2+__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 37, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 39, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   }
-  __pyx_t_6 = PySet_New(__pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 37, __pyx_L1_error)
+  __pyx_t_6 = PySet_New(__pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_will_marry = ((PyObject*)__pyx_t_6);
   __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":39
+  /* "marriage_code.pyx":41
  *     cdef set will_marry = set(random.sample(people_set, len(people_set) // 2))
  * 
  *     cdef list wont_marry_until_next_time = []             # <<<<<<<<<<<<<<
  *     cdef float node
  *     for node in people_set:
  */
-  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 39, __pyx_L1_error)
+  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 41, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __pyx_v_wont_marry_until_next_time = ((PyObject*)__pyx_t_6);
   __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":41
+  /* "marriage_code.pyx":43
  *     cdef list wont_marry_until_next_time = []
  *     cdef float node
  *     for node in people_set:             # <<<<<<<<<<<<<<
@@ -19027,7 +19180,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *             wont_marry_until_next_time.append(node)
  */
   __pyx_t_2 = 0;
-  __pyx_t_1 = __Pyx_set_iterator(__pyx_v_people_set, 1, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 41, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_set_iterator(__pyx_v_people_set, 1, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 43, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_XDECREF(__pyx_t_6);
   __pyx_t_6 = __pyx_t_1;
@@ -19035,38 +19188,38 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   while (1) {
     __pyx_t_7 = __Pyx_set_iter_next(__pyx_t_6, __pyx_t_3, &__pyx_t_2, &__pyx_t_1, __pyx_t_4);
     if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 41, __pyx_L1_error)
+    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 43, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 41, __pyx_L1_error)
+    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 43, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_v_node = __pyx_t_12;
 
-    /* "marriage_code.pyx":42
+    /* "marriage_code.pyx":44
  *     cdef float node
  *     for node in people_set:
  *         if node not in will_marry:             # <<<<<<<<<<<<<<
  *             wont_marry_until_next_time.append(node)
  * 
  */
-    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_node); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 42, __pyx_L1_error)
+    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_node); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 44, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_10 = (__Pyx_PySet_ContainsTF(__pyx_t_1, __pyx_v_will_marry, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 42, __pyx_L1_error)
+    __pyx_t_10 = (__Pyx_PySet_ContainsTF(__pyx_t_1, __pyx_v_will_marry, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 44, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":43
+      /* "marriage_code.pyx":45
  *     for node in people_set:
  *         if node not in will_marry:
  *             wont_marry_until_next_time.append(node)             # <<<<<<<<<<<<<<
  * 
  *     people_set |= will_marry | set(prev_people)
  */
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_node); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 43, __pyx_L1_error)
+      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_node); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 45, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_wont_marry_until_next_time, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 43, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_wont_marry_until_next_time, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 45, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":42
+      /* "marriage_code.pyx":44
  *     cdef float node
  *     for node in people_set:
  *         if node not in will_marry:             # <<<<<<<<<<<<<<
@@ -19077,46 +19230,46 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":45
+  /* "marriage_code.pyx":47
  *             wont_marry_until_next_time.append(node)
  * 
  *     people_set |= will_marry | set(prev_people)             # <<<<<<<<<<<<<<
  * 
  *     cdef set possible_couples = set()
  */
-  __pyx_t_6 = PySet_New(__pyx_v_prev_people); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 45, __pyx_L1_error)
+  __pyx_t_6 = PySet_New(__pyx_v_prev_people); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 47, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
-  __pyx_t_1 = PyNumber_Or(__pyx_v_will_marry, __pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 45, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_Or(__pyx_v_will_marry, __pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 47, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-  __pyx_t_6 = PyNumber_InPlaceOr(__pyx_v_people_set, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 45, __pyx_L1_error)
+  __pyx_t_6 = PyNumber_InPlaceOr(__pyx_v_people_set, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 47, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF_SET(__pyx_v_people_set, ((PyObject*)__pyx_t_6));
   __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":47
+  /* "marriage_code.pyx":49
  *     people_set |= will_marry | set(prev_people)
  * 
  *     cdef set possible_couples = set()             # <<<<<<<<<<<<<<
  *     cdef float man
  *     cdef float woman
  */
-  __pyx_t_6 = PySet_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 47, __pyx_L1_error)
+  __pyx_t_6 = PySet_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 49, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __pyx_v_possible_couples = ((PyObject*)__pyx_t_6);
   __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":50
+  /* "marriage_code.pyx":52
  *     cdef float man
  *     cdef float woman
  *     for man, woman in itertools.combinations(people_set, 2):             # <<<<<<<<<<<<<<
  *         possible_couples.add((man, woman))
  * 
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_itertools); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 50, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_itertools); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 52, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_combinations); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 50, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_combinations); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 52, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_1 = NULL;
@@ -19137,7 +19290,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     PyObject *__pyx_callargs[3] = {__pyx_t_1, __pyx_v_people_set, __pyx_int_2};
     __pyx_t_6 = __Pyx_PyObject_FastCall(__pyx_t_5, __pyx_callargs+1-__pyx_t_4, 2+__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 50, __pyx_L1_error)
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 52, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
@@ -19145,9 +19298,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_5 = __pyx_t_6; __Pyx_INCREF(__pyx_t_5); __pyx_t_3 = 0;
     __pyx_t_14 = NULL;
   } else {
-    __pyx_t_3 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 50, __pyx_L1_error)
+    __pyx_t_3 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 52, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_5); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 50, __pyx_L1_error)
+    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_5); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 52, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   for (;;) {
@@ -19155,17 +19308,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (likely(PyList_CheckExact(__pyx_t_5))) {
         if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_5)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 50, __pyx_L1_error)
+        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 52, __pyx_L1_error)
         #else
-        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 50, __pyx_L1_error)
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 52, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         #endif
       } else {
         if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_5)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_6 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 50, __pyx_L1_error)
+        __pyx_t_6 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 52, __pyx_L1_error)
         #else
-        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 50, __pyx_L1_error)
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 52, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         #endif
       }
@@ -19175,7 +19328,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 50, __pyx_L1_error)
+          else __PYX_ERR(0, 52, __pyx_L1_error)
         }
         break;
       }
@@ -19187,7 +19340,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 50, __pyx_L1_error)
+        __PYX_ERR(0, 52, __pyx_L1_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
@@ -19200,15 +19353,15 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_INCREF(__pyx_t_1);
       __Pyx_INCREF(__pyx_t_13);
       #else
-      __pyx_t_1 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 50, __pyx_L1_error)
+      __pyx_t_1 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 52, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_13 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 50, __pyx_L1_error)
+      __pyx_t_13 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 52, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_13);
       #endif
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_15 = PyObject_GetIter(__pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 50, __pyx_L1_error)
+      __pyx_t_15 = PyObject_GetIter(__pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 52, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_15);
@@ -19216,7 +19369,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_GOTREF(__pyx_t_1);
       index = 1; __pyx_t_13 = __pyx_t_16(__pyx_t_15); if (unlikely(!__pyx_t_13)) goto __pyx_L18_unpacking_failed;
       __Pyx_GOTREF(__pyx_t_13);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 50, __pyx_L1_error)
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 52, __pyx_L1_error)
       __pyx_t_16 = NULL;
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       goto __pyx_L19_unpacking_done;
@@ -19224,39 +19377,39 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_t_16 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 50, __pyx_L1_error)
+      __PYX_ERR(0, 52, __pyx_L1_error)
       __pyx_L19_unpacking_done:;
     }
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 50, __pyx_L1_error)
+    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 52, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 50, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 52, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
     __pyx_v_man = __pyx_t_12;
     __pyx_v_woman = __pyx_t_8;
 
-    /* "marriage_code.pyx":51
+    /* "marriage_code.pyx":53
  *     cdef float woman
  *     for man, woman in itertools.combinations(people_set, 2):
  *         possible_couples.add((man, woman))             # <<<<<<<<<<<<<<
  * 
  *     cdef float man2
  */
-    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_man); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 51, __pyx_L1_error)
+    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_man); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 53, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_woman); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 51, __pyx_L1_error)
+    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_woman); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 53, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_13);
-    __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 51, __pyx_L1_error)
+    __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 53, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_GIVEREF(__pyx_t_6);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_6)) __PYX_ERR(0, 51, __pyx_L1_error);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_6)) __PYX_ERR(0, 53, __pyx_L1_error);
     __Pyx_GIVEREF(__pyx_t_13);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_13)) __PYX_ERR(0, 51, __pyx_L1_error);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_13)) __PYX_ERR(0, 53, __pyx_L1_error);
     __pyx_t_6 = 0;
     __pyx_t_13 = 0;
-    __pyx_t_11 = PySet_Add(__pyx_v_possible_couples, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 51, __pyx_L1_error)
+    __pyx_t_11 = PySet_Add(__pyx_v_possible_couples, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 53, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "marriage_code.pyx":50
+    /* "marriage_code.pyx":52
  *     cdef float man
  *     cdef float woman
  *     for man, woman in itertools.combinations(people_set, 2):             # <<<<<<<<<<<<<<
@@ -19266,16 +19419,16 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-  /* "marriage_code.pyx":55
+  /* "marriage_code.pyx":57
  *     cdef float man2
  *     cdef float woman2
  *     for man2, woman2 in itertools.combinations(prev_people, 2):             # <<<<<<<<<<<<<<
  *         possible_couples.remove((man2, woman2))
  * 
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_itertools); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 55, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_itertools); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 57, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_combinations); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 55, __pyx_L1_error)
+  __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_combinations); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 57, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_13);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_1 = NULL;
@@ -19296,7 +19449,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     PyObject *__pyx_callargs[3] = {__pyx_t_1, __pyx_v_prev_people, __pyx_int_2};
     __pyx_t_5 = __Pyx_PyObject_FastCall(__pyx_t_13, __pyx_callargs+1-__pyx_t_4, 2+__pyx_t_4);
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 55, __pyx_L1_error)
+    if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 57, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
   }
@@ -19304,9 +19457,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_13 = __pyx_t_5; __Pyx_INCREF(__pyx_t_13); __pyx_t_3 = 0;
     __pyx_t_14 = NULL;
   } else {
-    __pyx_t_3 = -1; __pyx_t_13 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 55, __pyx_L1_error)
+    __pyx_t_3 = -1; __pyx_t_13 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 57, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_13);
-    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_13); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 55, __pyx_L1_error)
+    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_13); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 57, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   for (;;) {
@@ -19314,17 +19467,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (likely(PyList_CheckExact(__pyx_t_13))) {
         if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_13)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 55, __pyx_L1_error)
+        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 57, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 55, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 57, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       } else {
         if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_13)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 55, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 57, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 55, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 57, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       }
@@ -19334,7 +19487,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 55, __pyx_L1_error)
+          else __PYX_ERR(0, 57, __pyx_L1_error)
         }
         break;
       }
@@ -19346,7 +19499,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 55, __pyx_L1_error)
+        __PYX_ERR(0, 57, __pyx_L1_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
@@ -19359,15 +19512,15 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_INCREF(__pyx_t_1);
       __Pyx_INCREF(__pyx_t_6);
       #else
-      __pyx_t_1 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 55, __pyx_L1_error)
+      __pyx_t_1 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 57, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_6 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 55, __pyx_L1_error)
+      __pyx_t_6 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 57, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       #endif
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_15 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 55, __pyx_L1_error)
+      __pyx_t_15 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 57, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_15);
@@ -19375,7 +19528,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_GOTREF(__pyx_t_1);
       index = 1; __pyx_t_6 = __pyx_t_16(__pyx_t_15); if (unlikely(!__pyx_t_6)) goto __pyx_L23_unpacking_failed;
       __Pyx_GOTREF(__pyx_t_6);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 55, __pyx_L1_error)
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 57, __pyx_L1_error)
       __pyx_t_16 = NULL;
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       goto __pyx_L24_unpacking_done;
@@ -19383,39 +19536,39 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_t_16 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 55, __pyx_L1_error)
+      __PYX_ERR(0, 57, __pyx_L1_error)
       __pyx_L24_unpacking_done:;
     }
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 55, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 57, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 55, __pyx_L1_error)
+    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 57, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_v_man2 = __pyx_t_8;
     __pyx_v_woman2 = __pyx_t_12;
 
-    /* "marriage_code.pyx":56
+    /* "marriage_code.pyx":58
  *     cdef float woman2
  *     for man2, woman2 in itertools.combinations(prev_people, 2):
  *         possible_couples.remove((man2, woman2))             # <<<<<<<<<<<<<<
  * 
  *     cdef dict possible_finite_couples = {}
  */
-    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_man2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 56, __pyx_L1_error)
+    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_man2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 58, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 56, __pyx_L1_error)
+    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 58, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 56, __pyx_L1_error)
+    __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 58, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_GIVEREF(__pyx_t_5);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_5)) __PYX_ERR(0, 56, __pyx_L1_error);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_5)) __PYX_ERR(0, 58, __pyx_L1_error);
     __Pyx_GIVEREF(__pyx_t_6);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_6)) __PYX_ERR(0, 56, __pyx_L1_error);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_6)) __PYX_ERR(0, 58, __pyx_L1_error);
     __pyx_t_5 = 0;
     __pyx_t_6 = 0;
-    __pyx_t_11 = __Pyx_PySet_Remove(__pyx_v_possible_couples, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 56, __pyx_L1_error)
+    __pyx_t_11 = __Pyx_PySet_Remove(__pyx_v_possible_couples, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 58, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "marriage_code.pyx":55
+    /* "marriage_code.pyx":57
  *     cdef float man2
  *     cdef float woman2
  *     for man2, woman2 in itertools.combinations(prev_people, 2):             # <<<<<<<<<<<<<<
@@ -19425,19 +19578,19 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":58
+  /* "marriage_code.pyx":60
  *         possible_couples.remove((man2, woman2))
  * 
  *     cdef dict possible_finite_couples = {}             # <<<<<<<<<<<<<<
  *     cdef float man3
  *     cdef float woman3
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 58, __pyx_L1_error)
+  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 60, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_13);
   __pyx_v_possible_finite_couples = ((PyObject*)__pyx_t_13);
   __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":61
+  /* "marriage_code.pyx":63
  *     cdef float man3
  *     cdef float woman3
  *     for man3, woman3 in possible_couples:             # <<<<<<<<<<<<<<
@@ -19445,7 +19598,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *         if distance >= minimum_permissible_distance:
  */
   __pyx_t_3 = 0;
-  __pyx_t_1 = __Pyx_set_iterator(__pyx_v_possible_couples, 1, (&__pyx_t_2), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 61, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_set_iterator(__pyx_v_possible_couples, 1, (&__pyx_t_2), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 63, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_XDECREF(__pyx_t_13);
   __pyx_t_13 = __pyx_t_1;
@@ -19453,7 +19606,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   while (1) {
     __pyx_t_7 = __Pyx_set_iter_next(__pyx_t_13, __pyx_t_2, &__pyx_t_3, &__pyx_t_1, __pyx_t_4);
     if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 61, __pyx_L1_error)
+    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 63, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     if ((likely(PyTuple_CheckExact(__pyx_t_1))) || (PyList_CheckExact(__pyx_t_1))) {
       PyObject* sequence = __pyx_t_1;
@@ -19461,7 +19614,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 61, __pyx_L1_error)
+        __PYX_ERR(0, 63, __pyx_L1_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
@@ -19474,15 +19627,15 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_INCREF(__pyx_t_6);
       __Pyx_INCREF(__pyx_t_5);
       #else
-      __pyx_t_6 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 61, __pyx_L1_error)
+      __pyx_t_6 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 63, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_5 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 61, __pyx_L1_error)
+      __pyx_t_5 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 63, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       #endif
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_15 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 61, __pyx_L1_error)
+      __pyx_t_15 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 63, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_15);
@@ -19490,7 +19643,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_GOTREF(__pyx_t_6);
       index = 1; __pyx_t_5 = __pyx_t_16(__pyx_t_15); if (unlikely(!__pyx_t_5)) goto __pyx_L28_unpacking_failed;
       __Pyx_GOTREF(__pyx_t_5);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 61, __pyx_L1_error)
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 63, __pyx_L1_error)
       __pyx_t_16 = NULL;
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       goto __pyx_L29_unpacking_done;
@@ -19498,17 +19651,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_t_16 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 61, __pyx_L1_error)
+      __PYX_ERR(0, 63, __pyx_L1_error)
       __pyx_L29_unpacking_done:;
     }
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 61, __pyx_L1_error)
+    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 63, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 61, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 63, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_v_man3 = __pyx_t_12;
     __pyx_v_woman3 = __pyx_t_8;
 
-    /* "marriage_code.pyx":62
+    /* "marriage_code.pyx":64
  *     cdef float woman3
  *     for man3, woman3 in possible_couples:
  *         distance = D[indices[man3], indices[woman3]]             # <<<<<<<<<<<<<<
@@ -19517,25 +19670,25 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 62, __pyx_L1_error)
+      __PYX_ERR(0, 64, __pyx_L1_error)
     }
-    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_5 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_17 = __Pyx_PyIndex_AsSsize_t(__pyx_t_5); if (unlikely((__pyx_t_17 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_17 = __Pyx_PyIndex_AsSsize_t(__pyx_t_5); if (unlikely((__pyx_t_17 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 62, __pyx_L1_error)
+      __PYX_ERR(0, 64, __pyx_L1_error)
     }
-    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_woman3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_woman3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_1 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_1); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 62, __pyx_L1_error)
+    __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_1); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 64, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_19 = __pyx_t_17;
     __pyx_t_20 = __pyx_t_18;
@@ -19550,11 +19703,11 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     } else if (unlikely(__pyx_t_20 >= __pyx_v_D.shape[1])) __pyx_t_7 = 1;
     if (unlikely(__pyx_t_7 != -1)) {
       __Pyx_RaiseBufferIndexError(__pyx_t_7);
-      __PYX_ERR(0, 62, __pyx_L1_error)
+      __PYX_ERR(0, 64, __pyx_L1_error)
     }
     __pyx_v_distance = (*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_19 * __pyx_v_D.strides[0]) )) + __pyx_t_20)) )));
 
-    /* "marriage_code.pyx":63
+    /* "marriage_code.pyx":65
  *     for man3, woman3 in possible_couples:
  *         distance = D[indices[man3], indices[woman3]]
  *         if distance >= minimum_permissible_distance:             # <<<<<<<<<<<<<<
@@ -19564,32 +19717,32 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     __pyx_t_10 = (__pyx_v_distance >= __pyx_v_minimum_permissible_distance);
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":64
+      /* "marriage_code.pyx":66
  *         distance = D[indices[man3], indices[woman3]]
  *         if distance >= minimum_permissible_distance:
  *             possible_finite_couples[(man3, woman3)] = distance             # <<<<<<<<<<<<<<
  * 
  *     print("LINE 66")
  */
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_distance); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 64, __pyx_L1_error)
+      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_distance); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 66, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 64, __pyx_L1_error)
+      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 66, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 64, __pyx_L1_error)
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 66, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 64, __pyx_L1_error)
+      __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 66, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
       __Pyx_GIVEREF(__pyx_t_5);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_5)) __PYX_ERR(0, 64, __pyx_L1_error);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_5)) __PYX_ERR(0, 66, __pyx_L1_error);
       __Pyx_GIVEREF(__pyx_t_6);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_6)) __PYX_ERR(0, 64, __pyx_L1_error);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_6)) __PYX_ERR(0, 66, __pyx_L1_error);
       __pyx_t_5 = 0;
       __pyx_t_6 = 0;
-      if (unlikely((PyDict_SetItem(__pyx_v_possible_finite_couples, __pyx_t_15, __pyx_t_1) < 0))) __PYX_ERR(0, 64, __pyx_L1_error)
+      if (unlikely((PyDict_SetItem(__pyx_v_possible_finite_couples, __pyx_t_15, __pyx_t_1) < 0))) __PYX_ERR(0, 66, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":63
+      /* "marriage_code.pyx":65
  *     for man3, woman3 in possible_couples:
  *         distance = D[indices[man3], indices[woman3]]
  *         if distance >= minimum_permissible_distance:             # <<<<<<<<<<<<<<
@@ -19600,378 +19753,576 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   }
   __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":66
+  /* "marriage_code.pyx":68
  *             possible_finite_couples[(man3, woman3)] = distance
  * 
  *     print("LINE 66")             # <<<<<<<<<<<<<<
  *     cdef dict preferred_couples = {}
- *     cdef float couple1
+ *     cdef double[:] couple1
  */
-  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__10, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 66, __pyx_L1_error)
+  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__10, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 68, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_13);
   __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":67
+  /* "marriage_code.pyx":69
  * 
  *     print("LINE 66")
  *     cdef dict preferred_couples = {}             # <<<<<<<<<<<<<<
- *     cdef float couple1
+ *     cdef double[:] couple1
  *     cdef float distance1
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 67, __pyx_L1_error)
+  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 69, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_13);
   __pyx_v_preferred_couples = ((PyObject*)__pyx_t_13);
   __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":70
- *     cdef float couple1
+  /* "marriage_code.pyx":72
+ *     cdef double[:] couple1
  *     cdef float distance1
- *     print("LINE 70")             # <<<<<<<<<<<<<<
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")
+ *     ckeys = np.array(list(possible_finite_couples.keys()))             # <<<<<<<<<<<<<<
+ *     cvalues = np.array(list(possible_finite_couples.values()))
+ *     cdef int n = len(ckeys)
  */
-  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__11, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 70, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-
-  /* "marriage_code.pyx":71
- *     cdef float distance1
- *     print("LINE 70")
- *     for couple1, distance1 in possible_finite_couples.items():             # <<<<<<<<<<<<<<
- *         print("LINE 72")
- *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
- */
-  __pyx_t_2 = 0;
-  __pyx_t_1 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 71, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 72, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_XDECREF(__pyx_t_13);
-  __pyx_t_13 = __pyx_t_1;
-  __pyx_t_1 = 0;
-  while (1) {
-    __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_13, __pyx_t_3, &__pyx_t_2, &__pyx_t_1, &__pyx_t_15, NULL, __pyx_t_4);
-    if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 71, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 71, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 71, __pyx_L1_error)
+  __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_array); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 72, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __pyx_t_1 = __Pyx_PyDict_Keys(__pyx_v_possible_finite_couples); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 72, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_1);
+  __pyx_t_6 = __Pyx_PySequence_ListKeepNew(__pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 72, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __pyx_t_1 = NULL;
+  __pyx_t_4 = 0;
+  #if CYTHON_UNPACK_METHODS
+  if (unlikely(PyMethod_Check(__pyx_t_15))) {
+    __pyx_t_1 = PyMethod_GET_SELF(__pyx_t_15);
+    if (likely(__pyx_t_1)) {
+      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_15);
+      __Pyx_INCREF(__pyx_t_1);
+      __Pyx_INCREF(function);
+      __Pyx_DECREF_SET(__pyx_t_15, function);
+      __pyx_t_4 = 1;
+    }
+  }
+  #endif
+  {
+    PyObject *__pyx_callargs[2] = {__pyx_t_1, __pyx_t_6};
+    __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_15, __pyx_callargs+1-__pyx_t_4, 1+__pyx_t_4);
+    __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 72, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_v_couple1 = __pyx_t_8;
-    __pyx_v_distance1 = __pyx_t_12;
+  }
+  __pyx_v_ckeys = __pyx_t_13;
+  __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":72
- *     print("LINE 70")
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")             # <<<<<<<<<<<<<<
- *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
- *             preferred_couples[couple1] = distance1
+  /* "marriage_code.pyx":73
+ *     cdef float distance1
+ *     ckeys = np.array(list(possible_finite_couples.keys()))
+ *     cvalues = np.array(list(possible_finite_couples.values()))             # <<<<<<<<<<<<<<
+ *     cdef int n = len(ckeys)
+ *     cdef int i2
  */
-    __pyx_t_15 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__12, NULL); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 72, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 73, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_array); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 73, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __pyx_t_15 = __Pyx_PyDict_Values(__pyx_v_possible_finite_couples); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 73, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __pyx_t_1 = __Pyx_PySequence_ListKeepNew(__pyx_t_15); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 73, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_1);
+  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __pyx_t_15 = NULL;
+  __pyx_t_4 = 0;
+  #if CYTHON_UNPACK_METHODS
+  if (unlikely(PyMethod_Check(__pyx_t_6))) {
+    __pyx_t_15 = PyMethod_GET_SELF(__pyx_t_6);
+    if (likely(__pyx_t_15)) {
+      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
+      __Pyx_INCREF(__pyx_t_15);
+      __Pyx_INCREF(function);
+      __Pyx_DECREF_SET(__pyx_t_6, function);
+      __pyx_t_4 = 1;
+    }
+  }
+  #endif
+  {
+    PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_1};
+    __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_6, __pyx_callargs+1-__pyx_t_4, 1+__pyx_t_4);
+    __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 73, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  }
+  __pyx_v_cvalues = __pyx_t_13;
+  __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":73
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")
+  /* "marriage_code.pyx":74
+ *     ckeys = np.array(list(possible_finite_couples.keys()))
+ *     cvalues = np.array(list(possible_finite_couples.values()))
+ *     cdef int n = len(ckeys)             # <<<<<<<<<<<<<<
+ *     cdef int i2
+ *     for i2 in range(n-1):
+ */
+  __pyx_t_2 = PyObject_Length(__pyx_v_ckeys); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 74, __pyx_L1_error)
+  __pyx_v_n = __pyx_t_2;
+
+  /* "marriage_code.pyx":76
+ *     cdef int n = len(ckeys)
+ *     cdef int i2
+ *     for i2 in range(n-1):             # <<<<<<<<<<<<<<
+ *         couple1 = ckeys[i2]
+ *         distance1 = cvalues[i2]
+ */
+  __pyx_t_21 = (__pyx_v_n - 1);
+  __pyx_t_22 = __pyx_t_21;
+  for (__pyx_t_4 = 0; __pyx_t_4 < __pyx_t_22; __pyx_t_4+=1) {
+    __pyx_v_i2 = __pyx_t_4;
+
+    /* "marriage_code.pyx":77
+ *     cdef int i2
+ *     for i2 in range(n-1):
+ *         couple1 = ckeys[i2]             # <<<<<<<<<<<<<<
+ *         distance1 = cvalues[i2]
+ * #    for couple1, distance1 in possible_finite_couples.items():
+ */
+    __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_ckeys, __pyx_v_i2, int, 1, __Pyx_PyInt_From_int, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 77, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_23 = __Pyx_PyObject_to_MemoryviewSlice_ds_double(__pyx_t_13, PyBUF_WRITABLE); if (unlikely(!__pyx_t_23.memview)) __PYX_ERR(0, 77, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple1, 1);
+    __pyx_v_couple1 = __pyx_t_23;
+    __pyx_t_23.memview = NULL;
+    __pyx_t_23.data = NULL;
+
+    /* "marriage_code.pyx":78
+ *     for i2 in range(n-1):
+ *         couple1 = ckeys[i2]
+ *         distance1 = cvalues[i2]             # <<<<<<<<<<<<<<
+ * #    for couple1, distance1 in possible_finite_couples.items():
+ *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
+ */
+    __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_cvalues, __pyx_v_i2, int, 1, __Pyx_PyInt_From_int, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 78, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 78, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_v_distance1 = __pyx_t_8;
+
+    /* "marriage_code.pyx":80
+ *         distance1 = cvalues[i2]
+ * #    for couple1, distance1 in possible_finite_couples.items():
  *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:             # <<<<<<<<<<<<<<
  *             preferred_couples[couple1] = distance1
  * 
  */
-    __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 73, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_1 = PySet_New(__pyx_v_original_marriage_dist); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 73, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_21 = (__Pyx_PySet_ContainsTF(__pyx_t_15, __pyx_t_1, Py_EQ)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 73, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (__pyx_t_21) {
+    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 80, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_6 = PySet_New(__pyx_v_original_marriage_dist); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 80, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_24 = (__Pyx_PySet_ContainsTF(__pyx_t_13, __pyx_t_6, Py_EQ)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 80, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    if (__pyx_t_24) {
     } else {
-      __pyx_t_10 = __pyx_t_21;
+      __pyx_t_10 = __pyx_t_24;
       goto __pyx_L34_bool_binop_done;
     }
-    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 73, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_1, __pyx_v_desired_finite_distances, Py_EQ)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 73, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_10 = __pyx_t_21;
+    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 80, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_6, __pyx_v_desired_finite_distances, Py_EQ)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 80, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_10 = __pyx_t_24;
     __pyx_L34_bool_binop_done:;
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":74
- *         print("LINE 72")
+      /* "marriage_code.pyx":81
+ * #    for couple1, distance1 in possible_finite_couples.items():
  *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
  *             preferred_couples[couple1] = distance1             # <<<<<<<<<<<<<<
  * 
  *     cdef dict other_couples = {}
  */
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 74, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 74, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_15);
-      if (unlikely((PyDict_SetItem(__pyx_v_preferred_couples, __pyx_t_15, __pyx_t_1) < 0))) __PYX_ERR(0, 74, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 81, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_13 = __pyx_memoryview_fromslice(__pyx_v_couple1, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 81, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      if (unlikely((PyDict_SetItem(__pyx_v_preferred_couples, __pyx_t_13, __pyx_t_6) < 0))) __PYX_ERR(0, 81, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-      /* "marriage_code.pyx":73
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")
+      /* "marriage_code.pyx":80
+ *         distance1 = cvalues[i2]
+ * #    for couple1, distance1 in possible_finite_couples.items():
  *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:             # <<<<<<<<<<<<<<
  *             preferred_couples[couple1] = distance1
  * 
  */
     }
   }
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":76
+  /* "marriage_code.pyx":83
  *             preferred_couples[couple1] = distance1
  * 
  *     cdef dict other_couples = {}             # <<<<<<<<<<<<<<
- *     cdef float couple2
+ *     cdef double[:] couple2
  *     cdef float distance2
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 76, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_other_couples = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 83, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_other_couples = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":79
- *     cdef float couple2
+  /* "marriage_code.pyx":86
+ *     cdef double[:] couple2
  *     cdef float distance2
- *     for couple2, distance2 in possible_finite_couples.items():             # <<<<<<<<<<<<<<
- *         if couple2 not in preferred_couples:
- *             other_couples[couple2] = distance2
+ *     ckeys2 = np.array(list(possible_finite_couples.keys()))             # <<<<<<<<<<<<<<
+ *     cvalues2 = np.array(list(possible_finite_couples.values()))
+ *     cdef int n2 = len(ckeys2)
  */
-  __pyx_t_3 = 0;
-  __pyx_t_1 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_4)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 79, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_np); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 86, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_array); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 86, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_XDECREF(__pyx_t_13);
-  __pyx_t_13 = __pyx_t_1;
-  __pyx_t_1 = 0;
-  while (1) {
-    __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_13, __pyx_t_2, &__pyx_t_3, &__pyx_t_1, &__pyx_t_15, NULL, __pyx_t_4);
-    if (unlikely(__pyx_t_7 == 0)) break;
-    if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 79, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_12 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_12 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 79, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 79, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+  __pyx_t_13 = __Pyx_PyDict_Keys(__pyx_v_possible_finite_couples); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 86, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_t_15 = __Pyx_PySequence_ListKeepNew(__pyx_t_13); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 86, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+  __pyx_t_13 = NULL;
+  __pyx_t_4 = 0;
+  #if CYTHON_UNPACK_METHODS
+  if (unlikely(PyMethod_Check(__pyx_t_1))) {
+    __pyx_t_13 = PyMethod_GET_SELF(__pyx_t_1);
+    if (likely(__pyx_t_13)) {
+      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_1);
+      __Pyx_INCREF(__pyx_t_13);
+      __Pyx_INCREF(function);
+      __Pyx_DECREF_SET(__pyx_t_1, function);
+      __pyx_t_4 = 1;
+    }
+  }
+  #endif
+  {
+    PyObject *__pyx_callargs[2] = {__pyx_t_13, __pyx_t_15};
+    __pyx_t_6 = __Pyx_PyObject_FastCall(__pyx_t_1, __pyx_callargs+1-__pyx_t_4, 1+__pyx_t_4);
+    __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_v_couple2 = __pyx_t_12;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 86, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  }
+  __pyx_v_ckeys2 = __pyx_t_6;
+  __pyx_t_6 = 0;
+
+  /* "marriage_code.pyx":87
+ *     cdef float distance2
+ *     ckeys2 = np.array(list(possible_finite_couples.keys()))
+ *     cvalues2 = np.array(list(possible_finite_couples.values()))             # <<<<<<<<<<<<<<
+ *     cdef int n2 = len(ckeys2)
+ *     cdef int i3
+ */
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 87, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_1);
+  __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_array); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 87, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __pyx_t_1 = __Pyx_PyDict_Values(__pyx_v_possible_finite_couples); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 87, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_1);
+  __pyx_t_13 = __Pyx_PySequence_ListKeepNew(__pyx_t_1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 87, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __pyx_t_1 = NULL;
+  __pyx_t_4 = 0;
+  #if CYTHON_UNPACK_METHODS
+  if (unlikely(PyMethod_Check(__pyx_t_15))) {
+    __pyx_t_1 = PyMethod_GET_SELF(__pyx_t_15);
+    if (likely(__pyx_t_1)) {
+      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_15);
+      __Pyx_INCREF(__pyx_t_1);
+      __Pyx_INCREF(function);
+      __Pyx_DECREF_SET(__pyx_t_15, function);
+      __pyx_t_4 = 1;
+    }
+  }
+  #endif
+  {
+    PyObject *__pyx_callargs[2] = {__pyx_t_1, __pyx_t_13};
+    __pyx_t_6 = __Pyx_PyObject_FastCall(__pyx_t_15, __pyx_callargs+1-__pyx_t_4, 1+__pyx_t_4);
+    __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 87, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  }
+  __pyx_v_cvalues2 = __pyx_t_6;
+  __pyx_t_6 = 0;
+
+  /* "marriage_code.pyx":88
+ *     ckeys2 = np.array(list(possible_finite_couples.keys()))
+ *     cvalues2 = np.array(list(possible_finite_couples.values()))
+ *     cdef int n2 = len(ckeys2)             # <<<<<<<<<<<<<<
+ *     cdef int i3
+ *     for i3 in range(n2-1):
+ */
+  __pyx_t_2 = PyObject_Length(__pyx_v_ckeys2); if (unlikely(__pyx_t_2 == ((Py_ssize_t)-1))) __PYX_ERR(0, 88, __pyx_L1_error)
+  __pyx_v_n2 = __pyx_t_2;
+
+  /* "marriage_code.pyx":90
+ *     cdef int n2 = len(ckeys2)
+ *     cdef int i3
+ *     for i3 in range(n2-1):             # <<<<<<<<<<<<<<
+ *         couple2 = ckeys2[i3]
+ *         distance2 = cvalues2[i3]
+ */
+  __pyx_t_21 = (__pyx_v_n2 - 1);
+  __pyx_t_22 = __pyx_t_21;
+  for (__pyx_t_4 = 0; __pyx_t_4 < __pyx_t_22; __pyx_t_4+=1) {
+    __pyx_v_i3 = __pyx_t_4;
+
+    /* "marriage_code.pyx":91
+ *     cdef int i3
+ *     for i3 in range(n2-1):
+ *         couple2 = ckeys2[i3]             # <<<<<<<<<<<<<<
+ *         distance2 = cvalues2[i3]
+ * #    for couple2, distance2 in possible_finite_couples.items():
+ */
+    __pyx_t_6 = __Pyx_GetItemInt(__pyx_v_ckeys2, __pyx_v_i3, int, 1, __Pyx_PyInt_From_int, 0, 1, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 91, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_23 = __Pyx_PyObject_to_MemoryviewSlice_ds_double(__pyx_t_6, PyBUF_WRITABLE); if (unlikely(!__pyx_t_23.memview)) __PYX_ERR(0, 91, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple2, 1);
+    __pyx_v_couple2 = __pyx_t_23;
+    __pyx_t_23.memview = NULL;
+    __pyx_t_23.data = NULL;
+
+    /* "marriage_code.pyx":92
+ *     for i3 in range(n2-1):
+ *         couple2 = ckeys2[i3]
+ *         distance2 = cvalues2[i3]             # <<<<<<<<<<<<<<
+ * #    for couple2, distance2 in possible_finite_couples.items():
+ *         if couple2 not in preferred_couples:
+ */
+    __pyx_t_6 = __Pyx_GetItemInt(__pyx_v_cvalues2, __pyx_v_i3, int, 1, __Pyx_PyInt_From_int, 0, 1, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 92, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 92, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_v_distance2 = __pyx_t_8;
 
-    /* "marriage_code.pyx":80
- *     cdef float distance2
- *     for couple2, distance2 in possible_finite_couples.items():
+    /* "marriage_code.pyx":94
+ *         distance2 = cvalues2[i3]
+ * #    for couple2, distance2 in possible_finite_couples.items():
  *         if couple2 not in preferred_couples:             # <<<<<<<<<<<<<<
  *             other_couples[couple2] = distance2
  * 
  */
-    __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 80, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_10 = (__Pyx_PyDict_ContainsTF(__pyx_t_15, __pyx_v_preferred_couples, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 80, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_6 = __pyx_memoryview_fromslice(__pyx_v_couple2, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 94, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_10 = (__Pyx_PyDict_ContainsTF(__pyx_t_6, __pyx_v_preferred_couples, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 94, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":81
- *     for couple2, distance2 in possible_finite_couples.items():
+      /* "marriage_code.pyx":95
+ * #    for couple2, distance2 in possible_finite_couples.items():
  *         if couple2 not in preferred_couples:
  *             other_couples[couple2] = distance2             # <<<<<<<<<<<<<<
  * 
  *     print("LINE 81")
  */
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 81, __pyx_L1_error)
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 95, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_15 = __pyx_memoryview_fromslice(__pyx_v_couple2, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 95, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_couple2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 81, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      if (unlikely((PyDict_SetItem(__pyx_v_other_couples, __pyx_t_1, __pyx_t_15) < 0))) __PYX_ERR(0, 81, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      if (unlikely((PyDict_SetItem(__pyx_v_other_couples, __pyx_t_15, __pyx_t_6) < 0))) __PYX_ERR(0, 95, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-      /* "marriage_code.pyx":80
- *     cdef float distance2
- *     for couple2, distance2 in possible_finite_couples.items():
+      /* "marriage_code.pyx":94
+ *         distance2 = cvalues2[i3]
+ * #    for couple2, distance2 in possible_finite_couples.items():
  *         if couple2 not in preferred_couples:             # <<<<<<<<<<<<<<
  *             other_couples[couple2] = distance2
  * 
  */
     }
   }
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":83
+  /* "marriage_code.pyx":97
  *             other_couples[couple2] = distance2
  * 
  *     print("LINE 81")             # <<<<<<<<<<<<<<
- *     cdef float iter = 0
+ *     cdef float iter2 = 0
  *     cdef list dis_probs = []
  */
-  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__13, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 83, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__11, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 97, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":84
+  /* "marriage_code.pyx":98
  * 
  *     print("LINE 81")
- *     cdef float iter = 0             # <<<<<<<<<<<<<<
+ *     cdef float iter2 = 0             # <<<<<<<<<<<<<<
  *     cdef list dis_probs = []
  *     cdef list dis_probs_pre = []
  */
-  __pyx_v_iter = 0.0;
+  __pyx_v_iter2 = 0.0;
 
-  /* "marriage_code.pyx":85
+  /* "marriage_code.pyx":99
  *     print("LINE 81")
- *     cdef float iter = 0
+ *     cdef float iter2 = 0
  *     cdef list dis_probs = []             # <<<<<<<<<<<<<<
  *     cdef list dis_probs_pre = []
  *     cdef list dis_probs2 = []
  */
-  __pyx_t_13 = PyList_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 85, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_dis_probs = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 99, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_dis_probs = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":86
- *     cdef float iter = 0
+  /* "marriage_code.pyx":100
+ *     cdef float iter2 = 0
  *     cdef list dis_probs = []
  *     cdef list dis_probs_pre = []             # <<<<<<<<<<<<<<
  *     cdef list dis_probs2 = []
  *     cdef float dis_prob3
  */
-  __pyx_t_13 = PyList_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 86, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_dis_probs_pre = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 100, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_dis_probs_pre = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":87
+  /* "marriage_code.pyx":101
  *     cdef list dis_probs = []
  *     cdef list dis_probs_pre = []
  *     cdef list dis_probs2 = []             # <<<<<<<<<<<<<<
  *     cdef float dis_prob3
  *     cdef list dis_probs3 = []
  */
-  __pyx_t_13 = PyList_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 87, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_dis_probs2 = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 101, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_dis_probs2 = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":89
+  /* "marriage_code.pyx":103
  *     cdef list dis_probs2 = []
  *     cdef float dis_prob3
  *     cdef list dis_probs3 = []             # <<<<<<<<<<<<<<
  *     cdef float d
  *     cdef float d2
  */
-  __pyx_t_13 = PyList_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 89, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_dis_probs3 = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = PyList_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 103, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_dis_probs3 = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":92
+  /* "marriage_code.pyx":106
  *     cdef float d
  *     cdef float d2
  *     cdef float least_bad_distance = float('inf')             # <<<<<<<<<<<<<<
  *     cdef float d3
  *     cdef float d4
  */
-  __pyx_t_22 = __Pyx_PyString_AsDouble(__pyx_n_s_inf); if (unlikely(__pyx_t_22 == ((double)((double)-1)) && PyErr_Occurred())) __PYX_ERR(0, 92, __pyx_L1_error)
-  __pyx_v_least_bad_distance = __pyx_t_22;
+  __pyx_t_25 = __Pyx_PyString_AsDouble(__pyx_n_s_inf); if (unlikely(__pyx_t_25 == ((double)((double)-1)) && PyErr_Occurred())) __PYX_ERR(0, 106, __pyx_L1_error)
+  __pyx_v_least_bad_distance = __pyx_t_25;
 
-  /* "marriage_code.pyx":100
+  /* "marriage_code.pyx":114
  *     cdef int man_idx
  *     cdef int woman_idx
  *     cdef dict possible_finite_couples2 = {}             # <<<<<<<<<<<<<<
  *     cdef float pair10
  *     cdef float distance10
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 100, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_possible_finite_couples2 = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 114, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_possible_finite_couples2 = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":103
+  /* "marriage_code.pyx":117
  *     cdef float pair10
  *     cdef float distance10
  *     cdef dict preferred_couples2 = {}             # <<<<<<<<<<<<<<
  *     cdef float couple3
  *     cdef float distance3
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 103, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_preferred_couples2 = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 117, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_preferred_couples2 = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":106
+  /* "marriage_code.pyx":120
  *     cdef float couple3
  *     cdef float distance3
  *     cdef dict other_couples2 = {}             # <<<<<<<<<<<<<<
  *     cdef float couple4
  *     cdef float distance4
  */
-  __pyx_t_13 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 106, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_other_couples2 = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 120, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_other_couples2 = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":109
+  /* "marriage_code.pyx":123
  *     cdef float couple4
  *     cdef float distance4
  *     cdef set stay_single_forever = set()             # <<<<<<<<<<<<<<
  *     cdef float couple6
  *     cdef float man6
  */
-  __pyx_t_13 = PySet_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 109, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_v_stay_single_forever = ((PyObject*)__pyx_t_13);
-  __pyx_t_13 = 0;
+  __pyx_t_6 = PySet_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 123, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_v_stay_single_forever = ((PyObject*)__pyx_t_6);
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":113
+  /* "marriage_code.pyx":127
  *     cdef float man6
  * 
- *     while possible_finite_couples and iter < num_finite_couples_to_marry:             # <<<<<<<<<<<<<<
+ *     while possible_finite_couples and iter2 < num_finite_couples_to_marry:             # <<<<<<<<<<<<<<
  *         if preferred_couples:
  *             possible_finite_couples_array = list(preferred_couples.keys())
  */
   while (1) {
-    __pyx_t_21 = __Pyx_PyObject_IsTrue(__pyx_v_possible_finite_couples); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 113, __pyx_L1_error)
-    if (__pyx_t_21) {
+    __pyx_t_24 = __Pyx_PyObject_IsTrue(__pyx_v_possible_finite_couples); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 127, __pyx_L1_error)
+    if (__pyx_t_24) {
     } else {
-      __pyx_t_10 = __pyx_t_21;
+      __pyx_t_10 = __pyx_t_24;
       goto __pyx_L41_bool_binop_done;
     }
-    __pyx_t_21 = (__pyx_v_iter < __pyx_v_num_finite_couples_to_marry);
-    __pyx_t_10 = __pyx_t_21;
+    __pyx_t_24 = (__pyx_v_iter2 < __pyx_v_num_finite_couples_to_marry);
+    __pyx_t_10 = __pyx_t_24;
     __pyx_L41_bool_binop_done:;
     if (!__pyx_t_10) break;
 
-    /* "marriage_code.pyx":114
+    /* "marriage_code.pyx":128
  * 
- *     while possible_finite_couples and iter < num_finite_couples_to_marry:
+ *     while possible_finite_couples and iter2 < num_finite_couples_to_marry:
  *         if preferred_couples:             # <<<<<<<<<<<<<<
  *             possible_finite_couples_array = list(preferred_couples.keys())
  * 
  */
-    __pyx_t_10 = __Pyx_PyObject_IsTrue(__pyx_v_preferred_couples); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 114, __pyx_L1_error)
+    __pyx_t_10 = __Pyx_PyObject_IsTrue(__pyx_v_preferred_couples); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 128, __pyx_L1_error)
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":115
- *     while possible_finite_couples and iter < num_finite_couples_to_marry:
+      /* "marriage_code.pyx":129
+ *     while possible_finite_couples and iter2 < num_finite_couples_to_marry:
  *         if preferred_couples:
  *             possible_finite_couples_array = list(preferred_couples.keys())             # <<<<<<<<<<<<<<
  * 
  *             for d in preferred_couples.values():
  */
-      __pyx_t_13 = __Pyx_PyDict_Keys(__pyx_v_preferred_couples); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 115, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_15 = __Pyx_PySequence_ListKeepNew(__pyx_t_13); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 115, __pyx_L1_error)
+      __pyx_t_6 = __Pyx_PyDict_Keys(__pyx_v_preferred_couples); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 129, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_15 = __Pyx_PySequence_ListKeepNew(__pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 129, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_XDECREF_SET(__pyx_v_possible_finite_couples_array, ((PyObject*)__pyx_t_15));
       __pyx_t_15 = 0;
 
-      /* "marriage_code.pyx":117
+      /* "marriage_code.pyx":131
  *             possible_finite_couples_array = list(preferred_couples.keys())
  * 
  *             for d in preferred_couples.values():             # <<<<<<<<<<<<<<
@@ -19979,57 +20330,57 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                 if abs(dis_prob) < tol:
  */
       __pyx_t_2 = 0;
-      __pyx_t_13 = __Pyx_dict_iterator(__pyx_v_preferred_couples, 1, __pyx_n_s_values, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 117, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_preferred_couples, 1, __pyx_n_s_values, (&__pyx_t_3), (&__pyx_t_4)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 131, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
       __Pyx_XDECREF(__pyx_t_15);
-      __pyx_t_15 = __pyx_t_13;
-      __pyx_t_13 = 0;
+      __pyx_t_15 = __pyx_t_6;
+      __pyx_t_6 = 0;
       while (1) {
-        __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_15, __pyx_t_3, &__pyx_t_2, NULL, &__pyx_t_13, NULL, __pyx_t_4);
+        __pyx_t_7 = __Pyx_dict_iter_next(__pyx_t_15, __pyx_t_3, &__pyx_t_2, NULL, &__pyx_t_6, NULL, __pyx_t_4);
         if (unlikely(__pyx_t_7 == 0)) break;
-        if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 117, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 117, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        if (unlikely(__pyx_t_7 == -1)) __PYX_ERR(0, 131, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 131, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __pyx_v_d = __pyx_t_8;
 
-        /* "marriage_code.pyx":118
+        /* "marriage_code.pyx":132
  * 
  *             for d in preferred_couples.values():
  *                 dis_prob = finite_marriage_probs.get(d, eps)             # <<<<<<<<<<<<<<
  *                 if abs(dis_prob) < tol:
  *                     dis_prob = 0
  */
-        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_d); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 118, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_1 = PyFloat_FromDouble(__pyx_v_eps); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 118, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_6 = __Pyx_PyDict_GetItemDefault(__pyx_v_finite_marriage_probs, __pyx_t_13, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 118, __pyx_L1_error)
+        __pyx_t_6 = PyFloat_FromDouble(__pyx_v_d); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 132, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_eps); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 132, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_1 = __Pyx_PyDict_GetItemDefault(__pyx_v_finite_marriage_probs, __pyx_t_6, __pyx_t_13); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 132, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_1);
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-        __Pyx_XDECREF_SET(__pyx_v_dis_prob, __pyx_t_6);
-        __pyx_t_6 = 0;
+        __Pyx_XDECREF_SET(__pyx_v_dis_prob, __pyx_t_1);
+        __pyx_t_1 = 0;
 
-        /* "marriage_code.pyx":119
+        /* "marriage_code.pyx":133
  *             for d in preferred_couples.values():
  *                 dis_prob = finite_marriage_probs.get(d, eps)
  *                 if abs(dis_prob) < tol:             # <<<<<<<<<<<<<<
  *                     dis_prob = 0
  *                 dis_probs_pre.append(dis_prob)
  */
-        __pyx_t_6 = __Pyx_PyNumber_Absolute(__pyx_v_dis_prob); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 119, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_6);
-        __pyx_t_1 = PyFloat_FromDouble(__pyx_v_tol); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 119, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyNumber_Absolute(__pyx_v_dis_prob); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 133, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_13 = PyObject_RichCompare(__pyx_t_6, __pyx_t_1, Py_LT); __Pyx_XGOTREF(__pyx_t_13); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 119, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_tol); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 133, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_6 = PyObject_RichCompare(__pyx_t_1, __pyx_t_13, Py_LT); __Pyx_XGOTREF(__pyx_t_6); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 133, __pyx_L1_error)
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-        __pyx_t_10 = __Pyx_PyObject_IsTrue(__pyx_t_13); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 119, __pyx_L1_error)
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_10 = __Pyx_PyObject_IsTrue(__pyx_t_6); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 133, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         if (__pyx_t_10) {
 
-          /* "marriage_code.pyx":120
+          /* "marriage_code.pyx":134
  *                 dis_prob = finite_marriage_probs.get(d, eps)
  *                 if abs(dis_prob) < tol:
  *                     dis_prob = 0             # <<<<<<<<<<<<<<
@@ -20039,7 +20390,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
           __Pyx_INCREF(__pyx_int_0);
           __Pyx_DECREF_SET(__pyx_v_dis_prob, __pyx_int_0);
 
-          /* "marriage_code.pyx":119
+          /* "marriage_code.pyx":133
  *             for d in preferred_couples.values():
  *                 dis_prob = finite_marriage_probs.get(d, eps)
  *                 if abs(dis_prob) < tol:             # <<<<<<<<<<<<<<
@@ -20048,31 +20399,31 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
         }
 
-        /* "marriage_code.pyx":121
+        /* "marriage_code.pyx":135
  *                 if abs(dis_prob) < tol:
  *                     dis_prob = 0
  *                 dis_probs_pre.append(dis_prob)             # <<<<<<<<<<<<<<
  *             total_prob = sum(dis_probs_pre)
  * 
  */
-        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs_pre, __pyx_v_dis_prob); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 121, __pyx_L1_error)
+        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs_pre, __pyx_v_dis_prob); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 135, __pyx_L1_error)
       }
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-      /* "marriage_code.pyx":122
+      /* "marriage_code.pyx":136
  *                     dis_prob = 0
  *                 dis_probs_pre.append(dis_prob)
  *             total_prob = sum(dis_probs_pre)             # <<<<<<<<<<<<<<
  * 
  *             for d2 in dis_probs_pre:
  */
-      __pyx_t_15 = __Pyx_PyObject_CallOneArg(__pyx_builtin_sum, __pyx_v_dis_probs_pre); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 122, __pyx_L1_error)
+      __pyx_t_15 = __Pyx_PyObject_CallOneArg(__pyx_builtin_sum, __pyx_v_dis_probs_pre); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 136, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 122, __pyx_L1_error)
+      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 136, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_v_total_prob = __pyx_t_8;
 
-      /* "marriage_code.pyx":124
+      /* "marriage_code.pyx":138
  *             total_prob = sum(dis_probs_pre)
  * 
  *             for d2 in dis_probs_pre:             # <<<<<<<<<<<<<<
@@ -20083,16 +20434,16 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       for (;;) {
         if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_15)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_13 = PyList_GET_ITEM(__pyx_t_15, __pyx_t_3); __Pyx_INCREF(__pyx_t_13); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 124, __pyx_L1_error)
+        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_15, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 138, __pyx_L1_error)
         #else
-        __pyx_t_13 = PySequence_ITEM(__pyx_t_15, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 124, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_15, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 138, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
         #endif
-        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 124, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 138, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __pyx_v_d2 = __pyx_t_8;
 
-        /* "marriage_code.pyx":125
+        /* "marriage_code.pyx":139
  * 
  *             for d2 in dis_probs_pre:
  *                 dis_probs2.append(d2 / total_prob)             # <<<<<<<<<<<<<<
@@ -20101,14 +20452,14 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
         if (unlikely(__pyx_v_total_prob == 0)) {
           PyErr_SetString(PyExc_ZeroDivisionError, "float division");
-          __PYX_ERR(0, 125, __pyx_L1_error)
+          __PYX_ERR(0, 139, __pyx_L1_error)
         }
-        __pyx_t_13 = PyFloat_FromDouble((__pyx_v_d2 / __pyx_v_total_prob)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 125, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs2, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 125, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_6 = PyFloat_FromDouble((__pyx_v_d2 / __pyx_v_total_prob)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 139, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs2, __pyx_t_6); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 139, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-        /* "marriage_code.pyx":124
+        /* "marriage_code.pyx":138
  *             total_prob = sum(dis_probs_pre)
  * 
  *             for d2 in dis_probs_pre:             # <<<<<<<<<<<<<<
@@ -20118,7 +20469,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       }
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-      /* "marriage_code.pyx":127
+      /* "marriage_code.pyx":141
  *                 dis_probs2.append(d2 / total_prob)
  * 
  *             try:             # <<<<<<<<<<<<<<
@@ -20128,50 +20479,50 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       {
         __Pyx_PyThreadState_declare
         __Pyx_PyThreadState_assign
-        __Pyx_ExceptionSave(&__pyx_t_23, &__pyx_t_24, &__pyx_t_25);
-        __Pyx_XGOTREF(__pyx_t_23);
-        __Pyx_XGOTREF(__pyx_t_24);
-        __Pyx_XGOTREF(__pyx_t_25);
+        __Pyx_ExceptionSave(&__pyx_t_26, &__pyx_t_27, &__pyx_t_28);
+        __Pyx_XGOTREF(__pyx_t_26);
+        __Pyx_XGOTREF(__pyx_t_27);
+        __Pyx_XGOTREF(__pyx_t_28);
         /*try:*/ {
 
-          /* "marriage_code.pyx":128
+          /* "marriage_code.pyx":142
  * 
  *             try:
  *                 couple_index = possible_finite_couples_array[np.random.choice(len(preferred_couples), p=dis_probs)]             # <<<<<<<<<<<<<<
  *             except Exception as e:
  *                 print(f'Error: {e}')
  */
-          __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 128, __pyx_L50_error)
+          __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 142, __pyx_L50_error)
           __Pyx_GOTREF(__pyx_t_15);
-          __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_random); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_13);
-          __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_choice); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_15);
-          __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-          __pyx_t_3 = PyDict_Size(__pyx_v_preferred_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 128, __pyx_L50_error)
-          __pyx_t_13 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_13);
-          __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_1);
-          __Pyx_GIVEREF(__pyx_t_13);
-          if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_13)) __PYX_ERR(0, 128, __pyx_L50_error);
-          __pyx_t_13 = 0;
-          __pyx_t_13 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_13);
-          if (PyDict_SetItem(__pyx_t_13, __pyx_n_s_p, __pyx_v_dis_probs) < 0) __PYX_ERR(0, 128, __pyx_L50_error)
-          __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_15, __pyx_t_1, __pyx_t_13); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 128, __pyx_L50_error)
+          __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_random); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 142, __pyx_L50_error)
           __Pyx_GOTREF(__pyx_t_6);
           __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-          __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-          __pyx_t_13 = __Pyx_PyObject_GetItem(__pyx_v_possible_finite_couples_array, __pyx_t_6); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 128, __pyx_L50_error)
-          __Pyx_GOTREF(__pyx_t_13);
+          __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_choice); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_15);
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-          __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_13);
-          __pyx_t_13 = 0;
+          __pyx_t_3 = PyDict_Size(__pyx_v_preferred_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 142, __pyx_L50_error)
+          __pyx_t_6 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_6);
+          __pyx_t_13 = PyTuple_New(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_13);
+          __Pyx_GIVEREF(__pyx_t_6);
+          if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_6)) __PYX_ERR(0, 142, __pyx_L50_error);
+          __pyx_t_6 = 0;
+          __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_6);
+          if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_p, __pyx_v_dis_probs) < 0) __PYX_ERR(0, 142, __pyx_L50_error)
+          __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_15, __pyx_t_13, __pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_1);
+          __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+          __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+          __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+          __pyx_t_6 = __Pyx_PyObject_GetItem(__pyx_v_possible_finite_couples_array, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 142, __pyx_L50_error)
+          __Pyx_GOTREF(__pyx_t_6);
+          __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+          __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_6);
+          __pyx_t_6 = 0;
 
-          /* "marriage_code.pyx":127
+          /* "marriage_code.pyx":141
  *                 dis_probs2.append(d2 / total_prob)
  * 
  *             try:             # <<<<<<<<<<<<<<
@@ -20179,18 +20530,20 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *             except Exception as e:
  */
         }
-        __Pyx_XDECREF(__pyx_t_23); __pyx_t_23 = 0;
-        __Pyx_XDECREF(__pyx_t_24); __pyx_t_24 = 0;
-        __Pyx_XDECREF(__pyx_t_25); __pyx_t_25 = 0;
+        __Pyx_XDECREF(__pyx_t_26); __pyx_t_26 = 0;
+        __Pyx_XDECREF(__pyx_t_27); __pyx_t_27 = 0;
+        __Pyx_XDECREF(__pyx_t_28); __pyx_t_28 = 0;
         goto __pyx_L57_try_end;
         __pyx_L50_error:;
         __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
         __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
         __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
+        __PYX_XCLEAR_MEMVIEW(&__pyx_t_23, 1);
+        __pyx_t_23.memview = NULL; __pyx_t_23.data = NULL;
         __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-        /* "marriage_code.pyx":129
+        /* "marriage_code.pyx":143
  *             try:
  *                 couple_index = possible_finite_couples_array[np.random.choice(len(preferred_couples), p=dis_probs)]
  *             except Exception as e:             # <<<<<<<<<<<<<<
@@ -20200,33 +20553,33 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         __pyx_t_4 = __Pyx_PyErr_ExceptionMatches(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])));
         if (__pyx_t_4) {
           __Pyx_AddTraceback("marriage_code.add_marriage_edges", __pyx_clineno, __pyx_lineno, __pyx_filename);
-          if (__Pyx_GetException(&__pyx_t_13, &__pyx_t_6, &__pyx_t_1) < 0) __PYX_ERR(0, 129, __pyx_L52_except_error)
-          __Pyx_XGOTREF(__pyx_t_13);
+          if (__Pyx_GetException(&__pyx_t_6, &__pyx_t_1, &__pyx_t_13) < 0) __PYX_ERR(0, 143, __pyx_L52_except_error)
           __Pyx_XGOTREF(__pyx_t_6);
           __Pyx_XGOTREF(__pyx_t_1);
-          __Pyx_INCREF(__pyx_t_6);
-          __pyx_v_e = __pyx_t_6;
+          __Pyx_XGOTREF(__pyx_t_13);
+          __Pyx_INCREF(__pyx_t_1);
+          __pyx_v_e = __pyx_t_1;
           /*try:*/ {
 
-            /* "marriage_code.pyx":130
+            /* "marriage_code.pyx":144
  *                 couple_index = possible_finite_couples_array[np.random.choice(len(preferred_couples), p=dis_probs)]
  *             except Exception as e:
  *                 print(f'Error: {e}')             # <<<<<<<<<<<<<<
  * 
  *             couple = (couple_index[0], couple_index[1])
  */
-            __pyx_t_15 = __Pyx_PyObject_FormatSimple(__pyx_v_e, __pyx_empty_unicode); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 130, __pyx_L63_error)
+            __pyx_t_15 = __Pyx_PyObject_FormatSimple(__pyx_v_e, __pyx_empty_unicode); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 144, __pyx_L63_error)
             __Pyx_GOTREF(__pyx_t_15);
-            __pyx_t_5 = __Pyx_PyUnicode_Concat(__pyx_kp_u_Error, __pyx_t_15); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 130, __pyx_L63_error)
+            __pyx_t_5 = __Pyx_PyUnicode_Concat(__pyx_kp_u_Error, __pyx_t_15); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 144, __pyx_L63_error)
             __Pyx_GOTREF(__pyx_t_5);
             __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-            __pyx_t_15 = __Pyx_PyObject_CallOneArg(__pyx_builtin_print, __pyx_t_5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 130, __pyx_L63_error)
+            __pyx_t_15 = __Pyx_PyObject_CallOneArg(__pyx_builtin_print, __pyx_t_5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 144, __pyx_L63_error)
             __Pyx_GOTREF(__pyx_t_15);
             __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
             __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
           }
 
-          /* "marriage_code.pyx":129
+          /* "marriage_code.pyx":143
  *             try:
  *                 couple_index = possible_finite_couples_array[np.random.choice(len(preferred_couples), p=dis_probs)]
  *             except Exception as e:             # <<<<<<<<<<<<<<
@@ -20242,45 +20595,47 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
             /*exception exit:*/{
               __Pyx_PyThreadState_declare
               __Pyx_PyThreadState_assign
-              __pyx_t_27 = 0; __pyx_t_28 = 0; __pyx_t_29 = 0; __pyx_t_30 = 0; __pyx_t_31 = 0; __pyx_t_32 = 0;
+              __pyx_t_30 = 0; __pyx_t_31 = 0; __pyx_t_32 = 0; __pyx_t_33 = 0; __pyx_t_34 = 0; __pyx_t_35 = 0;
               __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
+              __PYX_XCLEAR_MEMVIEW(&__pyx_t_23, 1);
+              __pyx_t_23.memview = NULL; __pyx_t_23.data = NULL;
               __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
-              if (PY_MAJOR_VERSION >= 3) __Pyx_ExceptionSwap(&__pyx_t_30, &__pyx_t_31, &__pyx_t_32);
-              if ((PY_MAJOR_VERSION < 3) || unlikely(__Pyx_GetException(&__pyx_t_27, &__pyx_t_28, &__pyx_t_29) < 0)) __Pyx_ErrFetch(&__pyx_t_27, &__pyx_t_28, &__pyx_t_29);
-              __Pyx_XGOTREF(__pyx_t_27);
-              __Pyx_XGOTREF(__pyx_t_28);
-              __Pyx_XGOTREF(__pyx_t_29);
+              if (PY_MAJOR_VERSION >= 3) __Pyx_ExceptionSwap(&__pyx_t_33, &__pyx_t_34, &__pyx_t_35);
+              if ((PY_MAJOR_VERSION < 3) || unlikely(__Pyx_GetException(&__pyx_t_30, &__pyx_t_31, &__pyx_t_32) < 0)) __Pyx_ErrFetch(&__pyx_t_30, &__pyx_t_31, &__pyx_t_32);
               __Pyx_XGOTREF(__pyx_t_30);
               __Pyx_XGOTREF(__pyx_t_31);
               __Pyx_XGOTREF(__pyx_t_32);
-              __pyx_t_4 = __pyx_lineno; __pyx_t_7 = __pyx_clineno; __pyx_t_26 = __pyx_filename;
+              __Pyx_XGOTREF(__pyx_t_33);
+              __Pyx_XGOTREF(__pyx_t_34);
+              __Pyx_XGOTREF(__pyx_t_35);
+              __pyx_t_4 = __pyx_lineno; __pyx_t_7 = __pyx_clineno; __pyx_t_29 = __pyx_filename;
               {
                 __Pyx_DECREF(__pyx_v_e); __pyx_v_e = 0;
               }
               if (PY_MAJOR_VERSION >= 3) {
-                __Pyx_XGIVEREF(__pyx_t_30);
-                __Pyx_XGIVEREF(__pyx_t_31);
-                __Pyx_XGIVEREF(__pyx_t_32);
-                __Pyx_ExceptionReset(__pyx_t_30, __pyx_t_31, __pyx_t_32);
+                __Pyx_XGIVEREF(__pyx_t_33);
+                __Pyx_XGIVEREF(__pyx_t_34);
+                __Pyx_XGIVEREF(__pyx_t_35);
+                __Pyx_ExceptionReset(__pyx_t_33, __pyx_t_34, __pyx_t_35);
               }
-              __Pyx_XGIVEREF(__pyx_t_27);
-              __Pyx_XGIVEREF(__pyx_t_28);
-              __Pyx_XGIVEREF(__pyx_t_29);
-              __Pyx_ErrRestore(__pyx_t_27, __pyx_t_28, __pyx_t_29);
-              __pyx_t_27 = 0; __pyx_t_28 = 0; __pyx_t_29 = 0; __pyx_t_30 = 0; __pyx_t_31 = 0; __pyx_t_32 = 0;
-              __pyx_lineno = __pyx_t_4; __pyx_clineno = __pyx_t_7; __pyx_filename = __pyx_t_26;
+              __Pyx_XGIVEREF(__pyx_t_30);
+              __Pyx_XGIVEREF(__pyx_t_31);
+              __Pyx_XGIVEREF(__pyx_t_32);
+              __Pyx_ErrRestore(__pyx_t_30, __pyx_t_31, __pyx_t_32);
+              __pyx_t_30 = 0; __pyx_t_31 = 0; __pyx_t_32 = 0; __pyx_t_33 = 0; __pyx_t_34 = 0; __pyx_t_35 = 0;
+              __pyx_lineno = __pyx_t_4; __pyx_clineno = __pyx_t_7; __pyx_filename = __pyx_t_29;
               goto __pyx_L52_except_error;
             }
             __pyx_L64:;
           }
-          __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
           __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
           __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
+          __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
           goto __pyx_L51_exception_handled;
         }
         goto __pyx_L52_except_error;
 
-        /* "marriage_code.pyx":127
+        /* "marriage_code.pyx":141
  *                 dis_probs2.append(d2 / total_prob)
  * 
  *             try:             # <<<<<<<<<<<<<<
@@ -20288,46 +20643,46 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *             except Exception as e:
  */
         __pyx_L52_except_error:;
-        __Pyx_XGIVEREF(__pyx_t_23);
-        __Pyx_XGIVEREF(__pyx_t_24);
-        __Pyx_XGIVEREF(__pyx_t_25);
-        __Pyx_ExceptionReset(__pyx_t_23, __pyx_t_24, __pyx_t_25);
+        __Pyx_XGIVEREF(__pyx_t_26);
+        __Pyx_XGIVEREF(__pyx_t_27);
+        __Pyx_XGIVEREF(__pyx_t_28);
+        __Pyx_ExceptionReset(__pyx_t_26, __pyx_t_27, __pyx_t_28);
         goto __pyx_L1_error;
         __pyx_L51_exception_handled:;
-        __Pyx_XGIVEREF(__pyx_t_23);
-        __Pyx_XGIVEREF(__pyx_t_24);
-        __Pyx_XGIVEREF(__pyx_t_25);
-        __Pyx_ExceptionReset(__pyx_t_23, __pyx_t_24, __pyx_t_25);
+        __Pyx_XGIVEREF(__pyx_t_26);
+        __Pyx_XGIVEREF(__pyx_t_27);
+        __Pyx_XGIVEREF(__pyx_t_28);
+        __Pyx_ExceptionReset(__pyx_t_26, __pyx_t_27, __pyx_t_28);
         __pyx_L57_try_end:;
       }
 
-      /* "marriage_code.pyx":132
+      /* "marriage_code.pyx":146
  *                 print(f'Error: {e}')
  * 
  *             couple = (couple_index[0], couple_index[1])             # <<<<<<<<<<<<<<
  *         else:
  *             possible_finite_couples_array = list(other_couples.keys())
  */
-      if (unlikely(!__pyx_v_couple_index)) { __Pyx_RaiseUnboundLocalError("couple_index"); __PYX_ERR(0, 132, __pyx_L1_error) }
-      __pyx_t_1 = __Pyx_GetItemInt(__pyx_v_couple_index, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 132, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      if (unlikely(!__pyx_v_couple_index)) { __Pyx_RaiseUnboundLocalError("couple_index"); __PYX_ERR(0, 132, __pyx_L1_error) }
-      __pyx_t_6 = __Pyx_GetItemInt(__pyx_v_couple_index, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 132, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_13 = PyTuple_New(2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 132, __pyx_L1_error)
+      if (unlikely(!__pyx_v_couple_index)) { __Pyx_RaiseUnboundLocalError("couple_index"); __PYX_ERR(0, 146, __pyx_L1_error) }
+      __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_couple_index, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 146, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_13);
+      if (unlikely(!__pyx_v_couple_index)) { __Pyx_RaiseUnboundLocalError("couple_index"); __PYX_ERR(0, 146, __pyx_L1_error) }
+      __pyx_t_1 = __Pyx_GetItemInt(__pyx_v_couple_index, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 146, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
+      __pyx_t_6 = PyTuple_New(2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 146, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __Pyx_GIVEREF(__pyx_t_13);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_13)) __PYX_ERR(0, 146, __pyx_L1_error);
       __Pyx_GIVEREF(__pyx_t_1);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_1)) __PYX_ERR(0, 132, __pyx_L1_error);
-      __Pyx_GIVEREF(__pyx_t_6);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 1, __pyx_t_6)) __PYX_ERR(0, 132, __pyx_L1_error);
-      __pyx_t_1 = 0;
-      __pyx_t_6 = 0;
-      __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_13));
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_6, 1, __pyx_t_1)) __PYX_ERR(0, 146, __pyx_L1_error);
       __pyx_t_13 = 0;
+      __pyx_t_1 = 0;
+      __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_6));
+      __pyx_t_6 = 0;
 
-      /* "marriage_code.pyx":114
+      /* "marriage_code.pyx":128
  * 
- *     while possible_finite_couples and iter < num_finite_couples_to_marry:
+ *     while possible_finite_couples and iter2 < num_finite_couples_to_marry:
  *         if preferred_couples:             # <<<<<<<<<<<<<<
  *             possible_finite_couples_array = list(preferred_couples.keys())
  * 
@@ -20335,7 +20690,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       goto __pyx_L43;
     }
 
-    /* "marriage_code.pyx":134
+    /* "marriage_code.pyx":148
  *             couple = (couple_index[0], couple_index[1])
  *         else:
  *             possible_finite_couples_array = list(other_couples.keys())             # <<<<<<<<<<<<<<
@@ -20343,15 +20698,15 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                 if d3 >= minimum_permissible_distance:
  */
     /*else*/ {
-      __pyx_t_13 = __Pyx_PyDict_Keys(__pyx_v_other_couples); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 134, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_6 = __Pyx_PySequence_ListKeepNew(__pyx_t_13); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 134, __pyx_L1_error)
+      __pyx_t_6 = __Pyx_PyDict_Keys(__pyx_v_other_couples); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 148, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __Pyx_XDECREF_SET(__pyx_v_possible_finite_couples_array, ((PyObject*)__pyx_t_6));
-      __pyx_t_6 = 0;
+      __pyx_t_1 = __Pyx_PySequence_ListKeepNew(__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 148, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_XDECREF_SET(__pyx_v_possible_finite_couples_array, ((PyObject*)__pyx_t_1));
+      __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":135
+      /* "marriage_code.pyx":149
  *         else:
  *             possible_finite_couples_array = list(other_couples.keys())
  *             for d3 in other_couples.values():             # <<<<<<<<<<<<<<
@@ -20359,21 +20714,21 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                     least_bad_distance = min(least_bad_distance, d3)
  */
       __pyx_t_3 = 0;
-      __pyx_t_13 = __Pyx_dict_iterator(__pyx_v_other_couples, 1, __pyx_n_s_values, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 135, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __Pyx_XDECREF(__pyx_t_6);
-      __pyx_t_6 = __pyx_t_13;
-      __pyx_t_13 = 0;
+      __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_other_couples, 1, __pyx_n_s_values, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 149, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __Pyx_XDECREF(__pyx_t_1);
+      __pyx_t_1 = __pyx_t_6;
+      __pyx_t_6 = 0;
       while (1) {
-        __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_6, __pyx_t_2, &__pyx_t_3, NULL, &__pyx_t_13, NULL, __pyx_t_7);
+        __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_2, &__pyx_t_3, NULL, &__pyx_t_6, NULL, __pyx_t_7);
         if (unlikely(__pyx_t_4 == 0)) break;
-        if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 135, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 135, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 149, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 149, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __pyx_v_d3 = __pyx_t_8;
 
-        /* "marriage_code.pyx":136
+        /* "marriage_code.pyx":150
  *             possible_finite_couples_array = list(other_couples.keys())
  *             for d3 in other_couples.values():
  *                 if d3 >= minimum_permissible_distance:             # <<<<<<<<<<<<<<
@@ -20383,7 +20738,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         __pyx_t_10 = (__pyx_v_d3 >= __pyx_v_minimum_permissible_distance);
         if (__pyx_t_10) {
 
-          /* "marriage_code.pyx":137
+          /* "marriage_code.pyx":151
  *             for d3 in other_couples.values():
  *                 if d3 >= minimum_permissible_distance:
  *                     least_bad_distance = min(least_bad_distance, d3)             # <<<<<<<<<<<<<<
@@ -20400,7 +20755,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
           }
           __pyx_v_least_bad_distance = __pyx_t_9;
 
-          /* "marriage_code.pyx":136
+          /* "marriage_code.pyx":150
  *             possible_finite_couples_array = list(other_couples.keys())
  *             for d3 in other_couples.values():
  *                 if d3 >= minimum_permissible_distance:             # <<<<<<<<<<<<<<
@@ -20409,9 +20764,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
         }
       }
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":138
+      /* "marriage_code.pyx":152
  *                 if d3 >= minimum_permissible_distance:
  *                     least_bad_distance = min(least_bad_distance, d3)
  *             for d4 in other_couples.values():             # <<<<<<<<<<<<<<
@@ -20419,21 +20774,21 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                     dis_prob3 = 1
  */
       __pyx_t_2 = 0;
-      __pyx_t_13 = __Pyx_dict_iterator(__pyx_v_other_couples, 1, __pyx_n_s_values, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 138, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __Pyx_XDECREF(__pyx_t_6);
-      __pyx_t_6 = __pyx_t_13;
-      __pyx_t_13 = 0;
+      __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_other_couples, 1, __pyx_n_s_values, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 152, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __Pyx_XDECREF(__pyx_t_1);
+      __pyx_t_1 = __pyx_t_6;
+      __pyx_t_6 = 0;
       while (1) {
-        __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_6, __pyx_t_3, &__pyx_t_2, NULL, &__pyx_t_13, NULL, __pyx_t_7);
+        __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_3, &__pyx_t_2, NULL, &__pyx_t_6, NULL, __pyx_t_7);
         if (unlikely(__pyx_t_4 == 0)) break;
-        if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 138, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 138, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 152, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 152, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __pyx_v_d4 = __pyx_t_9;
 
-        /* "marriage_code.pyx":139
+        /* "marriage_code.pyx":153
  *                     least_bad_distance = min(least_bad_distance, d3)
  *             for d4 in other_couples.values():
  *                 if d == least_bad_distance:             # <<<<<<<<<<<<<<
@@ -20443,7 +20798,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         __pyx_t_10 = (__pyx_v_d == __pyx_v_least_bad_distance);
         if (__pyx_t_10) {
 
-          /* "marriage_code.pyx":140
+          /* "marriage_code.pyx":154
  *             for d4 in other_couples.values():
  *                 if d == least_bad_distance:
  *                     dis_prob3 = 1             # <<<<<<<<<<<<<<
@@ -20452,7 +20807,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
           __pyx_v_dis_prob3 = 1.0;
 
-          /* "marriage_code.pyx":139
+          /* "marriage_code.pyx":153
  *                     least_bad_distance = min(least_bad_distance, d3)
  *             for d4 in other_couples.values():
  *                 if d == least_bad_distance:             # <<<<<<<<<<<<<<
@@ -20462,7 +20817,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
           goto __pyx_L74;
         }
 
-        /* "marriage_code.pyx":142
+        /* "marriage_code.pyx":156
  *                     dis_prob3 = 1
  *                 else:
  *                     dis_prob3 = 0             # <<<<<<<<<<<<<<
@@ -20474,7 +20829,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         }
         __pyx_L74:;
 
-        /* "marriage_code.pyx":143
+        /* "marriage_code.pyx":157
  *                 else:
  *                     dis_prob3 = 0
  *                 if abs(dis_prob3) < tol:             # <<<<<<<<<<<<<<
@@ -20484,7 +20839,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
         __pyx_t_10 = (fabsf(__pyx_v_dis_prob3) < __pyx_v_tol);
         if (__pyx_t_10) {
 
-          /* "marriage_code.pyx":144
+          /* "marriage_code.pyx":158
  *                     dis_prob3 = 0
  *                 if abs(dis_prob3) < tol:
  *                     dis_prob3 = 0             # <<<<<<<<<<<<<<
@@ -20493,7 +20848,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
           __pyx_v_dis_prob3 = 0.0;
 
-          /* "marriage_code.pyx":143
+          /* "marriage_code.pyx":157
  *                 else:
  *                     dis_prob3 = 0
  *                 if abs(dis_prob3) < tol:             # <<<<<<<<<<<<<<
@@ -20502,52 +20857,52 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
         }
 
-        /* "marriage_code.pyx":145
+        /* "marriage_code.pyx":159
  *                 if abs(dis_prob3) < tol:
  *                     dis_prob3 = 0
  *                 dis_probs3.append(dis_prob)             # <<<<<<<<<<<<<<
  * 
  *             total_prob2 = sum(dis_probs)
  */
-        if (unlikely(!__pyx_v_dis_prob)) { __Pyx_RaiseUnboundLocalError("dis_prob"); __PYX_ERR(0, 145, __pyx_L1_error) }
-        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs3, __pyx_v_dis_prob); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 145, __pyx_L1_error)
+        if (unlikely(!__pyx_v_dis_prob)) { __Pyx_RaiseUnboundLocalError("dis_prob"); __PYX_ERR(0, 159, __pyx_L1_error) }
+        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs3, __pyx_v_dis_prob); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 159, __pyx_L1_error)
       }
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":147
+      /* "marriage_code.pyx":161
  *                 dis_probs3.append(dis_prob)
  * 
  *             total_prob2 = sum(dis_probs)             # <<<<<<<<<<<<<<
  *             for d5 in dis_probs3:
  *                 dis_probs.append(d5 / total_prob)
  */
-      __pyx_t_6 = __Pyx_PyObject_CallOneArg(__pyx_builtin_sum, __pyx_v_dis_probs); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 147, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 147, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_builtin_sum, __pyx_v_dis_probs); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 161, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
+      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 161, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __pyx_v_total_prob2 = __pyx_t_9;
 
-      /* "marriage_code.pyx":148
+      /* "marriage_code.pyx":162
  * 
  *             total_prob2 = sum(dis_probs)
  *             for d5 in dis_probs3:             # <<<<<<<<<<<<<<
  *                 dis_probs.append(d5 / total_prob)
  * 
  */
-      __pyx_t_6 = __pyx_v_dis_probs3; __Pyx_INCREF(__pyx_t_6); __pyx_t_3 = 0;
+      __pyx_t_1 = __pyx_v_dis_probs3; __Pyx_INCREF(__pyx_t_1); __pyx_t_3 = 0;
       for (;;) {
-        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_6)) break;
+        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_13 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_3); __Pyx_INCREF(__pyx_t_13); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 148, __pyx_L1_error)
+        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 162, __pyx_L1_error)
         #else
-        __pyx_t_13 = PySequence_ITEM(__pyx_t_6, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 148, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_1, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 162, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
         #endif
-        __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 148, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 162, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __pyx_v_d5 = __pyx_t_9;
 
-        /* "marriage_code.pyx":149
+        /* "marriage_code.pyx":163
  *             total_prob2 = sum(dis_probs)
  *             for d5 in dis_probs3:
  *                 dis_probs.append(d5 / total_prob)             # <<<<<<<<<<<<<<
@@ -20556,14 +20911,14 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
         if (unlikely(__pyx_v_total_prob == 0)) {
           PyErr_SetString(PyExc_ZeroDivisionError, "float division");
-          __PYX_ERR(0, 149, __pyx_L1_error)
+          __PYX_ERR(0, 163, __pyx_L1_error)
         }
-        __pyx_t_13 = PyFloat_FromDouble((__pyx_v_d5 / __pyx_v_total_prob)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 149, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 149, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_6 = PyFloat_FromDouble((__pyx_v_d5 / __pyx_v_total_prob)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 163, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_dis_probs, __pyx_t_6); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 163, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-        /* "marriage_code.pyx":148
+        /* "marriage_code.pyx":162
  * 
  *             total_prob2 = sum(dis_probs)
  *             for d5 in dis_probs3:             # <<<<<<<<<<<<<<
@@ -20571,79 +20926,79 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  * 
  */
       }
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "marriage_code.pyx":151
+      /* "marriage_code.pyx":165
  *                 dis_probs.append(d5 / total_prob)
  * 
  *             couple_index = possible_finite_couples_array[np.random.choice(len(other_couples), p=dis_probs)]             # <<<<<<<<<<<<<<
  *             couple = (couple_index[0], couple_index[1])
  * 
  */
-      __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_np); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_random); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_choice); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_3 = PyDict_Size(__pyx_v_other_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 151, __pyx_L1_error)
-      __pyx_t_13 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 151, __pyx_L1_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 165, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __Pyx_GIVEREF(__pyx_t_13);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_13)) __PYX_ERR(0, 151, __pyx_L1_error);
-      __pyx_t_13 = 0;
-      __pyx_t_13 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      if (PyDict_SetItem(__pyx_t_13, __pyx_n_s_p, __pyx_v_dis_probs) < 0) __PYX_ERR(0, 151, __pyx_L1_error)
-      __pyx_t_15 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_1, __pyx_t_13); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_15);
+      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_random); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_choice); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_3 = PyDict_Size(__pyx_v_other_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 165, __pyx_L1_error)
+      __pyx_t_6 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_13 = PyTuple_New(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_GIVEREF(__pyx_t_6);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_6)) __PYX_ERR(0, 165, __pyx_L1_error);
+      __pyx_t_6 = 0;
+      __pyx_t_6 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_p, __pyx_v_dis_probs) < 0) __PYX_ERR(0, 165, __pyx_L1_error)
+      __pyx_t_15 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_13, __pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_15);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_13 = __Pyx_PyObject_GetItem(__pyx_v_possible_finite_couples_array, __pyx_t_15); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 151, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_6 = __Pyx_PyObject_GetItem(__pyx_v_possible_finite_couples_array, __pyx_t_15); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 165, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_13);
-      __pyx_t_13 = 0;
+      __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_6);
+      __pyx_t_6 = 0;
 
-      /* "marriage_code.pyx":152
+      /* "marriage_code.pyx":166
  * 
  *             couple_index = possible_finite_couples_array[np.random.choice(len(other_couples), p=dis_probs)]
  *             couple = (couple_index[0], couple_index[1])             # <<<<<<<<<<<<<<
  * 
  *         unions.add(couple)
  */
-      __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_couple_index, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 152, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_15 = __Pyx_GetItemInt(__pyx_v_couple_index, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 152, __pyx_L1_error)
+      __pyx_t_6 = __Pyx_GetItemInt(__pyx_v_couple_index, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 166, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_15 = __Pyx_GetItemInt(__pyx_v_couple_index, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 166, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 152, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __Pyx_GIVEREF(__pyx_t_13);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_13)) __PYX_ERR(0, 152, __pyx_L1_error);
+      __pyx_t_13 = PyTuple_New(2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 166, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_GIVEREF(__pyx_t_6);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_6)) __PYX_ERR(0, 166, __pyx_L1_error);
       __Pyx_GIVEREF(__pyx_t_15);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_15)) __PYX_ERR(0, 152, __pyx_L1_error);
-      __pyx_t_13 = 0;
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 1, __pyx_t_15)) __PYX_ERR(0, 166, __pyx_L1_error);
+      __pyx_t_6 = 0;
       __pyx_t_15 = 0;
-      __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_1));
-      __pyx_t_1 = 0;
+      __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_13));
+      __pyx_t_13 = 0;
     }
     __pyx_L43:;
 
-    /* "marriage_code.pyx":154
+    /* "marriage_code.pyx":168
  *             couple = (couple_index[0], couple_index[1])
  * 
  *         unions.add(couple)             # <<<<<<<<<<<<<<
  *         man_idx = indices[couple[0]]
  *         woman_idx = indices[couple[1]]
  */
-    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_v_couple); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 154, __pyx_L1_error)
+    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_v_couple); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 168, __pyx_L1_error)
 
-    /* "marriage_code.pyx":155
+    /* "marriage_code.pyx":169
  * 
  *         unions.add(couple)
  *         man_idx = indices[couple[0]]             # <<<<<<<<<<<<<<
@@ -20652,18 +21007,18 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 155, __pyx_L1_error)
+      __PYX_ERR(0, 169, __pyx_L1_error)
     }
-    __pyx_t_1 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 155, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 155, __pyx_L1_error)
+    __pyx_t_13 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 169, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_13); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 169, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_15); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 155, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_15); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 169, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
     __pyx_v_man_idx = __pyx_t_7;
 
-    /* "marriage_code.pyx":156
+    /* "marriage_code.pyx":170
  *         unions.add(couple)
  *         man_idx = indices[couple[0]]
  *         woman_idx = indices[couple[1]]             # <<<<<<<<<<<<<<
@@ -20672,18 +21027,18 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 156, __pyx_L1_error)
+      __PYX_ERR(0, 170, __pyx_L1_error)
     }
-    __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 156, __pyx_L1_error)
+    __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 170, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_1 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 156, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
+    __pyx_t_13 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 170, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_1); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 156, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_13); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 170, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
     __pyx_v_woman_idx = __pyx_t_7;
 
-    /* "marriage_code.pyx":157
+    /* "marriage_code.pyx":171
  *         man_idx = indices[couple[0]]
  *         woman_idx = indices[couple[1]]
  *         marriage_distances.append(int(D[man_idx, woman_idx]))             # <<<<<<<<<<<<<<
@@ -20703,14 +21058,14 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     } else if (unlikely(__pyx_t_19 >= __pyx_v_D.shape[1])) __pyx_t_7 = 1;
     if (unlikely(__pyx_t_7 != -1)) {
       __Pyx_RaiseBufferIndexError(__pyx_t_7);
-      __PYX_ERR(0, 157, __pyx_L1_error)
+      __PYX_ERR(0, 171, __pyx_L1_error)
     }
-    __pyx_t_1 = __Pyx_PyInt_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_20 * __pyx_v_D.strides[0]) )) + __pyx_t_19)) )))); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 157, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_marriage_distances, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 157, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __pyx_t_13 = __Pyx_PyInt_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_20 * __pyx_v_D.strides[0]) )) + __pyx_t_19)) )))); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 171, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_marriage_distances, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 171, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":159
+    /* "marriage_code.pyx":173
  *         marriage_distances.append(int(D[man_idx, woman_idx]))
  * 
  *         for pair10, distance10 in possible_finite_couples.items():             # <<<<<<<<<<<<<<
@@ -20718,70 +21073,70 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                 possible_finite_couples2[pair10] = distance10
  */
     __pyx_t_3 = 0;
-    __pyx_t_15 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 159, __pyx_L1_error)
+    __pyx_t_15 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 173, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_XDECREF(__pyx_t_1);
-    __pyx_t_1 = __pyx_t_15;
+    __Pyx_XDECREF(__pyx_t_13);
+    __pyx_t_13 = __pyx_t_15;
     __pyx_t_15 = 0;
     while (1) {
-      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_2, &__pyx_t_3, &__pyx_t_15, &__pyx_t_13, NULL, __pyx_t_7);
+      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_13, __pyx_t_2, &__pyx_t_3, &__pyx_t_15, &__pyx_t_6, NULL, __pyx_t_7);
       if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 159, __pyx_L1_error)
+      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 173, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 159, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 173, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 159, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 173, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __pyx_v_pair10 = __pyx_t_9;
       __pyx_v_distance10 = __pyx_t_8;
 
-      /* "marriage_code.pyx":160
+      /* "marriage_code.pyx":174
  * 
  *         for pair10, distance10 in possible_finite_couples.items():
  *             if couple[0] not in pair10 and couple[1] not in pair10:             # <<<<<<<<<<<<<<
  *                 possible_finite_couples2[pair10] = distance10
  * 
  */
-      __pyx_t_13 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 160, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_6 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 174, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 174, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_13, __pyx_t_15, Py_NE)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 160, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_6, __pyx_t_15, Py_NE)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 174, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      if (__pyx_t_21) {
+      if (__pyx_t_24) {
       } else {
-        __pyx_t_10 = __pyx_t_21;
+        __pyx_t_10 = __pyx_t_24;
         goto __pyx_L82_bool_binop_done;
       }
-      __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 174, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_13 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 160, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_15, __pyx_t_13, Py_NE)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 174, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_15, __pyx_t_6, Py_NE)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 174, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_10 = __pyx_t_21;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_10 = __pyx_t_24;
       __pyx_L82_bool_binop_done:;
       if (__pyx_t_10) {
 
-        /* "marriage_code.pyx":161
+        /* "marriage_code.pyx":175
  *         for pair10, distance10 in possible_finite_couples.items():
  *             if couple[0] not in pair10 and couple[1] not in pair10:
  *                 possible_finite_couples2[pair10] = distance10             # <<<<<<<<<<<<<<
  * 
  *         for couple3, distance3 in possible_finite_couples.items():
  */
-        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_distance10); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 161, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 161, __pyx_L1_error)
+        __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 175, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_pair10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 175, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
-        if (unlikely((PyDict_SetItem(__pyx_v_possible_finite_couples2, __pyx_t_15, __pyx_t_13) < 0))) __PYX_ERR(0, 161, __pyx_L1_error)
+        if (unlikely((PyDict_SetItem(__pyx_v_possible_finite_couples2, __pyx_t_15, __pyx_t_6) < 0))) __PYX_ERR(0, 175, __pyx_L1_error)
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-        /* "marriage_code.pyx":160
+        /* "marriage_code.pyx":174
  * 
  *         for pair10, distance10 in possible_finite_couples.items():
  *             if couple[0] not in pair10 and couple[1] not in pair10:             # <<<<<<<<<<<<<<
@@ -20790,9 +21145,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
       }
     }
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":163
+    /* "marriage_code.pyx":177
  *                 possible_finite_couples2[pair10] = distance10
  * 
  *         for couple3, distance3 in possible_finite_couples.items():             # <<<<<<<<<<<<<<
@@ -20800,67 +21155,67 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                 preferred_couples2[couple3] = distance3
  */
     __pyx_t_2 = 0;
-    __pyx_t_13 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 163, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_13);
-    __Pyx_XDECREF(__pyx_t_1);
-    __pyx_t_1 = __pyx_t_13;
-    __pyx_t_13 = 0;
+    __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 177, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_XDECREF(__pyx_t_13);
+    __pyx_t_13 = __pyx_t_6;
+    __pyx_t_6 = 0;
     while (1) {
-      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_3, &__pyx_t_2, &__pyx_t_13, &__pyx_t_15, NULL, __pyx_t_7);
+      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_13, __pyx_t_3, &__pyx_t_2, &__pyx_t_6, &__pyx_t_15, NULL, __pyx_t_7);
       if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 163, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
+      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 177, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 163, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 163, __pyx_L1_error)
+      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 177, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 177, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_v_couple3 = __pyx_t_8;
       __pyx_v_distance3 = __pyx_t_9;
 
-      /* "marriage_code.pyx":164
+      /* "marriage_code.pyx":178
  * 
  *         for couple3, distance3 in possible_finite_couples.items():
  *             if distance3 in set(original_marriage_dist) and distance3 in desired_finite_distances:             # <<<<<<<<<<<<<<
  *                 preferred_couples2[couple3] = distance3
  * 
  */
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 164, __pyx_L1_error)
+      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 178, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_13 = PySet_New(__pyx_v_original_marriage_dist); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 164, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_21 = (__Pyx_PySet_ContainsTF(__pyx_t_15, __pyx_t_13, Py_EQ)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 164, __pyx_L1_error)
+      __pyx_t_6 = PySet_New(__pyx_v_original_marriage_dist); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 178, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_24 = (__Pyx_PySet_ContainsTF(__pyx_t_15, __pyx_t_6, Py_EQ)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 178, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      if (__pyx_t_21) {
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      if (__pyx_t_24) {
       } else {
-        __pyx_t_10 = __pyx_t_21;
+        __pyx_t_10 = __pyx_t_24;
         goto __pyx_L87_bool_binop_done;
       }
-      __pyx_t_13 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 164, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_13, __pyx_v_desired_finite_distances, Py_EQ)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 164, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_10 = __pyx_t_21;
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 178, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_6, __pyx_v_desired_finite_distances, Py_EQ)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 178, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_10 = __pyx_t_24;
       __pyx_L87_bool_binop_done:;
       if (__pyx_t_10) {
 
-        /* "marriage_code.pyx":165
+        /* "marriage_code.pyx":179
  *         for couple3, distance3 in possible_finite_couples.items():
  *             if distance3 in set(original_marriage_dist) and distance3 in desired_finite_distances:
  *                 preferred_couples2[couple3] = distance3             # <<<<<<<<<<<<<<
  * 
  *         for couple4, distance4 in possible_finite_couples.items():
  */
-        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 165, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple3); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 165, __pyx_L1_error)
+        __pyx_t_6 = PyFloat_FromDouble(__pyx_v_distance3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 179, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple3); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 179, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
-        if (unlikely((PyDict_SetItem(__pyx_v_preferred_couples2, __pyx_t_15, __pyx_t_13) < 0))) __PYX_ERR(0, 165, __pyx_L1_error)
+        if (unlikely((PyDict_SetItem(__pyx_v_preferred_couples2, __pyx_t_15, __pyx_t_6) < 0))) __PYX_ERR(0, 179, __pyx_L1_error)
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-        /* "marriage_code.pyx":164
+        /* "marriage_code.pyx":178
  * 
  *         for couple3, distance3 in possible_finite_couples.items():
  *             if distance3 in set(original_marriage_dist) and distance3 in desired_finite_distances:             # <<<<<<<<<<<<<<
@@ -20869,9 +21224,9 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
       }
     }
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":167
+    /* "marriage_code.pyx":181
  *                 preferred_couples2[couple3] = distance3
  * 
  *         for couple4, distance4 in possible_finite_couples.items():             # <<<<<<<<<<<<<<
@@ -20879,53 +21234,53 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *                 other_couples2[couple4] = distance4
  */
     __pyx_t_3 = 0;
-    __pyx_t_13 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 167, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_13);
-    __Pyx_XDECREF(__pyx_t_1);
-    __pyx_t_1 = __pyx_t_13;
-    __pyx_t_13 = 0;
+    __pyx_t_6 = __Pyx_dict_iterator(__pyx_v_possible_finite_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 181, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_XDECREF(__pyx_t_13);
+    __pyx_t_13 = __pyx_t_6;
+    __pyx_t_6 = 0;
     while (1) {
-      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_1, __pyx_t_2, &__pyx_t_3, &__pyx_t_13, &__pyx_t_15, NULL, __pyx_t_7);
+      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_13, __pyx_t_2, &__pyx_t_3, &__pyx_t_6, &__pyx_t_15, NULL, __pyx_t_7);
       if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 167, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
+      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 181, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 167, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 167, __pyx_L1_error)
+      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 181, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 181, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_v_couple4 = __pyx_t_9;
       __pyx_v_distance4 = __pyx_t_8;
 
-      /* "marriage_code.pyx":168
+      /* "marriage_code.pyx":182
  * 
  *         for couple4, distance4 in possible_finite_couples.items():
  *             if couple4 not in preferred_couples2:             # <<<<<<<<<<<<<<
  *                 other_couples2[couple4] = distance4
  * 
  */
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple4); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 168, __pyx_L1_error)
+      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_couple4); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 182, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_10 = (__Pyx_PyDict_ContainsTF(__pyx_t_15, __pyx_v_preferred_couples2, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 168, __pyx_L1_error)
+      __pyx_t_10 = (__Pyx_PyDict_ContainsTF(__pyx_t_15, __pyx_v_preferred_couples2, Py_NE)); if (unlikely((__pyx_t_10 < 0))) __PYX_ERR(0, 182, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       if (__pyx_t_10) {
 
-        /* "marriage_code.pyx":169
+        /* "marriage_code.pyx":183
  *         for couple4, distance4 in possible_finite_couples.items():
  *             if couple4 not in preferred_couples2:
  *                 other_couples2[couple4] = distance4             # <<<<<<<<<<<<<<
  * 
- *         iter += 1
+ *         iter2 += 1
  */
-        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance4); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 169, __pyx_L1_error)
+        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_distance4); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 183, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
-        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_couple4); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 169, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        if (unlikely((PyDict_SetItem(__pyx_v_other_couples2, __pyx_t_13, __pyx_t_15) < 0))) __PYX_ERR(0, 169, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+        __pyx_t_6 = PyFloat_FromDouble(__pyx_v_couple4); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 183, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        if (unlikely((PyDict_SetItem(__pyx_v_other_couples2, __pyx_t_6, __pyx_t_15) < 0))) __PYX_ERR(0, 183, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-        /* "marriage_code.pyx":168
+        /* "marriage_code.pyx":182
  * 
  *         for couple4, distance4 in possible_finite_couples.items():
  *             if couple4 not in preferred_couples2:             # <<<<<<<<<<<<<<
@@ -20934,65 +21289,54 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
       }
     }
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":171
+    /* "marriage_code.pyx":185
  *                 other_couples2[couple4] = distance4
  * 
- *         iter += 1             # <<<<<<<<<<<<<<
+ *         iter2 += 1             # <<<<<<<<<<<<<<
  * 
- *     print("LINE 171")
+ *     if iter2 == 0:
  */
-    __pyx_v_iter = (__pyx_v_iter + 1.0);
+    __pyx_v_iter2 = (__pyx_v_iter2 + 1.0);
   }
 
-  /* "marriage_code.pyx":173
- *         iter += 1
+  /* "marriage_code.pyx":187
+ *         iter2 += 1
  * 
- *     print("LINE 171")             # <<<<<<<<<<<<<<
- *     if iter == 0:
- *         stay_single_forever = will_marry | set(prev_people)
- */
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 173, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-  /* "marriage_code.pyx":174
- * 
- *     print("LINE 171")
- *     if iter == 0:             # <<<<<<<<<<<<<<
+ *     if iter2 == 0:             # <<<<<<<<<<<<<<
  *         stay_single_forever = will_marry | set(prev_people)
  *     else:
  */
-  __pyx_t_10 = (__pyx_v_iter == 0.0);
+  __pyx_t_10 = (__pyx_v_iter2 == 0.0);
   if (__pyx_t_10) {
 
-    /* "marriage_code.pyx":175
- *     print("LINE 171")
- *     if iter == 0:
+    /* "marriage_code.pyx":188
+ * 
+ *     if iter2 == 0:
  *         stay_single_forever = will_marry | set(prev_people)             # <<<<<<<<<<<<<<
  *     else:
  *         for couple6 in possible_couples:
  */
-    __pyx_t_1 = PySet_New(__pyx_v_prev_people); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 175, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_15 = PyNumber_Or(__pyx_v_will_marry, __pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 175, __pyx_L1_error)
+    __pyx_t_13 = PySet_New(__pyx_v_prev_people); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 188, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_15 = PyNumber_Or(__pyx_v_will_marry, __pyx_t_13); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 188, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
     __Pyx_DECREF_SET(__pyx_v_stay_single_forever, ((PyObject*)__pyx_t_15));
     __pyx_t_15 = 0;
 
-    /* "marriage_code.pyx":174
+    /* "marriage_code.pyx":187
+ *         iter2 += 1
  * 
- *     print("LINE 171")
- *     if iter == 0:             # <<<<<<<<<<<<<<
+ *     if iter2 == 0:             # <<<<<<<<<<<<<<
  *         stay_single_forever = will_marry | set(prev_people)
  *     else:
  */
     goto __pyx_L92;
   }
 
-  /* "marriage_code.pyx":177
+  /* "marriage_code.pyx":190
  *         stay_single_forever = will_marry | set(prev_people)
  *     else:
  *         for couple6 in possible_couples:             # <<<<<<<<<<<<<<
@@ -21001,86 +21345,86 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
   /*else*/ {
     __pyx_t_2 = 0;
-    __pyx_t_1 = __Pyx_set_iterator(__pyx_v_possible_couples, 1, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 177, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
+    __pyx_t_13 = __Pyx_set_iterator(__pyx_v_possible_couples, 1, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 190, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
     __Pyx_XDECREF(__pyx_t_15);
-    __pyx_t_15 = __pyx_t_1;
-    __pyx_t_1 = 0;
+    __pyx_t_15 = __pyx_t_13;
+    __pyx_t_13 = 0;
     while (1) {
-      __pyx_t_4 = __Pyx_set_iter_next(__pyx_t_15, __pyx_t_3, &__pyx_t_2, &__pyx_t_1, __pyx_t_7);
+      __pyx_t_4 = __Pyx_set_iter_next(__pyx_t_15, __pyx_t_3, &__pyx_t_2, &__pyx_t_13, __pyx_t_7);
       if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 177, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 177, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 190, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 190, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
       __pyx_v_couple6 = __pyx_t_8;
 
-      /* "marriage_code.pyx":178
+      /* "marriage_code.pyx":191
  *     else:
  *         for couple6 in possible_couples:
  *             for man6 in couple6:             # <<<<<<<<<<<<<<
  *                 stay_single_forever.add(man3)
  * 
  */
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_couple6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 178, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      if (likely(PyList_CheckExact(__pyx_t_1)) || PyTuple_CheckExact(__pyx_t_1)) {
-        __pyx_t_13 = __pyx_t_1; __Pyx_INCREF(__pyx_t_13); __pyx_t_18 = 0;
+      __pyx_t_13 = PyFloat_FromDouble(__pyx_v_couple6); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 191, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      if (likely(PyList_CheckExact(__pyx_t_13)) || PyTuple_CheckExact(__pyx_t_13)) {
+        __pyx_t_6 = __pyx_t_13; __Pyx_INCREF(__pyx_t_6); __pyx_t_18 = 0;
         __pyx_t_14 = NULL;
       } else {
-        __pyx_t_18 = -1; __pyx_t_13 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 178, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_13); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 178, __pyx_L1_error)
+        __pyx_t_18 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_13); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 191, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
+        __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_6); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 191, __pyx_L1_error)
       }
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
       for (;;) {
         if (likely(!__pyx_t_14)) {
-          if (likely(PyList_CheckExact(__pyx_t_13))) {
-            if (__pyx_t_18 >= PyList_GET_SIZE(__pyx_t_13)) break;
+          if (likely(PyList_CheckExact(__pyx_t_6))) {
+            if (__pyx_t_18 >= PyList_GET_SIZE(__pyx_t_6)) break;
             #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_1 = PyList_GET_ITEM(__pyx_t_13, __pyx_t_18); __Pyx_INCREF(__pyx_t_1); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 178, __pyx_L1_error)
+            __pyx_t_13 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_18); __Pyx_INCREF(__pyx_t_13); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 191, __pyx_L1_error)
             #else
-            __pyx_t_1 = PySequence_ITEM(__pyx_t_13, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 178, __pyx_L1_error)
-            __Pyx_GOTREF(__pyx_t_1);
+            __pyx_t_13 = PySequence_ITEM(__pyx_t_6, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 191, __pyx_L1_error)
+            __Pyx_GOTREF(__pyx_t_13);
             #endif
           } else {
-            if (__pyx_t_18 >= PyTuple_GET_SIZE(__pyx_t_13)) break;
+            if (__pyx_t_18 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
             #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_1 = PyTuple_GET_ITEM(__pyx_t_13, __pyx_t_18); __Pyx_INCREF(__pyx_t_1); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 178, __pyx_L1_error)
+            __pyx_t_13 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_18); __Pyx_INCREF(__pyx_t_13); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 191, __pyx_L1_error)
             #else
-            __pyx_t_1 = PySequence_ITEM(__pyx_t_13, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 178, __pyx_L1_error)
-            __Pyx_GOTREF(__pyx_t_1);
+            __pyx_t_13 = PySequence_ITEM(__pyx_t_6, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 191, __pyx_L1_error)
+            __Pyx_GOTREF(__pyx_t_13);
             #endif
           }
         } else {
-          __pyx_t_1 = __pyx_t_14(__pyx_t_13);
-          if (unlikely(!__pyx_t_1)) {
+          __pyx_t_13 = __pyx_t_14(__pyx_t_6);
+          if (unlikely(!__pyx_t_13)) {
             PyObject* exc_type = PyErr_Occurred();
             if (exc_type) {
               if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-              else __PYX_ERR(0, 178, __pyx_L1_error)
+              else __PYX_ERR(0, 191, __pyx_L1_error)
             }
             break;
           }
-          __Pyx_GOTREF(__pyx_t_1);
+          __Pyx_GOTREF(__pyx_t_13);
         }
-        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 178, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 191, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __pyx_v_man6 = __pyx_t_8;
 
-        /* "marriage_code.pyx":179
+        /* "marriage_code.pyx":192
  *         for couple6 in possible_couples:
  *             for man6 in couple6:
  *                 stay_single_forever.add(man3)             # <<<<<<<<<<<<<<
  * 
  *     cdef dict possible_inf_couples = {}
  */
-        __pyx_t_1 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 179, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_11 = PySet_Add(__pyx_v_stay_single_forever, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 179, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_man3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 192, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_11 = PySet_Add(__pyx_v_stay_single_forever, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 192, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-        /* "marriage_code.pyx":178
+        /* "marriage_code.pyx":191
  *     else:
  *         for couple6 in possible_couples:
  *             for man6 in couple6:             # <<<<<<<<<<<<<<
@@ -21088,93 +21432,93 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  * 
  */
       }
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
   }
   __pyx_L92:;
 
-  /* "marriage_code.pyx":181
+  /* "marriage_code.pyx":194
  *                 stay_single_forever.add(man3)
  * 
  *     cdef dict possible_inf_couples = {}             # <<<<<<<<<<<<<<
  *     cdef float man5
  *     cdef float woman5
  */
-  __pyx_t_15 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 181, __pyx_L1_error)
+  __pyx_t_15 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 194, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_15);
   __pyx_v_possible_inf_couples = ((PyObject*)__pyx_t_15);
   __pyx_t_15 = 0;
 
-  /* "marriage_code.pyx":184
+  /* "marriage_code.pyx":197
  *     cdef float man5
  *     cdef float woman5
  *     for man5, woman5 in itertools.combinations(stay_single_forever, 2):             # <<<<<<<<<<<<<<
  *         if D[indices[man5], indices[woman5]] == -1:
  *             possible_inf_couples[(man5, woman5)] = D[indices[man5], indices[woman5]]
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_n_s_itertools); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 184, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_itertools); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 197, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_13 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_combinations); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 197, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_13);
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_n_s_combinations); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 184, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-  __pyx_t_13 = NULL;
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  __pyx_t_6 = NULL;
   __pyx_t_7 = 0;
   #if CYTHON_UNPACK_METHODS
-  if (unlikely(PyMethod_Check(__pyx_t_1))) {
-    __pyx_t_13 = PyMethod_GET_SELF(__pyx_t_1);
-    if (likely(__pyx_t_13)) {
-      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_1);
-      __Pyx_INCREF(__pyx_t_13);
+  if (unlikely(PyMethod_Check(__pyx_t_13))) {
+    __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_13);
+    if (likely(__pyx_t_6)) {
+      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_13);
+      __Pyx_INCREF(__pyx_t_6);
       __Pyx_INCREF(function);
-      __Pyx_DECREF_SET(__pyx_t_1, function);
+      __Pyx_DECREF_SET(__pyx_t_13, function);
       __pyx_t_7 = 1;
     }
   }
   #endif
   {
-    PyObject *__pyx_callargs[3] = {__pyx_t_13, __pyx_v_stay_single_forever, __pyx_int_2};
-    __pyx_t_15 = __Pyx_PyObject_FastCall(__pyx_t_1, __pyx_callargs+1-__pyx_t_7, 2+__pyx_t_7);
-    __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-    if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 184, __pyx_L1_error)
+    PyObject *__pyx_callargs[3] = {__pyx_t_6, __pyx_v_stay_single_forever, __pyx_int_2};
+    __pyx_t_15 = __Pyx_PyObject_FastCall(__pyx_t_13, __pyx_callargs+1-__pyx_t_7, 2+__pyx_t_7);
+    __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+    if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 197, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
   }
   if (likely(PyList_CheckExact(__pyx_t_15)) || PyTuple_CheckExact(__pyx_t_15)) {
-    __pyx_t_1 = __pyx_t_15; __Pyx_INCREF(__pyx_t_1); __pyx_t_3 = 0;
+    __pyx_t_13 = __pyx_t_15; __Pyx_INCREF(__pyx_t_13); __pyx_t_3 = 0;
     __pyx_t_14 = NULL;
   } else {
-    __pyx_t_3 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_15); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 184, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 184, __pyx_L1_error)
+    __pyx_t_3 = -1; __pyx_t_13 = PyObject_GetIter(__pyx_t_15); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 197, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_13); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 197, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
   for (;;) {
     if (likely(!__pyx_t_14)) {
-      if (likely(PyList_CheckExact(__pyx_t_1))) {
-        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_1)) break;
+      if (likely(PyList_CheckExact(__pyx_t_13))) {
+        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_13)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_15 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_3); __Pyx_INCREF(__pyx_t_15); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 184, __pyx_L1_error)
+        __pyx_t_15 = PyList_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_15); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 197, __pyx_L1_error)
         #else
-        __pyx_t_15 = PySequence_ITEM(__pyx_t_1, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 184, __pyx_L1_error)
+        __pyx_t_15 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 197, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
         #endif
       } else {
-        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
+        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_13)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_15 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_3); __Pyx_INCREF(__pyx_t_15); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 184, __pyx_L1_error)
+        __pyx_t_15 = PyTuple_GET_ITEM(__pyx_t_13, __pyx_t_3); __Pyx_INCREF(__pyx_t_15); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 197, __pyx_L1_error)
         #else
-        __pyx_t_15 = PySequence_ITEM(__pyx_t_1, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 184, __pyx_L1_error)
+        __pyx_t_15 = PySequence_ITEM(__pyx_t_13, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 197, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
         #endif
       }
     } else {
-      __pyx_t_15 = __pyx_t_14(__pyx_t_1);
+      __pyx_t_15 = __pyx_t_14(__pyx_t_13);
       if (unlikely(!__pyx_t_15)) {
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 184, __pyx_L1_error)
+          else __PYX_ERR(0, 197, __pyx_L1_error)
         }
         break;
       }
@@ -21186,36 +21530,36 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 184, __pyx_L1_error)
+        __PYX_ERR(0, 197, __pyx_L1_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
-        __pyx_t_13 = PyTuple_GET_ITEM(sequence, 0); 
-        __pyx_t_6 = PyTuple_GET_ITEM(sequence, 1); 
+        __pyx_t_6 = PyTuple_GET_ITEM(sequence, 0); 
+        __pyx_t_1 = PyTuple_GET_ITEM(sequence, 1); 
       } else {
-        __pyx_t_13 = PyList_GET_ITEM(sequence, 0); 
-        __pyx_t_6 = PyList_GET_ITEM(sequence, 1); 
+        __pyx_t_6 = PyList_GET_ITEM(sequence, 0); 
+        __pyx_t_1 = PyList_GET_ITEM(sequence, 1); 
       }
-      __Pyx_INCREF(__pyx_t_13);
       __Pyx_INCREF(__pyx_t_6);
+      __Pyx_INCREF(__pyx_t_1);
       #else
-      __pyx_t_13 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 184, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_6 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 184, __pyx_L1_error)
+      __pyx_t_6 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 197, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_1 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 197, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
       #endif
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_5 = PyObject_GetIter(__pyx_t_15); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 184, __pyx_L1_error)
+      __pyx_t_5 = PyObject_GetIter(__pyx_t_15); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 197, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_5);
-      index = 0; __pyx_t_13 = __pyx_t_16(__pyx_t_5); if (unlikely(!__pyx_t_13)) goto __pyx_L100_unpacking_failed;
-      __Pyx_GOTREF(__pyx_t_13);
-      index = 1; __pyx_t_6 = __pyx_t_16(__pyx_t_5); if (unlikely(!__pyx_t_6)) goto __pyx_L100_unpacking_failed;
+      index = 0; __pyx_t_6 = __pyx_t_16(__pyx_t_5); if (unlikely(!__pyx_t_6)) goto __pyx_L100_unpacking_failed;
       __Pyx_GOTREF(__pyx_t_6);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_5), 2) < 0) __PYX_ERR(0, 184, __pyx_L1_error)
+      index = 1; __pyx_t_1 = __pyx_t_16(__pyx_t_5); if (unlikely(!__pyx_t_1)) goto __pyx_L100_unpacking_failed;
+      __Pyx_GOTREF(__pyx_t_1);
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_5), 2) < 0) __PYX_ERR(0, 197, __pyx_L1_error)
       __pyx_t_16 = NULL;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       goto __pyx_L101_unpacking_done;
@@ -21223,17 +21567,17 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_16 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 184, __pyx_L1_error)
+      __PYX_ERR(0, 197, __pyx_L1_error)
       __pyx_L101_unpacking_done:;
     }
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 184, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 184, __pyx_L1_error)
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 197, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 197, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_v_man5 = __pyx_t_8;
     __pyx_v_woman5 = __pyx_t_9;
 
-    /* "marriage_code.pyx":185
+    /* "marriage_code.pyx":198
  *     cdef float woman5
  *     for man5, woman5 in itertools.combinations(stay_single_forever, 2):
  *         if D[indices[man5], indices[woman5]] == -1:             # <<<<<<<<<<<<<<
@@ -21242,25 +21586,25 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 185, __pyx_L1_error)
+      __PYX_ERR(0, 198, __pyx_L1_error)
     }
-    __pyx_t_15 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 185, __pyx_L1_error)
+    __pyx_t_15 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 198, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_6 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 185, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_1 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 198, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_2 = __Pyx_PyIndex_AsSsize_t(__pyx_t_6); if (unlikely((__pyx_t_2 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 185, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_2 = __Pyx_PyIndex_AsSsize_t(__pyx_t_1); if (unlikely((__pyx_t_2 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 198, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 185, __pyx_L1_error)
+      __PYX_ERR(0, 198, __pyx_L1_error)
     }
-    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 185, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 185, __pyx_L1_error)
+    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 198, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_1);
+    __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 198, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_15); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 185, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_15); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 198, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
     __pyx_t_19 = __pyx_t_2;
     __pyx_t_20 = __pyx_t_18;
@@ -21275,39 +21619,39 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     } else if (unlikely(__pyx_t_20 >= __pyx_v_D.shape[1])) __pyx_t_7 = 1;
     if (unlikely(__pyx_t_7 != -1)) {
       __Pyx_RaiseBufferIndexError(__pyx_t_7);
-      __PYX_ERR(0, 185, __pyx_L1_error)
+      __PYX_ERR(0, 198, __pyx_L1_error)
     }
     __pyx_t_10 = ((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_19 * __pyx_v_D.strides[0]) )) + __pyx_t_20)) ))) == -1.0);
     if (__pyx_t_10) {
 
-      /* "marriage_code.pyx":186
+      /* "marriage_code.pyx":199
  *     for man5, woman5 in itertools.combinations(stay_single_forever, 2):
  *         if D[indices[man5], indices[woman5]] == -1:
  *             possible_inf_couples[(man5, woman5)] = D[indices[man5], indices[woman5]]             # <<<<<<<<<<<<<<
  * 
- *     iter = 0
+ *     iter2 = 0
  */
       if (unlikely(__pyx_v_indices == Py_None)) {
         PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-        __PYX_ERR(0, 186, __pyx_L1_error)
+        __PYX_ERR(0, 199, __pyx_L1_error)
       }
-      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 186, __pyx_L1_error)
+      __pyx_t_15 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_6 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 186, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
+      __pyx_t_1 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-      __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_6); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 186, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __pyx_t_18 = __Pyx_PyIndex_AsSsize_t(__pyx_t_1); if (unlikely((__pyx_t_18 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 199, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       if (unlikely(__pyx_v_indices == Py_None)) {
         PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-        __PYX_ERR(0, 186, __pyx_L1_error)
+        __PYX_ERR(0, 199, __pyx_L1_error)
       }
-      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 186, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 186, __pyx_L1_error)
+      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
+      __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-      __pyx_t_2 = __Pyx_PyIndex_AsSsize_t(__pyx_t_15); if (unlikely((__pyx_t_2 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 186, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      __pyx_t_2 = __Pyx_PyIndex_AsSsize_t(__pyx_t_15); if (unlikely((__pyx_t_2 == (Py_ssize_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
       __pyx_t_20 = __pyx_t_18;
       __pyx_t_19 = __pyx_t_2;
@@ -21322,27 +21666,27 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
       } else if (unlikely(__pyx_t_19 >= __pyx_v_D.shape[1])) __pyx_t_7 = 1;
       if (unlikely(__pyx_t_7 != -1)) {
         __Pyx_RaiseBufferIndexError(__pyx_t_7);
-        __PYX_ERR(0, 186, __pyx_L1_error)
+        __PYX_ERR(0, 199, __pyx_L1_error)
       }
-      __pyx_t_15 = PyFloat_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_20 * __pyx_v_D.strides[0]) )) + __pyx_t_19)) )))); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 186, __pyx_L1_error)
+      __pyx_t_15 = PyFloat_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_20 * __pyx_v_D.strides[0]) )) + __pyx_t_19)) )))); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 186, __pyx_L1_error)
+      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_man5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_1);
+      __pyx_t_6 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_13 = PyFloat_FromDouble(__pyx_v_woman5); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 186, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_5 = PyTuple_New(2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 186, __pyx_L1_error)
+      __pyx_t_5 = PyTuple_New(2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
+      __Pyx_GIVEREF(__pyx_t_1);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error);
       __Pyx_GIVEREF(__pyx_t_6);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_6)) __PYX_ERR(0, 186, __pyx_L1_error);
-      __Pyx_GIVEREF(__pyx_t_13);
-      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 1, __pyx_t_13)) __PYX_ERR(0, 186, __pyx_L1_error);
+      if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 1, __pyx_t_6)) __PYX_ERR(0, 199, __pyx_L1_error);
+      __pyx_t_1 = 0;
       __pyx_t_6 = 0;
-      __pyx_t_13 = 0;
-      if (unlikely((PyDict_SetItem(__pyx_v_possible_inf_couples, __pyx_t_5, __pyx_t_15) < 0))) __PYX_ERR(0, 186, __pyx_L1_error)
+      if (unlikely((PyDict_SetItem(__pyx_v_possible_inf_couples, __pyx_t_5, __pyx_t_15) < 0))) __PYX_ERR(0, 199, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-      /* "marriage_code.pyx":185
+      /* "marriage_code.pyx":198
  *     cdef float woman5
  *     for man5, woman5 in itertools.combinations(stay_single_forever, 2):
  *         if D[indices[man5], indices[woman5]] == -1:             # <<<<<<<<<<<<<<
@@ -21351,7 +21695,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     }
 
-    /* "marriage_code.pyx":184
+    /* "marriage_code.pyx":197
  *     cdef float man5
  *     cdef float woman5
  *     for man5, woman5 in itertools.combinations(stay_single_forever, 2):             # <<<<<<<<<<<<<<
@@ -21359,163 +21703,291 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *             possible_inf_couples[(man5, woman5)] = D[indices[man5], indices[woman5]]
  */
   }
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":188
+  /* "marriage_code.pyx":201
  *             possible_inf_couples[(man5, woman5)] = D[indices[man5], indices[woman5]]
  * 
- *     iter = 0             # <<<<<<<<<<<<<<
+ *     iter2 = 0             # <<<<<<<<<<<<<<
  *     cdef int man_idx2 = 0
  *     cdef int woman_idx2 = 0
  */
-  __pyx_v_iter = 0.0;
+  __pyx_v_iter2 = 0.0;
 
-  /* "marriage_code.pyx":189
+  /* "marriage_code.pyx":202
  * 
- *     iter = 0
+ *     iter2 = 0
  *     cdef int man_idx2 = 0             # <<<<<<<<<<<<<<
  *     cdef int woman_idx2 = 0
- *     cdef float pair20
+ *     cdef double[:] pair20
  */
   __pyx_v_man_idx2 = 0;
 
-  /* "marriage_code.pyx":190
- *     iter = 0
+  /* "marriage_code.pyx":203
+ *     iter2 = 0
  *     cdef int man_idx2 = 0
  *     cdef int woman_idx2 = 0             # <<<<<<<<<<<<<<
- *     cdef float pair20
+ *     cdef double[:] pair20
  *     cdef float distance20
  */
   __pyx_v_woman_idx2 = 0;
 
-  /* "marriage_code.pyx":193
- *     cdef float pair20
+  /* "marriage_code.pyx":206
+ *     cdef double[:] pair20
  *     cdef float distance20
  *     cdef set stay_single_forever2 = set()             # <<<<<<<<<<<<<<
- *     cdef float couple30
+ *     cdef double[:] couple30
  *     cdef float man30
  */
-  __pyx_t_1 = PySet_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 193, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __pyx_v_stay_single_forever2 = ((PyObject*)__pyx_t_1);
-  __pyx_t_1 = 0;
+  __pyx_t_13 = PySet_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 206, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_v_stay_single_forever2 = ((PyObject*)__pyx_t_13);
+  __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":196
- *     cdef float couple30
- *     cdef float man30
- *     while possible_inf_couples and iter < num_inf_couples_to_marry:             # <<<<<<<<<<<<<<
- *         possible_inf_couples_array = list(possible_inf_couples.keys())
- *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+  /* "marriage_code.pyx":211
+ *     cdef int n3
+ *     cdef int n4
+ *     while possible_inf_couples and iter2 < num_inf_couples_to_marry:             # <<<<<<<<<<<<<<
+ *         print("possible_inf_couples size:", len(possible_inf_couples))
+ *         print("iter2:", iter2)
  */
   while (1) {
-    __pyx_t_21 = __Pyx_PyObject_IsTrue(__pyx_v_possible_inf_couples); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 196, __pyx_L1_error)
-    if (__pyx_t_21) {
+    __pyx_t_24 = __Pyx_PyObject_IsTrue(__pyx_v_possible_inf_couples); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 211, __pyx_L1_error)
+    if (__pyx_t_24) {
     } else {
-      __pyx_t_10 = __pyx_t_21;
+      __pyx_t_10 = __pyx_t_24;
       goto __pyx_L106_bool_binop_done;
     }
-    __pyx_t_21 = (__pyx_v_iter < __pyx_v_num_inf_couples_to_marry);
-    __pyx_t_10 = __pyx_t_21;
+    __pyx_t_24 = (__pyx_v_iter2 < __pyx_v_num_inf_couples_to_marry);
+    __pyx_t_10 = __pyx_t_24;
     __pyx_L106_bool_binop_done:;
     if (!__pyx_t_10) break;
 
-    /* "marriage_code.pyx":197
- *     cdef float man30
- *     while possible_inf_couples and iter < num_inf_couples_to_marry:
- *         possible_inf_couples_array = list(possible_inf_couples.keys())             # <<<<<<<<<<<<<<
- *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
- *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+    /* "marriage_code.pyx":212
+ *     cdef int n4
+ *     while possible_inf_couples and iter2 < num_inf_couples_to_marry:
+ *         print("possible_inf_couples size:", len(possible_inf_couples))             # <<<<<<<<<<<<<<
+ *         print("iter2:", iter2)
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
  */
-    __pyx_t_1 = __Pyx_PyDict_Keys(__pyx_v_possible_inf_couples); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 197, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_15 = __Pyx_PySequence_ListKeepNew(__pyx_t_1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 197, __pyx_L1_error)
+    __pyx_t_3 = PyDict_Size(__pyx_v_possible_inf_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 212, __pyx_L1_error)
+    __pyx_t_13 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 212, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 212, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __Pyx_XDECREF_SET(__pyx_v_possible_inf_couples_array, ((PyObject*)__pyx_t_15));
-    __pyx_t_15 = 0;
+    __Pyx_INCREF(__pyx_kp_s_possible_inf_couples_size);
+    __Pyx_GIVEREF(__pyx_kp_s_possible_inf_couples_size);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_kp_s_possible_inf_couples_size)) __PYX_ERR(0, 212, __pyx_L1_error);
+    __Pyx_GIVEREF(__pyx_t_13);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_13)) __PYX_ERR(0, 212, __pyx_L1_error);
+    __pyx_t_13 = 0;
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_t_15, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 212, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":198
- *     while possible_inf_couples and iter < num_inf_couples_to_marry:
- *         possible_inf_couples_array = list(possible_inf_couples.keys())
- *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly             # <<<<<<<<<<<<<<
- *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
- * 
+    /* "marriage_code.pyx":213
+ *     while possible_inf_couples and iter2 < num_inf_couples_to_marry:
+ *         print("possible_inf_couples size:", len(possible_inf_couples))
+ *         print("iter2:", iter2)             # <<<<<<<<<<<<<<
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
  */
-    __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 198, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_random); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 198, __pyx_L1_error)
+    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_iter2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 213, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 213, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __Pyx_INCREF(__pyx_kp_s_iter2);
+    __Pyx_GIVEREF(__pyx_kp_s_iter2);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_kp_s_iter2)) __PYX_ERR(0, 213, __pyx_L1_error);
+    __Pyx_GIVEREF(__pyx_t_13);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_13)) __PYX_ERR(0, 213, __pyx_L1_error);
+    __pyx_t_13 = 0;
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_t_15, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 213, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":214
+ *         print("possible_inf_couples size:", len(possible_inf_couples))
+ *         print("iter2:", iter2)
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)             # <<<<<<<<<<<<<<
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
+ *         print("after possible_inf_couples_array")
+ */
+    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_num_inf_couples_to_marry); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 214, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 214, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __Pyx_INCREF(__pyx_kp_s_num_inf_couples_to_marry);
+    __Pyx_GIVEREF(__pyx_kp_s_num_inf_couples_to_marry);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_kp_s_num_inf_couples_to_marry)) __PYX_ERR(0, 214, __pyx_L1_error);
+    __Pyx_GIVEREF(__pyx_t_13);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_13)) __PYX_ERR(0, 214, __pyx_L1_error);
+    __pyx_t_13 = 0;
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_t_15, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 214, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":215
+ *         print("iter2:", iter2)
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))             # <<<<<<<<<<<<<<
+ *         print("after possible_inf_couples_array")
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 215, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_array); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 215, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_choice); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 198, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_3 = PyDict_Size(__pyx_v_possible_inf_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 198, __pyx_L1_error)
-    __pyx_t_5 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 198, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_13 = NULL;
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_15 = __Pyx_PyDict_Keys(__pyx_v_possible_inf_couples); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 215, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __pyx_t_6 = __Pyx_PySequence_ListKeepNew(__pyx_t_15); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 215, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_15 = NULL;
     __pyx_t_7 = 0;
     #if CYTHON_UNPACK_METHODS
-    if (likely(PyMethod_Check(__pyx_t_1))) {
-      __pyx_t_13 = PyMethod_GET_SELF(__pyx_t_1);
-      if (likely(__pyx_t_13)) {
-        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_1);
-        __Pyx_INCREF(__pyx_t_13);
+    if (unlikely(PyMethod_Check(__pyx_t_5))) {
+      __pyx_t_15 = PyMethod_GET_SELF(__pyx_t_5);
+      if (likely(__pyx_t_15)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_5);
+        __Pyx_INCREF(__pyx_t_15);
         __Pyx_INCREF(function);
-        __Pyx_DECREF_SET(__pyx_t_1, function);
+        __Pyx_DECREF_SET(__pyx_t_5, function);
         __pyx_t_7 = 1;
       }
     }
     #endif
     {
-      PyObject *__pyx_callargs[2] = {__pyx_t_13, __pyx_t_5};
-      __pyx_t_15 = __Pyx_PyObject_FastCall(__pyx_t_1, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
-      __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
+      PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_6};
+      __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_5, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
+      __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 215, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 198, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_15);
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
-    __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_15);
-    __pyx_t_15 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_possible_inf_couples_array, __pyx_t_13);
+    __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":199
- *         possible_inf_couples_array = list(possible_inf_couples.keys())
+    /* "marriage_code.pyx":216
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
+ *         print("after possible_inf_couples_array")             # <<<<<<<<<<<<<<
  *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ *         print("after couple_index")
+ */
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__12, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 216, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":217
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
+ *         print("after possible_inf_couples_array")
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly             # <<<<<<<<<<<<<<
+ *         print("after couple_index")
+ *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_np); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 217, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_random); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 217, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_choice); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 217, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_3 = PyDict_Size(__pyx_v_possible_inf_couples); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 217, __pyx_L1_error)
+    __pyx_t_6 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 217, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_15 = NULL;
+    __pyx_t_7 = 0;
+    #if CYTHON_UNPACK_METHODS
+    if (likely(PyMethod_Check(__pyx_t_5))) {
+      __pyx_t_15 = PyMethod_GET_SELF(__pyx_t_5);
+      if (likely(__pyx_t_15)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_5);
+        __Pyx_INCREF(__pyx_t_15);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_5, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #endif
+    {
+      PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_6};
+      __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_5, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
+      __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 217, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    }
+    __Pyx_XDECREF_SET(__pyx_v_couple_index, __pyx_t_13);
+    __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":218
+ *         print("after possible_inf_couples_array")
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ *         print("after couple_index")             # <<<<<<<<<<<<<<
+ *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+ *         print("after couple")
+ */
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__13, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 218, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":219
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ *         print("after couple_index")
  *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])             # <<<<<<<<<<<<<<
+ *         print("after couple")
+ * 
+ */
+    __pyx_t_13 = __Pyx_PyObject_GetItem(__pyx_v_possible_inf_couples_array, __pyx_v_couple_index); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 219, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_5 = __Pyx_GetItemInt(__pyx_t_13, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 219, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_t_13 = __Pyx_PyObject_GetItem(__pyx_v_possible_inf_couples_array, __pyx_v_couple_index); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 219, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_6 = __Pyx_GetItemInt(__pyx_t_13, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 219, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_t_13 = PyTuple_New(2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 219, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_GIVEREF(__pyx_t_5);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_5)) __PYX_ERR(0, 219, __pyx_L1_error);
+    __Pyx_GIVEREF(__pyx_t_6);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 1, __pyx_t_6)) __PYX_ERR(0, 219, __pyx_L1_error);
+    __pyx_t_5 = 0;
+    __pyx_t_6 = 0;
+    __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_13));
+    __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":220
+ *         print("after couple_index")
+ *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+ *         print("after couple")             # <<<<<<<<<<<<<<
  * 
  *         unions.add(couple)
  */
-    __pyx_t_15 = __Pyx_PyObject_GetItem(__pyx_v_possible_inf_couples_array, __pyx_v_couple_index); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_1 = __Pyx_GetItemInt(__pyx_t_15, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_15 = __Pyx_PyObject_GetItem(__pyx_v_possible_inf_couples_array, __pyx_v_couple_index); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_5 = __Pyx_GetItemInt(__pyx_t_15, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 199, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 199, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_GIVEREF(__pyx_t_1);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_1)) __PYX_ERR(0, 199, __pyx_L1_error);
-    __Pyx_GIVEREF(__pyx_t_5);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_5)) __PYX_ERR(0, 199, __pyx_L1_error);
-    __pyx_t_1 = 0;
-    __pyx_t_5 = 0;
-    __Pyx_XDECREF_SET(__pyx_v_couple, ((PyObject*)__pyx_t_15));
-    __pyx_t_15 = 0;
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 220, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":201
- *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+    /* "marriage_code.pyx":222
+ *         print("after couple")
  * 
  *         unions.add(couple)             # <<<<<<<<<<<<<<
  *         man_idx2 = indices[couple[0]]
  *         woman_idx2 = indices[couple[1]]
  */
-    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_v_couple); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 201, __pyx_L1_error)
+    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_v_couple); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 222, __pyx_L1_error)
 
-    /* "marriage_code.pyx":202
+    /* "marriage_code.pyx":223
  * 
  *         unions.add(couple)
  *         man_idx2 = indices[couple[0]]             # <<<<<<<<<<<<<<
@@ -21524,43 +21996,43 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 202, __pyx_L1_error)
+      __PYX_ERR(0, 223, __pyx_L1_error)
     }
-    __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 202, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_5 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_15); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 202, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_5); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 202, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    __pyx_t_13 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 223, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_6 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_13); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 223, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_6); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 223, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_v_man_idx2 = __pyx_t_7;
 
-    /* "marriage_code.pyx":203
+    /* "marriage_code.pyx":224
  *         unions.add(couple)
  *         man_idx2 = indices[couple[0]]
  *         woman_idx2 = indices[couple[1]]             # <<<<<<<<<<<<<<
  *         marriage_distances.append(int(D[man_idx2, woman_idx2]))
- * 
+ *         ckeys3 = np.array(list(possible_inf_couples.keys()))
  */
     if (unlikely(__pyx_v_indices == Py_None)) {
       PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-      __PYX_ERR(0, 203, __pyx_L1_error)
+      __PYX_ERR(0, 224, __pyx_L1_error)
     }
-    __pyx_t_5 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 203, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_15 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_5); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 203, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_15); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 203, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_6 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 224, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_13 = __Pyx_PyDict_GetItem(__pyx_v_indices, __pyx_t_6); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 224, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_t_13); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 224, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
     __pyx_v_woman_idx2 = __pyx_t_7;
 
-    /* "marriage_code.pyx":204
+    /* "marriage_code.pyx":225
  *         man_idx2 = indices[couple[0]]
  *         woman_idx2 = indices[couple[1]]
  *         marriage_distances.append(int(D[man_idx2, woman_idx2]))             # <<<<<<<<<<<<<<
- * 
- *         for pair20, distance20 in possible_inf_couples.items():
+ *         ckeys3 = np.array(list(possible_inf_couples.keys()))
+ *         cvalues3 = np.array(list(possible_inf_couples.values()))
  */
     __pyx_t_19 = __pyx_v_man_idx2;
     __pyx_t_20 = __pyx_v_woman_idx2;
@@ -21575,321 +22047,467 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
     } else if (unlikely(__pyx_t_20 >= __pyx_v_D.shape[1])) __pyx_t_7 = 1;
     if (unlikely(__pyx_t_7 != -1)) {
       __Pyx_RaiseBufferIndexError(__pyx_t_7);
-      __PYX_ERR(0, 204, __pyx_L1_error)
+      __PYX_ERR(0, 225, __pyx_L1_error)
     }
-    __pyx_t_15 = __Pyx_PyInt_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_19 * __pyx_v_D.strides[0]) )) + __pyx_t_20)) )))); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 204, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_15);
-    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_marriage_distances, __pyx_t_15); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 204, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_13 = __Pyx_PyInt_FromDouble((*((double *) ( /* dim=1 */ ((char *) (((double *) ( /* dim=0 */ (__pyx_v_D.data + __pyx_t_19 * __pyx_v_D.strides[0]) )) + __pyx_t_20)) )))); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 225, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_marriage_distances, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 225, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":206
+    /* "marriage_code.pyx":226
+ *         woman_idx2 = indices[couple[1]]
  *         marriage_distances.append(int(D[man_idx2, woman_idx2]))
- * 
- *         for pair20, distance20 in possible_inf_couples.items():             # <<<<<<<<<<<<<<
- *             if couple[0] not in pair20 and couple[1] not in pair20:
- *                 possible_inf_couples[pair20] = distance20
+ *         ckeys3 = np.array(list(possible_inf_couples.keys()))             # <<<<<<<<<<<<<<
+ *         cvalues3 = np.array(list(possible_inf_couples.values()))
+ *         n3 = len(ckeys3)
  */
-    __pyx_t_3 = 0;
-    __pyx_t_5 = __Pyx_dict_iterator(__pyx_v_possible_inf_couples, 1, __pyx_n_s_items, (&__pyx_t_2), (&__pyx_t_7)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 206, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_np); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 226, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_array); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 226, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __Pyx_XDECREF(__pyx_t_15);
-    __pyx_t_15 = __pyx_t_5;
-    __pyx_t_5 = 0;
-    while (1) {
-      __pyx_t_4 = __Pyx_dict_iter_next(__pyx_t_15, __pyx_t_2, &__pyx_t_3, &__pyx_t_5, &__pyx_t_1, NULL, __pyx_t_7);
-      if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 206, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_5);
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 206, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_6 = __Pyx_PyDict_Keys(__pyx_v_possible_inf_couples); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 226, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_15 = __Pyx_PySequence_ListKeepNew(__pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 226, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_t_6 = NULL;
+    __pyx_t_7 = 0;
+    #if CYTHON_UNPACK_METHODS
+    if (unlikely(PyMethod_Check(__pyx_t_5))) {
+      __pyx_t_6 = PyMethod_GET_SELF(__pyx_t_5);
+      if (likely(__pyx_t_6)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_5);
+        __Pyx_INCREF(__pyx_t_6);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_5, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #endif
+    {
+      PyObject *__pyx_callargs[2] = {__pyx_t_6, __pyx_t_15};
+      __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_5, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
+      __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+      if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 226, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 206, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __pyx_v_pair20 = __pyx_t_9;
-      __pyx_v_distance20 = __pyx_t_8;
+    }
+    __Pyx_XDECREF_SET(__pyx_v_ckeys3, __pyx_t_13);
+    __pyx_t_13 = 0;
 
-      /* "marriage_code.pyx":207
- * 
- *         for pair20, distance20 in possible_inf_couples.items():
+    /* "marriage_code.pyx":227
+ *         marriage_distances.append(int(D[man_idx2, woman_idx2]))
+ *         ckeys3 = np.array(list(possible_inf_couples.keys()))
+ *         cvalues3 = np.array(list(possible_inf_couples.values()))             # <<<<<<<<<<<<<<
+ *         n3 = len(ckeys3)
+ *         for i4 in range(n3-1):
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_np); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 227, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_array); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 227, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    __pyx_t_5 = __Pyx_PyDict_Values(__pyx_v_possible_inf_couples); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 227, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __pyx_t_6 = __Pyx_PySequence_ListKeepNew(__pyx_t_5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 227, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    __pyx_t_5 = NULL;
+    __pyx_t_7 = 0;
+    #if CYTHON_UNPACK_METHODS
+    if (unlikely(PyMethod_Check(__pyx_t_15))) {
+      __pyx_t_5 = PyMethod_GET_SELF(__pyx_t_15);
+      if (likely(__pyx_t_5)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_15);
+        __Pyx_INCREF(__pyx_t_5);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_15, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #endif
+    {
+      PyObject *__pyx_callargs[2] = {__pyx_t_5, __pyx_t_6};
+      __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_15, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
+      __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 227, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    }
+    __Pyx_XDECREF_SET(__pyx_v_cvalues3, __pyx_t_13);
+    __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":228
+ *         ckeys3 = np.array(list(possible_inf_couples.keys()))
+ *         cvalues3 = np.array(list(possible_inf_couples.values()))
+ *         n3 = len(ckeys3)             # <<<<<<<<<<<<<<
+ *         for i4 in range(n3-1):
+ *             pair20 = ckeys3[i4]
+ */
+    __pyx_t_3 = PyObject_Length(__pyx_v_ckeys3); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 228, __pyx_L1_error)
+    __pyx_v_n3 = __pyx_t_3;
+
+    /* "marriage_code.pyx":229
+ *         cvalues3 = np.array(list(possible_inf_couples.values()))
+ *         n3 = len(ckeys3)
+ *         for i4 in range(n3-1):             # <<<<<<<<<<<<<<
+ *             pair20 = ckeys3[i4]
+ *             distance20 = cvalues3[i4]
+ */
+    __pyx_t_21 = (__pyx_v_n3 - 1);
+    __pyx_t_22 = __pyx_t_21;
+    for (__pyx_t_36 = 0; __pyx_t_36 < __pyx_t_22; __pyx_t_36+=1) {
+      __pyx_v_i4 = __pyx_t_36;
+
+      /* "marriage_code.pyx":230
+ *         n3 = len(ckeys3)
+ *         for i4 in range(n3-1):
+ *             pair20 = ckeys3[i4]             # <<<<<<<<<<<<<<
+ *             distance20 = cvalues3[i4]
+ * #        for pair20, distance20 in possible_inf_couples.items():
+ */
+      __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_ckeys3, __pyx_v_i4, long, 1, __Pyx_PyInt_From_long, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 230, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_23 = __Pyx_PyObject_to_MemoryviewSlice_ds_double(__pyx_t_13, PyBUF_WRITABLE); if (unlikely(!__pyx_t_23.memview)) __PYX_ERR(0, 230, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __PYX_XCLEAR_MEMVIEW(&__pyx_v_pair20, 1);
+      __pyx_v_pair20 = __pyx_t_23;
+      __pyx_t_23.memview = NULL;
+      __pyx_t_23.data = NULL;
+
+      /* "marriage_code.pyx":231
+ *         for i4 in range(n3-1):
+ *             pair20 = ckeys3[i4]
+ *             distance20 = cvalues3[i4]             # <<<<<<<<<<<<<<
+ * #        for pair20, distance20 in possible_inf_couples.items():
+ *             if couple[0] not in pair20 and couple[1] not in pair20:
+ */
+      __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_cvalues3, __pyx_v_i4, long, 1, __Pyx_PyInt_From_long, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 231, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 231, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __pyx_v_distance20 = __pyx_t_9;
+
+      /* "marriage_code.pyx":233
+ *             distance20 = cvalues3[i4]
+ * #        for pair20, distance20 in possible_inf_couples.items():
  *             if couple[0] not in pair20 and couple[1] not in pair20:             # <<<<<<<<<<<<<<
  *                 possible_inf_couples[pair20] = distance20
- * 
+ *         print("after first for loop")
  */
-      __pyx_t_1 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_5 = PyFloat_FromDouble(__pyx_v_pair20); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_1, __pyx_t_5, Py_NE)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      if (__pyx_t_21) {
+      __pyx_t_13 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_15 = __pyx_memoryview_fromslice(__pyx_v_pair20, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_15);
+      __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_13, __pyx_t_15, Py_NE)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+      if (__pyx_t_24) {
       } else {
-        __pyx_t_10 = __pyx_t_21;
+        __pyx_t_10 = __pyx_t_24;
         goto __pyx_L111_bool_binop_done;
       }
-      __pyx_t_5 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_pair20); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_21 = (__Pyx_PySequence_ContainsTF(__pyx_t_5, __pyx_t_1, Py_NE)); if (unlikely((__pyx_t_21 < 0))) __PYX_ERR(0, 207, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __pyx_t_10 = __pyx_t_21;
+      __pyx_t_15 = __Pyx_GetItemInt_Tuple(__pyx_v_couple, 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_15);
+      __pyx_t_13 = __pyx_memoryview_fromslice(__pyx_v_pair20, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_24 = (__Pyx_PySequence_ContainsTF(__pyx_t_15, __pyx_t_13, Py_NE)); if (unlikely((__pyx_t_24 < 0))) __PYX_ERR(0, 233, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __pyx_t_10 = __pyx_t_24;
       __pyx_L111_bool_binop_done:;
       if (__pyx_t_10) {
 
-        /* "marriage_code.pyx":208
- *         for pair20, distance20 in possible_inf_couples.items():
+        /* "marriage_code.pyx":234
+ * #        for pair20, distance20 in possible_inf_couples.items():
  *             if couple[0] not in pair20 and couple[1] not in pair20:
  *                 possible_inf_couples[pair20] = distance20             # <<<<<<<<<<<<<<
+ *         print("after first for loop")
  * 
- *         iter += 1
  */
-        __pyx_t_1 = PyFloat_FromDouble(__pyx_v_distance20); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 208, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_5 = PyFloat_FromDouble(__pyx_v_pair20); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 208, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_5);
-        if (unlikely((PyDict_SetItem(__pyx_v_possible_inf_couples, __pyx_t_5, __pyx_t_1) < 0))) __PYX_ERR(0, 208, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_distance20); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 234, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_15 = __pyx_memoryview_fromslice(__pyx_v_pair20, 1, (PyObject *(*)(char *)) __pyx_memview_get_double, (int (*)(char *, PyObject *)) __pyx_memview_set_double, 0);; if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 234, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_15);
+        if (unlikely((PyDict_SetItem(__pyx_v_possible_inf_couples, __pyx_t_15, __pyx_t_13) < 0))) __PYX_ERR(0, 234, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-        /* "marriage_code.pyx":207
- * 
- *         for pair20, distance20 in possible_inf_couples.items():
+        /* "marriage_code.pyx":233
+ *             distance20 = cvalues3[i4]
+ * #        for pair20, distance20 in possible_inf_couples.items():
  *             if couple[0] not in pair20 and couple[1] not in pair20:             # <<<<<<<<<<<<<<
  *                 possible_inf_couples[pair20] = distance20
- * 
+ *         print("after first for loop")
  */
       }
     }
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-    /* "marriage_code.pyx":210
+    /* "marriage_code.pyx":235
+ *             if couple[0] not in pair20 and couple[1] not in pair20:
  *                 possible_inf_couples[pair20] = distance20
+ *         print("after first for loop")             # <<<<<<<<<<<<<<
  * 
- *         iter += 1             # <<<<<<<<<<<<<<
- *         for couple30 in possible_couples:
+ *         iter2 += 1
+ */
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__15, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 235, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":237
+ *         print("after first for loop")
+ * 
+ *         iter2 += 1             # <<<<<<<<<<<<<<
+ *         cset = np.array(list(possible_couples))
+ *         n4 = len(cset)
+ */
+    __pyx_v_iter2 = (__pyx_v_iter2 + 1.0);
+
+    /* "marriage_code.pyx":238
+ * 
+ *         iter2 += 1
+ *         cset = np.array(list(possible_couples))             # <<<<<<<<<<<<<<
+ *         n4 = len(cset)
+ * #        print("possible_couples:", possible_couples)
+ */
+    __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 238, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_array); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 238, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_15 = PySequence_List(__pyx_v_possible_couples); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 238, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __pyx_t_5 = NULL;
+    __pyx_t_7 = 0;
+    #if CYTHON_UNPACK_METHODS
+    if (unlikely(PyMethod_Check(__pyx_t_6))) {
+      __pyx_t_5 = PyMethod_GET_SELF(__pyx_t_6);
+      if (likely(__pyx_t_5)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_6);
+        __Pyx_INCREF(__pyx_t_5);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_6, function);
+        __pyx_t_7 = 1;
+      }
+    }
+    #endif
+    {
+      PyObject *__pyx_callargs[2] = {__pyx_t_5, __pyx_t_15};
+      __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_6, __pyx_callargs+1-__pyx_t_7, 1+__pyx_t_7);
+      __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
+      __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+      if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 238, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    }
+    __Pyx_XDECREF_SET(__pyx_v_cset, __pyx_t_13);
+    __pyx_t_13 = 0;
+
+    /* "marriage_code.pyx":239
+ *         iter2 += 1
+ *         cset = np.array(list(possible_couples))
+ *         n4 = len(cset)             # <<<<<<<<<<<<<<
+ * #        print("possible_couples:", possible_couples)
+ *         for i5 in range(n4-1):
+ */
+    __pyx_t_3 = PyObject_Length(__pyx_v_cset); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 239, __pyx_L1_error)
+    __pyx_v_n4 = __pyx_t_3;
+
+    /* "marriage_code.pyx":241
+ *         n4 = len(cset)
+ * #        print("possible_couples:", possible_couples)
+ *         for i5 in range(n4-1):             # <<<<<<<<<<<<<<
+ *             couple30 = cset[i5]
+ * #        for couple30 in possible_couples:
+ */
+    __pyx_t_21 = (__pyx_v_n4 - 1);
+    __pyx_t_22 = __pyx_t_21;
+    for (__pyx_t_36 = 0; __pyx_t_36 < __pyx_t_22; __pyx_t_36+=1) {
+      __pyx_v_i5 = __pyx_t_36;
+
+      /* "marriage_code.pyx":242
+ * #        print("possible_couples:", possible_couples)
+ *         for i5 in range(n4-1):
+ *             couple30 = cset[i5]             # <<<<<<<<<<<<<<
+ * #        for couple30 in possible_couples:
  *             for man30 in couple30:
  */
-    __pyx_v_iter = (__pyx_v_iter + 1.0);
+      __pyx_t_13 = __Pyx_GetItemInt(__pyx_v_cset, __pyx_v_i5, long, 1, __Pyx_PyInt_From_long, 0, 1, 1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 242, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_23 = __Pyx_PyObject_to_MemoryviewSlice_ds_double(__pyx_t_13, PyBUF_WRITABLE); if (unlikely(!__pyx_t_23.memview)) __PYX_ERR(0, 242, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple30, 1);
+      __pyx_v_couple30 = __pyx_t_23;
+      __pyx_t_23.memview = NULL;
+      __pyx_t_23.data = NULL;
 
-    /* "marriage_code.pyx":211
- * 
- *         iter += 1
- *         for couple30 in possible_couples:             # <<<<<<<<<<<<<<
- *             for man30 in couple30:
- *                 stay_single_forever2.add(man30)
- */
-    __pyx_t_2 = 0;
-    __pyx_t_1 = __Pyx_set_iterator(__pyx_v_possible_couples, 1, (&__pyx_t_3), (&__pyx_t_7)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 211, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __Pyx_XDECREF(__pyx_t_15);
-    __pyx_t_15 = __pyx_t_1;
-    __pyx_t_1 = 0;
-    while (1) {
-      __pyx_t_4 = __Pyx_set_iter_next(__pyx_t_15, __pyx_t_3, &__pyx_t_2, &__pyx_t_1, __pyx_t_7);
-      if (unlikely(__pyx_t_4 == 0)) break;
-      if (unlikely(__pyx_t_4 == -1)) __PYX_ERR(0, 211, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 211, __pyx_L1_error)
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __pyx_v_couple30 = __pyx_t_8;
-
-      /* "marriage_code.pyx":212
- *         iter += 1
- *         for couple30 in possible_couples:
+      /* "marriage_code.pyx":244
+ *             couple30 = cset[i5]
+ * #        for couple30 in possible_couples:
  *             for man30 in couple30:             # <<<<<<<<<<<<<<
  *                 stay_single_forever2.add(man30)
- * 
+ *         print("after second for loop")
  */
-      __pyx_t_1 = PyFloat_FromDouble(__pyx_v_couple30); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 212, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      if (likely(PyList_CheckExact(__pyx_t_1)) || PyTuple_CheckExact(__pyx_t_1)) {
-        __pyx_t_5 = __pyx_t_1; __Pyx_INCREF(__pyx_t_5); __pyx_t_18 = 0;
-        __pyx_t_14 = NULL;
-      } else {
-        __pyx_t_18 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 212, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_5);
-        __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_5); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 212, __pyx_L1_error)
+      if (unlikely(((PyObject *) __pyx_v_couple30.memview) == Py_None)) {
+        PyErr_SetString(PyExc_TypeError, "'NoneType' is not iterable");
+        __PYX_ERR(0, 244, __pyx_L1_error)
       }
-      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      for (;;) {
-        if (likely(!__pyx_t_14)) {
-          if (likely(PyList_CheckExact(__pyx_t_5))) {
-            if (__pyx_t_18 >= PyList_GET_SIZE(__pyx_t_5)) break;
-            #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_1 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_18); __Pyx_INCREF(__pyx_t_1); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 212, __pyx_L1_error)
-            #else
-            __pyx_t_1 = PySequence_ITEM(__pyx_t_5, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 212, __pyx_L1_error)
-            __Pyx_GOTREF(__pyx_t_1);
-            #endif
-          } else {
-            if (__pyx_t_18 >= PyTuple_GET_SIZE(__pyx_t_5)) break;
-            #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-            __pyx_t_1 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_18); __Pyx_INCREF(__pyx_t_1); __pyx_t_18++; if (unlikely((0 < 0))) __PYX_ERR(0, 212, __pyx_L1_error)
-            #else
-            __pyx_t_1 = PySequence_ITEM(__pyx_t_5, __pyx_t_18); __pyx_t_18++; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 212, __pyx_L1_error)
-            __Pyx_GOTREF(__pyx_t_1);
-            #endif
-          }
-        } else {
-          __pyx_t_1 = __pyx_t_14(__pyx_t_5);
-          if (unlikely(!__pyx_t_1)) {
-            PyObject* exc_type = PyErr_Occurred();
-            if (exc_type) {
-              if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-              else __PYX_ERR(0, 212, __pyx_L1_error)
-            }
-            break;
-          }
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 212, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-        __pyx_v_man30 = __pyx_t_8;
+      __PYX_INC_MEMVIEW(&__pyx_v_couple30, 1);
+      __pyx_t_23 = __pyx_v_couple30;
+      __pyx_t_3 = __Pyx_MemoryView_Len(__pyx_t_23); 
+      for (__pyx_t_18 = 0; __pyx_t_18 < __pyx_t_3; __pyx_t_18++) {
+        __pyx_t_2 = __pyx_t_18;
+        __pyx_t_20 = __pyx_t_2;
+        __pyx_v_man30 = (*((double *) ( /* dim=0 */ (__pyx_t_23.data + __pyx_t_20 * __pyx_t_23.strides[0]) )));
 
-        /* "marriage_code.pyx":213
- *         for couple30 in possible_couples:
+        /* "marriage_code.pyx":245
+ * #        for couple30 in possible_couples:
  *             for man30 in couple30:
  *                 stay_single_forever2.add(man30)             # <<<<<<<<<<<<<<
- * 
- *     num_immigrants = num_inf_couples_to_marry - iter
- */
-        __pyx_t_1 = PyFloat_FromDouble(__pyx_v_man30); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 213, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_11 = PySet_Add(__pyx_v_stay_single_forever2, __pyx_t_1); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 213, __pyx_L1_error)
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "marriage_code.pyx":212
- *         iter += 1
- *         for couple30 in possible_couples:
- *             for man30 in couple30:             # <<<<<<<<<<<<<<
- *                 stay_single_forever2.add(man30)
+ *         print("after second for loop")
  * 
  */
+        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_man30); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 245, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_11 = PySet_Add(__pyx_v_stay_single_forever2, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 245, __pyx_L1_error)
+        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
       }
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+      __PYX_XCLEAR_MEMVIEW(&__pyx_t_23, 1);
+      __pyx_t_23.memview = NULL; __pyx_t_23.data = NULL;
     }
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+
+    /* "marriage_code.pyx":246
+ *             for man30 in couple30:
+ *                 stay_single_forever2.add(man30)
+ *         print("after second for loop")             # <<<<<<<<<<<<<<
+ * 
+ *     num_immigrants = num_inf_couples_to_marry - iter2
+ */
+    __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_print, __pyx_tuple__16, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 246, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
   }
 
-  /* "marriage_code.pyx":215
- *                 stay_single_forever2.add(man30)
+  /* "marriage_code.pyx":248
+ *         print("after second for loop")
  * 
- *     num_immigrants = num_inf_couples_to_marry - iter             # <<<<<<<<<<<<<<
+ *     num_immigrants = num_inf_couples_to_marry - iter2             # <<<<<<<<<<<<<<
  *     num_immigrants = min(len(stay_single_forever), num_immigrants)
  * 
  */
-  __pyx_v_num_immigrants = (__pyx_v_num_inf_couples_to_marry - __pyx_v_iter);
+  __pyx_v_num_immigrants = (__pyx_v_num_inf_couples_to_marry - __pyx_v_iter2);
 
-  /* "marriage_code.pyx":216
+  /* "marriage_code.pyx":249
  * 
- *     num_immigrants = num_inf_couples_to_marry - iter
+ *     num_immigrants = num_inf_couples_to_marry - iter2
  *     num_immigrants = min(len(stay_single_forever), num_immigrants)             # <<<<<<<<<<<<<<
  * 
  *     cdef list immigrants = []
  */
-  __pyx_t_22 = __pyx_v_num_immigrants;
-  __pyx_t_3 = __Pyx_PySet_GET_SIZE(__pyx_v_stay_single_forever); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 216, __pyx_L1_error)
-  __pyx_t_10 = (__pyx_t_22 < __pyx_t_3);
+  __pyx_t_25 = __pyx_v_num_immigrants;
+  __pyx_t_3 = __Pyx_PySet_GET_SIZE(__pyx_v_stay_single_forever); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 249, __pyx_L1_error)
+  __pyx_t_10 = (__pyx_t_25 < __pyx_t_3);
   if (__pyx_t_10) {
-    __pyx_t_33 = __pyx_t_22;
+    __pyx_t_37 = __pyx_t_25;
   } else {
-    __pyx_t_33 = __pyx_t_3;
+    __pyx_t_37 = __pyx_t_3;
   }
-  __pyx_v_num_immigrants = __pyx_t_33;
+  __pyx_v_num_immigrants = __pyx_t_37;
 
-  /* "marriage_code.pyx":218
+  /* "marriage_code.pyx":251
  *     num_immigrants = min(len(stay_single_forever), num_immigrants)
  * 
  *     cdef list immigrants = []             # <<<<<<<<<<<<<<
  *     cdef float i
  *     for i in range(next_person, next_person + num_immigrants):
  */
-  __pyx_t_15 = PyList_New(0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 218, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_15);
-  __pyx_v_immigrants = ((PyObject*)__pyx_t_15);
-  __pyx_t_15 = 0;
+  __pyx_t_13 = PyList_New(0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 251, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_v_immigrants = ((PyObject*)__pyx_t_13);
+  __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":220
+  /* "marriage_code.pyx":253
  *     cdef list immigrants = []
  *     cdef float i
  *     for i in range(next_person, next_person + num_immigrants):             # <<<<<<<<<<<<<<
  *         immigrants.append(i)
  *     marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)
  */
-  __pyx_t_15 = PyFloat_FromDouble(__pyx_v_next_person); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 220, __pyx_L1_error)
+  __pyx_t_13 = PyFloat_FromDouble(__pyx_v_next_person); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 253, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_t_6 = PyFloat_FromDouble((__pyx_v_next_person + __pyx_v_num_immigrants)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 253, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 253, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_15);
-  __pyx_t_5 = PyFloat_FromDouble((__pyx_v_next_person + __pyx_v_num_immigrants)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 220, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 220, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_GIVEREF(__pyx_t_15);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_15)) __PYX_ERR(0, 220, __pyx_L1_error);
-  __Pyx_GIVEREF(__pyx_t_5);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_5)) __PYX_ERR(0, 220, __pyx_L1_error);
-  __pyx_t_15 = 0;
-  __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 220, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
-    __pyx_t_1 = __pyx_t_5; __Pyx_INCREF(__pyx_t_1); __pyx_t_3 = 0;
+  __Pyx_GIVEREF(__pyx_t_13);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_13)) __PYX_ERR(0, 253, __pyx_L1_error);
+  __Pyx_GIVEREF(__pyx_t_6);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_6)) __PYX_ERR(0, 253, __pyx_L1_error);
+  __pyx_t_13 = 0;
+  __pyx_t_6 = 0;
+  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_15, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 253, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  if (likely(PyList_CheckExact(__pyx_t_6)) || PyTuple_CheckExact(__pyx_t_6)) {
+    __pyx_t_15 = __pyx_t_6; __Pyx_INCREF(__pyx_t_15); __pyx_t_3 = 0;
     __pyx_t_14 = NULL;
   } else {
-    __pyx_t_3 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 220, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 220, __pyx_L1_error)
+    __pyx_t_3 = -1; __pyx_t_15 = PyObject_GetIter(__pyx_t_6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 253, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_15);
+    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_15); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 253, __pyx_L1_error)
   }
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   for (;;) {
     if (likely(!__pyx_t_14)) {
-      if (likely(PyList_CheckExact(__pyx_t_1))) {
-        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_1)) break;
+      if (likely(PyList_CheckExact(__pyx_t_15))) {
+        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_15)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 220, __pyx_L1_error)
+        __pyx_t_6 = PyList_GET_ITEM(__pyx_t_15, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 253, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 220, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_5);
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_15, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 253, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
         #endif
       } else {
-        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
+        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_15)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 220, __pyx_L1_error)
+        __pyx_t_6 = PyTuple_GET_ITEM(__pyx_t_15, __pyx_t_3); __Pyx_INCREF(__pyx_t_6); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 253, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 220, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_5);
+        __pyx_t_6 = PySequence_ITEM(__pyx_t_15, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 253, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_6);
         #endif
       }
     } else {
-      __pyx_t_5 = __pyx_t_14(__pyx_t_1);
-      if (unlikely(!__pyx_t_5)) {
+      __pyx_t_6 = __pyx_t_14(__pyx_t_15);
+      if (unlikely(!__pyx_t_6)) {
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 220, __pyx_L1_error)
+          else __PYX_ERR(0, 253, __pyx_L1_error)
         }
         break;
       }
-      __Pyx_GOTREF(__pyx_t_5);
+      __Pyx_GOTREF(__pyx_t_6);
     }
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_5); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 220, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_v_i = __pyx_t_8;
+    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_6); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 253, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+    __pyx_v_i = __pyx_t_9;
 
-    /* "marriage_code.pyx":221
+    /* "marriage_code.pyx":254
  *     cdef float i
  *     for i in range(next_person, next_person + num_immigrants):
  *         immigrants.append(i)             # <<<<<<<<<<<<<<
  *     marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)
  *     stay_single_forever2 -= set(marry_strangers)
  */
-    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_i); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 221, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_immigrants, __pyx_t_5); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 221, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    __pyx_t_6 = PyFloat_FromDouble(__pyx_v_i); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 254, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_immigrants, __pyx_t_6); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 254, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-    /* "marriage_code.pyx":220
+    /* "marriage_code.pyx":253
  *     cdef list immigrants = []
  *     cdef float i
  *     for i in range(next_person, next_person + num_immigrants):             # <<<<<<<<<<<<<<
@@ -21897,207 +22515,207 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  *     marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)
  */
   }
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
 
-  /* "marriage_code.pyx":222
+  /* "marriage_code.pyx":255
  *     for i in range(next_person, next_person + num_immigrants):
  *         immigrants.append(i)
  *     marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)             # <<<<<<<<<<<<<<
  *     stay_single_forever2 -= set(marry_strangers)
  * 
  */
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_random); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_choice); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = PySequence_List(__pyx_v_stay_single_forever); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_15 = PyTuple_New(1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 222, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_n_s_np); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 255, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_15);
-  __Pyx_GIVEREF(__pyx_t_5);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_5)) __PYX_ERR(0, 222, __pyx_L1_error);
-  __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_13 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_size, __pyx_t_13) < 0) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_replace, Py_False) < 0) __PYX_ERR(0, 222, __pyx_L1_error)
-  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_15, __pyx_t_5); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 222, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_15, __pyx_n_s_random); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_choice); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_15);
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  __pyx_t_6 = PySequence_List(__pyx_v_stay_single_forever); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_13 = PyTuple_New(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __Pyx_GIVEREF(__pyx_t_6);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_6)) __PYX_ERR(0, 255, __pyx_L1_error);
+  __pyx_t_6 = 0;
+  __pyx_t_6 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_5 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_5);
+  if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_size, __pyx_t_5) < 0) __PYX_ERR(0, 255, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_v_marry_strangers = __pyx_t_13;
-  __pyx_t_13 = 0;
+  if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_replace, Py_False) < 0) __PYX_ERR(0, 255, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_15, __pyx_t_13, __pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 255, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_5);
+  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  __pyx_v_marry_strangers = __pyx_t_5;
+  __pyx_t_5 = 0;
 
-  /* "marriage_code.pyx":223
+  /* "marriage_code.pyx":256
  *         immigrants.append(i)
  *     marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)
  *     stay_single_forever2 -= set(marry_strangers)             # <<<<<<<<<<<<<<
  * 
  *     unions = set()
  */
-  __pyx_t_13 = PySet_New(__pyx_v_marry_strangers); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 223, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __pyx_t_5 = PyNumber_InPlaceSubtract(__pyx_v_stay_single_forever2, __pyx_t_13); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 223, __pyx_L1_error)
+  __pyx_t_5 = PySet_New(__pyx_v_marry_strangers); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 256, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-  if (!(likely(PySet_CheckExact(__pyx_t_5)) || __Pyx_RaiseUnexpectedTypeError("set", __pyx_t_5))) __PYX_ERR(0, 223, __pyx_L1_error)
-  __Pyx_DECREF_SET(__pyx_v_stay_single_forever2, ((PyObject*)__pyx_t_5));
-  __pyx_t_5 = 0;
+  __pyx_t_6 = PyNumber_InPlaceSubtract(__pyx_v_stay_single_forever2, __pyx_t_5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 256, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+  if (!(likely(PySet_CheckExact(__pyx_t_6)) || __Pyx_RaiseUnexpectedTypeError("set", __pyx_t_6))) __PYX_ERR(0, 256, __pyx_L1_error)
+  __Pyx_DECREF_SET(__pyx_v_stay_single_forever2, ((PyObject*)__pyx_t_6));
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":225
+  /* "marriage_code.pyx":258
  *     stay_single_forever2 -= set(marry_strangers)
  * 
  *     unions = set()             # <<<<<<<<<<<<<<
  *     cdef float spouse
  *     cdef float immigrant
  */
-  __pyx_t_5 = PySet_New(0); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 225, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __Pyx_DECREF_SET(__pyx_v_unions, ((PyObject*)__pyx_t_5));
-  __pyx_t_5 = 0;
+  __pyx_t_6 = PySet_New(0); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 258, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __Pyx_DECREF_SET(__pyx_v_unions, ((PyObject*)__pyx_t_6));
+  __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":228
+  /* "marriage_code.pyx":261
  *     cdef float spouse
  *     cdef float immigrant
  *     for spouse, immigrant in zip(marry_strangers, immigrants):             # <<<<<<<<<<<<<<
  *         unions.add((spouse, immigrant))
  * 
  */
-  __pyx_t_5 = PyTuple_New(2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 228, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
+  __pyx_t_6 = PyTuple_New(2); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 261, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
   __Pyx_INCREF(__pyx_v_marry_strangers);
   __Pyx_GIVEREF(__pyx_v_marry_strangers);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_v_marry_strangers)) __PYX_ERR(0, 228, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_v_marry_strangers)) __PYX_ERR(0, 261, __pyx_L1_error);
   __Pyx_INCREF(__pyx_v_immigrants);
   __Pyx_GIVEREF(__pyx_v_immigrants);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 1, __pyx_v_immigrants)) __PYX_ERR(0, 228, __pyx_L1_error);
-  __pyx_t_13 = __Pyx_PyObject_Call(__pyx_builtin_zip, __pyx_t_5, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 228, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_13);
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  if (likely(PyList_CheckExact(__pyx_t_13)) || PyTuple_CheckExact(__pyx_t_13)) {
-    __pyx_t_5 = __pyx_t_13; __Pyx_INCREF(__pyx_t_5); __pyx_t_3 = 0;
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_6, 1, __pyx_v_immigrants)) __PYX_ERR(0, 261, __pyx_L1_error);
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_zip, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 261, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_5);
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
+    __pyx_t_6 = __pyx_t_5; __Pyx_INCREF(__pyx_t_6); __pyx_t_3 = 0;
     __pyx_t_14 = NULL;
   } else {
-    __pyx_t_3 = -1; __pyx_t_5 = PyObject_GetIter(__pyx_t_13); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 228, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_5); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 228, __pyx_L1_error)
+    __pyx_t_3 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 261, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_6);
+    __pyx_t_14 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_6); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 261, __pyx_L1_error)
   }
-  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   for (;;) {
     if (likely(!__pyx_t_14)) {
-      if (likely(PyList_CheckExact(__pyx_t_5))) {
-        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_5)) break;
+      if (likely(PyList_CheckExact(__pyx_t_6))) {
+        if (__pyx_t_3 >= PyList_GET_SIZE(__pyx_t_6)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_13 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_13); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 228, __pyx_L1_error)
+        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 261, __pyx_L1_error)
         #else
-        __pyx_t_13 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 228, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_6, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 261, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_5);
         #endif
       } else {
-        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_5)) break;
+        if (__pyx_t_3 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_13 = PyTuple_GET_ITEM(__pyx_t_5, __pyx_t_3); __Pyx_INCREF(__pyx_t_13); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 228, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_3); __Pyx_INCREF(__pyx_t_5); __pyx_t_3++; if (unlikely((0 < 0))) __PYX_ERR(0, 261, __pyx_L1_error)
         #else
-        __pyx_t_13 = PySequence_ITEM(__pyx_t_5, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 228, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_6, __pyx_t_3); __pyx_t_3++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 261, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_5);
         #endif
       }
     } else {
-      __pyx_t_13 = __pyx_t_14(__pyx_t_5);
-      if (unlikely(!__pyx_t_13)) {
+      __pyx_t_5 = __pyx_t_14(__pyx_t_6);
+      if (unlikely(!__pyx_t_5)) {
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 228, __pyx_L1_error)
+          else __PYX_ERR(0, 261, __pyx_L1_error)
         }
         break;
       }
-      __Pyx_GOTREF(__pyx_t_13);
+      __Pyx_GOTREF(__pyx_t_5);
     }
-    if ((likely(PyTuple_CheckExact(__pyx_t_13))) || (PyList_CheckExact(__pyx_t_13))) {
-      PyObject* sequence = __pyx_t_13;
+    if ((likely(PyTuple_CheckExact(__pyx_t_5))) || (PyList_CheckExact(__pyx_t_5))) {
+      PyObject* sequence = __pyx_t_5;
       Py_ssize_t size = __Pyx_PySequence_SIZE(sequence);
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 228, __pyx_L1_error)
+        __PYX_ERR(0, 261, __pyx_L1_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
-        __pyx_t_15 = PyTuple_GET_ITEM(sequence, 0); 
-        __pyx_t_1 = PyTuple_GET_ITEM(sequence, 1); 
+        __pyx_t_13 = PyTuple_GET_ITEM(sequence, 0); 
+        __pyx_t_15 = PyTuple_GET_ITEM(sequence, 1); 
       } else {
-        __pyx_t_15 = PyList_GET_ITEM(sequence, 0); 
-        __pyx_t_1 = PyList_GET_ITEM(sequence, 1); 
+        __pyx_t_13 = PyList_GET_ITEM(sequence, 0); 
+        __pyx_t_15 = PyList_GET_ITEM(sequence, 1); 
       }
+      __Pyx_INCREF(__pyx_t_13);
       __Pyx_INCREF(__pyx_t_15);
-      __Pyx_INCREF(__pyx_t_1);
       #else
-      __pyx_t_15 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 228, __pyx_L1_error)
+      __pyx_t_13 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 261, __pyx_L1_error)
+      __Pyx_GOTREF(__pyx_t_13);
+      __pyx_t_15 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 261, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
-      __pyx_t_1 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 228, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
       #endif
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_6 = PyObject_GetIter(__pyx_t_13); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 228, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_6);
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_6);
-      index = 0; __pyx_t_15 = __pyx_t_16(__pyx_t_6); if (unlikely(!__pyx_t_15)) goto __pyx_L123_unpacking_failed;
-      __Pyx_GOTREF(__pyx_t_15);
-      index = 1; __pyx_t_1 = __pyx_t_16(__pyx_t_6); if (unlikely(!__pyx_t_1)) goto __pyx_L123_unpacking_failed;
+      __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 261, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_6), 2) < 0) __PYX_ERR(0, 228, __pyx_L1_error)
+      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+      __pyx_t_16 = __Pyx_PyObject_GetIterNextFunc(__pyx_t_1);
+      index = 0; __pyx_t_13 = __pyx_t_16(__pyx_t_1); if (unlikely(!__pyx_t_13)) goto __pyx_L122_unpacking_failed;
+      __Pyx_GOTREF(__pyx_t_13);
+      index = 1; __pyx_t_15 = __pyx_t_16(__pyx_t_1); if (unlikely(!__pyx_t_15)) goto __pyx_L122_unpacking_failed;
+      __Pyx_GOTREF(__pyx_t_15);
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_1), 2) < 0) __PYX_ERR(0, 261, __pyx_L1_error)
       __pyx_t_16 = NULL;
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-      goto __pyx_L124_unpacking_done;
-      __pyx_L123_unpacking_failed:;
-      __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+      goto __pyx_L123_unpacking_done;
+      __pyx_L122_unpacking_failed:;
+      __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __pyx_t_16 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 228, __pyx_L1_error)
-      __pyx_L124_unpacking_done:;
+      __PYX_ERR(0, 261, __pyx_L1_error)
+      __pyx_L123_unpacking_done:;
     }
-    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 228, __pyx_L1_error)
+    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_13); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 261, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
+    __pyx_t_8 = __pyx_PyFloat_AsFloat(__pyx_t_15); if (unlikely((__pyx_t_8 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 261, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-    __pyx_t_9 = __pyx_PyFloat_AsFloat(__pyx_t_1); if (unlikely((__pyx_t_9 == (float)-1) && PyErr_Occurred())) __PYX_ERR(0, 228, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_v_spouse = __pyx_t_8;
-    __pyx_v_immigrant = __pyx_t_9;
+    __pyx_v_spouse = __pyx_t_9;
+    __pyx_v_immigrant = __pyx_t_8;
 
-    /* "marriage_code.pyx":229
+    /* "marriage_code.pyx":262
  *     cdef float immigrant
  *     for spouse, immigrant in zip(marry_strangers, immigrants):
  *         unions.add((spouse, immigrant))             # <<<<<<<<<<<<<<
  * 
  *     marriage_distances.extend([-1] * num_immigrants)
  */
-    __pyx_t_13 = PyFloat_FromDouble(__pyx_v_spouse); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 229, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_13);
-    __pyx_t_1 = PyFloat_FromDouble(__pyx_v_immigrant); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 229, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_15 = PyTuple_New(2); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 229, __pyx_L1_error)
+    __pyx_t_5 = PyFloat_FromDouble(__pyx_v_spouse); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 262, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_5);
+    __pyx_t_15 = PyFloat_FromDouble(__pyx_v_immigrant); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 262, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_15);
-    __Pyx_GIVEREF(__pyx_t_13);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_13)) __PYX_ERR(0, 229, __pyx_L1_error);
-    __Pyx_GIVEREF(__pyx_t_1);
-    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_1)) __PYX_ERR(0, 229, __pyx_L1_error);
-    __pyx_t_13 = 0;
-    __pyx_t_1 = 0;
-    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_t_15); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 229, __pyx_L1_error)
-    __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+    __pyx_t_13 = PyTuple_New(2); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 262, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_13);
+    __Pyx_GIVEREF(__pyx_t_5);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 0, __pyx_t_5)) __PYX_ERR(0, 262, __pyx_L1_error);
+    __Pyx_GIVEREF(__pyx_t_15);
+    if (__Pyx_PyTuple_SET_ITEM(__pyx_t_13, 1, __pyx_t_15)) __PYX_ERR(0, 262, __pyx_L1_error);
+    __pyx_t_5 = 0;
+    __pyx_t_15 = 0;
+    __pyx_t_11 = PySet_Add(__pyx_v_unions, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 262, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-    /* "marriage_code.pyx":228
+    /* "marriage_code.pyx":261
  *     cdef float spouse
  *     cdef float immigrant
  *     for spouse, immigrant in zip(marry_strangers, immigrants):             # <<<<<<<<<<<<<<
@@ -22105,72 +22723,72 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
  * 
  */
   }
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "marriage_code.pyx":231
+  /* "marriage_code.pyx":264
  *         unions.add((spouse, immigrant))
  * 
  *     marriage_distances.extend([-1] * num_immigrants)             # <<<<<<<<<<<<<<
  * 
  *     return unions, num_immigrants, marriage_distances, immigrants, wont_marry_until_next_time, len(stay_single_forever)
  */
-  __pyx_t_5 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 231, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_15 = PyList_New(1); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 231, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_15);
+  __pyx_t_6 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 264, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_13 = PyList_New(1); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 264, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
   __Pyx_INCREF(__pyx_int_neg_1);
   __Pyx_GIVEREF(__pyx_int_neg_1);
-  if (__Pyx_PyList_SET_ITEM(__pyx_t_15, 0, __pyx_int_neg_1)) __PYX_ERR(0, 231, __pyx_L1_error);
-  { PyObject* __pyx_temp = PyNumber_InPlaceMultiply(__pyx_t_15, __pyx_t_5); if (unlikely(!__pyx_temp)) __PYX_ERR(0, 231, __pyx_L1_error)
+  if (__Pyx_PyList_SET_ITEM(__pyx_t_13, 0, __pyx_int_neg_1)) __PYX_ERR(0, 264, __pyx_L1_error);
+  { PyObject* __pyx_temp = PyNumber_InPlaceMultiply(__pyx_t_13, __pyx_t_6); if (unlikely(!__pyx_temp)) __PYX_ERR(0, 264, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_temp);
-    __Pyx_DECREF(__pyx_t_15);
-    __pyx_t_15 = __pyx_temp;
+    __Pyx_DECREF(__pyx_t_13);
+    __pyx_t_13 = __pyx_temp;
   }
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_11 = __Pyx_PyList_Extend(__pyx_v_marriage_distances, __pyx_t_15); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 231, __pyx_L1_error)
-  __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
+  __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
+  __pyx_t_11 = __Pyx_PyList_Extend(__pyx_v_marriage_distances, __pyx_t_13); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 264, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
 
-  /* "marriage_code.pyx":233
+  /* "marriage_code.pyx":266
  *     marriage_distances.extend([-1] * num_immigrants)
  * 
  *     return unions, num_immigrants, marriage_distances, immigrants, wont_marry_until_next_time, len(stay_single_forever)             # <<<<<<<<<<<<<<
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_15 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 233, __pyx_L1_error)
+  __pyx_t_13 = PyFloat_FromDouble(__pyx_v_num_immigrants); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 266, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_13);
+  __pyx_t_3 = __Pyx_PySet_GET_SIZE(__pyx_v_stay_single_forever); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 266, __pyx_L1_error)
+  __pyx_t_6 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 266, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_6);
+  __pyx_t_15 = PyTuple_New(6); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 266, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_15);
-  __pyx_t_3 = __Pyx_PySet_GET_SIZE(__pyx_v_stay_single_forever); if (unlikely(__pyx_t_3 == ((Py_ssize_t)-1))) __PYX_ERR(0, 233, __pyx_L1_error)
-  __pyx_t_5 = PyInt_FromSsize_t(__pyx_t_3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 233, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_1 = PyTuple_New(6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 233, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_unions);
   __Pyx_GIVEREF(__pyx_v_unions);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_unions)) __PYX_ERR(0, 233, __pyx_L1_error);
-  __Pyx_GIVEREF(__pyx_t_15);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 1, __pyx_t_15)) __PYX_ERR(0, 233, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_v_unions)) __PYX_ERR(0, 266, __pyx_L1_error);
+  __Pyx_GIVEREF(__pyx_t_13);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_13)) __PYX_ERR(0, 266, __pyx_L1_error);
   __Pyx_INCREF(__pyx_v_marriage_distances);
   __Pyx_GIVEREF(__pyx_v_marriage_distances);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 2, __pyx_v_marriage_distances)) __PYX_ERR(0, 233, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 2, __pyx_v_marriage_distances)) __PYX_ERR(0, 266, __pyx_L1_error);
   __Pyx_INCREF(__pyx_v_immigrants);
   __Pyx_GIVEREF(__pyx_v_immigrants);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 3, __pyx_v_immigrants)) __PYX_ERR(0, 233, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 3, __pyx_v_immigrants)) __PYX_ERR(0, 266, __pyx_L1_error);
   __Pyx_INCREF(__pyx_v_wont_marry_until_next_time);
   __Pyx_GIVEREF(__pyx_v_wont_marry_until_next_time);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 4, __pyx_v_wont_marry_until_next_time)) __PYX_ERR(0, 233, __pyx_L1_error);
-  __Pyx_GIVEREF(__pyx_t_5);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_1, 5, __pyx_t_5)) __PYX_ERR(0, 233, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 4, __pyx_v_wont_marry_until_next_time)) __PYX_ERR(0, 266, __pyx_L1_error);
+  __Pyx_GIVEREF(__pyx_t_6);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 5, __pyx_t_6)) __PYX_ERR(0, 266, __pyx_L1_error);
+  __pyx_t_13 = 0;
+  __pyx_t_6 = 0;
+  __pyx_r = __pyx_t_15;
   __pyx_t_15 = 0;
-  __pyx_t_5 = 0;
-  __pyx_r = __pyx_t_1;
-  __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "marriage_code.pyx":5
- * import random
+  /* "marriage_code.pyx":6
+ * from memory_profiler import profile
  * 
- * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,             # <<<<<<<<<<<<<<
+ * @profile             # <<<<<<<<<<<<<<
+ * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
  *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
- *                        dict indices, list original_marriage_dist,
  */
 
   /* function exit code */
@@ -22180,6 +22798,7 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   __Pyx_XDECREF(__pyx_t_6);
   __Pyx_XDECREF(__pyx_t_13);
   __Pyx_XDECREF(__pyx_t_15);
+  __PYX_XCLEAR_MEMVIEW(&__pyx_t_23, 1);
   __Pyx_AddTraceback("marriage_code.add_marriage_edges", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __pyx_r = NULL;
   __pyx_L0:;
@@ -22193,7 +22812,13 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   __Pyx_XDECREF(__pyx_v_possible_couples);
   __Pyx_XDECREF(__pyx_v_possible_finite_couples);
   __Pyx_XDECREF(__pyx_v_preferred_couples);
+  __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple1, 1);
+  __Pyx_XDECREF(__pyx_v_ckeys);
+  __Pyx_XDECREF(__pyx_v_cvalues);
   __Pyx_XDECREF(__pyx_v_other_couples);
+  __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple2, 1);
+  __Pyx_XDECREF(__pyx_v_ckeys2);
+  __Pyx_XDECREF(__pyx_v_cvalues2);
   __Pyx_XDECREF(__pyx_v_dis_probs);
   __Pyx_XDECREF(__pyx_v_dis_probs_pre);
   __Pyx_XDECREF(__pyx_v_dis_probs2);
@@ -22208,8 +22833,13 @@ static PyObject *__pyx_pf_13marriage_code_add_marriage_edges(CYTHON_UNUSED PyObj
   __Pyx_XDECREF(__pyx_v_e);
   __Pyx_XDECREF(__pyx_v_couple);
   __Pyx_XDECREF(__pyx_v_possible_inf_couples);
+  __PYX_XCLEAR_MEMVIEW(&__pyx_v_pair20, 1);
   __Pyx_XDECREF(__pyx_v_stay_single_forever2);
+  __PYX_XCLEAR_MEMVIEW(&__pyx_v_couple30, 1);
   __Pyx_XDECREF(__pyx_v_possible_inf_couples_array);
+  __Pyx_XDECREF(__pyx_v_ckeys3);
+  __Pyx_XDECREF(__pyx_v_cvalues3);
+  __Pyx_XDECREF(__pyx_v_cset);
   __Pyx_XDECREF(__pyx_v_immigrants);
   __Pyx_XDECREF(__pyx_v_marry_strangers);
   __Pyx_XGIVEREF(__pyx_r);
@@ -23201,10 +23831,7 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_kp_s_Indirect_dimensions_not_supporte, __pyx_k_Indirect_dimensions_not_supporte, sizeof(__pyx_k_Indirect_dimensions_not_supporte), 0, 0, 1, 0},
     {&__pyx_kp_u_Invalid_mode_expected_c_or_fortr, __pyx_k_Invalid_mode_expected_c_or_fortr, sizeof(__pyx_k_Invalid_mode_expected_c_or_fortr), 0, 1, 0, 0},
     {&__pyx_kp_u_Invalid_shape_in_axis, __pyx_k_Invalid_shape_in_axis, sizeof(__pyx_k_Invalid_shape_in_axis), 0, 1, 0, 0},
-    {&__pyx_kp_s_LINE_171, __pyx_k_LINE_171, sizeof(__pyx_k_LINE_171), 0, 0, 1, 0},
     {&__pyx_kp_s_LINE_66, __pyx_k_LINE_66, sizeof(__pyx_k_LINE_66), 0, 0, 1, 0},
-    {&__pyx_kp_s_LINE_70, __pyx_k_LINE_70, sizeof(__pyx_k_LINE_70), 0, 0, 1, 0},
-    {&__pyx_kp_s_LINE_72, __pyx_k_LINE_72, sizeof(__pyx_k_LINE_72), 0, 0, 1, 0},
     {&__pyx_kp_s_LINE_81, __pyx_k_LINE_81, sizeof(__pyx_k_LINE_81), 0, 0, 1, 0},
     {&__pyx_n_s_MemoryError, __pyx_k_MemoryError, sizeof(__pyx_k_MemoryError), 0, 0, 1, 1},
     {&__pyx_kp_s_MemoryView_of_r_at_0x_x, __pyx_k_MemoryView_of_r_at_0x_x, sizeof(__pyx_k_MemoryView_of_r_at_0x_x), 0, 0, 1, 0},
@@ -23219,19 +23846,28 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_ValueError, __pyx_k_ValueError, sizeof(__pyx_k_ValueError), 0, 0, 1, 1},
     {&__pyx_n_s_View_MemoryView, __pyx_k_View_MemoryView, sizeof(__pyx_k_View_MemoryView), 0, 0, 1, 1},
     {&__pyx_kp_u__2, __pyx_k__2, sizeof(__pyx_k__2), 0, 1, 0, 0},
-    {&__pyx_n_s__28, __pyx_k__28, sizeof(__pyx_k__28), 0, 0, 1, 1},
     {&__pyx_n_s__3, __pyx_k__3, sizeof(__pyx_k__3), 0, 0, 1, 1},
+    {&__pyx_n_s__30, __pyx_k__30, sizeof(__pyx_k__30), 0, 0, 1, 1},
     {&__pyx_kp_u__6, __pyx_k__6, sizeof(__pyx_k__6), 0, 1, 0, 0},
     {&__pyx_kp_u__7, __pyx_k__7, sizeof(__pyx_k__7), 0, 1, 0, 0},
     {&__pyx_n_s_abc, __pyx_k_abc, sizeof(__pyx_k_abc), 0, 0, 1, 1},
     {&__pyx_n_s_add_marriage_edges, __pyx_k_add_marriage_edges, sizeof(__pyx_k_add_marriage_edges), 0, 0, 1, 1},
+    {&__pyx_kp_s_after_couple, __pyx_k_after_couple, sizeof(__pyx_k_after_couple), 0, 0, 1, 0},
+    {&__pyx_kp_s_after_couple_index, __pyx_k_after_couple_index, sizeof(__pyx_k_after_couple_index), 0, 0, 1, 0},
+    {&__pyx_kp_s_after_first_for_loop, __pyx_k_after_first_for_loop, sizeof(__pyx_k_after_first_for_loop), 0, 0, 1, 0},
+    {&__pyx_kp_s_after_possible_inf_couples_array, __pyx_k_after_possible_inf_couples_array, sizeof(__pyx_k_after_possible_inf_couples_array), 0, 0, 1, 0},
+    {&__pyx_kp_s_after_second_for_loop, __pyx_k_after_second_for_loop, sizeof(__pyx_k_after_second_for_loop), 0, 0, 1, 0},
     {&__pyx_n_s_allocate_buffer, __pyx_k_allocate_buffer, sizeof(__pyx_k_allocate_buffer), 0, 0, 1, 1},
     {&__pyx_kp_u_and, __pyx_k_and, sizeof(__pyx_k_and), 0, 1, 0, 0},
+    {&__pyx_n_s_array, __pyx_k_array, sizeof(__pyx_k_array), 0, 0, 1, 1},
     {&__pyx_n_s_asyncio_coroutines, __pyx_k_asyncio_coroutines, sizeof(__pyx_k_asyncio_coroutines), 0, 0, 1, 1},
     {&__pyx_n_s_base, __pyx_k_base, sizeof(__pyx_k_base), 0, 0, 1, 1},
     {&__pyx_n_s_c, __pyx_k_c, sizeof(__pyx_k_c), 0, 0, 1, 1},
     {&__pyx_n_u_c, __pyx_k_c, sizeof(__pyx_k_c), 0, 1, 0, 1},
     {&__pyx_n_s_choice, __pyx_k_choice, sizeof(__pyx_k_choice), 0, 0, 1, 1},
+    {&__pyx_n_s_ckeys, __pyx_k_ckeys, sizeof(__pyx_k_ckeys), 0, 0, 1, 1},
+    {&__pyx_n_s_ckeys2, __pyx_k_ckeys2, sizeof(__pyx_k_ckeys2), 0, 0, 1, 1},
+    {&__pyx_n_s_ckeys3, __pyx_k_ckeys3, sizeof(__pyx_k_ckeys3), 0, 0, 1, 1},
     {&__pyx_n_s_class, __pyx_k_class, sizeof(__pyx_k_class), 0, 0, 1, 1},
     {&__pyx_n_s_class_getitem, __pyx_k_class_getitem, sizeof(__pyx_k_class_getitem), 0, 0, 1, 1},
     {&__pyx_n_s_cline_in_traceback, __pyx_k_cline_in_traceback, sizeof(__pyx_k_cline_in_traceback), 0, 0, 1, 1},
@@ -23249,6 +23885,10 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_couple4, __pyx_k_couple4, sizeof(__pyx_k_couple4), 0, 0, 1, 1},
     {&__pyx_n_s_couple6, __pyx_k_couple6, sizeof(__pyx_k_couple6), 0, 0, 1, 1},
     {&__pyx_n_s_couple_index, __pyx_k_couple_index, sizeof(__pyx_k_couple_index), 0, 0, 1, 1},
+    {&__pyx_n_s_cset, __pyx_k_cset, sizeof(__pyx_k_cset), 0, 0, 1, 1},
+    {&__pyx_n_s_cvalues, __pyx_k_cvalues, sizeof(__pyx_k_cvalues), 0, 0, 1, 1},
+    {&__pyx_n_s_cvalues2, __pyx_k_cvalues2, sizeof(__pyx_k_cvalues2), 0, 0, 1, 1},
+    {&__pyx_n_s_cvalues3, __pyx_k_cvalues3, sizeof(__pyx_k_cvalues3), 0, 0, 1, 1},
     {&__pyx_n_s_d, __pyx_k_d, sizeof(__pyx_k_d), 0, 0, 1, 1},
     {&__pyx_n_s_d2, __pyx_k_d2, sizeof(__pyx_k_d2), 0, 0, 1, 1},
     {&__pyx_n_s_d3, __pyx_k_d3, sizeof(__pyx_k_d3), 0, 0, 1, 1},
@@ -23288,6 +23928,10 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_kp_u_got, __pyx_k_got, sizeof(__pyx_k_got), 0, 1, 0, 0},
     {&__pyx_kp_u_got_differing_extents_in_dimensi, __pyx_k_got_differing_extents_in_dimensi, sizeof(__pyx_k_got_differing_extents_in_dimensi), 0, 1, 0, 0},
     {&__pyx_n_s_i, __pyx_k_i, sizeof(__pyx_k_i), 0, 0, 1, 1},
+    {&__pyx_n_s_i2, __pyx_k_i2, sizeof(__pyx_k_i2), 0, 0, 1, 1},
+    {&__pyx_n_s_i3, __pyx_k_i3, sizeof(__pyx_k_i3), 0, 0, 1, 1},
+    {&__pyx_n_s_i4, __pyx_k_i4, sizeof(__pyx_k_i4), 0, 0, 1, 1},
+    {&__pyx_n_s_i5, __pyx_k_i5, sizeof(__pyx_k_i5), 0, 0, 1, 1},
     {&__pyx_n_s_id, __pyx_k_id, sizeof(__pyx_k_id), 0, 0, 1, 1},
     {&__pyx_n_s_immigrant, __pyx_k_immigrant, sizeof(__pyx_k_immigrant), 0, 0, 1, 1},
     {&__pyx_n_s_immigrants, __pyx_k_immigrants, sizeof(__pyx_k_immigrants), 0, 0, 1, 1},
@@ -23301,7 +23945,8 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_items, __pyx_k_items, sizeof(__pyx_k_items), 0, 0, 1, 1},
     {&__pyx_n_s_itemsize, __pyx_k_itemsize, sizeof(__pyx_k_itemsize), 0, 0, 1, 1},
     {&__pyx_kp_s_itemsize_0_for_cython_array, __pyx_k_itemsize_0_for_cython_array, sizeof(__pyx_k_itemsize_0_for_cython_array), 0, 0, 1, 0},
-    {&__pyx_n_s_iter, __pyx_k_iter, sizeof(__pyx_k_iter), 0, 0, 1, 1},
+    {&__pyx_kp_s_iter2, __pyx_k_iter2, sizeof(__pyx_k_iter2), 0, 0, 1, 0},
+    {&__pyx_n_s_iter2_2, __pyx_k_iter2_2, sizeof(__pyx_k_iter2_2), 0, 0, 1, 1},
     {&__pyx_n_s_itertools, __pyx_k_itertools, sizeof(__pyx_k_itertools), 0, 0, 1, 1},
     {&__pyx_n_s_k, __pyx_k_k, sizeof(__pyx_k_k), 0, 0, 1, 1},
     {&__pyx_n_s_key, __pyx_k_key, sizeof(__pyx_k_key), 0, 0, 1, 1},
@@ -23321,9 +23966,14 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_marriage_distances, __pyx_k_marriage_distances, sizeof(__pyx_k_marriage_distances), 0, 0, 1, 1},
     {&__pyx_n_s_marriage_probs, __pyx_k_marriage_probs, sizeof(__pyx_k_marriage_probs), 0, 0, 1, 1},
     {&__pyx_n_s_marry_strangers, __pyx_k_marry_strangers, sizeof(__pyx_k_marry_strangers), 0, 0, 1, 1},
+    {&__pyx_n_s_memory_profiler, __pyx_k_memory_profiler, sizeof(__pyx_k_memory_profiler), 0, 0, 1, 1},
     {&__pyx_n_s_memview, __pyx_k_memview, sizeof(__pyx_k_memview), 0, 0, 1, 1},
     {&__pyx_n_s_minimum_permissible_distance, __pyx_k_minimum_permissible_distance, sizeof(__pyx_k_minimum_permissible_distance), 0, 0, 1, 1},
     {&__pyx_n_s_mode, __pyx_k_mode, sizeof(__pyx_k_mode), 0, 0, 1, 1},
+    {&__pyx_n_s_n, __pyx_k_n, sizeof(__pyx_k_n), 0, 0, 1, 1},
+    {&__pyx_n_s_n2, __pyx_k_n2, sizeof(__pyx_k_n2), 0, 0, 1, 1},
+    {&__pyx_n_s_n3, __pyx_k_n3, sizeof(__pyx_k_n3), 0, 0, 1, 1},
+    {&__pyx_n_s_n4, __pyx_k_n4, sizeof(__pyx_k_n4), 0, 0, 1, 1},
     {&__pyx_n_s_name, __pyx_k_name, sizeof(__pyx_k_name), 0, 0, 1, 1},
     {&__pyx_n_s_name_2, __pyx_k_name_2, sizeof(__pyx_k_name_2), 0, 0, 1, 1},
     {&__pyx_n_s_ndim, __pyx_k_ndim, sizeof(__pyx_k_ndim), 0, 0, 1, 1},
@@ -23334,7 +23984,8 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_np, __pyx_k_np, sizeof(__pyx_k_np), 0, 0, 1, 1},
     {&__pyx_n_s_num_finite_couples_to_marry, __pyx_k_num_finite_couples_to_marry, sizeof(__pyx_k_num_finite_couples_to_marry), 0, 0, 1, 1},
     {&__pyx_n_s_num_immigrants, __pyx_k_num_immigrants, sizeof(__pyx_k_num_immigrants), 0, 0, 1, 1},
-    {&__pyx_n_s_num_inf_couples_to_marry, __pyx_k_num_inf_couples_to_marry, sizeof(__pyx_k_num_inf_couples_to_marry), 0, 0, 1, 1},
+    {&__pyx_kp_s_num_inf_couples_to_marry, __pyx_k_num_inf_couples_to_marry, sizeof(__pyx_k_num_inf_couples_to_marry), 0, 0, 1, 0},
+    {&__pyx_n_s_num_inf_couples_to_marry_2, __pyx_k_num_inf_couples_to_marry_2, sizeof(__pyx_k_num_inf_couples_to_marry_2), 0, 0, 1, 1},
     {&__pyx_n_s_num_people, __pyx_k_num_people, sizeof(__pyx_k_num_people), 0, 0, 1, 1},
     {&__pyx_n_s_numpy, __pyx_k_numpy, sizeof(__pyx_k_numpy), 0, 0, 1, 1},
     {&__pyx_n_s_obj, __pyx_k_obj, sizeof(__pyx_k_obj), 0, 0, 1, 1},
@@ -23354,6 +24005,7 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_possible_finite_couples_array, __pyx_k_possible_finite_couples_array, sizeof(__pyx_k_possible_finite_couples_array), 0, 0, 1, 1},
     {&__pyx_n_s_possible_inf_couples, __pyx_k_possible_inf_couples, sizeof(__pyx_k_possible_inf_couples), 0, 0, 1, 1},
     {&__pyx_n_s_possible_inf_couples_array, __pyx_k_possible_inf_couples_array, sizeof(__pyx_k_possible_inf_couples_array), 0, 0, 1, 1},
+    {&__pyx_kp_s_possible_inf_couples_size, __pyx_k_possible_inf_couples_size, sizeof(__pyx_k_possible_inf_couples_size), 0, 0, 1, 0},
     {&__pyx_n_s_preferred_couples, __pyx_k_preferred_couples, sizeof(__pyx_k_preferred_couples), 0, 0, 1, 1},
     {&__pyx_n_s_preferred_couples2, __pyx_k_preferred_couples2, sizeof(__pyx_k_preferred_couples2), 0, 0, 1, 1},
     {&__pyx_n_s_prev_people, __pyx_k_prev_people, sizeof(__pyx_k_prev_people), 0, 0, 1, 1},
@@ -23361,6 +24013,7 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_prob, __pyx_k_prob, sizeof(__pyx_k_prob), 0, 0, 1, 1},
     {&__pyx_n_s_prob_marry, __pyx_k_prob_marry, sizeof(__pyx_k_prob_marry), 0, 0, 1, 1},
     {&__pyx_n_s_prob_marry_immigrant, __pyx_k_prob_marry_immigrant, sizeof(__pyx_k_prob_marry_immigrant), 0, 0, 1, 1},
+    {&__pyx_n_s_profile, __pyx_k_profile, sizeof(__pyx_k_profile), 0, 0, 1, 1},
     {&__pyx_n_s_pyx_PickleError, __pyx_k_pyx_PickleError, sizeof(__pyx_k_pyx_PickleError), 0, 0, 1, 1},
     {&__pyx_n_s_pyx_checksum, __pyx_k_pyx_checksum, sizeof(__pyx_k_pyx_checksum), 0, 0, 1, 1},
     {&__pyx_n_s_pyx_result, __pyx_k_pyx_result, sizeof(__pyx_k_pyx_result), 0, 0, 1, 1},
@@ -23422,11 +24075,11 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
 }
 /* #### Code section: cached_builtins ### */
 static CYTHON_SMALL_CODE int __Pyx_InitCachedBuiltins(void) {
-  __pyx_builtin_print = __Pyx_GetBuiltinName(__pyx_n_s_print); if (!__pyx_builtin_print) __PYX_ERR(0, 9, __pyx_L1_error)
-  __pyx_builtin_round = __Pyx_GetBuiltinName(__pyx_n_s_round); if (!__pyx_builtin_round) __PYX_ERR(0, 35, __pyx_L1_error)
-  __pyx_builtin_sum = __Pyx_GetBuiltinName(__pyx_n_s_sum); if (!__pyx_builtin_sum) __PYX_ERR(0, 122, __pyx_L1_error)
-  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_n_s_range); if (!__pyx_builtin_range) __PYX_ERR(0, 220, __pyx_L1_error)
-  __pyx_builtin_zip = __Pyx_GetBuiltinName(__pyx_n_s_zip); if (!__pyx_builtin_zip) __PYX_ERR(0, 228, __pyx_L1_error)
+  __pyx_builtin_print = __Pyx_GetBuiltinName(__pyx_n_s_print); if (!__pyx_builtin_print) __PYX_ERR(0, 11, __pyx_L1_error)
+  __pyx_builtin_round = __Pyx_GetBuiltinName(__pyx_n_s_round); if (!__pyx_builtin_round) __PYX_ERR(0, 37, __pyx_L1_error)
+  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_n_s_range); if (!__pyx_builtin_range) __PYX_ERR(0, 76, __pyx_L1_error)
+  __pyx_builtin_sum = __Pyx_GetBuiltinName(__pyx_n_s_sum); if (!__pyx_builtin_sum) __PYX_ERR(0, 136, __pyx_L1_error)
+  __pyx_builtin_zip = __Pyx_GetBuiltinName(__pyx_n_s_zip); if (!__pyx_builtin_zip) __PYX_ERR(0, 261, __pyx_L1_error)
   __pyx_builtin___import__ = __Pyx_GetBuiltinName(__pyx_n_s_import); if (!__pyx_builtin___import__) __PYX_ERR(1, 100, __pyx_L1_error)
   __pyx_builtin_ValueError = __Pyx_GetBuiltinName(__pyx_n_s_ValueError); if (!__pyx_builtin_ValueError) __PYX_ERR(1, 141, __pyx_L1_error)
   __pyx_builtin_MemoryError = __Pyx_GetBuiltinName(__pyx_n_s_MemoryError); if (!__pyx_builtin_MemoryError) __PYX_ERR(1, 156, __pyx_L1_error)
@@ -23482,71 +24135,93 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__8);
   __Pyx_GIVEREF(__pyx_tuple__8);
 
-  /* "marriage_code.pyx":9
+  /* "marriage_code.pyx":11
  *                        dict indices, list original_marriage_dist,
  *                        double tol=0, double eps=1e-7):
  *     print("I'M IN ADD MARRIAGE EDGES FUNCTION")             # <<<<<<<<<<<<<<
  *     cdef dict finite_marriage_probs = {}
  *     cdef float key
  */
-  __pyx_tuple__9 = PyTuple_Pack(1, __pyx_kp_s_I_M_IN_ADD_MARRIAGE_EDGES_FUNCTI); if (unlikely(!__pyx_tuple__9)) __PYX_ERR(0, 9, __pyx_L1_error)
+  __pyx_tuple__9 = PyTuple_Pack(1, __pyx_kp_s_I_M_IN_ADD_MARRIAGE_EDGES_FUNCTI); if (unlikely(!__pyx_tuple__9)) __PYX_ERR(0, 11, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__9);
   __Pyx_GIVEREF(__pyx_tuple__9);
 
-  /* "marriage_code.pyx":66
+  /* "marriage_code.pyx":68
  *             possible_finite_couples[(man3, woman3)] = distance
  * 
  *     print("LINE 66")             # <<<<<<<<<<<<<<
  *     cdef dict preferred_couples = {}
- *     cdef float couple1
+ *     cdef double[:] couple1
  */
-  __pyx_tuple__10 = PyTuple_Pack(1, __pyx_kp_s_LINE_66); if (unlikely(!__pyx_tuple__10)) __PYX_ERR(0, 66, __pyx_L1_error)
+  __pyx_tuple__10 = PyTuple_Pack(1, __pyx_kp_s_LINE_66); if (unlikely(!__pyx_tuple__10)) __PYX_ERR(0, 68, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__10);
   __Pyx_GIVEREF(__pyx_tuple__10);
 
-  /* "marriage_code.pyx":70
- *     cdef float couple1
- *     cdef float distance1
- *     print("LINE 70")             # <<<<<<<<<<<<<<
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")
- */
-  __pyx_tuple__11 = PyTuple_Pack(1, __pyx_kp_s_LINE_70); if (unlikely(!__pyx_tuple__11)) __PYX_ERR(0, 70, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__11);
-  __Pyx_GIVEREF(__pyx_tuple__11);
-
-  /* "marriage_code.pyx":72
- *     print("LINE 70")
- *     for couple1, distance1 in possible_finite_couples.items():
- *         print("LINE 72")             # <<<<<<<<<<<<<<
- *         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
- *             preferred_couples[couple1] = distance1
- */
-  __pyx_tuple__12 = PyTuple_Pack(1, __pyx_kp_s_LINE_72); if (unlikely(!__pyx_tuple__12)) __PYX_ERR(0, 72, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__12);
-  __Pyx_GIVEREF(__pyx_tuple__12);
-
-  /* "marriage_code.pyx":83
+  /* "marriage_code.pyx":97
  *             other_couples[couple2] = distance2
  * 
  *     print("LINE 81")             # <<<<<<<<<<<<<<
- *     cdef float iter = 0
+ *     cdef float iter2 = 0
  *     cdef list dis_probs = []
  */
-  __pyx_tuple__13 = PyTuple_Pack(1, __pyx_kp_s_LINE_81); if (unlikely(!__pyx_tuple__13)) __PYX_ERR(0, 83, __pyx_L1_error)
+  __pyx_tuple__11 = PyTuple_Pack(1, __pyx_kp_s_LINE_81); if (unlikely(!__pyx_tuple__11)) __PYX_ERR(0, 97, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__11);
+  __Pyx_GIVEREF(__pyx_tuple__11);
+
+  /* "marriage_code.pyx":216
+ *         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
+ *         possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
+ *         print("after possible_inf_couples_array")             # <<<<<<<<<<<<<<
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ *         print("after couple_index")
+ */
+  __pyx_tuple__12 = PyTuple_Pack(1, __pyx_kp_s_after_possible_inf_couples_array); if (unlikely(!__pyx_tuple__12)) __PYX_ERR(0, 216, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__12);
+  __Pyx_GIVEREF(__pyx_tuple__12);
+
+  /* "marriage_code.pyx":218
+ *         print("after possible_inf_couples_array")
+ *         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+ *         print("after couple_index")             # <<<<<<<<<<<<<<
+ *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+ *         print("after couple")
+ */
+  __pyx_tuple__13 = PyTuple_Pack(1, __pyx_kp_s_after_couple_index); if (unlikely(!__pyx_tuple__13)) __PYX_ERR(0, 218, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__13);
   __Pyx_GIVEREF(__pyx_tuple__13);
 
-  /* "marriage_code.pyx":173
- *         iter += 1
+  /* "marriage_code.pyx":220
+ *         print("after couple_index")
+ *         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+ *         print("after couple")             # <<<<<<<<<<<<<<
  * 
- *     print("LINE 171")             # <<<<<<<<<<<<<<
- *     if iter == 0:
- *         stay_single_forever = will_marry | set(prev_people)
+ *         unions.add(couple)
  */
-  __pyx_tuple__14 = PyTuple_Pack(1, __pyx_kp_s_LINE_171); if (unlikely(!__pyx_tuple__14)) __PYX_ERR(0, 173, __pyx_L1_error)
+  __pyx_tuple__14 = PyTuple_Pack(1, __pyx_kp_s_after_couple); if (unlikely(!__pyx_tuple__14)) __PYX_ERR(0, 220, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__14);
   __Pyx_GIVEREF(__pyx_tuple__14);
+
+  /* "marriage_code.pyx":235
+ *             if couple[0] not in pair20 and couple[1] not in pair20:
+ *                 possible_inf_couples[pair20] = distance20
+ *         print("after first for loop")             # <<<<<<<<<<<<<<
+ * 
+ *         iter2 += 1
+ */
+  __pyx_tuple__15 = PyTuple_Pack(1, __pyx_kp_s_after_first_for_loop); if (unlikely(!__pyx_tuple__15)) __PYX_ERR(0, 235, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__15);
+  __Pyx_GIVEREF(__pyx_tuple__15);
+
+  /* "marriage_code.pyx":246
+ *             for man30 in couple30:
+ *                 stay_single_forever2.add(man30)
+ *         print("after second for loop")             # <<<<<<<<<<<<<<
+ * 
+ *     num_immigrants = num_inf_couples_to_marry - iter2
+ */
+  __pyx_tuple__16 = PyTuple_Pack(1, __pyx_kp_s_after_second_for_loop); if (unlikely(!__pyx_tuple__16)) __PYX_ERR(0, 246, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__16);
+  __Pyx_GIVEREF(__pyx_tuple__16);
 
   /* "View.MemoryView":100
  * cdef object __pyx_collections_abc_Sequence "__pyx_collections_abc_Sequence"
@@ -23555,12 +24230,12 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *         __pyx_collections_abc_Sequence = __import__("collections.abc").abc.Sequence
  *     else:
  */
-  __pyx_tuple__15 = PyTuple_Pack(1, __pyx_n_s_sys); if (unlikely(!__pyx_tuple__15)) __PYX_ERR(1, 100, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__15);
-  __Pyx_GIVEREF(__pyx_tuple__15);
-  __pyx_tuple__16 = PyTuple_Pack(2, __pyx_int_3, __pyx_int_3); if (unlikely(!__pyx_tuple__16)) __PYX_ERR(1, 100, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__16);
-  __Pyx_GIVEREF(__pyx_tuple__16);
+  __pyx_tuple__17 = PyTuple_Pack(1, __pyx_n_s_sys); if (unlikely(!__pyx_tuple__17)) __PYX_ERR(1, 100, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__17);
+  __Pyx_GIVEREF(__pyx_tuple__17);
+  __pyx_tuple__18 = PyTuple_Pack(2, __pyx_int_3, __pyx_int_3); if (unlikely(!__pyx_tuple__18)) __PYX_ERR(1, 100, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__18);
+  __Pyx_GIVEREF(__pyx_tuple__18);
 
   /* "View.MemoryView":101
  * try:
@@ -23569,9 +24244,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     else:
  *         __pyx_collections_abc_Sequence = __import__("collections").Sequence
  */
-  __pyx_tuple__17 = PyTuple_Pack(1, __pyx_kp_s_collections_abc); if (unlikely(!__pyx_tuple__17)) __PYX_ERR(1, 101, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__17);
-  __Pyx_GIVEREF(__pyx_tuple__17);
+  __pyx_tuple__19 = PyTuple_Pack(1, __pyx_kp_s_collections_abc); if (unlikely(!__pyx_tuple__19)) __PYX_ERR(1, 101, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__19);
+  __Pyx_GIVEREF(__pyx_tuple__19);
 
   /* "View.MemoryView":103
  *         __pyx_collections_abc_Sequence = __import__("collections.abc").abc.Sequence
@@ -23580,9 +24255,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * except:
  * 
  */
-  __pyx_tuple__18 = PyTuple_Pack(1, __pyx_n_s_collections); if (unlikely(!__pyx_tuple__18)) __PYX_ERR(1, 103, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__18);
-  __Pyx_GIVEREF(__pyx_tuple__18);
+  __pyx_tuple__20 = PyTuple_Pack(1, __pyx_n_s_collections); if (unlikely(!__pyx_tuple__20)) __PYX_ERR(1, 103, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__20);
+  __Pyx_GIVEREF(__pyx_tuple__20);
 
   /* "View.MemoryView":309
  *         return self.name
@@ -23591,9 +24266,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * cdef strided = Enum("<strided and direct>") # default
  * cdef indirect = Enum("<strided and indirect>")
  */
-  __pyx_tuple__19 = PyTuple_Pack(1, __pyx_kp_s_strided_and_direct_or_indirect); if (unlikely(!__pyx_tuple__19)) __PYX_ERR(1, 309, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__19);
-  __Pyx_GIVEREF(__pyx_tuple__19);
+  __pyx_tuple__21 = PyTuple_Pack(1, __pyx_kp_s_strided_and_direct_or_indirect); if (unlikely(!__pyx_tuple__21)) __PYX_ERR(1, 309, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__21);
+  __Pyx_GIVEREF(__pyx_tuple__21);
 
   /* "View.MemoryView":310
  * 
@@ -23602,9 +24277,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * cdef indirect = Enum("<strided and indirect>")
  * 
  */
-  __pyx_tuple__20 = PyTuple_Pack(1, __pyx_kp_s_strided_and_direct); if (unlikely(!__pyx_tuple__20)) __PYX_ERR(1, 310, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__20);
-  __Pyx_GIVEREF(__pyx_tuple__20);
+  __pyx_tuple__22 = PyTuple_Pack(1, __pyx_kp_s_strided_and_direct); if (unlikely(!__pyx_tuple__22)) __PYX_ERR(1, 310, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__22);
+  __Pyx_GIVEREF(__pyx_tuple__22);
 
   /* "View.MemoryView":311
  * cdef generic = Enum("<strided and direct or indirect>")
@@ -23613,9 +24288,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * 
  */
-  __pyx_tuple__21 = PyTuple_Pack(1, __pyx_kp_s_strided_and_indirect); if (unlikely(!__pyx_tuple__21)) __PYX_ERR(1, 311, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__21);
-  __Pyx_GIVEREF(__pyx_tuple__21);
+  __pyx_tuple__23 = PyTuple_Pack(1, __pyx_kp_s_strided_and_indirect); if (unlikely(!__pyx_tuple__23)) __PYX_ERR(1, 311, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__23);
+  __Pyx_GIVEREF(__pyx_tuple__23);
 
   /* "View.MemoryView":314
  * 
@@ -23624,9 +24299,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * cdef indirect_contiguous = Enum("<contiguous and indirect>")
  * 
  */
-  __pyx_tuple__22 = PyTuple_Pack(1, __pyx_kp_s_contiguous_and_direct); if (unlikely(!__pyx_tuple__22)) __PYX_ERR(1, 314, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__22);
-  __Pyx_GIVEREF(__pyx_tuple__22);
+  __pyx_tuple__24 = PyTuple_Pack(1, __pyx_kp_s_contiguous_and_direct); if (unlikely(!__pyx_tuple__24)) __PYX_ERR(1, 314, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__24);
+  __Pyx_GIVEREF(__pyx_tuple__24);
 
   /* "View.MemoryView":315
  * 
@@ -23635,31 +24310,31 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * 
  */
-  __pyx_tuple__23 = PyTuple_Pack(1, __pyx_kp_s_contiguous_and_indirect); if (unlikely(!__pyx_tuple__23)) __PYX_ERR(1, 315, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__23);
-  __Pyx_GIVEREF(__pyx_tuple__23);
+  __pyx_tuple__25 = PyTuple_Pack(1, __pyx_kp_s_contiguous_and_indirect); if (unlikely(!__pyx_tuple__25)) __PYX_ERR(1, 315, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__25);
+  __Pyx_GIVEREF(__pyx_tuple__25);
 
   /* "(tree fragment)":1
  * def __pyx_unpickle_Enum(__pyx_type, long __pyx_checksum, __pyx_state):             # <<<<<<<<<<<<<<
  *     cdef object __pyx_PickleError
  *     cdef object __pyx_result
  */
-  __pyx_tuple__24 = PyTuple_Pack(5, __pyx_n_s_pyx_type, __pyx_n_s_pyx_checksum, __pyx_n_s_pyx_state, __pyx_n_s_pyx_PickleError, __pyx_n_s_pyx_result); if (unlikely(!__pyx_tuple__24)) __PYX_ERR(1, 1, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__24);
-  __Pyx_GIVEREF(__pyx_tuple__24);
-  __pyx_codeobj__25 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__24, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_stringsource, __pyx_n_s_pyx_unpickle_Enum, 1, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__25)) __PYX_ERR(1, 1, __pyx_L1_error)
-
-  /* "marriage_code.pyx":5
- * import random
- * 
- * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,             # <<<<<<<<<<<<<<
- *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
- *                        dict indices, list original_marriage_dist,
- */
-  __pyx_tuple__26 = PyTuple_Pack(92, __pyx_n_s_people, __pyx_n_s_prev_people, __pyx_n_s_num_people, __pyx_n_s_marriage_probs, __pyx_n_s_prob_marry_immigrant, __pyx_n_s_prob_marry, __pyx_n_s_D, __pyx_n_s_indices, __pyx_n_s_original_marriage_dist, __pyx_n_s_tol, __pyx_n_s_eps, __pyx_n_s_finite_marriage_probs, __pyx_n_s_key, __pyx_n_s_val, __pyx_n_s_desired_finite_distances, __pyx_n_s_distance, __pyx_n_s_prob, __pyx_n_s_minimum_permissible_distance, __pyx_n_s_k, __pyx_n_s_marriage_distances, __pyx_n_s_unions, __pyx_n_s_people_set, __pyx_n_s_next_person, __pyx_n_s_num_inf_couples_to_marry, __pyx_n_s_num_finite_couples_to_marry, __pyx_n_s_will_marry, __pyx_n_s_wont_marry_until_next_time, __pyx_n_s_node, __pyx_n_s_possible_couples, __pyx_n_s_man, __pyx_n_s_woman, __pyx_n_s_man2, __pyx_n_s_woman2, __pyx_n_s_possible_finite_couples, __pyx_n_s_man3, __pyx_n_s_woman3, __pyx_n_s_preferred_couples, __pyx_n_s_couple1, __pyx_n_s_distance1, __pyx_n_s_other_couples, __pyx_n_s_couple2, __pyx_n_s_distance2, __pyx_n_s_iter, __pyx_n_s_dis_probs, __pyx_n_s_dis_probs_pre, __pyx_n_s_dis_probs2, __pyx_n_s_dis_prob3, __pyx_n_s_dis_probs3, __pyx_n_s_d, __pyx_n_s_d2, __pyx_n_s_least_bad_distance, __pyx_n_s_d3, __pyx_n_s_d4, __pyx_n_s_d5, __pyx_n_s_total_prob, __pyx_n_s_total_prob2, __pyx_n_s_man_idx, __pyx_n_s_woman_idx, __pyx_n_s_possible_finite_couples2, __pyx_n_s_pair10, __pyx_n_s_distance10, __pyx_n_s_preferred_couples2, __pyx_n_s_couple3, __pyx_n_s_distance3, __pyx_n_s_other_couples2, __pyx_n_s_couple4, __pyx_n_s_distance4, __pyx_n_s_stay_single_forever, __pyx_n_s_couple6, __pyx_n_s_man6, __pyx_n_s_possible_finite_couples_array, __pyx_n_s_dis_prob, __pyx_n_s_couple_index, __pyx_n_s_e, __pyx_n_s_couple, __pyx_n_s_possible_inf_couples, __pyx_n_s_man5, __pyx_n_s_woman5, __pyx_n_s_man_idx2, __pyx_n_s_woman_idx2, __pyx_n_s_pair20, __pyx_n_s_distance20, __pyx_n_s_stay_single_forever2, __pyx_n_s_couple30, __pyx_n_s_man30, __pyx_n_s_possible_inf_couples_array, __pyx_n_s_num_immigrants, __pyx_n_s_immigrants, __pyx_n_s_i, __pyx_n_s_marry_strangers, __pyx_n_s_spouse, __pyx_n_s_immigrant); if (unlikely(!__pyx_tuple__26)) __PYX_ERR(0, 5, __pyx_L1_error)
+  __pyx_tuple__26 = PyTuple_Pack(5, __pyx_n_s_pyx_type, __pyx_n_s_pyx_checksum, __pyx_n_s_pyx_state, __pyx_n_s_pyx_PickleError, __pyx_n_s_pyx_result); if (unlikely(!__pyx_tuple__26)) __PYX_ERR(1, 1, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__26);
   __Pyx_GIVEREF(__pyx_tuple__26);
-  __pyx_codeobj__27 = (PyObject*)__Pyx_PyCode_New(11, 0, 0, 92, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__26, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_marriage_code_pyx, __pyx_n_s_add_marriage_edges, 5, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__27)) __PYX_ERR(0, 5, __pyx_L1_error)
+  __pyx_codeobj__27 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__26, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_stringsource, __pyx_n_s_pyx_unpickle_Enum, 1, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__27)) __PYX_ERR(1, 1, __pyx_L1_error)
+
+  /* "marriage_code.pyx":6
+ * from memory_profiler import profile
+ * 
+ * @profile             # <<<<<<<<<<<<<<
+ * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
+ *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
+ */
+  __pyx_tuple__28 = PyTuple_Pack(107, __pyx_n_s_people, __pyx_n_s_prev_people, __pyx_n_s_num_people, __pyx_n_s_marriage_probs, __pyx_n_s_prob_marry_immigrant, __pyx_n_s_prob_marry, __pyx_n_s_D, __pyx_n_s_indices, __pyx_n_s_original_marriage_dist, __pyx_n_s_tol, __pyx_n_s_eps, __pyx_n_s_finite_marriage_probs, __pyx_n_s_key, __pyx_n_s_val, __pyx_n_s_desired_finite_distances, __pyx_n_s_distance, __pyx_n_s_prob, __pyx_n_s_minimum_permissible_distance, __pyx_n_s_k, __pyx_n_s_marriage_distances, __pyx_n_s_unions, __pyx_n_s_people_set, __pyx_n_s_next_person, __pyx_n_s_num_inf_couples_to_marry_2, __pyx_n_s_num_finite_couples_to_marry, __pyx_n_s_will_marry, __pyx_n_s_wont_marry_until_next_time, __pyx_n_s_node, __pyx_n_s_possible_couples, __pyx_n_s_man, __pyx_n_s_woman, __pyx_n_s_man2, __pyx_n_s_woman2, __pyx_n_s_possible_finite_couples, __pyx_n_s_man3, __pyx_n_s_woman3, __pyx_n_s_preferred_couples, __pyx_n_s_couple1, __pyx_n_s_distance1, __pyx_n_s_ckeys, __pyx_n_s_cvalues, __pyx_n_s_n, __pyx_n_s_i2, __pyx_n_s_other_couples, __pyx_n_s_couple2, __pyx_n_s_distance2, __pyx_n_s_ckeys2, __pyx_n_s_cvalues2, __pyx_n_s_n2, __pyx_n_s_i3, __pyx_n_s_iter2_2, __pyx_n_s_dis_probs, __pyx_n_s_dis_probs_pre, __pyx_n_s_dis_probs2, __pyx_n_s_dis_prob3, __pyx_n_s_dis_probs3, __pyx_n_s_d, __pyx_n_s_d2, __pyx_n_s_least_bad_distance, __pyx_n_s_d3, __pyx_n_s_d4, __pyx_n_s_d5, __pyx_n_s_total_prob, __pyx_n_s_total_prob2, __pyx_n_s_man_idx, __pyx_n_s_woman_idx, __pyx_n_s_possible_finite_couples2, __pyx_n_s_pair10, __pyx_n_s_distance10, __pyx_n_s_preferred_couples2, __pyx_n_s_couple3, __pyx_n_s_distance3, __pyx_n_s_other_couples2, __pyx_n_s_couple4, __pyx_n_s_distance4, __pyx_n_s_stay_single_forever, __pyx_n_s_couple6, __pyx_n_s_man6, __pyx_n_s_possible_finite_couples_array, __pyx_n_s_dis_prob, __pyx_n_s_couple_index, __pyx_n_s_e, __pyx_n_s_couple, __pyx_n_s_possible_inf_couples, __pyx_n_s_man5, __pyx_n_s_woman5, __pyx_n_s_man_idx2, __pyx_n_s_woman_idx2, __pyx_n_s_pair20, __pyx_n_s_distance20, __pyx_n_s_stay_single_forever2, __pyx_n_s_couple30, __pyx_n_s_man30, __pyx_n_s_n3, __pyx_n_s_n4, __pyx_n_s_possible_inf_couples_array, __pyx_n_s_ckeys3, __pyx_n_s_cvalues3, __pyx_n_s_i4, __pyx_n_s_cset, __pyx_n_s_i5, __pyx_n_s_num_immigrants, __pyx_n_s_immigrants, __pyx_n_s_i, __pyx_n_s_marry_strangers, __pyx_n_s_spouse, __pyx_n_s_immigrant); if (unlikely(!__pyx_tuple__28)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__28);
+  __Pyx_GIVEREF(__pyx_tuple__28);
+  __pyx_codeobj__29 = (PyObject*)__Pyx_PyCode_New(11, 0, 0, 107, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__28, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_marriage_code_pyx, __pyx_n_s_add_marriage_edges, 6, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__29)) __PYX_ERR(0, 6, __pyx_L1_error)
   __Pyx_RefNannyFinishContext();
   return 0;
   __pyx_L1_error:;
@@ -23673,6 +24348,8 @@ static CYTHON_SMALL_CODE int __Pyx_InitConstants(void) {
   __pyx_umethod_PyDict_Type_get.method_name = &__pyx_n_s_get;
   __pyx_umethod_PyDict_Type_keys.type = (PyObject*)&PyDict_Type;
   __pyx_umethod_PyDict_Type_keys.method_name = &__pyx_n_s_keys;
+  __pyx_umethod_PyDict_Type_values.type = (PyObject*)&PyDict_Type;
+  __pyx_umethod_PyDict_Type_values.method_name = &__pyx_n_s_values;
   if (__Pyx_CreateStringTabAndInitStrings() < 0) __PYX_ERR(0, 1, __pyx_L1_error);
   __pyx_int_0 = PyInt_FromLong(0); if (unlikely(!__pyx_int_0)) __PYX_ERR(0, 1, __pyx_L1_error)
   __pyx_int_1 = PyInt_FromLong(1); if (unlikely(!__pyx_int_1)) __PYX_ERR(0, 1, __pyx_L1_error)
@@ -24087,6 +24764,7 @@ static CYTHON_SMALL_CODE int __pyx_pymod_exec_marriage_code(PyObject *__pyx_pyin
   int __pyx_t_6;
   PyObject *__pyx_t_7 = NULL;
   static PyThread_type_lock __pyx_t_8[8];
+  PyObject *__pyx_t_9 = NULL;
   int __pyx_lineno = 0;
   const char *__pyx_filename = NULL;
   int __pyx_clineno = 0;
@@ -24227,12 +24905,12 @@ if (!__Pyx_RefNanny) {
  *         __pyx_collections_abc_Sequence = __import__("collections.abc").abc.Sequence
  *     else:
  */
-      __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__15, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 100, __pyx_L2_error)
+      __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__17, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 100, __pyx_L2_error)
       __Pyx_GOTREF(__pyx_t_4);
       __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_version_info); if (unlikely(!__pyx_t_5)) __PYX_ERR(1, 100, __pyx_L2_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-      __pyx_t_4 = PyObject_RichCompare(__pyx_t_5, __pyx_tuple__16, Py_GE); __Pyx_XGOTREF(__pyx_t_4); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 100, __pyx_L2_error)
+      __pyx_t_4 = PyObject_RichCompare(__pyx_t_5, __pyx_tuple__18, Py_GE); __Pyx_XGOTREF(__pyx_t_4); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 100, __pyx_L2_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_6 = __Pyx_PyObject_IsTrue(__pyx_t_4); if (unlikely((__pyx_t_6 < 0))) __PYX_ERR(1, 100, __pyx_L2_error)
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -24245,7 +24923,7 @@ if (!__Pyx_RefNanny) {
  *     else:
  *         __pyx_collections_abc_Sequence = __import__("collections").Sequence
  */
-        __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__17, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 101, __pyx_L2_error)
+        __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__19, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 101, __pyx_L2_error)
         __Pyx_GOTREF(__pyx_t_4);
         __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_abc); if (unlikely(!__pyx_t_5)) __PYX_ERR(1, 101, __pyx_L2_error)
         __Pyx_GOTREF(__pyx_t_5);
@@ -24276,7 +24954,7 @@ if (!__Pyx_RefNanny) {
  * 
  */
       /*else*/ {
-        __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__18, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 103, __pyx_L2_error)
+        __pyx_t_4 = __Pyx_PyObject_Call(__pyx_builtin___import__, __pyx_tuple__20, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(1, 103, __pyx_L2_error)
         __Pyx_GOTREF(__pyx_t_4);
         __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_Sequence); if (unlikely(!__pyx_t_5)) __PYX_ERR(1, 103, __pyx_L2_error)
         __Pyx_GOTREF(__pyx_t_5);
@@ -24441,7 +25119,7 @@ if (!__Pyx_RefNanny) {
  * cdef strided = Enum("<strided and direct>") # default
  * cdef indirect = Enum("<strided and indirect>")
  */
-  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__19, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 309, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__21, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 309, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_XGOTREF(generic);
   __Pyx_DECREF_SET(generic, __pyx_t_7);
@@ -24455,7 +25133,7 @@ if (!__Pyx_RefNanny) {
  * cdef indirect = Enum("<strided and indirect>")
  * 
  */
-  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__20, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 310, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__22, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_XGOTREF(strided);
   __Pyx_DECREF_SET(strided, __pyx_t_7);
@@ -24469,7 +25147,7 @@ if (!__Pyx_RefNanny) {
  * 
  * 
  */
-  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__21, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 311, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__23, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 311, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_XGOTREF(indirect);
   __Pyx_DECREF_SET(indirect, __pyx_t_7);
@@ -24483,7 +25161,7 @@ if (!__Pyx_RefNanny) {
  * cdef indirect_contiguous = Enum("<contiguous and indirect>")
  * 
  */
-  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__22, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 314, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__24, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 314, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_XGOTREF(contiguous);
   __Pyx_DECREF_SET(contiguous, __pyx_t_7);
@@ -24497,7 +25175,7 @@ if (!__Pyx_RefNanny) {
  * 
  * 
  */
-  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__23, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 315, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(((PyObject *)__pyx_MemviewEnum_type), __pyx_tuple__25, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(1, 315, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_XGOTREF(indirect_contiguous);
   __Pyx_DECREF_SET(indirect_contiguous, __pyx_t_7);
@@ -24731,7 +25409,7 @@ if (!__Pyx_RefNanny) {
  * import itertools
  * import numpy as np             # <<<<<<<<<<<<<<
  * import random
- * 
+ * from memory_profiler import profile
  */
   __pyx_t_7 = __Pyx_ImportDottedModule(__pyx_n_s_numpy, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 2, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
@@ -24742,57 +25420,92 @@ if (!__Pyx_RefNanny) {
  * import itertools
  * import numpy as np
  * import random             # <<<<<<<<<<<<<<
+ * from memory_profiler import profile
  * 
- * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
  */
   __pyx_t_7 = __Pyx_ImportDottedModule(__pyx_n_s_random, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 3, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_random, __pyx_t_7) < 0) __PYX_ERR(0, 3, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
 
-  /* "marriage_code.pyx":8
+  /* "marriage_code.pyx":4
+ * import numpy as np
+ * import random
+ * from memory_profiler import profile             # <<<<<<<<<<<<<<
+ * 
+ * @profile
+ */
+  __pyx_t_7 = PyList_New(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 4, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_7);
+  __Pyx_INCREF(__pyx_n_s_profile);
+  __Pyx_GIVEREF(__pyx_n_s_profile);
+  if (__Pyx_PyList_SET_ITEM(__pyx_t_7, 0, __pyx_n_s_profile)) __PYX_ERR(0, 4, __pyx_L1_error);
+  __pyx_t_4 = __Pyx_Import(__pyx_n_s_memory_profiler, __pyx_t_7, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 4, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_4);
+  __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
+  __pyx_t_7 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_profile); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 4, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_7);
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_profile, __pyx_t_7) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
+  __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
+
+  /* "marriage_code.pyx":6
+ * from memory_profiler import profile
+ * 
+ * @profile             # <<<<<<<<<<<<<<
+ * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
+ *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
+ */
+  __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_profile); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_4);
+
+  /* "marriage_code.pyx":10
  *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
  *                        dict indices, list original_marriage_dist,
  *                        double tol=0, double eps=1e-7):             # <<<<<<<<<<<<<<
  *     print("I'M IN ADD MARRIAGE EDGES FUNCTION")
  *     cdef dict finite_marriage_probs = {}
  */
-  __pyx_t_7 = PyFloat_FromDouble(((double)0.0)); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 8, __pyx_L1_error)
+  __pyx_t_7 = PyFloat_FromDouble(((double)0.0)); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 10, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
-  __pyx_t_4 = PyFloat_FromDouble(((double)1e-7)); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 8, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_4);
-
-  /* "marriage_code.pyx":5
- * import random
- * 
- * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,             # <<<<<<<<<<<<<<
- *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
- *                        dict indices, list original_marriage_dist,
- */
-  __pyx_t_5 = PyTuple_New(2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 5, __pyx_L1_error)
+  __pyx_t_5 = PyFloat_FromDouble(((double)1e-7)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 10, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
+
+  /* "marriage_code.pyx":6
+ * from memory_profiler import profile
+ * 
+ * @profile             # <<<<<<<<<<<<<<
+ * def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
+ *                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
+ */
+  __pyx_t_9 = PyTuple_New(2); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_9);
   __Pyx_GIVEREF(__pyx_t_7);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_7)) __PYX_ERR(0, 5, __pyx_L1_error);
-  __Pyx_GIVEREF(__pyx_t_4);
-  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_5, 1, __pyx_t_4)) __PYX_ERR(0, 5, __pyx_L1_error);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_7)) __PYX_ERR(0, 6, __pyx_L1_error);
+  __Pyx_GIVEREF(__pyx_t_5);
+  if (__Pyx_PyTuple_SET_ITEM(__pyx_t_9, 1, __pyx_t_5)) __PYX_ERR(0, 6, __pyx_L1_error);
   __pyx_t_7 = 0;
-  __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_13marriage_code_1add_marriage_edges, 0, __pyx_n_s_add_marriage_edges, NULL, __pyx_n_s_marriage_code, __pyx_d, ((PyObject *)__pyx_codeobj__27)); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 5, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_4);
-  __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_5);
-  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_add_marriage_edges, __pyx_t_4) < 0) __PYX_ERR(0, 5, __pyx_L1_error)
+  __pyx_t_5 = 0;
+  __pyx_t_5 = __Pyx_CyFunction_New(&__pyx_mdef_13marriage_code_1add_marriage_edges, 0, __pyx_n_s_add_marriage_edges, NULL, __pyx_n_s_marriage_code, __pyx_d, ((PyObject *)__pyx_codeobj__29)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_5);
+  __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_5, __pyx_t_9);
+  __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
+  __pyx_t_9 = __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_5); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_9);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
+  __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_add_marriage_edges, __pyx_t_9) < 0) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
   /* "marriage_code.pyx":1
  * import itertools             # <<<<<<<<<<<<<<
  * import numpy as np
  * import random
  */
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 1, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_test, __pyx_t_4) < 0) __PYX_ERR(0, 1, __pyx_L1_error)
-  __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
+  __pyx_t_9 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 1, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_t_9);
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_test, __pyx_t_9) < 0) __PYX_ERR(0, 1, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
 
   /*--- Wrapped vars code ---*/
 
@@ -24801,6 +25514,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_XDECREF(__pyx_t_4);
   __Pyx_XDECREF(__pyx_t_5);
   __Pyx_XDECREF(__pyx_t_7);
+  __Pyx_XDECREF(__pyx_t_9);
   if (__pyx_m) {
     if (__pyx_d && stringtab_initialized) {
       __Pyx_AddTraceback("init marriage_code", __pyx_clineno, __pyx_lineno, __pyx_filename);
@@ -27741,6 +28455,104 @@ static void __Pyx_RaiseBufferIndexError(int axis) {
      "Out of bounds on buffer access (axis %d)", axis);
 }
 
+/* UnpackUnboundCMethod */
+static PyObject *__Pyx_SelflessCall(PyObject *method, PyObject *args, PyObject *kwargs) {
+    PyObject *selfless_args = PyTuple_GetSlice(args, 1, PyTuple_Size(args));
+    if (unlikely(!selfless_args)) return NULL;
+    PyObject *result = PyObject_Call(method, selfless_args, kwargs);
+    Py_DECREF(selfless_args);
+    return result;
+}
+static PyMethodDef __Pyx_UnboundCMethod_Def = {
+     "CythonUnboundCMethod",
+     __PYX_REINTERPRET_FUNCION(PyCFunction, __Pyx_SelflessCall),
+     METH_VARARGS | METH_KEYWORDS,
+     NULL
+};
+static int __Pyx_TryUnpackUnboundCMethod(__Pyx_CachedCFunction* target) {
+    PyObject *method;
+    method = __Pyx_PyObject_GetAttrStr(target->type, *target->method_name);
+    if (unlikely(!method))
+        return -1;
+    target->method = method;
+#if CYTHON_COMPILING_IN_CPYTHON
+    #if PY_MAJOR_VERSION >= 3
+    if (likely(__Pyx_TypeCheck(method, &PyMethodDescr_Type)))
+    #else
+    if (likely(!PyCFunction_Check(method)))
+    #endif
+    {
+        PyMethodDescrObject *descr = (PyMethodDescrObject*) method;
+        target->func = descr->d_method->ml_meth;
+        target->flag = descr->d_method->ml_flags & ~(METH_CLASS | METH_STATIC | METH_COEXIST | METH_STACKLESS);
+    } else
+#endif
+#if defined(CYTHON_COMPILING_IN_PYPY)
+#elif PY_VERSION_HEX >= 0x03090000
+    if (PyCFunction_CheckExact(method))
+#else
+    if (PyCFunction_Check(method))
+#endif
+    {
+        PyObject *self;
+        int self_found;
+#if CYTHON_COMPILING_IN_LIMITED_API || CYTHON_COMPILING_IN_PYPY
+        self = PyObject_GetAttrString(method, "__self__");
+        if (!self) {
+            PyErr_Clear();
+        }
+#else
+        self = PyCFunction_GET_SELF(method);
+#endif
+        self_found = (self && self != Py_None);
+#if CYTHON_COMPILING_IN_LIMITED_API || CYTHON_COMPILING_IN_PYPY
+        Py_XDECREF(self);
+#endif
+        if (self_found) {
+            PyObject *unbound_method = PyCFunction_New(&__Pyx_UnboundCMethod_Def, method);
+            if (unlikely(!unbound_method)) return -1;
+            Py_DECREF(method);
+            target->method = unbound_method;
+        }
+    }
+    return 0;
+}
+
+/* CallUnboundCMethod0 */
+static PyObject* __Pyx__CallUnboundCMethod0(__Pyx_CachedCFunction* cfunc, PyObject* self) {
+    PyObject *args, *result = NULL;
+    if (unlikely(!cfunc->method) && unlikely(__Pyx_TryUnpackUnboundCMethod(cfunc) < 0)) return NULL;
+#if CYTHON_ASSUME_SAFE_MACROS
+    args = PyTuple_New(1);
+    if (unlikely(!args)) goto bad;
+    Py_INCREF(self);
+    PyTuple_SET_ITEM(args, 0, self);
+#else
+    args = PyTuple_Pack(1, self);
+    if (unlikely(!args)) goto bad;
+#endif
+    result = __Pyx_PyObject_Call(cfunc->method, args, NULL);
+    Py_DECREF(args);
+bad:
+    return result;
+}
+
+/* py_dict_keys */
+static CYTHON_INLINE PyObject* __Pyx_PyDict_Keys(PyObject* d) {
+    if (PY_MAJOR_VERSION >= 3)
+        return __Pyx_CallUnboundCMethod0(&__pyx_umethod_PyDict_Type_keys, d);
+    else
+        return PyDict_Keys(d);
+}
+
+/* py_dict_values */
+static CYTHON_INLINE PyObject* __Pyx_PyDict_Values(PyObject* d) {
+    if (PY_MAJOR_VERSION >= 3)
+        return __Pyx_CallUnboundCMethod0(&__pyx_umethod_PyDict_Type_values, d);
+    else
+        return PyDict_Values(d);
+}
+
 /* pybytes_as_double */
 static double __Pyx_SlowPyString_AsDouble(PyObject *obj) {
     PyObject *float_value;
@@ -27855,96 +28667,6 @@ CYTHON_UNUSED static double __Pyx__PyBytes_AsDouble(PyObject *obj, const char* s
     }
 fallback:
     return __Pyx_SlowPyString_AsDouble(obj);
-}
-
-/* UnpackUnboundCMethod */
-static PyObject *__Pyx_SelflessCall(PyObject *method, PyObject *args, PyObject *kwargs) {
-    PyObject *selfless_args = PyTuple_GetSlice(args, 1, PyTuple_Size(args));
-    if (unlikely(!selfless_args)) return NULL;
-    PyObject *result = PyObject_Call(method, selfless_args, kwargs);
-    Py_DECREF(selfless_args);
-    return result;
-}
-static PyMethodDef __Pyx_UnboundCMethod_Def = {
-     "CythonUnboundCMethod",
-     __PYX_REINTERPRET_FUNCION(PyCFunction, __Pyx_SelflessCall),
-     METH_VARARGS | METH_KEYWORDS,
-     NULL
-};
-static int __Pyx_TryUnpackUnboundCMethod(__Pyx_CachedCFunction* target) {
-    PyObject *method;
-    method = __Pyx_PyObject_GetAttrStr(target->type, *target->method_name);
-    if (unlikely(!method))
-        return -1;
-    target->method = method;
-#if CYTHON_COMPILING_IN_CPYTHON
-    #if PY_MAJOR_VERSION >= 3
-    if (likely(__Pyx_TypeCheck(method, &PyMethodDescr_Type)))
-    #else
-    if (likely(!PyCFunction_Check(method)))
-    #endif
-    {
-        PyMethodDescrObject *descr = (PyMethodDescrObject*) method;
-        target->func = descr->d_method->ml_meth;
-        target->flag = descr->d_method->ml_flags & ~(METH_CLASS | METH_STATIC | METH_COEXIST | METH_STACKLESS);
-    } else
-#endif
-#if defined(CYTHON_COMPILING_IN_PYPY)
-#elif PY_VERSION_HEX >= 0x03090000
-    if (PyCFunction_CheckExact(method))
-#else
-    if (PyCFunction_Check(method))
-#endif
-    {
-        PyObject *self;
-        int self_found;
-#if CYTHON_COMPILING_IN_LIMITED_API || CYTHON_COMPILING_IN_PYPY
-        self = PyObject_GetAttrString(method, "__self__");
-        if (!self) {
-            PyErr_Clear();
-        }
-#else
-        self = PyCFunction_GET_SELF(method);
-#endif
-        self_found = (self && self != Py_None);
-#if CYTHON_COMPILING_IN_LIMITED_API || CYTHON_COMPILING_IN_PYPY
-        Py_XDECREF(self);
-#endif
-        if (self_found) {
-            PyObject *unbound_method = PyCFunction_New(&__Pyx_UnboundCMethod_Def, method);
-            if (unlikely(!unbound_method)) return -1;
-            Py_DECREF(method);
-            target->method = unbound_method;
-        }
-    }
-    return 0;
-}
-
-/* CallUnboundCMethod0 */
-static PyObject* __Pyx__CallUnboundCMethod0(__Pyx_CachedCFunction* cfunc, PyObject* self) {
-    PyObject *args, *result = NULL;
-    if (unlikely(!cfunc->method) && unlikely(__Pyx_TryUnpackUnboundCMethod(cfunc) < 0)) return NULL;
-#if CYTHON_ASSUME_SAFE_MACROS
-    args = PyTuple_New(1);
-    if (unlikely(!args)) goto bad;
-    Py_INCREF(self);
-    PyTuple_SET_ITEM(args, 0, self);
-#else
-    args = PyTuple_Pack(1, self);
-    if (unlikely(!args)) goto bad;
-#endif
-    result = __Pyx_PyObject_Call(cfunc->method, args, NULL);
-    Py_DECREF(args);
-bad:
-    return result;
-}
-
-/* py_dict_keys */
-static CYTHON_INLINE PyObject* __Pyx_PyDict_Keys(PyObject* d) {
-    if (PY_MAJOR_VERSION >= 3)
-        return __Pyx_CallUnboundCMethod0(&__pyx_umethod_PyDict_Type_keys, d);
-    else
-        return PyDict_Keys(d);
 }
 
 /* CallUnboundCMethod1 */
@@ -30974,6 +31696,41 @@ __pyx_fail:
     return result;
 }
 
+/* ObjectToMemviewSlice */
+  static CYTHON_INLINE __Pyx_memviewslice __Pyx_PyObject_to_MemoryviewSlice_ds_double(PyObject *obj, int writable_flag) {
+    __Pyx_memviewslice result = { 0, 0, { 0 }, { 0 }, { 0 } };
+    __Pyx_BufFmt_StackElem stack[1];
+    int axes_specs[] = { (__Pyx_MEMVIEW_DIRECT | __Pyx_MEMVIEW_STRIDED) };
+    int retcode;
+    if (obj == Py_None) {
+        result.memview = (struct __pyx_memoryview_obj *) Py_None;
+        return result;
+    }
+    retcode = __Pyx_ValidateAndInit_memviewslice(axes_specs, 0,
+                                                 PyBUF_RECORDS_RO | writable_flag, 1,
+                                                 &__Pyx_TypeInfo_double, stack,
+                                                 &result, obj);
+    if (unlikely(retcode == -1))
+        goto __pyx_fail;
+    return result;
+__pyx_fail:
+    result.memview = NULL;
+    result.data = NULL;
+    return result;
+}
+
+/* MemviewDtypeToObject */
+  static CYTHON_INLINE PyObject *__pyx_memview_get_double(const char *itemp) {
+    return (PyObject *) PyFloat_FromDouble(*(double *) itemp);
+}
+static CYTHON_INLINE int __pyx_memview_set_double(const char *itemp, PyObject *obj) {
+    double value = __pyx_PyFloat_AsDouble(obj);
+    if (unlikely((value == (double)-1) && PyErr_Occurred()))
+        return 0;
+    *(double *) itemp = value;
+    return 1;
+}
+
 /* MemviewSliceCopyTemplate */
   static __Pyx_memviewslice
 __pyx_memoryview_copy_new_contig(const __Pyx_memviewslice *from_mvs,
@@ -31511,6 +32268,68 @@ raise_neg_overflow:
     }
 }
 
+/* CIntToPy */
+  static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value) {
+#ifdef __Pyx_HAS_GCC_DIAGNOSTIC
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wconversion"
+#endif
+    const int neg_one = (int) -1, const_zero = (int) 0;
+#ifdef __Pyx_HAS_GCC_DIAGNOSTIC
+#pragma GCC diagnostic pop
+#endif
+    const int is_unsigned = neg_one > const_zero;
+    if (is_unsigned) {
+        if (sizeof(int) < sizeof(long)) {
+            return PyInt_FromLong((long) value);
+        } else if (sizeof(int) <= sizeof(unsigned long)) {
+            return PyLong_FromUnsignedLong((unsigned long) value);
+#ifdef HAVE_LONG_LONG
+        } else if (sizeof(int) <= sizeof(unsigned PY_LONG_LONG)) {
+            return PyLong_FromUnsignedLongLong((unsigned PY_LONG_LONG) value);
+#endif
+        }
+    } else {
+        if (sizeof(int) <= sizeof(long)) {
+            return PyInt_FromLong((long) value);
+#ifdef HAVE_LONG_LONG
+        } else if (sizeof(int) <= sizeof(PY_LONG_LONG)) {
+            return PyLong_FromLongLong((PY_LONG_LONG) value);
+#endif
+        }
+    }
+    {
+        int one = 1; int little = (int)*(unsigned char *)&one;
+        unsigned char *bytes = (unsigned char *)&value;
+#if !CYTHON_COMPILING_IN_LIMITED_API
+        return _PyLong_FromByteArray(bytes, sizeof(int),
+                                     little, !is_unsigned);
+#else
+        PyObject *from_bytes, *result = NULL;
+        PyObject *py_bytes = NULL, *arg_tuple = NULL, *kwds = NULL, *order_str = NULL;
+        from_bytes = PyObject_GetAttrString((PyObject*)&PyInt_Type, "from_bytes");
+        if (!from_bytes) return NULL;
+        py_bytes = PyBytes_FromStringAndSize((char*)bytes, sizeof(int));
+        if (!py_bytes) goto limited_bad;
+        order_str = PyUnicode_FromString(little ? "little" : "big");
+        if (!order_str) goto limited_bad;
+        arg_tuple = PyTuple_Pack(2, py_bytes, order_str);
+        if (!arg_tuple) goto limited_bad;
+        kwds = PyDict_New();
+        if (!kwds) goto limited_bad;
+        if (PyDict_SetItemString(kwds, "signed", __Pyx_NewRef(!is_unsigned ? Py_True : Py_False))) goto limited_bad;
+        result = PyObject_Call(from_bytes, arg_tuple, kwds);
+        limited_bad:
+        Py_XDECREF(from_bytes);
+        Py_XDECREF(py_bytes);
+        Py_XDECREF(order_str);
+        Py_XDECREF(arg_tuple);
+        Py_XDECREF(kwds);
+        return result;
+#endif
+    }
+}
+
 /* CIntFromPy */
   static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {
 #ifdef __Pyx_HAS_GCC_DIAGNOSTIC
@@ -31782,68 +32601,6 @@ raise_neg_overflow:
     PyErr_SetString(PyExc_OverflowError,
         "can't convert negative value to long");
     return (long) -1;
-}
-
-/* CIntToPy */
-  static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value) {
-#ifdef __Pyx_HAS_GCC_DIAGNOSTIC
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wconversion"
-#endif
-    const int neg_one = (int) -1, const_zero = (int) 0;
-#ifdef __Pyx_HAS_GCC_DIAGNOSTIC
-#pragma GCC diagnostic pop
-#endif
-    const int is_unsigned = neg_one > const_zero;
-    if (is_unsigned) {
-        if (sizeof(int) < sizeof(long)) {
-            return PyInt_FromLong((long) value);
-        } else if (sizeof(int) <= sizeof(unsigned long)) {
-            return PyLong_FromUnsignedLong((unsigned long) value);
-#ifdef HAVE_LONG_LONG
-        } else if (sizeof(int) <= sizeof(unsigned PY_LONG_LONG)) {
-            return PyLong_FromUnsignedLongLong((unsigned PY_LONG_LONG) value);
-#endif
-        }
-    } else {
-        if (sizeof(int) <= sizeof(long)) {
-            return PyInt_FromLong((long) value);
-#ifdef HAVE_LONG_LONG
-        } else if (sizeof(int) <= sizeof(PY_LONG_LONG)) {
-            return PyLong_FromLongLong((PY_LONG_LONG) value);
-#endif
-        }
-    }
-    {
-        int one = 1; int little = (int)*(unsigned char *)&one;
-        unsigned char *bytes = (unsigned char *)&value;
-#if !CYTHON_COMPILING_IN_LIMITED_API
-        return _PyLong_FromByteArray(bytes, sizeof(int),
-                                     little, !is_unsigned);
-#else
-        PyObject *from_bytes, *result = NULL;
-        PyObject *py_bytes = NULL, *arg_tuple = NULL, *kwds = NULL, *order_str = NULL;
-        from_bytes = PyObject_GetAttrString((PyObject*)&PyInt_Type, "from_bytes");
-        if (!from_bytes) return NULL;
-        py_bytes = PyBytes_FromStringAndSize((char*)bytes, sizeof(int));
-        if (!py_bytes) goto limited_bad;
-        order_str = PyUnicode_FromString(little ? "little" : "big");
-        if (!order_str) goto limited_bad;
-        arg_tuple = PyTuple_Pack(2, py_bytes, order_str);
-        if (!arg_tuple) goto limited_bad;
-        kwds = PyDict_New();
-        if (!kwds) goto limited_bad;
-        if (PyDict_SetItemString(kwds, "signed", __Pyx_NewRef(!is_unsigned ? Py_True : Py_False))) goto limited_bad;
-        result = PyObject_Call(from_bytes, arg_tuple, kwds);
-        limited_bad:
-        Py_XDECREF(from_bytes);
-        Py_XDECREF(py_bytes);
-        Py_XDECREF(order_str);
-        Py_XDECREF(arg_tuple);
-        Py_XDECREF(kwds);
-        return result;
-#endif
-    }
 }
 
 /* CIntFromPy */
@@ -32129,7 +32886,7 @@ __Pyx_PyType_GetName(PyTypeObject* tp)
     if (unlikely(name == NULL) || unlikely(!PyUnicode_Check(name))) {
         PyErr_Clear();
         Py_XDECREF(name);
-        name = __Pyx_NewRef(__pyx_n_s__28);
+        name = __Pyx_NewRef(__pyx_n_s__30);
     }
     return name;
 }

@@ -1,7 +1,9 @@
 import itertools
 import numpy as np
 import random
+from memory_profiler import profile
 
+@profile
 def add_marriage_edges(list people, list prev_people, int num_people, dict marriage_probs,
                        float prob_marry_immigrant, float prob_marry, double[:, ::1] D,
                        dict indices, list original_marriage_dist,
@@ -65,29 +67,35 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
 
     print("LINE 66")
     cdef dict preferred_couples = {}
-    cdef float couple1
+    cdef double[:] couple1
     cdef float distance1
-    print("LINE 70")
-    ckeys = np.array(possible_finite_couples.keys(), dtype=np.float32)
-    cvalues = np.array(possible_finite_couples.values(), dtype=np.float32)
-    cdef float n = len(ckeys)
-    for i in range(n):
-        couple1 = ckeys[i]
-        distance1 = cvalues[i]
+    ckeys = np.array(list(possible_finite_couples.keys()))
+    cvalues = np.array(list(possible_finite_couples.values()))
+    cdef int n = len(ckeys)
+    cdef int i2
+    for i2 in range(n-1):
+        couple1 = ckeys[i2]
+        distance1 = cvalues[i2]
 #    for couple1, distance1 in possible_finite_couples.items():
-        print("LINE 72")
         if distance1 in set(original_marriage_dist) and distance1 in desired_finite_distances:
             preferred_couples[couple1] = distance1
 
     cdef dict other_couples = {}
-    cdef float couple2
+    cdef double[:] couple2
     cdef float distance2
-    for couple2, distance2 in possible_finite_couples.items():
+    ckeys2 = np.array(list(possible_finite_couples.keys()))
+    cvalues2 = np.array(list(possible_finite_couples.values()))
+    cdef int n2 = len(ckeys2)
+    cdef int i3
+    for i3 in range(n2-1):
+        couple2 = ckeys2[i3]
+        distance2 = cvalues2[i3]
+#    for couple2, distance2 in possible_finite_couples.items():
         if couple2 not in preferred_couples:
             other_couples[couple2] = distance2
 
     print("LINE 81")
-    cdef float iter = 0
+    cdef float iter2 = 0
     cdef list dis_probs = []
     cdef list dis_probs_pre = []
     cdef list dis_probs2 = []
@@ -116,7 +124,7 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
     cdef float couple6
     cdef float man6
 
-    while possible_finite_couples and iter < num_finite_couples_to_marry:
+    while possible_finite_couples and iter2 < num_finite_couples_to_marry:
         if preferred_couples:
             possible_finite_couples_array = list(preferred_couples.keys())
 
@@ -174,10 +182,9 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
             if couple4 not in preferred_couples2:
                 other_couples2[couple4] = distance4
 
-        iter += 1
+        iter2 += 1
 
-    print("LINE 171")
-    if iter == 0:
+    if iter2 == 0:
         stay_single_forever = will_marry | set(prev_people)
     else:
         for couple6 in possible_couples:
@@ -191,34 +198,54 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
         if D[indices[man5], indices[woman5]] == -1:
             possible_inf_couples[(man5, woman5)] = D[indices[man5], indices[woman5]]
 
-    iter = 0
+    iter2 = 0
     cdef int man_idx2 = 0
     cdef int woman_idx2 = 0
-    cdef float pair20
+    cdef double[:] pair20
     cdef float distance20
     cdef set stay_single_forever2 = set()
-    cdef float couple30
+    cdef double[:] couple30
     cdef float man30
-    while possible_inf_couples and iter < num_inf_couples_to_marry:
-        possible_inf_couples_array = list(possible_inf_couples.keys())
+    cdef int n3
+    cdef int n4
+    while possible_inf_couples and iter2 < num_inf_couples_to_marry:
+        print("possible_inf_couples size:", len(possible_inf_couples))
+        print("iter2:", iter2)
+        print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
+        possible_inf_couples_array = np.array(list(possible_inf_couples.keys()))
+        print("after possible_inf_couples_array")
         couple_index = np.random.choice(len(possible_inf_couples))  # draw uniformly
+        print("after couple_index")
         couple = (possible_inf_couples_array[couple_index][0], possible_inf_couples_array[couple_index][1])
+        print("after couple")
 
         unions.add(couple)
         man_idx2 = indices[couple[0]]
         woman_idx2 = indices[couple[1]]
         marriage_distances.append(int(D[man_idx2, woman_idx2]))
-
-        for pair20, distance20 in possible_inf_couples.items():
+        ckeys3 = np.array(list(possible_inf_couples.keys()))
+        cvalues3 = np.array(list(possible_inf_couples.values()))
+        n3 = len(ckeys3)
+        for i4 in range(n3-1):
+            pair20 = ckeys3[i4]
+            distance20 = cvalues3[i4]
+#        for pair20, distance20 in possible_inf_couples.items():
             if couple[0] not in pair20 and couple[1] not in pair20:
                 possible_inf_couples[pair20] = distance20
+        print("after first for loop")
 
-        iter += 1
-        for couple30 in possible_couples:
+        iter2 += 1
+        cset = np.array(list(possible_couples))
+        n4 = len(cset)
+#        print("possible_couples:", possible_couples)
+        for i5 in range(n4-1):
+            couple30 = cset[i5]
+#        for couple30 in possible_couples:
             for man30 in couple30:
                 stay_single_forever2.add(man30)
+        print("after second for loop")
 
-    num_immigrants = num_inf_couples_to_marry - iter
+    num_immigrants = num_inf_couples_to_marry - iter2
     num_immigrants = min(len(stay_single_forever), num_immigrants)
 
     cdef list immigrants = []

@@ -33,8 +33,8 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
     cdef set unions = set()
 
     cdef set people_set = set(people)
-    cdef float next_person = num_people + 1
-    cdef float num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)
+    cdef int next_person = num_people + 1
+    cdef int num_inf_couples_to_marry = round(prob_marry_immigrant * len(people) / 2)
     cdef float num_finite_couples_to_marry = round(prob_marry * len(people) / 2)
     cdef set will_marry = set(random.sample(people_set, len(people_set) // 2))
 
@@ -65,7 +65,7 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
         if distance >= minimum_permissible_distance:
             possible_finite_couples[(man3, woman3)] = distance
 
-    print("LINE 66")
+#    print("LINE 66")
     cdef dict preferred_couples = {}
     cdef double[:] couple1
     cdef float distance1
@@ -94,8 +94,8 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
         if couple2 not in preferred_couples:
             other_couples[couple2] = distance2
 
-    print("LINE 81")
-    cdef float iter2 = 0
+#    print("LINE 81")
+    cdef int iter2 = 0
     cdef list dis_probs = []
     cdef list dis_probs_pre = []
     cdef list dis_probs2 = []
@@ -208,7 +208,9 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
     cdef float man30
     cdef int n3
     cdef int n4
-    while possible_inf_couples and iter2 < num_inf_couples_to_marry:
+    cdef int num_immigrants
+    for ss in range(10):
+#    while possible_inf_couples and iter2 < num_inf_couples_to_marry:
         print("possible_inf_couples size:", len(possible_inf_couples))
         print("iter2:", iter2)
         print("num_inf_couples_to_marry:", num_inf_couples_to_marry)
@@ -220,6 +222,7 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
         print("after couple")
 
         unions.add(couple)
+        print("unions:", unions)
         man_idx2 = indices[couple[0]]
         woman_idx2 = indices[couple[1]]
         marriage_distances.append(int(D[man_idx2, woman_idx2]))
@@ -246,13 +249,16 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
         print("after second for loop")
 
     num_immigrants = num_inf_couples_to_marry - iter2
-    num_immigrants = min(len(stay_single_forever), num_immigrants)
+    num_immigrants = min(len(stay_single_forever2), num_immigrants)
 
     cdef list immigrants = []
-    cdef float i
-    for i in range(next_person, next_person + num_immigrants):
-        immigrants.append(i)
-    marry_strangers = np.random.choice(list(stay_single_forever), size=num_immigrants, replace=False)
+    cdef int i50
+    for i50 in range(next_person, next_person + num_immigrants):
+        immigrants.append(i50)
+    print("num_immigrants:", num_immigrants)
+    print("np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False):", np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False))
+    marry_strangers = np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False)
+    print("marry_strangers:", marry_strangers)
     stay_single_forever2 -= set(marry_strangers)
 
     unions = set()
@@ -263,4 +269,4 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
 
     marriage_distances.extend([-1] * num_immigrants)
 
-    return unions, num_immigrants, marriage_distances, immigrants, wont_marry_until_next_time, len(stay_single_forever)
+    return unions, num_immigrants, marriage_distances, immigrants, wont_marry_until_next_time, len(stay_single_forever2)

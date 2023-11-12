@@ -54,6 +54,7 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
 
     cdef float man2
     cdef float woman2
+    print("possible_couples:", possible_couples)
     for man2, woman2 in itertools.combinations(prev_people, 2):
         possible_couples.remove((man2, woman2))
 
@@ -256,6 +257,8 @@ def add_marriage_edges(list people, list prev_people, int num_people, dict marri
     for i50 in range(next_person, next_person + num_immigrants):
         immigrants.append(i50)
     print("num_immigrants:", num_immigrants)
+    if num_immigrants < 0:
+        num_immigrants = 0
     print("np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False):", np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False))
     marry_strangers = np.random.choice(list(stay_single_forever2), size=num_immigrants, replace=False)
     print("marry_strangers:", marry_strangers)

@@ -23,6 +23,7 @@ import cython
 import marriage_code
 import graph_distributions
 from line_profiler import profile
+import time
 
 #%%
 def makeOutputDirectory(out_directory, name):
@@ -1049,6 +1050,11 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
 
     D = np.ones((num_people, num_people)) * -1  # starting off, everyone is infinite distance away
     np.fill_diagonal(D, 0)  # everyone is 0 away from themselves, also weirdly done inplace
+    timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
+    directory_name = f"output_{timestamp}"
+    os.makedirs(directory_name, exist_ok=True)
+    file_path = os.path.join(directory_name, 'Darray' + str(timestamp) + '.txt')
+    np.savetxt(file_path, D)
 
     indices = {node + 1:k for k, node in enumerate(range(num_people))}  # name:index
     generation_of_people = list(indices.keys())
@@ -1312,7 +1318,7 @@ below is example code to run the model
 # torres_strait has negative probability
 
 name = 'torshan'
-num_people = 100
+num_people = 110
 eps = 0
 marriage_dist, num_marriages, prob_inf_marriage, prob_finite_marriage, child_dist, size_goal = get_graph_stats(name)
 G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out, output_path = human_family_network_variant(num_people, marriage_dist, prob_finite_marriage, prob_inf_marriage, child_dist, name, save=True, when_to_stop=size_goal, eps=eps)

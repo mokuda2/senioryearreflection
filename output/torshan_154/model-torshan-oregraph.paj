@@ -1,0 +1,841 @@
+*Network Ore graph, model of torshan
+
+*vertices 500
+1 'name place holder (1)' square
+2 'name place holder (2)' square
+3 'name place holder (3)' square
+4 'name place holder (4)' square
+5 'name place holder (5)' square
+6 'name place holder (6)' square
+7 'name place holder (7)' square
+8 'name place holder (8)' square
+9 'name place holder (9)' square
+10 'name place holder (10)' square
+11 'name place holder (11)' square
+12 'name place holder (12)' square
+13 'name place holder (13)' square
+14 'name place holder (14)' square
+15 'name place holder (15)' square
+16 'name place holder (16)' square
+17 'name place holder (17)' square
+18 'name place holder (18)' square
+19 'name place holder (19)' square
+20 'name place holder (20)' square
+21 'name place holder (21)' square
+22 'name place holder (22)' square
+23 'name place holder (23)' square
+24 'name place holder (24)' square
+25 'name place holder (25)' square
+26 'name place holder (26)' square
+27 'name place holder (27)' square
+28 'name place holder (28)' square
+29 'name place holder (29)' square
+30 'name place holder (30)' square
+31 'name place holder (31)' square
+32 'name place holder (32)' square
+33 'name place holder (33)' square
+34 'name place holder (34)' square
+35 'name place holder (35)' square
+36 'name place holder (36)' square
+37 'name place holder (37)' square
+38 'name place holder (38)' square
+39 'name place holder (39)' square
+40 'name place holder (40)' square
+41 'name place holder (41)' square
+42 'name place holder (42)' square
+43 'name place holder (43)' square
+44 'name place holder (44)' square
+45 'name place holder (45)' square
+46 'name place holder (46)' square
+47 'name place holder (47)' square
+48 'name place holder (48)' square
+49 'name place holder (49)' square
+50 'name place holder (50)' square
+51 'name place holder (51)' square
+52 'name place holder (52)' square
+53 'name place holder (53)' square
+54 'name place holder (54)' square
+55 'name place holder (55)' square
+56 'name place holder (56)' square
+57 'name place holder (57)' square
+58 'name place holder (58)' square
+59 'name place holder (59)' square
+60 'name place holder (60)' square
+61 'name place holder (61)' square
+62 'name place holder (62)' square
+63 'name place holder (63)' square
+64 'name place holder (64)' square
+65 'name place holder (65)' square
+66 'name place holder (66)' square
+67 'name place holder (67)' square
+68 'name place holder (68)' square
+69 'name place holder (69)' square
+70 'name place holder (70)' square
+71 'name place holder (71)' square
+72 'name place holder (72)' square
+73 'name place holder (73)' square
+74 'name place holder (74)' square
+75 'name place holder (75)' square
+76 'name place holder (76)' square
+77 'name place holder (77)' square
+78 'name place holder (78)' square
+79 'name place holder (79)' square
+80 'name place holder (80)' square
+81 'name place holder (81)' square
+82 'name place holder (82)' square
+83 'name place holder (83)' square
+84 'name place holder (84)' square
+85 'name place holder (85)' square
+86 'name place holder (86)' square
+87 'name place holder (87)' square
+88 'name place holder (88)' square
+89 'name place holder (89)' square
+90 'name place holder (90)' square
+91 'name place holder (91)' square
+92 'name place holder (92)' square
+93 'name place holder (93)' square
+94 'name place holder (94)' square
+95 'name place holder (95)' square
+96 'name place holder (96)' square
+97 'name place holder (97)' square
+98 'name place holder (98)' square
+99 'name place holder (99)' square
+100 'name place holder (100)' square
+101 'name place holder (101)' square
+102 'name place holder (102)' square
+103 'name place holder (103)' square
+104 'name place holder (104)' square
+105 'name place holder (105)' square
+106 'name place holder (106)' square
+107 'name place holder (107)' square
+108 'name place holder (108)' square
+109 'name place holder (109)' square
+110 'name place holder (110)' square
+111 'name place holder (111)' square
+112 'name place holder (112)' square
+113 'name place holder (113)' square
+114 'name place holder (114)' square
+115 'name place holder (115)' square
+116 'name place holder (116)' square
+117 'name place holder (117)' square
+118 'name place holder (118)' square
+119 'name place holder (119)' square
+120 'name place holder (120)' square
+121 'name place holder (121)' square
+122 'name place holder (122)' square
+123 'name place holder (123)' square
+124 'name place holder (124)' square
+125 'name place holder (125)' square
+126 'name place holder (126)' square
+127 'name place holder (127)' square
+128 'name place holder (128)' square
+129 'name place holder (129)' square
+130 'name place holder (130)' square
+131 'name place holder (131)' square
+132 'name place holder (132)' square
+133 'name place holder (133)' square
+134 'name place holder (134)' square
+135 'name place holder (135)' square
+136 'name place holder (136)' square
+137 'name place holder (137)' square
+138 'name place holder (138)' square
+139 'name place holder (139)' square
+140 'name place holder (140)' square
+141 'name place holder (141)' square
+142 'name place holder (142)' square
+143 'name place holder (143)' square
+144 'name place holder (144)' square
+145 'name place holder (145)' square
+146 'name place holder (146)' square
+147 'name place holder (147)' square
+148 'name place holder (148)' square
+149 'name place holder (149)' square
+150 'name place holder (150)' square
+151 'name place holder (151)' square
+152 'name place holder (152)' square
+153 'name place holder (153)' square
+154 'name place holder (154)' square
+155 'name place holder (155)' square
+156 'name place holder (156)' square
+157 'name place holder (157)' square
+158 'name place holder (158)' square
+159 'name place holder (159)' square
+160 'name place holder (160)' square
+161 'name place holder (161)' square
+162 'name place holder (162)' square
+163 'name place holder (163)' square
+164 'name place holder (164)' square
+165 'name place holder (165)' square
+166 'name place holder (166)' square
+167 'name place holder (167)' square
+168 'name place holder (168)' square
+169 'name place holder (169)' square
+170 'name place holder (170)' square
+171 'name place holder (171)' square
+172 'name place holder (172)' square
+173 'name place holder (173)' square
+174 'name place holder (174)' square
+175 'name place holder (175)' square
+176 'name place holder (176)' square
+177 'name place holder (177)' square
+178 'name place holder (178)' square
+179 'name place holder (179)' square
+180 'name place holder (180)' square
+181 'name place holder (181)' square
+182 'name place holder (182)' square
+183 'name place holder (183)' square
+184 'name place holder (184)' square
+185 'name place holder (185)' square
+186 'name place holder (186)' square
+187 'name place holder (187)' square
+188 'name place holder (188)' square
+189 'name place holder (189)' square
+190 'name place holder (190)' square
+191 'name place holder (191)' square
+192 'name place holder (192)' square
+193 'name place holder (193)' square
+194 'name place holder (194)' square
+195 'name place holder (195)' square
+196 'name place holder (196)' square
+197 'name place holder (197)' square
+198 'name place holder (198)' square
+199 'name place holder (199)' square
+200 'name place holder (200)' square
+201 'name place holder (201)' square
+202 'name place holder (202)' square
+203 'name place holder (203)' square
+204 'name place holder (204)' square
+205 'name place holder (205)' square
+206 'name place holder (206)' square
+207 'name place holder (207)' square
+208 'name place holder (208)' square
+209 'name place holder (209)' square
+210 'name place holder (210)' square
+211 'name place holder (211)' square
+212 'name place holder (212)' square
+213 'name place holder (213)' square
+214 'name place holder (214)' square
+215 'name place holder (215)' square
+216 'name place holder (216)' square
+217 'name place holder (217)' square
+218 'name place holder (218)' square
+219 'name place holder (219)' square
+220 'name place holder (220)' square
+221 'name place holder (221)' square
+222 'name place holder (222)' square
+223 'name place holder (223)' square
+224 'name place holder (224)' square
+225 'name place holder (225)' square
+226 'name place holder (226)' square
+227 'name place holder (227)' square
+228 'name place holder (228)' square
+229 'name place holder (229)' square
+230 'name place holder (230)' square
+231 'name place holder (231)' square
+232 'name place holder (232)' square
+233 'name place holder (233)' square
+234 'name place holder (234)' square
+235 'name place holder (235)' square
+236 'name place holder (236)' square
+237 'name place holder (237)' square
+238 'name place holder (238)' square
+239 'name place holder (239)' square
+240 'name place holder (240)' square
+241 'name place holder (241)' square
+242 'name place holder (242)' square
+243 'name place holder (243)' square
+244 'name place holder (244)' square
+245 'name place holder (245)' square
+246 'name place holder (246)' square
+247 'name place holder (247)' square
+248 'name place holder (248)' square
+249 'name place holder (249)' square
+250 'name place holder (250)' square
+251 'name place holder (251)' square
+252 'name place holder (252)' square
+253 'name place holder (253)' square
+254 'name place holder (254)' square
+255 'name place holder (255)' square
+256 'name place holder (256)' square
+257 'name place holder (257)' square
+258 'name place holder (258)' square
+259 'name place holder (259)' square
+260 'name place holder (260)' square
+261 'name place holder (261)' square
+262 'name place holder (262)' square
+263 'name place holder (263)' square
+264 'name place holder (264)' square
+265 'name place holder (265)' square
+266 'name place holder (266)' square
+267 'name place holder (267)' square
+268 'name place holder (268)' square
+269 'name place holder (269)' square
+270 'name place holder (270)' square
+271 'name place holder (271)' square
+272 'name place holder (272)' square
+273 'name place holder (273)' square
+274 'name place holder (274)' square
+275 'name place holder (275)' square
+276 'name place holder (276)' square
+277 'name place holder (277)' square
+278 'name place holder (278)' square
+279 'name place holder (279)' square
+280 'name place holder (280)' square
+281 'name place holder (281)' square
+282 'name place holder (282)' square
+283 'name place holder (283)' square
+284 'name place holder (284)' square
+285 'name place holder (285)' square
+286 'name place holder (286)' square
+287 'name place holder (287)' square
+288 'name place holder (288)' square
+289 'name place holder (289)' square
+290 'name place holder (290)' square
+291 'name place holder (291)' square
+292 'name place holder (292)' square
+293 'name place holder (293)' square
+294 'name place holder (294)' square
+295 'name place holder (295)' square
+296 'name place holder (296)' square
+297 'name place holder (297)' square
+298 'name place holder (298)' square
+299 'name place holder (299)' square
+300 'name place holder (300)' square
+301 'name place holder (301)' square
+302 'name place holder (302)' square
+303 'name place holder (303)' square
+304 'name place holder (304)' square
+305 'name place holder (305)' square
+306 'name place holder (306)' square
+307 'name place holder (307)' square
+308 'name place holder (308)' square
+309 'name place holder (309)' square
+310 'name place holder (310)' square
+311 'name place holder (311)' square
+312 'name place holder (312)' square
+313 'name place holder (313)' square
+314 'name place holder (314)' square
+315 'name place holder (315)' square
+316 'name place holder (316)' square
+317 'name place holder (317)' square
+318 'name place holder (318)' square
+319 'name place holder (319)' square
+320 'name place holder (320)' square
+321 'name place holder (321)' square
+322 'name place holder (322)' square
+323 'name place holder (323)' square
+324 'name place holder (324)' square
+325 'name place holder (325)' square
+326 'name place holder (326)' square
+327 'name place holder (327)' square
+328 'name place holder (328)' square
+329 'name place holder (329)' square
+330 'name place holder (330)' square
+331 'name place holder (331)' square
+332 'name place holder (332)' square
+333 'name place holder (333)' square
+334 'name place holder (334)' square
+335 'name place holder (335)' square
+336 'name place holder (336)' square
+*arcs
+1 179 1
+1 180 1
+1 181 1
+2 188 1
+2 189 1
+2 190 1
+2 191 1
+2 192 1
+2 193 1
+2 194 1
+5 229 1
+5 230 1
+5 231 1
+5 232 1
+5 233 1
+14 201 1
+14 202 1
+17 225 1
+18 164 1
+18 165 1
+18 166 1
+19 195 1
+19 196 1
+19 197 1
+19 198 1
+25 188 1
+25 189 1
+25 190 1
+25 191 1
+25 192 1
+25 193 1
+25 194 1
+28 147 1
+30 167 1
+30 168 1
+30 169 1
+34 155 1
+36 156 1
+36 157 1
+36 158 1
+38 182 1
+38 183 1
+38 184 1
+39 207 1
+39 208 1
+39 209 1
+39 210 1
+39 211 1
+39 212 1
+39 213 1
+39 214 1
+40 148 1
+40 149 1
+40 150 1
+40 151 1
+40 152 1
+40 153 1
+43 159 1
+45 159 1
+46 234 1
+46 235 1
+46 236 1
+46 237 1
+47 143 1
+47 144 1
+47 145 1
+47 146 1
+49 135 1
+49 136 1
+49 137 1
+49 138 1
+49 139 1
+49 140 1
+49 141 1
+49 142 1
+51 249 1
+51 250 1
+52 199 1
+52 200 1
+53 199 1
+53 200 1
+56 173 1
+56 174 1
+56 175 1
+56 176 1
+56 177 1
+56 178 1
+58 222 1
+58 223 1
+58 224 1
+62 143 1
+62 144 1
+62 145 1
+62 146 1
+65 253 1
+65 254 1
+68 160 1
+68 161 1
+68 162 1
+68 163 1
+69 167 1
+69 168 1
+69 169 1
+71 154 1
+76 147 1
+78 201 1
+78 202 1
+80 185 1
+80 186 1
+80 187 1
+89 203 1
+89 204 1
+89 205 1
+89 206 1
+90 135 1
+90 136 1
+90 137 1
+90 138 1
+90 139 1
+90 140 1
+90 141 1
+90 142 1
+91 173 1
+91 174 1
+91 175 1
+91 176 1
+91 177 1
+91 178 1
+92 222 1
+92 223 1
+92 224 1
+99 203 1
+99 204 1
+99 205 1
+99 206 1
+101 164 1
+101 165 1
+101 166 1
+102 148 1
+102 149 1
+102 150 1
+102 151 1
+102 152 1
+102 153 1
+105 160 1
+105 161 1
+105 162 1
+105 163 1
+106 185 1
+106 186 1
+106 187 1
+108 195 1
+108 196 1
+108 197 1
+108 198 1
+110 182 1
+110 183 1
+110 184 1
+112 225 1
+113 155 1
+116 207 1
+116 208 1
+116 209 1
+116 210 1
+116 211 1
+116 212 1
+116 213 1
+116 214 1
+119 156 1
+119 157 1
+119 158 1
+120 154 1
+124 179 1
+124 180 1
+124 181 1
+129 170 1
+129 171 1
+129 172 1
+130 170 1
+130 171 1
+130 172 1
+138 272 1
+138 273 1
+138 274 1
+138 275 1
+138 276 1
+146 238 1
+147 226 1
+147 227 1
+147 228 1
+154 215 1
+154 216 1
+154 217 1
+154 218 1
+154 219 1
+154 220 1
+154 221 1
+156 239 1
+156 240 1
+156 241 1
+156 242 1
+156 243 1
+156 244 1
+156 245 1
+156 246 1
+156 247 1
+156 248 1
+164 258 1
+164 259 1
+164 260 1
+164 261 1
+164 262 1
+170 256 1
+173 277 1
+173 278 1
+173 279 1
+179 251 1
+179 252 1
+180 258 1
+180 259 1
+180 260 1
+180 261 1
+180 262 1
+182 215 1
+182 216 1
+182 217 1
+182 218 1
+182 219 1
+182 220 1
+182 221 1
+191 251 1
+191 252 1
+192 238 1
+196 234 1
+196 235 1
+196 236 1
+196 237 1
+201 229 1
+201 230 1
+201 231 1
+201 232 1
+201 233 1
+202 239 1
+202 240 1
+202 241 1
+202 242 1
+202 243 1
+202 244 1
+202 245 1
+202 246 1
+202 247 1
+202 248 1
+205 257 1
+208 253 1
+208 254 1
+209 280 1
+209 281 1
+209 282 1
+209 283 1
+209 284 1
+209 285 1
+209 286 1
+209 287 1
+212 226 1
+212 227 1
+212 228 1
+213 249 1
+213 250 1
+216 296 1
+218 257 1
+220 303 1
+220 304 1
+220 305 1
+220 306 1
+220 307 1
+220 308 1
+220 309 1
+233 256 1
+235 263 1
+235 264 1
+235 265 1
+235 266 1
+235 267 1
+235 268 1
+235 269 1
+235 270 1
+235 271 1
+238 255 1
+240 277 1
+240 278 1
+240 279 1
+241 263 1
+241 264 1
+241 265 1
+241 266 1
+241 267 1
+241 268 1
+241 269 1
+241 270 1
+241 271 1
+243 272 1
+243 273 1
+243 274 1
+243 275 1
+243 276 1
+246 280 1
+246 281 1
+246 282 1
+246 283 1
+246 284 1
+246 285 1
+246 286 1
+246 287 1
+247 297 1
+247 298 1
+247 299 1
+247 300 1
+247 301 1
+247 302 1
+250 303 1
+250 304 1
+250 305 1
+250 306 1
+250 307 1
+250 308 1
+250 309 1
+252 255 1
+254 290 1
+254 291 1
+254 292 1
+254 293 1
+254 294 1
+254 295 1
+255 310 1
+255 311 1
+259 297 1
+259 298 1
+259 299 1
+259 300 1
+259 301 1
+259 302 1
+263 288 1
+263 289 1
+264 312 1
+264 313 1
+270 290 1
+270 291 1
+270 292 1
+270 293 1
+270 294 1
+270 295 1
+274 288 1
+274 289 1
+279 320 1
+279 321 1
+279 322 1
+279 323 1
+284 296 1
+285 319 1
+287 310 1
+287 311 1
+294 314 1
+294 315 1
+294 316 1
+294 317 1
+294 318 1
+295 314 1
+295 315 1
+295 316 1
+295 317 1
+295 318 1
+297 320 1
+297 321 1
+297 322 1
+297 323 1
+299 319 1
+300 324 1
+300 325 1
+300 326 1
+300 327 1
+303 312 1
+303 313 1
+306 324 1
+306 325 1
+306 326 1
+306 327 1
+308 331 1
+309 328 1
+309 329 1
+309 330 1
+321 331 1
+322 328 1
+322 329 1
+322 330 1
+327 333 1
+327 334 1
+328 335 1
+330 336 1
+331 333 1
+331 334 1
+332 335 1
+334 336 1
+*edges
+1 124 1
+2 25 1
+5 201 1
+9 95 1
+10 63 1
+14 78 1
+15 96 1
+17 132 1
+17 112 1
+18 101 1
+19 108 1
+23 42 1
+26 60 1
+28 76 1
+29 100 1
+30 69 1
+32 67 1
+33 134 1
+33 85 1
+34 113 1
+35 123 1
+36 119 1
+37 82 1
+38 110 1
+39 116 1
+40 102 1
+43 45 1
+46 196 1
+47 62 1
+49 90 1
+50 73 1
+51 213 1
+52 53 1
+56 91 1
+58 92 1
+59 126 1
+65 208 1
+68 105 1
+71 120 1
+71 133 1
+74 142 1
+77 98 1
+79 211 1
+80 106 1
+89 99 1
+94 148 1
+102 131 1
+103 206 1
+114 128 1
+129 130 1
+138 243 1
+146 192 1
+147 212 1
+154 182 1
+156 202 1
+164 180 1
+167 176 1
+169 178 1
+170 233 1
+173 240 1
+175 227 1
+179 191 1
+181 219 1
+189 207 1
+205 218 1
+209 246 1
+219 249 1
+220 242 1
+220 250 1
+232 239 1
+235 241 1
+238 252 1
+259 247 1
+262 263 1
+263 274 1
+264 303 1
+270 286 1
+270 254 1
+272 284 1
+274 308 1
+279 231 1
+279 297 1
+280 255 1
+284 216 1
+285 299 1
+287 255 1
+289 301 1
+294 295 1
+300 306 1
+300 318 1
+307 323 1
+308 321 1
+309 322 1
+314 324 1
+316 320 1
+327 331 1
+328 332 1
+330 334 1

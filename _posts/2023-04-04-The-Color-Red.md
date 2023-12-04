@@ -536,7 +536,7 @@ Sam walked me out this time when I left.  “Have fun with your family!” I sai
 
 I gave him a one-arm hug.  I guess he wasn’t the most comfortable with it since he looked around as if someone could’ve been watching us.  But I hoped to see him again after his vacation.
 
-## Section 4
+## Section 5
 
 December 21, 2022.  Kiyoshi Svend Jorgensen was born.  I was an uncle now!  I didn’t know what that meant, but it felt like having a younger sibling that I never had.
 
@@ -600,7 +600,7 @@ I could overhear Mom talking to Shari about the conversation in the kitchen.  �
 
 It must have been nice that Mom felt reciprocation from people when she initiated things.
 
-## Section 5
+## Section 6
 
 December 31, 2022.  While Sam was with his family, he and I occasionally texted each other.  He was still quite a dry texter, but it was okay.  At least he responded.  I was still skeptical that he’d ghost me though.
 
@@ -802,7 +802,7 @@ Sam and I had spent quite a long time together.  He said he didn’t want to spe
 
 However, <u>I began to feel unsettled about what Sam had told me about his faith.  Non-existent...</u>
 
-## Section 6
+## Section 7
 
 January 7, 2023.  Gyuna asked me if I could pick her and Christian up at the airport, so that was what I planned on doing tonight.
 

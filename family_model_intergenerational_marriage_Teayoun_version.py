@@ -672,6 +672,83 @@ def update_distances(distance_matrix, n, unions, families, indices, people_retai
     np.savetxt(file_path0000, D1.astype(int), fmt='%d')
     return D1, new_indices
 
+def initialize_network(num_people, marriage_dist, eps, when_to_stop, children_dist):
+    all_marriage_edges = []
+    all_marriage_distances = []
+    all_temp_marriage_edges = []
+    all_temp_marriage_distances = []
+    all_children_per_couple = []
+
+    G = nx.DiGraph()
+
+    distance_matrix = np.ones((num_people, num_people)) * -1  # starting off, everyone is infinite distance away
+    np.fill_diagonal(distance_matrix, 0)  # everyone is 0 away from themselves, also weirdly done inplace
+
+    indices = {node + 1: k for k, node in enumerate(range(num_people))}  # name:index
+    generation_of_people = list(indices.keys())
+    # explicitly add our first generation of nodes (otherwise we will fail to
+    # add those who do not marry into our graph).  All future generations are
+    # connected either through marriage or through parent-child arcs
+    G.add_nodes_from(generation_of_people, layer=0, immigrant=True, parents=0)
+
+    # get probabilities of possible finite distances to use in marriage function
+    # and normalize it
+    marriage_probs = get_marriage_probabilities(marriage_dist, when_to_stop,
+                                                eps=eps)  # hand in the ORIGINAL MARRIAGE DISTRIBUTION
+    # maybe don't normalize so that you will (approximately) retain the prob_inf + prob_finite + prob_single = 1
+    marriage_probs = {key: value / sum(marriage_probs.values()) for key, value in
+                      zip(marriage_probs.keys(), marriage_probs.values())}
+    lim = len(marriage_probs)
+
+    # ditto for the child distribution
+    child_probs = get_child_probabilities(children_dist)
+    # ??? make probabilities non-negative (some entries are effectively zero, but negative)
+    child_probs = {key: value if value > 0 else 0 for key, value in zip(child_probs.keys(), child_probs.values())}
+    child_probs = {key: value / sum(child_probs.values()) for key, value in
+                   zip(child_probs.keys(), child_probs.values())}
+    return G, indices, distance_matrix, generation_of_people, all_marriage_edges, all_marriage_distances, all_temp_marriage_edges, all_temp_marriage_distances, all_children_per_couple, marriage_probs, lim, child_probs
+
+def save_results(summary_statistics, G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, output_path, name, dies_out):
+    df = pd.DataFrame(data=summary_statistics,
+                      columns=['num_people (excluding initial setup)', 'num_immigrants', 'num_children',
+                               'num_marriages', 'prob_inf_marriage', 'prob_finite_marriage',
+                               'prob_inf_marriage(eligible_only)', 'prob_finite_marriage(eligible_only)',
+                               'num_connected_components'])
+    df.index.name = 'generation'
+    df.to_csv(os.path.join(output_path, str(name) + '_summary_statistics.csv'))
+    # Gname = "{}/{}_G_withsetup.gpickle".format(output_path, name)   # save graph
+    # nx.write_gpickle(G, Gname)
+    Gname = "{}/{}_G_withsetup.pkl".format(output_path, name)  # save graph
+    with open(Gname, 'wb') as out:
+        pickle.dump(G_connected, out)
+
+    # now save a reduced version of the graph, without the setup people
+    Gname = "{}/{}_G_no_setup.pkl".format(output_path, name)  # save graph
+    with open(Gname, 'wb') as out:
+        pickle.dump(G, out)
+
+    Uname = "{}/{}_marriage_edges".format(output_path, name) + '.pkl'  # save unions
+    with open(Uname, 'wb') as fup:
+        pickle.dump(all_marriage_edges, fup)
+    Dname = "{}/{}_marriage_distances".format(output_path, name) + '.pkl'  # save marriage distances
+    with open(Dname, 'wb') as myfile:
+        pickle.dump(all_marriage_distances, myfile)
+    Cname = "{}/{}_children_per_couple".format(output_path, name) + '.pkl'  # save children
+    with open(Cname, 'wb') as fcp:
+        pickle.dump(all_children_per_couple, fcp)
+
+    paj = format_as_pajek(G, name)
+    with open('{}/model-{}-oregraph.paj'.format(output_path, name), 'w') as o:
+        o.writelines(paj)
+    print(type(G))
+    print(type(G_connected))
+    print(type(all_marriage_edges))
+    print(type(all_marriage_distances))
+    print(type(all_children_per_couple))
+    print(type(dies_out))
+    print(type(None))
+    return G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out
+
 #%%
 # TODO: what do we actually want this to return?
 from pandas.core.ops.mask_ops import libmissing
@@ -766,49 +843,19 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
     total_num_single = 0
     dies_out = False
 
-    all_marriage_edges = []
-    all_marriage_distances = []
-    all_temp_marriage_edges = []
-    all_temp_marriage_distances = []
-    all_children_per_couple = []
-
     marriage_dist_array = np.array(marriage_dist)
     finite_only_marriage_dist = marriage_dist_array[marriage_dist_array != -1]
 
-    G = nx.DiGraph()
-
-    distance_matrix = np.ones((num_people, num_people)) * -1  # starting off, everyone is infinite distance away
-    np.fill_diagonal(distance_matrix, 0)  # everyone is 0 away from themselves, also weirdly done inplace
-
-    indices = {node + 1:k for k, node in enumerate(range(num_people))}  # name:index
-    generation_of_people = list(indices.keys())
-    # explicitly add our first generation of nodes (otherwise we will fail to
-    # add those who do not marry into our graph).  All future generations are
-    # connected either through marriage or through parent-child arcs
-    G.add_nodes_from(generation_of_people, layer=0, immigrant=True, parents=0)
-
-    # get probabilities of possible finite distances to use in marriage function
-    # and normalize it
-    marriage_probs = get_marriage_probabilities(marriage_dist, when_to_stop, eps=eps)  # hand in the ORIGINAL MARRIAGE DISTRIBUTION
-    # maybe don't normalize so that you will (approximately) retain the prob_inf + prob_finite + prob_single = 1
-    marriage_probs = {key:value/sum(marriage_probs.values()) for key, value in zip(marriage_probs.keys(), marriage_probs.values())}
-    lim = len(marriage_probs)
-
-    # ditto for the child distribution
-    child_probs = get_child_probabilities(children_dist)
-    # ??? make probabilities non-negative (some entries are effectively zero, but negative)
-    child_probs = {key:value if value > 0 else 0 for key, value in zip(child_probs.keys(), child_probs.values()) }
-    child_probs = {key:value/sum(child_probs.values()) for key, value in zip(child_probs.keys(), child_probs.values())}
-
+    G, indices, distance_matrix, generation_of_people, all_marriage_edges, all_marriage_distances, all_temp_marriage_edges, all_temp_marriage_distances, all_children_per_couple, marriage_probs, lim, child_probs = finitialize_network(num_people, marriage_dist, eps, when_to_stop, children_dist)
     # grow the network until there are the at least as many nodes (not counting
     # those created to impose the distances on generation 0, but counting those
     # in generation 0) as when_to_stop
 
     prev_generation_still_single = []
 
-    summary_statistics = []  # will hold ordered tuples of integers (# total people in graph,  # immigrants, # num_children, # num marriages, prob_inf_marriage, prob_finite_marriage, prob_inf_marriage(eligible_only), prob_finite_marriage(elegible_only))
+    summary_statistics = [] # will hold ordered tuples of integers (# total people in graph, # immigrants, # num_children, # num marriages, prob_inf_marriage, prob_finite_marriage, prob_inf_marriage(eligible_only), prob_finite_marriage(elegible_only))
     i = 1
-    tem_num_people = 0 
+    tem_num_people = 0
 
     update_distances_counter = 1
     while (tem_num_people < when_to_stop) & (i < num_gens):
@@ -913,10 +960,10 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
         child_edges, families, num_people, num_children_per_couple = add_children_edges(unions, num_people, child_probs)
         added_children = num_people - current_people 
 
-        directory_name = "output"
-        file_path_0 = makeOutputDirectory(directory_name, name + str('_distance_matrix'))
-        file_path00 = os.path.join(file_path_0, 'Darray1_' + str(i) + '.txt')
-        np.savetxt(file_path00, distance_matrix.astype(int), fmt='%d')
+        # directory_name = "output"
+        # file_path_0 = makeOutputDirectory(directory_name, name + str('_distance_matrix'))
+        # file_path00 = os.path.join(file_path_0, 'Darray1_' + str(i) + '.txt')
+        # np.savetxt(file_path00, distance_matrix.astype(int), fmt='%d')
 
         # update distances between nodes
         print('going into update_distances() {}'.format(update_distances_counter))
@@ -924,10 +971,10 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
         print('out of update_distances()')
         update_distances_counter += 1
 
-        file_path = os.path.join(file_path_0, 'Darray2_' + str(i) + '.txt')
-        file_path2 = os.path.join(file_path_0, 'tempDarray' + str(i) + '.txt')
-        np.savetxt(file_path, distance_matrix.astype(int), fmt='%d')
-        np.savetxt(file_path2, temp_distance_matrix.astype(int), fmt='%d')
+        # file_path = os.path.join(file_path_0, 'Darray2_' + str(i) + '.txt')
+        # file_path2 = os.path.join(file_path_0, 'tempDarray' + str(i) + '.txt')
+        # np.savetxt(file_path, distance_matrix.astype(int), fmt='%d')
+        # np.savetxt(file_path2, temp_distance_matrix.astype(int), fmt='%d')
 
         generation_of_people = [key for key in indices.keys() if key not in prev_generation_still_single]  # only grab the new people
         G.add_nodes_from(generation_of_people, layer=i, immigrant=False, parents=2)
@@ -1022,37 +1069,9 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
                                                  common_ancestor: {'parents': 0}})
 
     if save:
-
-        df = pd.DataFrame(data=summary_statistics, columns=['num_people (excluding initial setup)', 'num_immigrants', 'num_children', 'num_marriages', 'prob_inf_marriage', 'prob_finite_marriage', 'prob_inf_marriage(eligible_only)', 'prob_finite_marriage(eligible_only)', 'num_connected_components'])
-        df.index.name='generation'
-        df.to_csv(os.path.join(output_path, str(name)+'_summary_statistics.csv'))
-        # Gname = "{}/{}_G_withsetup.gpickle".format(output_path, name)   # save graph
-        #nx.write_gpickle(G, Gname)
-        Gname = "{}/{}_G_withsetup.pkl".format(output_path, name)   # save graph
-        with open(Gname, 'wb') as out:
-            pickle.dump(G_connected, out)
-        # now save a reduced version of the graph, without the setup people
-
-        Gname = "{}/{}_G_no_setup.pkl".format(output_path, name)   # save graph
-        with open(Gname, 'wb') as out:
-            pickle.dump(G, out)
-
-        Uname = "{}/{}_marriage_edges".format(output_path, name) + '.pkl'   # save unions
-        with open(Uname, 'wb') as fup:
-            pickle.dump(all_marriage_edges, fup)
-        Dname = "{}/{}_marriage_distances".format(output_path, name) +'.pkl' # save marriage distances
-        with open(Dname, 'wb') as myfile:
-            pickle.dump(all_marriage_distances, myfile)
-        Cname = "{}/{}_children_per_couple".format(output_path, name) + '.pkl'  # save children
-        with open(Cname, 'wb') as fcp:
-            pickle.dump(all_children_per_couple, fcp)
-
-        paj = format_as_pajek(G, name)
-        with open('{}/model-{}-oregraph.paj'.format(output_path, name), 'w') as o:
-            o.writelines(paj)
-
-        return G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out, output_path
-
+        print('in last save')
+        G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out = save_results(summary_statistics, G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, output_path, name, dies_out)
+        return G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out, None
     else:
         return G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies_out, None
 
@@ -1070,144 +1089,144 @@ G, G_connected, all_marriage_edges, all_marriage_distances, all_children_per_cou
 
 #%%
 
-def find_start_size(name, out_directory='start_size', filename='start_size', max_iters=100, dies_out_threshold=5,  verbose=False, save_start_sizes=True, random_start=True, return_counter=False): # n = number of initial nodes
-    counter = 0
-
-    filename = name + '_' + filename
-    marriage_dist, num_marriages, prob_inf_marriage, prob_finite_marriage, child_dist, size_goal = get_graph_stats(name)
-    greatest_lower_bound = 2
-    least_upper_bound = size_goal
-
-    if random_start:
-        num_people = np.random.randint(greatest_lower_bound, size_goal)
-    else:
-        num_people = size_goal//2
-    dies_out = 0 # counter for the number of times the model dies out
-
-    start_sizes = [num_people]
-    while dies_out != dies_out_threshold: # while the number of times the model dies out is not equal to the threshold of dying:
-
-        for i in range(max_iters):
-            counter += 1
-            G, G_reduced, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies, output_path = human_family_network_variant(num_people,
-                                                                                                                marriage_dist,
-                                                                                                                prob_finite_marriage,
-                                                                                                                prob_inf_marriage,
-                                                                                                                child_dist,
-                                                                                                                name,
-                                                                                                                when_to_stop=size_goal,
-                                                                                                                save=False)
-            if dies:
-                dies_out += 1
-            if dies_out > dies_out_threshold:
-                break
-
-        if greatest_lower_bound >= least_upper_bound - 1:
-            # IE the ideal lies between these two integers
-            # so return the larger
-            num_people = least_upper_bound
-            break
-        elif dies_out == dies_out_threshold:
-            break
-        elif dies_out > dies_out_threshold:  # we want to increase num_people
-            greatest_lower_bound = num_people  # current iteration died out too frequently.  Won't need to search below this point again.
-            num_people = (num_people + least_upper_bound) // 2 # midpoint between num_people and size_goal
-            dies_out = 0
-
-        elif dies_out < dies_out_threshold: # we want to decrease num_people
-            least_upper_bound = num_people  # current iteration died out too infrequently.  Won't need to search above this point again
-            num_people = (greatest_lower_bound + num_people) // 2 # midpoint between 2 and num_people
-            dies_out = 0
-
-        if verbose:
-            print('greatest_lower_bound: ', greatest_lower_bound)
-            print('least_upper_bound: ', least_upper_bound)
-            print('starting population: ', num_people)
-        start_sizes.append(num_people)
-
-
-    if save_start_sizes:
-        if not os.path.exists(out_directory):
-            os.makedirs(out_directory)
-        filename = find_file_version_number(out_directory, filename, extension='.txt')
-        # save a text file (one integer per line)
-        with open(os.path.join(out_directory, filename +'.txt'), 'w') as outfile:
-            outfile.writelines([str(k) + '\n' for k in start_sizes])
-        # save the actual object
-        with open(os.path.join(out_directory, filename + '.pkl'), 'wb') as outfile:
-            pickle.dump(start_sizes, outfile)
-
-    if return_counter:
-        return start_sizes, counter
-    else:
-        return start_sizes
+# def find_start_size(name, out_directory='start_size', filename='start_size', max_iters=100, dies_out_threshold=5,  verbose=False, save_start_sizes=True, random_start=True, return_counter=False): # n = number of initial nodes
+#     counter = 0
+#
+#     filename = name + '_' + filename
+#     marriage_dist, num_marriages, prob_inf_marriage, prob_finite_marriage, child_dist, size_goal = get_graph_stats(name)
+#     greatest_lower_bound = 2
+#     least_upper_bound = size_goal
+#
+#     if random_start:
+#         num_people = np.random.randint(greatest_lower_bound, size_goal)
+#     else:
+#         num_people = size_goal//2
+#     dies_out = 0 # counter for the number of times the model dies out
+#
+#     start_sizes = [num_people]
+#     while dies_out != dies_out_threshold: # while the number of times the model dies out is not equal to the threshold of dying:
+#
+#         for i in range(max_iters):
+#             counter += 1
+#             G, G_reduced, all_marriage_edges, all_marriage_distances, all_children_per_couple, dies, output_path = human_family_network_variant(num_people,
+#                                                                                                                 marriage_dist,
+#                                                                                                                 prob_finite_marriage,
+#                                                                                                                 prob_inf_marriage,
+#                                                                                                                 child_dist,
+#                                                                                                                 name,
+#                                                                                                                 when_to_stop=size_goal,
+#                                                                                                                 save=False)
+#             if dies:
+#                 dies_out += 1
+#             if dies_out > dies_out_threshold:
+#                 break
+#
+#         if greatest_lower_bound >= least_upper_bound - 1:
+#             # IE the ideal lies between these two integers
+#             # so return the larger
+#             num_people = least_upper_bound
+#             break
+#         elif dies_out == dies_out_threshold:
+#             break
+#         elif dies_out > dies_out_threshold:  # we want to increase num_people
+#             greatest_lower_bound = num_people  # current iteration died out too frequently.  Won't need to search below this point again.
+#             num_people = (num_people + least_upper_bound) // 2 # midpoint between num_people and size_goal
+#             dies_out = 0
+#
+#         elif dies_out < dies_out_threshold: # we want to decrease num_people
+#             least_upper_bound = num_people  # current iteration died out too infrequently.  Won't need to search above this point again
+#             num_people = (greatest_lower_bound + num_people) // 2 # midpoint between 2 and num_people
+#             dies_out = 0
+#
+#         if verbose:
+#             print('greatest_lower_bound: ', greatest_lower_bound)
+#             print('least_upper_bound: ', least_upper_bound)
+#             print('starting population: ', num_people)
+#         start_sizes.append(num_people)
+#
+#
+#     if save_start_sizes:
+#         if not os.path.exists(out_directory):
+#             os.makedirs(out_directory)
+#         filename = find_file_version_number(out_directory, filename, extension='.txt')
+#         # save a text file (one integer per line)
+#         with open(os.path.join(out_directory, filename +'.txt'), 'w') as outfile:
+#             outfile.writelines([str(k) + '\n' for k in start_sizes])
+#         # save the actual object
+#         with open(os.path.join(out_directory, filename + '.pkl'), 'wb') as outfile:
+#             pickle.dump(start_sizes, outfile)
+#
+#     if return_counter:
+#         return start_sizes, counter
+#     else:
+#         return start_sizes
 #%%
 
-def repeatedly_call_start_size(name, out_directory='start_size', iters=5, max_iters=100, dies_out_threshold=5,  verbose=False, save_start_sizes=True, save_individual_start_sizes=False, random_start=True, show_plot=False):
-    #find out directory.  Every iteration in this function call will output to the same file
-    out_dir = makeOutputDirectory(out_directory, name)
-
-    if save_start_sizes:
-        # create the folder, text file to which EACH start_size list will be appended
-        filename = name + '_' + 'start_size'
-        if not os.path.exists(out_dir):
-            os.makedirs(out_dir)
-        if not os.path.exists(os.path.join(out_dir, filename + '.txt')):
-            with open(os.path.join(out_dir, filename + '.txt'), 'w'):
-                pass
-
-    to_plot = []
-    for i in range(iters):
-        start_sizes = find_start_size(name,
-                                      out_dir,
-                                      max_iters=max_iters,
-                                      dies_out_threshold=dies_out_threshold,
-                                      verbose=verbose,
-                                      save_start_sizes=save_individual_start_sizes,
-                                      random_start=random_start)
-        to_plot.append(start_sizes)
-
-        if save_start_sizes:
-            # save a text file (one line per run of find_start_size())
-            with open(os.path.join(out_dir, filename +'.txt'), 'a') as outfile:
-                outfile.write(str(start_sizes))
-                outfile.write('\n')
-
-        if save_start_sizes:
-            # save the unaltered (entries will be of differing lengths) set of start sizes
-            # as a pickle object for later use
-            with open(os.path.join(out_dir, filename + '.pkl'), 'wb') as outfile:
-                pickle.dump(to_plot, outfile)
-
-    # prep each entry of to_plot.  Not every iteration will have the same num
-    # of entries.  Just repeat the last entry as necessary
-    length = np.max([len(k) for k in to_plot])
-    for start_sizes in to_plot:
-        while len(start_sizes) < length:
-            start_sizes.append(start_sizes[-1])
-
-    fig = plt.figure(figsize=(12,9), dpi=300)
-    for k in range(len(to_plot) -1):
-        plt.plot(to_plot[k], color='k', linewidth=0.5, alpha=0.65)
-
-    # plot the last one with a label
-    plt.plot(to_plot[-1], color='k', linewidth=0.5, alpha=0.65, label='individual run')
-    # make the plot display in text the final average starting value
-    avg_run = np.mean(to_plot, axis=0)
-    plt.text(length - 1.25, avg_run[-1]+3, str(round(avg_run[-1])), fontsize=16)
-    # now plot the average, bolded
-    plt.plot(avg_run, color='k', linewidth=7, alpha=0.8, label='mean')
-    plt.xticks([k for k in range(length)], labels=[k for k in range(1, length+1)], fontsize=16)
-    plt.yticks(fontsize=16)
-    plt.title(name + ' initial population search', fontsize=24)
-    plt.legend()
-    plt.ylabel('starting population', fontsize=16)
-    plt.xlabel('iterations', fontsize=16)
-    plt.savefig(os.path.join(out_dir, name + '_starting_size_graph.png'), format='png')
-    if show_plot:
-        plt.show()
-
-    return avg_run
+# def repeatedly_call_start_size(name, out_directory='start_size', iters=5, max_iters=100, dies_out_threshold=5,  verbose=False, save_start_sizes=True, save_individual_start_sizes=False, random_start=True, show_plot=False):
+#     #find out directory.  Every iteration in this function call will output to the same file
+#     out_dir = makeOutputDirectory(out_directory, name)
+#
+#     if save_start_sizes:
+#         # create the folder, text file to which EACH start_size list will be appended
+#         filename = name + '_' + 'start_size'
+#         if not os.path.exists(out_dir):
+#             os.makedirs(out_dir)
+#         if not os.path.exists(os.path.join(out_dir, filename + '.txt')):
+#             with open(os.path.join(out_dir, filename + '.txt'), 'w'):
+#                 pass
+#
+#     to_plot = []
+#     for i in range(iters):
+#         start_sizes = find_start_size(name,
+#                                       out_dir,
+#                                       max_iters=max_iters,
+#                                       dies_out_threshold=dies_out_threshold,
+#                                       verbose=verbose,
+#                                       save_start_sizes=save_individual_start_sizes,
+#                                       random_start=random_start)
+#         to_plot.append(start_sizes)
+#
+#         if save_start_sizes:
+#             # save a text file (one line per run of find_start_size())
+#             with open(os.path.join(out_dir, filename +'.txt'), 'a') as outfile:
+#                 outfile.write(str(start_sizes))
+#                 outfile.write('\n')
+#
+#         if save_start_sizes:
+#             # save the unaltered (entries will be of differing lengths) set of start sizes
+#             # as a pickle object for later use
+#             with open(os.path.join(out_dir, filename + '.pkl'), 'wb') as outfile:
+#                 pickle.dump(to_plot, outfile)
+#
+#     # prep each entry of to_plot.  Not every iteration will have the same num
+#     # of entries.  Just repeat the last entry as necessary
+#     length = np.max([len(k) for k in to_plot])
+#     for start_sizes in to_plot:
+#         while len(start_sizes) < length:
+#             start_sizes.append(start_sizes[-1])
+#
+#     fig = plt.figure(figsize=(12,9), dpi=300)
+#     for k in range(len(to_plot) -1):
+#         plt.plot(to_plot[k], color='k', linewidth=0.5, alpha=0.65)
+#
+#     # plot the last one with a label
+#     plt.plot(to_plot[-1], color='k', linewidth=0.5, alpha=0.65, label='individual run')
+#     # make the plot display in text the final average starting value
+#     avg_run = np.mean(to_plot, axis=0)
+#     plt.text(length - 1.25, avg_run[-1]+3, str(round(avg_run[-1])), fontsize=16)
+#     # now plot the average, bolded
+#     plt.plot(avg_run, color='k', linewidth=7, alpha=0.8, label='mean')
+#     plt.xticks([k for k in range(length)], labels=[k for k in range(1, length+1)], fontsize=16)
+#     plt.yticks(fontsize=16)
+#     plt.title(name + ' initial population search', fontsize=24)
+#     plt.legend()
+#     plt.ylabel('starting population', fontsize=16)
+#     plt.xlabel('iterations', fontsize=16)
+#     plt.savefig(os.path.join(out_dir, name + '_starting_size_graph.png'), format='png')
+#     if show_plot:
+#         plt.show()
+#
+#     return avg_run
 
 #%%
 

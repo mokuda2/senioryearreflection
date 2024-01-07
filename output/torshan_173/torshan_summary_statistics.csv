@@ -1,0 +1,2 @@
+generation,num_people (excluding initial setup),num_immigrants,num_children,num_marriages,prob_inf_marriage,prob_finite_marriage,prob_inf_marriage(eligible_only),prob_finite_marriage(eligible_only),num_connected_components
+0,7,0,0,0,0.0,0.024489795918367346,0.0,1.0,56

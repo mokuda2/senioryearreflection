@@ -352,8 +352,8 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
     #     graph (nx.graph): graph
     #     unions (set of ints): labeled numbers on nodes that are already married
     #     tol (int): the maximum number of iterations
-    #     currnet_generation (list of ints): labeled numbers on nodes that are in current generation
-    #     previous_generation (list of ints): labeled numbers on nodes that are in previous generation
+    #     current_generation (set): labeled numbers on nodes that are in current generation
+    #     previous_generation (set): labeled numbers on nodes that are in previous generation
     # Return:
     #     [None,False], if finding a mate is impossible or is taking too much time (iterations)
     #     [(source_node, mate_node),Ture], if finding a mate is successful
@@ -374,17 +374,17 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
 
     # modified DFS
     while len(path_) < distance + 1:
-        print("S:", S)
+        #print("S:", S)
         # if finding a node with the distance is impossible,
         if len(S) == 0:
             # we need to choose another source node.
-            print("S is empty")
+            #print("S is empty")
             return None, False
 
         # if finding a node with the distance is impossible,
         if num_dead_end == tol:
             # we need to choose another source node.
-            print("Over tol")
+            #print("Over tol")
             return None, False
 
         # pop a path from S
@@ -394,8 +394,8 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
         if len(path_) == distance + 1:  # since num_nodes are more than num_edges by 1
             # check if the last node is not in the current generation or previous generation
             if path_[-1] not in current_generation and path_[-1] not in previous_generation:
-                print("The last node is not either in current generation or in previous generation.")
-                print()
+                #print("The last node is not either in current generation or in previous generation.")
+                #print()
                 num_dead_end += 1
                 path_ = []
                 pass
@@ -405,8 +405,8 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
                 if path_[-1] in unions:                #"*"
                     num_dead_end += 1
                     path_ = []   # reset path_ so that we can stay in the while loop
-                    print(f"The last node {path_[-1]} is already married")
-                    print()
+                    #print(f"The last node {path_[-1]} is already married")
+                    #print()
                     pass
 
                 else:
@@ -432,14 +432,14 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
         else:
             # up
             if len(path_) < num_up+1: # since num_nodes are more than num_edges by 1
-                print("up")
+                #print("up")
                 # c_node is the current node
                 c_node = path_[-1]
 
                 parents = set(graph_T[c_node])
                 # Print progress
-                for i in parents:
-                    print(i,"::",graph_T[c_node][i]["Relationship"])
+                #for i in parents:
+                    #print(i,"::",graph_T[c_node][i]["Relationship"])
                 parents_ = [n for n in parents if graph_T[c_node][n]["Relationship"] != "Marriage"]
 
                 # if the c_node has no parent nodes
@@ -457,15 +457,15 @@ def find_mate(source_node, distance, graph, unions, tol, current_generation=[], 
 
             # down
             else:
-                print("down")
+                #print("down")
                 # c_node is the current node
                 c_node = path_[-1]
 
                 children = set(graph[c_node])
                 # Print progress
-                for i in children:
-                    print(i,"::",graph[c_node][i]["Relationship"])
-                print("path_:", path_)
+                #for i in children:
+                #    print(i,"::",graph[c_node][i]["Relationship"])
+                #print("path_:", path_)
 
                 children_ = [n for n in children if graph[c_node][n]["Relationship"] != "Marriage"] # Remove unions
                 children_ = [n for n in children_ if n != source_node] # preventing from matching target node to be the same source_node
@@ -564,59 +564,73 @@ def add_marriage_edges_random(graph, people, prev_people, num_people, marriage_p
     print("infinite couples goal", num_inf_couples_to_marry)
 
     people_ignored = set()
-    num_unions = 0
     # Dictionary of distances mapping to lists of booleans representing whether forming that distance marriage was successful
-    accuracy = {}
+    accuracy = {val:list() for val in range(-1,50)}
 
+    num_unions = 0
     while num_unions < num_finite_couples_to_marry and can_marry:
         # Randomly select a desired distance and a candidate we would like to marry off. Attempt to find a mate tol times.
-        desired_dist = np.random.choice(finite_probs.keys(), p=finite_probs.values())
-        candidate = np.random.choice(can_marry)
-        couple, success = find_mate(candidate, desired_dist, graph, people_ignored, tol=15)
-        # Update the accuracy dictionary.
-        # If the random walk produced the actual geodesic distance between
-        # the man and woman, add a success (True); otherwise, add a failure (False)
-        if success:
-            accuracy[desired_dist].append(True)
-        else:
-            accuracy[desired_dist].append(False)
+        desired_dist = np.random.choice(list(finite_probs.keys()), p=list(finite_probs.values()))
+        candidate = np.random.choice(list(can_marry))
+        couple, success = find_mate(candidate, desired_dist, graph, people_ignored, 15, can_marry, can_marry_prev)
 
-        # Update the people_ignored set and the can_marry set
-        people_ignored = people_ignored.union(list(couple))
-        can_marry.difference_update(set(couple))
+        if couple is not None:
+            # Update the accuracy dictionary.
+            # If the random walk produced the actual geodesic distance between
+            # the man and woman, add a success (True); otherwise, add a failure (False)
+            if success:
+                accuracy[desired_dist].append(True)
+            else:
+                accuracy[desired_dist].append(False)
+
+            # Update the people_ignored set
+            people_ignored.update(list(couple))
+            # Update the unions set
+            unions.add(couple)
+            # Update the marriage_distances list
+            marriage_distances.append(desired_dist)
+
+            # Update the set of people in the current and previous generation who can marry
+            can_marry.difference_update(set(couple))
+            can_marry_prev.difference_update(set(couple))
+
+            num_unions += 1
 
     for dist in accuracy.keys():
-        print(f"Distance {dist}: {100*sum(accuracy[desired_dist])/len(accuracy[desired_dist])}% accuracy in finding shortest-distance paths")
-
-    # Update the set of people in previous generation who can marry
-    can_marry_prev.difference_update(people_ignored)
+        if len(accuracy[dist]) > 0:
+            print(f"Distance {dist}: {100*sum(accuracy[dist])/len(accuracy[dist])}% accuracy in finding shortest-distance paths")
 
     # Get the components of the graph (less efficient, but a solution for now) and
     # map each node in the current or previous generations (that is still unmarried) to its component number
     components = nx.connected_components(nx.Graph(graph))
-    eligible_people = {(x for x in component if x in range(
-        num_people-gen_size-prev_gen_size,next_immigrant) and x not in people_ignored):n for n,component in enumerate(components)}
+    min_index = min(can_marry_prev) if can_marry_prev else 0
+    eligible_people = {[x for x in component if x in range(min_index,next_immigrant) and x not in people_ignored][0]:n for n,component in enumerate(components)} # this is messy
 
-    #DEBUG print
-    print(eligible_people)
-
+    num_unions = 0
     while num_unions < num_inf_couples_to_marry and can_marry:
         # Uniformly select someone in the current generation who is unmarried
-        candidate = np.random.choice(eligible_people.keys())
+        candidate = np.random.choice(list(eligible_people.keys()))
         selected_component = eligible_people[candidate]
 
         # Try 5 times to find a partner in a separate component from our candidate
         success = False
+        attempts = 0
         while attempts < 5:
-            candidate2 = np.random.choice(eligible_people.keys())
+            candidate2 = np.random.choice(list(eligible_people.keys()))
             attempts += 1
             if eligible_people[candidate2] != selected_component:
-                # Add the new couple to the ignored list
+                # Add the new couple to the ignored set and unions set
                 # and remove them from the can_marry and can_marry_prev sets (as applicable)
-                people_ignored.extend([candidate, candidate2])
-                can_marry.update_difference({candidate, candidate2})
-                can_marry_prev.update_difference({candidate, candidate2})
+                people_ignored.update({candidate, candidate2})
+                unions.add((candidate, candidate2))
+
+                # Update the marriage_distances list
+                marriage_distances.append(-1)
+
+                can_marry.difference_update({candidate, candidate2})
+                can_marry_prev.difference_update({candidate, candidate2})
                 success = True
+                num_unions += 1
                 break
 
         # If we attempted 5 times and failed, blacklist this candidate (so we eventually break out of the while loop)
@@ -641,10 +655,10 @@ def add_marriage_edges_random(graph, people, prev_people, num_people, marriage_p
 
     # Update various data structures
     prev_gen_still_single = can_marry_prev.difference(set(married_immigrant))
-    unions.union(immigrant_couples)
+    num_never_marry = len(prev_gen_still_single)
+    unions.update(immigrant_couples)
     marriage_distances.extend([-1] * num_immigrants)
     didnt_marry = list(can_marry.difference(married_immigrant))
-    num_never_marry = len(prev_gen_still_single)
 
     # DEBUG PRINT
     print("didnt marry from current gen", len(didnt_marry))
@@ -1487,14 +1501,6 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
     # Define the initial graph components
     # components = {k:list(k) for k in generation_of_people}
 
-    """
-    Edit by Teayoun
-    """
-    # current and previous generations setting
-    previous_nodes = []
-    current_nodes = np.arange(1, generation_of_people + 1)
-    ''''''
-
     # explicitly add our first generation of nodes (otherwise we will fail to
     # add those who do not marry into our graph).  All future generations are
     # connected either through marriage or through parent-child arcs
@@ -1621,14 +1627,6 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
         current_people = num_people
         #print("num_people: ", num_people)
 
-        '''
-        Edit by Teayoun
-        '''
-        # currnet nodes with immigrants
-        current_nodes = np.append(current_nodes,np.arange(current_nodes[-1]+1,current_nodes[-1]+1+num_immigrants))
-        ''''''
-
-
         # add children to each marriage
         child_edges, families, num_people, num_children_per_couple = add_children_edges(unions, num_people, child_probs)
         added_children = num_people - current_people
@@ -1641,13 +1639,6 @@ def human_family_network_variant(num_people, marriage_dist, prob_finite_marriage
         G.add_edges_from(child_edges, Relationship='Parent-Child')
         all_children_per_couple += list(num_children_per_couple)
 
-        '''
-        Edit by Teayoun
-        '''
-        # reset previous nodes and current nodes
-        previous_nodes = current_nodes
-        currnet_nodes = np.arange(previous_nodes[-1]+1,previous_nodes[-1]+1+added_children)
-        ''''''
 
         #print("all_temp_marriage_distances= ", len(all_temp_marriage_distances)," increased= ", len(all_temp_marriage_distances)-temp )
         temp = len(all_temp_marriage_distances)

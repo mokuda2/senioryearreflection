@@ -1134,6 +1134,7 @@ class HumanFamily:
         all_temp_marriage_distances = []
         all_children_per_couple = []
         prev_generation_still_single = []
+        formula_target = [self.num_people_setup]
         summary_statistics = []  # will hold ordered tuples of integers (# total people in graph,  # immigrants, # num_children, # num marriages, self.prob_inf_marriage, self.prob_finite_marriage, self.prob_inf_marriage(eligible_only), self.prob_finite_marriage(elegible_only))
         i = 1   # Generation number
         tem_num_people = 0
@@ -1237,7 +1238,7 @@ class HumanFamily:
             if i > round(lim/2*3/2):
                 all_marriage_edges += list(unions)
                 all_marriage_distances += marriage_distances
-            else :
+            else:
                 self.num_setup_people = num_people
                 all_temp_marriage_edges += list(unions)
                 all_temp_marriage_distances += marriage_distances
@@ -1253,6 +1254,7 @@ class HumanFamily:
             # add children to each marriage
             child_edges, families, num_people, num_children_per_couple = self.add_children_edges(unions, num_people, child_probs)
             self.generation_ranges.append(num_people)   # Store the largest person number in each generation
+            formula_target.append(self.num_people_setup * (self.prob_finite_marriage * np.mean(self.children_dist)) ** i + num_immigrants)
             if self.save: print("Generation Ranges:", self.generation_ranges)  # For debugging
             added_children = num_people - current_people
 
@@ -1275,7 +1277,7 @@ class HumanFamily:
                 stats.append(sum(num_children_per_couple))
                 stats.append(len(unions))
                 stat_prob_marry = len(all_marriage_distances) * 2 / len(self.G)
-                if self.save: print("len(all_marriage_distances)= ",len(all_marriage_distances), " increased= ", len(all_marriage_distances)-temp)
+                if self.save: print("len(all_marriage_distances)= ", len(all_marriage_distances), " increased= ", len(all_marriage_distances)-temp)
                 temp = len(all_marriage_distances)
                 if len(all_marriage_distances) > 0:
                     stat_frac_inf = sum(np.array(all_marriage_distances) == -1) / len(all_marriage_distances)
@@ -1296,13 +1298,21 @@ class HumanFamily:
             errors.append(total_error_next)
             if self.save and i > 2: print(f"Total error: {total_error_next} is within {abs(total_error_next - total_error)} of previous error")
             i += 1
-            
+
+        plt.plot(self.generation_ranges, label='Model')
+        plt.plot(formula_target, label='Target')
+        plt.xlabel('Generation')
+        plt.ylabel('Number of People')
+        plt.legend()
+        plt.savefig('./output/{}_{}.png'.format(self.name, self.num_people_setup))
+        plt.show()
 
         ###########################
         if(self.save):
-            HumanFamily.plot_time_to_form_marraiges(time_to_form_marraiges)
-            HumanFamily.plot_find_mate_stats(find_mate_successes, find_mate_accuracy)
-            HumanFamily.plot_error_per_generation(errors)
+            pass
+            # HumanFamily.plot_time_to_form_marraiges(time_to_form_marraiges)
+            # HumanFamily.plot_find_mate_stats(find_mate_successes, find_mate_accuracy)
+            # HumanFamily.plot_error_per_generation(errors)
         ##########################
 
         # Store data
@@ -1320,6 +1330,13 @@ class HumanFamily:
             print(f"{self.name} had {self.num_people_orig_graph} people")
             print(f"The model made {self.num_people} people")
             print("##It is Done##")  # :)
+
+        # Did our model success to make a structure that has total error less than 50?
+        if total_error_next < 50:
+            success = True
+        else:
+            success = False
+        return success, num_immigrants
      
 
     def build_single_component(self):
@@ -1428,6 +1445,81 @@ class HumanFamily:
 
         return G_connected     # All other things that this use to return can be accessed as attributes
 
+    def find_file_version_number(self, out_directory, filename, extension):
+        ver = 1
+        output_dir = os.path.join(out_directory, filename + '_')
+        while os.path.exists(output_dir + str(ver) + extension):
+            ver += 1
+        filename = filename + '_' + str(ver)
+        return filename
+
+    def find_start_size(self, name, marriage_dists, prob_inf_marriage, prob_finite_marriage, children_dist, num_people_orig_graph,
+                        out_directory='start_size', filename='start_size', max_iters=100, dies_out_threshold=5,
+                        verbose=False, save_start_sizes=True, random_start=True,
+                        return_counter=False):  # n = number of initial nodes
+        counter = 0
+        print("name:", name)
+        print("filename:", filename)
+
+        filename = name + '_' + filename
+        greatest_lower_bound = 2
+        least_upper_bound = num_people_orig_graph
+
+        if random_start:
+            num_people = np.random.randint(greatest_lower_bound, num_people_orig_graph)
+        else:
+            num_people = num_people_orig_graph // 2
+        dies_out_counter = 0  # counter for the number of times the model dies out
+
+        start_sizes = [num_people]
+        while dies_out_counter != dies_out_threshold:  # while the number of times the model dies out is not equal to the threshold of dying:
+
+            for i in range(max_iters):
+                counter += 1
+                dies = self.make_model(num_people)
+                if dies:
+                    dies_out_counter += 1
+                if dies_out_counter > dies_out_threshold:
+                    break
+
+            if greatest_lower_bound >= least_upper_bound - 1:
+                # IE the ideal lies between these two integers
+                # so return the larger
+                num_people = least_upper_bound
+                break
+            elif dies_out_counter == dies_out_threshold:
+                break
+            elif dies_out_counter > dies_out_threshold:  # we want to increase num_people
+                greatest_lower_bound = num_people  # current iteration died out too frequently.  Won't need to search below this point again.
+                num_people = (num_people + least_upper_bound) // 2  # midpoint between num_people and size_goal
+                dies_out_counter = 0
+
+            elif dies_out_counter < dies_out_threshold:  # we want to decrease num_people
+                least_upper_bound = num_people  # current iteration died out too infrequently.  Won't need to search above this point again
+                num_people = (greatest_lower_bound + num_people) // 2  # midpoint between 2 and num_people
+                dies_out_counter = 0
+
+            if verbose:
+                print('greatest_lower_bound: ', greatest_lower_bound)
+                print('least_upper_bound: ', least_upper_bound)
+                print('starting population: ', num_people)
+            start_sizes.append(num_people)
+
+        if save_start_sizes:
+            if not os.path.exists(out_directory):
+                os.makedirs(out_directory)
+            filename = self.find_file_version_number(out_directory, filename, extension='.txt')
+            # save a text file (one integer per line)
+            with open(os.path.join(out_directory, filename + '.txt'), 'w') as outfile:
+                outfile.writelines([str(k) + '\n' for k in start_sizes])
+            # save the actual object
+            with open(os.path.join(out_directory, filename + '.pkl'), 'wb') as outfile:
+                pickle.dump(start_sizes, outfile)
+
+        if return_counter:
+            return start_sizes, counter
+        else:
+            return start_sizes
 
 # Get a list of all the data sets we can work with
 data_sets = [x[:-4] for x in os.listdir("Kolton_distances")]  # get from folder, excluding .txt part (last 4 characters)
@@ -1436,13 +1528,14 @@ data_sets = [x[:-4] for x in os.listdir("Kolton_distances")]  # get from folder,
 # name = "tikopia_1930"
 # name = "arawete"
 # name = "kelkummer"
-name = "dogon_boni"
-
+# name = "dogon_boni"
+name = "tikopia_1930"
 
 # Example on how to run the model
-starting_size = 5000
-family = HumanFamily(name)   # Gathers data from the kelkummer model and saves it into the object
+starting_size = 200
+family = HumanFamily(name)   # Gathers data from the model and saves it into the object
 family.make_model(starting_size, fixed=False, method="NetworkX")   # Actually runs the model and creates the graph (pass in initial starting size)
+
 # family.build_single_component()    # Builds a single component and returns it (not necessary for most of our analysis)
 
 # TODO: Plot number of component s to generation

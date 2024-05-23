@@ -23,7 +23,10 @@ import ast
 import pickle
 import os
 from write_model_to_pajek_ore_graph import format_as_pajek
-
+from networkx.drawing.nx_pydot import graphviz_layout
+from networkx.drawing.nx_agraph import graphviz_layout
+from datetime import datetime
+from get_model_parameters import separate_parts
 
 class HumanFamily:
     """
@@ -77,7 +80,7 @@ class HumanFamily:
             full_target_distribution (dict): this stores the target distribution
                 key: ditance to union, value: probability
             all_marriage_edges (list of tuples of int): this lists all union-type
-                edges added to G (indicated by node attribtute
+                edges added to G (indicated by node attribute
                 "Relationship"=="Marriage").  NOTE:  The auxiliary ancestry added
                 prior to generation 0 contains no union-type edges, so that G and
                 G_connected share the same list of union edges.
@@ -308,7 +311,8 @@ class HumanFamily:
         plt.legend(loc="upper right")
         plt.tight_layout()
         plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-        plt.show()
+        # plt.show()
+        plt.clf()
 
     def plot_valid_path_stats(self, valid_path_stats):   # Only use this function if we don't force finite paths to be valid (commented out code in find_mate_NetworkX() function)
         """
@@ -350,7 +354,8 @@ class HumanFamily:
         plt.ylabel("Proportion")
 
         plt.tight_layout()
-        plt.show()
+        # plt.show()
+        plt.clf()
 
     @staticmethod
     def plot_time_to_form_marraiges(time_to_form_marraiges):
@@ -410,7 +415,8 @@ class HumanFamily:
         plt.ylim(-10, self.num_components[0] + 10)
         plt.legend(fontsize=10, loc="upper right")
         plt.tight_layout()
-        plt.show()
+        # plt.show()
+        plt.clf()
 
 
     def plot_num_people(self):
@@ -518,7 +524,8 @@ class HumanFamily:
         plt.xlabel("Generation")
         plt.ylabel("Total number of people")
         plt.legend()
-        plt.show()
+        # plt.show()
+        plt.clf()
 
 
     def graph_current_distributions(self, target_marriage_probs, model_marriage_probs, adjusted_marriage_probs, gen_num, save_plots=True, alpha=0.85):
@@ -574,7 +581,9 @@ class HumanFamily:
         plt.ylabel("Ratio", fontsize=20)
         plt.xlabel("Distance", fontsize=20)
 
-        if not save_plots: plt.show()
+        if not save_plots:
+            plt.show()
+            plt.clf()
         else: plt.savefig(os.path.join(outpath,  name + f'distributions_generation_{gen_num}' + '.png'), format='png')
         plt.clf()  # clear out the current figure
         plt.close(fig)
@@ -908,8 +917,9 @@ class HumanFamily:
             distance (int): desired distance
             graph_T (nx.graph): reversed graph
         Return:
-            people_to_avoid (set): set of nodes too avoid while traversing the list
+            people_to_avoid (set): set of nodes to avoid while traversing the list
         """
+        print('in find_people_to_avoid function')
         S = [[source_node]]
         path_ = []
         num_up = np.ceil(distance/2) # if distance is odd, it goes up one more than down. if distance is even, it goes up and down same time
@@ -924,6 +934,7 @@ class HumanFamily:
                 break
 
             c_node = path_[-1]
+            print('c_node:', c_node)
 
             parents = set(graph_T[c_node])
             parents_ = [n for n in parents if graph_T[c_node][n]["Relationship"] != "Marriage"]
@@ -961,6 +972,7 @@ class HumanFamily:
             All edge attributes must be either "Marriage" or "Parent-Child"
         """
         # setting
+        print('in find_mate function')
         graph_T = self.G.reverse(copy=False)  # reverse graph to avoid traversal        
         num_dead_end = 0
         S = [[source_node]]
@@ -1065,6 +1077,7 @@ class HumanFamily:
         """
         TODO: ADD DOCUMENTATION
         """
+        print('in add_finite_unions function')
         # Make an undirected copy of the graph; filter out marriage edges; find the shortest Parent-Child path
         graph_un = self.G.to_undirected()
         edges_to_remove = [e for e in graph_un.edges(data=True) if e[2]['Relationship'] == 'Marriage']
@@ -1272,6 +1285,7 @@ class HumanFamily:
             successes (dict) Dictionary of distances mapping to lists of booleans 
                 representing whether forming that distance marriage was successful
         """
+        print('in add_marriage_edges function')
         # Construct and normalize dictionary of finite marriage distance probabilities, 
         # only allowing marriages above the minimum permissible distance in the original dataset
         try: minimum_permissible_distance = min(k for k in self.marriage_dists if k > -1)
@@ -1355,7 +1369,7 @@ class HumanFamily:
     ##########################################################################
     # Actually make the model (same as human_family_network_variant())
 
-    def make_model(self, num_people, when_to_stop=None, num_gens=30, out_dir='output', eps=0, fixed=True, method="NetworkX", tol=1e-1, desired_error=50):
+    def make_model(self, num_people, when_to_stop=None, num_gens=5, out_dir='output', eps=0, fixed=True, method="NetworkX", tol=1e-1, desired_error=50):
         """
         This is the main driver for implementing the Variant Target Model (see
         Chapter 5 in Kolton's thesis).
@@ -1442,6 +1456,7 @@ class HumanFamily:
                 (the algorithm will stop when the difference between the erros is less than tol)
             eps (int)   # Allowed error
         """
+        print('in make_model function')
         self.reset()  # Reset model to, making the instance what it was when first created
         # Set new attributes that were given as parameters
         self.method = method
@@ -1612,7 +1627,8 @@ class HumanFamily:
             self.plot_error_per_generation()
             plt.tight_layout(rect=[0, 0.03, 1, 0.95])
             plt.suptitle(f"{self.name} with {self.num_people_setup} people to start")
-            plt.show()
+            # plt.show()
+            plt.clf()
             self.plot_num_components()
             self.plot_num_people()
         ##########################
@@ -1745,19 +1761,138 @@ class HumanFamily:
 
         return G_connected     # All other things that this use to return can be accessed as attributes
 
+    def draw_paj_graph(self,
+                       graph_name,
+                       ax=None,
+                       out_directory='Kolton_distances_histograms',
+                       file_name='tikopia_1930',
+                       title="",
+                       dpi=300,
+                       figsize=(12, 9),
+                       layout=nx.kamada_kawai_layout,
+                       layout_args=[],
+                       edge_width=1,
+                       node_size=1,
+                       alpha=1):
+        """Takes in a PAJEK formatted graph file and draws the graph in an easy to interpret form.
+        Marriage edges are red. Parent child edges are blue. Males are triangles, Females are circles."""
+        ax_was_None = False
+        if ax is None:
+            ax_was_None = True
+            fig, ax = plt.subplots(1, 1, figsize=figsize, dpi=dpi)
+
+        marr_edges = [(u, v) for u, v, d in self.G.edges(data=True) if d['Relationship'] == 'Marriage']
+        print('marr_edges:', marr_edges)
+        pc_edges = [(u, v) for u, v, d in self.G.edges(data=True) if d['Relationship'] == 'Parent-Child']
+
+        # get position of nodes and edges
+        pos = {}
+        # draw graph
+        nx.draw_networkx_edges(self.G, pos, marr_edges, edge_color='r', label='union', width=edge_width, alpha=alpha / 2,
+                               ax=ax, arrows=False)
+        nx.draw_networkx_edges(self.G, pos, pc_edges, edge_color='b', label='parent-child', width=edge_width,
+                               alpha=alpha / 2, ax=ax, arrows=True)
+        nx.draw_networkx_nodes(self.G, pos, node_size=node_size, alpha=alpha, ax=ax)
+        plt.title(title, fontsize=24)
+        plt.legend()
+        if ax_was_None:
+            if not os.path.exists(out_directory):
+                os.makedirs(out_directory)
+            current_datetime = datetime.now()
+            current_datetime_string = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+            filename = file_name + '_' + current_datetime_string + '_family_network.png'
+            filename = filename.replace(' ', '_')
+            filename = filename.replace(':', '_')
+            filepath = os.path.join(out_directory, filename)
+            plt.savefig(filepath, format='png')
+            plt.show()
+            print('Saved to: {}'.format(os.path.join(out_directory, filepath)))
+        return ax
+
+    def draw_paj_graph_theoretical(self,
+                       graph_name,
+                       ax=None,
+                       out_directory='Kolton_distances_histograms',
+                       file_name='tikopia_1930',
+                       title="",
+                       dpi=300,
+                       figsize=(12, 9),
+                       layout=nx.kamada_kawai_layout,
+                       layout_args=[],
+                       edge_width=1,
+                       node_size=1,
+                       alpha=1):
+        """Takes in a PAJEK formatted graph file and draws the graph in an easy to interpret form.
+        Marriage edges are red. Parent child edges are blue. Males are triangles, Females are circles."""
+        ax_was_None = False
+        if ax is None:
+            ax_was_None = True
+            fig, ax = plt.subplots(1, 1, figsize=figsize, dpi=dpi)
+        # get graph data
+        nodes, marr_edges, pc_edges = separate_parts(graph_name, 'A')
+        g = nx.Graph()
+        g.add_nodes_from(np.arange(1, nodes[0] + 1))
+        g.add_edges_from(marr_edges)
+        g.add_edges_from(pc_edges)
+        # get genders
+        male = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'M'])
+        female = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'F'])
+        unknown = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'U'])
+        # get position of nodes and edges
+        pos = layout(g, *layout_args)
+        # draw graph
+        nx.draw_networkx_edges(g, pos, marr_edges, edge_color='r', label='union', width=edge_width, alpha=alpha / 2,
+                               ax=ax)
+        nx.draw_networkx_edges(g, pos, pc_edges, edge_color='b', label='parent-child', width=edge_width,
+                               alpha=alpha / 2, ax=ax, arrows=True)
+        nx.draw_networkx_nodes(g, pos, male, node_shape='o', node_size=node_size, alpha=alpha, ax=ax)
+        nx.draw_networkx_nodes(g, pos, female, node_shape='o', node_size=node_size, alpha=alpha, ax=ax)
+        nx.draw_networkx_nodes(g, pos, unknown, node_shape='o', node_size=node_size, alpha=alpha, ax=ax)
+        plt.title(title + str(), fontsize=24)
+        plt.legend()
+        if ax_was_None:
+            if not os.path.exists(out_directory):
+                os.makedirs(out_directory)
+            plt.savefig(os.path.join(out_directory, file_name + '_theoretical_family_network.png'), format='png')
+            plt.show()
+            print('Saved to: {}'.format(os.path.join(out_directory, file_name + '_family_network.png')))
+        return ax
 
 if __name__ == "__main__":
     # Get a list of all the data sets we can work with
     data_sets = [x[:-4] for x in os.listdir("Kolton_distances")]  # get from folder, excluding .txt part (last 4 characters)
 
     name = np.random.choice(data_sets)   # Get a random data set
-    # name = "tikopia_1930"
+    name = "tikopia_1930"
     # name = "arawete"
     # name = "kelkummer"
-    name = "dogon_boni"
+    # name = "dogon_boni"
+    graph_name = f'Original_Sources/kinsources-{name}-oregraph.paj'
 
     # Example on how to run the model
-    starting_size = 2000
+    starting_size = 30
     family = HumanFamily(name)   # Gathers data from the kelkummer model and saves it into the object
     family.make_model(starting_size, fixed=True, method="ValidNetworkX")   # Actually runs the model and creates the graph (pass in initial starting size)
     # family.build_single_component()    # Builds a single component and returns it (not necessary for most of our analysis)
+
+    # family.draw_paj_graph(name,
+    #                       title=name + ': ' + str(family.num_people) + ' people',
+    #                       out_directory='target_network_visualizations',
+    #                       file_name=name,
+    #                       node_size=40,
+    #                       layout=graphviz_layout,
+    #                       layout_args=['dot'],
+    #                       edge_width=1,
+    #                       alpha=0.6
+    #                       )
+
+    # family.draw_paj_graph_theoretical(graph_name,
+    #                       title=name + ': ' + str(family.num_people_orig_graph) + ' people',
+    #                       out_directory='target_network_visualizations',
+    #                       file_name=name,
+    #                       node_size=40,
+    #                       layout=graphviz_layout,
+    #                       layout_args=['dot'],
+    #                       edge_width=1,
+    #                       alpha=0.6
+    #                       )

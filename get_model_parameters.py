@@ -58,12 +58,14 @@ def separate_parts(graph_name,edge_type):
     # return contents list (for verification purposes)
     if edge_type == 'c':
         return contents
+    
     def get_tuples(e_list):
         # turn edge_lists into list of tuples
         for i in range(len(e_list)):
             t,f,l = e_list[i].split()
             e_list[i] = (int(t),int(f))
         return e_list
+    
     # get vertex list and attribute dictionary
     if edge_type == 'V':
         start_ind = 2

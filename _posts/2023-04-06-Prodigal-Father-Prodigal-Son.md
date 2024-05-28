@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Part 2, Fall Semester 2022; Chapter 2, Shadows
+title:  Chapter 3 - Prodigal Father, Prodigal Son
 author: Michael Okuda
 ---
 
@@ -349,4 +349,4 @@ It was time.  It was time to see if I really wanted to date guys.
 
 (End of Chapter 2...)
 
-Next page -> [Part 2, Chapter 3: Ideals Clash](https://mokuda2.github.io/junioryearreflection/2023/04/05/Ideals-Clash.html)
+Next page -> [Part 2, Chapter 3: Ideals Clash]()

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Chapter 2: The Meaning Behind a Name
+title:  Chapter 2 - The Meaning Behind a Name
 author: Michael Okuda
 ---
+
 ### 불장난 ("Playing with Fire") by Blackpink with English translation (or watch with subtitles)
 
 <center><iframe width="560" height="315" src="https://youtu.be/9pdj4iJD08s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>

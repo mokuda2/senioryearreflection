@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 1: The Beginning
+title:  Chapter 1 - The Beginning
 author: Michael Okuda
 ---
 

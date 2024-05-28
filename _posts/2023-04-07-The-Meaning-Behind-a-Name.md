@@ -115,4 +115,4 @@ description: What does a name imply?
 
 August 17, 2023.
 
-Next page -> [Part 2, Chapter 2: Shadows](https://mokuda2.github.io/junioryearreflection/2023/04/06/Shadows.html)
+Next page -> [Chapter 3: Prodigal Father, Prodigal Son]()

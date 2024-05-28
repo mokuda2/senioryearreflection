@@ -6,7 +6,7 @@ author: Michael Okuda
 
 ### 불장난 ("Playing with Fire") by Blackpink with English translation (or watch with subtitles)
 
-<center><iframe width="560" height="315" src="https://youtu.be/9pdj4iJD08s?si=YVbpFQMFt-98a_PD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/9pdj4iJD08s" title="BLACKPINK - &#39;불장난 (PLAYING WITH FIRE)&#39; M/V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 ```My mom told me every day to always be careful of guys```
 

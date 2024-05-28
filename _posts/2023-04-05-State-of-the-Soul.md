@@ -9,4 +9,4 @@ description: My love-hate relationship towards the BYU community and the gay com
 
 
 
-Next page -> [Part 2, Chapter 4: The Color Red]()
+Next page -> [Chapter 5: Playing with Fire]()

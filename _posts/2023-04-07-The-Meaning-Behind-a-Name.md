@@ -2,6 +2,7 @@
 layout: post
 title:  Chapter 2 - The Meaning Behind a Name
 author: Michael Okuda
+description: What does a name imply?
 ---
 
 ### 불장난 ("Playing with Fire") by Blackpink with English translation (or watch with subtitles)
@@ -110,13 +111,8 @@ author: Michael Okuda
 
 ---
 
-
-# Chapter 2: The Meaning Behind a Name (Jul 2023 - Sep 21, 2023)
-
-What does a name imply?
-
----
-
 ## Section 1
+
+August 17, 2023.
 
 Next page -> [Part 2, Chapter 2: Shadows](https://mokuda2.github.io/junioryearreflection/2023/04/06/Shadows.html)

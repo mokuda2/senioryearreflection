@@ -2,7 +2,6 @@
 layout: post
 title:  Chapter 2: The Meaning Behind a Name
 author: Michael Okuda
-description: What does a name imply?
 ---
 ### 불장난 ("Playing with Fire") by Blackpink with English translation (or watch with subtitles)
 

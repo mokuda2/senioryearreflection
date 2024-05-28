@@ -38,7 +38,11 @@ def getPseudoGen(g):
     node_to_gen = {}
     for node in g_reversed:
         node_to_gen[node] = calculatePseudoGen(g_reversed, node)
-        
+
+    print('node_to_gen:', node_to_gen)
+    for node, gen in node_to_gen.items():
+        if gen == 0:
+            print(node)
     return node_to_gen
 
 def plotPseudoGen(name, g):
@@ -140,5 +144,5 @@ target = data[name]
 # Calculate the pseudo distances for each node
 # node_to_gen = getPseudoGen(target)
 
-# plotPseudoGen(name, target)
-plotChildrenByGen(name, target)
+plotPseudoGen(name, target)
+# plotChildrenByGen(name, target)

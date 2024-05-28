@@ -27,6 +27,7 @@ from networkx.drawing.nx_pydot import graphviz_layout
 from networkx.drawing.nx_agraph import graphviz_layout
 from datetime import datetime
 from get_model_parameters import separate_parts
+from pseduo_distances import *
 
 class HumanFamily:
     """
@@ -1786,15 +1787,56 @@ class HumanFamily:
         pc_edges = [(u, v) for u, v, d in self.G.edges(data=True) if d['Relationship'] == 'Parent-Child']
 
         # get position of nodes and edges
+        node_and_generation = getPseudoGen(self.G)
+
+        # sort nodes by generation starting from g0
+        sorted_dict = {k: v for k, v in sorted(node_and_generation.items(), key=lambda item: item[1])}
+
+        # a counter for the generation number
+        gen_level = 0
+
+        # key: node (integer), value: placement of node (tuple of floats)
         pos = {}
+
+        # counter for placement of nodes in even-numbered generations
+        horizontal_node_placement_even = 1
+
+        # counter for placement of nodes in odd-numbered generations
+        horizontal_node_placement_odd = 1.5
+
+        # counter for the generation layers
+        vertical_node_placement = 0
+
+        for n, g in sorted_dict.items():
+            if g == gen_level: # if the value is equal to current generation
+                if gen_level % 2 == 0: # if the current generation is an even number
+                    pos[n] = (horizontal_node_placement_even, vertical_node_placement)
+                    horizontal_node_placement_even += 1
+                else: # if the current generation is an odd number
+                    pos[n] = (horizontal_node_placement_odd, vertical_node_placement)
+                    horizontal_node_placement_odd += 1
+            else: # if the value is not equal to current generation, adjust counters
+                gen_level += 1
+                horizontal_node_placement_even = 1
+                horizontal_node_placement_odd = 1.5
+                vertical_node_placement -= 1
+                if gen_level % 2 == 0:
+                    pos[n] = (horizontal_node_placement_even, vertical_node_placement)
+                    horizontal_node_placement_even += 1
+                else:
+                    pos[n] = (horizontal_node_placement_odd, vertical_node_placement)
+                    horizontal_node_placement_odd += 1
+        print('pos:', pos)
+
         # draw graph
-        nx.draw_networkx_edges(self.G, pos, marr_edges, edge_color='r', label='union', width=edge_width, alpha=alpha / 2,
+        nx.draw(self.G, pos=pos, node_size=node_size, node_color="skyblue", width=edge_width, arrows=False, alpha=alpha/4)
+        nx.draw_networkx_edges(self.G, pos, marr_edges, edge_color='r', label='union', width=edge_width, alpha=alpha/2,
                                ax=ax, arrows=False)
         nx.draw_networkx_edges(self.G, pos, pc_edges, edge_color='b', label='parent-child', width=edge_width,
                                alpha=alpha / 2, ax=ax, arrows=True)
         nx.draw_networkx_nodes(self.G, pos, node_size=node_size, alpha=alpha, ax=ax)
         plt.title(title, fontsize=24)
-        plt.legend()
+        # plt.legend()
         if ax_was_None:
             if not os.path.exists(out_directory):
                 os.makedirs(out_directory)
@@ -1830,16 +1872,17 @@ class HumanFamily:
             fig, ax = plt.subplots(1, 1, figsize=figsize, dpi=dpi)
         # get graph data
         nodes, marr_edges, pc_edges = separate_parts(graph_name, 'A')
-        g = nx.Graph()
+        g = nx.DiGraph()
         g.add_nodes_from(np.arange(1, nodes[0] + 1))
-        g.add_edges_from(marr_edges)
         g.add_edges_from(pc_edges)
+        pos = getPseudoGen(g)
+        g.add_edges_from(marr_edges)
         # get genders
         male = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'M'])
         female = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'F'])
         unknown = list(np.array(list(nodes[2].keys()))[np.array(list(nodes[2].values())) == 'U'])
         # get position of nodes and edges
-        pos = layout(g, *layout_args)
+
         # draw graph
         nx.draw_networkx_edges(g, pos, marr_edges, edge_color='r', label='union', width=edge_width, alpha=alpha / 2,
                                ax=ax)
@@ -1875,16 +1918,16 @@ if __name__ == "__main__":
     family.make_model(starting_size, fixed=True, method="ValidNetworkX")   # Actually runs the model and creates the graph (pass in initial starting size)
     # family.build_single_component()    # Builds a single component and returns it (not necessary for most of our analysis)
 
-    # family.draw_paj_graph(name,
-    #                       title=name + ': ' + str(family.num_people) + ' people',
-    #                       out_directory='target_network_visualizations',
-    #                       file_name=name,
-    #                       node_size=40,
-    #                       layout=graphviz_layout,
-    #                       layout_args=['dot'],
-    #                       edge_width=1,
-    #                       alpha=0.6
-    #                       )
+    family.draw_paj_graph(name,
+                          title=name + ': ' + str(family.num_people) + ' people',
+                          out_directory='target_network_visualizations',
+                          file_name=name,
+                          node_size=40,
+                          layout=graphviz_layout,
+                          layout_args=['dot'],
+                          edge_width=1,
+                          alpha=0.6
+                          )
 
     # family.draw_paj_graph_theoretical(graph_name,
     #                       title=name + ': ' + str(family.num_people_orig_graph) + ' people',

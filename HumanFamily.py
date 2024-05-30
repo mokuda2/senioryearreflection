@@ -583,7 +583,7 @@ class HumanFamily:
         plt.xlabel("Distance", fontsize=20)
 
         if not save_plots:
-            plt.show()
+            # plt.show()
             plt.clf()
         else: plt.savefig(os.path.join(outpath,  name + f'distributions_generation_{gen_num}' + '.png'), format='png')
         plt.clf()  # clear out the current figure
@@ -1785,6 +1785,7 @@ class HumanFamily:
         marr_edges = [(u, v) for u, v, d in self.G.edges(data=True) if d['Relationship'] == 'Marriage']
         print('marr_edges:', marr_edges)
         pc_edges = [(u, v) for u, v, d in self.G.edges(data=True) if d['Relationship'] == 'Parent-Child']
+        print('pc_edges:', pc_edges)
 
         # get position of nodes and edges
         node_and_generation = getPseudoGen(self.G)
@@ -1913,7 +1914,7 @@ if __name__ == "__main__":
     graph_name = f'Original_Sources/kinsources-{name}-oregraph.paj'
 
     # Example on how to run the model
-    starting_size = 30
+    starting_size = 40
     family = HumanFamily(name)   # Gathers data from the kelkummer model and saves it into the object
     family.make_model(starting_size, fixed=True, method="ValidNetworkX")   # Actually runs the model and creates the graph (pass in initial starting size)
     # family.build_single_component()    # Builds a single component and returns it (not necessary for most of our analysis)

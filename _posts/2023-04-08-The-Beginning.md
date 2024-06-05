@@ -41,41 +41,11 @@ As I got further into my mission, I questioned a lot about the dichotomy of feel
 
 When Adam and Eve were in the Garden of Eden, they were given two commandments: to not partake of the fruit of the tree of knowledge of good and evil and to multiply and replenish the earth.  Both were contradictory.  In order to multiply and replenish the earth, they had to partake of the fruit.  However, if they did partake, they would experience sorrow, pain, and death.  Their immortal bodies would become imperfect, and they would be cast from the presence of God.  Sure, we wouldn’t be here if they hadn’t partaken of the fruit, but wouldn’t it have been better to be ignorant of feelings and to all live in the presence of God?
 
-One of the turning points of my mission was during a lesson I taught with the bishop, his wife, and their two friends.
-
-(August 2020) The bishop told us about a family that used to be next-door neighbors before he moved. He said their names were Joseph and Radha. They had met in Salt Lake City, and it sounded like they knew a bit about the Church. The bishop felt like they would be okay if we knocked on their door, so that was what we did.
-
-The first few times we knocked, no one answered, but after a couple weeks, we were able to meet Joseph. He was super nice and told us he was busy studying some medical exams, but he said that we could come back in another three weeks.
-
-Three weeks passed, and we visited Joseph and met Radha. We were able to set up a lesson with them, and during that lesson, we taught the Restoration. They were some of the nicest people I met on my mission.
-
-After the lesson, Radha told us that she was going to have a barbecue with the bishop and his wife, and she wanted us to be there too. I was excited! Maybe it would be our opportunity to teach them more about the gospel. They seemed so solid, and having the bishop and his wife as fellowship was going to be amazing.
-
-I was hoping to be able to visit them again to teach them another lesson before the barbecue, but Radha simply said that she’d let us know when the barbecue would be. After a couple weeks of this, I didn’t feel like they were solid, which was sort of disappointing.
-
-We were able to meet them with the bishop and his wife. This was about another three weeks after we had our first lesson. After we finished our office work at 5, we went straight to Joseph and Radha’s, and we were there until past 9. It was mostly the bishop and his wife talking to Joseph and Radha, but they were again so courteous.
-
-By about 8, we shared a brief lesson about what general conference was and some of the lessons we learned during the recent October conference. At the end of our brief lesson, I asked, “We were wondering if you’d be interested in learning more about the gospel. This would include having some lessons with us about once a week and keeping commitments that we’d extend to you to help you strengthen your relationship with God. Is this something you’d be interested in?”
-
-Initially, Joseph and Radha were pretty hesitant. I guess it was kind of a bold, straightforward question. After a moment, the bishop added, “You may be wondering what these fine missionaries mean when they ask if you’d be interested in learning more about the message they share.” I don’t exactly remember what he said during that conversation, but I do remember that he was able to express so much that a close friend could express than just some mere missionary strangers could.
-
-“I feel like if we say no that we would jeopardize our friendship with you,” Joseph said to the bishop.
-
-But the bishop expressed how our invitation was merely an opportunity for them to learn more about something that we found so much joy in. He expressed his love for Joseph and Radha and told them that their decision didn’t jeopardize their friendship in any way. After about an hour of conversation, the bishop invited them to pray about whether or not to meet with us, and they accepted to do so.
-
-A few weeks later, we got a call from Joseph, and he said that he and his family had prayed and were really grateful to meet us but weren’t interested in learning more since they were devout in their own faiths.
-
-My experience with Joseph, Radha, the bishop, and his wife was a huge turning point in my mission. It’s difficult for me to describe the interaction the bishop had with this family and his continuing love for them regardless of their decision to meet with us or not, but I learned the importance of building relationships.
-
-I had to say, missionary work can be demanding. Other missionaries and members expected that we teach people and see them progress. Sometimes I felt pressure from it, especially when I felt like the people that we were teaching weren’t progressing. But Joseph and Radha were honestly some of the kindest people I had met on my mission. They were so good to us when we visited them. We dropped them from our teaching pool, but it didn’t drop our relationship with them.
-
-Later in the transfer, we went to their house to drop off an invitation to the church’s trunk or treat activity, and we ended up having a 45-minute conversation right inside their home. Radha even asked us to call them about what would happen to us at transfers, which was coming up in a couple weeks. When we called and told her that both Elder Walker and I were staying for another transfer, she said she was happy to hear that we were both staying.
-
-I felt very inspired to focus more on building meaningful relationships with the members ever since that barbecue. I knew that meeting with members could be considered a waste of time since a lot of the members didn’t really do missionary work, but I saw that we needed to gain their trust, which I didn’t feel like previous office elders tried to develop. Then maybe the members would be more willing to do things that we invited them to do. I learned that even if people weren’t interested in learning more about the gospel, it didn’t mean that my relationship with those people had to cease. And for the rest of my mission, my focus was on building trust in the members.
+One of the turning points of my mission was during a lesson I taught with the bishop, his wife, and their two friends.  The friends were some of the nicest people I had met on my mission, but they weren't sure if they wanted to meet with us after teaching a couple of lessons.  The bishop and his wife were able to express love and care that close friends could do that two mere missionaries couldn't about why we shared the gospel to people.  Their interaction changed the way I viewed building relationships with people.  Even though I dropped the two friends from our teaching pool, it didn't drop our relationship with them.  I occasionally visited them, and they were so inviting to allow us in and talk.
 
 As I learned what it meant to love the people, my mission became more fulfilling.  It didn’t mean that the rest of my mission was void of challenges, but learning how to build relationships with people out of love instead out of duty completely changed the way I approached missionary work and the way that I interacted with people.
 
-…
+...
 
 When I finished my mission, I knew that the next steppingstone in the gospel was dating and marriage.  Like many other LGBTQ people, I thought that my feelings toward guys would go away.  They obviously didn’t.  At the same time, I was hoping to keep in contact with the missionaries I had served with.  Even though many of them would go to BYU, it was difficult keeping that connection with them.
 
@@ -83,25 +53,25 @@ As the school year after my mission continued, I felt like dating and marriage w
 
 Eventually, I made up my mind that I had no expectation to marry.  It meant that I didn’t have to worry about kids.  I could solely focus on my career.  Observing that the friends and connections I had made in Kentucky and on the mission seemed nonexistent, I didn’t see the point of making friends and connections at BYU because the pattern would continue after graduating; they would all be gone.  I saw the importance of networking with people to further my career, but other than that, I didn’t have a desire to connect with people on an emotional level.  Looking back in retrospect, my lack of desire for dating and marriage greatly affected my interactions and relationships with others.  I’ve noticed that some of the people who got to know me during that time of my life could sense that I didn’t see the point of getting to know them on an emotional level.
 
-…
+...
 
 During the summer of 2022, my parents began their three-year mission as mission president and wife in the Micronesia Guam Mission.
 
-Also during that summer, I reconnected with a mission friend at a mission reunion.  Her name is Gyuna.  She said she was going to transfer to BYU starting in the fall.
+Also during that summer, I reconnected with a mission friend at a mission reunion.  Her name is <span style="color:red">Gyuna</span>.  She said she was going to transfer to BYU starting in the fall.
 
 Gyuna and I were pretty opposite people in many ways: personalities, interests, cultural backgrounds, taste in men.  If society thinks that two completely different people can’t be compatible, Gyuna and I definitely broke that norm.  Sure, we had our differences and disagreements, but we learned to get through those moments.
 
 At the beginning of the school year, I still had the mentality that making connections and friends was meaningless.  As Gyuna invited me to do things with her and I took her invitations, I felt something—that feeling of being connected to someone.  I usually hung out with her and her boyfriend Christian.  After some time, Gyuna and I became really good friends.
 
-(October 2022) Even though it was great getting to hang out mostly with Gyuna and also Christian, I realized that I was starting to feel social withdrawals for the past month. I noticed that on days that I didn’t hang out with Gyuna, I felt pretty sad and lonely. I didn’t really hang out with anyone else. Sure, I had my research teammates and the TAs in the stats lab and some of my classmates, but it wasn’t like I did anything outside of school with them.
+_(October 2022; college junior) Even though it was great getting to hang out mostly with Gyuna and also Christian, I realized that I was starting to feel social withdrawals for the past month. I noticed that on days that I didn’t hang out with Gyuna, I felt pretty sad and lonely. I didn’t really hang out with anyone else. Sure, I had my research teammates and the TAs in the stats lab and some of my classmates, but it wasn’t like I did anything outside of school with them._
 
-Initially, I got really scared that I was feeling these social withdrawals. I felt like maybe I needed to break off ties with Gyuna. I was still skeptical trying to develop connections and relationships with people because who knew when Gyuna and I wouldn’t be friends anymore? Then what would be the point of all of it? If I were to break off ties with her now, then maybe I wouldn’t worsen the hurt.
+_Initially, I got really scared that I was feeling these social withdrawals. I felt like maybe I needed to break off ties with Gyuna. I was still skeptical trying to develop connections and relationships with people because who knew when Gyuna and I wouldn’t be friends anymore? Then what would be the point of all of it? If I were to break off ties with her now, then maybe I wouldn’t worsen the hurt._
 
-But something made me feel like I shouldn’t give up. Honestly, I couldn’t imagine what it would’ve been like to have a life like I did last school year: studying at the LSB by myself all day, every day. Gyuna, Christian, and I had made so many memories. Nothing was memorable about studying Linux commands or the hypergeometric distribution or the issues of multicollinearity in a regression model other than for exams and my future career. Sure, navigating my career path was very important to me, but something was different about having a social aspect in my life. It was something that I LIKED, and I was initially scared that I liked feeling that way. It had been years since I last felt like I had a social life.
+_But something made me feel like I shouldn’t give up. Honestly, I couldn’t imagine what it would’ve been like to have a life like I did last school year: studying at the LSB by myself all day, every day. Gyuna, Christian, and I had made so many memories. Nothing was memorable about studying Linux commands or the hypergeometric distribution or the issues of multicollinearity in a regression model other than for exams and my future career. Sure, navigating my career path was very important to me, but something was different about having a social aspect in my life. It was something that I LIKED, and I was initially scared that I liked feeling that way. It had been years since I last felt like I had a social life._
 
 Around this time, I had many thoughts about my expectations for dating and marriage.  I noticed a sort of fulfillment that Gyuna and Christian had in a relationship, one I got to see more closely since I felt like most couples didn’t want to associate with me.  The feelings that they shared and the way they interacted with each other were things that I could’ve potentially seen myself with a guy, even though that wasn’t allowed at BYU.  I was still scared to admit that to myself too.  But as I began to pay more attention to my feelings, I sensed that living to be single for the rest of my life would be miserable, even impossible.  I knew that I was supposed to date and marry a girl, but I wondered what dating a guy would be like.  I knew it was a risk because dating someone of the same gender was largely looked down upon at BYU and could lead to disciplinary action if told to the wrong people.
 
-At the time, I still didn’t even know what it actually meant to go on a “date” with someone.  My parents taught me that a date was when a guy and a girl plan to do something and then do it.  They didn’t talk about the emotional aspect of dating.  I prayed and prayed to know if dating guys was a decision I should make.  Eventually, I felt that if it wasn’t right that God would let me know.
+At the time, I still didn’t even know what it actually meant to go on a “date” with someone.  My parents taught me that a date was when a guy and a girl plan to do something and then do it.  They didn’t talk about the emotional aspect of dating.  I prayed and prayed to know if dating guys was a decision I should make.  Eventually, I felt that if it wasn’t right that God would let me know.  I loved how the gospel could allow me to change so that if dating guys was the wrong decision, I didn't have to go back down that path again.
 
 …
 
@@ -109,81 +79,83 @@ I met my first guy on a dating app after about a couple of weeks.  When I told h
 
 I eventually came out to Gyuna.
 
-November 13, 2022. Instead of going to my local ward, Gyuna and I decided to go to one of the Asian wards. Church started an hour later than we thought, so we hung out at the JSB taking pictures.
+_(November 13, 2022; college junior) Instead of going to my local ward, Gyuna and I decided to go to one of the Asian wards. Church started an hour later than we thought, so we hung out at the JSB taking pictures._
 
-Afterwards, Gyuna and I went to her place. She planned on cooking for a bunch of Korean people she had met the past week. I sat on the couch while she took out her cutting board and knife.
+_Afterwards, Gyuna and I went to her place. She planned on cooking for a bunch of Korean people she had met the past week. I sat on the couch while she took out her cutting board and knife._
 
-“Michael, you were so cute in those pictures!” she exclaimed. “Why don’t you go get yourself a wife? And again, you can adopt me. I’ll cook for you all the time, and I’ll make purchases on Amazon all day.”
+_“Michael, you were so cute in those pictures!” she exclaimed. “Why don’t you go get yourself a wife? And again, you can adopt me. I’ll cook for you all the time, and I’ll make purchases on Amazon all day.”_
 
-Ever since Kent and I had that conversation at the library about coming out to someone, I thought a lot about Gyuna. And when I went to Gyuna’s place before my date just a couple days ago, I felt strongly impressed to come out to her. It kept coming to mind. But I was SO scared!
+_Ever since Kent and I had that conversation at the library about coming out to someone, I thought a lot about Gyuna. And when I went to Gyuna’s place before my date just a couple days ago, I felt strongly impressed to come out to her. It kept coming to mind. But I was SO scared!_
 
-It was even weirder that Gyuna had brought up about my fake future wife. I didn’t know how to come out to her. “Uh…” I said.
+_It was even weirder that Gyuna had brought up about my fake future wife. I didn’t know how to come out to her. “Uh...” I said._
 
-“What?”
+_“What?”_
 
-I sighed.	
+_I sighed._	
 
-“What?? You look like something’s on your mind.”
+_“What?? You look like something’s on your mind.”_
 
-My heart raced. “Yeah,” I nervously chuckled.
+_My heart raced. “Yeah,” I nervously chuckled._
 
-“Are you gonna tell me?”
+_“Are you gonna tell me?”_
 
-“I will.”
+_“I will.”_
 
-“When? Like, in a week? Or right now? Do you have to think about what you’re going to say?”
+_“When? Like, in a week? Or right now? Do you have to think about what you’re going to say?”_
 
-“Yeah, I just need to think about how to say it.”
+_“Yeah, I just need to think about how to say it.”_
 
-Gyuna continued to chop some vegetables. “I’m just saying, once you get yourself a girl you’ll fall in love with, you’ll understand.”
+_Gyuna continued to chop some vegetables. “I’m just saying, once you get yourself a girl you’ll fall in love with, you’ll understand.”_
 
-For five minutes, my heart was racing like crazy. I just needed to open my mouth and say it! “So…”
+_For five minutes, my heart was racing like crazy. I just needed to open my mouth and say it! “So...”_
 
-Gyuna continued chopping. “Huh?” she asked as if I had said something more.
+_Gyuna continued chopping. “Huh?” she asked as if I had said something more._
 
-I sighed and squirmed. Why couldn’t I do it?!
+_I sighed and squirmed. Why couldn’t I do it?!_
 
-“So… I actually like guys.”
+_“So... I actually like guys.”_
 
-It was silent for about three seconds. With a surprised expression on her face, Gyuna paused and looked up at me. The tense silence felt like FOREVER. “What?” she asked as if she misheard me.
+_It was silent for about three seconds. With a surprised expression on her face, Gyuna paused and looked up at me. The tense silence felt like FOREVER. “What?” she asked as if she misheard me._
 
-“I like guys,” I repeated. I was SO nervous.
+_“I like guys,” I repeated. I was SO nervous._
 
-“Aw, Michael.” She put down her knife. “I think I should give you a hug.” She walked over and gave me a long hug.
+_“Aw, Michael.” She put down her knife. “I think I should give you a hug.” She walked over and gave me a long hug._
 
-“I’ve been so scared,” I said as she and I continued to hug. “I’ve wanted to tell you this, but I was so scared. You’re the first person I’ve come out to. Literally I haven’t told anyone else.”
+_“I’ve been so scared,” I said as she and I continued to hug. “I’ve wanted to tell you this, but I was so scared. You’re the first person I’ve come out to. Literally I haven’t told anyone else.”_
 
-“Really?!” Gyuna sounded surprised. “I feel so honored! I can’t believe that after all the days of class I’ve missed and all the help I’ve needed on our data science labs that I’d be the first one to know something so personal like this. No one has ever come out to me. So it’s my first too!”
+_“Really?!” Gyuna sounded surprised. “I feel so honored! I can’t believe that after all the days of class I’ve missed and all the help I’ve needed on our data science labs that I’d be the first one to know something so personal like this. No one has ever come out to me. So it’s my first too!”_
 
-“It’s my first, and it’s your first. It’s our first!”
+_“It’s my first, and it’s your first. It’s our first!”_
 
-Gyuna and I laughed. “Sounds weird, but yeah,” she said. “Oh, Michael! Your lips are twitching so much. And your fingers!”
+_Gyuna and I laughed. “Sounds weird, but yeah,” she said. “Oh, Michael! Your lips are twitching so much. And your fingers!”_
 
-“I know, I’m so freaking nervous! I’ve had these feelings for guys for a long time, but I’ve always suppressed them. After my mission, I thought I was going to live single for the rest of my life.”
+_“I know, I’m so freaking nervous! I’ve had these feelings for guys for a long time, but I’ve always suppressed them. After my mission, I thought I was going to live single for the rest of my life.”_
 
-“Aww, Michael! That’s really sad!” Gyuna exclaimed.
+_“Aww, Michael! That’s really sad!” Gyuna exclaimed._
 
-“When I got my internship offer at AT&T, I thought that if I liked the job and received a full-time offer that I’d move to Dallas and work and then do whatever at home by myself. But I’ve realized that I can’t live a life like that forever. It would be so hard, maybe even impossible. I know that faith and feelings can seem like polar opposites, but I don’t feel like it’s a black-and-white thing where I can choose only one and leave the other behind. I don’t plan on leaving the Church until the Church kicks me out. The thing that’s hard for me to understand is why God would allow people to have feelings for the same gender. It’s not something that I have any control over.”
+_“When I got my internship offer at AT&T, I thought that if I liked the job and received a full-time offer that I’d move to Dallas and work and then do whatever at home by myself. But I’ve realized that I can’t live a life like that forever. It would be so hard, maybe even impossible. I know that faith and feelings can seem like polar opposites, but I don’t feel like it’s a black-and-white thing where I can choose only one and leave the other behind. I don’t plan on leaving the Church until the Church kicks me out. The thing that’s hard for me to understand is why God would allow people to have feelings for the same gender. It’s not something that I have any control over.”_
 
-“Well, why does God allow someone to murder someone else?” I guess Gyuna was trying to show compassion, although I didn’t feel like her analogy was at the same level. “Love is such a core part of one’s identity. It’s definitely a difficult situation when it comes to feelings of love.”
+_“Well, why does God allow someone to murder someone else?” I guess Gyuna was trying to show compassion, although I didn’t feel like her analogy was at the same level. “Love is such a core part of one’s identity. It’s definitely a difficult situation when it comes to feelings of love.”_
 
-Gyuna and I sat on the couch and talked for an hour. I talked to her about how I had been using dating apps and had been on a few dates. I also talked to her about how much I liked Kent and my date with him.
+_Gyuna and I sat on the couch and talked for an hour. I talked to her about how I had been using dating apps and had been on a few dates. I also talked to her about how much I liked Kent and my date with him._
 
-After our conversation, Gyuna went back to cooking. I knew I took up a lot of her time, and the people she had invited were coming soon. “Could I help you?” I asked.
+_After our conversation, Gyuna went back to cooking. I knew I took up a lot of her time, and the people she had invited were coming soon. “Could I help you?” I asked._
 
-“Yes, please!” she answered. So we made food together as her friends came by.
+_“Yes, please!” she answered. So we made food together as her friends came by._
 
-After I finished eating, I had plans to go to campus. As I left, Gyuna walked me out. “Be safe!” she exclaimed.
+_After I finished eating, I had plans to go to campus. As I left, Gyuna walked me out. “Be safe!” she exclaimed._
 
-“I will! I’ll see you later!”
+_“I will! I’ll see you later!”_
 
-Coming out to Gyuna was one of the hardest things I did the past school year. But a feeling of relief came over me. I remembered Kent telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders. I don't like to think about what the past school year would've been like if I hadn't come out to her.
+_Coming out to Gyuna was one of the hardest things I did the past school year. But a feeling of relief came over me. I remembered Kent telling me how hard it must have been not coming out to anyone, and maybe that feeling of relief came from an unknown burden that had been lifted from my shoulders. I don't like to think about what the past school year would've been like if I hadn't come out to her._
 
 Gyuna was the only person I came out to for a couple months.  I went to her as I navigated an emotional roller coaster.  I then came out to Christian.  (I also came out to a few other people, but as far as the rest of the reflection, the two of them are relevant.)
 
 Dating guys is so different from dating girls.
 
 As I continued to date guys, I had seen how much I had emotionally and spiritually grown.  The way that straight guys talked about how they felt about dating girls was the same way I felt about dating guys.  Similarly, the way that straight guys felt an aversion to date guys sounded like the way I felt an aversion to date girls.  I never understood what it meant to have a crush on someone because I had suppressed my feelings so much.  Sure, there were physically attractive men, but I never felt the emotional aspect of a crush.  Now I knew what that was like from dating guys.  Being heartbroken was something I never understood until I experienced it myself.  I didn’t get why people put themselves in a relationship, broke up, and then got sad about it.  If they weren’t meant to date or get married, then there must have been someone more compatible, so why be sad about it?
+
+Sexual orientation isn’t just about having sexual feelings for someone.  The way I feel about a guy emotionally, spiritually, and intellectually is different from the way I feel about girls.  I might be physically attracted to a guy, but when I get to know a guy and like him more, the combination of emotional, spiritual, intellectual, physical, and other aspects of a healthy relationship is what I consider to be romantic feelings.
 
 I had many questions regarding the Church and its views on LGBTQ people, but I felt like I could empathize with Eve when she partook of the fruit.  She and Adam could’ve lived a life without experiencing sorrow, pain, and death. They could have lived a life where God was always in their presence. But I began to understand why Adam and Eve felt joy. Even though they would experience those emotions of sorrow, pain, and death, there was joy in experiencing mortality and knowing what emotions were. There was joy in being able to empathize and have compassion for others. They were excited to live a life of mortality, even if they were deprived of immortality and living in the presence of God.
 
@@ -207,6 +179,6 @@ Writing is my most powerful tool in terms of communicating my thoughts and ideas
 
 I’ve written this chapter to help give context to my family, academic, and spiritual background so that the rest of my reflection is more understandable.  In the next chapter, I pick up where I left off with my previous reflection.  Again, the purpose of this reflection is to share my story so that people can understand more about the LGBTQ community, the LDS community, and the Asian community.  Those three communities are not independent of each other.  They all make up part of my identity.  My hope is to help open the reader’s eyes to different perspectives and how those three aspects of my identity affect my perceptions of myself and the world around me.
 
-(End of Chapter 1…)
+(End of Chapter 1...)
 
 Next page -> [Chapter 2: The Meaning Behind a Name]()

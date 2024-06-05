@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Introduction
+author: Michael Okuda
+description: Start here.
+---
+
 Welcome to my reflection!
 
 The purpose of my reflection is to tell my story about what it’s like to be gay, Asian, and LDS as a BYU student.  I feel that listening to an individual’s story is a lot more intimate than generalizing about groups of people from second-hand sources.

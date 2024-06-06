@@ -235,4 +235,20 @@ But yes, I did agree with Nozomu.  President Okuda was CEO first, father second.
 
 (End of Chapter 3...)
 
-Next page -> [Part 2, Chapter 3: Ideals Clash]()
+Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2023/04/05/State-of-the-Soul.html)
+
+---
+
+[Introduction](https://mokuda2.github.io/senioryearreflection/2023/05/01/Introduction.html)
+
+[Chapter 1: The Beginning](https://mokuda2.github.io/senioryearreflection/2023/04/08/The-Beginning.html)
+
+[Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2023/04/07/The-Meaning-Behind-a-Name.html)
+
+[Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2023/04/06/Prodigal-Father-Prodigal-Son.html)
+
+[Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2023/04/05/State-of-the-Soul.html)
+
+[Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
+
+[Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)

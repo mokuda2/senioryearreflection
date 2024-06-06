@@ -5,13 +5,25 @@ author: Michael Okuda
 description: My love-hate relationship towards the BYU community and the gay community
 ---
 
-Note: This chapter is very theoretical and won't contain much story.  I express some of my perspectives that may be uncomfortable and emotionally charging towards the BYU community and the gay community.  This chapter contains some of my personal battles and struggles, so I hope that readers keep that context in mind and create space to be open to perspectives they've not considered before.
+Note: This chapter is very theoretical and won't contain much story.  I express some of my perspectives that may be uncomfortable and emotionally charging towards the BYU community and the gay community.  This chapter contains some of my personal battles and struggles, so I hope that readers keep that context in mind and create space to be open to perspectives they've not considered before.  In an episode from Questions from the Closet, Ben, Charlie, and Aliah do an amazing job at explaining [what minority stress is](https://questionsfromthecloset.com/episode/?s=4&e=7) and how it affects minority groups' thoughts and behavior, which will be what most of this chapter will be about.
 
 ## Section 1
 
 Dating life this semester was pretty mundane.  I was using dating apps but mostly to find friends.  By the end of the semester, I figured that dating apps weren’t tools for finding friends.  Obviously.  But I didn’t like how after one date, I’d never see the guy again, even if I left on good terms.  I wanted to meet and hang out with people like I did at institute.
 
 I watched a few episodes of Parks and Rec on a few different occasions with one guy.  I went on a few “dates” with another guy who was completely new to dating.  There was another guy I went on “dates” with for about a month.  They all seemed more interested in me than I wanted them to be, so none of them became my friends.  Thankfully, dating life wasn’t as emotional of a roller coaster as last school year.
+
+I had four categories or "evaluation criteria" I used to evaluate how interested I was in pursuing something further when dating a guy.  From greatest importance to least, I evaluated character, looks, personality, and interests.
+
+First, character.  I think about Christlike attributes when it comes to a person's character.  Developing one's character is something everyone has control over.  Anyone could be respectful.  Anyone could be patient.  It comes down to how one is developing those attributes and which attributes he values most.  I also consider intelligence to be part of character.  How does he develop and use his academic, social, and emotional intelligence?  What goals does he have?  Character isn't something I find in someone immediately on the first or second date.  I think a true person's character shows when the "impressing the other person" stage dies down.
+
+Second, looks.  I think straight guys and gay guys share common ground where appearance is an important factor in finding a partner.  If I had to date a girl, I'd tell her straight up that I'm dating her for her personality and not her looks.  In photos or videos of couples, I always look at the guy.  I don't care about the girl's appearance.
+
+Third, personality.  I see this as more of the innate or unique part of a person.  One person can be loud and another person can be reserved, but both can express respect or kindness in their own ways.  That's how I differentiate personality from character.
+
+Fourth, interests.  Commonality in interests isn't something I value as much as I value how well a guy communicates or treats other people, but similar interests can be a great way to connect.
+
+At least for the moment, dating life was pretty bland.  I really just wanted to find good friends and influences.
 
 ...
 
@@ -39,7 +51,7 @@ For a white child to grow up in a society where being white was a privilege and 
 
 I also wondered what it would have been like being a black member and a white member in the 1950s. Black people couldn’t go through the temple or receive the priesthood during that time, which also implied that they couldn’t receive exaltation. Of course, it’s easy to look back in retrospect and say that anyone can enjoy the blessings of the priesthood now, but how did black members back then keep to the faith? It must have been pretty normal to receive discouraging news like that living in a society where they were treated poorly anyway.
 
-Black people not receiving the priesthood implied more than just not receiving exaltation.  They were certainly viewed as undesirable.  White members who had hopes for exaltation couldn’t marry a black person.  What was the point of marrying a black person or even thinking that a black person was desirable if the marriage couldn’t last into the eternities? The way that sealings couldn’t be done if a black person were involved might have been the way some members of the Church viewed same-sex marriage. On top of not being able to make temple covenants, the poor socioeconomic and low educational backgrounds of black people probably made them even less desirable.  With such perceptions, black bodies were probably equivalently viewed as telestial bodies.  And someone who wanted a celestial body didn’t want a telestial one.
+Black people not receiving the priesthood implied more than just not receiving exaltation.  They were certainly viewed as undesirable.  White members who had hopes for exaltation couldn’t marry a black person.  The way that sealings couldn’t be done if a black person were involved might be the way some members of the Church view same-sex marriage. On top of not being able to make temple covenants, the poor socioeconomic and low educational backgrounds of black people probably made them even less desirable.  With such perceptions, black bodies were probably equivalently viewed as telestial bodies.  If members of the Church back then were to take President Nelson's invitation to "think celestial," what was the point of marrying a black person or even thinking that a black person was desirable if the marriage couldn’t last into the eternities?  Someone who wanted a celestial body didn’t want a telestial one.
 
 Support from outside a minority community is crucial for change.  It was obviously so for LGBTQ people’s journeys, which was why allies were so crucial.  While people in the LGBTQ community can share their stories and experiences all they want, their voices are in vain if people in the majority don’t do anything about it.
 
@@ -53,7 +65,7 @@ As far as hanging out with people at institute, Tao said he was open to have a t
 
 It was cool to hear Tao’s story, and I also got to share mine.  The different ways that our family members reacted were pretty similar, where some were supportive and others not so much.  Tao and I were able to get to know each other a lot better since the only times we hung out were with the rest of the institute people.  Everyone loved Tao, including me.  He was probably the most inclusive person I knew and was the glue who held the group together.  The group of us did a lot of activities together outside of Taco Tuesdays at Don Joaquin: karaoke and cookie taste testing, making friendship bracelets while listening to Taylor Swift’s new album, and an upcoming Friendsgiving party.  I felt like after getting to know Tao better, I felt a lot more comfortable being in the group.
 
-…
+...
 
 Finding a community where one feels loved and belonged is a part of human nature and desire.  Communities are an economical way for people to connect due to common ground.  Why is it important for people to gather and connect?  It gives them opportunities to listen and have compassion for others who not only have similar experiences and perspectives but also different ones, knowing that common ground is what holds people together.  I don’t believe that the celestial kingdom is going to be a siloed place where each family is in a separate group from the rest.
 
@@ -107,7 +119,9 @@ She and I talked for a bit before she called Christian in hopes to get validatio
 
 If Sam Smith University were a hypothetical school where the majority were gay men like it was with LDS people at BYU, Asian men would probably still be treated as alien and undesirable.  In other words, gather enough gay people as a society, and they’d marginalize people too.  It didn’t matter what community was considered a majority.  Minorities too could act like marginalizing majorities.  The gay community and the BYU community are strikingly similar in that respect.
 
-I felt like the stereotypes of Asian men from the perspective of people in the gay community came from media much like any other community.  Stereotypes were so powerful sometimes.  For example, I met many people on my mission who made assumptions about the LDS community that were often skewed or expressed in a negative manner.  They often got their sources from media outside the Church and didn’t ask members of the Church about their experiences.  Similarly, I felt like people who were anti-LGBTQ listened to the radical news of the media.  Chances were, they hadn’t listened to individuals’ stories and gotten to know them as people.  It didn’t help that a lot of media hypersexualized gay people.  It was probably why many people stereotyped homosexual feelings and relationships to be evil.
+Thoughts about plastic surgery came from trying to fit in and find acceptance from both communities.  There was one question that often came to mind before my operation: if I get plastic surgery, how would I perceive those in the Asian community who don't have double eyelids?  Would I look down upon them?  If I said yes, then I would be guilty of what the BYU community and the gay community do to those who are perceived as less than the standard.  If I said no, then why did I want to get plastic surgery in the first place?
+
+I felt like the stereotypes of Asian men from the perspective of people in the gay community came from media much like any other community.  Stereotypes were so powerful sometimes.  For example, I met many people on my mission who made assumptions about the LDS community that were often skewed or expressed in a negative manner.  They often got their sources from media outside the Church and didn’t ask members of the Church about their experiences.  Even when I tried to correct them, they insisted that what they had read or seen was fact.  Similarly, I felt like people in the gay community were so fixed in their mindset of what an Asian man was supposed to look like that even if they saw a tall, muscular Asian man, he'd still be undesirable because he was stereotyped to be what an Asian man is supposed to look like.
 
 There was another aspect that made LGBTQ-related concerns more complex where media was a strong influence: politics.  In the US, a lot of people are passionate about their political label.  From the perspective of someone who didn’t grow up being educated in American politics, I observed that there are two big parties that are often polarizing.  One side calls themselves Democrats or liberals.  The other side calls themselves Republicans or conservatives.  What I never understood was why people used their labels as an influence on their opinions.
 
@@ -115,7 +129,7 @@ I heard many liberals talk about how conservatives try to pass anti-LGBTQ laws o
 
 Section 3
 
-January 1, 2024.  I spent Christmas break in Connecticut with Nozomu and Deanna.  They had a daughter named Mitsuki who was almost three months old, so that was the first time I got to see my niece.  They played Japanese nursery songs and read Japanese baby books to her, which I approved.
+January 1, 2024.  I spent Christmas break in Connecticut with Nozomu and Deanna.  They had a daughter who was almost three months old, so that was the first time I saw my niece.  They played Japanese nursery songs and read Japanese baby books to her, which I approved.
 
 “You don’t have to answer this question if you don’t want to, but do you have a secret boyfriend?” Deanna asked.
 
@@ -123,7 +137,7 @@ January 1, 2024.  I spent Christmas break in Connecticut with Nozomu and Deanna.
 
 “I feel like out of all of us in the Okuda family, you definitely got the BYU dating experience.”
 
-I smiled.  “The BYU dating experience?  I think my experience has been pretty different.”
+“Me?  The BYU dating experience?  I think my experience has been pretty different.”
 
 “You went on lots of dates.  I certainly didn’t have that kind of experience.”  She continued.  “I hope you know that this is a safe space to talk about your dating life.  I know BYU can be very isolating in that respect.  My dad has a brother and a sister who are gay.”  I wondered if she knew that Nozomu told me he wasn’t supportive of my decision to date guys.  I also wondered how Nozomu reacted when he found out that Deanna had gay relatives.  It seemed like he was okay with it since he said positive things about Deanna’s uncle and his husband.  Nozomu also showed me a cookbook they bought written by a gay person.
 
@@ -135,7 +149,23 @@ Even though I still didn’t feel Nozomu’s support, I felt that Deanna was ano
 
 I was excited to begin my last semester.  I wanted to end strong academically, socially, and spiritually.  I didn’t see any prospects as far as dating, but maybe someone would surprise me.
 
-(End of Chapter 4…)
+(End of Chapter 4...)
 
 
-Next page -> [Chapter 5: Playing with Fire]()
+Next page -> [Chapter 5: Playing with Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
+
+---
+
+[Introduction](https://mokuda2.github.io/senioryearreflection/2023/05/01/Introduction.html)
+
+[Chapter 1: The Beginning](https://mokuda2.github.io/senioryearreflection/2023/04/08/The-Beginning.html)
+
+[Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2023/04/07/The-Meaning-Behind-a-Name.html)
+
+[Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2023/04/06/Prodigal-Father-Prodigal-Son.html)
+
+[Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2023/04/05/State-of-the-Soul.html)
+
+[Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
+
+[Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)

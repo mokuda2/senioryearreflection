@@ -181,7 +181,7 @@ I’ve written this chapter to help give context to my family, academic, and spi
 
 (End of Chapter 1...)
 
-Next page -> [Chapter 2: The Meaning Behind a Name]()
+Next page -> [Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2023/04/07/The-Meaning-Behind-a-Name.html)
 
 ---
 

@@ -5,25 +5,21 @@ author: Michael Okuda
 description: An analysis of the emotional relationship between my immediate family members and me
 ---
 
-(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked.
+_(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._
 
-“Yeah, just my best friend,” I answered.
+_“Yeah, just my best friend,” I answered._
 
-“What makes you hesitant about coming out to your family if you don’t mind me asking?”
+_“What makes you hesitant about coming out to your family if you don’t mind me asking?”_
 
-“I honestly haven’t felt like it’s right to tell them, even though I’ve thought a lot about coming out to them. I think I’d tell my parents first, but I could definitely see my mom telling everyone else in the family, so I feel like it should be no one or everyone when I come out. I should be the one telling that story. Even though it was scary to tell my best friend, I felt like it was right for me to tell her when I did. Plus, my family isn’t really my go-to when I want to talk about concerns or problems.”
+_“I honestly haven’t felt like it’s right to tell them, even though I’ve thought a lot about coming out to them. I think I’d tell my parents first, but I could definitely see my mom telling everyone else in the family, so I feel like it should be no one or everyone when I come out. I should be the one telling that story. Even though it was scary to tell my best friend, I felt like it was right for me to tell her when I did. Plus, my family isn’t really my go-to when I want to talk about concerns or problems.”_
 
-“How do you think your parents would react if you told them?”
+_“How do you think your parents would react if you told them?”_
 
-“Hm… I don’t know. They’re not very expressive. In the past, I feel like when I’ve gone to them for help with life situations, they don’t seem to care that much unless it affects their reputation. My dad was a stake president when I was in middle school and high school, and he’s a mission president now. Maybe they’ll care because ‘the mission president’s son’ is gay. But I honestly don’t know. I don’t see them kicking me out of the family, but I could see them not caring or not being supportive.”
+_“Hm... I don’t know. They’re not very expressive. In the past, I feel like when I’ve gone to them for help with life situations, they don’t seem to care that much unless it affects their reputation. My dad was a stake president when I was in middle school and high school, and he’s a mission president now. Maybe they’ll care because ‘the mission president’s son’ is gay. But I honestly don’t know. I don’t see them kicking me out of the family, but I could see them not caring or not being supportive.”_
 
-Chapter 3: Prodigal Father, Prodigal Son (September 22, 2023 – October 7, 2023)
+## Section 1
 
-An analysis of the emotional relationship between my immediate family members and me
-
-Section 1
-
-September 22, 2023.  Even though I had a full-time job secured, I began to feel depressed thinking about moving to Dallas.  I realized that there was a community of people in Utah who valued both the gospel and their orientation.  It was something I wanted to find ever since I came out to myself.  I wasn’t sure if I was going to find that in Dallas.  There weren’t as many members there, even less so LGBTQ members.
+September 22, 2023.  Even though I had a full-time job secured, I began to feel depressed thinking about moving to Dallas.  After attending Gather Conference and a few classes of institute, I realized that there was a community of people in Utah who valued both the gospel and their orientation.  It was something I wanted to find ever since I came out to myself.  I wasn’t sure if I was going to find that in Dallas.  There weren’t as many members there, even less so LGBTQ members.
 
 Even though I was going to be moving to Dallas not even a year later, I wanted to find friends and make new connections.  There was value in creating memories with people.  It was also good practice for me in preparation for Dallas, and I knew it was an attribute I wanted in a future husband.
 
@@ -31,7 +27,7 @@ As I interacted with people from institute and felt safe being in that space, I 
 
 Even though I’m not publicly out, having an Asian body was in some ways like being publicly out, especially when trying to adapt to an environment of white people who made up the majority at BYU.  I often felt like because I looked different from everyone else in my ward that I was too different to be associated with.  I didn’t feel integrated in any of my wards during my time at BYU.  Before I acknowledged my orientation, the only reason I came to church (other than it being mandatory to continue attending BYU) was to develop my relationship with God.  It wasn’t until I went to institute this semester when I realized that I had forgotten how friendships in church could help me feel the Spirit more.
 
-…
+...
 
 September 27, 2023.  Sister Okuda video chatted me about something logistical, probably about ordering contact lens solution.  It was going to be just the usual five-minute conversation, but I wanted to know what her thoughts were about my reflection.  Even during the time that she and President Okuda were reading a chapter of my reflection together, she didn’t say anything.
 
@@ -59,7 +55,7 @@ She and I talked for about an hour.  "You're grown up, and I can't make decision
 
 I knew going in that not everything would make sense to her and that I’d have to be patient.  She said she wanted to know more about my dating life, so I took that as a step of progress.
 
-Section 2
+## Section 2
 
 October 3, 2023.  Institute was only during September and November this semester, but Tao and other people in the class still met weekly to eat out.
 
@@ -91,67 +87,67 @@ In a hypothetical situation, if God created man and woman such that people of th
 
 Those were the reasons why it hurt listening to President Nelson and President Oaks say that we the use of our agency in this life would determine what kingdom and type of body we’d have, that we should think celestial, that God wouldn’t force anyone into a sealed relationship.  Of course I had a desire to live with God.  Of course I wanted exaltation.  But was exaltation a reality for me?  No, it didn’t seem like it for my situation.  I could use my agency to marry a woman, but that decision was incongruent with my feelings.  It was probably how a straight person would feel having to date and marry someone of the same gender.  So then I would just go through the motions, which was considered “not enough.”  It was as if LGBTQ people were cursed, that we had no hope for the end goal many of us desired.
 
-Section 3
+## Section 3
 
 October 6, 2023.
 
-President Okuda: Hello, Michael!  How are you doing?  I felt prompted to warn you so you won’t be deceived and do things that bring regrets afterwards.  A verse from the D&C 89 came to me, “In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation”.   Please come to me if you don’t know what to do or need someone to talk to.  You will find safety and enduring happiness in staying on the covenant path.  “Some blessings come soon, some come late, and some don’t come until heaven; but for those who embrace the gospel of Jesus Christ, they come”, said Elder Holland.  I testify of what he said is true.
+```President Okuda: Hello, Michael!  How are you doing?  I felt prompted to warn you so you won’t be deceived and do things that bring regrets afterwards.  A verse from the D&C 89 came to me, “In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation”.   Please come to me if you don’t know what to do or need someone to talk to.  You will find safety and enduring happiness in staying on the covenant path.  “Some blessings come soon, some come late, and some don’t come until heaven; but for those who embrace the gospel of Jesus Christ, they come”, said Elder Holland.  I testify of what he said is true.```
 
-Me: What made you feel prompted to share this with me?
+```Me: What made you feel prompted to share this with me?```
 
-President Okuda: I was watching news from Japan on a single mother with 3 young children being arrested for a part-time job she found on social media.  She was charged for selling stolen items online.  She did not know that she was engaged in an illegal act.  Somehow, it led me to feel that I need to warn and protect you.
+```President Okuda: I was watching news from Japan on a single mother with 3 young children being arrested for a part-time job she found on social media.  She was charged for selling stolen items online.  She did not know that she was engaged in an illegal act.  Somehow, it led me to feel that I need to warn and protect you.```
 
-Me: What does the story have to do with staying on the covenant path and having certain blessings?
+```Me: What does the story have to do with staying on the covenant path and having certain blessings?```
 
-President Okuda: So revelation and spiritual promptings can come from an experience we each have.  But sometimes, what we are prompted to do may have little to do with the experience.  For example, I try to take notes while watching General Conference talks.  What I am impressed to write down often has nothing to do with the topic being discussed.  Don’t you have those experiences?
+```President Okuda: So revelation and spiritual promptings can come from an experience we each have.  But sometimes, what we are prompted to do may have little to do with the experience.  For example, I try to take notes while watching General Conference talks.  What I am impressed to write down often has nothing to do with the topic being discussed.  Don’t you have those experiences?```
 
 Of course President Okuda would act like I was socially unintelligent enough to not understand his indirect comments about my orientation and decision to date guys.  I didn’t like how he acted that way.  I got straight to the point.
 
-Me: Yes, so what are your thoughts about me continuing to date guys?
+```Me: Yes, so what are your thoughts about me continuing to date guys?```
 
-President Okuda: Under “Your body is sacred” chapter of the “For the strength of Youth Guide”, it has this entry: “I am attracted to people of my same sex. How do these standards apply to me? Feeling same-sex attraction is not a sin. If you have these feelings and do not pursue or act on them, you are living Heavenly Father’s sacred law of chastity.”  I think the safety is found in following the counsel on “not pursue or act on them.”   You can and should spend time with boys, like your roommates, Church friends in your ward, classmates, coworkers, etc.  That is very natural and your life will be more fulfilling.
+```President Okuda: Under “Your body is sacred” chapter of the “For the strength of Youth Guide”, it has this entry: “I am attracted to people of my same sex. How do these standards apply to me? Feeling same-sex attraction is not a sin. If you have these feelings and do not pursue or act on them, you are living Heavenly Father’s sacred law of chastity.”  I think the safety is found in following the counsel on “not pursue or act on them.”   You can and should spend time with boys, like your roommates, Church friends in your ward, classmates, coworkers, etc.  That is very natural and your life will be more fulfilling.```
 
-Me: What makes you think that the feelings I have for guys aren't worthy to have action but your feelings for women are ok? If the Church didn't say that acting on those feelings is bad, specifically the feelings that I have, would you feel ok about it?
+```Me: What makes you think that the feelings I have for guys aren't worthy to have action but your feelings for women are ok? If the Church didn't say that acting on those feelings is bad, specifically the feelings that I have, would you feel ok about it?```
 
-President Okuda: It is not okay to act on our base desire regardless of male or female.  In Heavenly Father’s plan of happiness, agency, the power to act for ourselves, is vital.  He loves each and every one of us and desires for us to receive a fullness of joy as He does.   How we use that agency is key to our happiness and the test of our mortality.  As in ancient days, prophets warn us of danger ahead of us and lead us to safety.   Heeding to their counsel brings us closer to our Savior.  https://www.churchofjesuschrist.org/study/general-conference/1997/04/finding-safety-in-counsel?lang=eng
+```President Okuda: It is not okay to act on our base desire regardless of male or female.  In Heavenly Father’s plan of happiness, agency, the power to act for ourselves, is vital.  He loves each and every one of us and desires for us to receive a fullness of joy as He does.   How we use that agency is key to our happiness and the test of our mortality.  As in ancient days, prophets warn us of danger ahead of us and lead us to safety.   Heeding to their counsel brings us closer to our Savior.  https://www.churchofjesuschrist.org/study/general-conference/1997/04/finding-safety-in-counsel?lang=eng```
 
-Me: So if the Church told you that you shouldn't act on your feelings for women at all, would you?
+```Me: So if the Church told you that you shouldn't act on your feelings for women at all, would you?```
 
-President Okuda: Please study the talk I shared with you.  He testifies of an eternal principle that benefits all of us if it is understood and applied to our own lives.
+```President Okuda: Please study the talk I shared with you.  He testifies of an eternal principle that benefits all of us if it is understood and applied to our own lives.```
 
 I read the talk.
 
-Me: I think that it is valid for some people to have questions about what the prophets say. There are some things that may be difficult to understand, and I think that's why it's important to ask God about it and receive personal revelation. However, I don't feel that there's much understanding of what the LGBTQ community goes through. A lot of us feel like the prophets talk about us, but not really to us other than when President Ballard said that we need to listen and understand what the LGBTQ community goes through. I think that being straight is a privilege and can be taken for granted because their feelings align with the counsel that the prophets have given. I've prayed and have searched for answers with God about my orientation, and I feel like there's been good fruit that has come from dating guys, like empathy and compassion for those who are dating and in relationships. I think one effect of straight privilege is to disregard questions and situations that would put you in someone's shoes like mine, like the question I asked about how you'd feel if the Church told you that you couldn't act on your feelings for women at all. I genuinely think that the prophets have good intentions when they speak, but they too are imperfect. They don't completely understand what it's like to be in the LGBTQ community, and I think the Church over time has made some progress in its views about those people. But I think that's where personal revelation has been important for me.
+```Me: I think that it is valid for some people to have questions about what the prophets say. There are some things that may be difficult to understand, and I think that's why it's important to ask God about it and receive personal revelation. However, I don't feel that there's much understanding of what the LGBTQ community goes through. A lot of us feel like the prophets talk about us, but not really to us other than when President Ballard said that we need to listen and understand what the LGBTQ community goes through. I think that being straight is a privilege and can be taken for granted because their feelings align with the counsel that the prophets have given. I've prayed and have searched for answers with God about my orientation, and I feel like there's been good fruit that has come from dating guys, like empathy and compassion for those who are dating and in relationships. I think one effect of straight privilege is to disregard questions and situations that would put you in someone's shoes like mine, like the question I asked about how you'd feel if the Church told you that you couldn't act on your feelings for women at all. I genuinely think that the prophets have good intentions when they speak, but they too are imperfect. They don't completely understand what it's like to be in the LGBTQ community, and I think the Church over time has made some progress in its views about those people. But I think that's where personal revelation has been important for me.```
 
-President Okuda: I agree with your statement about how personal revelation is so important.  I also agree with your statement about your personal growth in empathy and compassion for others.  As you said, no one understands what another person really goes through.  Those who have gone through a similar experience can empathize more and appreciate what others go through.  That’s why Church leaders are not exempted from life-challenges.  In fact, many are acquainted intimately with sorrows and heartaches of life.  Some of the General Authorities whom I became close with have gone through really difficult times in life (e.g., I spent one week with Elder Esplin, the first assignment he had as a General Authority to tour a portion of the Area he is assigned to serve in https://www.churchofjesuschrist.org/study/liahona/2023/05/new-callings/elder-j-kimo-esplin?lang=eng. In spite of or perhaps precisely because of the tragedies he experienced, he is the most cheerful and down-to-earth person I have met.  He is very friendly and considerate of the needs of others.). That’s why Christ was not spared from all ridicules, being different from others, not being understood, even being betrayed, falsely accused and judged, even forsaken and killed.  In spite of or precisely because of the most difficult life He lived, he is never bitter about His life and He extends his mercy and compassion to all of us because He understands what we go through and comforts us as we go through our own Gethsemane.
+```President Okuda: I agree with your statement about how personal revelation is so important.  I also agree with your statement about your personal growth in empathy and compassion for others.  As you said, no one understands what another person really goes through.  Those who have gone through a similar experience can empathize more and appreciate what others go through.  That’s why Church leaders are not exempted from life-challenges.  In fact, many are acquainted intimately with sorrows and heartaches of life.  Some of the General Authorities whom I became close with have gone through really difficult times in life (e.g., I spent one week with Elder Esplin, the first assignment he had as a General Authority to tour a portion of the Area he is assigned to serve in https://www.churchofjesuschrist.org/study/liahona/2023/05/new-callings/elder-j-kimo-esplin?lang=eng. In spite of or perhaps precisely because of the tragedies he experienced, he is the most cheerful and down-to-earth person I have met.  He is very friendly and considerate of the needs of others.). That’s why Christ was not spared from all ridicules, being different from others, not being understood, even being betrayed, falsely accused and judged, even forsaken and killed.  In spite of or precisely because of the most difficult life He lived, he is never bitter about His life and He extends his mercy and compassion to all of us because He understands what we go through and comforts us as we go through our own Gethsemane.```
 
-Me: So far, I do not feel much support or love from you about my decision. I don't think and expect for you to understand exactly what I'm going through. But I think there are a lot of fears and misunderstandings about LGBTQ people that have made several people say and act in ways that aren't Christlike and in some ways are just downright incorrect. Everyone goes through trials. Of course. However, just because everyone goes through trials doesn't mean that we can understand what people go through. As I've talked to others in the LGBTQ community, I think we can agree that we've all felt misunderstood at one point or another.
+```Me: So far, I do not feel much support or love from you about my decision. I don't think and expect for you to understand exactly what I'm going through. But I think there are a lot of fears and misunderstandings about LGBTQ people that have made several people say and act in ways that aren't Christlike and in some ways are just downright incorrect. Everyone goes through trials. Of course. However, just because everyone goes through trials doesn't mean that we can understand what people go through. As I've talked to others in the LGBTQ community, I think we can agree that we've all felt misunderstood at one point or another.```
 
 President Okuda was sending me links to talks, so in defense, I sent a link of Ben and Charlie’s podcast and talked about who they were.  I specifically shared their most recent episode about the past general conference and how to cope with the hurt.
 
-President Okuda: Thanks for sharing with me the link.  I admire their courage to share some of their difficult experiences for the benefit of others and try their best to honor the covenants they made with God and keep their faith.  In the “Same-Sex Attraction” page of “Topics and Questions” module in the Gospel Library, it says, 
+```President Okuda: Thanks for sharing with me the link.  I admire their courage to share some of their difficult experiences for the benefit of others and try their best to honor the covenants they made with God and keep their faith.  In the “Same-Sex Attraction” page of “Topics and Questions” module in the Gospel Library, it says,```
 
-“Same-sex attraction refers to emotional, physical, or sexual attraction to a person of the same gender. The experience of same-sex attraction is not the same for everyone. Some people may feel exclusively attracted to the same gender, while others may feel attracted to both genders.
+```“Same-sex attraction refers to emotional, physical, or sexual attraction to a person of the same gender. The experience of same-sex attraction is not the same for everyone. Some people may feel exclusively attracted to the same gender, while others may feel attracted to both genders.```
 
-“The Church distinguishes between same-sex attraction and homosexual behavior. People who experience same-sex attraction or identify as gay, lesbian, or bisexual can make and keep covenants with God and fully and worthily participate in the Church. Identifying as gay, lesbian, or bisexual or experiencing same-sex attraction is not a sin and does not prohibit one from participating in the Church, holding callings, or attending the temple.”  
+```“The Church distinguishes between same-sex attraction and homosexual behavior. People who experience same-sex attraction or identify as gay, lesbian, or bisexual can make and keep covenants with God and fully and worthily participate in the Church. Identifying as gay, lesbian, or bisexual or experiencing same-sex attraction is not a sin and does not prohibit one from participating in the Church, holding callings, or attending the temple.”```
 
-There is safety and abundant blessing in making covenants with God and trying our best to keep and uphold our covenants.
+```There is safety and abundant blessing in making covenants with God and trying our best to keep and uphold our covenants.```
 
 He was just repeating a bunch of stuff that I knew and that brought me pain.  It was apparent that he wasn’t in a position to listen.
 
-Me: I can sort of understand that as a mission president, there isn't much flexibility in being open to different perspectives since you kinda have to follow what your leaders say, but the reason I keep my covenants isn't simply because someone tells me to. I've had experiences with keeping my covenants that have been good, even if it isn't always easy.
+```Me: I can sort of understand that as a mission president, there isn't much flexibility in being open to different perspectives since you kinda have to follow what your leaders say, but the reason I keep my covenants isn't simply because someone tells me to. I've had experiences with keeping my covenants that have been good, even if it isn't always easy.```
 
-Again, I think it's easy for straight people to take for granted their sexuality. I think it's easy for you to say to go through the motions of keeping covenants since your feelings align naturally with dating and marriage. I hope you'll have more compassion with people who are in my situation. It is not so black and white for us.
+```Again, I think it's easy for straight people to take for granted their sexuality. I think it's easy for you to say to go through the motions of keeping covenants since your feelings align naturally with dating and marriage. I hope you'll have more compassion with people who are in my situation. It is not so black and white for us.```
 
-President Okuda: “I’ve had experiences with keeping my covenants that have been good, even if it isn’t always easy.”  Thumbs Up!
+```President Okuda: “I’ve had experiences with keeping my covenants that have been good, even if it isn’t always easy.”  Thumbs Up!```
 
 He probably didn’t realize that it was people like him who didn’t have an open mind and heart that made it difficult to keep to the faith.
 
-Me: And what you consider to not be keeping my covenants with dating guys has also been good. I've had spiritual experiences and insights from them too.
+```Me: And what you consider to not be keeping my covenants with dating guys has also been good. I've had spiritual experiences and insights from them too.```
 
 I knew that it would take patience and time for my family members to come to terms with my sexual orientation, but the way that President Okuda reacted to the thoughts I shared not only of this conversation but also about reading “Harry Potter” and to says something as childlike as “guys don’t get to know each other through dating apps” made me feel absolutely hurt and livid.
 
-(August 2023; college senior) In theory, most of my family members gave supporting words, but in reality, would they want to listen to me and want to learn more about my dating life?  Maybe the real question was if I would feel comfortable talking about my dating life with them.  I wasn’t sure what I could do to reassure myself that they were supportive of me.
+_(August 2023; college senior) In theory, most of my family members gave supporting words, but in reality, would they want to listen to me and want to learn more about my dating life?  Maybe the real question was if I would feel comfortable talking about my dating life with them.  I wasn’t sure what I could do to reassure myself that they were supportive of me._
 
 I needed to talk to someone about how I felt with President Okuda’s reaction to my reflection.  My go-to was usually Gyuna, but she was so unavailable these days.  When I tried to invite her to do things, she either didn’t respond or said she was too busy.  I decided to not bother her after several invitations.
 
@@ -159,7 +155,7 @@ I also thought about Shari.  She knew both President Okuda and me, so I felt lik
 
 I hesitantly messaged Shari and asked if I could stop by to talk to her about President Okuda’s words.  She responded enthusiastically saying I could come over, so she and I set up a time.
 
-Section 4
+## Section 4
 
 October 7, 2023.  I went to Shari’s place and hung out with my 10-month-old nephew Kiyoshi for the first bit.  I tried to figure out how I could talk about President Okuda, but it felt so unnatural to bring up the subject to someone outside of my friends.
 
@@ -199,7 +195,7 @@ During the conversation, Shari shared her feelings and relationship with Preside
 
 After some conversation, I felt more at ease.  I was super grateful that I had talked to Shari.  I couldn’t remember the last time I had a deep conversation like this with her.  I knew she would be safe to talk to.
 
-…
+...
 
 In Luke 15, we read the parable of the prodigal son.  According to the Merriam-Webster dictionary, “prodigal” is “characterized by profuse or wasteful expenditure; lavish.”  The son chose to leave his family and waste his inheritance.
 
@@ -219,13 +215,13 @@ I found it ironic that President Okuda didn’t empathize with me.
 
 A few days after the exchange with President Okuda, he messaged me:
 
-President Okuda: I love you!
+```President Okuda: I love you!```
 
 I was insulted.
 
-Me: Why? Merely because the Church commands you to love your children? Or because you actually care about me regardless of what people say or my circumstances? Cuz I feel like it’s more of the former.
+```Me: Why? Merely because the Church commands you to love your children? Or because you actually care about me regardless of what people say or my circumstances? Cuz I feel like it’s more of the former.```
 
-President Okuda: I just had that feeling come to me.
+```President Okuda: I just had that feeling come to me.```
 
 Telling me that I was loved didn’t make me feel any better about my relationship with President Okuda nor was it an apology for the way he reacted.  I didn’t want an apology until he knew why his words were hurtful.  This situation was just another piece of evidence why I didn’t like being emotionally vulnerable around my family.  It confirmed to me that it really was better to hide myself growing up.
 

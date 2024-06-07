@@ -39,7 +39,7 @@ _“Maybe because she’s nice.” That could’ve been a potential reason I’d
 
 _“So... Marriage is more than just a ceremony? You have to feel a certain way about someone?”_
 
-_Both Mom and Dad nodded. I guess they weren’t as mechanical as I thought they were. It sounded like they knew what romantic love was. Maybe they’d have a level of understanding of my situation. Or maybe they wouldn’t and would act like privileged straight people. Either way, there was something that they should’ve been happy about. If they were more mechanical when it came to emotions, then all the times when I was with Gyuna would’ve fit Mom and Dad’s definition of a date. I definitely went on countless “dates” with them. But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally developed from dating guys. And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality._
+_Both Mom and Dad nodded. I guess they weren’t as mechanical as I thought they were. It sounded like they knew what romantic love was. Maybe they’d have a level of understanding of my situation. Or maybe they wouldn’t and would act like privileged straight people. Either way, there was something that they should’ve been happy about. If they were more mechanical when it came to emotions, then all the times when I was with Gyuna would’ve fit Mom and Dad’s definition of a date. I definitely went on countless “dates” with her. But if Mom and Dad had some compassion, then maybe they’d see how much I had emotionally developed from dating guys. And I knew that I’d have to be patient with them, just as it took me a long time for me to accept my reality._
 
 ---
 

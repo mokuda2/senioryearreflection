@@ -231,7 +231,7 @@ But yes, I did agree with Nozomu.  President Okuda was CEO first, father second.
 
 (End of Chapter 3...)
 
-Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2023/04/05/State-of-the-Soul.html)
+Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2024/04/05/State-of-the-Soul.html)
 
 ---
 

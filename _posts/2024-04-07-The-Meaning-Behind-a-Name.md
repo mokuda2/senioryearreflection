@@ -335,7 +335,7 @@ But even though I was glad that I had plans after graduation, there was somethin
 
 (End of Chapter 2...)
 
-Next page -> [Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2023/04/06/Prodigal-Father-Prodigal-Son.html)
+Next page -> [Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2024/04/06/Prodigal-Father-Prodigal-Son.html)
 
 ---
 

@@ -595,7 +595,7 @@ Or so I thought.
 
 (End of Chapter 5...)
 
-Next page -> [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)
+Next page -> [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2024/03/03/A-Glance-at-the-Steppingstones.html)
 
 ---
 

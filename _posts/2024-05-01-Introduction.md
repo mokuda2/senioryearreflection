@@ -25,7 +25,7 @@ For safety and privacy reasons, I have not used the actual names of those in the
 
 Chapter 1 is mostly a summary of my junior year reflection and anything that will help bring context in passages of my senior year.  Starting in chapter 2, I pick up where I left off from my junior year reflection and jump into my senior year.
 
-I hope you can take away something valuable from my reflection, whether it be a perspective you’ve never heard or thought of before or a lesson learned from my experiences.  Again, I hope you enjoy reading my reflection!
+I hope you can take away something valuable from my reflection, whether it be a perspective you’ve never thought of or a lesson learned from my experiences.  Again, I hope you enjoy reading my reflection!
 
 -Michael Okuda
 

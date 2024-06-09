@@ -5,7 +5,7 @@ author: Michael Okuda
 description: An analysis of the emotional relationship between my immediate family members and me
 ---
 
-_(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._
+<!--_(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._
 
 _“Yeah, just my best friend,” I answered._
 
@@ -248,3 +248,4 @@ Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryear
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)
+-->

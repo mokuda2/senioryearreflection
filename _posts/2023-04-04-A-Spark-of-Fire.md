@@ -5,7 +5,7 @@ author: Michael Okuda
 description: A snapshot of what dating life looks like for a gay man
 ---
 
-_(November 16, 2023; college junior) “I matched with this one guy named Jonah,” I said as I showed Gyuna pictures of him. “He’s really cute.”_
+<!--_(November 16, 2023; college junior) “I matched with this one guy named Jonah,” I said as I showed Gyuna pictures of him. “He’s really cute.”_
 
 _She scrolled through his profile. “Daaaaaang, Michael!” she exclaimed. “Yeah, he IS cute! There we go! You’ve finally found someone who’s not ugly. Have you messaged him?”_
 
@@ -612,3 +612,4 @@ Next page -> [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)
+-->

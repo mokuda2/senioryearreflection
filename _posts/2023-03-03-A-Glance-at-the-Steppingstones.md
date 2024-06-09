@@ -5,7 +5,7 @@ author: Michael Okuda
 description: Preparing to say goodbye
 ---
 
-_(June 2022; college junior) I never told anyone, but ever since last semester, I envisioned a future where I would live to be single my entire life. I couldn’t pinpoint why though. But I definitely didn’t see the point of making new friends unless I felt like I was going to be in their lives. On the mission, I had hoped to continue to keep in contact with the missionaries that I felt closer to, but that didn’t happen. Physical distance didn’t help either, but it was difficult to keep in touch with even those who went to BYU._
+<!--_(June 2022; college junior) I never told anyone, but ever since last semester, I envisioned a future where I would live to be single my entire life. I couldn’t pinpoint why though. But I definitely didn’t see the point of making new friends unless I felt like I was going to be in their lives. On the mission, I had hoped to continue to keep in contact with the missionaries that I felt closer to, but that didn’t happen. Physical distance didn’t help either, but it was difficult to keep in touch with even those who went to BYU._
 
 _So, what was the point of putting effort into things that wouldn’t last? Sure, they might have been Steppingstones—these people that would help me move into the next stage of my life. But after that, I would no longer see them again. It was almost as if they were dead._
 
@@ -445,3 +445,4 @@ The piano.  Holding hands in the car.  "Love is like a spark of fire."  Waking u
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)
+-->

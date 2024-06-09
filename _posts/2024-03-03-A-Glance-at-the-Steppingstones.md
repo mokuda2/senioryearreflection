@@ -432,17 +432,17 @@ The piano.  Holding hands in the car.  "Love is like a spark of fire."  Waking u
 
 ---
 
-[Introduction](https://mokuda2.github.io/senioryearreflection/2023/05/01/Introduction.html)
+[Introduction](https://mokuda2.github.io/senioryearreflection/2024/05/01/Introduction.html)
 
-[Chapter 1: Blank](https://mokuda2.github.io/senioryearreflection/2023/04/08/Blank.html)
+[Chapter 1: Blank](https://mokuda2.github.io/senioryearreflection/2024/04/08/Blank.html)
 
-[Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2023/04/07/The-Meaning-Behind-a-Name.html)
+[Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2024/04/07/The-Meaning-Behind-a-Name.html)
 
-[Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2023/04/06/Prodigal-Father-Prodigal-Son.html)
+[Chapter 3: Prodigal Father, Prodigal Son](https://mokuda2.github.io/senioryearreflection/2024/04/06/Prodigal-Father-Prodigal-Son.html)
 
-[Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2023/04/05/State-of-the-Soul.html)
+[Chapter 4: State of the Soul](https://mokuda2.github.io/senioryearreflection/2024/04/05/State-of-the-Soul.html)
 
-[Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2023/04/04/A-Spark-of-Fire.html)
+[Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2024/04/04/A-Spark-of-Fire.html)
 
-[Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2023/03/03/A-Glance-at-the-Steppingstones.html)
+[Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2024/03/03/A-Glance-at-the-Steppingstones.html)
 -->

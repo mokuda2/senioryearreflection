@@ -29,7 +29,7 @@ I hope you can take away something valuable from my reflection, whether it be a 
 
 -Michael Okuda
 
-Next page -> [Chapter 1: The Beginning](https://mokuda2.github.io/senioryearreflection/2024/04/08/Blank.html)
+Next page -> [Chapter 1: Blank](https://mokuda2.github.io/senioryearreflection/2024/04/08/Blank.html)
 
 ---
 

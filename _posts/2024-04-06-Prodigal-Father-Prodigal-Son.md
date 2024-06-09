@@ -237,7 +237,7 @@ Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryear
 
 [Introduction](https://mokuda2.github.io/senioryearreflection/2023/05/01/Introduction.html)
 
-[Chapter 1: The Beginning](https://mokuda2.github.io/senioryearreflection/2023/04/08/The-Beginning.html)
+[Chapter 1: Blank](https://mokuda2.github.io/senioryearreflection/2023/04/08/Blank.html)
 
 [Chapter 2: The Meaning Behind a Name](https://mokuda2.github.io/senioryearreflection/2023/04/07/The-Meaning-Behind-a-Name.html)
 

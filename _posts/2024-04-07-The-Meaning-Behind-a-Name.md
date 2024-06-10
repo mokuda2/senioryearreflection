@@ -211,7 +211,7 @@ Then my brother-in-law <span style="color:red">David</span> emailed me thanking 
 
 Then my sister <span style="color:red">Shari</span> texted me:
 
-Shari: I am only halfway through your reflection, but I just wanted to say that I love you and support you and I freaking ADORE Gyuna!!! I’m proud of you for your courage and faith and growth. Thank you for being vulnerable and sharing these things with me. I feel I understand you so much better and can finally connect better with you. I’ve always wanted that, but it’s been hard to know how to do. So thank you for sharing and helping me better understand you, and I hope you continue to keep this door open to us.
+```Shari: I am only halfway through your reflection, but I just wanted to say that I love you and support you and I freaking ADORE Gyuna!!! I’m proud of you for your courage and faith and growth. Thank you for being vulnerable and sharing these things with me. I feel I understand you so much better and can finally connect better with you. I’ve always wanted that, but it’s been hard to know how to do. So thank you for sharing and helping me better understand you, and I hope you continue to keep this door open to us.```
 
 I still had yet to hear from <span style="color:red">President and Sister Okuda</span> about their thoughts, which was understandable because they were pretty occupied with their mission obligations.  But I especially wondered what their thoughts would be.
 

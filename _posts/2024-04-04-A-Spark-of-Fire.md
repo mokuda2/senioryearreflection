@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 5 - A Spark of Fire
+title:  Chapter 5 - A Spark of Fire (January 8, 2024 - March 13, 2024)
 author: Michael Okuda
 description: A snapshot of what dating life looks like for a gay man
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 6 - A Glance at the Steppingstones
+title:  Chapter 6 - A Glance at the Steppingstones (March 14, 2024 - April 26, 2024)
 author: Michael Okuda
 description: Preparing to say goodbye
 ---

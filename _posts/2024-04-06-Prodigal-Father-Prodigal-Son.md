@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 3 - Prodigal Father, Prodigal Son
+title:  Chapter 3 - Prodigal Father, Prodigal Son (September 22, 2023 - October 7, 2023)
 author: Michael Okuda
 description: An analysis of the emotional relationship between my immediate family members and me
 ---

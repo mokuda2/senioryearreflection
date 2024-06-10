@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 4 - State of the Soul
+title:  Chapter 4 - State of the Soul (October 8, 2023 - January 7, 2024)
 author: Michael Okuda
 description: My love-hate relationship towards the BYU community and the gay community
 ---

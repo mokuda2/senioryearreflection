@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chapter 2 - The Meaning Behind a Name
+title:  Chapter 2 - The Meaning Behind a Name (July 2023 - September 21, 2023)
 author: Michael Okuda
 description: What does a name imply?
 ---

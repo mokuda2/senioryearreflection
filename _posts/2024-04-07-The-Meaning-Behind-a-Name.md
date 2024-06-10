@@ -235,7 +235,7 @@ The morning after I had sent my reflection, I was surprised to get a text from B
 
 Didn’t sound like he had gotten over me.
 
-Me: I would be open to being friends. However, I want you to know that I don’t ever see us being in a relationship again. If it hurts to think of me swiping through dating apps, idk if being friends would be a good idea. So yeah, you can basically say that you’re getting friend zoned lol. It’ll stay that way. That’s an expectation I have.
+```Me: I would be open to being friends. However, I want you to know that I don’t ever see us being in a relationship again. If it hurts to think of me swiping through dating apps, idk if being friends would be a good idea. So yeah, you can basically say that you’re getting friend zoned lol. It’ll stay that way. That’s an expectation I have.```
 
 He and I texted a bit, and it sounded like he was going to be attending BYU in the fall instead of going to the police academy.  I told him when I’d be moving back to Provo and skeptically wondered if he and I would actually be friends.
 

@@ -215,7 +215,7 @@ Then my sister <span style="color:red">Shari</span> texted me:
 
 I still had yet to hear from <span style="color:red">President and Sister Okuda</span> about their thoughts, which was understandable because they were pretty occupied with their mission obligations.  But I especially wondered what their thoughts would be.
 
-While it was relieving to hear most of my family members say that they were supportive of me, my skepticism regarding people saying one thing and meaning another continued to make me cautious about whether my family members truly meant what they said.  Words were theory to me, but the behaviors and intentions of reality were the tools to knock over my wall of skepticism.  In theory, most of my family members gave supporting words, but in reality, would they want to listen to me and want to learn more about my dating life?  Maybe the real question was if I would feel comfortable talking about my dating life with them.  I wasn’t sure what I could do to reassure myself that they were supportive of me.
+While it was relieving to hear most of my family members say that they were supportive of me, my skepticism regarding people saying one thing and meaning another continued to make me cautious about whether my family members truly meant what they said.  <u>Words were theory to me, but the behaviors and intentions of reality were the tools to knock over my wall of skepticism.  In theory, most of my family members gave supporting words, but in reality, would they want to listen to me and want to learn more about my dating life?</u>  Maybe the real question was if I would feel comfortable talking about my dating life with them.  I wasn’t sure what I could do to reassure myself that they were supportive of me.
 
 ...
 

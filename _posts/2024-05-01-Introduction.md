@@ -21,6 +21,8 @@ _Passages in italics are flashbacks of the past._ They are copy-and-paste passag
 
 <span style="color:red">Words or phrases in red are important concepts or people to keep in mind while reading.</span> I hope this will also help with relevance and purpose of my reflection.
 
+I HIGHLY recommend watching the videos that are contained throughout the reflection.  A couple of them are music videos.  A couple of them are people sharing their stories of being in the Asian, LDS, and/or gay community.  I include these pieces of media to either set the mood of the reflection or to enhance understanding of a community from another person's perspective.
+
 For safety and privacy reasons, I have not used the actual names of those in the LGBTQ community (except for those who are well-known in the community).
 
 Chapter 1 is mostly a summary of my junior year reflection and anything that will help bring context in passages of my senior year.  Starting in chapter 2, I pick up where I left off from my junior year reflection and jump into my senior year.

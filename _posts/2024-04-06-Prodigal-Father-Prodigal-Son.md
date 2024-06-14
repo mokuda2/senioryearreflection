@@ -5,7 +5,7 @@ author: Michael Okuda
 description: An analysis of the emotional relationship between my immediate family members and me
 ---
 
-<!--_(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._
+_(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._
 
 _“Yeah, just my best friend,” I answered._
 
@@ -21,9 +21,9 @@ _“Hm... I don’t know. They’re not very expressive. In the past, I feel lik
 
 September 22, 2023.  Even though I had a full-time job secured, I began to feel depressed thinking about moving to Dallas.  After attending Gather Conference and a few classes of institute, I realized that there was a community of people in Utah who valued both the gospel and their orientation.  It was something I wanted to find ever since I came out to myself.  I wasn’t sure if I was going to find that in Dallas.  There weren’t as many members there, even less so LGBTQ members.
 
-Even though I was going to be moving to Dallas not even a year later, I wanted to find friends and make new connections.  There was value in creating memories with people.  It was also good practice for me in preparation for Dallas, and I knew it was an attribute I wanted in a future husband.
+Even though I was going to be moving to Dallas not even a year later, I still wanted to find friends and make new connections.  There was value in creating memories with people.  It was also good practice for me in preparation for Dallas, and I knew it was an attribute I wanted in a future husband.
 
-As I interacted with people from institute and felt safe being in that space, I also felt like I didn’t have to hide myself.  They all knew I was gay or at least in the LGBTQ community.  I didn’t realize how much I had suppressed myself growing up until I noticed the difference between being around people who knew I was gay versus those who didn’t know.  It made sense why some people chose to publicly come out on social media.  Putting up a front was exhausting.  But I still didn’t feel safe coming out publicly, especially at BYU.  Telling that to the wrong person could have negative consequences.  Unfortunately, there were some people I interacted with frequently whom I could see treat me differently if they found out I was gay.
+As I interacted with people from institute and felt safe being in that space, I also felt like I didn’t have to hide myself.  They all knew I was gay or at least in the LGBTQ community.  I didn’t realize how much I had suppressed my emotions growing up until I noticed the difference between being around people who knew I was gay versus those who didn’t know.  It made sense why some people chose to publicly come out on social media.  Putting up a front was exhausting.  But I still didn’t feel safe coming out publicly, especially at BYU.  Telling that to the wrong person could have negative consequences.  Unfortunately, there were some people I interacted with frequently whom I could see treat me differently if they found out I was gay.
 
 Even though I’m not publicly out, having an Asian body was in some ways like being publicly out, especially when trying to adapt to an environment of white people who made up the majority at BYU.  I often felt like because I looked different from everyone else in my ward that I was too different to be associated with.  I didn’t feel integrated in any of my wards during my time at BYU.  Before I acknowledged my orientation, the only reason I came to church (other than it being mandatory to continue attending BYU) was to develop my relationship with God.  It wasn’t until I went to institute this semester when I realized that I had forgotten how friendships in church could help me feel the Spirit more.
 
@@ -49,7 +49,7 @@ After some talk, she told me how it was okay to feel a certain way but not to ac
 
 She responded saying that the doctrine was marriage between a man and a woman.  I asked her what her thoughts were if God said from the very beginning that marriage should be between a man and a man and a woman and a woman.  It took a few times for her to understand that this was a hypothetical situation because she kept saying that doctrine didn’t change and that such a thing wouldn’t happen.
 
-"I know that doctrine doesn't change and that you think it's doctrine that marriage is between a man and a woman, but this kind of hypothetical situation for you is my reality,” I said.  “I don't think marriage is mechanical.  It's not simply just the ritual of an XX-chromosome being and an XY-chromosome being.  Emotions and feelings are involved too.  I don't see guys and girls blindly marrying each other.  That'd be the quickest way to expedite the process of exaltation."
+"I know that doctrine doesn't change and that you think it's doctrine that marriage is between a man and a woman, but this kind of hypothetical situation for you is my reality,” I said.  “I don't think marriage is mechanical.  It's not simply just the ritual of an XX-chromosome being and an XY-chromosome being.  Emotions and feelings are involved too.  I don't see guys and girls blindly marrying each other.  That would expedite the process of exaltation."
 
 She and I talked for about an hour.  "You're grown up, and I can't make decisions for you," she said.  "Sometimes some of the things you and Nozomu and Shari do I wouldn't do, but I will be your cheerleader.  I want what's best for you.  I’m most impressed that you still have a testimony of the gospel."
 
@@ -73,13 +73,13 @@ BYU’s reason for banning homosexual relationships is that they can’t lead to
 
 Each person had a reason for hurting, but here’s my perspective on why I felt pain from this past conference: the reminder that exaltation is not a realistic goal for someone like me and the hopelessness that comes from it.
 
-Growing up, I had been taught that exaltation was the ultimate goal.  It was something I strived for.  We all lived with Heavenly Father, and He created the Earth for us to gain experiences, to become more like Him, and to return to live with Him and our families.  The gospel had steppingstones of covenants for us to return to that destination.  Baptism, receiving the Gift of the Holy Ghost, the initiatory, and the endowment were all pretty easy to follow through.
+Growing up, I had been taught that exaltation was the ultimate goal.  It was something I strived for.  The gospel had steppingstones of covenants for us to return to that destination.  Baptism, receiving the Gift of the Holy Ghost, the initiatory, and the endowment were all pretty easy to follow through.
 
 Temple marriage sounded so theoretical before and during my mission.  It seemed like it was just another steppingstone.  Of course I had spiritual experiences associated with making covenants, but temple marriage wasn’t a covenant made just between God and me; it also involved another person.  The reality of the emotional implications of marriage didn’t hit me until after the mission.  It was definitely one of the reasons why I came out.  If I had to hide this part of me for eternity, or even in this life alone, that would’ve been unbearable.
 
 A lot of the guys I went on dates with told me how they tried to date girls but couldn’t follow through.  I knew deep down that I didn’t need to date girls to know that I wasn’t romantically interested in them.  I was sure that straight people could relate that they didn’t need to date someone of the same gender to know that there wasn’t romantic interest.
 
-What if I did try to live the laws of the celestial kingdom by going through the motions and marrying a woman?  It was definitely not a natural desire, much like how a straight person would feel if he were to marry a man.  How would my hypothetical wife feel if I expressed that I married her because I was supposed to marry a woman so that I could receive exaltation?  And how would that sort of relationship develop if children were involved?  I never wanted a woman (or anyone for that matter) to feel like the reason I married her was out of duty and that she was just a means to make ends meet.  I didn’t want to put myself in a situation that wouldn’t make me feel happy either.
+What if I did try to live the laws of the celestial kingdom by marrying a woman?  It was definitely not a natural desire, much like how a straight person would feel if he were to marry a man.  How would my hypothetical wife feel if I expressed that I married her because I was supposed to marry a woman so that I could receive exaltation?  And how would that sort of relationship develop if children were involved?  I never wanted a woman (or anyone for that matter) to feel like the reason I married her was out of duty and that she was just a means to make ends meet.  I didn’t want to put myself in a situation that wouldn’t make me feel happy either.
 
 Even though getting married to a woman was a steppingstone to exaltation, President Oaks said that it wasn’t enough to go through the motions.  So if marrying a woman wasn’t an option, what then?  I had heard people theorize that everyone would become straight after this life.  Of course straight people would have that perspective because that was how they felt, but the scriptures said that we would carry the desires of the heart with us after this life.  Weren’t romantic feelings one of the desires of the heart?  A change in my orientation sounded wrong and perverted.  Straight people would probably say the same thing if their orientation changed.
 
@@ -87,7 +87,7 @@ In a hypothetical situation, if God created man and woman such that people of th
 
 It was why going to the temple brought a lot of pain.  The last time I went to the temple was with President and Sister Okuda in Guam with the new missionaries.  Instead of feeling peace in the celestial room, I felt a deep sadness that this wasn't going to be my reality.  I felt so excluded.  I felt like straight people didn't realize how much they took their feelings for granted.
 
-Those were the reasons why it hurt listening to President Nelson and President Oaks say that the use of our agency in this life would determine what kingdom and type of body we’d have, that we should think celestial, that God wouldn’t force anyone into a sealed relationship.  Of course I had a desire to live with God.  Of course I wanted exaltation.  But was exaltation a reality for me?  No, it didn’t seem like it for my situation.  I could use my agency to marry a woman, but that decision was incongruent with my feelings.  It was probably how a straight person would feel having to date and marry someone of the same gender.  So then I would just go through the motions, which was considered “not enough.”  It was as if LGBTQ people were cursed, that we had no hope for the end goal many of us desired.
+Those were the reasons why it hurt listening to President Nelson and President Oaks say that the use of our agency in this life would determine what kingdom and type of body we’d have, that we should think celestial, that God wouldn’t force anyone into a sealed relationship.  Of course I had a desire to live with God.  Of course I wanted exaltation.  But was exaltation a reality for me?  No, it didn’t seem like it for my situation.  I could use my agency to marry a woman, but that decision was incongruent with my feelings.  So then I would just go through the motions, which was considered “not enough.”  It was as if LGBTQ people were cursed, that we had no hope for the end goal many of us desired.
 
 ## Section 3
 
@@ -157,7 +157,7 @@ I needed to talk to someone about how I felt with President Okuda’s reaction t
 
 I also thought about Shari.  She knew both President Okuda and me, so I felt like she would be more understanding of the context.  There was still part of me that felt skeptical of trust.  I rarely ever went to my family when I had emotional concerns, but I wanted to give Shari an opportunity to see what she meant when she said she wanted to support me.
 
-I hesitantly messaged Shari and asked if I could stop by to talk to her about President Okuda’s words.  She responded enthusiastically saying I could come over, so she and I set up a time to meet.
+I hesitantly messaged Shari and asked if I could stop by her place to talk about President Okuda’s words.  She responded enthusiastically saying I could come over, so she and I set up a time to meet.
 
 ## Section 4
 
@@ -169,7 +169,7 @@ October 7, 2023.  I went to Shari’s place and hung out with my 10-month-old ne
 
 "It sounds like you really are taking a break."
 
-"I want to find good connections.”  I told her about the people at institute.  “They'll do stuff like getting ice cream or going to Taco Tuesdays at Don Joaquin, so I go to those.  I still don't feel very connected with them, but I'm trying to find friends there."
+"I want to find good connections.”  I told her about the people at institute.  “We'll get ice cream or eat tacos at Don Joaquin, so I go to those.  I still don't feel very connected with them, but I'm trying to find friends there."
 
 "Have you talked to our parents recently?"
 
@@ -195,7 +195,7 @@ During the conversation, Shari shared her feelings and relationship with Preside
 
 “People in the Church say that they're accepting of others. They're not. In this last conference when President Nelson said to not listen to the unbelievers, I thought about if Kiyoshi were a youth and he took that to heart. With David's decision to leave the Church, would we have a family where we can learn to love and listen to each other and respect each other’s differences, or would we have a rift within our family to not listen to the unbelievers?
 
-“As I read your reflection, your liking guys was something that you knew very well about yourself. It's not just a teenage phase of like, 'Maybe I like guys, maybe I like girls.' I think some guidance is appropriate in those kinds of situations. But you've learned and you've grown from your experiences with dating guys. I can tell that you want to get to know others and develop an actual relationship with someone, and I think you're capable of being a good husband and father like any other good person.” She told me about an extended family’s situation of a parent leaving the family because she couldn’t put up a wall with her orientation anymore.  “Not that mixed-orientation marriages can't work, but thinking that marrying someone of the opposite sex is the only way that a marriage can work isn't how it is for everyone. So to answer your question, as I've become more open to other people's perspectives, I've come to see that there isn't just one way for every single person to be happy."
+“As I read your reflection, your liking guys was something that you knew very well about yourself. It's not just a teenage phase of, 'Maybe I like guys, maybe I like girls.' I think some guidance is appropriate in those kinds of situations. But you've learned and you've grown from your experiences with dating guys. I can tell that you want to get to know others and develop an actual relationship with someone, and I think you're capable of being a good husband and father like any other good person.” She told me about an extended family’s situation of a parent leaving the family because she couldn’t put up a wall with her orientation anymore.  “Not that mixed-orientation marriages can't work, but thinking that marrying someone of the opposite sex is the only way that a marriage can work isn't how it is for everyone. So to answer your question, as I've become more open to other people's perspectives, I've come to see that there isn't just one way for every single person to be happy."
 
 After some conversation, I felt more at ease.  I was super grateful that I had talked to Shari.  I couldn’t remember the last time I had a deep conversation like this with her.  I knew she would be safe to talk to.
 
@@ -211,7 +211,7 @@ President Okuda shared stories of spiritual experiences that taught him about Ch
 
 So in what way is President Okuda a “prodigal” son?  He chose to lavishly spend his life living a Western religion, even though his mother wanted him to practice the ways of Buddhism.  During the time the prodigal son was away from home, I wonder what thoughts and feelings the father had.  “Will he come back home?” or “I’m not worried.  He’ll realize his poor decisions and come back.”  Similarly, I wonder if President Okuda’s mom thought, “Will he come back to the ways of Buddhism?” or “I’m not worried.  He’ll realize his poor decision to join the strange Christian faith and will practice Buddhism again.”
 
-In parallel, my feelings and experiences of my orientation are difficult to explain.  It’s apparent that no matter how much I try to describe them, many straight people don’t seem to understand, even though I feel like straight people and LGBTQ people have so much in common in terms of romantic connection.  I prayed a lot to God about this side of me, and I acted in faith to know if dating guys was a right or wrong decision.  As a “pioneer” being a gay man in the Church, and only having been out to myself for less than a year, it was difficult to describe the emotional and spiritual experiences I had from dating guys.  I felt like people thought that same-sex dating meant that they couldn’t have any good association with the Church.
+In parallel, my feelings and experiences of my orientation are difficult to explain.  It’s apparent that no matter how much I try to describe them, many straight people don’t seem to understand, even though I feel like straight people and LGBTQ people have so much in common in terms of romantic connection.  I prayed a lot to God about this side of me, and I acted in faith to know if dating guys was a right or wrong decision.  As a “pioneer” being a gay man in the Church, and only having been out to myself for less than a year, it was difficult to describe the emotional and spiritual experiences I had from dating guys.  I felt like people from both the LDS community and the LGBTQ community thought that those who chose to date the same gender couldn’t have any good association with the Church.
 
 I was a “prodigal” son where I chose to lavishly acknowledge my orientation and do something about those feelings, even when people in the Church judged and pointed fingers.  Maybe President Okuda was like his mother.  Maybe he thought, “Will he come back to the ways of heterosexuality and marry a woman?” or “I’m not worried.  He’ll realize that his feelings are a phase and will marry a woman.”
 
@@ -229,7 +229,7 @@ I was insulted.
 
 Telling me that I was loved didn’t make me feel any better about my relationship with President Okuda nor was it an apology for the way he reacted.  I didn’t want an apology until he knew why his words were hurtful.  This situation was just another piece of evidence why I didn’t like being emotionally vulnerable around my family.  It confirmed to me that it really was better to hide myself growing up.
 
-Maybe I agreed with one of Nozomu’s perceptions of people: President Okuda was like a CEO.  I thought he’d care to know more about my life, not merely because I had the title of “son”—merely the result of his contribution of sperm to produce offspring—but because of the emotions he had for raising, nurturing, and teaching me.  Maybe that wasn’t the case if he viewed my writing was just “_Harry Potter_.”  He didn’t ever have to know about this side of me.  I took that risk of being vulnerable in hopes of strengthening my relationship with my family.
+Maybe I agreed with one of Nozomu’s perceptions of people: President Okuda was like a CEO.  I thought he’d care to know more about my life, not because I had the title of “son”—merely the result of his contribution of sperm to produce offspring—but because of the emotions he had for raising, nurturing, and teaching me.  Maybe that wasn’t the case if he viewed my writing was just “_Harry Potter_.”  He didn’t ever have to know about this side of me.  I took that risk of being vulnerable in hopes of strengthening my relationship with my family.
 
 But yes, I did agree with Nozomu.  President Okuda was CEO first, father second.
 
@@ -252,4 +252,3 @@ Next page -> [Chapter 4: State of the Soul](https://mokuda2.github.io/senioryear
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2024/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2024/03/03/A-Glance-at-the-Steppingstones.html)
--->

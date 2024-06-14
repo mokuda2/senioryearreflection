@@ -45,7 +45,7 @@ _My skepticism kinda turned out to be right. He didn’t text that frequently, a
 
 ## Section 1
 
-January 19, 2024.  I had a date with a guy named Jonah today.  He said he wanted to hear me play the piano, so we planned on going to the practice rooms in the Music Building.  As a Christmas gift, Shari created a pickup order of bread and soups from Kneaders, so I suggested to Jonah that he and I could eat and then go to the Music Building.
+January 19, 2024.  I had a date with a guy named <span style="color:red">Jonah</span> today.  He said he wanted to hear me play the piano, so we planned on going to the practice rooms in the Music Building.  As a Christmas gift, Shari created a pickup order of bread and soups from Kneaders, so I suggested to Jonah that he and I could eat and then go to the Music Building.
 
 I picked him up at his place and then went to Shari and David’s place since they picked up the order.  I expected the date to be pretty casual since he said he had just gotten out of an 11-month relationship.
 

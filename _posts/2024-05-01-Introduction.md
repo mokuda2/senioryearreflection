@@ -3,6 +3,7 @@ layout: post
 title:  Introduction
 author: Michael Okuda
 description: Start here.
+image: /assets/images/red.jpg
 ---
 
 Welcome to my reflection!

@@ -3,6 +3,7 @@ layout: post
 title:  Chapter 5 - A Spark of Fire (January 8, 2024 - March 13, 2024)
 author: Michael Okuda
 description: A snapshot of what dating life looks like for a gay man
+image: /assets/images/indigo.jpg
 ---
 
 _(November 16, 2023; college junior) “I matched with this one guy named Jonah,” I said as I showed Gyuna pictures of him. “He’s really cute.”_

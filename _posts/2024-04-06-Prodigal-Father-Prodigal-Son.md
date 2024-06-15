@@ -3,6 +3,7 @@ layout: post
 title:  Chapter 3 - Prodigal Father, Prodigal Son (September 22, 2023 - October 7, 2023)
 author: Michael Okuda
 description: An analysis of the emotional relationship between my immediate family members and me
+image: /assets/images/green.jpg
 ---
 
 _(December 8, 2022; college junior) “So you told me that you haven’t come out to your family, right?” Peter asked._

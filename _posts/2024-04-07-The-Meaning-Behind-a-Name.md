@@ -3,6 +3,7 @@ layout: post
 title:  Chapter 2 - The Meaning Behind a Name (July 2023 - September 21, 2023)
 author: Michael Okuda
 description: What does a name imply?
+image: /assets/images/yellow.jpg
 ---
 
 _(May 2023; college junior) When Mom, Dad, and I were in Palau, they asked me if I had been going on dates. I wasn’t ready to come out at that point. They probably still stuck to their definition of a “date”: when a guy and a girl plan to do something together and then do it. I was curious about what they felt about dating, not merely their definition. I decided to ask the questions I used to ask in my atheist days. “Why is it important to date?” I asked._

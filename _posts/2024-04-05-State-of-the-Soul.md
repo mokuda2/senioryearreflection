@@ -3,6 +3,7 @@ layout: post
 title:  Chapter 4 - State of the Soul (October 8, 2023 - January 7, 2024)
 author: Michael Okuda
 description: My love-hate relationship towards the BYU community and the gay community
+image: /assets/images/blue.jpg
 ---
 
 Note: This chapter is very theoretical and won't contain much story.  I express some of my perspectives that may be uncomfortable and emotionally charging towards the BYU community and the gay community.  This chapter contains some of my personal battles and struggles, so I hope that readers keep that context in mind and create space to be open to perspectives they've not considered before.  In an episode from _Questions from the Closet_, Ben, Charlie, and Aliah do an amazing job at explaining [what minority stress is](https://www.youtube.com/watch?v=S3H2eFKgexQ) and how it affects minority groups' thoughts and behavior, which will be what most of this chapter will be about.

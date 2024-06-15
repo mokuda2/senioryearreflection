@@ -5,7 +5,7 @@ author: Michael Okuda
 description: A snapshot of what dating life looks like for a gay man
 ---
 
-<!--_(November 16, 2023; college junior) “I matched with this one guy named Jonah,” I said as I showed Gyuna pictures of him. “He’s really cute.”_
+_(November 16, 2023; college junior) “I matched with this one guy named Jonah,” I said as I showed Gyuna pictures of him. “He’s really cute.”_
 
 _She scrolled through his profile. “Daaaaaang, Michael!” she exclaimed. “Yeah, he IS cute! There we go! You’ve finally found someone who’s not ugly. Have you messaged him?”_
 
@@ -51,21 +51,13 @@ I picked him up at his place and then went to Shari and David’s place since th
 
 “What do you like to do?” I asked as I drove to Kneaders.
 
-“I like watching movies,” he answered.  “I was thinking about doing film my freshman year, but I’m leaning more towards marketing and then getting an MBA.  I know Utah is great for doing outdoorsy stuff, and even though I’ve grown up in Utah, I wouldn’t say I’m an outdoorsy person.”
-
-“I’ve wanted to know what it’s like to go skiing here, but I wouldn’t go by myself.  I’d like someone who knows how to ski.  It’s my last semester, but I haven’t even hiked the Y.”
-
-“It’s nothing that extraordinary.”
-
-“That’s what most people tell me.”
-
-“But wow, it’s your last semester!” Jonah exclaimed.  “Do you know what you’re doing after you graduate?”
+“I like watching movies,” he answered.  “I was thinking about doing film my freshman year, but I’m leaning more towards marketing and then getting an MBA.  But wow, it’s your last semester!  Do you know what you’re doing after you graduate?”
 
 “I’ll be moving to Dallas and working as a data analyst for AT&T,” I answered.  “I’ll be starting work in July.  Do you think you’ll stay in Utah for the rest of your life?”
 
 “No, I’d like to go someplace else.  Maybe I’ll be willing to stay in Utah a few years after I graduate if I have to.”
 
-When we got to Kneaders, we took out the four breads soups and tasted them all.
+When we got to Kneaders, we took out the four breads and soups and tasted them all.
 
 “Do you consider yourself an introvert or an extrovert?” I asked.
 
@@ -75,13 +67,17 @@ When we got to Kneaders, we took out the four breads soups and tasted them all.
 
 “I like getting to know people too.  I think the mission really helped me get out of my comfort zone.  Last summer, I was the only one in the house since all of my roommates were gone, and it was super lonely.  I definitely don’t want that to happen.”
 
-He and I ranked our favorite bread and soups, and then we went to the Music Building afterwards.
+He and I ranked our favorite breads and soups, and then we went to the Music Building afterwards.
 
-“I mostly played classical music growing up,” I said when he and I sat down in one of the practice rooms.  “I really like Chopin.  Do you know any classical piano songs?”
+"What kind of music do you listen to?" Jonah asked.
+
+"I don't listen to too much, but I really like Blackpink," I said.  "They're the only K-pop group I really listen to.  But I mostly played classical music growing up.  I really like Chopin.  Do you know any classical piano songs?”
 
 “Not really,” Jonah answered.  “I know ‘Clair de Lune.’  It’s super pretty.”
 
 “I like that piece too.  I can play most of it from memory.”  I played it for him.  It was odd but cool that I was playing the piano for someone on a first date.  I hadn’t done anything quite like this.
+
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/vm3sOI8xLb8" title="Michael Okuda &#39;Clair de Lune&#39; Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 After the last chord, Jonah took a deep breath.  “Can we just let the air sink in for a moment?” he said.  “You’re really good at the piano.”
 
@@ -111,7 +107,7 @@ He and I talked for a couple hours about our families, our hobbies, and our work
 
 “I don’t, but the library has some.”  He then asked, “As far as dating, what are you looking for?”
 
-“I want to be in a long-term relationship.  My ex and I were in a relationship for only a couple months, but it was a good experience.  I learned that I want something long-term, though more recently, I’ve been focusing more on trying to find friends."  Speaking of Bryce, he and I never saw each other.  I guess it was still too difficult for him to see me as a friend, and at this point, he was kinda dead to me.  I was rather indifferent about being friends.  "I’m a pretty skeptical person in general.  I feel like it’s difficult to know someone enough to want to be in a relationship after only two or three dates, so I like to take my time.  When I first started dating, it was nice getting to know people, but I usually met people only once.  Even if we left on good terms, we’d just follow each other on social media and that’d be it.  I want to find people who’ll still want to be friends, even if a relationship doesn’t work out.  What about you?”
+“I want to be in a long-term relationship.  My ex and I were in a relationship for only a couple months, but it was a good experience.  I learned that I want something long-term, though more recently, I’ve been focusing more on finding friends."  Speaking of Bryce, he and I never saw each other.  I guess it was still too difficult for him to see me as a friend, and at this point, he was kinda dead to me.  I was rather indifferent about being friends.  "I’m a pretty skeptical person in general.  I feel like it’s difficult to know someone enough to want to be in a relationship after only two or three dates, so I like to take my time.  When I first started dating, it was nice getting to know people, but I usually met people only once.  Even if we left on good terms, we’d just follow each other on social media and that’d be it.  I want to find people who’ll still want to be friends, even if a relationship doesn’t work out.  What about you?”
 
 “I see myself getting married to a man and settling down.  I tried dating a girl, and that didn’t go well.  I felt really bad because I was basically using her as an experiment.  I ghosted her after some time, and looking in retrospect, I see that I did the same thing that my ex did to me.  Oops.  But after a couple weeks, we saw each other, and we talked about it.  She and I are on good terms now.  But I definitely don’t want to live life by myself.”
 
@@ -125,7 +121,7 @@ We talked some more.
 
 “I feel the same way.  It’s important to me, and my mission changed me, but I also have questions like you.”  He told me about how he had met his ex and how they broke up.
 
-“Have you come out to your family?”
+“Have you come out to your family?” I asked.
 
 “They know, though I never mentioned my relationship to my parents.  I think I’m most worried about my mom being concerned.  I know it’s my life, and I can make my own decisions, but it’s still hard to let down family.  Have you come out to your family?”
 
@@ -177,7 +173,7 @@ It was finally Monday!  For some reason, I got super nervous when I went to the 
 
 “Oh.  Yum.”
 
-Jonah taught me about the exposure triangle, and we took some pictures of plants.  The LSB was mostly lit by the sun, so 6pm was a bit late since it was completely dark by that time.  But we took some pictures of the animals they had exhibited throughout the building.
+Jonah taught me about the exposure triangle, and we took some pictures of plants and the life-size animals.
 
 “Look at you!  You’re a pro!” Jonah complimented me as he patted my shoulder.
 
@@ -185,7 +181,7 @@ Jonah taught me about the exposure triangle, and we took some pictures of plants
 
 “Not really.  I feel dumb when I smile in front of a camera.”  I noticed that anytime he’d smile or laugh, he’d cover his mouth.  I didn’t think he looked dumb.
 
-He and I also went to the Eyring Science Center and took some more photos there.
+He and I also went to the Eyring Science Center and took some more pictures there.
 
 “I don’t know this building too well,” I said.  “I’d come here occasionally to look at my physical science exams.”  He and I looked at the rocks.  “Do you like rocks?”
 
@@ -195,7 +191,7 @@ I shrugged.  “Not really,” I replied.
 
 He shrugged too.  “Yeah, same.”
 
-I laughed inside.  I could tell he liked me.  I learned that he took physical science last semester in the same building on the same floor as I took one of my stat classes.  I was pretty sure I occasionally walked past him on my way to class since he looked so familiar.
+I laughed inside.  I could tell he liked me.
 
 He and I wandered around for a bit.  “Have you eaten dinner yet?” Jonah asked.
 
@@ -251,7 +247,7 @@ I told him about how I wanted to be more cultured with movies, and he asked me w
 
 “They were okay.”
 
-After some more discussion, he said he got an idea of what I liked.  He parked his car in the Chick-fil-A parking lot and made a list of five movies.  We decided that the first movie we’d watch was 'Your Name.'
+After some more discussion, he said he got an idea of what I liked.  He parked his car in the Chick-fil-A parking lot and made a list of five movies.  We decided that the first movie we’d watch was "Your Name."
 
 We talked some more.  “Is it okay if I hold your hand?” Jonah asked out of the blue.
 
@@ -261,7 +257,7 @@ So he and I held hands.  “Are you sure?” he asked.  “I know you said you�
 
 “Yeah, this is great.”  It really was.  Why would I want to say no to him?
 
-The parking lot was filled with cars, so I was a bit nervous for a moment, but our hands were pretty hidden from view.  Holding his hand felt so good.  We stared into each other’s eyes.  Part of me really wanted to kiss him, but I was a bit scared by how many cars and people there were.  Plus, I liked him enough that I wanted to save that kiss for some time later.  I didn’t want things to happen too quickly.
+The parking lot was filled with cars, so I was a bit nervous for a moment, but our hands were pretty hidden from view.  Holding his hand felt so good.  We stared into each other’s eyes.  Part of me really wanted to kiss him, but I was a bit scared by how many cars and people there were.  Plus, I didn’t want things to happen too quickly.
 
 Jonah had turned the engine off, but he left the battery running.  After some time, the battery ran out, so he couldn’t turn the engine back on.  He lived only about a block away, so his roommate came by and tried to jumpstart the car.  The car engine didn’t want to start though.  After about an hour of not being able to get the engine to work, Jonah’s roommate dropped me off at my place.
 
@@ -329,19 +325,17 @@ After some time, he got out of the car.  I couldn’t wait for Wednesday, which 
 
 Wednesday rolled around, and I asked if he was still available to watch the movie.  Initially, he said yes, but then he realized he had a meeting during that time.  He asked if we could reschedule for another day.  I suggested Friday, to which he responded on that day that he had something for work that weekend.
 
-One thing that I did find a bit odd was feeling like there was a lack of communication when we weren’t in person.  He texted maybe once or twice a day, sometimes not even for a whole day.  I understood that life could get busy, but when he said he was busy, he didn’t suggest an alternative.  I asked what his Sunday or Monday evening looked like, but he didn’t respond.
+One thing that I did find a bit odd was feeling like there was a lack of communication when he and I weren’t in person.  He texted maybe once or twice a day, sometimes not even for a whole day.  I understood that life could get busy, but when he said he was busy, he didn’t suggest an alternative.  I asked what his Sunday or Monday evening looked like, but he didn’t respond.
 
-I was ghosted.  I guess the feeling of a lack of communication was a warning sign, but now I felt like this situation was a red flag.  I was bummed.  I liked spending time with him, though in the back of my mind, I was still skeptical if things would actually go further considering that he had gotten out of a relationship not too long ago.  Maybe he just wanted to make out with me and then end things.  I hated getting my feelings played like that.  Piece of horny trash.
+He ghosted me.  I guess the feeling of a lack of communication was a warning sign, but now I felt like this situation was a red flag.  I was bummed.  I liked spending time with him, though in the back of my mind, I was still skeptical if things would actually go further considering that he had gotten out of a relationship not too long ago.  Maybe he just wanted to make out with me and then end things.  I hated getting my feelings played like that.  Piece of horny trash.
 
 ## Section 4
 
-February 11, 2024.  Going to Seattle and Korea over the summer was on my mind for quite a bit.  I felt like the time between graduation and starting full-time work was the optimal time to vacation.  I looked at the ticket prices every day to see if they’d get any lower.  I wanted to see if I could go to Korea with Gyuna, but she wasn’t sure when she’d be going since she didn’t know when her internship would begin.  At this point, I knew it was about time to buy tickets if I wanted to go somewhere late April or early May.  I decided to hold off on going to Korea since I didn’t have much experience with traveling, especially going to a foreign country by myself.
-
-Tao had served his mission in Tacoma, so I thought it would be fun to go to Seattle together.  Things didn’t work out with him, so I’d end up going to Seattle by myself if I wanted to go.  At least I knew people in the area.  I was still scared about buying plane tickets though, I guess because I was afraid of spending so much money and then regretting it.  I asked Shari if she could help me out, so I went to her place.  She gave me some recommendations.
+February 11, 2024.  Going to Seattle for vacation over the summer was on my mind for quite a bit.  I felt like the time between graduation and starting full-time work was the optimal time to vacation.  I looked at the ticket prices every day to see if they’d get any lower.  Tao had served his mission in Tacoma, so I thought it would be fun to go to Seattle together.  Things didn’t work out with him, so I’d end up going to Seattle by myself if I wanted to go.  At least I knew people in the area.  I was still scared about buying plane tickets, I guess because I was afraid of spending so much money and then regretting it.  I asked Shari if she could help me out, so I went to her place.  She gave me some recommendations.
 
 I also told her about Jonah.  She warned me to be careful and to take things slow emotionally and physically.  My skepticism supported the idea since he was pretty bad at being responsive.  He definitely lost some points after dropping off like that.
 
-Shari and David talked to me about their experiences with dating.  “Just know that you’re still pretty young,” she said.  I found it a bit ironic she said that because Shari and David were younger than me when they got married.
+Shari and David talked to me about their experiences with dating.  “Just know that you’re still pretty young,” she said.  I found it a bit ironic she said that because both of them were younger than me when they got married.
 
 “Considering how very limited people’s views are here, it affects others who are also in a similar situation as you,” David said.  “I think people outside of BYU have had space to mature.  Plus, Dallas is a big city.  I’m sure there are plenty of opportunities to date there.”
 
@@ -407,7 +401,7 @@ Even though I was more skeptical about anything romantic with Jonah, his touch f
 
 After the movie ended, I gave him a hug, and we kissed a few times.  I never thought I’d do anything like that on campus.
 
-We cuddled in the back of the car and talked for a while.  We obviously made out too.  We made plans to go clothes shopping later in the week.
+We cuddled in the car and talked for a while.  We made plans to go clothes shopping later in the week.
 
 ...
 
@@ -451,9 +445,9 @@ A few weeks ago, she and President Okuda told me that I was welcome to come back
 
 “Did you ever talk about things together?”
 
-“He and I did talk about it once.  We agreed that even though you’re making decisions we may not necessarily agree with that we’re not in control of what you do.”
+“He and I talked about it once.  We agreed that even though you’re making decisions we may not necessarily agree with that we’re not in control of what you do.”
 
-Sister Okuda and I talked some more.  I could tell that she still didn’t understand why I was choosing to date guys.  “And I don’t expect you to completely understand,” I continued.
+Sister Okuda and I talked some more.  I could tell that she still didn’t understand why I was choosing to date guys, as if I were being an intentional rebel just to cause trouble.  “And I don’t expect you to completely understand,” I continued.
 
 “I think you’re still figuring things out for yourself, right?  What are you going to do about the Church?”
 
@@ -537,7 +531,7 @@ I wanted things to work out.  I really did.  I wanted to video call him and look
 
 That was another reason why I didn’t think things would work out.  I felt like communication was still off when Jonah and I weren’t in person.  Considering that he said that he felt a lack of communication from his ex, Jonah should’ve known what he was doing.  Good communication was something I highly valued too.  I felt like the level of communication was going to backfire at some point.
 
-After about a week of painful contemplation, I knew that someone would have to bring up about summer, so I decided to be the one to do it.  The logical side of me said that things probably wouldn’t work out, but the emotional side really wanted things to work out.  I knew that it was best to talk about these kinds of matters in person.  I texted him that I wanted to talk in private the next time I’d see him.  What would happen depended on what Jonah would say about the situation.
+After about a week of painful contemplation, I knew that someone would have to bring up about summer, so I decided to be the one to do it.  The logical side of me said that things probably wouldn’t work out, but the emotional side really wanted things to work out.  I knew that it was best to talk about these kinds of matters in person.  I texted him that I wanted to talk in private the next time I’d see him.
 
 ## Section 6
 
@@ -567,7 +561,7 @@ He and I talked like usual.  When I finally got to his place, I was nervous, but
 
 "I agree," he said.
 
-"I can go first.  I really like spending time with you, and I think you're really cute, but... I know that in a couple months, you'll be leaving abroad, and then I'll be moving to Dallas.  I’m not sure what’s going to happen when summer arrives.  What are your thoughts about that?"
+"I can go first.  I really like spending time with you, and I think you're really cute, but... I know that in a couple months, you'll be leaving abroad, and then I'll be moving to Dallas.  I’m not sure what’s going to happen when summer arrives."
 
 "I've honestly been thinking about that on basically every single date we've had.  I'm totally open being friends with you, and I'm still down to take your graduation pictures.  I've loved getting to know you and spending time with you, and I think you're super attractive.  You're definitely a lot more attractive in person.  I've loved getting to hear your perspectives on all the things we've talked about, and I feel like I've learned a lot from you, especially about the Church.  You have a good balance between both the Church and your dating life, and I think I realized that the gospel is something that I can still love.  And you've got so much ahead of you!  You're going to be a working adult.  You've got a good job.  Statistically speaking, you're 100 percent gonna rock your future.  I know you'll find someone there who'll make you so happy."
 
@@ -612,4 +606,3 @@ Next page -> [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2024/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2024/03/03/A-Glance-at-the-Steppingstones.html)
--->

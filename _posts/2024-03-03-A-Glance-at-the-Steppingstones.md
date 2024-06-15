@@ -5,7 +5,7 @@ author: Michael Okuda
 description: Preparing to say goodbye
 ---
 
-<!--_(June 2022; college junior) I never told anyone, but ever since last semester, I envisioned a future where I would live to be single my entire life. I couldn’t pinpoint why though. But I definitely didn’t see the point of making new friends unless I felt like I was going to be in their lives. On the mission, I had hoped to continue to keep in contact with the missionaries that I felt closer to, but that didn’t happen. Physical distance didn’t help either, but it was difficult to keep in touch with even those who went to BYU._
+_(June 2022; college junior) I never told anyone, but ever since last semester, I envisioned a future where I would live to be single my entire life. I couldn’t pinpoint why though. But I definitely didn’t see the point of making new friends unless I felt like I was going to be in their lives. On the mission, I had hoped to continue to keep in contact with the missionaries that I felt closer to, but that didn’t happen. Physical distance didn’t help either, but it was difficult to keep in touch with even those who went to BYU._
 
 _So, what was the point of putting effort into things that wouldn’t last? Sure, they might have been Steppingstones—these people that would help me move into the next stage of my life. But after that, I would no longer see them again. It was almost as if they were dead._
 
@@ -53,7 +53,7 @@ I told him about all the dates: playing the piano, taking photos, making out, ev
 
 “Okay good, because even if you wanted to, I wouldn’t have gone.”
 
-Tao and I talked for about an hour, after which we gave each other hugs.  I felt so touch deprived.  I wished I could be in Jonah’s arms and cuddle.  I missed him.
+Tao and I talked for about an hour, after which we gave each other hugs.  I felt so touch-deprived.  I wished I could be in Jonah’s arms and cuddle.  I missed him.
 
 ## Section 3
 
@@ -73,7 +73,7 @@ It had been about two weeks since Jonah and I had done that DTR, but I wasn’t 
 
 Tao suggested I go to therapy, which I agreed to do.  Not only was I dealing with grief, but I also felt a bit daunted by the reality of graduating and moving to a new place.  I felt like the connections I made at BYU were all fading away.  Even though I hung out with the group from institute like usual, I felt so lonely.  The last two months of the semester were definitely the most challenging of the school year.  I had looked forward so much to graduating.  It was my goal.  But I didn’t realize or expect how sad I’d be about it too.
 
-After a few meetings with finding a therapist, I found one I felt would be a fit for me, even if it was a 45-minute commute.  During the time that I was looking for a therapist, I was suggested by one of the therapists that I make time to grieve and to be okay with it.  The problem was that I felt like I was grieving so much during the time that I’d try to do homework or eat or do anything in general.  I didn’t want to grieve because it took me so much longer to do what I needed to do, which also made me feel overwhelmed by everything else I needed to do to not get behind.  But maybe that was the difference.  Maybe I needed to make some time, give myself compassion, and grieve.
+After a few meetings with finding a therapist, I found one I felt would be a fit for me, even if it was a 45-minute commute.  During the time that I was looking for a therapist, one of the therapists suggested that I make time to grieve and to be okay with it.  The problem was that I felt like I was grieving so much during the time that I’d try to do homework or eat or do anything in general.  I didn’t want to grieve because it took me so much longer to do what I needed to do, which also made me feel overwhelmed by everything else I needed to do to not get behind.  But maybe that was the difference.  Maybe I needed to make some time, give myself compassion, and grieve.
 
 "I don't know if I'm going to find anyone in Dallas," I said.  Gyuna and I were on the phone.
 
@@ -123,7 +123,7 @@ I was expecting to feel that same blanket of grief.  But this time, the sting wa
 
 Initially, I didn’t know how I felt about it.  Maybe I was making progress.  Time was beginning to heal the pain.  At the same time, it felt weird that I was moving on.  I _liked_ liking Jonah.  Now I felt sad that my feelings for him were beginning to fade away.
 
-Christian said he was in town for the weekend, so I visited him with Gyuna.  I was going to video call him about the whole situation, but I never got around to that.  I met with Gyuna and Christian later that night.
+Christian said he was in town for the weekend, so I visited him with Gyuna.  I was going to video call him about the whole situation, but I never did.  I met with Gyuna and Christian later that night.
 
 “He’s a cutie,” Christian said when I showed a picture of Jonah.  It seemed to be everyone's response from those I showed a picture of him.
 
@@ -135,15 +135,11 @@ Christian said he was in town for the weekend, so I visited him with Gyuna.  I w
 
 “Both of you said you wanted to be friends, right?”
 
-“Yeah.  Those were the words spoken.  I’m not sure if it’s going to be the reality.”
-
-“Calling is more direct, and you can talk about things a lot more clearly and faster than texting.  I’m not the greatest at texting.  I do a lot better with calls.”  I guess it was true that I mostly called Gyuna and Christian these days if I wanted to talk to them.
-
-“What if he doesn’t respond?” I asked.
+“Yeah.  Those were the words spoken.  I’m not sure if it’s going to be the reality.  What if he doesn’t respond?”
 
 “Then you know that he’s not going to make the effort to be your friend.  It’s going to be difficult either way.”
 
-“What would I say?”
+“What would I say?” I asked.
 
 “I don’t know.  Just talk like you’re friends.  Ask him what he’s up to, and if you want to be more direct, ask if he still wants to be friends.  If that’s what you both want, it’ll happen naturally.”
 
@@ -169,17 +165,17 @@ We talked about the past few weeks and about school for about half an hour.
 
 "I don't know...  Honestly, I don't have a good answer, and I'm sorry.  I'm really embarrassed about it, and that's totally on me for leading you on like that."
 
-After some talk, he asked if he was mad at me, and I told him about my frustrations with the lack of communication.  I felt like if he wanted to do better with dating that he should know about that.  He told me that he felt like he was still trying to figure things out and that transitioning into dating life and getting into a relationship all happened so fast.  He said he wasn't ready for anything committed.
+After some talk, he asked if he was mad at me, and I told him about my frustrations with the lack of communication.  I felt like if he wanted to do better with dating that he should know about that.  He told me that he felt like he was still trying to figure things out and that transitioning into dating life and getting into a relationship all happened so fast.  He said he wasn't ready for commitment.
 
 "Are you mad at me or have any negative feelings toward me?" I then asked.
 
-"No, I'm not mad at you,” he responded.  “I'm just really embarrassed.  I feel like when something doesn't work out, it's usually that one person or both people in the relationship don't do their part, and I feel like it was all my fault.  Again, I just need to work on myself.  I liked spending time together, but I definitely didn't communicate.  I'm so sorry.  I really am embarrassed."
+"No, I'm not mad at you,” he responded.  “I'm just really embarrassed.  I feel like when something doesn't work out, it's usually one person or both people in the relationship don't do their part, and I feel like it was all my fault.  Again, I just need to work on myself.  I liked spending time together, but I definitely didn't communicate.  I'm so sorry.  I really am embarrassed."
 
 Jonah shared a lot that I wished I had known earlier.  "Aw, if we were in person, I wish I could give you a hug," I said.
 
 "I wish I could give you a hug too."  After some more talk, he asked, "Does this give you some closure?  Is that why you wanted to call?"’
 
-"I'm glad we could talk things out.  And I'd like to be friends.  Last semester, I tried to make friends from dating apps, but it was hard.  The guys I went on dates with kinda wanted more than a friendship, so when things didn't go further, contact stopped.  I feel like everyone has different definitions of what a 'friend' is, but for me, a friend is someone who spends time with me.  I'd say my love language is quality time, so doing stuff together and talking are what I consider a friend."
+"I'm glad we could talk things out.  And I'd like to be friends.  Last semester, I tried to make friends from dating apps, but it was hard.  I feel like everyone has different definitions of what a 'friend' is, but for me, a friend is someone who spends time with me.  I'd say my love language is quality time, so doing stuff together and talking are what I consider a friend."
 
 "I want to be friends too.  I feel like we have good chemistry.  When I was in a relationship, it was socially fulfilling, but now I'm trying to make friends and that's also been fulfilling too.  And I'll definitely do better about communicating.  I still haven't planned what my schedule will be like this week, but maybe we can do something next weekend."
 
@@ -187,7 +183,7 @@ Jonah and I talked on the phone for about an hour.  "Thank you for calling me," 
 
 "I was honestly so scared," I said.  "And I honestly thought you weren't going to call back."
 
-He laughed.  "I was still asleep when you called since I went to bed at 3 in the morning, but when I saw that you called, I got really scared the entire day, so I just texted you.  But I'm really glad we talked.  And if we do bump into each other, don’t be a stranger."
+He laughed.  "When I saw that you called, I got really scared the entire day, so I just texted you.  But I'm really glad we talked.  And if we do bump into each other, don’t be a stranger."
 
 "It's good to hear from you.  Thanks for talking to me."
 
@@ -203,7 +199,7 @@ Jonah and I met the following weekend.  He and I got boba and walked around the 
 
 When I dropped him off at his place, he asked if he could give me a hug, so we hugged for a while.  The longing for the feelings of going on dates with him emerged again.  For the rest of the day, I felt heartbroken that things wouldn't work out.  In some ways, I could tell he had moved on, and I needed to catch up.
 
-At this point though, the logical side of me knew that I deserved someone better.  Even though he said he’d do better about communication, he still sucked at texting.  I tried calling him again in the middle of the week, but I could tell he didn’t sound so happy.
+At this point though, the logical side of me knew that I deserved someone better.  Even though he said he’d do better about communication, he still sucked at texting.  I tried calling him again in the middle of the week, but I could tell he didn’t sound so happy about calling.
 
 Before he got out of the car, he said he'd be down to hang out again.  I sent him an invitation to my graduation, as that probably would be the last time we’d see each other.  He replied after a few hours:
 
@@ -213,7 +209,7 @@ Before he got out of the car, he said he'd be down to hang out again.  I sent hi
 
 ```It was good being with you```
 
-Bro, stop playing with my feelings!  I was trying so hard to move on.  I wasn’t sure if I felt better that we were still keeping in contact than when we weren't keeping in contact at all.  There were times when the pain stung, but I wanted things to work out so that both of us would be happy.
+Bro, stop playing with my feelings!  I was trying so hard to move on.  Now I wasn’t sure if I felt better that we were still keeping in contact than when we weren't keeping in contact at all.  There were times when the pain stung, but I wanted things to work out so that both of us would be happy.
 
 With dating, I evaluate a guy by four characteristics: character, looks, personality, and interests.  To put things in a more realistic perspective, I sat down and did an evaluation.
 
@@ -233,28 +229,9 @@ Another thing I thought about was if I’d be proud to introduce my partner to S
 
 ## Section 5
 
-April 24, 2024.  Ever since going to therapy the past few weeks, I had talked to my therapist about being gay and Asian at BYU, my feelings for Jonah, and preparing socially and spiritually for Dallas.  I had made the observation before, but being emotionally vulnerable around my family was super difficult for me.  I didn’t feel like they were good examples to me themselves, especially President and Sister Okuda.  I could tell a difference in the way that I felt comfortable around those who knew I was gay compared to those who didn’t.  In some ways, I wished I could’ve talked about dating to the people who didn’t know I was gay, but I didn’t feel safe doing that.
-
-“How have you been emotionally vulnerable with people in general?” my therapist asked.
-
-“When I initiate things, I usually don’t feel much of a reciprocation, but when someone else initiates and makes it clear that they want to connect with me with good intentions, I make the effort to reciprocate.  That was how it was with my friend from Korea who also served in my mission.”
-
-“I know you talked about your sister being supportive of your decision to date guys.  Would you say she’s someone safe to go to?”
-
-“Yes.  But it still feels so unnatural to talk about things like that.  With my friends, I feel like I can talk about it so naturally.  With her, it takes so much effort and courage.  I wish I didn’t feel that way.”
-
-“I can sense a bit of emotion.  Can you tell me a bit more about what’s difficult or how you feel about your sister?”
-
-Oh shoot, he could tell that I was getting emotional.  I felt unmasked.  I hated getting emotional in front of people, but I couldn’t help but cry.  I cried for a couple minutes.  “I’ll miss her,” I finally said.  I took a deep breath.  “When my dad said some very hurtful things to me, it was really difficult, but my sister listened to me, and that was when I felt like she meant what she said about being supportive.  It’s so frustrating to feel like I still can’t be myself around her.”
-
-I realized in that moment that one thing I learned from President and Sister Okuda was that I didn’t want to be like them in terms of how emotionally invulnerable or black-and-white they were.  I saw how people could relate to me and felt closer to me when I was emotionally vulnerable.  And in turn, I felt more comfortable around them too.
-
-...
-
-
 April 25, 2024.  After all these years, graduation happened.  Again, I didn’t realize how sad I’d be about it, but I walked across the stage.  Yay.
 
-The next day, I was writing some of my reflection in the Music Building about my dates with Jonah.  I didn't see him at my convocation, which I wasn't sure what happened.  He never told me he wasn't going to show up.  But I wanted to say bye to him one last time.
+The next day, I was writing some of my reflection in the Music Building about my dates with Jonah.  (I didn't write this reflection in chronological order.)  I didn't see him at my convocation, which I wasn't sure what happened.  He never told me he wasn't going to show up.  But I wanted to say bye to him one last time.
 
 Why?  Cuz I was dumb and delusional.  Recollecting the memories of our dates made me want to see him again.
 
@@ -264,13 +241,13 @@ He texted me saying that he was available now, which was about 11:30 at night.  
 
 "Ask them to give you a Switch," Jonah said.
 
-I laughed.  "Actually, my sister and brother-in-law are going up to Rexburg, and they asked if I wanted my dad's Switch since I left it there."
+I laughed.  "Actually, my sister and brother-in-law are going up to Rexburg, and they're going to get my dad's Switch."
 
 "You need it.  You definitely need it."
 
 "I guess it'll keep me occupied.  I just feel like I'm in limbo though.  I'm not sure what I'm going to do.  You've got things to look forward to with going home and abroad."
 
-"You've got things to look forward to as well," he said.  "Just a couple months before things happen."
+"You've got things to look forward to as well," he said.  "Just a couple months before you're a working adult."
 
 "Yeah.  Kinda just wanna move to Dallas right now and start my job.  You said you're pretty open to move anywhere, right?"
 
@@ -318,7 +295,31 @@ The clicking of the camera brought the sting of heartbreak back, but this time, 
 
 ## Conclusion
 
-If you’ve read this far into my reflection, I thank you for the time you’ve read this.
+If you’ve read this far into my reflection, I thank you for the time you’ve read this.  If there's one thing I'd like readers to take away, it's to listen to people's stories, especially those you perceive to be different.  I've shared stories from my perspectives and experiences being in three different communities: LDS, gay, and Asian.  They are definitely not independent of each other for someone like me.  I hope that sharing my story has opened your mind to different perspectives, a reflection on your own biases, and compassion for those you may perceive to be different.
+
+I'm writing this conclusion portion of my reflection with a week left before I leave Provo.  On one hand, I'm excited for a new adventure and new opportunities.  On the other hand, I'm nervous for all of the changes that I know will happen and the changes that I may not expect to happen.
+
+From the episode I shared in Ben and Charlie's podcast, I can relate to what Ben said about how saying or doing something wrong could potentially mean getting erased or that if people saw or knew exactly how I felt or experienced that I would be silenced.  I know that I've said some things in my reflection that may have made you as a reader feel uncomfortable.  I didn't sugarcoat the pain and frustration of President Okuda's words.  I didn't sugarcoat the racism and discrimination of the gay community and the BYU community.  But this is my reality.  It's the reality of many LGBTQ children.  It's the reality of many Asian men.  And as much as I wish things could be put in a more spiritual context, reality isn't always like that.  Maybe I'll be silenced or my credibility taken away for talking about my experiences from any of those three communities, but this is how I've decided to share my story.
+
+So what am I going to do to adapt to the changes ahead?  I have somewhat of a plan.
+
+I'm still not sure how I'm going to approach people as far as my gay identity, whether it's something I should share with people or withhold.  During a talk with my therapist, he said that when one of his clients had moved into a new ward, the client asked the bishop, "I'm gay, and I plan on dating guys.  Am I welcome here?"  I think it's a wonderful idea and something I plan on doing when I get to Dallas.  That way I can figure out right off the bat who will accept me as I am.  Unforunately, I feel like that kind of support will depend on the political label of the bishop and the ward members.
+
+Deanna's parents live just outside of Dallas, and I'll be spending time with them on a camping trip for a couple weeks before I actually move there.  I've felt strongly to come out to them.  They're going to be the closest in proximity to me as far as family.  Given that Deanna's dad has two gay siblings, I feel like the conversation will go smoothly, but I guess I'll see for sure.
+
+As for my Asian identity, I hope to get to know the Asian community there.  I wish I could've been as active in getting to know the Asian community at BYU as much as I did the LGBTQ community.
+
+When I was in Seattle for vacation, I felt like I wasn't so alien.  I noticed that so many people looked like me.  Exposure to Asians and their cultures definitely makes a difference in people's perceptions of them.
+
+I absolutely loved the week I got to spend in Seattle.  I loved getting to see the spark of reconnection and didn't realize how much people remembered me from three years ago.  The family I stayed with had recorded me playing a Chopin piece while I was on my mission for a virtual Christmas party, and I asked if they could record me playing "Clair de Lune." (Which is what the music video was from the previous chapter.)  Of course I was thinking about Jonah.
+
+Speaking of Jonah, I've tried to keep in contact with him, but I don't feel much reciprocation.  He's so unresponsive.  Even though I didn't have many expectations and was skeptical, I'm still disappointed, maybe even still a bit heartbroken.  I don't see us keeping in touch when I'm in Dallas.  But even though he sucks, I don't regret the time he and I spent together.  I feel like I've learned a lot from that experience in trying to become a better person and sticking to my values.
+
+As I had said at the beginning of my reflection, most people I mention who are in the LGBTQ community are not their actual names.  Jonah's name isn't Jonah.  Tao's name also isn't Tao.  Those who know Tao know that he's a white Utah boy.  Does giving someone an Asian name help the reader envision an Asian body and the stereotypes associated with being an Asian man?  Maybe.  If Ben and Charlie had Asian bodies, would their credibility change?  I would daresay yes, unfortunately.  I'm sure that if I had a white body that my experience at BYU and being in the gay community would be very different.
+
+I got to meet Ben once in his home, and he was super approachable and easy to talk to.  I'm grateful for the pioneer he is.  He was one of the main organizers for Gather Conference, which will be held again this September.  Tao encouraged me to come back to Provo to attend it, and I'm planning on it.  The sparks of reconnection in Seattle made me realize how much I wanted to feel that again with Tao and my other institute friends.  I'm excited to see what's in store for this year's Gather Conference.
+
+I'd like to close with my testimony that I know that God knows each of us.  I know that He knows me.  He knows when I'm doing my best with what I've been given.  He's aware of my circumstances.  I'm grateful for the people I've gotten to know at BYU and the steppingstones they've been to get me to where I am today.  And I say these things in the name of Jesus Christ.  Amen.
 
 ...
 
@@ -449,4 +450,3 @@ The piano.  Holding hands in the car.  "Love is like a spark of fire."  Waking u
 [Chapter 5: A Spark of Fire](https://mokuda2.github.io/senioryearreflection/2024/04/04/A-Spark-of-Fire.html)
 
 [Chapter 6: A Glance at the Steppingstones](https://mokuda2.github.io/senioryearreflection/2024/03/03/A-Glance-at-the-Steppingstones.html)
--->

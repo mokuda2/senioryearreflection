@@ -363,7 +363,7 @@ At the end of last semester, Tao had invited me to be part of a council for the 
 
 It was also midterm season, so the workload was starting to pick up.  I still managed to make time to go on dates with other guys too.  I know I haven’t talked much about the academic and social aspects of my life, so the above is a snapshot of what it’s been like this school year.
 
-## Section 4
+## Section 5
 
 February 18, 2024.  “Oh, he’s a cutie,” Gyuna said.  I showed a picture of Jonah to her.  I guess her view didn't change from a year ago.  “I’m invested.”
 
@@ -421,7 +421,7 @@ We cuddled in the car and talked for a while.  We made plans to go clothes shopp
 
 I sighed.  “True, but it’s complicated.”  Graduation and moving to Dallas still felt pretty far away.
 
-## Section 5
+## Section 6
 
 February 20, 2024.  I asked Sister Okuda if she and I could call about some questions I had about my finances since I was taking a family finance class.  After some conversation, she told me that if I had questions that I should ask my professor or the TAs.
 
@@ -533,7 +533,7 @@ That was another reason why I didn’t think things would work out.  I felt like
 
 After about a week of painful contemplation, I knew that someone would have to bring up about summer, so I decided to be the one to do it.  The logical side of me said that things probably wouldn’t work out, but the emotional side really wanted things to work out.  I knew that it was best to talk about these kinds of matters in person.  I texted him that I wanted to talk in private the next time I’d see him.
 
-## Section 6
+## Section 7
 
 March 13, 2024.  I met Jonah at the library in the evening to do homework.  “How much stuff do you have tonight?” he asked.
 
